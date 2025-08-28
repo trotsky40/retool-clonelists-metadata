@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "NEC - PC-FX & PC-FXGA (Redump)",
-		"lastUpdated": "26 December 2023",
+		"lastUpdated": "2025-08-28 20:09",
 		"minimumVersion": "2.02"
 	},
 
@@ -60,13 +60,6 @@
 			"categories": ["Video"],
 			"titles": [
 				{"searchTerm": "AnimeFreak FX Vol. 5 (Disc 2)"}
-			]
-		},
-		{
-			"group": "AnimeFreak FX Vol. 5 (Disc 1)",
-			"categories": ["Video"],
-			"titles": [
-				{"searchTerm": "AnimeFreak FX Vol. 5 (Disc 1)"}
 			]
 		},
 		{

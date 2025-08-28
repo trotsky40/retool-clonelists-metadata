@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Philips - CD-i (Redump)",
-		"lastUpdated": "05 August 2025",
+		"lastUpdated": "2025-08-28 20:09",
 		"minimumVersion": "2.00"
 	},
 
@@ -263,7 +263,6 @@
 				{"searchTerm": "Ernte der Sonne - Vincent van Gogh"},
 				{"searchTerm": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils"},
 				{"searchTerm": "Harvest of the Sun - Vincent Van Gogh Revisited"},
-				{"searchTerm": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils"},
 				{"searchTerm": "Oogst van de Zon"},
 				{"searchTerm": "Raccolto del Sole, Il - Van Gogh"},
 				{"searchTerm": "Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh"}

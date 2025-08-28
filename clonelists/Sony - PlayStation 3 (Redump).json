@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "07 August 2025",
+		"lastUpdated": "2025-08-28 20:09",
 		"minimumVersion": "2.02"
 	},
 
@@ -81,6 +81,7 @@
 			"group": "Agarest - Generations of War",
 			"titles": [
 				{"searchTerm": "Agarest - Generations of War"},
+				{"searchTerm": "Agarest Senki"},
 				{"searchTerm": "Record of Agarest War"}
 			]
 		},
@@ -96,13 +97,6 @@
 			"titles": [
 				{"searchTerm": "Alone in the Dark"},
 				{"searchTerm": "Alone in the Dark - Inferno"}
-			]
-		},
-		{
-			"group": "Agarest - Generations of War",
-			"titles": [
-				{"searchTerm": "Agarest - Generations of War"},
-				{"searchTerm": "Agarest Senki"}
 			]
 		},
 		{
@@ -1163,11 +1157,7 @@
 			"group": "Gran Turismo 5 - Prologue Spec III",
 			"titles": [
 				{"searchTerm": "Gran Turismo 5 - Prologue Spec III"},
-				{"searchTerm": "Gran Turismo 5", "priority": 2}
-			],
-			"supersets": [
-				{"searchTerm": "Gran Turismo 5 - 2013 Edition"},
-				{"searchTerm": "Gran Turismo 5 - XL Edition", "priority": 2}
+				{"searchTerm": "Gran Turismo 5 - Prologue", "priority": 2}
 			]
 		},
 		{

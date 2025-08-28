@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DS (No-Intro)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "2025-08-28 20:09",
 		"minimumVersion": "2.02"
 	},
 
@@ -7040,13 +7040,6 @@
 			"titles": [
 				{"searchTerm": "Virtual Villagers - A New Home"},
 				{"searchTerm": "Virtual Villagers - Erschaffe dein Paradies!"}
-			]
-		},
-		{
-			"group": "Vita di Emma, La - Professione Infermiera",
-			"titles": [
-				{"searchTerm": "Vie d'Emma, La - Infirmiere de Choc"},
-				{"searchTerm": "Vita di Emma, La - Professione Infermiera"}
 			]
 		},
 		{

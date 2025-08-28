@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "05 April 2024",
+		"lastUpdated": "2025-08-28 20:09",
 		"minimumVersion": "2.02"
 	},
 
@@ -3209,8 +3209,7 @@
 			"group": "Mickey Mania 7",
 			"titles": [
 				{"searchTerm": "Mickey Mania 7"},
-				{"searchTerm": "Zhongguo Tu Baobao - China Rabbit", "priority": 2, "localNames": {"chinese (traditional)": "中國兔寶寶"}},
-				{"searchTerm": "Zhongguo Tu Baobao - China Rabbit", "priority": 3, "localNames": {"chinese (traditional)": "中國兔寶寶"}}
+				{"searchTerm": "Zhongguo Tu Baobao - China Rabbit", "priority": 2, "localNames": {"chinese (traditional)": "中國兔寶寶"}}
 			]
 		},
 		{
@@ -3973,7 +3972,6 @@
 		{
 			"group": "Rad Racer",
 			"titles": [
-				{"searchTerm": "Highway Star"},
 				{"searchTerm": "Rad Racer"},
 				{"searchTerm": "Highway Star", "priority": 2},
 				{"searchTerm": "Super Hang-On", "priority": 3}
@@ -4364,13 +4362,6 @@
 		{
 			"group": "Sheng Doushi Xingshi - Tianma Zhi Huanxiang",
 			"titles": [
-				{"searchTerm": "Sheng Doushi Xingshi - Tianma Zhi Huanxiang"},
-				{"searchTerm": "Sheng Doushi Xingshi - Beiou Tuji Pian", "priority": 2}
-			]
-		},
-		{
-			"group": "Sheng Doushi Xingshi - Tianma Zhi Huanxiang",
-			"titles" :[
 				{"searchTerm": "Sheng Doushi Xingshi - Tianma Zhi Huanxiang"},
 				{"searchTerm": "Sheng Doushi Xingshi - Shikong Doushi", "priority": 2}
 			]
@@ -4767,13 +4758,6 @@
 			]
 		},
 		{
-			"group": "Super City Tank",
-			"titles": [
-				{"searchTerm": "Super City Tank"},
-				{"searchTerm": "Super City Tank (Infinite Lives)", "priority": 2}
-			]
-		},
-		{
 			"group": "Superman - Sunsoft",
 			"titles": [
 				{"searchTerm": "Superman (Sunsoft)"}
@@ -5007,7 +4991,8 @@
 			"group": "Tank Fengyun - King Tank",
 			"titles": [
 				{"searchTerm": "Tank Fengyun - King Tank"},
-				{"searchTerm": "Super City Tank", "priority": 2}
+				{"searchTerm": "Super City Tank", "priority": 2},
+				{"searchTerm": "Super City Tank (Infinite Lives)", "priority": 3}
 			]
 		},
 		{
@@ -5315,15 +5300,6 @@
 				{"searchTerm": "Doki! Doki! Yuuenchi - Crazy Land Daisakusen"},
 				{"searchTerm": "Trolls in Crazyland, The"},
 				{"searchTerm": "Crazy Land"}
-			]
-		},
-		{
-			"group": "Turbo Magic Carpet 1001",
-			"titles": [
-				{"searchTerm": "Magic Carpet 1001"}
-			],
-			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{

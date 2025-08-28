@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "VTech - V.Smile (No-Intro)",
-		"lastUpdated": "03 December 2023",
+		"lastUpdated": "2025-08-28 20:09",
 		"minimumVersion": "2.00"
 	},
 
@@ -147,13 +147,6 @@
 				{"searchTerm": "Apprenti' pilote"},
 				{"searchTerm": "Freds Zahlen Rallye"},
 				{"searchTerm": "Learnin' Wheels"}
-			]
-		},
-		{
-			"group": "Fussball Schule",
-			"titles": [
-				{"searchTerm": "Football Club"},
-				{"searchTerm": "Fussball Schule"}
 			]
 		},
 		{

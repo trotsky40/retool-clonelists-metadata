@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "05 April 2024",
+		"lastUpdated": "2025-08-28 20:09",
 		"minimumVersion": "2.02"
 	},
 
@@ -1416,13 +1416,6 @@
 			"titles": [
 				{"searchTerm": "Pocket Monsters - Midori"},
 				{"searchTerm": "Pocket Monsters - Green Version - English Edition", "priority": 2}
-			]
-		},
-		{
-			"group": "Pocket Camera",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Pocket Camera"}
 			]
 		},
 		{
