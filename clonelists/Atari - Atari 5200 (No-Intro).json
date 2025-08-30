@@ -1,16 +1,15 @@
 {
 	"description": {
 		"name": "Atari - Atari 5200 (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Asteroids",
 			"titles": [
-				{"searchTerm": "Asteroids", "priority": 2},
-				{"searchTerm": "Asteroids (Final)"}
+				{"searchTerm": "Asteroids (Final)"},
+				{"searchTerm": "Asteroids", "priority": 2}
 			]
 		},
 		{
@@ -37,8 +36,8 @@
 		{
 			"group": "Rescue on Fractalus!",
 			"titles": [
-				{"searchTerm": "Rescue on Fractalus!"},
-				{"searchTerm": "Behind Jaggi Lines!"}
+				{"searchTerm": "Behind Jaggi Lines!"},
+				{"searchTerm": "Rescue on Fractalus!"}
 			]
 		}
 	]

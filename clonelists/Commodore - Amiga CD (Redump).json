@@ -1,21 +1,32 @@
 {
 	"description": {
 		"name": "Commodore - Amiga CD (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Aminet 5 - March 1995",
 			"titles": [
-				{"searchTerm": "Aminet 5 - March 1995", "localNames": {"english": "Aminet 5 - March 1995", "german": "Aminet CD 5 - März 1995"}}
+				{
+					"searchTerm": "Aminet 5 - March 1995",
+					"localNames": {
+						"english": "Aminet 5 - March 1995",
+						"german": "Aminet CD 5 - März 1995"
+					}
+				}
 			]
 		},
 		{
 			"group": "Aminet 6 - June 95",
 			"titles": [
-				{"searchTerm": "Aminet 6 - June 95", "localNames": {"english": "Aminet CD 6 - Juni 95", "german": "Aminet 6 - June 95"}}
+				{
+					"searchTerm": "Aminet 6 - June 95",
+					"localNames": {
+						"english": "Aminet CD 6 - Juni 95",
+						"german": "Aminet 6 - June 95"
+					}
+				}
 			]
 		},
 		{

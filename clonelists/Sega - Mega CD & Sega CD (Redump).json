@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Sega - Mega CD & Sega CD (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:41",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "A-X-101",
@@ -72,17 +71,17 @@
 			]
 		},
 		{
-			"group": "Ecco the Dolphin",
-			"titles": [
-				{"searchTerm": "Ecco the Dolphin"},
-				{"searchTerm": "Ecco the Dolphin CD (Disc 1) (Ecco the Dolphin)"}
-			]
-		},
-		{
 			"group": "Ecco - The Tides of Time",
 			"titles": [
 				{"searchTerm": "Ecco - The Tides of Time"},
 				{"searchTerm": "Ecco the Dolphin CD (Disc 2) (Ecco the Dolphin II)"}
+			]
+		},
+		{
+			"group": "Ecco the Dolphin",
+			"titles": [
+				{"searchTerm": "Ecco the Dolphin"},
+				{"searchTerm": "Ecco the Dolphin CD (Disc 1) (Ecco the Dolphin)"}
 			]
 		},
 		{
@@ -134,8 +133,12 @@
 					"searchTerm": "Make My Video - INXS",
 					"filters": [
 						{
-							"conditions": {"matchString": "Beta"},
-							"results": {"categories": ["Multimedia", "Preproduction"]}
+							"conditions": {
+								"matchString": "Beta"
+							},
+							"results": {
+								"categories": ["Multimedia", "Preproduction"]
+							}
 						}
 					]
 				}
@@ -148,8 +151,12 @@
 					"searchTerm": "Make My Video - Marky Mark and the Funky Bunch",
 					"filters": [
 						{
-							"conditions": {"matchString": "Beta"},
-							"results": {"categories": ["Multimedia", "Preproduction"]}
+							"conditions": {
+								"matchString": "Beta"
+							},
+							"results": {
+								"categories": ["Multimedia", "Preproduction"]
+							}
 						}
 					]
 				}
@@ -272,7 +279,6 @@
 				{"searchTerm": "Sega Classic Arcade Collection - Limited Edition", "priority": 2},
 				{"searchTerm": "Sega Classics Arcade Collection (4-in-1)", "priority": 2},
 				{"searchTerm": "Sega Classics Arcade Collection - Limited Edition", "priority": 2}
-
 			]
 		},
 		{
@@ -327,6 +333,13 @@
 			]
 		},
 		{
+			"group": "Sonic CD",
+			"titles": [
+				{"searchTerm": "Sonic CD"},
+				{"searchTerm": "Sonic The Hedgehog CD"}
+			]
+		},
+		{
 			"group": "Supreme Warrior (Disc 1) (Fire & Earth)",
 			"titles": [
 				{"searchTerm": "Supreme Warrior (Disc 1)"},
@@ -344,8 +357,8 @@
 				{"searchTerm": "Supreme Warrior (Disc 2) (Wind & Fang Tu)"}
 			],
 			"supersets": [
-				{"searchTerm": "Supreme Warrior (Disc 2) (Wind & Fang Tu) (Sega CD 32X)"},
-				{"searchTerm": "Supreme Warrior (Disc 2) (Mega-CD 32X)"}
+				{"searchTerm": "Supreme Warrior (Disc 2) (Mega-CD 32X)"},
+				{"searchTerm": "Supreme Warrior (Disc 2) (Wind & Fang Tu) (Sega CD 32X)"}
 			]
 		},
 		{
@@ -355,13 +368,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Surgical Strike (Sega CD 32X)"}
-			]
-		},
-		{
-			"group": "Sonic CD",
-			"titles": [
-				{"searchTerm": "Sonic CD"},
-				{"searchTerm": "Sonic The Hedgehog CD"}
 			]
 		},
 		{

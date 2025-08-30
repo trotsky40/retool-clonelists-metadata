@@ -1,19 +1,10 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:41",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
-		{
-			"group": "1943 - The Battle of Midway",
-			"titles": [
-				{"searchTerm": "1943 - The Battle of Midway"},
-				{"searchTerm": "1943 - The Battle of Valhalla"},
-				{"searchTerm": "1943"}
-			]
-		},
 		{
 			"group": "3D Block",
 			"titles": [
@@ -26,6 +17,14 @@
 			"titles": [
 				{"searchTerm": "4 Nin Uchi Mahjong"},
 				{"searchTerm": "Zhong Guo Mahjong"}
+			]
+		},
+		{
+			"group": "1943 - The Battle of Midway",
+			"titles": [
+				{"searchTerm": "1943"},
+				{"searchTerm": "1943 - The Battle of Midway"},
+				{"searchTerm": "1943 - The Battle of Valhalla"}
 			]
 		},
 		{
@@ -112,7 +111,12 @@
 			"titles": [
 				{"searchTerm": "Adventure Island"},
 				{"searchTerm": "Adventure Island Classic"},
-				{"searchTerm": "Sun Xiaomao Qihuan Dao - Kiddy Sun in Fantasia", "localNames": {"chinese (traditional)": "孫小毛 奇幻島"}},
+				{
+					"searchTerm": "Sun Xiaomao Qihuan Dao - Kiddy Sun in Fantasia",
+					"localNames": {
+						"chinese (traditional)": "孫小毛 奇幻島"
+					}
+				},
 				{"searchTerm": "Takahashi Meijin no Bouken-jima"},
 				{"searchTerm": "Sonic", "priority": 2}
 			]
@@ -130,8 +134,8 @@
 			"group": "Adventure Island II",
 			"titles": [
 				{"searchTerm": "Adventure Island II"},
-				{"searchTerm": "Takahashi Meijin no Bouken-jima II"},
 				{"searchTerm": "Adventure Island Part II, The"},
+				{"searchTerm": "Takahashi Meijin no Bouken-jima II"},
 				{"searchTerm": "Super Bros. 9", "priority": 2},
 				{"searchTerm": "Super Mario World 9", "priority": 3}
 			]
@@ -164,8 +168,12 @@
 					"searchTerm": "Adventures of Lolo",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Adventures of Lolo 2"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Adventures of Lolo 2"
+							}
 						}
 					]
 				}
@@ -261,18 +269,13 @@
 		{
 			"group": "Anhei Pohuai Shen - Diablo",
 			"titles": [
-				{"searchTerm": "Anhei Pohuai Shen - Diablo", "localNames": {"chinese (traditional)": "暗黑破坏神"}},
+				{
+					"searchTerm": "Anhei Pohuai Shen - Diablo",
+					"localNames": {
+						"chinese (traditional)": "暗黑破坏神"
+					}
+				},
 				{"searchTerm": "Huimie Zhi Shen", "priority": 2}
-			]
-		},
-		{
-			"group": "Arctic Adventure - Penguin & Seal",
-			"titles": [
-				{"searchTerm": "Arctic Adventure - Penguin & Seal"},
-				{"searchTerm": "Dong Dongnao 1"}
-			],
-			"compilations": [
-				{"searchTerm": "Mindblower Pak"}
 			]
 		},
 		{
@@ -287,6 +290,16 @@
 			"titles": [
 				{"searchTerm": "Aoshi Sanguozhi"},
 				{"searchTerm": "Sanguozhi - Zhi Aoshi Tiandi", "priority": 2}
+			]
+		},
+		{
+			"group": "Arctic Adventure - Penguin & Seal",
+			"titles": [
+				{"searchTerm": "Arctic Adventure - Penguin & Seal"},
+				{"searchTerm": "Dong Dongnao 1"}
+			],
+			"compilations": [
+				{"searchTerm": "Mindblower Pak"}
 			]
 		},
 		{
@@ -358,6 +371,18 @@
 			]
 		},
 		{
+			"group": "Balloon Monster",
+			"titles": [
+				{"searchTerm": "Balloon Monster"},
+				{"searchTerm": "Monstruo de los Globos, El"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 6 in 1"},
+				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
+			]
+		},
+		{
 			"group": "Banana Prince",
 			"titles": [
 				{"searchTerm": "Banana Prince"},
@@ -373,21 +398,14 @@
 			]
 		},
 		{
-			"group": "Balloon Monster",
-			"titles": [
-				{"searchTerm": "Balloon Monster"},
-				{"searchTerm": "Monstruo de los Globos, El"}
-			],
-			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 6 in 1"},
-				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
-			]
-		},
-		{
 			"group": "Bao Qingtian - Gedou Ban (Super Justice King)",
 			"titles": [
-				{"searchTerm": "Bao Qingtian - Gedou Ban (Super Justice King)", "localNames": {"chinese (traditional)": "新包青天Ⅱ（武鬥篇）"}}
+				{
+					"searchTerm": "Bao Qingtian - Gedou Ban (Super Justice King)",
+					"localNames": {
+						"chinese (traditional)": "新包青天Ⅱ（武鬥篇）"
+					}
+				}
 			]
 		},
 		{
@@ -474,8 +492,8 @@
 		{
 			"group": "Batman Returns",
 			"titles": [
-				{"searchTerm": "Batman Returns"},
-				{"searchTerm": "Batman III"}
+				{"searchTerm": "Batman III"},
+				{"searchTerm": "Batman Returns"}
 			]
 		},
 		{
@@ -567,16 +585,20 @@
 		{
 			"group": "Black Bass, The",
 			"titles": [
+				{"searchTerm": "Black Bass II, The"},
 				{
 					"searchTerm": "Black Bass, The",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Black Bass, The (Japan)"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Black Bass, The (Japan)"
+							}
 						}
 					]
-				},
-				{"searchTerm": "Black Bass II, The"}
+				}
 			]
 		},
 		{
@@ -739,8 +761,8 @@
 		{
 			"group": "Capcom's Gold Medal Challenge '92",
 			"titles": [
-				{"searchTerm": "Capcom's Gold Medal Challenge '92"},
-				{"searchTerm": "Capcom Barcelona '92"}
+				{"searchTerm": "Capcom Barcelona '92"},
+				{"searchTerm": "Capcom's Gold Medal Challenge '92"}
 			]
 		},
 		{
@@ -756,7 +778,13 @@
 			"group": "Captain Planet and the Planeteers",
 			"titles": [
 				{"searchTerm": "Captain Planet and the Planeteers"},
-				{"searchTerm": "Chaoren Duizhang (Super Man)", "priority": 2, "localNames": {"chinese (traditional)": "超人隊長"}}
+				{
+					"searchTerm": "Chaoren Duizhang (Super Man)",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "超人隊長"
+					}
+				}
 			]
 		},
 		{
@@ -827,7 +855,12 @@
 			"group": "Challenge of the Dragon",
 			"titles": [
 				{"searchTerm": "Challenge of the Dragon"},
-				{"searchTerm": "Shorin Musha - Chinese KungFu", "localNames": {"chinese (simplified)": "少林武者"}}
+				{
+					"searchTerm": "Shorin Musha - Chinese KungFu",
+					"localNames": {
+						"chinese (simplified)": "少林武者"
+					}
+				}
 			],
 			"compilations": [
 				{"searchTerm": "Super Cartridge Ver 9 - 3 in 1"}
@@ -883,7 +916,12 @@
 		{
 			"group": "Chengjisi Han (Genghis Khan)",
 			"titles": [
-				{"searchTerm": "Chengjisi Han (Genghis Khan)", "localNames": {"chinese (simplified)": "成吉思汗"}},
+				{
+					"searchTerm": "Chengjisi Han (Genghis Khan)",
+					"localNames": {
+						"chinese (simplified)": "成吉思汗"
+					}
+				},
 				{"searchTerm": "Datang Fengyun VI", "priority": 2}
 			]
 		},
@@ -905,12 +943,28 @@
 					"priority": 2,
 					"filters": [
 						{
-							"conditions": {"matchString": "60 pin cart", "regionOrder": {"higherRegions": ["Japan"], "lowerRegions": ["All other regions"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "60 pin cart",
+								"regionOrder": {
+									"higherRegions": ["Japan"],
+									"lowerRegions": ["All other regions"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						},
 						{
-							"conditions": {"matchString": "72 pin cart", "regionOrder": {"higherRegions": ["All other regions"], "lowerRegions": ["Japan"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "72 pin cart",
+								"regionOrder": {
+									"higherRegions": ["All other regions"],
+									"lowerRegions": ["Japan"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						}
 					]
 				}
@@ -919,9 +973,9 @@
 		{
 			"group": "Chip 'n Dale - Rescue Rangers",
 			"titles": [
+				{"searchTerm": "Chip & Dales (BA058)"},
 				{"searchTerm": "Chip 'n Dale - Rescue Rangers"},
 				{"searchTerm": "Chip to Dale no Daisakusen"},
-				{"searchTerm": "Chip & Dales (BA058)"},
 				{"searchTerm": "Super Mario & Sonic 2"}
 			]
 		},
@@ -1040,12 +1094,25 @@
 			]
 		},
 		{
+			"group": "Conquest of the Crystal Palace",
+			"titles": [
+				{"searchTerm": "Conquest of the Crystal Palace"},
+				{"searchTerm": "Matendouji"}
+			]
+		},
+		{
 			"group": "Contra",
 			"titles": [
 				{"searchTerm": "Contra"},
 				{"searchTerm": "Probotector"},
 				{"searchTerm": "Super Contra II", "priority": 2},
-				{"searchTerm": "'93 Chaoji Hun (Contra '93)", "priority": 3, "localNames": {"chinese (simplified)": "＇９３　超级魂"}}
+				{
+					"searchTerm": "'93 Chaoji Hun (Contra '93)",
+					"priority": 3,
+					"localNames": {
+						"chinese (simplified)": "＇９３　超级魂"
+					}
+				}
 			]
 		},
 		{
@@ -1053,13 +1120,6 @@
 			"titles": [
 				{"searchTerm": "Contra Force"},
 				{"searchTerm": "Super Contra 6", "priority": 2}
-			]
-		},
-		{
-			"group": "Conquest of the Crystal Palace",
-			"titles": [
-				{"searchTerm": "Conquest of the Crystal Palace"},
-				{"searchTerm": "Matendouji"}
 			]
 		},
 		{
@@ -1150,7 +1210,12 @@
 		{
 			"group": "Da Fuweng II - Shanghai Daheng (Shanghai Tycoon)",
 			"titles": [
-				{"searchTerm": "Da Fuweng II - Shanghai Daheng (Shanghai Tycoon)", "localNames": {"chinese (simplified)": "大富翁ＩＩ　－　上海大亨"}}
+				{
+					"searchTerm": "Da Fuweng II - Shanghai Daheng (Shanghai Tycoon)",
+					"localNames": {
+						"chinese (simplified)": "大富翁ＩＩ　－　上海大亨"
+					}
+				}
 			]
 		},
 		{
@@ -1207,21 +1272,21 @@
 			]
 		},
 		{
+			"group": "Death Race",
+			"titles": [
+				{"searchTerm": "Death Race"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi-15 Pack"}
+			]
+		},
+		{
 			"group": "Deathbots",
 			"titles": [
 				{"searchTerm": "Deathbots"}
 			],
 			"compilations": [
 				{"searchTerm": "Maxi 15"},
-				{"searchTerm": "Maxi-15 Pack"}
-			]
-		},
-		{
-			"group": "Death Race",
-			"titles": [
-				{"searchTerm": "Death Race"}
-			],
-			"compilations": [
 				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
@@ -1260,7 +1325,13 @@
 				{"searchTerm": "Tenchi o Kurau"},
 				{"searchTerm": "Sanguozhi - Yingjie Zhuan (Simplified)", "priority": 2},
 				{"searchTerm": "Sanguozhi - Yingjie Zhuan (Traditional)", "priority": 3},
-				{"searchTerm": "Sanguozhi - Yingjie Zhuan - Hero Legend", "priority": 4, "localNames": {"chinese (traditional)": "三國志 - 英杰傳"}},
+				{
+					"searchTerm": "Sanguozhi - Yingjie Zhuan - Hero Legend",
+					"priority": 4,
+					"localNames": {
+						"chinese (traditional)": "三國志 - 英杰傳"
+					}
+				},
 				{"searchTerm": "Tunshi Tiandi", "priority": 5}
 			]
 		},
@@ -1371,25 +1442,20 @@
 			]
 		},
 		{
-			"group": "Double Dragon",
-			"titles": [
-				{
-					"searchTerm": "Double Dragon",
-					"filters": [
-						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"localNames": {"japanese": "双截龍"}}
-						}
-					]
-
-				}
-			]
-		},
-		{
 			"group": "Dou Zhi Pinpan - Wisdom Boy",
 			"titles": [
-				{"searchTerm": "Dou Zhi Pinpan - Wisdom Boy (Unknown)", "localNames": {"chinese (traditional)": "闘智拼盤"}},
-				{"searchTerm": "Dou Zhi Pinpan - Wisdom Boy (Gamtec)", "localNames": {"chinese (traditional)": "闘智拼盤"}}
+				{
+					"searchTerm": "Dou Zhi Pinpan - Wisdom Boy (Gamtec)",
+					"localNames": {
+						"chinese (traditional)": "闘智拼盤"
+					}
+				},
+				{
+					"searchTerm": "Dou Zhi Pinpan - Wisdom Boy (Unknown)",
+					"localNames": {
+						"chinese (traditional)": "闘智拼盤"
+					}
+				}
 			]
 		},
 		{
@@ -1399,6 +1465,26 @@
 				{"searchTerm": "Double Action 53 - Volume 2 (RC.4a)", "priority": 2},
 				{"searchTerm": "Double Action 53 - Volume 2 (RC.3)", "priority": 3},
 				{"searchTerm": "Double Action 53 - Volume 2 (RC.2)", "priority": 4}
+			]
+		},
+		{
+			"group": "Double Dragon",
+			"titles": [
+				{
+					"searchTerm": "Double Dragon",
+					"filters": [
+						{
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"localNames": {
+									"japanese": "双截龍"
+								}
+							}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1435,17 +1521,15 @@
 			]
 		},
 		{
-			"group": "Dragon, The",
-			"titles": [
-				{"searchTerm": "Dragon, The"},
-				{"searchTerm": "Loxiaolong Chuanqi (The Dragon)"}
-			]
-		},
-		{
 			"group": "Dragon Ball Adventure",
 			"titles": [
 				{"searchTerm": "Dragon Ball Adventure"},
-				{"searchTerm": "Qilongzhu Da Maoxian - Dragon Ball", "localNames": {"chinese (simplified)": "七龙珠大冒险"}}
+				{
+					"searchTerm": "Qilongzhu Da Maoxian - Dragon Ball",
+					"localNames": {
+						"chinese (simplified)": "七龙珠大冒险"
+					}
+				}
 			]
 		},
 		{
@@ -1459,7 +1543,13 @@
 			"group": "Dragon Ball Z - Kyoushuu! Saiya Jin",
 			"titles": [
 				{"searchTerm": "Dragon Ball Z - Kyoushuu! Saiya Jin"},
-				{"searchTerm": "Qilongzhu - Dragon Ball", "priority": 2, "localNames": {"chinese (simplified)": "七龙珠"}},
+				{
+					"searchTerm": "Qilongzhu - Dragon Ball",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "七龙珠"
+					}
+				},
 				{"searchTerm": "Wukong Dou Ju", "priority": 3}
 			]
 		},
@@ -1468,7 +1558,13 @@
 			"titles": [
 				{"searchTerm": "Dragon Ball Z - Super Butouden 2"},
 				{"searchTerm": "Impartial Judge", "priority": 2},
-				{"searchTerm": "Fengshenbang (Myth Struggle)", "priority": 3, "localNames": {"chinese (simplified)": "封神榜"}}
+				{
+					"searchTerm": "Fengshenbang (Myth Struggle)",
+					"priority": 3,
+					"localNames": {
+						"chinese (simplified)": "封神榜"
+					}
+				}
 			]
 		},
 		{
@@ -1489,7 +1585,6 @@
 				{"searchTerm": "Qilongzhu 2 - Jizhan Freeza!!", "priority": 3},
 				{"searchTerm": "Qilongzhu 2 - Dianguang Shihuo", "priority": 4},
 				{"searchTerm": "Shenhua Jian Yun", "priority": 5}
-
 			]
 		},
 		{
@@ -1527,7 +1622,12 @@
 				{"searchTerm": "Dragon Quest"},
 				{"searchTerm": "Dragon Warrior"},
 				{"searchTerm": "Yingxiong Yuan Yi Jing Chuanqi"},
-				{"searchTerm": "Yongzhe Dou Elong IV (Dragon Quest IV)", "localNames": {"chinese (simplified)": "勇者斗恶龙　Ⅳ"}}
+				{
+					"searchTerm": "Yongzhe Dou Elong IV (Dragon Quest IV)",
+					"localNames": {
+						"chinese (simplified)": "勇者斗恶龙　Ⅳ"
+					}
+				}
 			]
 		},
 		{
@@ -1536,7 +1636,13 @@
 				{"searchTerm": "Dragon Quest II - Akuryou no Kamigami"},
 				{"searchTerm": "Dragon Warrior II"},
 				{"searchTerm": "Yongzhe Dou Elong II - Dragon Quest (980342)", "priority": 2},
-				{"searchTerm": "Yongzhe Dou Elong V - Dragon Quest (0100382)", "priority": 3, "localNames": {"chinese (simplified)": "勇者斗恶龙　Ｖ"}}
+				{
+					"searchTerm": "Yongzhe Dou Elong V - Dragon Quest (0100382)",
+					"priority": 3,
+					"localNames": {
+						"chinese (simplified)": "勇者斗恶龙　Ｖ"
+					}
+				}
 			]
 		},
 		{
@@ -1545,7 +1651,13 @@
 				{"searchTerm": "Dragon Quest III - Soshite Densetsu e..."},
 				{"searchTerm": "Dragon Warrior III"},
 				{"searchTerm": "Yongzhe Dou Elong III - Zuie Yuanyuan", "priority": 2},
-				{"searchTerm": "Yongzhe Dou Elong VI (Dragon Quest VI)", "priority": 3, "localNames": {"chinese (simplified)": "勇者斗恶龙　Ⅵ"}}
+				{
+					"searchTerm": "Yongzhe Dou Elong VI (Dragon Quest VI)",
+					"priority": 3,
+					"localNames": {
+						"chinese (simplified)": "勇者斗恶龙　Ⅵ"
+					}
+				}
 			]
 		},
 		{
@@ -1553,7 +1665,20 @@
 			"titles": [
 				{"searchTerm": "Dragon Quest IV - Michibikareshi Monotachi"},
 				{"searchTerm": "Dragon Warrior IV"},
-				{"searchTerm": "Yongzhe Dou Elong VII (Dragon Quest VII)", "priority": 2, "localNames": {"chinese (simplified)": "勇者斗恶龙　Ⅶ"}}
+				{
+					"searchTerm": "Yongzhe Dou Elong VII (Dragon Quest VII)",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "勇者斗恶龙　Ⅶ"
+					}
+				}
+			]
+		},
+		{
+			"group": "Dragon, The",
+			"titles": [
+				{"searchTerm": "Dragon, The"},
+				{"searchTerm": "Loxiaolong Chuanqi (The Dragon)"}
 			]
 		},
 		{
@@ -1656,6 +1781,13 @@
 			]
 		},
 		{
+			"group": "F1 Race",
+			"titles": [
+				{"searchTerm": "F1 Race"},
+				{"searchTerm": "F-1 Race"}
+			]
+		},
+		{
 			"group": "F-15 City War",
 			"titles": [
 				{"searchTerm": "F-15 City War"}
@@ -1666,16 +1798,14 @@
 			]
 		},
 		{
-			"group": "F1 Race",
-			"titles": [
-				{"searchTerm": "F-1 Race"},
-				{"searchTerm": "F1 Race"}
-			]
-		},
-		{
 			"group": "Falao Wang Chuanshuo (Pharaoh)",
 			"titles": [
-				{"searchTerm": "Falao Wang Chuanshuo (Pharaoh)", "localNames": {"chinese (simplified)": "法老王传说"}}
+				{
+					"searchTerm": "Falao Wang Chuanshuo (Pharaoh)",
+					"localNames": {
+						"chinese (simplified)": "法老王传说"
+					}
+				}
 			]
 		},
 		{
@@ -1768,12 +1898,28 @@
 					"priority": 2,
 					"filters": [
 						{
-							"conditions": {"matchString": "60 pin cart", "regionOrder": {"higherRegions": ["Japan"], "lowerRegions": ["All other regions"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "60 pin cart",
+								"regionOrder": {
+									"higherRegions": ["Japan"],
+									"lowerRegions": ["All other regions"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						},
 						{
-							"conditions": {"matchString": "72 pin cart", "regionOrder": {"higherRegions": ["All other regions"], "lowerRegions": ["Japan"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "72 pin cart",
+								"regionOrder": {
+									"higherRegions": ["All other regions"],
+									"lowerRegions": ["Japan"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						}
 					]
 				}
@@ -1794,7 +1940,13 @@
 		{
 			"group": "Final Fantasy - Taikong Zhanshi V",
 			"titles": [
-				{"searchTerm": "Final Fantasy - Taikong Zhanshi V", "localNames": {"chinese (simplified)": "Ｆｉｎａｌ　Ｆａｎｔａｓｙ　－　太空战士　Ｖ", "chinese (traditional)": "Ｆｉｎａｌ　Ｆａｎｔａｓｙ　－　太空戰士　Ｖ"}}
+				{
+					"searchTerm": "Final Fantasy - Taikong Zhanshi V",
+					"localNames": {
+						"chinese (simplified)": "Ｆｉｎａｌ　Ｆａｎｔａｓｙ　－　太空战士　Ｖ",
+						"chinese (traditional)": "Ｆｉｎａｌ　Ｆａｎｔａｓｙ　－　太空戰士　Ｖ"
+					}
+				}
 			]
 		},
 		{
@@ -1804,7 +1956,13 @@
 				{"searchTerm": "Diguo Shidai (Age of Empires) (0100725)", "priority": 2},
 				{"searchTerm": "Diguo Shidai (Age of Empires) (970493)", "priority": 3},
 				{"searchTerm": "Yuzhou Zhan Jiang (Space General)", "priority": 4},
-				{"searchTerm": "Xianjian Shenqu (Space General)", "priority": 5, "localNames": {"chinese (simplified)": "仙剑神曲"}}
+				{
+					"searchTerm": "Xianjian Shenqu (Space General)",
+					"priority": 5,
+					"localNames": {
+						"chinese (simplified)": "仙剑神曲"
+					}
+				}
 			],
 			"compilations": [
 				{"searchTerm": "Final Fantasy I, II", "titlePosition": 2}
@@ -1829,8 +1987,8 @@
 			"group": "Fire 'n Ice",
 			"titles": [
 				{"searchTerm": "Fire 'n Ice"},
-				{"searchTerm": "Solomon's Key 2"},
-				{"searchTerm": "Solomon no Kagi 2 - Coolmintou Kyuushutsu Sakusen"}
+				{"searchTerm": "Solomon no Kagi 2 - Coolmintou Kyuushutsu Sakusen"},
+				{"searchTerm": "Solomon's Key 2"}
 			]
 		},
 		{
@@ -1895,8 +2053,8 @@
 		{
 			"group": "Flintstones, The - The Surprise at Dinosaur Peak!",
 			"titles": [
-				{"searchTerm": "Flintstones, The - The Surprise at Dinosaur Peak!"},
-				{"searchTerm": "Flintstones, The - The Surprise at Dinosaur Peak"}
+				{"searchTerm": "Flintstones, The - The Surprise at Dinosaur Peak"},
+				{"searchTerm": "Flintstones, The - The Surprise at Dinosaur Peak!"}
 			]
 		},
 		{
@@ -1939,9 +2097,9 @@
 		{
 			"group": "Galactic Crusader",
 			"titles": [
+				{"searchTerm": "Die Bian - Incantation"},
 				{"searchTerm": "Galactic Crusader"},
-				{"searchTerm": "Papillon Gals"},
-				{"searchTerm": "Die Bian - Incantation"}
+				{"searchTerm": "Papillon Gals"}
 			],
 			"compilations": [
 				{"searchTerm": "Mindblower Pak"},
@@ -1980,18 +2138,18 @@
 			]
 		},
 		{
+			"group": "Garou Densetsu Special",
+			"titles": [
+				{"searchTerm": "Garou Densetsu Special"},
+				{"searchTerm": "Garou Densetsu Special (Gouder)"},
+				{"searchTerm": "Super Real Bout 97", "priority": 2}
+			]
+		},
+		{
 			"group": "Garry Kitchen's Battletank",
 			"titles": [
 				{"searchTerm": "Garry Kitchen's Battletank"},
 				{"searchTerm": "Battle Tank", "priority": 2}
-			]
-		},
-		{
-			"group": "Garou Densetsu Special",
-			"titles": [
-				{"searchTerm": "Garou Densetsu Special (Gouder)"},
-				{"searchTerm": "Garou Densetsu Special"},
-				{"searchTerm": "Super Real Bout 97", "priority": 2}
 			]
 		},
 		{
@@ -2061,8 +2219,8 @@
 			"group": "Goal! Two",
 			"titles": [
 				{"searchTerm": "Eric Cantona Football Challenge - Goal! 2"},
-				{"searchTerm": "Goal!!"},
-				{"searchTerm": "Goal! Two"}
+				{"searchTerm": "Goal! Two"},
+				{"searchTerm": "Goal!!"}
 			]
 		},
 		{
@@ -2193,12 +2351,28 @@
 					"priority": 2,
 					"filters": [
 						{
-							"conditions": {"matchString": "60 pin cart", "regionOrder": {"higherRegions": ["Japan"], "lowerRegions": ["All other regions"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "60 pin cart",
+								"regionOrder": {
+									"higherRegions": ["Japan"],
+									"lowerRegions": ["All other regions"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						},
 						{
-							"conditions": {"matchString": "72 pin cart", "regionOrder": {"higherRegions": ["All other regions"], "lowerRegions": ["Japan"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "72 pin cart",
+								"regionOrder": {
+									"higherRegions": ["All other regions"],
+									"lowerRegions": ["Japan"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						}
 					]
 				}
@@ -2394,8 +2568,19 @@
 		{
 			"group": "Jidu Shan En Chouji - Le Comte de Monte-Cristo",
 			"titles": [
-				{"searchTerm": "Jidu Shan En Chouji - Le Comte de Monte-Cristo (970260)", "localNames": {"chinese (traditional)": "基督山恩仇記"}},
-				{"searchTerm": "Jidu Shan En Chouji - Le Comte de Monte-Cristo (0100551)", "priority": 2, "localNames": {"chinese (traditional)": "基督山恩仇記"}}
+				{
+					"searchTerm": "Jidu Shan En Chouji - Le Comte de Monte-Cristo (970260)",
+					"localNames": {
+						"chinese (traditional)": "基督山恩仇記"
+					}
+				},
+				{
+					"searchTerm": "Jidu Shan En Chouji - Le Comte de Monte-Cristo (0100551)",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "基督山恩仇記"
+					}
+				}
 			]
 		},
 		{
@@ -2409,7 +2594,12 @@
 		{
 			"group": "JJ",
 			"titles": [
-				{"searchTerm": "JJ (Famicom 3D System)", "localNames": {"japanese": "ＪＪ とびだせ大作戦パートⅡ"}}
+				{
+					"searchTerm": "JJ (Famicom 3D System)",
+					"localNames": {
+						"japanese": "ＪＪ とびだせ大作戦パートⅡ"
+					}
+				}
 			]
 		},
 		{
@@ -2522,8 +2712,13 @@
 		{
 			"group": "Kid Icarus",
 			"titles": [
-				{"searchTerm": "Kid Icarus"},
-				{"searchTerm": "Hikari Shinwa - Palthena no Kagami", "localNames": {"japanese": "光神話 パルテナの鏡"}}
+				{
+					"searchTerm": "Hikari Shinwa - Palthena no Kagami",
+					"localNames": {
+						"japanese": "光神話 パルテナの鏡"
+					}
+				},
+				{"searchTerm": "Kid Icarus"}
 			]
 		},
 		{
@@ -2579,7 +2774,6 @@
 				{"searchTerm": "Kira Kira Star Night"},
 				{"searchTerm": "Kira Kira Star Night - Furusato Nouzei Fujimino-ban (Disc)", "priority": 2},
 				{"searchTerm": "Kira Kira Star Night AC", "priority": 3}
-
 			],
 			"supersets": [
 				{"searchTerm": "Kira Kira Star Night DX"},
@@ -2591,15 +2785,20 @@
 			"titles": [
 				{"searchTerm": "Hoshi no Kirby - Yume no Izumi no Monogatari"},
 				{"searchTerm": "Kirby's Adventure"},
-				{"searchTerm": "Wario Land 2", "localNames": {"japanese": "Ｗａｒｉｏ　Ｌａｎｄ　Ⅱ"}}
+				{
+					"searchTerm": "Wario Land 2",
+					"localNames": {
+						"japanese": "Ｗａｒｉｏ　Ｌａｎｄ　Ⅱ"
+					}
+				}
 			]
 		},
 		{
 			"group": "Kiwi Kraze - A Bird-Brained Adventure!",
 			"titles": [
+				{"searchTerm": "Kiwi Kraze (K-E3)"},
 				{"searchTerm": "Kiwi Kraze - A Bird-Brained Adventure!"},
-				{"searchTerm": "NewZealand Story, The"},
-				{"searchTerm": "Kiwi Kraze (K-E3)"}
+				{"searchTerm": "NewZealand Story, The"}
 			]
 		},
 		{
@@ -2774,8 +2973,8 @@
 			"group": "Linus Spacehead's Cosmic Crusade",
 			"titles": [
 				{"searchTerm": "Cosmic Spacehead"},
-				{"searchTerm": "Linus Spacehead's Cosmic Crusade"},
-				{"searchTerm": "Linus Spacehead"}
+				{"searchTerm": "Linus Spacehead"},
+				{"searchTerm": "Linus Spacehead's Cosmic Crusade"}
 			]
 		},
 		{
@@ -2803,13 +3002,24 @@
 		{
 			"group": "Little Mermaid, The",
 			"titles": [
-				{"searchTerm": "Little Mermaid - Ningyo Hime", "localNames": {"japanese": "リトル・マーメイド人魚姫"}},
+				{
+					"searchTerm": "Little Mermaid - Ningyo Hime",
+					"localNames": {
+						"japanese": "リトル・マーメイド人魚姫"
+					}
+				},
 				{"searchTerm": "Little Mermaid, The"},
 				{"searchTerm": "Little Mermaid, The (Electronica)"},
 				{"searchTerm": "Little Mermaid, The (Snake)", "priority": 2},
 				{"searchTerm": "Little Mermaid, The (Unknown)", "priority": 3},
 				{"searchTerm": "Malen'kaya Rusalochka", "priority": 4},
-				{"searchTerm": "Mermaid (M-U1)", "priority": 5, "localNames": {"japanese": "リトル・マーメイド人魚姫"}},
+				{
+					"searchTerm": "Mermaid (M-U1)",
+					"priority": 5,
+					"localNames": {
+						"japanese": "リトル・マーメイド人魚姫"
+					}
+				},
 				{"searchTerm": "Super Little Mamaid 2", "priority": 6}
 			]
 		},
@@ -2857,8 +3067,8 @@
 		{
 			"group": "Lizard",
 			"titles": [
-				{"searchTerm": "Lizard"},
 				{"searchTerm": "^Lizard.*?\\([0-9]{19}\\)", "nameType": "regex"},
+				{"searchTerm": "Lizard"},
 				{"searchTerm": "Lizard (2011)"}
 			]
 		},
@@ -2880,23 +3090,46 @@
 		{
 			"group": "Lupin Sansei - Pandora no Isan",
 			"titles": [
-				{"searchTerm": "Lupin Sansei - Pandora no Isan", "localNames": {"japanese": "ルパン三世　－　パンドラの遺産"}},
-				{"searchTerm": "Rayban the Third", "localNames": {"japanese": "ルパン三世　－　パンドラの遺産"}}
+				{
+					"searchTerm": "Lupin Sansei - Pandora no Isan",
+					"localNames": {
+						"japanese": "ルパン三世　－　パンドラの遺産"
+					}
+				},
+				{
+					"searchTerm": "Rayban the Third",
+					"localNames": {
+						"japanese": "ルパン三世　－　パンドラの遺産"
+					}
+				}
 			]
 		},
 		{
 			"group": "Luye Xian Zong",
 			"titles": [
-				{"searchTerm": "Luye Xian Zong (960100549)", "localNames": {"chinese (simplified)": "绿野仙踪", "chinese (traditional)": "緑野仙踪"}},
-				{"searchTerm": "Luye Xian Zong (970307)", "priority": 2, "localNames": {"chinese (simplified)": "绿野仙踪", "chinese (traditional)": "緑野仙踪"}}
+				{
+					"searchTerm": "Luye Xian Zong (960100549)",
+					"localNames": {
+						"chinese (simplified)": "绿野仙踪",
+						"chinese (traditional)": "緑野仙踪"
+					}
+				},
+				{
+					"searchTerm": "Luye Xian Zong (970307)",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "绿野仙踪",
+						"chinese (traditional)": "緑野仙踪"
+					}
+				}
 			]
 		},
 		{
 			"group": "M.C. Kids",
 			"titles": [
 				{"searchTerm": "M.C. Kids"},
-				{"searchTerm": "McDonaldland"},
-				{"searchTerm": "M.C. Mario"}
+				{"searchTerm": "M.C. Mario"},
+				{"searchTerm": "McDonaldland"}
 			]
 		},
 		{
@@ -2975,12 +3208,28 @@
 					"priority": 2,
 					"filters": [
 						{
-							"conditions": {"matchString": "60 pin cart", "regionOrder": {"higherRegions": ["Japan"], "lowerRegions": ["All other regions"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "60 pin cart",
+								"regionOrder": {
+									"higherRegions": ["Japan"],
+									"lowerRegions": ["All other regions"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						},
 						{
-							"conditions": {"matchString": "72 pin cart", "regionOrder": {"higherRegions": ["All other regions"], "lowerRegions": ["Japan"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "72 pin cart",
+								"regionOrder": {
+									"higherRegions": ["All other regions"],
+									"lowerRegions": ["Japan"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						}
 					]
 				}
@@ -3000,8 +3249,12 @@
 					"searchTerm": "Maniac Mansion",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Maniac Mansion (Japan)"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Maniac Mansion (Japan)"
+							}
 						}
 					]
 				}
@@ -3162,7 +3415,13 @@
 			"titles": [
 				{"searchTerm": "Metal Fighter"},
 				{"searchTerm": "Metal Fighter Mu"},
-				{"searchTerm": "Weilai Xiaozi - Joy Van Kid", "priority": 2, "localNames": {"chinese (simplified)": "未来小子"}}
+				{
+					"searchTerm": "Weilai Xiaozi - Joy Van Kid",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "未来小子"
+					}
+				}
 			],
 			"compilations": [
 				{"searchTerm": "Funblaster Pak"}
@@ -3209,7 +3468,13 @@
 			"group": "Mickey Mania 7",
 			"titles": [
 				{"searchTerm": "Mickey Mania 7"},
-				{"searchTerm": "Zhongguo Tu Baobao - China Rabbit", "priority": 2, "localNames": {"chinese (traditional)": "中國兔寶寶"}}
+				{
+					"searchTerm": "Zhongguo Tu Baobao - China Rabbit",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "中國兔寶寶"
+					}
+				}
 			]
 		},
 		{
@@ -3373,7 +3638,12 @@
 		{
 			"group": "Mortal Kombat II Yoko",
 			"titles": [
-				{"searchTerm": "Mortal Kombat II (Yoko)", "localNames": {"english": "Mortal Kombat Pro V"}},
+				{
+					"searchTerm": "Mortal Kombat II (Yoko)",
+					"localNames": {
+						"english": "Mortal Kombat Pro V"
+					}
+				},
 				{"searchTerm": "Mortal Kombat V Turbo - 30 People", "priority": 2},
 				{"searchTerm": "Mortal Kombat V Turbo - 30 People (ZR006)", "priority": 3},
 				{"searchTerm": "Mortal Kombat V Pro", "priority": 5}
@@ -3389,8 +3659,19 @@
 		{
 			"group": "Moshen Fashi - Demogorgon Monk",
 			"titles": [
-				{"searchTerm": "Moshen Fashi - Demogorgon Monk (TKROM)", "localNames": {"chinese (simplified)": "魔神法师"}},
-				{"searchTerm": "Moshen Fashi - Demogorgon Monk", "priority": 2, "localNames": {"chinese (simplified)": "魔神法师"}}
+				{
+					"searchTerm": "Moshen Fashi - Demogorgon Monk (TKROM)",
+					"localNames": {
+						"chinese (simplified)": "魔神法师"
+					}
+				},
+				{
+					"searchTerm": "Moshen Fashi - Demogorgon Monk",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "魔神法师"
+					}
+				}
 			]
 		},
 		{
@@ -3403,8 +3684,19 @@
 		{
 			"group": "Moyu Yingxiong Chuan - Hero on Devil Lands",
 			"titles": [
-				{"searchTerm": "Moyu Yingxiong Chuan - Hero on Devil Lands (TKROM)", "localNames": {"chinese (simplified)": "魔域英雄传"}},
-				{"searchTerm": "Moyu Yingxiong Chuan - Hero on Devil Lands", "priority": 2, "localNames": {"chinese (simplified)": "魔域英雄传"}}
+				{
+					"searchTerm": "Moyu Yingxiong Chuan - Hero on Devil Lands (TKROM)",
+					"localNames": {
+						"chinese (simplified)": "魔域英雄传"
+					}
+				},
+				{
+					"searchTerm": "Moyu Yingxiong Chuan - Hero on Devil Lands",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "魔域英雄传"
+					}
+				}
 			]
 		},
 		{
@@ -3434,7 +3726,13 @@
 			"group": "Namco Prism Zone - Dream Master",
 			"titles": [
 				{"searchTerm": "Namco Prism Zone - Dream Master"},
-				{"searchTerm": "Mengjing Zhi Wang - Dream Master", "priority": 2, "localNames": {"chinese (simplified)": "梦境之王"}}
+				{
+					"searchTerm": "Mengjing Zhi Wang - Dream Master",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "梦境之王"
+					}
+				}
 			]
 		},
 		{
@@ -3445,17 +3743,17 @@
 			]
 		},
 		{
-			"group": "Nekketsu! Street Basket - Ganbare Dunk Heroes",
-			"titles": [
-				{"searchTerm": "Nekketsu! Street Basket - Ganbare Dunk Heroes"},
-				{"searchTerm": "NBA Live 96", "priority": 2}
-			]
-		},
-		{
 			"group": "Nekketsu Kakutou Densetsu",
 			"titles": [
 				{"searchTerm": "Nekketsu Kakutou Densetsu"},
 				{"searchTerm": "Super Fighters"}
+			]
+		},
+		{
+			"group": "Nekketsu! Street Basket - Ganbare Dunk Heroes",
+			"titles": [
+				{"searchTerm": "Nekketsu! Street Basket - Ganbare Dunk Heroes"},
+				{"searchTerm": "NBA Live 96", "priority": 2}
 			]
 		},
 		{
@@ -3561,15 +3859,15 @@
 		{
 			"group": "Nobunaga's Ambition",
 			"titles": [
-				{"searchTerm": "Nobunaga's Ambition"},
-				{"searchTerm": "Nobunaga no Yabou - Zenkoku Ban"}
+				{"searchTerm": "Nobunaga no Yabou - Zenkoku Ban"},
+				{"searchTerm": "Nobunaga's Ambition"}
 			]
 		},
 		{
 			"group": "Nobunaga's Ambition II",
 			"titles": [
-				{"searchTerm": "Nobunaga's Ambition II"},
-				{"searchTerm": "Nobunaga no Yabou - Sengoku Gunyuuden"}
+				{"searchTerm": "Nobunaga no Yabou - Sengoku Gunyuuden"},
+				{"searchTerm": "Nobunaga's Ambition II"}
 			]
 		},
 		{
@@ -3590,13 +3888,6 @@
 			]
 		},
 		{
-			"group": "Ouroboros",
-			"titles": [
-				{"searchTerm": "Ouroboros"},
-				{"searchTerm": "Ouroboros (1JAM-Loop)", "priority": 2}
-			]
-		},
-		{
 			"group": "Othello",
 			"titles": [
 				{"searchTerm": "Othello"},
@@ -3604,6 +3895,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Total Funpak"}
+			]
+		},
+		{
+			"group": "Ouroboros",
+			"titles": [
+				{"searchTerm": "Ouroboros"},
+				{"searchTerm": "Ouroboros (1JAM-Loop)", "priority": 2}
 			]
 		},
 		{
@@ -3706,8 +4004,13 @@
 		{
 			"group": "Pizza Pop!",
 			"titles": [
-				{"searchTerm": "Pizza Pop!"},
-				{"searchTerm": "Mary Pizza Pop!", "localNames": {"english": "Pizza Pop! Mario"}}
+				{
+					"searchTerm": "Mary Pizza Pop!",
+					"localNames": {
+						"english": "Pizza Pop! Mario"
+					}
+				},
+				{"searchTerm": "Pizza Pop!"}
 			]
 		},
 		{
@@ -3731,8 +4034,15 @@
 					"searchTerm": "Pocahontas",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Asia"], "matchString": "Pirate"},
-							"results": {"localNames": {"english": "Pocohontos"}}
+							"conditions": {
+								"matchRegions": ["Asia"],
+								"matchString": "Pirate"
+							},
+							"results": {
+								"localNames": {
+									"english": "Pocohontos"
+								}
+							}
 						}
 					]
 				}
@@ -3768,12 +4078,28 @@
 					"priority": 2,
 					"filters": [
 						{
-							"conditions": {"matchString": "60 pin cart", "regionOrder": {"higherRegions": ["Japan"], "lowerRegions": ["All other regions"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "60 pin cart",
+								"regionOrder": {
+									"higherRegions": ["Japan"],
+									"lowerRegions": ["All other regions"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						},
 						{
-							"conditions": {"matchString": "72 pin cart", "regionOrder": {"higherRegions": ["All other regions"], "lowerRegions": ["Japan"]}},
-							"results": {"priority": 1}
+							"conditions": {
+								"matchString": "72 pin cart",
+								"regionOrder": {
+									"higherRegions": ["All other regions"],
+									"lowerRegions": ["Japan"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
 						}
 					]
 				}
@@ -3782,8 +4108,19 @@
 		{
 			"group": "Poker Jijin - The World of Card Games",
 			"titles": [
-				{"searchTerm": "Poker Jijin - The World of Card Games", "localNames": {"chinese (traditional)": "撲克集錦"}},
-				{"searchTerm": "Poker Jijin", "priority": 2, "localNames": {"chinese (traditional)": "撲克集錦"}}
+				{
+					"searchTerm": "Poker Jijin - The World of Card Games",
+					"localNames": {
+						"chinese (traditional)": "撲克集錦"
+					}
+				},
+				{
+					"searchTerm": "Poker Jijin",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "撲克集錦"
+					}
+				}
 			]
 		},
 		{
@@ -3830,8 +4167,8 @@
 		{
 			"group": "Power Soccer",
 			"titles": [
-				{"searchTerm": "Power Soccer"},
-				{"searchTerm": "FIFA 99"}
+				{"searchTerm": "FIFA 99"},
+				{"searchTerm": "Power Soccer"}
 			]
 		},
 		{
@@ -3923,9 +4260,26 @@
 		{
 			"group": "Qi Wang - Chinese Chess",
 			"titles": [
-				{"searchTerm": "Qi Wang - Chinese Chess", "localNames": {"chinese (traditional)": "棋王"}},
-				{"searchTerm": "Qi Wang - Chinese Chess (Unknown)", "priority": 2, "localNames": {"chinese (traditional)": "棋王"}},
-				{"searchTerm": "Zhongguo Xiangqi - Chinese Chese", "priority": 3, "localNames": {"chinese (traditional)": "中国象棋"}}
+				{
+					"searchTerm": "Qi Wang - Chinese Chess",
+					"localNames": {
+						"chinese (traditional)": "棋王"
+					}
+				},
+				{
+					"searchTerm": "Qi Wang - Chinese Chess (Unknown)",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "棋王"
+					}
+				},
+				{
+					"searchTerm": "Zhongguo Xiangqi - Chinese Chese",
+					"priority": 3,
+					"localNames": {
+						"chinese (traditional)": "中国象棋"
+					}
+				}
 			]
 		},
 		{
@@ -4056,8 +4410,8 @@
 		{
 			"group": "Robocco Wars",
 			"titles": [
-				{"searchTerm": "Robocco Wars"},
-				{"searchTerm": "Konami World III (K-W3)"}
+				{"searchTerm": "Konami World III (K-W3)"},
+				{"searchTerm": "Robocco Wars"}
 			]
 		},
 		{
@@ -4201,19 +4555,26 @@
 		{
 			"group": "Sanguo Zhonglie Zhuan - The Story of Three Kingdoms",
 			"titles": [
-				{"searchTerm": "Sanguo Zhonglie Zhuan - The Story of Three Kingdoms", "localNames": {"chinese (simplified)": "三国忠烈传"}},
-				{"searchTerm": "Sanguo Zhonglie Zhuan - The Story of Three Kingdoms (FS305)", "priority": 2, "localNames": {"chinese (simplified)": "三国忠烈传"}},
-				{"searchTerm": "Sanguo Taoyuan Ji - The Story of Three Kingdoms", "priority": 3, "localNames": {"chinese (simplified)": "三国桃园记"}}
-			]
-		},
-		{
-			"group": "Sanguozhi II",
-			"titles": [
-				{"searchTerm": "Sanguozhi II"},
-				{"searchTerm": "Erzhan Zhi Jingdian Zhanyi", "priority": 2},
-				{"searchTerm": "Sanguozhi - Zhi Qian Jun Po", "priority": 3},
-				{"searchTerm": "Sanguozhi II Dai", "priority": 4},
-				{"searchTerm": "Wujian Dao Fengyun", "priority": 5}
+				{
+					"searchTerm": "Sanguo Zhonglie Zhuan - The Story of Three Kingdoms",
+					"localNames": {
+						"chinese (simplified)": "三国忠烈传"
+					}
+				},
+				{
+					"searchTerm": "Sanguo Zhonglie Zhuan - The Story of Three Kingdoms (FS305)",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "三国忠烈传"
+					}
+				},
+				{
+					"searchTerm": "Sanguo Taoyuan Ji - The Story of Three Kingdoms",
+					"priority": 3,
+					"localNames": {
+						"chinese (simplified)": "三国桃园记"
+					}
+				}
 			]
 		},
 		{
@@ -4238,10 +4599,31 @@
 			]
 		},
 		{
+			"group": "Sanguozhi II",
+			"titles": [
+				{"searchTerm": "Sanguozhi II"},
+				{"searchTerm": "Erzhan Zhi Jingdian Zhanyi", "priority": 2},
+				{"searchTerm": "Sanguozhi - Zhi Qian Jun Po", "priority": 3},
+				{"searchTerm": "Sanguozhi II Dai", "priority": 4},
+				{"searchTerm": "Wujian Dao Fengyun", "priority": 5}
+			]
+		},
+		{
 			"group": "Sanshiliu Ji - The Thirty-Six Tricks",
 			"titles": [
-				{"searchTerm": "Sanshiliu Ji - The Thirty-Six Tricks (970158)", "localNames": {"chinese (traditional)": "三十六計"}},
-				{"searchTerm": "Sanshiliu Ji - The Thirty-Six Tricks", "priority": 2, "localNames": {"chinese (traditional)": "三十六計"}},
+				{
+					"searchTerm": "Sanshiliu Ji - The Thirty-Six Tricks (970158)",
+					"localNames": {
+						"chinese (traditional)": "三十六計"
+					}
+				},
+				{
+					"searchTerm": "Sanshiliu Ji - The Thirty-Six Tricks",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "三十六計"
+					}
+				},
 				{"searchTerm": "Caishen Dao", "priority": 3}
 			]
 		},
@@ -4257,8 +4639,20 @@
 			"group": "Satomi Hakkenden",
 			"titles": [
 				{"searchTerm": "Satomi Hakkenden"},
-				{"searchTerm": "Ba Bao Qizhu (EverQuest)", "priority": 2, "localNames": {"chinese (simplified)": "八宝奇珠　－　Ｅｖｅｒｑｕｅｓｔ"}},
-				{"searchTerm": "Wujin de Renwu (EverQuest)", "priority": 3, "localNames": {"chinese (simplified)": "无尽的任务　－　Ｅｖｅｒｑｕｅｓｔ"}}
+				{
+					"searchTerm": "Ba Bao Qizhu (EverQuest)",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "八宝奇珠　－　Ｅｖｅｒｑｕｅｓｔ"
+					}
+				},
+				{
+					"searchTerm": "Wujin de Renwu (EverQuest)",
+					"priority": 3,
+					"localNames": {
+						"chinese (simplified)": "无尽的任务　－　Ｅｖｅｒｑｕｅｓｔ"
+					}
+				}
 			]
 		},
 		{
@@ -4277,7 +4671,13 @@
 			"group": "SD Gundam - Gachapon Senshi 4 - NewType Story",
 			"titles": [
 				{"searchTerm": "SD Gundam - Gachapon Senshi 4 - NewType Story"},
-				{"searchTerm": "Dai-4-ji Jiqiren Daizhan (Robot War IV)", "priority": 2, "localNames": {"chinese (simplified)": "第四次机器人大战"}}
+				{
+					"searchTerm": "Dai-4-ji Jiqiren Daizhan (Robot War IV)",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "第四次机器人大战"
+					}
+				}
 			]
 		},
 		{
@@ -4347,9 +4747,20 @@
 		{
 			"group": "Shaonian Youxia - Guangming Zhi Shen",
 			"titles": [
-				{"searchTerm": "Shaonian Youxia - Guangming Zhi Shen (Young Chivalry)", "localNames": {"chinese (simplified)": "少年游侠　－　光明之神"}},
-				{"searchTerm": "Shaonian Youxia - Guangming Zhi Shen (Young Chivalry) (FS308)", "priority": 2, "localNames": {"chinese (simplified)": "少年游侠　－　光明之神"}},
-				{"searchTerm": "Jianxia Qingyuan (Coolboy) (Unl)", "priority": 3, "nameType": "regionFree"}
+				{
+					"searchTerm": "Shaonian Youxia - Guangming Zhi Shen (Young Chivalry)",
+					"localNames": {
+						"chinese (simplified)": "少年游侠　－　光明之神"
+					}
+				},
+				{
+					"searchTerm": "Shaonian Youxia - Guangming Zhi Shen (Young Chivalry) (FS308)",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "少年游侠　－　光明之神"
+					}
+				},
+				{"searchTerm": "Jianxia Qingyuan (Coolboy) (Unl)", "nameType": "regionFree", "priority": 3}
 			]
 		},
 		{
@@ -4369,8 +4780,19 @@
 		{
 			"group": "Shenghua Weiji - Bio Hazard",
 			"titles": [
-				{"searchTerm": "Shenghua Weiji - Bio Hazard (2003SR7416)", "localNames": {"chinese (traditional)": "生化危机"}},
-				{"searchTerm": "Shenghua Weiji - Bio Hazard (200314121)", "priority": 2, "localNames": {"chinese (traditional)": "生化危机"}},
+				{
+					"searchTerm": "Shenghua Weiji - Bio Hazard (2003SR7416)",
+					"localNames": {
+						"chinese (traditional)": "生化危机"
+					}
+				},
+				{
+					"searchTerm": "Shenghua Weiji - Bio Hazard (200314121)",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "生化危机"
+					}
+				},
 				{"searchTerm": "Jingwei Tianhai", "priority": 3}
 			]
 		},
@@ -4463,14 +4885,26 @@
 			"group": "Silent Assault",
 			"titles": [
 				{"searchTerm": "Silent Assault"},
-				{"searchTerm": "Tuji - Raid", "localNames": {"chinese (traditional)": "突擊"}}
+				{
+					"searchTerm": "Tuji - Raid",
+					"localNames": {
+						"chinese (traditional)": "突擊"
+					}
+				}
 			]
 		},
 		{
 			"group": "Silk Worm",
 			"titles": [
-				{"searchTerm": "Silk Worm"},
-				{"searchTerm": "Silk 2"}
+				{"searchTerm": "Silk 2"},
+				{"searchTerm": "Silk Worm"}
+			]
+		},
+		{
+			"group": "Silva Saga",
+			"titles": [
+				{"searchTerm": "Silva Saga"},
+				{"searchTerm": "Yin Baise Shajia", "priority": 2}
 			]
 		},
 		{
@@ -4480,13 +4914,6 @@
 			],
 			"compilations": [
 				{"searchTerm": "Super Cartridge Ver 7 - 4 in 1"}
-			]
-		},
-		{
-			"group": "Silva Saga",
-			"titles": [
-				{"searchTerm": "Silva Saga"},
-				{"searchTerm": "Yin Baise Shajia", "priority": 2}
 			]
 		},
 		{
@@ -4550,8 +4977,8 @@
 		{
 			"group": "Solomon's Key",
 			"titles": [
-				{"searchTerm": "Solomon's Key"},
-				{"searchTerm": "Solomon no Kagi"}
+				{"searchTerm": "Solomon no Kagi"},
+				{"searchTerm": "Solomon's Key"}
 			]
 		},
 		{
@@ -4568,7 +4995,13 @@
 				{"searchTerm": "Super Sonic 5", "priority": 2},
 				{"searchTerm": "Sonic 3D Blast 6", "priority": 3},
 				{"searchTerm": "Sonic The Hedgehog", "priority": 4},
-				{"searchTerm": "Chaosu Hanma - The Hummer", "priority": 5, "localNames": {"chinese (traditional)": "超速悍馬"}},
+				{
+					"searchTerm": "Chaosu Hanma - The Hummer",
+					"priority": 5,
+					"localNames": {
+						"chinese (traditional)": "超速悍馬"
+					}
+				},
 				{"searchTerm": "Jiqi Mao - Xiao Dingdang", "priority": 6}
 			]
 		},
@@ -4601,7 +5034,6 @@
 				{"searchTerm": "Spook-o'-tron (2023)"},
 				{"searchTerm": "Spook-o'-tron (2022)", "priority": 2},
 				{"searchTerm": "Spook-o'-tron (Backer Edition)", "priority": 3}
-
 			]
 		},
 		{
@@ -4685,6 +5117,13 @@
 			]
 		},
 		{
+			"group": "Street Fighter 2010 - The Final Fight",
+			"titles": [
+				{"searchTerm": "2010 Street Fighter"},
+				{"searchTerm": "Street Fighter 2010 - The Final Fight"}
+			]
+		},
+		{
 			"group": "Street Fighter II - The World Warrior",
 			"titles": [
 				{"searchTerm": "Street Fighter II - The World Warrior"},
@@ -4719,13 +5158,6 @@
 			]
 		},
 		{
-			"group": "Street Fighter 2010 - The Final Fight",
-			"titles": [
-				{"searchTerm": "2010 Street Fighter"},
-				{"searchTerm": "Street Fighter 2010 - The Final Fight"}
-			]
-		},
-		{
 			"group": "Street Fighter Zero 2 '97",
 			"titles": [
 				{"searchTerm": "Street Fighter Zero 2 '97"},
@@ -4755,15 +5187,6 @@
 				{"searchTerm": "Suitang Yanyi (970100587)"},
 				{"searchTerm": "Suitang Yanyi (980185)", "priority": 2},
 				{"searchTerm": "Zhonghua Yingxiong", "priority": 3}
-			]
-		},
-		{
-			"group": "Superman - Sunsoft",
-			"titles": [
-				{"searchTerm": "Superman (Sunsoft)"}
-			],
-			"supersets": [
-				{"searchTerm": "Sunman"}
 			]
 		},
 		{
@@ -4814,7 +5237,7 @@
 		},
 		{
 			"group": "Super Gun",
-			"compilations" : [
+			"compilations": [
 				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
@@ -4860,11 +5283,15 @@
 				{
 					"searchTerm": "Super Mario Bros. 2",
 					"filters": [
-                        {
-                            "conditions": {"matchString": "\\(Pirate\\)"},
-                            "results": {"group": "Super Mario Bros. 2 Pirate"}
-                        }
-                    ]
+						{
+							"conditions": {
+								"matchString": "\\(Pirate\\)"
+							},
+							"results": {
+								"group": "Super Mario Bros. 2 Pirate"
+							}
+						}
+					]
 				},
 				{"searchTerm": "Super Mario USA", "priority": 2},
 				{"searchTerm": "Super Bros. 2", "priority": 3},
@@ -4948,6 +5375,15 @@
 			]
 		},
 		{
+			"group": "Superman - Sunsoft",
+			"titles": [
+				{"searchTerm": "Superman (Sunsoft)"}
+			],
+			"supersets": [
+				{"searchTerm": "Sunman"}
+			]
+		},
+		{
 			"group": "Swords and Runes (Limited Edition)",
 			"titles": [
 				{"searchTerm": "Swords and Runes (Limited Edition)"},
@@ -4979,8 +5415,8 @@
 		{
 			"group": "Tank",
 			"titles": [
-				{"searchTerm": "Tanque"},
-				{"searchTerm": "Tank"}
+				{"searchTerm": "Tank"},
+				{"searchTerm": "Tanque"}
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
@@ -4998,8 +5434,8 @@
 		{
 			"group": "Target - Renegade",
 			"titles": [
-				{"searchTerm": "Target - Renegade"},
 				{"searchTerm": "Double Dragon IV"},
+				{"searchTerm": "Target - Renegade"},
 				{"searchTerm": "Double Dragon V - The Shadow Falls (D-N3)", "priority": 2}
 			]
 		},
@@ -5031,8 +5467,8 @@
 		{
 			"group": "Tecmo World Wrestling",
 			"titles": [
-				{"searchTerm": "Tecmo World Wrestling"},
-				{"searchTerm": "Gekitou Pro Wrestling!! - Toukon Densetsu"}
+				{"searchTerm": "Gekitou Pro Wrestling!! - Toukon Densetsu"},
+				{"searchTerm": "Tecmo World Wrestling"}
 			]
 		},
 		{
@@ -5044,8 +5480,12 @@
 					"searchTerm": "Teenage Mutant Ninja Turtles",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Teenage Mutant Ninja Turtles II - The Arcade Game"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Teenage Mutant Ninja Turtles II - The Arcade Game"
+							}
 						}
 					]
 				}
@@ -5081,17 +5521,17 @@
 			]
 		},
 		{
-			"group": "Terminator, The",
-			"titles": [
-				{"searchTerm": "Terminator, The"},
-				{"searchTerm": "T3 Terminator (A-Q3)", "priority": 2}
-			]
-		},
-		{
 			"group": "Terminator 2 - Judgment Day",
 			"titles": [
 				{"searchTerm": "Terminator 2"},
 				{"searchTerm": "Terminator 2 - Judgment Day"}
+			]
+		},
+		{
+			"group": "Terminator, The",
+			"titles": [
+				{"searchTerm": "Terminator, The"},
+				{"searchTerm": "T3 Terminator (A-Q3)", "priority": 2}
 			]
 		},
 		{
@@ -5104,17 +5544,17 @@
 			]
 		},
 		{
-			"group": "Tetris - Tengen",
-			"titles": [
-				{"searchTerm": "Tetris (Tengen)"},
-				{"searchTerm": "Super Tetris II", "priority": 2}
-			]
-		},
-		{
 			"group": "Tetris 2",
 			"titles": [
 				{"searchTerm": "Tetris 2"},
 				{"searchTerm": "Tetris Flash"}
+			]
+		},
+		{
+			"group": "Tetris - Tengen",
+			"titles": [
+				{"searchTerm": "Tetris (Tengen)"},
+				{"searchTerm": "Super Tetris II", "priority": 2}
 			]
 		},
 		{
@@ -5160,8 +5600,8 @@
 		{
 			"group": "Tiny Toon Adventures",
 			"titles": [
-				{"searchTerm": "Tiny Toon Adventures"},
 				{"searchTerm": "Super Bros. 6"},
+				{"searchTerm": "Tiny Toon Adventures"},
 				{"searchTerm": "Felix vs Jerry (F-Y2)", "priority": 2},
 				{"searchTerm": "Domkey Kong", "priority": 3},
 				{"searchTerm": "Super Mario 6 (S-M6)", "priority": 4}
@@ -5191,18 +5631,18 @@
 			]
 		},
 		{
-			"group": "Tom & Jerry - The Ultimate Game of Cat and Mouse!",
-			"titles": [
-				{"searchTerm": "Tom & Jerry"},
-				{"searchTerm": "Tom & Jerry - The Ultimate Game of Cat and Mouse!"}
-			]
-		},
-		{
 			"group": "Tom & Jerry 3",
 			"titles": [
 				{"searchTerm": "Tom & Jerry 3"},
 				{"searchTerm": "Yuanshi", "priority": 2},
 				{"searchTerm": "Yuanshi II", "priority": 3}
+			]
+		},
+		{
+			"group": "Tom & Jerry - The Ultimate Game of Cat and Mouse!",
+			"titles": [
+				{"searchTerm": "Tom & Jerry"},
+				{"searchTerm": "Tom & Jerry - The Ultimate Game of Cat and Mouse!"}
 			]
 		},
 		{
@@ -5297,9 +5737,9 @@
 		{
 			"group": "Trolls in Crazyland, The",
 			"titles": [
+				{"searchTerm": "Crazy Land"},
 				{"searchTerm": "Doki! Doki! Yuuenchi - Crazy Land Daisakusen"},
-				{"searchTerm": "Trolls in Crazyland, The"},
-				{"searchTerm": "Crazy Land"}
+				{"searchTerm": "Trolls in Crazyland, The"}
 			]
 		},
 		{
@@ -5313,8 +5753,8 @@
 			"group": "Twin Cobra",
 			"titles": [
 				{"searchTerm": "Kyuukyoku Tiger"},
-				{"searchTerm": "Twin Cobra"},
-				{"searchTerm": "Tiger (FK-C4-33)"}
+				{"searchTerm": "Tiger (FK-C4-33)"},
+				{"searchTerm": "Twin Cobra"}
 			]
 		},
 		{
@@ -5331,8 +5771,12 @@
 					"searchTerm": "Twin Eagle",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Asia"]},
-							"results": {"group": "Double Strike - Aerial Attack Force"}
+							"conditions": {
+								"matchRegions": ["Asia"]
+							},
+							"results": {
+								"group": "Double Strike - Aerial Attack Force"
+							}
 						}
 					]
 				}
@@ -5355,8 +5799,8 @@
 		{
 			"group": "Ultima - Quest of the Avatar",
 			"titles": [
-				{"searchTerm": "Ultima - Seija e no Michi"},
-				{"searchTerm": "Ultima - Quest of the Avatar"}
+				{"searchTerm": "Ultima - Quest of the Avatar"},
+				{"searchTerm": "Ultima - Seija e no Michi"}
 			]
 		},
 		{
@@ -5489,8 +5933,8 @@
 		{
 			"group": "Wario's Woods",
 			"titles": [
-				{"searchTerm": "Wario's Woods"},
-				{"searchTerm": "Wario no Mori"}
+				{"searchTerm": "Wario no Mori"},
+				{"searchTerm": "Wario's Woods"}
 			]
 		},
 		{
@@ -5518,8 +5962,8 @@
 		{
 			"group": "Windows 2000",
 			"titles": [
-				{"searchTerm": "Windows 2000"},
 				{"searchTerm": "Bravesoft Windows 2000"},
+				{"searchTerm": "Windows 2000"},
 				{"searchTerm": "SuborWin 2000", "priority": 2}
 			]
 		},
@@ -5580,18 +6024,18 @@
 			]
 		},
 		{
+			"group": "Wurm - Journey to the Center of the Earth!",
+			"titles": [
+				{"searchTerm": "Chitei Senkuu Vazolder"},
+				{"searchTerm": "Wurm - Journey to the Center of the Earth!"}
+			]
+		},
+		{
 			"group": "Wushi Hun",
 			"titles": [
 				{"searchTerm": "Wushi Hun (8 characters)"},
 				{"searchTerm": "Wushi Hun (4 characters)", "priority": 2},
 				{"searchTerm": "Samurai Shodown III", "priority": 3}
-			]
-		},
-		{
-			"group": "Wurm - Journey to the Center of the Earth!",
-			"titles": [
-				{"searchTerm": "Chitei Senkuu Vazolder"},
-				{"searchTerm": "Wurm - Journey to the Center of the Earth!"}
 			]
 		},
 		{
@@ -5625,20 +6069,20 @@
 			]
 		},
 		{
+			"group": "Xiang Shuai Chuanqi",
+			"titles": [
+				{"searchTerm": "Xiang Shuai Chuanqi"},
+				{"searchTerm": "Chuliuxiang Xin Chuan", "priority": 2},
+				{"searchTerm": "Da Xieke - Chuliuxiang", "priority": 3}
+			]
+		},
+		{
 			"group": "Xiao Mali",
 			"titles": [
 				{"searchTerm": "Xiao Mali (Nei-Hu)"},
 				{"searchTerm": "Xiao Mali", "priority": 2},
 				{"searchTerm": "Xiao Mali (Unknown)", "priority": 3},
 				{"searchTerm": "Bingo", "priority": 4}
-			]
-		},
-		{
-			"group": "Xiang Shuai Chuanqi",
-			"titles": [
-				{"searchTerm": "Xiang Shuai Chuanqi"},
-				{"searchTerm": "Chuliuxiang Xin Chuan", "priority": 2},
-				{"searchTerm": "Da Xieke - Chuliuxiang", "priority": 3}
 			]
 		},
 		{
@@ -5650,13 +6094,23 @@
 		{
 			"group": "Xitian Qujing - Journey to the West",
 			"titles": [
-				{"searchTerm": "Xitian Qujing - Journey to the West", "localNames": {"chinese (simplified)": "西天取经"}}
+				{
+					"searchTerm": "Xitian Qujing - Journey to the West",
+					"localNames": {
+						"chinese (simplified)": "西天取经"
+					}
+				}
 			]
 		},
 		{
 			"group": "Xitian Qujing II - Journey to the West",
 			"titles": [
-				{"searchTerm": "Xitian Qujing II - Journey to the West", "localNames": {"chinese (simplified)": "西天取经　Ⅱ"}}
+				{
+					"searchTerm": "Xitian Qujing II - Journey to the West",
+					"localNames": {
+						"chinese (simplified)": "西天取经　Ⅱ"
+					}
+				}
 			]
 		},
 		{
@@ -5686,7 +6140,7 @@
 			"group": "Xuanyuan Jian - Xian Zhi Yuan",
 			"titles": [
 				{"searchTerm": "Xuanyuan Jian - Xian Zhi Yuan"},
-				{"searchTerm": "Jianxia Qingyuan (Jncota) (Aftermarket) (Unl)", "priority": 2, "nameType": "regionFree"},
+				{"searchTerm": "Jianxia Qingyuan (Jncota) (Aftermarket) (Unl)", "nameType": "regionFree", "priority": 2},
 				{"searchTerm": "Zhanshen Shijie", "priority": 3}
 			]
 		},
@@ -5701,8 +6155,19 @@
 		{
 			"group": "Yang Jia Jiang - Yang's Troops",
 			"titles": [
-				{"searchTerm": "Yang Jia Jiang - Yang's Troops (970100588)", "localNames": {"chinese (simplified)": "杨家将"}},
-				{"searchTerm": "Yang Jia Jiang - Yang's Troops (980186)", "priority": 2, "localNames": {"chinese (simplified)": "杨家将"}}
+				{
+					"searchTerm": "Yang Jia Jiang - Yang's Troops (970100588)",
+					"localNames": {
+						"chinese (simplified)": "杨家将"
+					}
+				},
+				{
+					"searchTerm": "Yang Jia Jiang - Yang's Troops (980186)",
+					"priority": 2,
+					"localNames": {
+						"chinese (simplified)": "杨家将"
+					}
+				}
 			]
 		},
 		{
@@ -5725,8 +6190,18 @@
 		{
 			"group": "Yisu de Qiyuan - Youge (Ys Origin - Hugo)",
 			"titles": [
-				{"searchTerm": "Yisu de Qiyuan - Youge (Ys Origin - Hugo)", "localNames": {"chinese (simplified)": "伊苏的起源　－　尤格"}},
-				{"searchTerm": "Yisu de Qiyuan - Younika (Ys Origin - Yunica)", "localNames": {"chinese (simplified)": "伊苏的起源　－　尤妮卡"}}
+				{
+					"searchTerm": "Yisu de Qiyuan - Youge (Ys Origin - Hugo)",
+					"localNames": {
+						"chinese (simplified)": "伊苏的起源　－　尤格"
+					}
+				},
+				{
+					"searchTerm": "Yisu de Qiyuan - Younika (Ys Origin - Yunica)",
+					"localNames": {
+						"chinese (simplified)": "伊苏的起源　－　尤妮卡"
+					}
+				}
 			]
 		},
 		{
@@ -5746,7 +6221,12 @@
 		{
 			"group": "Yongzhe Dou Elong VIII (Dragon Quest VIII)",
 			"titles": [
-				{"searchTerm": "Yongzhe Dou Elong VIII (Dragon Quest VIII)", "localNames": {"chinese (simplified)": "勇者斗恶龙　Ⅷ"}}
+				{
+					"searchTerm": "Yongzhe Dou Elong VIII (Dragon Quest VIII)",
+					"localNames": {
+						"chinese (simplified)": "勇者斗恶龙　Ⅷ"
+					}
+				}
 			]
 		},
 		{
@@ -5760,8 +6240,8 @@
 		{
 			"group": "Yoshi's Cookie",
 			"titles": [
-				{"searchTerm": "Yoshi's Cookie"},
 				{"searchTerm": "Yoshi no Cookie"},
+				{"searchTerm": "Yoshi's Cookie"},
 				{"searchTerm": "Mario 12", "priority": 2}
 			]
 		},
@@ -5823,8 +6303,8 @@
 		{
 			"group": "Zippy Race",
 			"titles": [
-				{"searchTerm": "Zippy Race"},
-				{"searchTerm": "Rally"}
+				{"searchTerm": "Rally"},
+				{"searchTerm": "Zippy Race"}
 			]
 		},
 		{

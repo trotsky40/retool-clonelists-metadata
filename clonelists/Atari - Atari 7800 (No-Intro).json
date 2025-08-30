@@ -1,16 +1,15 @@
 {
 	"description": {
 		"name": "Atari - Atari 7800 (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "1942",
 			"titles": [
-				{"searchTerm": "1942", "priority": 2},
 				{"searchTerm": "1942 (Extended)"},
+				{"searchTerm": "1942", "priority": 2},
 				{"searchTerm": "1942 (Small)", "priority": 3}
 			]
 		},
@@ -38,11 +37,11 @@
 		{
 			"group": "Pac-Man Collection",
 			"titles": [
-				{"searchTerm": "Pac-Man Collection", "priority": 4},
 				{"searchTerm": "Pac-Man Collection 40th Anniversary Edition"},
 				{"searchTerm": "Pac-Man Collection - 40th Anniversary Edition"},
+				{"searchTerm": "Pac-Man Collection - Ultimate Edition (Pokey)", "priority": 2},
 				{"searchTerm": "Pac-Man Collection - Remastered Edition (TIA)", "priority": 3},
-				{"searchTerm": "Pac-Man Collection - Ultimate Edition (Pokey)", "priority": 2}
+				{"searchTerm": "Pac-Man Collection", "priority": 4}
 			]
 		},
 		{

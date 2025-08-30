@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Apple - Macintosh (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "3-D Ultra Pinball",
@@ -137,6 +136,15 @@
 			]
 		},
 		{
+			"group": "Manhole, The",
+			"titles": [
+				{"searchTerm": "Manhole, The"}
+			],
+			"supersets": [
+				{"searchTerm": "Manhole, The - CD-ROM Masterpiece Edition"}
+			]
+		},
+		{
 			"group": "Medal of Honor - Allied Assault (Disc 1)",
 			"titles": [
 				{"searchTerm": "Medal of Honor - Allied Assault (Disc 1)"}
@@ -170,15 +178,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Medal of Honor - Allied Assault - War Chest"}
-			]
-		},
-		{
-			"group": "Manhole, The",
-			"titles": [
-				{"searchTerm": "Manhole, The"}
-			],
-			"supersets": [
-				{"searchTerm": "Manhole, The - CD-ROM Masterpiece Edition"}
 			]
 		},
 		{

@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Arcade - Sega - RingEdge 2 (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Code of Joker",
@@ -22,31 +21,31 @@
 				{"searchTerm": "Maimai"}
 			],
 			"supersets": [
-				{"searchTerm": "Maimai Pink Plus (No. 1)"},
-				{"searchTerm": "Maimai Pink (No. 1)"},
-				{"searchTerm": "Maimai Orange Plus (No. 1)"},
-				{"searchTerm": "Maimai Orange (No. 1)"},
 				{"searchTerm": "Maimai Green (No. 1)"},
+				{"searchTerm": "Maimai Orange (No. 1)"},
+				{"searchTerm": "Maimai Orange Plus (No. 1)"},
+				{"searchTerm": "Maimai Pink (No. 1)"},
+				{"searchTerm": "Maimai Pink Plus (No. 1)"},
 				{"searchTerm": "Maimai Plus", "priority": 2}
 			]
 		},
 		{
 			"group": "Maimai (No. 2)",
 			"supersets": [
-				{"searchTerm": "Maimai Pink Plus (No. 2)"},
-				{"searchTerm": "Maimai Pink (No. 2)"},
-				{"searchTerm": "Maimai Orange Plus (No. 2)"},
-				{"searchTerm": "Maimai Orange (No. 2)"},
 				{"searchTerm": "Maimai Green (No. 2)"},
+				{"searchTerm": "Maimai Orange (No. 2)"},
+				{"searchTerm": "Maimai Orange Plus (No. 2)"},
+				{"searchTerm": "Maimai Pink (No. 2)"},
+				{"searchTerm": "Maimai Pink Plus (No. 2)"},
 				{"searchTerm": "Maimai Plus", "priority": 2}
 			]
 		},
 		{
 			"group": "Maimai (No. 3)",
 			"supersets": [
-				{"searchTerm": "Maimai Pink Plus (No. 3)"},
-				{"searchTerm": "Maimai Pink (No. 3)"},
 				{"searchTerm": "Maimai Orange Plus (No. 3)"},
+				{"searchTerm": "Maimai Pink (No. 3)"},
+				{"searchTerm": "Maimai Pink Plus (No. 3)"},
 				{"searchTerm": "Maimai Plus", "priority": 2}
 			]
 		}

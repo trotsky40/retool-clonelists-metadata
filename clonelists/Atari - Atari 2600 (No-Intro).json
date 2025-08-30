@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Atari - Atari 2600 (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Adventures of TRON",
@@ -24,8 +23,8 @@
 		{
 			"group": "Air-Sea Battle ~ Target Fun",
 			"titles": [
-				{"searchTerm": "Air-Sea Battle ~ Target Fun"},
-				{"searchTerm": "Air-Sea Battle"}
+				{"searchTerm": "Air-Sea Battle"},
+				{"searchTerm": "Air-Sea Battle ~ Target Fun"}
 			]
 		},
 		{
@@ -65,17 +64,17 @@
 			]
 		},
 		{
-			"group": "BASIC Programming",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "BASIC Programming"}
-			]
-		},
-		{
 			"group": "Baseball",
 			"titles": [
 				{"searchTerm": "Baseball"},
 				{"searchTerm": "Home Run ~ Baseball"}
+			]
+		},
+		{
+			"group": "BASIC Programming",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "BASIC Programming"}
 			]
 		},
 		{
@@ -260,26 +259,10 @@
 			]
 		},
 		{
-			"group": "RealSports Baseball",
-			"titles": [
-
-				{"searchTerm": "RealSports Baseball"},
-				{"searchTerm": "Super Baseball", "priority": 2}
-			]
-		},
-		{
-			"group": "IQ 180",
-			"titles": [
-				{"searchTerm": "IQ 180"},
-				{"searchTerm": "I.Q. Memory Teaser"},
-				{"searchTerm": "I.Q. 180", "priority": 2}
-			]
-		},
-		{
 			"group": "Indy 500 ~ Race",
 			"titles": [
-				{"searchTerm": "Indy 500 ~ Race"},
-				{"searchTerm": "Indy 500"}
+				{"searchTerm": "Indy 500"},
+				{"searchTerm": "Indy 500 ~ Race"}
 			]
 		},
 		{
@@ -287,6 +270,14 @@
 			"titles": [
 				{"searchTerm": "Infiltrate"},
 				{"searchTerm": "Springteufel, Die"}
+			]
+		},
+		{
+			"group": "IQ 180",
+			"titles": [
+				{"searchTerm": "I.Q. Memory Teaser"},
+				{"searchTerm": "IQ 180"},
+				{"searchTerm": "I.Q. 180", "priority": 2}
 			]
 		},
 		{
@@ -393,6 +384,13 @@
 			]
 		},
 		{
+			"group": "RealSports Baseball",
+			"titles": [
+				{"searchTerm": "RealSports Baseball"},
+				{"searchTerm": "Super Baseball", "priority": 2}
+			]
+		},
+		{
 			"group": "Rubik's Cube",
 			"titles": [
 				{"searchTerm": "Rubik's Cube"},
@@ -438,8 +436,8 @@
 		{
 			"group": "Sky Diver ~ Dare Diver",
 			"titles": [
-				{"searchTerm": "Sky Diver ~ Dare Diver"},
-				{"searchTerm": "Sky Diver"}
+				{"searchTerm": "Sky Diver"},
+				{"searchTerm": "Sky Diver ~ Dare Diver"}
 			]
 		},
 		{
@@ -467,8 +465,8 @@
 		{
 			"group": "Space War ~ Space Combat",
 			"titles": [
-				{"searchTerm": "Space War ~ Space Combat"},
-				{"searchTerm": "Space War"}
+				{"searchTerm": "Space War"},
+				{"searchTerm": "Space War ~ Space Combat"}
 			]
 		},
 		{
@@ -495,8 +493,8 @@
 		{
 			"group": "Street Racer ~ Speedway II",
 			"titles": [
-				{"searchTerm": "Street Racer ~ Speedway II"},
-				{"searchTerm": "Street Racer - Speedway II"}
+				{"searchTerm": "Street Racer - Speedway II"},
+				{"searchTerm": "Street Racer ~ Speedway II"}
 			]
 		},
 		{
@@ -516,15 +514,15 @@
 		{
 			"group": "Surround ~ Chase",
 			"titles": [
-				{"searchTerm": "Surround ~ Chase"},
-				{"searchTerm": "Surround"}
+				{"searchTerm": "Surround"},
+				{"searchTerm": "Surround ~ Chase"}
 			]
 		},
 		{
 			"group": "Tanks but No Tanks",
 			"titles": [
-				{"searchTerm": "Phantom-Panzer + Phantom Tank"},
 				{"searchTerm": "Phantom Tank"},
+				{"searchTerm": "Phantom-Panzer + Phantom Tank"},
 				{"searchTerm": "Tanks but No Tanks"}
 			]
 		},
@@ -553,8 +551,8 @@
 		{
 			"group": "Wall-Defender",
 			"titles": [
-				{"searchTerm": "Wall-Defender"},
-				{"searchTerm": "Wall Break"}
+				{"searchTerm": "Wall Break"},
+				{"searchTerm": "Wall-Defender"}
 			]
 		},
 		{

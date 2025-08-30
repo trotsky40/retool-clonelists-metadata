@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Sega - Saturn (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:41",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "3D Baseball",
@@ -23,9 +22,9 @@
 		{
 			"group": "Alone in the Dark - One-Eyed Jack's Revenge",
 			"titles": [
+				{"searchTerm": "Alone in the Dark 2"},
 				{"searchTerm": "Alone in the Dark - Jack Is Back"},
-				{"searchTerm": "Alone in the Dark - One-Eyed Jack's Revenge"},
-				{"searchTerm": "Alone in the Dark 2"}
+				{"searchTerm": "Alone in the Dark - One-Eyed Jack's Revenge"}
 			]
 		},
 		{
@@ -71,13 +70,6 @@
 			]
 		},
 		{
-			"group": "Bug!",
-			"titles": [
-				{"searchTerm": "Bug!"},
-				{"searchTerm": "Bug! Jump Shite, Funzukechatte, Petchanko"}
-			]
-		},
-		{
 			"group": "Bug Too!",
 			"titles": [
 				{"searchTerm": "Bug Too!"},
@@ -85,20 +77,17 @@
 			]
 		},
 		{
+			"group": "Bug!",
+			"titles": [
+				{"searchTerm": "Bug!"},
+				{"searchTerm": "Bug! Jump Shite, Funzukechatte, Petchanko"}
+			]
+		},
+		{
 			"group": "Center Ring Boxing",
 			"titles": [
 				{"searchTerm": "Center Ring Boxing"},
 				{"searchTerm": "Victory Boxing"}
-			]
-		},
-		{
-			"group": "Clockwork Knight - Pepperouchau's Adventure",
-			"titles": [
-				{"searchTerm": "Clockwork Knight - Pepperouchau's Adventure"},
-				{"searchTerm": "Clockwork Knight - Pepperouchau no Daibouken Joukan"}
-			],
-			"supersets": [
-				{"searchTerm": "Clockwork Knight - Pepperouchau no Fukubukuro"}
 			]
 		},
 		{
@@ -112,33 +101,43 @@
 			]
 		},
 		{
+			"group": "Clockwork Knight - Pepperouchau's Adventure",
+			"titles": [
+				{"searchTerm": "Clockwork Knight - Pepperouchau no Daibouken Joukan"},
+				{"searchTerm": "Clockwork Knight - Pepperouchau's Adventure"}
+			],
+			"supersets": [
+				{"searchTerm": "Clockwork Knight - Pepperouchau no Fukubukuro"}
+			]
+		},
+		{
 			"group": "Command & Conquer (Disc 1) (GDI Disc)",
 			"titles": [
-				{"searchTerm": "Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 1) (GDI)"},
+				{"searchTerm": "Command & Conquer (Disc 1) (GDI Disc)"},
 				{"searchTerm": "Command & Conquer (Disc 1) (GDI)"},
-				{"searchTerm": "Command & Conquer (Disc 1) (GDI Disc)"}
+				{"searchTerm": "Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 1) (GDI)"}
 			]
 		},
 		{
 			"group": "Command & Conquer (Disc 2) (NOD Disc)",
 			"titles": [
-				{"searchTerm": "Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 2) (NOD)"},
+				{"searchTerm": "Command & Conquer (Disc 2) (NOD Disc)"},
 				{"searchTerm": "Command & Conquer (Disc 2) (NOD)"},
-				{"searchTerm": "Command & Conquer (Disc 2) (NOD Disc)"}
+				{"searchTerm": "Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 2) (NOD)"}
 			]
 		},
 		{
 			"group": "Creature Shock - Special Edition (Disc 1)",
 			"titles": [
-				{"searchTerm": "Creature Shock - Special Edition (Disc 1)"},
-				{"searchTerm": "Creature Shock (Disc 1)"}
+				{"searchTerm": "Creature Shock (Disc 1)"},
+				{"searchTerm": "Creature Shock - Special Edition (Disc 1)"}
 			]
 		},
 		{
 			"group": "Creature Shock - Special Edition (Disc 2)",
 			"titles": [
-				{"searchTerm": "Creature Shock - Special Edition (Disc 2)"},
-				{"searchTerm": "Creature Shock (Disc 2)"}
+				{"searchTerm": "Creature Shock (Disc 2)"},
+				{"searchTerm": "Creature Shock - Special Edition (Disc 2)"}
 			]
 		},
 		{
@@ -151,8 +150,8 @@
 		{
 			"group": "Croc - Legend of the Gobbos",
 			"titles": [
-				{"searchTerm": "Croc! Pau-Pau Island"},
-				{"searchTerm": "Croc - Legend of the Gobbos"}
+				{"searchTerm": "Croc - Legend of the Gobbos"},
+				{"searchTerm": "Croc! Pau-Pau Island"}
 			]
 		},
 		{
@@ -272,9 +271,9 @@
 		{
 			"group": "F1 Challenge",
 			"titles": [
+				{"searchTerm": "F1 Challenge"},
 				{"searchTerm": "F-1 Challenge"},
-				{"searchTerm": "F-1 Live Information"},
-				{"searchTerm": "F1 Challenge"}
+				{"searchTerm": "F-1 Live Information"}
 			]
 		},
 		{
@@ -351,9 +350,9 @@
 		{
 			"group": "Hang-On GP",
 			"titles": [
-				{"searchTerm": "Hang-On GP"},
 				{"searchTerm": "Hang On GP '95"},
-				{"searchTerm": "Hang On GP '96"}
+				{"searchTerm": "Hang On GP '96"},
+				{"searchTerm": "Hang-On GP"}
 			]
 		},
 		{
@@ -587,22 +586,15 @@
 		{
 			"group": "NFL Quarterback Club 96",
 			"titles": [
-				{"searchTerm": "NFL Quarterback Club '96"},
-				{"searchTerm": "NFL Quarterback Club 96"}
+				{"searchTerm": "NFL Quarterback Club 96"},
+				{"searchTerm": "NFL Quarterback Club '96"}
 			]
 		},
 		{
 			"group": "NFL Quarterback Club 97",
 			"titles": [
-				{"searchTerm": "NFL Quarterback Club '97"},
-				{"searchTerm": "NFL Quarterback Club 97"}
-			]
-		},
-		{
-			"group": "NiGHTS into Dreams... (with 3D Control Pad)",
-			"titles": [
-				{"searchTerm": "NiGHTS into Dreams... (with 3D Control Pad)"},
-				{"searchTerm": "NiGHTS into Dreams...", "priority": 2}
+				{"searchTerm": "NFL Quarterback Club 97"},
+				{"searchTerm": "NFL Quarterback Club '97"}
 			]
 		},
 		{
@@ -610,6 +602,13 @@
 			"titles": [
 				{"searchTerm": "Night Warriors - Darkstalkers' Revenge"},
 				{"searchTerm": "Vampire Hunter - Darkstalkers' Revenge"}
+			]
+		},
+		{
+			"group": "NiGHTS into Dreams... (with 3D Control Pad)",
+			"titles": [
+				{"searchTerm": "NiGHTS into Dreams... (with 3D Control Pad)"},
+				{"searchTerm": "NiGHTS into Dreams...", "priority": 2}
 			]
 		},
 		{
@@ -798,17 +797,17 @@
 			]
 		},
 		{
-			"group": "Sangokushi V",
-			"titles": [
-				{"searchTerm": "Sangokushi V"},
-				{"searchTerm": "Sanguozhi V"}
-			]
-		},
-		{
 			"group": "Sangokushi Koumeiden",
 			"titles": [
 				{"searchTerm": "Sangokushi Koumeiden"},
 				{"searchTerm": "Sanguozhi Yingjiezhuan"}
+			]
+		},
+		{
+			"group": "Sangokushi V",
+			"titles": [
+				{"searchTerm": "Sangokushi V"},
+				{"searchTerm": "Sanguozhi V"}
 			]
 		},
 		{
@@ -824,8 +823,8 @@
 		{
 			"group": "Sega Worldwide Soccer '97",
 			"titles": [
-				{"searchTerm": "Sega Worldwide Soccer '97"},
 				{"searchTerm": "Sega Worldwide Soccer 97"},
+				{"searchTerm": "Sega Worldwide Soccer '97"},
 				{"searchTerm": "Victory Goal Worldwide Edition"}
 			]
 		},
@@ -844,18 +843,18 @@
 			]
 		},
 		{
-			"group": "Shinobi Legions",
-			"titles": [
-				{"searchTerm": "Shin Shinobiden"},
-				{"searchTerm": "Shinobi-X - Shin Shinobi Den"},
-				{"searchTerm": "Shinobi Legions"}
-			]
-		},
-		{
 			"group": "Shining Force III",
 			"titles": [
 				{"searchTerm": "Shining Force III"},
 				{"searchTerm": "Shining Force III - Scenario 1 - Outo no Kyoshin"}
+			]
+		},
+		{
+			"group": "Shinobi Legions",
+			"titles": [
+				{"searchTerm": "Shin Shinobiden"},
+				{"searchTerm": "Shinobi Legions"},
+				{"searchTerm": "Shinobi-X - Shin Shinobi Den"}
 			]
 		},
 		{
@@ -896,17 +895,17 @@
 			]
 		},
 		{
-			"group": "Street Fighter Alpha - Warriors' Dreams",
-			"titles": [
-				{"searchTerm": "Street Fighter Alpha - Warriors' Dreams"},
-				{"searchTerm": "Street Fighter Zero"}
-			]
-		},
-		{
 			"group": "Street Fighter Alpha 2",
 			"titles": [
 				{"searchTerm": "Street Fighter Alpha 2"},
 				{"searchTerm": "Street Fighter Zero 2"}
+			]
+		},
+		{
+			"group": "Street Fighter Alpha - Warriors' Dreams",
+			"titles": [
+				{"searchTerm": "Street Fighter Alpha - Warriors' Dreams"},
+				{"searchTerm": "Street Fighter Zero"}
 			]
 		},
 		{
@@ -1035,8 +1034,8 @@
 		{
 			"group": "Virtual Golf",
 			"titles": [
-				{"searchTerm": "Virtual Golf"},
-				{"searchTerm": "Tournament Leader"}
+				{"searchTerm": "Tournament Leader"},
+				{"searchTerm": "Virtual Golf"}
 			]
 		},
 		{

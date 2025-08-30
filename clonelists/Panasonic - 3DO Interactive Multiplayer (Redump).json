@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Panasonic - 3DO Interactive Multiplayer (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:41",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Alone in the Dark",
@@ -51,29 +50,29 @@
 		{
 			"group": "Daedalus Encounter, The (Disc 1)",
 			"titles": [
-				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 1)"},
-				{"searchTerm": "Daedalus Encounter, The (Disc 1)"}
+				{"searchTerm": "Daedalus Encounter, The (Disc 1)"},
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 1)"}
 			]
 		},
 		{
 			"group": "Daedalus Encounter, The (Disc 2)",
 			"titles": [
-				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 2)"},
-				{"searchTerm": "Daedalus Encounter, The (Disc 2)"}
+				{"searchTerm": "Daedalus Encounter, The (Disc 2)"},
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 2)"}
 			]
 		},
 		{
 			"group": "Daedalus Encounter, The (Disc 3)",
 			"titles": [
-				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 3)"},
-				{"searchTerm": "Daedalus Encounter, The (Disc 3)"}
+				{"searchTerm": "Daedalus Encounter, The (Disc 3)"},
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 3)"}
 			]
 		},
 		{
 			"group": "Daedalus Encounter, The (Disc 4)",
 			"titles": [
-				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 4)"},
-				{"searchTerm": "Daedalus Encounter, The (Disc 4)"}
+				{"searchTerm": "Daedalus Encounter, The (Disc 4)"},
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 4)"}
 			]
 		},
 		{
@@ -140,13 +139,6 @@
 			]
 		},
 		{
-			"group": "Incredible Machine, The",
-			"titles": [
-				{"searchTerm": "Incredible Machine, The"},
-				{"searchTerm": "Incredible Machine, The - Pararancho"}
-			]
-		},
-		{
 			"group": "Immercenary - Combat in a Digital World",
 			"titles": [
 				{"searchTerm": "Immercenary"},
@@ -155,11 +147,10 @@
 			]
 		},
 		{
-			"group": "John Madden Football",
+			"group": "Incredible Machine, The",
 			"titles": [
-				{"searchTerm": "John Madden Football"},
-				{"searchTerm": "John Madden NFL Football"},
-				{"searchTerm": "NFL Madden Football"}
+				{"searchTerm": "Incredible Machine, The"},
+				{"searchTerm": "Incredible Machine, The - Pararancho"}
 			]
 		},
 		{
@@ -174,6 +165,14 @@
 			"titles": [
 				{"searchTerm": "Iron Angel of the Apocalypse - The Return"},
 				{"searchTerm": "Tetsujin Returns"}
+			]
+		},
+		{
+			"group": "John Madden Football",
+			"titles": [
+				{"searchTerm": "John Madden Football"},
+				{"searchTerm": "John Madden NFL Football"},
+				{"searchTerm": "NFL Madden Football"}
 			]
 		},
 		{
@@ -244,17 +243,17 @@
 			]
 		},
 		{
-			"group": "SHADOW - War of Succession",
-			"titles": [
-				{"searchTerm": "SHADOW - War of Succession"},
-				{"searchTerm": "SHADOW Warriors"}
-			]
-		},
-		{
 			"group": "Seal of the Pharaoh",
 			"titles": [
 				{"searchTerm": "Seal of the Pharaoh"},
 				{"searchTerm": "Virtual Quest - Pharaoh no Fuuin"}
+			]
+		},
+		{
+			"group": "SHADOW - War of Succession",
+			"titles": [
+				{"searchTerm": "SHADOW - War of Succession"},
+				{"searchTerm": "SHADOW Warriors"}
 			]
 		},
 		{

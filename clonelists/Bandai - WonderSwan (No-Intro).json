@@ -1,16 +1,15 @@
 {
 	"description": {
 		"name": "Bandai - WonderSwan (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Digital Monster - Ver. WonderSwan",
 			"titles": [
-				{"searchTerm": "Digital Monster - Ver. WonderSwan"},
-				{"searchTerm": "Digimon - Ver. WonderSwan"}
+				{"searchTerm": "Digimon - Ver. WonderSwan"},
+				{"searchTerm": "Digital Monster - Ver. WonderSwan"}
 			]
 		},
 		{

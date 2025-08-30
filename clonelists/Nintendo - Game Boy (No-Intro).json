@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "A-mazing Tater",
@@ -61,8 +60,8 @@
 		{
 			"group": "Alien vs Predator - The Last of His Clan",
 			"titles": [
-				{"searchTerm": "Alien vs Predator - The Last of His Clan"},
-				{"searchTerm": "Alien vs Predator"}
+				{"searchTerm": "Alien vs Predator"},
+				{"searchTerm": "Alien vs Predator - The Last of His Clan"}
 			]
 		},
 		{
@@ -116,40 +115,17 @@
 			]
 		},
 		{
-			"group": "Bonk's Adventure",
-			"titles": [
-				{"searchTerm": "Bonk's Adventure"},
-				{"searchTerm": "B.C. Kid"},
-				{"searchTerm": "GB Genjin"}
-			],
-			"compilations": [
-				{"searchTerm": "Genjin Collection"},
-				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 2}
-			]
-		},
-		{
-			"group": "Bonk's Revenge",
-			"titles": [
-				{"searchTerm": "Bonk's Revenge"},
-				{"searchTerm": "B.C. Kid 2"},
-				{"searchTerm": "GB Genjin 2"}
-			],
-			"compilations": [
-				{"searchTerm": "Genjin Collection"}
-			]
-		},
-		{
 			"group": "Bart Simpson's Escape from Camp Deadly",
 			"titles": [
-				{"searchTerm": "Bart Simpson's Escape from Camp Deadly"},
-				{"searchTerm": "Bart no Survival Camp"}
+				{"searchTerm": "Bart no Survival Camp"},
+				{"searchTerm": "Bart Simpson's Escape from Camp Deadly"}
 			]
 		},
 		{
 			"group": "Bases Loaded",
 			"titles": [
-				{"searchTerm": "Bases Loaded"},
-				{"searchTerm": "Baseball Kids"}
+				{"searchTerm": "Baseball Kids"},
+				{"searchTerm": "Bases Loaded"}
 			]
 		},
 		{
@@ -219,8 +195,8 @@
 		{
 			"group": "Blues Brothers, The",
 			"titles": [
-				{"searchTerm": "Blues Brothers, The"},
-				{"searchTerm": "Blues Brothers"}
+				{"searchTerm": "Blues Brothers"},
+				{"searchTerm": "Blues Brothers, The"}
 			]
 		},
 		{
@@ -237,8 +213,12 @@
 					"searchTerm": "Bomberman GB",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Wario Blast Featuring Bomberman!"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Wario Blast Featuring Bomberman!"
+							}
 						}
 					]
 				}
@@ -254,11 +234,38 @@
 					"searchTerm": "Bomberman GB 2",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Bomberman GB"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Bomberman GB"
+							}
 						}
 					]
 				}
+			]
+		},
+		{
+			"group": "Bonk's Adventure",
+			"titles": [
+				{"searchTerm": "B.C. Kid"},
+				{"searchTerm": "Bonk's Adventure"},
+				{"searchTerm": "GB Genjin"}
+			],
+			"compilations": [
+				{"searchTerm": "Genjin Collection"},
+				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Bonk's Revenge",
+			"titles": [
+				{"searchTerm": "B.C. Kid 2"},
+				{"searchTerm": "Bonk's Revenge"},
+				{"searchTerm": "GB Genjin 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Genjin Collection"}
 			]
 		},
 		{
@@ -296,24 +303,15 @@
 				{"searchTerm": "Bubble Bobble"}
 			],
 			"compilations": [
-				{"searchTerm": "Taito Variety Pack"},
-				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"},
+				{"searchTerm": "Taito Variety Pack"}
 			]
 		},
 		{
 			"group": "Bubble Bobble Part 2",
 			"titles": [
-				{"searchTerm": "Bubble Bobble Part 2"},
-				{"searchTerm": "Bubble Bobble Junior"}
-			]
-		},
-		{
-			"group": "Bugs Bunny Crazy Castle, The",
-			"titles": [
-				{"searchTerm": "Bugs Bunny Crazy Castle, The"}
-			],
-			"compilations": [
-				{"searchTerm": "Bugs Bunny Collection"}
+				{"searchTerm": "Bubble Bobble Junior"},
+				{"searchTerm": "Bubble Bobble Part 2"}
 			]
 		},
 		{
@@ -324,22 +322,38 @@
 					"searchTerm": "Hugo",
 					"filters": [
 						{
-							"conditions": {"matchString": "Homebrew"},
-							"results": {"group": "Hugo (Homebrew)"}
+							"conditions": {
+								"matchString": "Homebrew"
+							},
+							"results": {
+								"group": "Hugo (Homebrew)"
+							}
 						}
 					]
-
 				},
 				{
 					"searchTerm": "Mickey Mouse",
 					"filters": [
 						{
-							"conditions" : {"matchRegions": ["Japan"]},
-							"results": {"group": "Bugs Bunny Crazy Castle, The"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Bugs Bunny Crazy Castle, The"
+							}
 						}
 					]
 				},
 				{"searchTerm": "Mickey Mouse II"}
+			],
+			"compilations": [
+				{"searchTerm": "Bugs Bunny Collection"}
+			]
+		},
+		{
+			"group": "Bugs Bunny Crazy Castle, The",
+			"titles": [
+				{"searchTerm": "Bugs Bunny Crazy Castle, The"}
 			],
 			"compilations": [
 				{"searchTerm": "Bugs Bunny Collection"}
@@ -369,8 +383,8 @@
 		{
 			"group": "Card Games",
 			"titles": [
-				{"searchTerm": "Card Games"},
-				{"searchTerm": "Card Game"}
+				{"searchTerm": "Card Game"},
+				{"searchTerm": "Card Games"}
 			]
 		},
 		{
@@ -404,8 +418,8 @@
 		{
 			"group": "Castlevania Legends",
 			"titles": [
-				{"searchTerm": "Castlevania Legends"},
-				{"searchTerm": "Akumajou Dracula - Shikkoku Taru Zensoukyoku - Dark Night Prelude"}
+				{"searchTerm": "Akumajou Dracula - Shikkoku Taru Zensoukyoku - Dark Night Prelude"},
+				{"searchTerm": "Castlevania Legends"}
 			]
 		},
 		{
@@ -423,8 +437,8 @@
 				{"searchTerm": "Taito Chase H.Q."}
 			],
 			"compilations": [
-				{"searchTerm": "Taito Variety Pack"},
-				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"},
+				{"searchTerm": "Taito Variety Pack"}
 			]
 		},
 		{
@@ -437,8 +451,8 @@
 		{
 			"group": "Choplifter II - Rescue & Survive",
 			"titles": [
-				{"searchTerm": "Choplifter II - Rescue & Survive"},
-				{"searchTerm": "Choplifter II"}
+				{"searchTerm": "Choplifter II"},
+				{"searchTerm": "Choplifter II - Rescue & Survive"}
 			]
 		},
 		{
@@ -459,15 +473,15 @@
 		{
 			"group": "Cyraid",
 			"titles": [
-				{"searchTerm": "Cyraid"},
-				{"searchTerm": "Bakuretsu Senshi Warrior"}
+				{"searchTerm": "Bakuretsu Senshi Warrior"},
+				{"searchTerm": "Cyraid"}
 			]
 		},
 		{
 			"group": "Daedalian Opus",
 			"titles": [
-				{"searchTerm": "Daedalian Opus"},
-				{"searchTerm": "Bouken! Puzzle Road"}
+				{"searchTerm": "Bouken! Puzzle Road"},
+				{"searchTerm": "Daedalian Opus"}
 			]
 		},
 		{
@@ -487,8 +501,8 @@
 		{
 			"group": "Dennis the Menace",
 			"titles": [
-				{"searchTerm": "Dennis the Menace"},
-				{"searchTerm": "Dennis"}
+				{"searchTerm": "Dennis"},
+				{"searchTerm": "Dennis the Menace"}
 			]
 		},
 		{
@@ -512,8 +526,12 @@
 					"searchTerm": "Donkey Kong Land",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Donkey Kong Land 2"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Donkey Kong Land 2"
+							}
 						}
 					]
 				},
@@ -538,8 +556,8 @@
 		{
 			"group": "Dragon's Lair - The Legend",
 			"titles": [
-				{"searchTerm": "Dragon's Lair - The Legend"},
-				{"searchTerm": "Dragon's Lair"}
+				{"searchTerm": "Dragon's Lair"},
+				{"searchTerm": "Dragon's Lair - The Legend"}
 			]
 		},
 		{
@@ -548,8 +566,8 @@
 				{"searchTerm": "Elevator Action"}
 			],
 			"compilations": [
-				{"searchTerm": "Taito Variety Pack"},
-				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"},
+				{"searchTerm": "Taito Variety Pack"}
 			]
 		},
 		{
@@ -560,8 +578,12 @@
 					"searchTerm": "Soccer",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Football International"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Football International"
+							}
 						}
 					]
 				},
@@ -571,8 +593,8 @@
 		{
 			"group": "Escape 2042 - The Truth Defenders",
 			"titles": [
-				{"searchTerm": "Escape 2042 - The Truth Defenders"},
-				{"searchTerm": "Escape 2042 - Les Defenseurs de la Verite"}
+				{"searchTerm": "Escape 2042 - Les Defenseurs de la Verite"},
+				{"searchTerm": "Escape 2042 - The Truth Defenders"}
 			]
 		},
 		{
@@ -583,13 +605,6 @@
 			]
 		},
 		{
-			"group": "F-15 Strike Eagle",
-			"titles": [
-				{"searchTerm": "F-15 Strike Eagle"},
-				{"searchTerm": "F-15 Strike Eagle II", "priority": 2}
-			]
-		},
-		{
 			"group": "F1 Pole Position",
 			"titles": [
 				{"searchTerm": "F1 Pole Position"},
@@ -597,10 +612,17 @@
 			]
 		},
 		{
+			"group": "F-15 Strike Eagle",
+			"titles": [
+				{"searchTerm": "F-15 Strike Eagle"},
+				{"searchTerm": "F-15 Strike Eagle II", "priority": 2}
+			]
+		},
+		{
 			"group": "Ferrari Grand Prix Challenge",
 			"titles": [
-				{"searchTerm": "Ferrari Grand Prix Challenge"},
-				{"searchTerm": "Ferrari"}
+				{"searchTerm": "Ferrari"},
+				{"searchTerm": "Ferrari Grand Prix Challenge"}
 			]
 		},
 		{
@@ -686,8 +708,8 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Game Boy Camera Gold"},
-				{"searchTerm": "Game Boy Camera", "priority": 2},
-				{"searchTerm": "Pocket Camera"}
+				{"searchTerm": "Pocket Camera"},
+				{"searchTerm": "Game Boy Camera", "priority": 2}
 			]
 		},
 		{
@@ -718,8 +740,12 @@
 					"searchTerm": "Game Boy Gallery",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Game & Watch Gallery"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Game & Watch Gallery"
+							}
 						}
 					]
 				}
@@ -732,8 +758,12 @@
 					"searchTerm": "Game Boy Gallery 2",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Australia"]},
-							"results": {"group": "Game & Watch Gallery"}
+							"conditions": {
+								"matchRegions": ["Australia"]
+							},
+							"results": {
+								"group": "Game & Watch Gallery"
+							}
 						}
 					]
 				}
@@ -827,16 +857,28 @@
 		{
 			"group": "Hammerin' Harry - Ghost Building Company",
 			"titles": [
+				{
+					"searchTerm": "Daiku no Gen-san - Ghost Building Company",
+					"localNames": {
+						"japanese": "大工の源さん ゴーストビルディングカンパニー"
+					}
+				},
 				{"searchTerm": "Hammerin' Harry"},
-				{"searchTerm": "Hammerin' Harry - Ghost Building Company"},
-				{"searchTerm": "Daiku no Gen-san - Ghost Building Company", "localNames": {"japanese": "大工の源さん ゴーストビルディングカンパニー"}}
+				{"searchTerm": "Hammerin' Harry - Ghost Building Company"}
 			]
 		},
 		{
 			"group": "Harvest Moon GB",
 			"titles": [
-				{"searchTerm": "Harvest Moon GB"},
-				{"searchTerm": "Bokujou Monogatari GB"}
+				{"searchTerm": "Bokujou Monogatari GB"},
+				{"searchTerm": "Harvest Moon GB"}
+			]
+		},
+		{
+			"group": "Heavyweight Championship Boxing",
+			"titles": [
+				{"searchTerm": "Boxing"},
+				{"searchTerm": "Heavyweight Championship Boxing"}
 			]
 		},
 		{
@@ -844,13 +886,6 @@
 			"titles": [
 				{"searchTerm": "Heiankyo Alien"},
 				{"searchTerm": "Heiankyou Alien"}
-			]
-		},
-		{
-			"group": "Heavyweight Championship Boxing",
-			"titles": [
-				{"searchTerm": "Heavyweight Championship Boxing"},
-				{"searchTerm": "Boxing"}
 			]
 		},
 		{
@@ -863,16 +898,8 @@
 		{
 			"group": "Indiana Jones and the Last Crusade",
 			"titles": [
-				{"searchTerm": "Indiana Jones and the Last Crusade"},
-				{"searchTerm": "Indiana Jones - Saigo no Seisen"}
-			]
-		},
-		{
-			"group": "InfoGenius Productivity Pak - Personal Organizer and Phone Book",
-			"categories": ["Applications", "Educational"],
-			"titles": [
-				{"searchTerm": "InfoGenius Productivity Pak - Personal Organizer and Phone Book"},
-				{"searchTerm": "InfoGenius Systems - Personal Organizer with Phone Book"}
+				{"searchTerm": "Indiana Jones - Saigo no Seisen"},
+				{"searchTerm": "Indiana Jones and the Last Crusade"}
 			]
 		},
 		{
@@ -911,6 +938,14 @@
 			]
 		},
 		{
+			"group": "InfoGenius Productivity Pak - Personal Organizer and Phone Book",
+			"categories": ["Applications", "Educational"],
+			"titles": [
+				{"searchTerm": "InfoGenius Productivity Pak - Personal Organizer and Phone Book"},
+				{"searchTerm": "InfoGenius Systems - Personal Organizer with Phone Book"}
+			]
+		},
+		{
 			"group": "InfoGenius Productivity Pak - Spell Checker and Calculator",
 			"categories": ["Applications", "Educational"],
 			"titles": [
@@ -941,8 +976,8 @@
 		{
 			"group": "Jimmy Connors Tennis",
 			"titles": [
-				{"searchTerm": "Jimmy Connors Tennis"},
 				{"searchTerm": "Jimmy Connors no Pro Tennis Tour"},
+				{"searchTerm": "Jimmy Connors Tennis"},
 				{"searchTerm": "Yannick Noah Tennis"}
 			]
 		},
@@ -956,8 +991,8 @@
 		{
 			"group": "Kid Dracula",
 			"titles": [
-				{"searchTerm": "Kid Dracula"},
-				{"searchTerm": "Akumajou Special - Boku Dracula-kun"}
+				{"searchTerm": "Akumajou Special - Boku Dracula-kun"},
+				{"searchTerm": "Kid Dracula"}
 			]
 		},
 		{
@@ -984,43 +1019,43 @@
 		{
 			"group": "Kirby's Block Ball",
 			"titles": [
-				{"searchTerm": "Kirby's Block Ball"},
-				{"searchTerm": "Kirby no Block Ball"}
+				{"searchTerm": "Kirby no Block Ball"},
+				{"searchTerm": "Kirby's Block Ball"}
 			]
 		},
 		{
 			"group": "Kirby's Dream Land",
 			"titles": [
-				{"searchTerm": "Kirby's Dream Land"},
-				{"searchTerm": "Hoshi no Kirby"}
+				{"searchTerm": "Hoshi no Kirby"},
+				{"searchTerm": "Kirby's Dream Land"}
 			]
 		},
 		{
 			"group": "Kirby's Dream Land 2",
 			"titles": [
-				{"searchTerm": "Kirby's Dream Land 2"},
-				{"searchTerm": "Hoshi no Kirby 2"}
+				{"searchTerm": "Hoshi no Kirby 2"},
+				{"searchTerm": "Kirby's Dream Land 2"}
 			]
 		},
 		{
 			"group": "Kirby's Pinball Land",
 			"titles": [
-				{"searchTerm": "Kirby's Pinball Land"},
-				{"searchTerm": "Kirby no Pinball"}
+				{"searchTerm": "Kirby no Pinball"},
+				{"searchTerm": "Kirby's Pinball Land"}
 			]
 		},
 		{
 			"group": "Kirby's Star Stacker",
 			"titles": [
-				{"searchTerm": "Kirby's Star Stacker"},
-				{"searchTerm": "Kirby no Kirakira Kids"}
+				{"searchTerm": "Kirby no Kirakira Kids"},
+				{"searchTerm": "Kirby's Star Stacker"}
 			]
 		},
 		{
 			"group": "Krusty's Fun House",
 			"titles": [
-				{"searchTerm": "Krusty's Fun House"},
-				{"searchTerm": "Krusty World"}
+				{"searchTerm": "Krusty World"},
+				{"searchTerm": "Krusty's Fun House"}
 			]
 		},
 		{
@@ -1052,18 +1087,18 @@
 			]
 		},
 		{
+			"group": "Legend of the River King GB",
+			"titles": [
+				{"searchTerm": "Kawa no Nushi Tsuri 3"},
+				{"searchTerm": "Legend of the River King GB"}
+			]
+		},
+		{
 			"group": "Legend of Zelda, The - Link's Awakening",
 			"titles": [
 				{"searchTerm": "Legend of Zelda, The - Link's Awakening"},
 				{"searchTerm": "Zelda no Densetsu - Yume o Miru Shima"},
 				{"searchTerm": "Legend of Zelda, The - Link's Awakening DX", "priority": 2}
-			]
-		},
-		{
-			"group": "Legend of the River King GB",
-			"titles": [
-				{"searchTerm": "Legend of the River King GB"},
-				{"searchTerm": "Kawa no Nushi Tsuri 3"}
 			]
 		},
 		{
@@ -1097,8 +1132,8 @@
 		{
 			"group": "Mario's Picross",
 			"titles": [
-				{"searchTerm": "Mario's Picross"},
-				{"searchTerm": "Mario no Picross"}
+				{"searchTerm": "Mario no Picross"},
+				{"searchTerm": "Mario's Picross"}
 			]
 		},
 		{
@@ -1174,15 +1209,15 @@
 		{
 			"group": "Mickey's Dangerous Chase",
 			"titles": [
-				{"searchTerm": "Mickey's Dangerous Chase"},
-				{"searchTerm": "Mickey's Chase"}
+				{"searchTerm": "Mickey's Chase"},
+				{"searchTerm": "Mickey's Dangerous Chase"}
 			]
 		},
 		{
 			"group": "Milon's Secret Castle",
 			"titles": [
-				{"searchTerm": "Milon's Secret Castle"},
-				{"searchTerm": "Milon no Meikyuu Kumikyoku"}
+				{"searchTerm": "Milon no Meikyuu Kumikyoku"},
+				{"searchTerm": "Milon's Secret Castle"}
 			],
 			"compilations": [
 				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 4}
@@ -1207,15 +1242,26 @@
 		{
 			"group": "Mofa Qiu - Magic Ball",
 			"titles": [
-				{"searchTerm": "Mofa Qiu - Magic Ball", "localNames": {"chinese (traditional)": "魔法球"}},
-				{"searchTerm": "Mofa Qiu - Magic Ball (Multicart Rip)", "priority": 2, "localNames": {"chinese (traditional)": "魔法球"}}
+				{
+					"searchTerm": "Mofa Qiu - Magic Ball",
+					"localNames": {
+						"chinese (traditional)": "魔法球"
+					}
+				},
+				{
+					"searchTerm": "Mofa Qiu - Magic Ball (Multicart Rip)",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "魔法球"
+					}
+				}
 			]
 		},
 		{
 			"group": "Mole Mania",
 			"titles": [
-				{"searchTerm": "Mole Mania"},
-				{"searchTerm": "Moguranya"}
+				{"searchTerm": "Moguranya"},
+				{"searchTerm": "Mole Mania"}
 			]
 		},
 		{
@@ -1268,22 +1314,22 @@
 		{
 			"group": "Mystical Ninja Starring Goemon",
 			"titles": [
-				{"searchTerm": "Mystical Ninja Starring Goemon"},
-				{"searchTerm": "Ganbare Goemon - Kurofunetou no Nazo"}
+				{"searchTerm": "Ganbare Goemon - Kurofunetou no Nazo"},
+				{"searchTerm": "Mystical Ninja Starring Goemon"}
 			]
 		},
 		{
 			"group": "Nail 'n Scale",
 			"titles": [
-				{"searchTerm": "Nail 'n Scale"},
-				{"searchTerm": "Dragon Tail"}
+				{"searchTerm": "Dragon Tail"},
+				{"searchTerm": "Nail 'n Scale"}
 			]
 		},
 		{
 			"group": "NFL Quarterback Club II",
 			"titles": [
-				{"searchTerm": "NFL Quarterback Club II"},
-				{"searchTerm": "NFL Quarterback Club '95"}
+				{"searchTerm": "NFL Quarterback Club '95"},
+				{"searchTerm": "NFL Quarterback Club II"}
 			]
 		},
 		{
@@ -1291,13 +1337,6 @@
 			"titles": [
 				{"searchTerm": "Nigel Mansell's World Championship"},
 				{"searchTerm": "Nigel Mansell's World Championship Racing", "priority": 2}
-			]
-		},
-		{
-			"group": "Nyghtmare - Betrayed",
-			"titles": [
-				{"searchTerm": "Nyghtmare - Betrayed"},
-				{"searchTerm": "Nyghtmare - Betrayed (Alpha A)", "priority": 2}
 			]
 		},
 		{
@@ -1342,22 +1381,29 @@
 		{
 			"group": "Nintendo World Cup",
 			"titles": [
-				{"searchTerm": "Nintendo World Cup"},
-				{"searchTerm": "Nekketsu Koukou Soccer-bu - World Cup Hen"}
+				{"searchTerm": "Nekketsu Koukou Soccer-bu - World Cup Hen"},
+				{"searchTerm": "Nintendo World Cup"}
 			]
 		},
 		{
 			"group": "Nobunaga's Ambition",
 			"titles": [
-				{"searchTerm": "Nobunaga's Ambition"},
-				{"searchTerm": "Nobunaga no Yabou - Game Boy Ban"}
+				{"searchTerm": "Nobunaga no Yabou - Game Boy Ban"},
+				{"searchTerm": "Nobunaga's Ambition"}
+			]
+		},
+		{
+			"group": "Nyghtmare - Betrayed",
+			"titles": [
+				{"searchTerm": "Nyghtmare - Betrayed"},
+				{"searchTerm": "Nyghtmare - Betrayed (Alpha A)", "priority": 2}
 			]
 		},
 		{
 			"group": "Operation C",
 			"titles": [
-				{"searchTerm": "Operation C"},
 				{"searchTerm": "Contra"},
+				{"searchTerm": "Operation C"},
 				{"searchTerm": "Probotector"}
 			]
 		},
@@ -1392,8 +1438,8 @@
 		{
 			"group": "Penguin Wars",
 			"titles": [
-				{"searchTerm": "Penguin Wars"},
 				{"searchTerm": "King of the Zoo"},
+				{"searchTerm": "Penguin Wars"},
 				{"searchTerm": "Penguin-kun Wars VS."}
 			]
 		},
@@ -1407,8 +1453,8 @@
 		{
 			"group": "Pinball - Revenge of the 'Gator",
 			"titles": [
-				{"searchTerm": "Pinball - Revenge of the 'Gator"},
-				{"searchTerm": "Pinball - 66hiki no Wani Daikoushin!"}
+				{"searchTerm": "Pinball - 66hiki no Wani Daikoushin!"},
+				{"searchTerm": "Pinball - Revenge of the 'Gator"}
 			]
 		},
 		{
@@ -1428,9 +1474,9 @@
 		{
 			"group": "Pokemon - Blue Version",
 			"titles": [
-				{"searchTerm": "Pokemon - Blue Version"},
 				{"searchTerm": "Pocket Monsters - Ao"},
 				{"searchTerm": "Pokemon - Blaue Edition"},
+				{"searchTerm": "Pokemon - Blue Version"},
 				{"searchTerm": "Pokemon - Edicion Azul"},
 				{"searchTerm": "Pokemon - Version Bleue"},
 				{"searchTerm": "Pokemon - Versione Blu"}
@@ -1439,9 +1485,9 @@
 		{
 			"group": "Pokemon - Red Version",
 			"titles": [
-				{"searchTerm": "Pokemon - Red Version"},
 				{"searchTerm": "Pocket Monsters - Aka"},
 				{"searchTerm": "Pokemon - Edicion Roja"},
+				{"searchTerm": "Pokemon - Red Version"},
 				{"searchTerm": "Pokemon - Rote Edition"},
 				{"searchTerm": "Pokemon - Version Rouge"},
 				{"searchTerm": "Pokemon - Versione Rossa"}
@@ -1450,12 +1496,12 @@
 		{
 			"group": "Pokemon - Yellow Version - Special Pikachu Edition",
 			"titles": [
-				{"searchTerm": "Pokemon - Yellow Version - Special Pikachu Edition"},
 				{"searchTerm": "Pocket Monsters - Pikachu"},
 				{"searchTerm": "Pokemon - Edicion Amarilla - Edicion Especial Pikachu"},
 				{"searchTerm": "Pokemon - Gelbe Edition - Special Pikachu Edition"},
 				{"searchTerm": "Pokemon - Version Jaune - Edition Speciale Pikachu"},
-				{"searchTerm": "Pokemon - Versione Gialla - Speciale Edizione Pikachu"}
+				{"searchTerm": "Pokemon - Versione Gialla - Speciale Edizione Pikachu"},
+				{"searchTerm": "Pokemon - Yellow Version - Special Pikachu Edition"}
 			]
 		},
 		{
@@ -1475,15 +1521,15 @@
 		{
 			"group": "Power Racer",
 			"titles": [
-				{"searchTerm": "Power Racer"},
-				{"searchTerm": "Head On"}
+				{"searchTerm": "Head On"},
+				{"searchTerm": "Power Racer"}
 			]
 		},
 		{
 			"group": "Prehistorik Man",
 			"titles": [
-				{"searchTerm": "Prehistorik Man"},
-				{"searchTerm": "P-Man GB"}
+				{"searchTerm": "P-Man GB"},
+				{"searchTerm": "Prehistorik Man"}
 			]
 		},
 		{
@@ -1505,23 +1551,23 @@
 		{
 			"group": "Radar Mission",
 			"titles": [
-				{"searchTerm": "Radar Mission"},
-				{"searchTerm": "Kaisen Game - Radarmission"}
+				{"searchTerm": "Kaisen Game - Radarmission"},
+				{"searchTerm": "Radar Mission"}
 			]
 		},
 		{
 			"group": "Raging Fighter",
 			"titles": [
-				{"searchTerm": "Raging Fighter"},
-				{"searchTerm": "Outburst"}
+				{"searchTerm": "Outburst"},
+				{"searchTerm": "Raging Fighter"}
 			]
 		},
 		{
 			"group": "Real Ghostbusters, The",
 			"titles": [
-				{"searchTerm": "Real Ghostbusters, The"},
 				{"searchTerm": "Garfield Labyrinth"},
-				{"searchTerm": "Mickey Mouse IV - Mahou no Labyrinth"}
+				{"searchTerm": "Mickey Mouse IV - Mahou no Labyrinth"},
+				{"searchTerm": "Real Ghostbusters, The"}
 			]
 		},
 		{
@@ -1534,8 +1580,8 @@
 		{
 			"group": "Roger Clemens' MVP Baseball",
 			"titles": [
-				{"searchTerm": "Roger Clemens' MVP Baseball"},
-				{"searchTerm": "MVP Baseball"}
+				{"searchTerm": "MVP Baseball"},
+				{"searchTerm": "Roger Clemens' MVP Baseball"}
 			]
 		},
 		{
@@ -1558,47 +1604,31 @@
 				{"searchTerm": "Sagaia"}
 			],
 			"compilations": [
-				{"searchTerm": "Taito Variety Pack"},
-				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"},
+				{"searchTerm": "Taito Variety Pack"}
 			]
 		},
 		{
 			"group": "Samurai Shodown",
 			"titles": [
-				{"searchTerm": "Samurai Shodown"},
-				{"searchTerm": "Nettou Samurai Spirits"}
-			]
-		},
-		{
-			"group": "Shisenshou - Match-Mania",
-			"titles": [
-				{"searchTerm": "Shisenshou - Match-Mania"}
-			],
-			"compilations": [
-				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 4}
-			]
-		},
-		{
-			"group": "Sports Illustrated - Golf Classic",
-			"titles": [
-				{"searchTerm": "Sports Illustrated - Golf Classic"},
-				{"searchTerm": "Golf Classic"}
+				{"searchTerm": "Nettou Samurai Spirits"},
+				{"searchTerm": "Samurai Shodown"}
 			]
 		},
 		{
 			"group": "Sea Battle",
 			"titles": [
-				{"searchTerm": "Sea Battle"},
 				{"searchTerm": "Bataille Navale"},
 				{"searchTerm": "Schiffe Versenken"},
+				{"searchTerm": "Sea Battle"},
 				{"searchTerm": "Battle Ships", "priority": 2}
 			]
 		},
 		{
 			"group": "Serpent",
 			"titles": [
-				{"searchTerm": "Serpent"},
-				{"searchTerm": "Kakomunja"}
+				{"searchTerm": "Kakomunja"},
+				{"searchTerm": "Serpent"}
 			]
 		},
 		{
@@ -1618,6 +1648,15 @@
 			]
 		},
 		{
+			"group": "Shisenshou - Match-Mania",
+			"titles": [
+				{"searchTerm": "Shisenshou - Match-Mania"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 4}
+			]
+		},
+		{
 			"group": "Simpsons, The - Bart & the Beanstalk",
 			"titles": [
 				{"searchTerm": "Simpsons, The - Bart & the Beanstalk"},
@@ -1634,22 +1673,22 @@
 		{
 			"group": "Snoopy's Magic Show",
 			"titles": [
-				{"searchTerm": "Snoopy's Magic Show"},
-				{"searchTerm": "Snoopy - Magic Show"}
+				{"searchTerm": "Snoopy - Magic Show"},
+				{"searchTerm": "Snoopy's Magic Show"}
 			]
 		},
 		{
 			"group": "Snow Brothers",
 			"titles": [
-				{"searchTerm": "Snow Brothers"},
-				{"searchTerm": "Snow Bros. Jr."}
+				{"searchTerm": "Snow Bros. Jr."},
+				{"searchTerm": "Snow Brothers"}
 			]
 		},
 		{
 			"group": "Soccer Mania",
 			"titles": [
-				{"searchTerm": "Soccer Mania"},
-				{"searchTerm": "Soccer Boy"}
+				{"searchTerm": "Soccer Boy"},
+				{"searchTerm": "Soccer Mania"}
 			]
 		},
 		{
@@ -1659,8 +1698,12 @@
 					"searchTerm": "Space Invaders",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Space Invaders (Japan)"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Space Invaders (Japan)"
+							}
 						}
 					]
 				}
@@ -1669,15 +1712,15 @@
 		{
 			"group": "Spanky's Quest",
 			"titles": [
-				{"searchTerm": "Spanky's Quest"},
-				{"searchTerm": "Lucky Monkey"}
+				{"searchTerm": "Lucky Monkey"},
+				{"searchTerm": "Spanky's Quest"}
 			]
 		},
 		{
 			"group": "Speedy Gonzales",
 			"titles": [
-				{"searchTerm": "Speedy Gonzales"},
-				{"searchTerm": "Soreyuke! Speedy Gonzales"}
+				{"searchTerm": "Soreyuke! Speedy Gonzales"},
+				{"searchTerm": "Speedy Gonzales"}
 			]
 		},
 		{
@@ -1689,18 +1732,25 @@
 			]
 		},
 		{
+			"group": "Sports Illustrated - Golf Classic",
+			"titles": [
+				{"searchTerm": "Golf Classic"},
+				{"searchTerm": "Sports Illustrated - Golf Classic"}
+			]
+		},
+		{
 			"group": "Spot - The Cool Adventure",
 			"titles": [
-				{"searchTerm": "Spot - The Cool Adventure"},
 				{"searchTerm": "McDonaldland"},
-				{"searchTerm": "Spot - Cool Adventure"}
+				{"searchTerm": "Spot - Cool Adventure"},
+				{"searchTerm": "Spot - The Cool Adventure"}
 			]
 		},
 		{
 			"group": "Spot - The Video Game",
 			"titles": [
-				{"searchTerm": "Spot - The Video Game"},
-				{"searchTerm": "Spot"}
+				{"searchTerm": "Spot"},
+				{"searchTerm": "Spot - The Video Game"}
 			]
 		},
 		{
@@ -1720,15 +1770,15 @@
 		{
 			"group": "Square Deal - The Game of Two-Dimensional Poker",
 			"titles": [
-				{"searchTerm": "Square Deal - The Game of Two-Dimensional Poker"},
-				{"searchTerm": "Cadillac II"}
+				{"searchTerm": "Cadillac II"},
+				{"searchTerm": "Square Deal - The Game of Two-Dimensional Poker"}
 			]
 		},
 		{
 			"group": "Stop That Roach!",
 			"titles": [
-				{"searchTerm": "Stop That Roach!"},
-				{"searchTerm": "Hoi Hoi - Game Boy Ban"}
+				{"searchTerm": "Hoi Hoi - Game Boy Ban"},
+				{"searchTerm": "Stop That Roach!"}
 			]
 		},
 		{
@@ -1741,8 +1791,8 @@
 		{
 			"group": "Sunsoft Grand Prix",
 			"titles": [
-				{"searchTerm": "Sunsoft Grand Prix"},
-				{"searchTerm": "F1 Boy"}
+				{"searchTerm": "F1 Boy"},
+				{"searchTerm": "Sunsoft Grand Prix"}
 			]
 		},
 		{
@@ -1755,8 +1805,8 @@
 		{
 			"group": "Super Kick Off",
 			"titles": [
-				{"searchTerm": "Super Kick Off"},
-				{"searchTerm": "Pro Soccer"}
+				{"searchTerm": "Pro Soccer"},
+				{"searchTerm": "Super Kick Off"}
 			]
 		},
 		{
@@ -1778,29 +1828,29 @@
 		{
 			"group": "Sword of Hope II, The",
 			"titles": [
-				{"searchTerm": "Sword of Hope II, The"},
-				{"searchTerm": "Selection II - Ankoku no Fuuin"}
+				{"searchTerm": "Selection II - Ankoku no Fuuin"},
+				{"searchTerm": "Sword of Hope II, The"}
 			]
 		},
 		{
 			"group": "Sword of Hope, The",
 			"titles": [
-				{"searchTerm": "Sword of Hope, The"},
-				{"searchTerm": "Selection - Erabareshi Mono"}
+				{"searchTerm": "Selection - Erabareshi Mono"},
+				{"searchTerm": "Sword of Hope, The"}
 			]
 		},
 		{
 			"group": "Tail 'Gator",
 			"titles": [
-				{"searchTerm": "Tail 'Gator"},
-				{"searchTerm": "Shippo de Bun"}
+				{"searchTerm": "Shippo de Bun"},
+				{"searchTerm": "Tail 'Gator"}
 			]
 		},
 		{
 			"group": "Taito Variety Pack",
 			"titles": [
-				{"searchTerm": "Taito Variety Pack"},
-				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"},
+				{"searchTerm": "Taito Variety Pack"}
 			]
 		},
 		{
@@ -1813,22 +1863,22 @@
 		{
 			"group": "Tamagotchi",
 			"titles": [
-				{"searchTerm": "Tamagotchi"},
-				{"searchTerm": "Game de Hakken!! Tamagotchi"}
+				{"searchTerm": "Game de Hakken!! Tamagotchi"},
+				{"searchTerm": "Tamagotchi"}
 			]
 		},
 		{
 			"group": "Tasmania Story",
 			"titles": [
-				{"searchTerm": "Tasmania Story"},
-				{"searchTerm": "Tasmania Monogatari"}
+				{"searchTerm": "Tasmania Monogatari"},
+				{"searchTerm": "Tasmania Story"}
 			]
 		},
 		{
 			"group": "Taz-Mania 2",
 			"titles": [
-				{"searchTerm": "Taz-Mania 2"},
-				{"searchTerm": "Taz-Mania"}
+				{"searchTerm": "Taz-Mania"},
+				{"searchTerm": "Taz-Mania 2"}
 			]
 		},
 		{
@@ -1841,25 +1891,25 @@
 		{
 			"group": "Teenage Mutant Ninja Turtles - Fall of the Foot Clan",
 			"titles": [
-				{"searchTerm": "Teenage Mutant Ninja Turtles - Fall of the Foot Clan"},
 				{"searchTerm": "Teenage Mutant Hero Turtles - Fall of the Foot Clan"},
-				{"searchTerm": "Teenage Mutant Ninja Turtles"}
+				{"searchTerm": "Teenage Mutant Ninja Turtles"},
+				{"searchTerm": "Teenage Mutant Ninja Turtles - Fall of the Foot Clan"}
 			]
 		},
 		{
 			"group": "Teenage Mutant Ninja Turtles II - Back from the Sewers",
 			"titles": [
-				{"searchTerm": "Teenage Mutant Ninja Turtles II - Back from the Sewers"},
 				{"searchTerm": "Teenage Mutant Hero Turtles II - Back from the Sewers"},
-				{"searchTerm": "Teenage Mutant Ninja Turtles 2"}
+				{"searchTerm": "Teenage Mutant Ninja Turtles 2"},
+				{"searchTerm": "Teenage Mutant Ninja Turtles II - Back from the Sewers"}
 			]
 		},
 		{
 			"group": "Teenage Mutant Ninja Turtles III - Radical Rescue",
 			"titles": [
-				{"searchTerm": "Teenage Mutant Ninja Turtles III - Radical Rescue"},
 				{"searchTerm": "Teenage Mutant Hero Turtles III - Radical Rescue"},
-				{"searchTerm": "Teenage Mutant Ninja Turtles 3 - Turtles Kikiippatsu"}
+				{"searchTerm": "Teenage Mutant Ninja Turtles 3 - Turtles Kikiippatsu"},
+				{"searchTerm": "Teenage Mutant Ninja Turtles III - Radical Rescue"}
 			]
 		},
 		{
@@ -1897,36 +1947,36 @@
 		{
 			"group": "Tetris Blast",
 			"titles": [
-				{"searchTerm": "Tetris Blast"},
-				{"searchTerm": "Super Bombliss"}
-			]
-		},
-		{
-			"group": "Tiny Toon Adventures - Babs' Big Break",
-			"titles": [
-				{"searchTerm": "Tiny Toon Adventures - Babs' Big Break"},
-				{"searchTerm": "Tiny Toon Adventures"}
-			]
-		},
-		{
-			"group": "Tiny Toon Adventures - Wacky Sports",
-			"titles": [
-				{"searchTerm": "Tiny Toon Adventures - Wacky Sports"},
-				{"searchTerm": "Tiny Toon Adventures 3 - Dokidoki Sport Festival"}
+				{"searchTerm": "Super Bombliss"},
+				{"searchTerm": "Tetris Blast"}
 			]
 		},
 		{
 			"group": "Tiny Toon Adventures 2 - Montana's Movie Madness",
 			"titles": [
-				{"searchTerm": "Tiny Toon Adventures 2 - Montana's Movie Madness"},
-				{"searchTerm": "Tiny Toon Adventures 2 - Buster Bunny no Kattobi Daibouken"}
+				{"searchTerm": "Tiny Toon Adventures 2 - Buster Bunny no Kattobi Daibouken"},
+				{"searchTerm": "Tiny Toon Adventures 2 - Montana's Movie Madness"}
+			]
+		},
+		{
+			"group": "Tiny Toon Adventures - Babs' Big Break",
+			"titles": [
+				{"searchTerm": "Tiny Toon Adventures"},
+				{"searchTerm": "Tiny Toon Adventures - Babs' Big Break"}
+			]
+		},
+		{
+			"group": "Tiny Toon Adventures - Wacky Sports",
+			"titles": [
+				{"searchTerm": "Tiny Toon Adventures 3 - Dokidoki Sport Festival"},
+				{"searchTerm": "Tiny Toon Adventures - Wacky Sports"}
 			]
 		},
 		{
 			"group": "Tip Off",
 			"titles": [
-				{"searchTerm": "Tip Off"},
-				{"searchTerm": "GB Basketball"}
+				{"searchTerm": "GB Basketball"},
+				{"searchTerm": "Tip Off"}
 			]
 		},
 		{
@@ -1953,15 +2003,15 @@
 		{
 			"group": "Track & Field",
 			"titles": [
-				{"searchTerm": "Track & Field"},
-				{"searchTerm": "Konamic Sports in Barcelona"}
+				{"searchTerm": "Konamic Sports in Barcelona"},
+				{"searchTerm": "Track & Field"}
 			]
 		},
 		{
 			"group": "Track Meet",
 			"titles": [
-				{"searchTerm": "Track Meet"},
 				{"searchTerm": "Litti's Summer Sports"},
+				{"searchTerm": "Track Meet"},
 				{"searchTerm": "Track Meet - Mezase! Barcelona"}
 			]
 		},
@@ -1975,8 +2025,8 @@
 		{
 			"group": "Trax",
 			"titles": [
-				{"searchTerm": "Trax"},
-				{"searchTerm": "Totsugeki! Ponkotsu Tank"}
+				{"searchTerm": "Totsugeki! Ponkotsu Tank"},
+				{"searchTerm": "Trax"}
 			]
 		},
 		{
@@ -1989,8 +2039,8 @@
 		{
 			"group": "Turn and Burn - The F-14 Dogfight Simulator",
 			"titles": [
-				{"searchTerm": "Turn and Burn - The F-14 Dogfight Simulator"},
-				{"searchTerm": "Phantom Air Mission"}
+				{"searchTerm": "Phantom Air Mission"},
+				{"searchTerm": "Turn and Burn - The F-14 Dogfight Simulator"}
 			]
 		},
 		{
@@ -2010,9 +2060,9 @@
 		{
 			"group": "Ultra Golf",
 			"titles": [
-				{"searchTerm": "Ultra Golf"},
 				{"searchTerm": "Konami Golf"},
-				{"searchTerm": "Konamic Golf"}
+				{"searchTerm": "Konamic Golf"},
+				{"searchTerm": "Ultra Golf"}
 			]
 		},
 		{
@@ -2027,61 +2077,61 @@
 		{
 			"group": "We're Back! - A Dinosaur's Story",
 			"titles": [
-				{"searchTerm": "We're Back! - A Dinosaur's Story"},
 				{"searchTerm": "Agro Soar"},
 				{"searchTerm": "Baby T-Rex"},
 				{"searchTerm": "Bamse"},
-				{"searchTerm": "Edd the Duck"}
+				{"searchTerm": "Edd the Duck"},
+				{"searchTerm": "We're Back! - A Dinosaur's Story"}
 			]
 		},
 		{
 			"group": "Wheel of Fortune",
 			"titles": [
-				{"searchTerm": "Wheel of Fortune"},
-				{"searchTerm": "Gluecksrad"}
+				{"searchTerm": "Gluecksrad"},
+				{"searchTerm": "Wheel of Fortune"}
 			]
 		},
 		{
 			"group": "Wild Snake",
 			"titles": [
-				{"searchTerm": "Wild Snake"},
-				{"searchTerm": "Super Snakey"}
+				{"searchTerm": "Super Snakey"},
+				{"searchTerm": "Wild Snake"}
 			]
 		},
 		{
 			"group": "Winter Olympic Games",
 			"titles": [
-				{"searchTerm": "Winter Olympic Games"},
-				{"searchTerm": "Winter Gold"}
+				{"searchTerm": "Winter Gold"},
+				{"searchTerm": "Winter Olympic Games"}
 			]
 		},
 		{
 			"group": "World Beach Volley - 1992 GB Cup",
 			"titles": [
-				{"searchTerm": "World Beach Volley - 1992 GB Cup"},
-				{"searchTerm": "World Beach Volley - 1991 GB Cup"}
+				{"searchTerm": "World Beach Volley - 1991 GB Cup"},
+				{"searchTerm": "World Beach Volley - 1992 GB Cup"}
 			]
 		},
 		{
 			"group": "World Circuit Series",
 			"titles": [
-				{"searchTerm": "World Circuit Series"},
 				{"searchTerm": "F-1 Spirit"},
-				{"searchTerm": "Spirit of F-1, The"}
+				{"searchTerm": "Spirit of F-1, The"},
+				{"searchTerm": "World Circuit Series"}
 			]
 		},
 		{
 			"group": "World Heroes 2 Jet",
 			"titles": [
-				{"searchTerm": "World Heroes 2 Jet"},
-				{"searchTerm": "Nettou World Heroes 2 Jet"}
+				{"searchTerm": "Nettou World Heroes 2 Jet"},
+				{"searchTerm": "World Heroes 2 Jet"}
 			]
 		},
 		{
 			"group": "X",
 			"titles": [
-				{"searchTerm": "X"},
-				{"searchTerm": "Lunar Chase"}
+				{"searchTerm": "Lunar Chase"},
+				{"searchTerm": "X"}
 			]
 		},
 		{
@@ -2103,22 +2153,27 @@
 		{
 			"group": "Yelu Wangzi (Prince Yeh Rude)",
 			"titles": [
-				{"searchTerm": "Yelu Wangzi (Prince Yeh Rude)", "localNames": {"chinese (traditional)": "耶魯王子"}}
+				{
+					"searchTerm": "Yelu Wangzi (Prince Yeh Rude)",
+					"localNames": {
+						"chinese (traditional)": "耶魯王子"
+					}
+				}
 			]
 		},
 		{
 			"group": "Yoshi",
 			"titles": [
-				{"searchTerm": "Yoshi"},
 				{"searchTerm": "Mario & Yoshi"},
+				{"searchTerm": "Yoshi"},
 				{"searchTerm": "Yoshi no Tamago"}
 			]
 		},
 		{
 			"group": "Yoshi's Cookie",
 			"titles": [
-				{"searchTerm": "Yoshi's Cookie"},
-				{"searchTerm": "Yoshi no Cookie"}
+				{"searchTerm": "Yoshi no Cookie"},
+				{"searchTerm": "Yoshi's Cookie"}
 			]
 		},
 		{
@@ -2142,15 +2197,26 @@
 		{
 			"group": "Zool - Ninja of the 'Nth' Dimension",
 			"titles": [
-				{"searchTerm": "Zool - Ninja of the 'Nth' Dimension"},
-				{"searchTerm": "Zool"}
+				{"searchTerm": "Zool"},
+				{"searchTerm": "Zool - Ninja of the 'Nth' Dimension"}
 			]
 		},
 		{
 			"group": "Zuigao Jimi",
 			"titles": [
-				{"searchTerm": "Zuigao Jimi (Top Secret)", "localNames": {"chinese (traditional)": "最高機密"}},
-				{"searchTerm": "Zuigao Jimi (Top Secret) (Multicart Rip)", "priority": 2, "localNames": {"chinese (traditional)": "最高機密"}}
+				{
+					"searchTerm": "Zuigao Jimi (Top Secret)",
+					"localNames": {
+						"chinese (traditional)": "最高機密"
+					}
+				},
+				{
+					"searchTerm": "Zuigao Jimi (Top Secret) (Multicart Rip)",
+					"priority": 2,
+					"localNames": {
+						"chinese (traditional)": "最高機密"
+					}
+				}
 			]
 		}
 	]

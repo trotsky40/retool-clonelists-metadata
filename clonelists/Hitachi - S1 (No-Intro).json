@@ -1,16 +1,20 @@
 {
 	"description": {
 		"name": "Hitachi - S1 (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
-    "variants": [
-        {
-            "group": "Mario Bros. Special",
-            "titles": [
-                {"searchTerm": "Mario Bros. Special", "localNames": {"japanese": "マリオブラザーズ　ＳＰＥＣＩＡＬ"}}
-            ]
-        }
-    ]
+	"variants": [
+		{
+			"group": "Mario Bros. Special",
+			"titles": [
+				{
+					"searchTerm": "Mario Bros. Special",
+					"localNames": {
+						"japanese": "マリオブラザーズ　ＳＰＥＣＩＡＬ"
+					}
+				}
+			]
+		}
+	]
 }

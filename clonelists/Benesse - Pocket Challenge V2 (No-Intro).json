@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Benesse - Pocket Challenge V2 (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Chuu 1 Ei Suu Koku Pack",

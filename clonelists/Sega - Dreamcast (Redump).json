@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Sega - Dreamcast (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:41",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "90 Minutes - Sega Championship Football",
@@ -111,29 +110,29 @@
 		{
 			"group": "D2 (Disc 1)",
 			"titles": [
-				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 1)"},
-				{"searchTerm": "D2 (Disc 1)"}
+				{"searchTerm": "D2 (Disc 1)"},
+				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 1)"}
 			]
 		},
 		{
 			"group": "D2 (Disc 2)",
 			"titles": [
-				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 2)"},
-				{"searchTerm": "D2 (Disc 2)"}
+				{"searchTerm": "D2 (Disc 2)"},
+				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 2)"}
 			]
 		},
 		{
 			"group": "D2 (Disc 3)",
 			"titles": [
-				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 3)"},
-				{"searchTerm": "D2 (Disc 3)"}
+				{"searchTerm": "D2 (Disc 3)"},
+				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 3)"}
 			]
 		},
 		{
 			"group": "D2 (Disc 4)",
 			"titles": [
-				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 4)"},
-				{"searchTerm": "D2 (Disc 4)"}
+				{"searchTerm": "D2 (Disc 4)"},
+				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 4)"}
 			]
 		},
 		{
@@ -165,6 +164,13 @@
 			]
 		},
 		{
+			"group": "Disney's Donald Duck - Goin' Quackers",
+			"titles": [
+				{"searchTerm": "Disney's Donald Duck - Goin' Quackers"},
+				{"searchTerm": "Disney's Donald Duck - Quack Attack"}
+			]
+		},
+		{
 			"group": "Disney-Pixar Buzz Lightyear of Star Command",
 			"titles": [
 				{"searchTerm": "Disney-Pixar Buzz Lightyear of Star Command"},
@@ -178,13 +184,6 @@
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse !"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe!"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!"}
-			]
-		},
-		{
-			"group": "Disney's Donald Duck - Goin' Quackers",
-			"titles": [
-				{"searchTerm": "Disney's Donald Duck - Goin' Quackers"},
-				{"searchTerm": "Disney's Donald Duck - Quack Attack"}
 			]
 		},
 		{
@@ -233,17 +232,17 @@
 			]
 		},
 		{
-			"group": "Evolution - The World of Sacred Device",
-			"titles": [
-				{"searchTerm": "Evolution - The World of Sacred Device"},
-				{"searchTerm": "Shinki Sekai Evolution"}
-			]
-		},
-		{
 			"group": "Evolution 2 - Far Off Promise",
 			"titles": [
 				{"searchTerm": "Evolution 2 - Far Off Promise"},
 				{"searchTerm": "Shinki Sekai Evolution 2 - Tooi Yakusoku"}
+			]
+		},
+		{
+			"group": "Evolution - The World of Sacred Device",
+			"titles": [
+				{"searchTerm": "Evolution - The World of Sacred Device"},
+				{"searchTerm": "Shinki Sekai Evolution"}
 			]
 		},
 		{
@@ -252,6 +251,13 @@
 				{"searchTerm": "Expendable"},
 				{"searchTerm": "Millennium Soldier - Expendable"},
 				{"searchTerm": "Seitai Heiki Expendable"}
+			]
+		},
+		{
+			"group": "F1 World Grand Prix",
+			"titles": [
+				{"searchTerm": "F1 World Grand Prix"},
+				{"searchTerm": "F1 World Grand Prix for Dreamcast"}
 			]
 		},
 		{
@@ -269,13 +275,6 @@
 			]
 		},
 		{
-			"group": "F1 World Grand Prix",
-			"titles": [
-				{"searchTerm": "F1 World Grand Prix"},
-				{"searchTerm": "F1 World Grand Prix for Dreamcast"}
-			]
-		},
-		{
 			"group": "Flag to Flag",
 			"titles": [
 				{"searchTerm": "Flag to Flag"},
@@ -285,13 +284,23 @@
 		{
 			"group": "Frame Gride",
 			"titles": [
-				{"searchTerm": "Frame Gride", "localNames": {"japanese": "フレームグライド"}}
+				{
+					"searchTerm": "Frame Gride",
+					"localNames": {
+						"japanese": "フレームグライド"
+					}
+				}
 			]
 		},
 		{
 			"group": "Frame Gride - Test Operation Disc",
 			"titles": [
-				{"searchTerm": "Frame Gride - Test Operation Disc (Demo)", "localNames": {"japanese": "フレームグライド）　～体験版～"}}
+				{
+					"searchTerm": "Frame Gride - Test Operation Disc (Demo)",
+					"localNames": {
+						"japanese": "フレームグライド）　～体験版～"
+					}
+				}
 			]
 		},
 		{
@@ -322,8 +331,14 @@
 					"searchTerm": "House of the Dead 2, The",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"localNames": {"japanese": "ザ　ハウス　オブ　ザ　デッド　２"}}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"localNames": {
+									"japanese": "ザ　ハウス　オブ　ザ　デッド　２"
+								}
+							}
 						}
 					]
 				}
@@ -336,12 +351,24 @@
 					"searchTerm": "Illbleed",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Taiwan"]},
-							"results": {"localNames": {"chinese (traditional)": "勇闖鬼界"}}
+							"conditions": {
+								"matchRegions": ["Taiwan"]
+							},
+							"results": {
+								"localNames": {
+									"chinese (traditional)": "勇闖鬼界"
+								}
+							}
 						},
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"localNames": {"japanese": "イルブリード"}}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"localNames": {
+									"japanese": "イルブリード"
+								}
+							}
 						}
 					]
 				}
@@ -381,16 +408,16 @@
 		{
 			"group": "JoJo's Bizarre Adventure",
 			"titles": [
-				{"searchTerm": "JoJo's Bizarre Adventure"},
 				{"searchTerm": "Jojo no Kimyou na Bouken - Mirai e no Isan for Matching Service"},
+				{"searchTerm": "JoJo's Bizarre Adventure"},
 				{"searchTerm": "Jojo no Kimyou na Bouken - Mirai e no Isan", "priority": 2}
 			]
 		},
 		{
 			"group": "King of Fighters, The - Evolution",
 			"titles": [
-				{"searchTerm": "King of Fighters, The - Evolution"},
-				{"searchTerm": "King of Fighters '99, The - Evolution"}
+				{"searchTerm": "King of Fighters '99, The - Evolution"},
+				{"searchTerm": "King of Fighters, The - Evolution"}
 			]
 		},
 		{
@@ -417,13 +444,23 @@
 		{
 			"group": "Memories Off 2nd - Making Disc",
 			"titles": [
-				{"searchTerm": "Memories Off 2nd - Making Disc", "localNames": {"japanese": "メモリーズオフ　セカンド　～Ｍａｋｉｎｇ　Ｄｉｓｃ～"}}
+				{
+					"searchTerm": "Memories Off 2nd - Making Disc",
+					"localNames": {
+						"japanese": "メモリーズオフ　セカンド　～Ｍａｋｉｎｇ　Ｄｉｓｃ～"
+					}
+				}
 			]
 		},
 		{
 			"group": "Memories Off 2nd - Promotion Disc",
 			"titles": [
-				{"searchTerm": "Memories Off 2nd - Promotion Disc", "localNames": {"japanese": "メモリーズオフ　セカンド　～Ｐｒｏｍｏｔｉｏｎ　Ｄｉｓｃ～"}}
+				{
+					"searchTerm": "Memories Off 2nd - Promotion Disc",
+					"localNames": {
+						"japanese": "メモリーズオフ　セカンド　～Ｐｒｏｍｏｔｉｏｎ　Ｄｉｓｃ～"
+					}
+				}
 			]
 		},
 		{
@@ -466,8 +503,8 @@
 		{
 			"group": "POD - Speedzone",
 			"titles": [
-				{"searchTerm": "POD - Speedzone"},
-				{"searchTerm": "POD 2 - Multiplayer Online"}
+				{"searchTerm": "POD 2 - Multiplayer Online"},
+				{"searchTerm": "POD - Speedzone"}
 			]
 		},
 		{
@@ -507,8 +544,8 @@
 		{
 			"group": "Rayman 2 - The Great Escape",
 			"titles": [
-				{"searchTerm": "Rayman - Kaizokusen kara no Dasshutsu!"},
-				{"searchTerm": "Rayman 2 - The Great Escape"}
+				{"searchTerm": "Rayman 2 - The Great Escape"},
+				{"searchTerm": "Rayman - Kaizokusen kara no Dasshutsu!"}
 			]
 		},
 		{
@@ -734,14 +771,24 @@
 		{
 			"group": "Space Channel 5 Demo",
 			"titles": [
-				{"searchTerm": "Space Channel 5 (Taikenban)", "localNames": {"japanese": "スペース・チャンネル５　～体験版～"}}
+				{
+					"searchTerm": "Space Channel 5 (Taikenban)",
+					"localNames": {
+						"japanese": "スペース・チャンネル５　～体験版～"
+					}
+				}
 			]
 		},
 		{
 			"group": "Space Channel 5 Theme Music - Mexican Flyer",
 			"categories": ["Audio"],
 			"titles": [
-				{"searchTerm": "Space Channel 5 Theme Music - Mexican Flyer", "localNames": {"japanese": "スペース・チャンネル５　～テーマ曲～　Ｍｅｘｉｃａｎ　Ｆｌｙｅｒ"}}
+				{
+					"searchTerm": "Space Channel 5 Theme Music - Mexican Flyer",
+					"localNames": {
+						"japanese": "スペース・チャンネル５　～テーマ曲～　Ｍｅｘｉｃａｎ　Ｆｌｙｅｒ"
+					}
+				}
 			]
 		},
 		{
@@ -793,8 +840,8 @@
 		{
 			"group": "Surf Rocket Racers",
 			"titles": [
-				{"searchTerm": "Surf Rocket Racers"},
-				{"searchTerm": "Power Jet Racing 2001"}
+				{"searchTerm": "Power Jet Racing 2001"},
+				{"searchTerm": "Surf Rocket Racers"}
 			]
 		},
 		{
@@ -926,8 +973,8 @@
 		{
 			"group": "Virtua Athlete 2000",
 			"titles": [
-				{"searchTerm": "Virtua Athlete 2000"},
-				{"searchTerm": "Virtua Athlete 2K"}
+				{"searchTerm": "Virtua Athlete 2K"},
+				{"searchTerm": "Virtua Athlete 2000"}
 			]
 		},
 		{
@@ -955,7 +1002,13 @@
 		{
 			"group": "Wind and Water - Puzzle Battles",
 			"titles": [
-				{"searchTerm": "Wind and Water - Puzzle Battles", "localNames": {"english": "Wind and Water - Puzzle Battles", "japanese": "時空五行　風水大戰"}}
+				{
+					"searchTerm": "Wind and Water - Puzzle Battles",
+					"localNames": {
+						"english": "Wind and Water - Puzzle Battles",
+						"japanese": "時空五行　風水大戰"
+					}
+				}
 			]
 		},
 		{

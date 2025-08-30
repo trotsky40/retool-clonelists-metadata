@@ -1,16 +1,15 @@
 {
 	"description": {
 		"name": "Nintendo - GameCube - BIOS Images (DoM Version) (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:41",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
-            "group": "All Titles",
-            "titles": [
-                {"searchTerm": ".+", "nameType": "regex", "categories": ["BIOS"]}
-            ]
-        }
-    ]
+			"group": "All Titles",
+			"titles": [
+				{"searchTerm": ".+", "nameType": "regex", "categories": ["BIOS"]}
+			]
+		}
+	]
 }

@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "NEC - PC Engine - TurboGrafx-16 (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Air Zonk",
@@ -129,8 +128,8 @@
 		{
 			"group": "Devil's Crush",
 			"titles": [
-				{"searchTerm": "Devil's Crush"},
-				{"searchTerm": "Devil Crash - Naxat Pinball"}
+				{"searchTerm": "Devil Crash - Naxat Pinball"},
+				{"searchTerm": "Devil's Crush"}
 			]
 		},
 		{
@@ -178,8 +177,8 @@
 		{
 			"group": "Jack Nicklaus' Turbo Golf",
 			"titles": [
-				{"searchTerm": "Jack Nicklaus' Turbo Golf"},
-				{"searchTerm": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf"}
+				{"searchTerm": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf"},
+				{"searchTerm": "Jack Nicklaus' Turbo Golf"}
 			]
 		},
 		{
@@ -197,17 +196,17 @@
 			]
 		},
 		{
-			"group": "Legendary Axe, The",
-			"titles": [
-				{"searchTerm": "Legendary Axe, The"},
-				{"searchTerm": "Makyou Densetsu"}
-			]
-		},
-		{
 			"group": "Legendary Axe II",
 			"titles": [
 				{"searchTerm": "Ankoku Densetsu"},
 				{"searchTerm": "Legendary Axe II"}
+			]
+		},
+		{
+			"group": "Legendary Axe, The",
+			"titles": [
+				{"searchTerm": "Legendary Axe, The"},
+				{"searchTerm": "Makyou Densetsu"}
 			]
 		},
 		{

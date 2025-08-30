@@ -1,16 +1,20 @@
 {
 	"description": {
 		"name": "IBM - PC and Compatibles (Flash Media) (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
-    "variants": [
-        {
-            "group": "Sasudake Anshin PersoCom Kids Key - Winnie the Pooh",
-            "titles": [
-                {"searchTerm": "Sasudake Anshin PersoCom Kids Key - Winnie the Pooh", "localNames": {"japanese": "さすだけあんしん ぱそこんキッズキー くまのプーさん"}}
-            ]
-        }
-    ]
+	"variants": [
+		{
+			"group": "Sasudake Anshin PersoCom Kids Key - Winnie the Pooh",
+			"titles": [
+				{
+					"searchTerm": "Sasudake Anshin PersoCom Kids Key - Winnie the Pooh",
+					"localNames": {
+						"japanese": "さすだけあんしん ぱそこんキッズキー くまのプーさん"
+					}
+				}
+			]
+		}
+	]
 }

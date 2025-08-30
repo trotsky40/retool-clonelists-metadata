@@ -1,18 +1,10 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (Digital) (No-Intro)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:41",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
-		{
-			"group": "101 Pony Pets 3D",
-			"titles": [
-				{"searchTerm": "101 Pony Pets 3D"},
-				{"searchTerm": "Pony Pets 3D"}
-			]
-		},
 		{
 			"group": "2 Fast 4 Gnomz",
 			"titles": [
@@ -32,6 +24,13 @@
 			"titles": [
 				{"searchTerm": "3D Bare Knuckle II - Shitou e no Requiem"},
 				{"searchTerm": "3D Streets of Rage 2"}
+			]
+		},
+		{
+			"group": "101 Pony Pets 3D",
+			"titles": [
+				{"searchTerm": "101 Pony Pets 3D"},
+				{"searchTerm": "Pony Pets 3D"}
 			]
 		},
 		{
@@ -136,15 +135,15 @@
 		{
 			"group": "Gunman Clive",
 			"titles": [
-				{"searchTerm": "Gunman Clive"},
-				{"searchTerm": "Gumman Story"}
+				{"searchTerm": "Gumman Story"},
+				{"searchTerm": "Gunman Clive"}
 			]
 		},
 		{
 			"group": "Gunman Clive 2",
 			"titles": [
-				{"searchTerm": "Gunman Clive 2"},
-				{"searchTerm": "Gumman Story 2"}
+				{"searchTerm": "Gumman Story 2"},
+				{"searchTerm": "Gunman Clive 2"}
 			]
 		},
 		{
@@ -206,15 +205,8 @@
 		{
 			"group": "Luigi's Mansion - Dark Moon",
 			"titles": [
-				{"searchTerm": "Luigi's Mansion - Dark Moon"},
-				{"searchTerm": "Luigi's Mansion 2"}
-			]
-		},
-		{
-			"group": "Mario Kart - Super Circuit",
-			"titles": [
-				{"searchTerm": "Mario Kart - Super Circuit"},
-				{"searchTerm": "Mario Kart Advance"}
+				{"searchTerm": "Luigi's Mansion 2"},
+				{"searchTerm": "Luigi's Mansion - Dark Moon"}
 			]
 		},
 		{
@@ -222,6 +214,13 @@
 			"titles": [
 				{"searchTerm": "Mario and Donkey Kong - Mini Mini Carnival"},
 				{"searchTerm": "Mario and Donkey Kong - Minis on the Move"}
+			]
+		},
+		{
+			"group": "Mario Kart - Super Circuit",
+			"titles": [
+				{"searchTerm": "Mario Kart - Super Circuit"},
+				{"searchTerm": "Mario Kart Advance"}
 			]
 		},
 		{
@@ -354,7 +353,6 @@
 			"titles": [
 				{"searchTerm": "peakvox - Mew Mew Train"},
 				{"searchTerm": "Skater Cat"}
-
 			]
 		},
 		{
@@ -402,18 +400,18 @@
 			]
 		},
 		{
+			"group": "THE DENPA MEN 3 - The Rise of Digitoll",
+			"titles": [
+				{"searchTerm": "Denpa Ningen no RPG 3"},
+				{"searchTerm": "THE DENPA MEN 3 - The Rise of Digitoll"}
+			]
+		},
+		{
 			"group": "THE DENPA MEN - They Came By Wave",
 			"titles": [
 				{"searchTerm": "DENPA MEN, The - They Came By Wave"},
 				{"searchTerm": "Denpa Ningen no RPG"},
 				{"searchTerm": "THE DENPA MEN - They Came By Wave"}
-			]
-		},
-		{
-			"group": "THE DENPA MEN 3 - The Rise of Digitoll",
-			"titles": [
-				{"searchTerm": "Denpa Ningen no RPG 3"},
-				{"searchTerm": "THE DENPA MEN 3 - The Rise of Digitoll"}
 			]
 		},
 		{
@@ -462,8 +460,8 @@
 			"group": "WarioWare, Inc. - Mega Microgame$!",
 			"titles": [
 				{"searchTerm": "Made in Wario"},
-				{"searchTerm": "WarioWare, Inc. - Mega Microgame$!"},
-				{"searchTerm": "Wario Ware, Inc - Minigame Mania"}
+				{"searchTerm": "Wario Ware, Inc - Minigame Mania"},
+				{"searchTerm": "WarioWare, Inc. - Mega Microgame$!"}
 			]
 		},
 		{

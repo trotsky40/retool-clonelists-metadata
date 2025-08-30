@@ -1,23 +1,22 @@
 {
 	"description": {
 		"name": "NEC - PC-FX & PC-FXGA (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
-		{
-			"group": "Amateur Teikyou CD-ROM (NEC PC-FXGA)",
-			"categories": ["Demos"],
-			"titles": [
-				{"searchTerm": "Amateur Teikyou CD-ROM (NEC PC-FXGA)"}
-			]
-		},
 		{
 			"group": "Amateur Teikyou CD-ROM (DOS-V-you) (NEC PC-FXGA)",
 			"categories": ["Demos"],
 			"titles": [
 				{"searchTerm": "Amateur Teikyou CD-ROM (DOS-V-you) (NEC PC-FXGA)"}
+			]
+		},
+		{
+			"group": "Amateur Teikyou CD-ROM (NEC PC-FXGA)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Amateur Teikyou CD-ROM (NEC PC-FXGA)"}
 			]
 		},
 		{

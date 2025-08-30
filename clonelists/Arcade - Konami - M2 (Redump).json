@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Arcade - Konami - M2 (Redump)",
-		"lastUpdated": "2025-08-28 20:09",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-08-30 09:39:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Battle Tryst",
