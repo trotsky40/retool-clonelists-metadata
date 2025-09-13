@@ -452,9 +452,9 @@
         },
         {
             "name": "Birdie Bartender (World) (Aftermarket)",
-            "crc": "375d65fb",
-            "md5": "2687e4b071cd74879de2c1384dc984ad",
-            "sha1": "60f39050f5792427d4fbe40d83e0ba70fed0c096"
+            "crc": "000",
+            "md5": "d7cd156ef19534ec9353fa016b391395",
+            "sha1": "000"
         },
         {
             "name": "Bishoujo Senshi Sailor Moon (Japan)",
@@ -1123,6 +1123,12 @@
             "sha1": "ceef32cf78fb1b7fc6e48db83d49e8c3ed75db21"
         },
         {
+            "name": "Final Fantasy Legend II DX (v1.0) (theadamrippon)",
+            "crc": "000",
+            "md5": "66bcd8472c6aba72843920822a856deb",
+            "sha1": "000"
+        },
+        {
             "name": "Final Fantasy Legend III (USA)",
             "crc": "3e454710",
             "md5": "db156bc96b528996ce1bf771195171af",
@@ -1133,6 +1139,12 @@
             "crc": "72593f52",
             "md5": "31e0b16020d3b7a08a80d4416507d631",
             "sha1": "ef706ff0c03ebbb1924125b2caf1711e37de73fd"
+        },
+        {
+            "name": "Final Fantasy Legend III DX (v1.0) (theadamrippon)",
+            "crc": "000",
+            "md5": "4e70d913df7ddf0f45155ccb79963c2d",
+            "sha1": "000"
         },
         {
             "name": "Final Fantasy Legend, The (USA)",
@@ -2060,9 +2072,9 @@
         },
         {
             "name": "Melanie and the Magic Forest (World) (v1.1) (GB Compatible) (Aftermarket)",
-            "crc": "949c6ab9",
-            "md5": "d6a568f56d59772c7a83b5e8504c86d6",
-            "sha1": "34269af4db6c37b92fdc7f7f914c282174603ba8"
+            "crc": "000",
+            "md5": "6669ba8e9dcd087124ab657c8a8ad0db",
+            "sha1": "000"
         },
         {
             "name": "Mercenary Force (USA, Europe)",
@@ -2755,6 +2767,60 @@
             "sha1": "b6264f439ef56bf499531c98370c87c5bd1a3930"
         },
         {
+            "name": "Pokemon - PureRGB - PureBlue (v2.6.2) (Vortyne) (Hack)",
+            "crc": "000",
+            "md5": "3ab51f5f32df9ace20e3f469a4a09c23",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureBlue (v2.6.3) (Vortiene) (Hack)",
+            "crc": "000",
+            "md5": "bd69d9c06fe77707c5b3ad1fe6f26041",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)",
+            "crc": "000",
+            "md5": "3d78ba61d68f59bd23727fc2c402fa7b",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureGreen (v2.6.2) (Vortyne) (Hack)",
+            "crc": "000",
+            "md5": "0b5c445d36c2e6125917a6071656c1e4",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureGreen (v2.6.3) (Vortiene) (Hack)",
+            "crc": "000",
+            "md5": "5d180f1df08f71ebc64f31721b95d201",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureGreen (v2.6.4) (Vortiene) (Hack)",
+            "crc": "000",
+            "md5": "fb81050af0248b3f451944eb52fb9a14",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureRed (v2.6.2) (Vortyne) (Hack)",
+            "crc": "000",
+            "md5": "0ee583a9be10502141e07d214f84f6ba",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureRed (v2.6.3) (Vortiene) (Hack)",
+            "crc": "000",
+            "md5": "d0b7052c5440dc7c63e81b55b1782ba5",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureRed (v2.6.4) (Vortiene) (Hack)",
+            "crc": "000",
+            "md5": "3abfdb86bde17c9cc50d1b1b295de8e7",
+            "sha1": "000"
+        },
+        {
             "name": "Pokemon - Red Version (Subset - Bonus)",
             "crc": "6d20fe91",
             "md5": "25da61b495309bfb4d45ab54918d6135",
@@ -2837,6 +2903,12 @@
             "crc": "c1bb840c",
             "md5": "8789e3890d1dc7d9a8991598b44e18b3",
             "sha1": "4090a098b8a9c4706accf2ae1ae3e2877410cc3d"
+        },
+        {
+            "name": "Pokemon - Yellow - Velvet Special Hatenna Edition (v1.2) (PeanutellaXO) (Hack)",
+            "crc": "000",
+            "md5": "1790b5b1ddd2f3beae480a465910d333",
+            "sha1": "000"
         },
         {
             "name": "Pokemon - Yellow Legacy (Hack)",
@@ -3139,6 +3211,12 @@
             "sha1": "73cb2330f9b58a324a41f6aa85b53ab8cc946afc"
         },
         {
+            "name": "Senshijidaino kyoryu - DINOPREHIS! (World) (1997 Beta) (En) (v1.0) (AgamemnonGaming) (Aftermarket)",
+            "crc": "000",
+            "md5": "7936b12937a175abb39e199c9feed508",
+            "sha1": "000"
+        },
+        {
             "name": "Shadow Warriors (Europe)",
             "crc": "bcc18e24",
             "md5": "13dd6801246da226b0c2db339df4a246",
@@ -3287,6 +3365,12 @@
             "crc": "7f0f5762",
             "md5": "d32b9da8028d357e20c791b07ded4f86",
             "sha1": "da48687f3a5ee547510a0ea9eb05859b4ea9531d"
+        },
+        {
+            "name": "Space Landing (World) (Steam) (Maurizio) (Aftermarket)",
+            "crc": "000",
+            "md5": "08e447a6164cefd3e56212cd36e11e6f",
+            "sha1": "000"
         },
         {
             "name": "Spanky's Quest (DX Version) (World) (marc max) (v1.0)",
@@ -3653,6 +3737,12 @@
             "crc": "dafc3bff",
             "md5": "4511333eeecb3c9f20874d595424447c",
             "sha1": "dfab75ab6bdc0765ba9a5d33a93ffdb114a49cbf"
+        },
+        {
+            "name": "The Final Fantasy Legend DX (v1.0.1) (theadamrippon)",
+            "crc": "000",
+            "md5": "8645f33476770262a51fd914e519a1ad",
+            "sha1": "000"
         },
         {
             "name": "There's Nothing to Do in This Town (World) (Aftermarket)",

@@ -967,6 +967,12 @@
             "sha1": "eab3718608f1657f484b27c6f684527fc27f2ba1"
         },
         {
+            "name": "Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin)",
+            "crc": "000",
+            "md5": "e42a54f0b0457c2234271b241c2b7fb9",
+            "sha1": "000"
+        },
+        {
             "name": "Brandish 2 - The Planet Buster (Japan) (En) (v1.0) (Synchronicity)",
             "crc": "9db396ec",
             "md5": "340dfb23460a8627891d00d4c82a08b4",
@@ -1262,9 +1268,9 @@
         },
         {
             "name": "Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)",
-            "crc": "e27250dc",
-            "md5": "57ee0cb754638c08e6a432060d4abe63",
-            "sha1": "84eddccf7b784939f5be8fbead5bc7f6212e4757"
+            "crc": "000",
+            "md5": "196130bd682f1db9bce0bf8e0d056c0b",
+            "sha1": "000"
         },
         {
             "name": "Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)",
@@ -1865,6 +1871,12 @@
             "crc": "80c078ff",
             "md5": "153bf4cd05d8f4bdee2ab734a28b8c7f",
             "sha1": "8675595cf3a08c1c81d10b3daa43bc80a65c06b5"
+        },
+        {
+            "name": "Dragon Quest I & II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida)",
+            "crc": "000",
+            "md5": "d4f294305fa536fc7974e764900f2fcc",
+            "sha1": "000"
         },
         {
             "name": "Dragon Quest I & II (Japan) (Es) (v1.2) (Traducciones Crackowia)",
@@ -2623,6 +2635,12 @@
             "sha1": "d4ff12057b9723dba33dbde248a486c459797c47"
         },
         {
+            "name": "FFVI - Reimagined (v1.7) (DrakeyC) (Hack)",
+            "crc": "000",
+            "md5": "6f29ca82fe37ad99acf2238b66bfb66c",
+            "sha1": "000"
+        },
+        {
             "name": "FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Graphics-B + OST-B) (Hack)",
             "crc": "6ca4ddab",
             "md5": "fc6fe4870652003158e9a61f61a5e36c",
@@ -2663,12 +2681,6 @@
             "crc": "bffd2c68",
             "md5": "5bc14b6604e59740d8d0a78ca5c4e93d",
             "sha1": "28b8f5b4f4769b5e7bd7a66cfb1ba6c59d2af5af"
-        },
-        {
-            "name": "FFVI Reimagined (v1.7) (DrakeyC) (Hack)",
-            "crc": "717f5b83",
-            "md5": "26943ae9f9b7ac98cfa3605ab2a8947a",
-            "sha1": "e6088dc3202c6eda91de2db65f96d42017b903a5"
         },
         {
             "name": "Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce)",
@@ -2879,6 +2891,12 @@
             "crc": "a03ef9b3",
             "md5": "08388e4f59ca8ec1ef2114f5e5b53e85",
             "sha1": "18ea044b48329f5c80563770ea1e7d5dd93b00bf"
+        },
+        {
+            "name": "Final Fantasy V Spoof (v1.01) (Tzepish)",
+            "crc": "000",
+            "md5": "e002240962051854afbf2e89bcb25128",
+            "sha1": "000"
         },
         {
             "name": "Final Fantasy VI (Subset - LLNMG + CESNMG)",
@@ -3199,6 +3217,24 @@
             "sha1": "9d82eb17d635001fe8c2aeba1b8b2db42fe210e4"
         },
         {
+            "name": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)",
+            "crc": "000",
+            "md5": "a53bee4978d7c8e13cdec5151207de54",
+            "sha1": "000"
+        },
+        {
+            "name": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe)",
+            "crc": "000",
+            "md5": "b3fca51a47bd3d5e10e1efc9d6cb5a1f",
+            "sha1": "000"
+        },
+        {
+            "name": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)",
+            "crc": "000",
+            "md5": "19da7f2058c6a96e3471ca8a65234095",
+            "sha1": "000"
+        },
+        {
             "name": "Gangan Gan-chan (Japan)",
             "crc": "a220c6d5",
             "md5": "c82666233f216db472c77f8fd611da6b",
@@ -3293,6 +3329,12 @@
             "crc": "54a897ff",
             "md5": "c695dfd3b41163b4743389c9ec93330d",
             "sha1": "a8249f68e4ffb86ca68c609b39c8ba0328ed68bf"
+        },
+        {
+            "name": "Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation)",
+            "crc": "000",
+            "md5": "1a13988bf52cc202a78045ac70e34ad8",
+            "sha1": "000"
         },
         {
             "name": "Gods (Europe)",
@@ -3395,6 +3437,18 @@
             "crc": "e22f59b8",
             "md5": "56418fe84bd05b9b2eb0c5a21943ee1c",
             "sha1": "8b4ef62d677bcc5a7ed61fba790c9382613220d5"
+        },
+        {
+            "name": "Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez)",
+            "crc": "000",
+            "md5": "0b84cfa9f165f8ebd8bdf632df6b08d6",
+            "sha1": "000"
+        },
+        {
+            "name": "Gourmet Warriors (USA) (Piko Interactive)",
+            "crc": "000",
+            "md5": "28a00d931075150c46a1129e5cdea922",
+            "sha1": "000"
         },
         {
             "name": "Gradius III (Japan) (En)",
@@ -4025,12 +4079,6 @@
             "crc": "0ad5ddc9",
             "md5": "fe37b170c0c868c3aa1d67bdcf9df37f",
             "sha1": "fa98524793ce31ec5e442d068a55ccc97b96da1a"
-        },
-        {
-            "name": "Kiki Kaikai - Nazo no Kuro Manteau (Japan)",
-            "crc": "1c57f2c6",
-            "md5": "37453d3e43601bc7c4b3c6fae4cb1397",
-            "sha1": "9afc61ff13312112880d6d5854baa6b529e0f250"
         },
         {
             "name": "Kiki Kaikai - Tsukiyo Soushi (Japan)",
@@ -6794,9 +6842,9 @@
         },
         {
             "name": "SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack)",
-            "crc": "1c42fe34",
-            "md5": "325de3e006de9a0effbbed39cd2397f6",
-            "sha1": "a660de013d01da249df840ae4b5a5a3ba542c593"
+            "crc": "000",
+            "md5": "cdb770284b8f0fb7ad6ca24b7fbb5e44",
+            "sha1": "000"
         },
         {
             "name": "SMW - A Rushed Project (v1.4) (GalacticSpear) (Hack)",
@@ -6973,6 +7021,18 @@
             "sha1": "a8ba8ccd3fc9ad2ea6924a8981008b1f8c2e7c36"
         },
         {
+            "name": "SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack)",
+            "crc": "000",
+            "md5": "e0db3f6076f2d54f1de885b82c3794f0",
+            "sha1": "000"
+        },
+        {
+            "name": "SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack)",
+            "crc": "000",
+            "md5": "4c7828aa9798ef21a740692b5c1c4669",
+            "sha1": "000"
+        },
+        {
             "name": "SMW - Christmas Edition (v1.3.2) (Nowieso) (Hack)",
             "crc": "dbfa3a62",
             "md5": "490e911ed23a5c4ef17cd06aadb02111",
@@ -7115,6 +7175,12 @@
             "crc": "c48cbf50",
             "md5": "f2a9ee6fafc936562edaf6199ac81e35",
             "sha1": "c9c25df5a10c392c2603622bd675fbd33c351225"
+        },
+        {
+            "name": "SMW - Gaiden (v1.13) (SMWG Team) (Hack)",
+            "crc": "000",
+            "md5": "ab1f18177f0b078eaf9a97bdeab0ba6d",
+            "sha1": "000"
         },
         {
             "name": "SMW - Gambol (v1.1) (JezJitzu) (Hack)",
@@ -9547,6 +9613,12 @@
             "sha1": "5a194fe6812fbf3657f59e711eed00eec1f84e0a"
         },
         {
+            "name": "Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)",
+            "crc": "000",
+            "md5": "7ecaf3e2e021c8a836041c85886f4594",
+            "sha1": "000"
+        },
+        {
             "name": "Super Mario Kart (Europe)",
             "crc": "56410e5e",
             "md5": "f9fe266e91632e68b558d6b43393eaba",
@@ -10175,6 +10247,12 @@
             "crc": "14612848",
             "md5": "9bb90422fcfb32581121a7d8588827b0",
             "sha1": "5d1f0ab7bc58ebf5423e23bc1ee9bff5a070c742"
+        },
+        {
+            "name": "Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno)",
+            "crc": "000",
+            "md5": "6c4ed1ee8586d3c0f9d8dfae133100d1",
+            "sha1": "000"
         },
         {
             "name": "Tales of Phantasia (Japan) (Fr) (v1.0) (DeJap, Terminus)",

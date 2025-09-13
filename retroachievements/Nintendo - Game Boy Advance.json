@@ -55,6 +55,12 @@
             "sha1": "5125bbbbf1df7782590d99273735826636a2f9ba"
         },
         {
+            "name": "Advance GTA (Japan) (En) (Rev 1)",
+            "crc": "000",
+            "md5": "266da549741dbc9b9c902c113b13b4b6",
+            "sha1": "000"
+        },
+        {
             "name": "Advance Guardian Heroes (USA)",
             "crc": "c501917f",
             "md5": "a26c440065d89f56275644ffa34140ef",
@@ -275,6 +281,12 @@
             "crc": "db6160eb",
             "md5": "fcab58352e45a97a7becbecc948ea076",
             "sha1": "4ac1502b9b292584beecb8c7baf1abbcdb3a2d75"
+        },
+        {
+            "name": "Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)",
+            "crc": "000",
+            "md5": "8c48059bf2c40a78b9739edf5ea411cb",
+            "sha1": "000"
         },
         {
             "name": "Battle B-Daman (USA)",
@@ -697,10 +709,22 @@
             "sha1": "fb09408fa7c5aeac058e1b6be5a59fb98530b3fa"
         },
         {
+            "name": "Celeste (World) (v1.1 Beta) (Aftermarket)",
+            "crc": "000",
+            "md5": "b80cc711be05a40a2707fbf8027f120e",
+            "sha1": "000"
+        },
+        {
             "name": "Celeste Classic (World) (v1.2) (Aftermarket)",
             "crc": "ff0e8ada",
             "md5": "9bcd687293600451abdd0f181b2427e8",
             "sha1": "08512605e5c02e81a72e24c2c8d4959d8e84e1f4"
+        },
+        {
+            "name": "Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket)",
+            "crc": "000",
+            "md5": "c54284810931820a1b3e9e86b7aac6f1",
+            "sha1": "000"
         },
         {
             "name": "Chaoji Maliou DX (Taiwan) (Unl)",
@@ -2335,6 +2359,12 @@
             "sha1": "a733e689f5b91642470034e42bfc3612d089a25d"
         },
         {
+            "name": "Hachiemon (Japan)",
+            "crc": "000",
+            "md5": "6c8460b00a7dcade834b0579116771db",
+            "sha1": "000"
+        },
+        {
             "name": "Hagane no Renkinjutsushi - Meisou no Rondo (Japan)",
             "crc": "a8cda373",
             "md5": "11a1c991749ededfce2cef42e1019cc7",
@@ -2483,6 +2513,12 @@
             "crc": "9592f553",
             "md5": "5ea3eec1d71c05f46321ce090ca791ee",
             "sha1": "e6a3ae1e4a58e47c78719a7f6a7e1ed0c37b34e6"
+        },
+        {
+            "name": "I Spy Challenger! (USA)",
+            "crc": "000",
+            "md5": "a3201407f7988a563f4dfb243db02bcb",
+            "sha1": "000"
         },
         {
             "name": "IK+ (USA)",
@@ -4757,6 +4793,12 @@
             "crc": "3d2b7e9a",
             "md5": "564728f953486c7f8af022f7765bcc93",
             "sha1": "7ed0b27ce1537610d62e3265ee1d8e7aa09ac649"
+        },
+        {
+            "name": "Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket)",
+            "crc": "000",
+            "md5": "65080cc9ae25fc558c6fb0a1eb0a3b2b",
+            "sha1": "000"
         },
         {
             "name": "Postman Pat and the Greendale Rocket (Europe) (En,No,Da)",

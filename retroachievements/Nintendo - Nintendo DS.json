@@ -229,6 +229,12 @@
             "sha1": "a95be37bf2f2f6e503c95e8a2879629fcf2d8a6f"
         },
         {
+            "name": "Avatar - The Last Airbender (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv) (B6RP)",
             "crc": "9b12e0dd",
             "md5": "bbc72fff53adc04d27ab2f844db99469",
@@ -727,6 +733,12 @@
             "sha1": "5a10f157be416aa0f2542b04c32b68845ea09034"
         },
         {
+            "name": "Crash Boom Bang! (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Crash of the Titans (USA)",
             "crc": "ed0b8be6",
             "md5": "515a9f6d9d59e0ae25b9d2785a629e32",
@@ -1147,6 +1159,12 @@
             "sha1": "18f7004f74c83feba40f003641ec00571e52a301"
         },
         {
+            "name": "Final Fantasy Crystal Chronicles - Ring of Fates (Europe) (En,Fr,De,Es)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Final Fantasy Fables - Chocobo Tales (Europe) (En,Fr,De,Es,It)",
             "crc": "459b836d",
             "md5": "a392490af90e31f2ce68d18b11833080",
@@ -1397,6 +1415,12 @@
             "crc": "e6768498",
             "md5": "0f23562178106c6d28404b88bdb87ec2",
             "sha1": "0147662dc5f306aa1d8e6abba5c9a172e705f10a"
+        },
+        {
+            "name": "Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Hotel Dusk - Room 215 (Europe) (En,Fr,De,Es,It)",
@@ -3809,6 +3833,48 @@
             "crc": "b7481ff7",
             "md5": "47cfc1ef624ea3a43f1aa0a49d551d1a",
             "sha1": "179428d69edee7b1df83e2fc6e20d0ec0cc855b7"
+        },
+        {
+            "name": "Shrek - Oger und Dresel (Germany)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Shrek - Ogres & Dronkeys (Netherlands)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Shrek - Ogres & Dronkeys (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Shrek - Ogres & Dronkeys (United Kingdom)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Shrek - Ogres et Dranons (France)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Shrek - Ogritos y Drasnos (Spain)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Shrek - Orchetti e Ciuchini (Italy)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Sid Meier's Civilization Revolution (Europe) (En,Fr,De,Es,It)",

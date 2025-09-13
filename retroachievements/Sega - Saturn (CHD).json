@@ -13,18 +13,6 @@
             "sha1": "49f541add29211786b2afb9faf521aade6fa49c6"
         },
         {
-            "name": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (PSP Script) (v1.1) (Meduza Team)",
-            "crc": "5c0ae736",
-            "md5": "0b29d8618e0f00e8ecad72cbde1eeeec",
-            "sha1": "5d91741acf50d84b474dfc32806c5cb053c12423"
-        },
-        {
-            "name": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (v1.021) (KoD)",
-            "crc": "aa363f54",
-            "md5": "1b2b536547d66bfeb0f4f64966612b0a",
-            "sha1": "1a5b739b67d21df976d75887279a46b01770d077"
-        },
-        {
             "name": "Albert Odyssey - Legend of Eldean (USA)",
             "crc": "b7b62d4e",
             "md5": "bc0cdf99413553d1a58ff3559bb3dea1",
@@ -289,6 +277,30 @@
             "sha1": "a883b821199b7e191ca23349df8e815788972a21"
         },
         {
+            "name": "Deep Fear (Europe) (Disc 1)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Deep Fear (Europe) (Disc 2)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Deep Fear (USA) (Disc 1) (Unl)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Deep Fear (USA) (Disc 2) (Unl)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Densetsu no Ogre Battle (Japan)",
             "crc": "d92a8966",
             "md5": "b22114c7ac22f8792b57b3a05dc0c6cf",
@@ -497,6 +509,12 @@
             "crc": "798831e5",
             "md5": "763ce6eaa8517aa7f6ec605eb1e9dd1b",
             "sha1": "0bfd4969d8562514f42e0d8e7b83e10b1f6ba804"
+        },
+        {
+            "name": "Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Kyuutenkai (Japan)",

@@ -211,6 +211,12 @@
             "sha1": "709595f04defcc55181f7502a0065e4c22d5fb19"
         },
         {
+            "name": "Cratermaze (USA)",
+            "crc": "000",
+            "md5": "653c1be1f0f5e032bc3ec6b4e2823b98",
+            "sha1": "000"
+        },
+        {
             "name": "Cyber-Core (USA)",
             "crc": "4cfb6e3e",
             "md5": "c16b1aee2d7023b410dd5e513c4aec0b",
@@ -275,6 +281,12 @@
             "crc": "6634dc79",
             "md5": "bccc45446bdcc231d8edb4475c4eceb1",
             "sha1": "6a2c7e3f9eee051bf6f929493b66e1c3d9bfae82"
+        },
+        {
+            "name": "Doraemon - Meikyuu Daisakusen (Japan)",
+            "crc": "000",
+            "md5": "77cf3e53c5e4fbef73087893cdeec84f",
+            "sha1": "000"
         },
         {
             "name": "Doraemon - Nobita no Dorabian Night (Japan)",

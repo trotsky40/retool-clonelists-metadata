@@ -241,6 +241,12 @@
             "sha1": "a8a00e2c6590896735e007102eefba39ba887161"
         },
         {
+            "name": "Bust-A-Move - Deluxe (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Canabalt (USA) (minis) (PSN)",
             "crc": "481c8d3e",
             "md5": "c7f0d0269065ca3453e9157370975714",
@@ -527,6 +533,12 @@
             "crc": "e6d1434b",
             "md5": "983838fb2be7e72b2bc945f8fb6b916e",
             "sha1": "c03f727c9c7a254924f662076335b302cffc4243"
+        },
+        {
+            "name": "Dragonball - Evolution (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "DreamWorks Shrek the Third (USA)",
@@ -1543,6 +1555,12 @@
             "sha1": "313321ab3c432af14869a572b832db2ba330ee60"
         },
         {
+            "name": "Namco Museum Battle Collection (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Naruto - Ultimate Ninja Heroes (Europe) (En,Fr,De,Es,It)",
             "crc": "ccb56460",
             "md5": "eac709e533f52db9d2f5926969ee5284",
@@ -1667,6 +1685,12 @@
             "crc": "9a8a39af",
             "md5": "0f50a8305d521faf28dbe623063b1b1b",
             "sha1": "261c12a600fb878cbcb2ea61f2f4c585d47249c4"
+        },
+        {
+            "name": "Patapon 3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Patchwork Heroes (Europe) (En,Fr,De,Es,It) (PSP) (PSN)",
@@ -2041,6 +2065,12 @@
             "sha1": "321ff2143b4c3e8aa24efcf52ffe577c9739f57b"
         },
         {
+            "name": "Sunday vs. Magazine Shuuketsu! Choujou Daikessen (Japan)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (En) (v0.5a) (The Porting Dude)",
             "crc": "21c338dc",
             "md5": "605af2519219b14f28380a7639ff4243",
@@ -2267,6 +2297,12 @@
             "crc": "062ef3ce",
             "md5": "bc5f0700700a8fc219c87034a26e2fed",
             "sha1": "f018fa4a354dd7f82f843358a77df67e0cc91f50"
+        },
+        {
+            "name": "Warriors, The (Europe)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Where is my Heart (Europe) (minis) (PSN)",

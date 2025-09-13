@@ -1483,6 +1483,12 @@
             "sha1": "c370523b884603b5602207aea7d430e7f812e940"
         },
         {
+            "name": "Castlevania II - Simon's Quest (Subset - Full Game Damageless)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Castlevania II - Simon's Quest (USA)",
             "crc": "38e82fab",
             "md5": "87dae73b0c4c8fdeba8cf4209df87e2c",
@@ -1583,6 +1589,18 @@
             "crc": "8b3fad44",
             "md5": "75ae41bd0e5336e531c7b6ea5703d539",
             "sha1": "d6cacfd0564b4c3de93d4c47563c5be6fb22a37f"
+        },
+        {
+            "name": "Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Chase (World) (v1.2) (Aftermarket)",
@@ -9001,6 +9019,12 @@
             "sha1": "a62f997da28e2776dc4fe7b6a32f9179e971e4c0"
         },
         {
+            "name": "Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Rockman CX (Beta 5) (Himajin Jichiku) (Rockman 2) (Hack)",
             "crc": "8bf82c60",
             "md5": "84f4a3daa61b437172ed2a3f6af94263",
@@ -9161,12 +9185,6 @@
             "crc": "3fbcea10",
             "md5": "0d1ccf4f553197d1f6605c3422b45484",
             "sha1": "a11d9577f6bf4f92f34fb7c9fa2210ee322eaab9"
-        },
-        {
-            "name": "SMB1 - Celeste Mario's Zap & Dash! (v1.0) (w7N) (Hack)",
-            "crc": "abc3bc39",
-            "md5": "7960ded91bfb74573366f26603d0261b",
-            "sha1": "841c96888bf36a431a5dce3913df564f5b5cb16a"
         },
         {
             "name": "SMB1 - Celeste Mario's Zap & Dash! (v1.0) (w7N) (Patch) (Hack)",
@@ -9635,6 +9653,12 @@
             "crc": "ae2bb564",
             "md5": "ddbf9726e9ef8ee1e976d6954e9282d3",
             "sha1": "c28043255655d32e2347be85b834bfaf801b9220"
+        },
+        {
+            "name": "Simpsons, The - Bartman Meets Radioactive Man (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Sir Ababol (World) (Remastered) (Aftermarket)",
@@ -10117,6 +10141,12 @@
             "sha1": "92fbbb836cc34ce16b80641b78d3a1254561cc48"
         },
         {
+            "name": "Super Contra 8 (China) (En) (Pirate) (Unl)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Super Dodge Ball (USA)",
             "crc": "9400ba7f",
             "md5": "f8b41a9c3444061b148fe948685b7138",
@@ -10597,6 +10627,12 @@
             "sha1": "ad03f42ea1cb0673f2cb1c23d6b579ad392647f0"
         },
         {
+            "name": "Tetris (Nintendo) (Subset - Master)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Tetris (USA)",
             "crc": "d16ea396",
             "md5": "886012ac3b3fbf4a244dead999788fe8",
@@ -10771,7 +10807,7 @@
             "sha1": "bb4fe88f0e743a0c2d6c1a11a20bc8ca0138079e"
         },
         {
-            "name": "Toobin' (USA)",
+            "name": "Toobin' (USA) (Unl)",
             "crc": "1461f263",
             "md5": "1d0084cadaef9c015dfc36bb137b6109",
             "sha1": "c41e7c4d3198432ffee22192963231eee89b5c6f"
@@ -11555,6 +11591,12 @@
             "crc": "a3356a90",
             "md5": "567cafedc9c0a3ffa0c640253933cb43",
             "sha1": "af755bc217cef0046541bedc8628098e0bf0d33d"
+        },
+        {
+            "name": "Yun (World) (v5) (Aftermarket)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Zanac (USA)",

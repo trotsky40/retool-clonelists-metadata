@@ -601,6 +601,12 @@
             "sha1": "6024341f559c3789b5612e941c8d0ab227ff6361"
         },
         {
+            "name": "Building Crush! (Japan)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Bushido Blade (USA)",
             "crc": "db065489",
             "md5": "93df824e6f88ffc7a47fd28eb6c84de7",
@@ -935,6 +941,18 @@
             "crc": "6dac1904",
             "md5": "3fd9c72a3d4bafef12e78bf4bd61b5d1",
             "sha1": "4d595880ebb6c6f7a2b63d9503b733f44b1ef230"
+        },
+        {
+            "name": "Colony Wars - Red Sun (Europe)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Colony Wars - Red Sun (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Colony Wars - Vengeance (Europe)",
@@ -2227,7 +2245,13 @@
             "sha1": "ce44e4fb78b24ceaa7f9d55a7d85e0edfe97dc5b"
         },
         {
-            "name": "Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz) (Aftermarket)",
+            "name": "Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Five Nights at Freddy's 2 (World) (v1.0.3b) (Soeiz) (Aftermarket)",
             "crc": "46fa0ea2",
             "md5": "2d83239ad3153bf2bc6eb0895f220408",
             "sha1": "d58cd3b117fe644f8c085c4b887bac1c793d2cfa"
@@ -2267,6 +2291,12 @@
             "crc": "c697e2bc",
             "md5": "09a3d0dfeaea6f8db58606877b6eb66c",
             "sha1": "021f0548bbadb8980e02699bd24faa9aa17c84b8"
+        },
+        {
+            "name": "Front Mission 3 (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Future Cop - L.A.P.D. (USA)",
@@ -3643,16 +3673,16 @@
             "sha1": "94aa32ec2a2ebcaa7b16e59fe517b4b5da04bed1"
         },
         {
-            "name": "Monster Rancher 2 (Subset - 389 Major 4)",
-            "crc": "3904a08c",
-            "md5": "496a5ce3ca3949ee256ece4e4ab5213a",
-            "sha1": "05e3fc9613663c70f183f8611fbc59b1f6329c72"
-        },
-        {
             "name": "Monster Rancher 2 (USA)",
             "crc": "30af8007",
             "md5": "b41f1f33d1075f22cab7e180f812c0ac",
             "sha1": "e7418d1491e1809490b2e5fe20d738cb730e5e22"
+        },
+        {
+            "name": "Monster Rancher Battle Card - Episode II (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Monster Rancher Hop-A-Bout (USA)",
@@ -4309,6 +4339,12 @@
             "sha1": "eb6e928977a823e804eea1ce6662913b646a62e8"
         },
         {
+            "name": "Pop'n Music 6 (Japan)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Populous - The Beginning (USA)",
             "crc": "d31adbb6",
             "md5": "0b7c1250f482d7724b6558cc07a01673",
@@ -4603,6 +4639,18 @@
             "sha1": "19ee4d5633919418080fbcf093b6de450405d28a"
         },
         {
+            "name": "Resident Evil - Survivor (USA) (Light Gun Support) (Raziel)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Resident Evil 0 - Demake (v0.1) (Demo) (Hack)",
             "crc": "aade6b8a",
             "md5": "aefa8f53118ce3ec2e9a10e7fba93a1e",
@@ -4685,6 +4733,12 @@
             "crc": "3dc47521",
             "md5": "9e9b61f1ebba0b3f2d39bf138f2cbb8c",
             "sha1": "76ad9d43e892c0083e6f5c62477e4b63012b40c6"
+        },
+        {
+            "name": "Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Rhapsody - A Musical Adventure (USA)",
@@ -5887,6 +5941,12 @@
             "sha1": "e73534c82f5f7e96eedef8268d6f9e5cff28c2d1"
         },
         {
+            "name": "Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Time Crisis (USA)",
             "crc": "cf674d41",
             "md5": "eebb81e94ffa5b43be62ca2ce1e832e3",
@@ -6257,6 +6317,12 @@
             "crc": "19466cbb",
             "md5": "b83e9a7525a4bc0a1c4e1c4976ca1393",
             "sha1": "ffabfddc5d67aa0696a67abef2acf7a14acfd250"
+        },
+        {
+            "name": "Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Walt Disney's The Jungle Book - Rhythm n' Groove (USA)",

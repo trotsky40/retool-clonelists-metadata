@@ -883,12 +883,6 @@
             "sha1": "6df4f826b905cf72bf8883f2c62b87fb64a3c93b"
         },
         {
-            "name": "PMTTYD - The Tower of Trials (v2.03 r49) (Jdaster64) (Hack)",
-            "crc": "4bdcba1c",
-            "md5": "f2b45948f315e25b322e91311c5fe105",
-            "sha1": "0587090af56f9c46e9bf9d2c9f8ddfc684c8dac7"
-        },
-        {
             "name": "Paper Mario - The Thousand-Year Door (Europe) (En,Fr,De,Es,It)",
             "crc": "64747324",
             "md5": "8c3f2560c421aed8e737f1ecb6ab8829",
@@ -901,6 +895,18 @@
             "sha1": "1fbb7eaa7b4188c96f1019bac43439c972ba6758"
         },
         {
+            "name": "Paper Mario TTYD - The Tower of Trials (v3.10 r54) (Jdaster64) (Hack)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Paper Mario TTYD - The Tower of Trials (v3.11.1 r56) (Jdaster64) (Hack)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Phantasy Star Online Episode I & II Plus (Subset - Grind)",
             "crc": "f9bf46f3",
             "md5": "7a35d44842265c93c604528a4b161e3e",
@@ -911,6 +917,12 @@
             "crc": "a6325905",
             "md5": "5ec15c2ee372ce46de18637849a7a92e",
             "sha1": "0dcedebec63347cbcc0d06478cfad431656d9ea8"
+        },
+        {
+            "name": "Pikmin (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Pikmin (USA) (Rev 1)",
@@ -947,6 +959,12 @@
             "crc": "6d42ab73",
             "md5": "3b880874df8d881a79cd1d253b3f44d1",
             "sha1": "d6a8ca05195ffdaa22f56d99b586ba7b2c550982"
+        },
+        {
+            "name": "Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi) (Hack)",
@@ -1027,6 +1045,18 @@
             "sha1": "7cb4e9cffeb55a458ff7212096a8e1452262298e"
         },
         {
+            "name": "Resident Evil (USA) (Ru) (Team Raccoon and R.G. MVO) (Disc 1)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Resident Evil (USA) (Ru) (Team Raccoon and R.G. MVO) (Disc 2)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Resident Evil - Code - Veronica X (USA) (Disc 1)",
             "crc": "c4c9cae3",
             "md5": "d5a58560a4756d7d41e98a55111aa3bf",
@@ -1055,6 +1085,12 @@
             "crc": "5352d880",
             "md5": "6af1a948c9c79c2b2e162310fde6c94a",
             "sha1": "fd0c9601e9d63e96441add34abae75a0ee0feb78"
+        },
+        {
+            "name": "Resident Evil 3 - Nemesis (Unknown)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Resident Evil 4 (USA) (Disc 1)",
@@ -1667,6 +1703,12 @@
             "crc": "9316bcf1",
             "md5": "74193b1bfc5a74088b410ce89ff997bc",
             "sha1": "452cad2dde7a11836831612f870d0d546fd183f6"
+        },
+        {
+            "name": "TimeSplitters - Future Perfect (USA)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Tony Hawk's Pro Skater 4 (USA)",
