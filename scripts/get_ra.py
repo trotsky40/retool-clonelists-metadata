@@ -160,8 +160,10 @@ def update_ra(download_location: str) -> None:
                 'SNK Neo Geo CD (CHD)': 'SNK - Neo Geo CD (CHD)',
                 'SNK Neo Geo Pocket': 'SNK - NeoGeo Pocket',
                 'Sony Playstation 2': 'Sony - PlayStation 2',
+                'Sony Playstation 2 (CHD)': 'Sony - PlayStation 2 (CHD)',
                 'Sony Playstation': 'Sony - PlayStation',
                 'Sony PSP': 'Sony - PlayStation Portable',
+                'Sony PSP (CHD)': 'Sony - PlayStation Portable (CHD)',
                 'Super Nintendo Entertainment System': 'Nintendo - Super Nintendo Entertainment System',
                 'Watara Supervision': 'Watara - Supervision',
                 'WonderSwan': 'Bandai - WonderSwan',
@@ -254,3 +256,4 @@ def update_ra(download_location: str) -> None:
 
 if __name__ == '__main__':
     main(sys.argv[1])
+
