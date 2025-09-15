@@ -62,15 +62,15 @@
         },
         {
             "name": "25 to Life (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "8bfc5c17",
+            "md5": "459ae82ebaf56fb279427b1d48e52073",
+            "sha1": "850db07ea427798e7665c01ba2d9eb05aa198522"
         },
         {
             "name": "25 to Life (USA) (60fps) (v1.0) (Souzooka)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "86ae94d0",
+            "md5": "0a68bf5f8b02ac6c7ac56fabb7b9801e",
+            "sha1": "680ea581576c1b971eaddd9e0c1bb96c91dd21bf"
         },
         {
             "name": "50 Cent - Bulletproof (USA)",
@@ -98,9 +98,9 @@
         },
         {
             "name": "Ace Combat - Squadron Leader (Europe, Australia) (En,Fr,De,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "03acd210",
+            "md5": "203d76050b083cae31794892f9969147",
+            "sha1": "0ad79c8763ad3ba27f833f45ca3d5d02e191182e"
         },
         {
             "name": "Ace Combat - The Belkan War (Europe, Australia) (En,Fr,De,Es,It)",
@@ -116,15 +116,15 @@
         },
         {
             "name": "Ace Combat 5 - The Unsung War (Japan)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "d351c192",
+            "md5": "86fe4e3d7f274f5c60c2bac75edd190f",
+            "sha1": "f00b09d118e12d7d5acc92b053f1a5427c4a0082"
         },
         {
             "name": "Ace Combat 5 - The Unsung War (USA) (En,Ja)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "aa955654",
+            "md5": "8fcc89eaf8a5481bce65ef713d42a6c1",
+            "sha1": "b0823e719afac1d6b9c4ce1697bd6b8546382e8d"
         },
         {
             "name": "Ace Combat Zero - The Belkan War (USA)",
@@ -254,9 +254,9 @@
         },
         {
             "name": "Asterix & Obelix XXL 2 (Europe) (En,Fr,De,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "ef983a52",
+            "md5": "033f4d9912299d764ea4cc7d7fc2868f",
+            "sha1": "0ce1fe828ca54526915d92ef2e7bf3b9e9685689"
         },
         {
             "name": "Atelier Iris - Eternal Mana (USA)",
@@ -302,15 +302,15 @@
         },
         {
             "name": "Batman Begins (Europe) (En,Fr,De,Es,It,Nl,Sv)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "b9c50982",
+            "md5": "9c3462820eda022afe57e007c856676f",
+            "sha1": "3380b57d641f3dd6669b7f3944b11f8fe930c330"
         },
         {
             "name": "Batman Begins (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "039a3585",
+            "md5": "1411f95d760fb6b2f47d9d71be7406ec",
+            "sha1": "96c050fe253ec7880d7ce33bf716d25a6d57786e"
         },
         {
             "name": "Battle Stadium D.O.N (Japan)",
@@ -458,9 +458,9 @@
         },
         {
             "name": "Buffy the Vampire Slayer - Chaos Bleeds (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "45e13c34",
+            "md5": "6f26b1547f9458a6a5c03da8c42933f0",
+            "sha1": "38f6a0a83941dfccc4b242b6c0543cb626cff2e3"
         },
         {
             "name": "Bully (USA)",
@@ -524,27 +524,27 @@
         },
         {
             "name": "Call of Duty - World at War - Final Fronts (Europe) (En,Fr,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "23fcaeb1",
+            "md5": "7455e70dc7171afb80af13dd7c290565",
+            "sha1": "d135590f2ad4cd29dcf6edc04d3d360d8511d252"
         },
         {
             "name": "Call of Duty - World at War - Final Fronts (Germany)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "bddb4ad6",
+            "md5": "e6d349f7b14a736df7ce00fdc571028c",
+            "sha1": "5c774a5ec2bb2e70b2e5e66473840878499f36a8"
         },
         {
             "name": "Call of Duty - World at War - Final Fronts (Korea) (En,Fr)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "87e083ab",
+            "md5": "fd46dd639a28f9f8ec7475f999d8b653",
+            "sha1": "a8796f26f591236827588eebaaf2c2ce43e52c3b"
         },
         {
             "name": "Call of Duty - World at War - Final Fronts (USA) (En,Fr)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "6e9730c6",
+            "md5": "1cda43af4beb779a1429fa9f1473235a",
+            "sha1": "44d3895eaaf602503584ba721fbc1fa13f15b1dd"
         },
         {
             "name": "Call of Duty 2 - Big Red One (USA)",
@@ -1178,9 +1178,9 @@
         },
         {
             "name": "Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "342d6e04",
+            "md5": "88c5cb66511d9ae39faf021352ad502d",
+            "sha1": "c9b5f638a48d6d3f27feb97cb71a9534d9fe170a"
         },
         {
             "name": "Disney's Extreme Skate Adventure (USA)",
@@ -1190,9 +1190,9 @@
         },
         {
             "name": "Disney's Kim Possible - What's the Switch (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "ea76dfa2",
+            "md5": "2461c76e1c7c82251edf85f5f2c866bd",
+            "sha1": "11659d5313e129f503d895b69e00ed22cedff278"
         },
         {
             "name": "Disney's Lilo and Stitch - Stitch no Daibouken (Japan)",
@@ -1202,9 +1202,9 @@
         },
         {
             "name": "Disney's PK - Out of the Shadows (USA) (En,Fr,De,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "b8ae2fc5",
+            "md5": "a3d9b91a652d3a2dd879331253be4b79",
+            "sha1": "8417aa16496e3bb9a6ced2fa957b8a994a93f8a2"
         },
         {
             "name": "Disney's Stitch - Experiment 626 (Europe) (En,Sv)",
@@ -1598,15 +1598,15 @@
         },
         {
             "name": "Dynasty Warriors 3 - Xtreme Legends (Subset - Max Item Break)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "fa5cf66c",
+            "md5": "59fc617779cfaaba1a3e6d6437ce30a7",
+            "sha1": "d0df3ccad6b86a363981e36f86c4ad0b217260d6"
         },
         {
             "name": "Dynasty Warriors 3 - Xtreme Legends (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "deeec302",
+            "md5": "a23bba03ad722b382791bebc52e2317f",
+            "sha1": "8d34af78676abf92ca98d6410a855015d28c017d"
         },
         {
             "name": "Dynasty Warriors 4 (USA)",
@@ -2018,9 +2018,9 @@
         },
         {
             "name": "Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "6e53361a",
+            "md5": "4983288ecdb5622afacb14a9c6c5808b",
+            "sha1": "ca5bd90ff19ec7ac8406e27247ec49ec5340fabc"
         },
         {
             "name": "Garfield - Lasagna World Tour (USA)",
@@ -2054,9 +2054,9 @@
         },
         {
             "name": "Ghost Rider (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "41798329",
+            "md5": "ca98880e7f298197a02b1435bb5876ae",
+            "sha1": "b2d3b644361ca6c67741894689bae4930ca3c86b"
         },
         {
             "name": "Ghostbusters - The Video Game (USA)",
@@ -2588,9 +2588,9 @@
         },
         {
             "name": "Harry Potter and the Order of the Phoenix (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "620f2acb",
+            "md5": "19f03145b976e15e3e5ed46d7a092950",
+            "sha1": "a6f5bd9f38567b56d532fa9374a0aa24e8a958f9"
         },
         {
             "name": "Harry Potter and the Philosopher's Stone (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
@@ -2744,9 +2744,9 @@
         },
         {
             "name": "Home Alone (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "e760658c",
+            "md5": "8831cc3591545ef4f160c0d54b603f7a",
+            "sha1": "39e0327c631bcd386929bcf52a7639efcb5a20fa"
         },
         {
             "name": "Hot Shots Golf 3 (USA) (v2.00)",
@@ -2900,9 +2900,9 @@
         },
         {
             "name": "Jelly Belly - Ballistic Beans (Europe) (En,Fr,De,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "b60538d4",
+            "md5": "aec5abb4e6c6eb989becb1de77fbb6fd",
+            "sha1": "5dce0519acb890921379c8354d4a86ff3b018c6e"
         },
         {
             "name": "Jeopardy! (USA)",
@@ -3026,9 +3026,9 @@
         },
         {
             "name": "King's Field - The Ancient City (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "879215a7",
+            "md5": "e4c7bc4021db07893580f70e66cff3f6",
+            "sha1": "740dea0261935cb8442e19ff17959b324061857b"
         },
         {
             "name": "Kingdom Hearts (Germany)",
@@ -3494,15 +3494,15 @@
         },
         {
             "name": "Mega Man X7 (USA) (Proto) (2003-02-20)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "c35133c7",
+            "md5": "195f083c01e7f3eaa98dd4809ed1a477",
+            "sha1": "df330be4722c129e52851dfa9a8aa145bf33f0d1"
         },
         {
             "name": "Mega Man X7 (USA) (Proto) (2003-05-11)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "b5a445f3",
+            "md5": "a90ba1415b79e92cc250e3c86585567e",
+            "sha1": "c4bc623ae037a84d57f7841ff50dc06316f34833"
         },
         {
             "name": "Mega Man X7 - N's Edition (v1.2.2)",
@@ -4106,27 +4106,27 @@
         },
         {
             "name": "OutRun 2 SP (Japan)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "1b6c4f3f",
+            "md5": "f3f73f6b7c7b9eb4a76a50fdbe72d6d2",
+            "sha1": "56436705576595f55dad1ef64046e10da4569bcc"
         },
         {
             "name": "OutRun 2 SP (Japan) (En) (v1.0) (TheMrIron2)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "27855dad",
+            "md5": "56a74cb1e8d1939d7e3ce52e1421b124",
+            "sha1": "646fe1d29a58cbccaad2120705c9c4de382a0b40"
         },
         {
             "name": "OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "da7e7ce8",
+            "md5": "e41576287d3547b3cbb0c01211852a33",
+            "sha1": "e2d792a2892cef0ef2a85d17fc350799a18ac0c9"
         },
         {
             "name": "OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "ad3efe18",
+            "md5": "fd0f196594fd5c6f9c1c163da0a7681e",
+            "sha1": "fe7a36ac2a9f832b7efa50be31df6ec6d5f99ec6"
         },
         {
             "name": "PES 6 - Pro Evolution Soccer (Europe)",
@@ -4316,9 +4316,9 @@
         },
         {
             "name": "Project - Snowblind (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "9cdca085",
+            "md5": "5a434db3881f008cfc871864bd41842b",
+            "sha1": "cfa17d390df4947fe250002050ec98383e514ec5"
         },
         {
             "name": "Project Zero (Europe) (Undub) (Fixes) (Widescreen)",
@@ -4448,9 +4448,9 @@
         },
         {
             "name": "Rayman 2 - Revolution (USA) (En,Fr,De,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "4f9ac0f1",
+            "md5": "adb3ab8eb9769ad2e87580dc69f4dd94",
+            "sha1": "4d750a655609a4e0a9d0e29f04fddc15ddcffdeb"
         },
         {
             "name": "Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It)",
@@ -4754,9 +4754,9 @@
         },
         {
             "name": "Saru! Get You! 2 - Ukki Ukki Disc (Japan)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "4a612007",
+            "md5": "244c25cc42668a01dbe62793d87d6f71",
+            "sha1": "d52494b47c2fde05f85feae2552e292cbc5d863b"
         },
         {
             "name": "Scarface - The World Is Yours (USA)",
@@ -5714,9 +5714,9 @@
         },
         {
             "name": "Teen Titans (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "911111da",
+            "md5": "97ea6453c36efc163ca84004005f14be",
+            "sha1": "403f867be5aaec8ab6d2a7e69c6fcf7806ac62eb"
         },
         {
             "name": "Teenage Mutant Ninja Turtles (USA)",
@@ -5900,9 +5900,9 @@
         },
         {
             "name": "Tom Clancy's Splinter Cell (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "956f3a40",
+            "md5": "b90430e623541f6a18f3094fb249cdff",
+            "sha1": "a5f34f71a3453d6dba591463161e84514c98996b"
         },
         {
             "name": "Tom and Jerry in War of the Whiskers (USA) (En,Es)",
@@ -6278,15 +6278,15 @@
         },
         {
             "name": "Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "7c954b44",
+            "md5": "93bb0b61824e308e6add868bed145ba8",
+            "sha1": "64bc7be6731b9d452734d32a070df85cff92ee27"
         },
         {
             "name": "Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "b02c9334",
+            "md5": "b9d891029d421b950e7fd7dfd32cc0bf",
+            "sha1": "e4bd030c79d50a48a63d9689b536480e7214dd3b"
         },
         {
             "name": "Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 1)",

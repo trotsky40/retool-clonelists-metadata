@@ -896,15 +896,15 @@
         },
         {
             "name": "Paper Mario TTYD - The Tower of Trials (v3.10 r54) (Jdaster64) (Hack)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "2b2c99d6",
+            "md5": "05836d782a3ab43b5adda0cffd38263d",
+            "sha1": "ac10eb36d45677780da02924549a92c287141132"
         },
         {
             "name": "Paper Mario TTYD - The Tower of Trials (v3.11.1 r56) (Jdaster64) (Hack)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "d8c74918",
+            "md5": "08a94d98148f4092566ec48f6906f5bd",
+            "sha1": "1ad6979e9d33195f672d1ed17acd3ef6b692e1db"
         },
         {
             "name": "Phantasy Star Online Episode I & II Plus (Subset - Grind)",
@@ -920,9 +920,9 @@
         },
         {
             "name": "Pikmin (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "f2f31518",
+            "md5": "df5a6de6750ea8163cd71d749c1ac7a9",
+            "sha1": "874a6c54b360270a74d5fc533185816f3e553211"
         },
         {
             "name": "Pikmin (USA) (Rev 1)",
@@ -962,9 +962,9 @@
         },
         {
             "name": "Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "2b378144",
+            "md5": "e387b5e3d1ca033b29a1416bd4f48ac8",
+            "sha1": "1aae1fcf1589ca9e9194436c2d29258015fd90e4"
         },
         {
             "name": "Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi) (Hack)",
@@ -1087,10 +1087,10 @@
             "sha1": "fd0c9601e9d63e96441add34abae75a0ee0feb78"
         },
         {
-            "name": "Resident Evil 3 - Nemesis (Unknown)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "name": "Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (Akella, Ivan89el)",
+            "crc": "923497d4",
+            "md5": "ef6805e8869d89d6cecbaad5210a39c6",
+            "sha1": "c0e5cf63f97a6e6a95f4623e770168f4af15b7b0"
         },
         {
             "name": "Resident Evil 4 (USA) (Disc 1)",
@@ -1706,9 +1706,9 @@
         },
         {
             "name": "TimeSplitters - Future Perfect (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "329b03c9",
+            "md5": "90e7ad1498b68cf1bbd18d633268781a",
+            "sha1": "64432bc59e31d0d3e9e60526c7f71cbfd32591d2"
         },
         {
             "name": "Tony Hawk's Pro Skater 4 (USA)",

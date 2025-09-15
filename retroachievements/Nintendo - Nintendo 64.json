@@ -914,33 +914,33 @@
         },
         {
             "name": "LoZ - Romhack Jam 1 - Barjack's Merda (Barjack) (Hack)",
-            "crc": "000",
+            "crc": "837829d1",
             "md5": "04deca5e128eeef38a8cf100d8cdbb79",
-            "sha1": "000"
+            "sha1": "78b0479cee802477b0ba42dd5986e8337849892f"
         },
         {
             "name": "LoZ - Romhack Jam 1 - Halflight Shrine (PlushimaTitania) (Hack)",
-            "crc": "000",
+            "crc": "0f69bb25",
             "md5": "e01e7afe6e6edc60bdc755ad4dfb717e",
-            "sha1": "000"
+            "sha1": "acf8df1634853c743cc56c95ae82ea73ed7170bb"
         },
         {
             "name": "LoZ - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc) (Hack)",
-            "crc": "000",
+            "crc": "06a5d352",
             "md5": "4e76858409fe32bca0e9fccc4f7bd4e1",
-            "sha1": "000"
+            "sha1": "fb6cb45e5c630bfa2db068d29f4264fe3d1b1684"
         },
         {
             "name": "LoZ - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight) (Hack)",
-            "crc": "000",
+            "crc": "ddd22369",
             "md5": "e5c3c8477abb0901915f52a3f41eaf3d",
-            "sha1": "000"
+            "sha1": "aee31fcff0cf192920c44165b3923acf3b477c76"
         },
         {
             "name": "LoZ - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure) (Hack)",
-            "crc": "000",
+            "crc": "64b14e9d",
             "md5": "680480a85e2985ed609d6dde913a2506",
-            "sha1": "000"
+            "sha1": "76a7642963c809f1fca31018a708807aaffad224"
         },
         {
             "name": "LoZMM - Ice Arrow is Missing (jimmie1717) (Part 01) (Hack)",
@@ -2240,9 +2240,9 @@
         },
         {
             "name": "Quest 64 - Hard Mode (v0.9.8.2) (Landmine36) (Hack)",
-            "crc": "000",
+            "crc": "4d3324a8",
             "md5": "7d6426f22bedbba9f3b956d489d072ba",
-            "sha1": "000"
+            "sha1": "bc703c1271cf297fe2fc06c7adf3c6fefe97ba45"
         },
         {
             "name": "RR64 - Ridge Racer 64 (USA)",
@@ -2732,9 +2732,9 @@
         },
         {
             "name": "SM64 - Green Demon Challenge (v2.0) (IngoH) (Hack)",
-            "crc": "000",
+            "crc": "197d31cd",
             "md5": "e9dd0b7adf0193f444a718be230e565b",
-            "sha1": "000"
+            "sha1": "306886c41ede52cebc4bbbb83dfd3daba8096b0f"
         },
         {
             "name": "SM64 - Green Star Revenge 3 - Back to the Safe Sear Temples (v2.0) (Lugmillord) (Hack)",
@@ -2804,9 +2804,9 @@
         },
         {
             "name": "SM64 - Katze Stuck in the Toilet 64 (Console Compatible) (Tomatobird8) (Hack)",
-            "crc": "000",
+            "crc": "c1da101c",
             "md5": "3070a074b89292d7edc9879473eb5231",
-            "sha1": "000"
+            "sha1": "6448c44a02d44c4492521ce1897b68d7aea2a758"
         },
         {
             "name": "SM64 - Ks Christmas (Hack)",
@@ -3218,9 +3218,9 @@
         },
         {
             "name": "SM64 - Omega Mario 64 (v1.1) (Omega_Merk, FrostyZako) (Hack)",
-            "crc": "000",
+            "crc": "da0ea233",
             "md5": "f87d6a9a0018fb018b3e43d62347f231",
-            "sha1": "000"
+            "sha1": "592e98af79cd6c7fe572dc66a0cd7374949b434e"
         },
         {
             "name": "SM64 - Only Up! 64 (v1.1) (Kaze Emanuar) (Hack)",
@@ -4772,15 +4772,15 @@
         },
         {
             "name": "World Driver Championship (Europe) (En,Fr,De,Es,It)",
-            "crc": "000",
+            "crc": "76151df6",
             "md5": "431de8f6611a8131b536f0ede1f330d9",
-            "sha1": "000"
+            "sha1": "7b054d1580cc263429eb6961ad6ed6e0140e1df0"
         },
         {
             "name": "World Driver Championship (USA)",
-            "crc": "000",
-            "md5": "7C567A5BB1AD4CBE414FB6BBFF66E336",
-            "sha1": "000"
+            "crc": "5e4acbfa",
+            "md5": "7c567a5bb1ad4cbe414fb6bbff66e336",
+            "sha1": "93227776f59b42e9fb1c942eba9d5b465eeb3979"
         },
         {
             "name": "Yoshi's Story (Subset - Brutal Scores)",

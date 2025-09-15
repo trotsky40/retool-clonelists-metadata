@@ -547,7 +547,7 @@
             "sha1": "d52d4da6199d999c7ee140ba1f6490ba4ea1f3fd"
         },
         {
-            "name": "Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen)Biohazard - Code - Veronica - Kanzenban (Japan)",
+            "name": "Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen)",
             "crc": "9512c356",
             "md5": "154a4d83cb4e0335f4c76cb26ec559f0",
             "sha1": "67e2a9f7dd7212a61eaa0de1b2ec7584d322a565"
@@ -590,9 +590,9 @@
         },
         {
             "name": "Resident Evil 2 (Subset - Bonus)",
-            "crc": "ea8cb7c6",
-            "md5": "94dc0a910de8e5acebfdb3bd6e54ae00",
-            "sha1": "8a05aa59f1bdc2a56bdc4268defb618b0a2fba9f"
+            "crc": "e5a8b482",
+            "md5": "a3a5fa8d478a6f7527bca32d47e85cc4",
+            "sha1": "ac2208b91e6e841bd5040b6f7b46791be0a8dedb"
         },
         {
             "name": "Resident Evil 2 (USA)",

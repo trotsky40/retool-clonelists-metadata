@@ -602,9 +602,9 @@
         },
         {
             "name": "Building Crush! (Japan)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "f4380eed",
+            "md5": "64720d6c9766290d4436f557a8416c31",
+            "sha1": "e43713ae680602facfc02183b3d59561a4357f42"
         },
         {
             "name": "Bushido Blade (USA)",
@@ -944,15 +944,15 @@
         },
         {
             "name": "Colony Wars - Red Sun (Europe)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "9772473c",
+            "md5": "777f34d2dc57349b4ed3df29d660e6b3",
+            "sha1": "08260392d48d18ebbbedb4444a9a2263ad8f77cc"
         },
         {
             "name": "Colony Wars - Red Sun (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "d475b99c",
+            "md5": "978507959bab6666b96fbb222c40b1f6",
+            "sha1": "a2e9b43caac15c2afc63781947428bd64a735e2e"
         },
         {
             "name": "Colony Wars - Vengeance (Europe)",
@@ -2246,9 +2246,9 @@
         },
         {
             "name": "Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "894efb62",
+            "md5": "54ced92c597f3febc4927c4914ca10c0",
+            "sha1": "f89df9e5a3494e01f96ad8a36ea8d5213e8cdec5"
         },
         {
             "name": "Five Nights at Freddy's 2 (World) (v1.0.3b) (Soeiz) (Aftermarket)",
@@ -2294,9 +2294,9 @@
         },
         {
             "name": "Front Mission 3 (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "f22c541a",
+            "md5": "1ef72c80da919babed1404a244b51782",
+            "sha1": "a563b24d13e2c8714d3da6dcb0b3111108ee5fef"
         },
         {
             "name": "Future Cop - L.A.P.D. (USA)",
@@ -2389,7 +2389,7 @@
             "sha1": "316583154d41576bb911093016f8636545c46b89"
         },
         {
-            "name": "Gensou Suikoden (Subset - Bonus)",
+            "name": "Gensou Suikoden (Japan) (Subset - Bonus)",
             "crc": "fa5ab4dc",
             "md5": "72b5b566fa22b45d4b182386ca7ccc46",
             "sha1": "20da95a6d63914edfc50df4d59c9269a11d56507"
@@ -3043,28 +3043,28 @@
             "sha1": "8893ad38cbfdb00db01b908c41ff1366bb6f8723"
         },
         {
-            "name": "Kowai Shashin - Shinrei Shashin Kitan (Japan) (En) (Random Edition) (SnowyAria) (v1.1)",
-            "crc": "38261318",
-            "md5": "7002094a1e2c226e9f321d5fee1e8937",
-            "sha1": "6130b09e305fb62e0ec8b153d48ec7177567ac9b"
-        },
-        {
             "name": "Kowai Shashin - Shinrei Shashin Kitan (Japan) (En) (Random Edition) (v1.0) (SnowyAria)",
             "crc": "16964f7e",
             "md5": "00a1f26a1413ba5381d507b12ba97af4",
             "sha1": "d037003bd9032c5cb5d877262531f4b760be2d0f"
         },
         {
-            "name": "Kowai Shashin - Shinrei Shashin Kitan (Japan) (En) (SnowyAria) (v1.1)",
-            "crc": "b195f7e3",
-            "md5": "30fa809b1d5e96151c87720f41a87745",
-            "sha1": "d7f718056a32101cc5494842ee59126a4354c1b7"
+            "name": "Kowai Shashin - Shinrei Shashin Kitan (Japan) (En) (Random Edition) (v1.1) (SnowyAria)",
+            "crc": "38261318",
+            "md5": "7002094a1e2c226e9f321d5fee1e8937",
+            "sha1": "6130b09e305fb62e0ec8b153d48ec7177567ac9b"
         },
         {
             "name": "Kowai Shashin - Shinrei Shashin Kitan (Japan) (En) (v1.0) (SnowyAria)",
             "crc": "9f25ab85",
             "md5": "6d1c2677895ea35612f016aa71c52599",
             "sha1": "1d9b9d2ae2c34f3df73cf246ce4d09c519802ebe"
+        },
+        {
+            "name": "Kowai Shashin - Shinrei Shashin Kitan (Japan) (En) (v1.1) (SnowyAria)",
+            "crc": "b195f7e3",
+            "md5": "30fa809b1d5e96151c87720f41a87745",
+            "sha1": "d7f718056a32101cc5494842ee59126a4354c1b7"
         },
         {
             "name": "Krazy Ivan (USA)",
@@ -3595,7 +3595,7 @@
             "sha1": "f1ea9a0ae2115f476bd4767b1ac0ba9d0b5ac972"
         },
         {
-            "name": "Metal Slug X (USA) (Red Blood) (Ortew) (v1.0)",
+            "name": "Metal Slug X (USA) (Red Blood) (v1.0) (Ortew)",
             "crc": "93e2f573",
             "md5": "aa4bb60c1b2efd76671fe2ed747865ad",
             "sha1": "24fef1dd1458008293f9e762545d12859b096256"
@@ -3680,9 +3680,9 @@
         },
         {
             "name": "Monster Rancher Battle Card - Episode II (USA)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "fc4b8a28",
+            "md5": "2b3851e6d33f2b450ea66b4210989c8c",
+            "sha1": "9450eaff545efd49938fe897a49b01bd08680c8c"
         },
         {
             "name": "Monster Rancher Hop-A-Bout (USA)",
@@ -4147,13 +4147,13 @@
             "sha1": "d7e80faf920fd874f2c3997ea3d5a30d41191bbc"
         },
         {
-            "name": "Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 1)",
+            "name": "Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 1)",
             "crc": "07c9d820",
             "md5": "9576c138f10e481d33f4c9b5627fc622",
             "sha1": "1ec80df8883e5ca38397c7101215712bdad5087d"
         },
         {
-            "name": "Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 2)",
+            "name": "Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 2)",
             "crc": "58817e68",
             "md5": "763aac2f90bbe6318f23d74c1ad614d8",
             "sha1": "f7d0f2bc5402ff275c90277dff7b084b3683ef3b"
@@ -4340,9 +4340,9 @@
         },
         {
             "name": "Pop'n Music 6 (Japan)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "f89d20a9",
+            "md5": "22452fb92b05b8c45d40f452a81cc96e",
+            "sha1": "4314b66e816b2d653f40cff0c0454cbed6c75647"
         },
         {
             "name": "Populous - The Beginning (USA)",
@@ -4640,15 +4640,9 @@
         },
         {
             "name": "Resident Evil - Survivor (USA) (Light Gun Support) (Raziel)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
-        },
-        {
-            "name": "Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "6eb4926c",
+            "md5": "cdd002f54d168adc09b6eac6f6b2e2fb",
+            "sha1": "34b4878d9bad67f6bffe8a221854cb525db2f8e6"
         },
         {
             "name": "Resident Evil 0 - Demake (v0.1) (Demo) (Hack)",
@@ -4688,15 +4682,15 @@
         },
         {
             "name": "Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 1)",
-            "crc": "37c614e7",
-            "md5": "f313c9b915d7b70ab2fe4002e084b502",
-            "sha1": "955f39000aa2888b6012d8dd17e3efad5c317bdb"
+            "crc": "5bfa6a14",
+            "md5": "9309c15242bf646e0a558beaa21001b3",
+            "sha1": "a8d4a3fb3422b6d2b0b1752f980939ac88db8ba5"
         },
         {
             "name": "Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 2)",
-            "crc": "66a10d56",
-            "md5": "f245ca975553eda81bd7d76562bc062e",
-            "sha1": "8d3b5a0a136126676e16d1e7cef748591ab2497d"
+            "crc": "87b829e5",
+            "md5": "b18f06bb6faaa29a63b5ad648b538b13",
+            "sha1": "fe3f2ca221fa37e927f8c29817aff884871b86f5"
         },
         {
             "name": "Resident Evil 3 - Dark Infection (v0.3) (BiohazardEsp) (Hack)",
@@ -4736,9 +4730,15 @@
         },
         {
             "name": "Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "6ec403d1",
+            "md5": "23cdd171b7909528f834f0c9765f27c0",
+            "sha1": "029593955983a15f900c763622e0ce78bed1288f"
+        },
+        {
+            "name": "Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack)",
+            "crc": "77c186a0",
+            "md5": "0a1b8672a1e67d52d2313360d0ec90de",
+            "sha1": "95d835eed104cd839395d7b09039d1f33bc52773"
         },
         {
             "name": "Rhapsody - A Musical Adventure (USA)",
@@ -5659,6 +5659,12 @@
             "sha1": "49c407ed17167c59b8ce26f3fed8dfd1b426a565"
         },
         {
+            "name": "Suzuki Bakuhatsu (Japan)",
+            "crc": "ec9f6b6a",
+            "md5": "444f3f8ce00bfbdbdc62a4625aa1b1cf",
+            "sha1": "d744a241123c06e88bc4821d594d4fff2a8b8419"
+        },
+        {
             "name": "Sword of Camelot, The (Europe) (En,Fr,De,Nl)",
             "crc": "cb36ec23",
             "md5": "fb67ee55b9216988a8784e79aad19340",
@@ -5939,12 +5945,6 @@
             "crc": "001e2980",
             "md5": "563ba473f08703b231431b9d39cad39b",
             "sha1": "e73534c82f5f7e96eedef8268d6f9e5cff28c2d1"
-        },
-        {
-            "name": "Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
         },
         {
             "name": "Time Crisis (USA)",
@@ -6320,9 +6320,9 @@
         },
         {
             "name": "Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "c1278d40",
+            "md5": "7d5d3f03915500dcef383f4c2641fba3",
+            "sha1": "2e4e5578f50c50be32d9c728aa92a1ed54cd6f90"
         },
         {
             "name": "Walt Disney's The Jungle Book - Rhythm n' Groove (USA)",

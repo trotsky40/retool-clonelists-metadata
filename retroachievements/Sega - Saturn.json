@@ -283,6 +283,30 @@
             "sha1": "af8b446918082dabce616234f12ee0c907b96213"
         },
         {
+            "name": "Deep Fear (Europe) (Disc 1)",
+            "crc": "7f1334dd",
+            "md5": "a9ab3e4174e4b1c9c6946d2bf74d8e40",
+            "sha1": "13d10b96b34ca69d6dc150abbc43fb2920c0dee3"
+        },
+        {
+            "name": "Deep Fear (Europe) (Disc 2)",
+            "crc": "dfc9aa2d",
+            "md5": "4cb8b829edbde14c24e9ac27872db53e",
+            "sha1": "b6e64c18bbc6fc4cccca5241d411dfc6c98031e8"
+        },
+        {
+            "name": "Deep Fear (USA) (Disc 1) (Unl)",
+            "crc": "fc307861",
+            "md5": "0c234ac2f15592d357ac85358cbfd87b",
+            "sha1": "c5514467676a3e2ef30e23970893dc841bb1ef33"
+        },
+        {
+            "name": "Deep Fear (USA) (Disc 2) (Unl)",
+            "crc": "b9a9bfe3",
+            "md5": "3578c4a8ba05c3d3f9b9919dcff6d7b7",
+            "sha1": "6d48d0ad2d11066db232e98cc96295265dfa8322"
+        },
+        {
             "name": "Densetsu no Ogre Battle (Japan)",
             "crc": "eda8e278",
             "md5": "e35664fb34da0c2af1ab44066bc16539",
@@ -503,6 +527,12 @@
             "crc": "3d724c19",
             "md5": "8bdb862c5f741a223f275298c888f72b",
             "sha1": "7a5210ac18db6d9511a3d5a099502b632cc9d9ad"
+        },
+        {
+            "name": "Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)",
+            "crc": "1f79999f",
+            "md5": "aef970b63d5a8e83e10f632e7532f67b",
+            "sha1": "4d7c0ec46ef23137aa0adde246b1e7c13b18f2b5"
         },
         {
             "name": "Kyuutenkai (Japan)",
