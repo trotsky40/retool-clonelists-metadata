@@ -5,6 +5,10 @@
 			"crc": "d213e5eb"
 		},
 		{
+			"name": "Hajimete no Orusuban (Japan).iso",
+			"crc": "1b4e5e1f"
+		},
+		{
 			"name": "Haramitama (Japan).iso",
 			"crc": "c3211de4"
 		},
@@ -25,8 +29,16 @@
 			"crc": "e50025c4"
 		},
 		{
-			"name": "Null & Peta (Japan) (En,Ja,Zh) (PC Game Bundle).iso",
-			"crc": "ce78ca83"
+			"name": "Nugase!! Ane, Chanto Shiyou yo! Mahjong DX1 (Japan).iso",
+			"crc": "deaef683"
+		},
+		{
+			"name": "Oshioki Sweetie + Sweets!! (Japan).iso",
+			"crc": "7920c53b"
+		},
+		{
+			"name": "Sayonara o Oshiete - Comment te dire adieu (Japan).iso",
+			"crc": "75687ff9"
 		},
 		{
 			"name": "Silicon Magic (Japan).iso",
@@ -35,6 +47,10 @@
 		{
 			"name": "Theme Song of Tales - 25th Anniversary Opening Movie Collection (Japan).iso",
 			"crc": "11090191"
+		},
+		{
+			"name": "Zettai Saikyou Oppai Sensou!! Kyonyuu Oukoku vs. Hinnyuu Oukoku (Japan).iso",
+			"crc": "c60e0c30"
 		}
 	]
 }
