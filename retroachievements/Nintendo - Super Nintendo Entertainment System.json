@@ -1262,9 +1262,9 @@
         },
         {
             "name": "Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)",
-            "crc": "000",
+            "crc": "7c0827f0",
             "md5": "196130bd682f1db9bce0bf8e0d056c0b",
-            "sha1": "000"
+            "sha1": "b103f035d388837f45dd2ec6e9678c2efa4f517c"
         },
         {
             "name": "Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)",
@@ -6817,7 +6817,7 @@
             "sha1": "ca5bcfa8f68753a1025349c20b0187520ef9135c"
         },
         {
-            "name": "SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack)",
+            "name": "SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-11-09) (Hack)",
             "crc": "b5b8ab63",
             "md5": "cdb770284b8f0fb7ad6ca24b7fbb5e44",
             "sha1": "52c102ff9e944affcd90192aff0ce891c3307617"

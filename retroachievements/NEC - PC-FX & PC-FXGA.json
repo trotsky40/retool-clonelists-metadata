@@ -2,141 +2,93 @@
     "retroachievements": [
         {
             "name": "Battle Heat (Japan)",
-            "crc": "ffbd46cf",
-            "md5": "fd4de25e8dc4adfdca7d23487eb18616",
-            "sha1": "6f2693dbcf9cbec5ee4799539a73e69ecb633974"
+            "sha1": "1a73ab8064ddfaebd5e555f51e4c153da6027fd7"
         },
         {
             "name": "Chip-chan Kick! (Japan)",
-            "crc": "298af582",
-            "md5": "d42d739fbb0eca8085a698fcd21ca449",
-            "sha1": "778d3ac571e4bed9c0e3b8c043caa4f9aa7a42f1"
+            "sha1": "845e67d31e3e92099b872d0d3133304a891b3a41"
         },
         {
             "name": "Choujin Heiki Zeroigar (Japan)",
-            "crc": "a2c3b9ea",
-            "md5": "8c0d7cb8481da172c254594ebafe3648",
-            "sha1": "a2b38ec2e057274dfd03d065c717f5b6b105bc8d"
+            "sha1": "4ea9e0bf10a6edf77d6d22f01e2420ecdf1ddaaa"
         },
         {
             "name": "Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)",
-            "crc": "e8d97379",
-            "md5": "97547ccaa218cadda8b7aa1feee9094b",
-            "sha1": "c7d4d792ebccdff457f7b90f44d7866c7113ab97"
+            "sha1": "d116e0c8ca5e9da2aa3ad8e2606407a0a3d52269"
         },
         {
             "name": "Farland Story FX (Japan) (En) (v1.0) (Djlpap)",
-            "crc": "53093c68",
-            "md5": "0774adf390880c3f3aaa1f25461e718c",
-            "sha1": "f3954e6e35c2ce5d15a4f13976e2677bb37d8566"
+            "sha1": "c285d9d88a5b375db8ef26d8efd6e093eb057625"
         },
         {
             "name": "Farland Story FX (Japan) (En) (v2.0) (Djlpap)",
-            "crc": "a4da0f8a",
-            "md5": "8c831f55fde0779e0e12f89f0c894404",
-            "sha1": "d9f6e28ac06267e5f8ecdb45746924c2496b6a05"
+            "sha1": "1ed18d205b8129f9893a02736a5d6540d61ea4aa"
         },
         {
             "name": "Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)",
-            "crc": "4ba6f276",
-            "md5": "5615778e99545d00d2230cb511cabc26",
-            "sha1": "6752bafc6dfa497966aeab0f3046d58d36d19253"
+            "sha1": "32cdb9bcf74becd8258293306a8b7516f9bd190d"
         },
         {
             "name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)",
-            "crc": "fe689557",
-            "md5": "f3c602776cef3435cae753c9006b8507",
-            "sha1": "f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"
+            "sha1": "97e605651b71c50f11d22787578c0e980079d2ac"
         },
         {
             "name": "Kishin Douji Zenki FX - Vajra Fight (Japan)",
-            "crc": "e29b69f3",
-            "md5": "5dd1d11d5c16f39c6385c0f3dab9be58",
-            "sha1": "2adc6a0247d66d0f517722e2192cff1ff582b6fd"
+            "sha1": "6b5a1b118a1520c0dd05df20d5ddb2072f6ebab2"
         },
         {
-            "name": "Last Imperial Prince (Japan) (Disc A)",
-            "crc": "f6e8e806",
-            "md5": "269366677591eef57067cab7adff44e4",
-            "sha1": "03732c9a21c25a3cbdc1b9240dad793b8a942a9b"
-        },
-        {
-            "name": "Last Imperial Prince (Japan) (Disc B)",
-            "crc": "f6e8e806",
-            "md5": "269366677591eef57067cab7adff44e4",
-            "sha1": "03732c9a21c25a3cbdc1b9240dad793b8a942a9b"
+            "name": "Last Imperial Prince (Japan)",
+            "crc": "04963161",
+            "md5": "33fc102d1f5061e0e73b315229252198",
+            "sha1": "1150c7fd90dfb2b32c1f78be46b59c68fefd6521"
         },
         {
             "name": "Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)",
-            "crc": "aecbdc16",
-            "md5": "74b79d39a38ec2b7aad976b218ec419c",
-            "sha1": "ffae85763f581d312abb6b5096f6f7d62e771aae"
+            "sha1": "2f62501da7bdd7891315b4a2de90cc7dc06bdf48"
         },
         {
             "name": "Power DoLLS FX (Japan)",
-            "crc": "f6e8e806",
-            "md5": "269366677591eef57067cab7adff44e4",
-            "sha1": "03732c9a21c25a3cbdc1b9240dad793b8a942a9b"
+            "sha1": "5ff9bef5601f926de095b2209916c37718064871"
         },
         {
             "name": "Return to Zork (Japan)",
-            "crc": "5fcf5c53",
-            "md5": "a4746f176721b28e5f4c18e3da0f2256",
-            "sha1": "118e9822db3018b266460745828b7838242f3f7f"
+            "sha1": "31db7cd03962f8b85b0b74ed18eaaa6d34eb6dd3"
         },
         {
             "name": "Ruruli Ra Rura (Japan)",
-            "crc": "9a171fad",
-            "md5": "ac02def68b3063109369786b244ed626",
-            "sha1": "6ffb4d52c52c164e64fee723241d0466a3244f76"
+            "sha1": "b5c98b6b8706da42f2f5a7794925b4af193fbee3"
         },
         {
             "name": "Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)",
-            "crc": "bd493011",
-            "md5": "5b23000794d2c346a76e2678c30541ab",
-            "sha1": "0fc4a2a8f0b989ce740b5b280570d027aa125ad9"
+            "sha1": "ceb6b3d80e5515b7bf514d661673a3465afc9f4e"
         },
         {
             "name": "Shanghai - Banri no Choujou (Japan)",
-            "crc": "fe689557",
-            "md5": "f3c602776cef3435cae753c9006b8507",
-            "sha1": "f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"
+            "sha1": "db717314fc45aba417c8b7936cc8839105930ab6"
         },
         {
             "name": "Simple Battle FX (World) (gameblabla) (Aftermarket)",
-            "crc": "51110f24",
-            "md5": "2e58ca80e9a452a184621a61c20c278b",
-            "sha1": "53df48c43aeb68bdc87800e20e00a21a0f8c86bf"
+            "sha1": "3fa9fc8750f1bb4dbb53b99e1caa68a710c122ba"
         },
         {
             "name": "Soviet Union 2010 (World) (Matej Horvat) (Aftermarket)",
-            "crc": "aaa0317d",
-            "md5": "2df43f2f303fc5546b1059120d98e4f0",
-            "sha1": "2bebe1600f933713f86e117bcc4016e0a2a98504"
+            "sha1": "9a74f0485202f152f7f9a2920487ee1587349edf"
         },
         {
             "name": "Super Power League FX (Japan)",
-            "crc": "e3039182",
-            "md5": "9de82dcacf4c08157ad5de46d36ca649",
-            "sha1": "0c4046cfffd4f5d27bc03a9bb37bde5c46738965"
+            "sha1": "57dcabbfa3c0a5b86524d7683cd597826e4a77e5"
         },
         {
             "name": "Super Real Mahjong P.V FX (Japan)",
-            "crc": "a8f8fced",
-            "md5": "13cd0b5909218c35f381f81f83d43bba",
-            "sha1": "a534ef686a8d24dea87114ecfff02a3de4a633f9"
+            "sha1": "7be52122f1747348fa69f5f645dc10d7809b28f3"
         },
         {
             "name": "Tengai Makyou - Dennou Karakuri Kakutouden (Japan)",
-            "crc": "83a41b9e",
-            "md5": "5399ffa1a8b1f9d6a273dac04c80a48a",
-            "sha1": "bf8c92c5f578e74fc27e1ed808f6a0069669415e"
+            "sha1": "78ccc7aebc6252c99e6f9d4229a54f635d2f740c"
         },
         {
             "name": "Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)",
-            "crc": "459bf3c2",
-            "md5": "630ccbf7001afb93d02d670de487cd07",
-            "sha1": "da578a38944986767e80a6c313c6ec51dfa662d8"
+            "sha1": "488777471c4de85180eabb10d34a6d33073d02cf"
         }
     ]
 }
