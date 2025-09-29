@@ -29,8 +29,10 @@
             "sha1": "32cdb9bcf74becd8258293306a8b7516f9bd190d"
         },
         {
-            "name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)",
-            "sha1": "97e605651b71c50f11d22787578c0e980079d2ac"
+            "name": "J. B. Harold - Blue Chicago Blues (Japan)",
+            "crc": "cf53e332",
+            "md5": "ca3f07833db70d342e754baafbe33f2b",
+            "sha1": "1cbc9ebfbf1400b2ed1eb47c91fbdfe1a8e817fb"
         },
         {
             "name": "Kishin Douji Zenki FX - Vajra Fight (Japan)",

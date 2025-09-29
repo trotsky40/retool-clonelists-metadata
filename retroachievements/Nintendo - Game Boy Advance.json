@@ -4525,6 +4525,18 @@
             "sha1": "964f951a0fdaf209e4ea1344883ef0d557bb3a80"
         },
         {
+            "name": "Pokemon - Recharged Emerald (v2.2.5) (Jaizu) (Hack)",
+            "crc": "000",
+            "md5": "eceaa049048a61ebe66f3f58e3723a5b",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - Recharged Emerald (v2.2.6) (Jaizu) (Hack)",
+            "crc": "000",
+            "md5": "f258589489cb284a1115ae26db5f8111",
+            "sha1": "000"
+        },
+        {
             "name": "Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)",
             "crc": "ceffa1f8",
             "md5": "9d54170472e5a37fc92602b838fe754e",
@@ -5069,6 +5081,12 @@
             "crc": "cf2dba97",
             "md5": "1e3fd614dc43edbbf9df51262057f2cc",
             "sha1": "739f47323ce7e2dbe7e9bf9d553cb97f4692ecc3"
+        },
+        {
+            "name": "Scooby-Doo! - Mystery Mayhem (Europe) (En,Fr,De)",
+            "crc": "000",
+            "md5": "9cff0577973c0219738da5995edcf3ae",
+            "sha1": "000"
         },
         {
             "name": "Scooby-Doo! - Unmasked (Europe) (En,Fr)",
@@ -6155,6 +6173,12 @@
             "crc": "a9bb7cd7",
             "md5": "959c714ade4039b56e5c0227330fe1d2",
             "sha1": "8c0866db299daf6787b63cbebb50d537e5a70821"
+        },
+        {
+            "name": "Tonka - On the Job (USA)",
+            "crc": "000",
+            "md5": "ee91c4582d9b0cc494fcb71173b43e17",
+            "sha1": "000"
         },
         {
             "name": "Tony Hawk's Pro Skater 2 (USA, Europe)",

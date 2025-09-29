@@ -505,6 +505,78 @@
             "sha1": "08661008074163f993a9e5ff5180141a60ce10e2"
         },
         {
+            "name": "BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink)",
+            "crc": "000",
+            "md5": "be58760840703a1f1f36b3bfa2e7b108",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink)",
+            "crc": "000",
+            "md5": "effd7e9360be56da5a9876b45a5989fc",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink)",
+            "crc": "000",
+            "md5": "62331bfa00172b3e2705dc33dc93e1ee",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink)",
+            "crc": "000",
+            "md5": "f08e24ffd1c2b1f0c85cd81ba72c66bd",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn)",
+            "crc": "000",
+            "md5": "506f7d161960e4385577a5626aa80124",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)",
+            "crc": "000",
+            "md5": "7aca67c5fec3f20ccb522edaac19821a",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn)",
+            "crc": "000",
+            "md5": "887e9d1af2192c55314b07112c3f9818",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)",
+            "crc": "000",
+            "md5": "25b4d32c87e25f303a1ac87434028f5d",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn)",
+            "crc": "000",
+            "md5": "159528e718285656001292083f141c64",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)",
+            "crc": "000",
+            "md5": "0789eca39067b3a12510eb5676335ec3",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn)",
+            "crc": "000",
+            "md5": "bbb778e1023ac5da2edde430b7df9e29",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)",
+            "crc": "000",
+            "md5": "d5d65fcfcf125aa4050784b964b2ce54",
+            "sha1": "000"
+        },
+        {
             "name": "BS Zelda no Densetsu (Restoration Map 1) (Japan) (En)",
             "crc": "db9f4746",
             "md5": "516f339cb0b98639a79a21640c85f78a",
@@ -821,6 +893,12 @@
             "crc": "003b74f1",
             "md5": "4f64812f43e95d56330c70c646d0dbe5",
             "sha1": "62ebea3b172084fbd6fcf5460b98847898e5d66d"
+        },
+        {
+            "name": "Bishoujo Senshi Sailor Moon - Another Story (Japan) (Es) (v1.0) (Max1323)",
+            "crc": "000",
+            "md5": "8e4e3801e84c43b693cbb4b1f85bb909",
+            "sha1": "000"
         },
         {
             "name": "Bishoujo Senshi Sailor Moon - Another Story (Japan) (Ru) (v1.5) (Armeniac, GrekRus)",
@@ -7747,6 +7825,12 @@
             "sha1": "6817e07a7a8d02ba5fec3022a457e8e7bace99cf"
         },
         {
+            "name": "SMW - Polyphony (v1.1.1) (TomatoPhalanges) (Hack)",
+            "crc": "000",
+            "md5": "4054ef350628ab9743425c0f3bd499a9",
+            "sha1": "000"
+        },
+        {
             "name": "SMW - Project Brutality (2019-11-06) (Sweetdude) (Hack)",
             "crc": "abad9352",
             "md5": "9a089d286039ee443e6967f5261430a4",
@@ -8465,6 +8549,18 @@
             "crc": "7e56bf61",
             "md5": "6ac65700c4a54eb736775940c2e78126",
             "sha1": "16086e43a60a403c2b9677b6c85e1ed8e7b1d804"
+        },
+        {
+            "name": "SMW - Yosamikalo (v2008-11-19) (Inf. Lives) (KingYoshi89) (Hack)",
+            "crc": "000",
+            "md5": "bd3cdbfda1046e0a3e12ce46e5981980",
+            "sha1": "000"
+        },
+        {
+            "name": "SMW - Yosamikalo (v2008-11-19) (KingYoshi89) (Hack)",
+            "crc": "000",
+            "md5": "359c3ba1d7c24b049be172eac422794e",
+            "sha1": "000"
         },
         {
             "name": "SMW - Zap Lena World (v1.1) (Yagami) (Hack)",
@@ -9713,6 +9809,12 @@
             "crc": "4f2bb52c",
             "md5": "38bb405ba6c6714697b48fb0ad15a2a1",
             "sha1": "a4ba5cf11cb92acdacb3382b8b159066d54cb2e7"
+        },
+        {
+            "name": "Super Mario World (USA) (Pt) (v2.0) (BMatSantos)",
+            "crc": "000",
+            "md5": "734e9ea8c1ac436218ca4d3b1f9ff6a4",
+            "sha1": "000"
         },
         {
             "name": "Super Mario World - Super Mario Bros. 4 (Japan)",

@@ -1255,6 +1255,18 @@
             "sha1": "e442316132506ff223a9e5f33d874b71ec09d71a"
         },
         {
+            "name": "GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket)",
+            "crc": "000",
+            "md5": "01cf4c043f69a9924f2a689e3fa60157",
+            "sha1": "000"
+        },
+        {
+            "name": "GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)",
+            "crc": "000",
+            "md5": "df77829789b41cc5be505e8cdce80ce1",
+            "sha1": "000"
+        },
+        {
             "name": "Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced)",
             "crc": "9e6cdc96",
             "md5": "7727f43d66a77fe0284bf1b8ffede7dd",
@@ -1277,6 +1289,12 @@
             "crc": "efc0f266",
             "md5": "fdd228f59ee0eb8b162054a330039b0a",
             "sha1": "5aea023fd373643e55c7276b79a2d042302c3329"
+        },
+        {
+            "name": "Game of Life Kuzushi (World) (Aftermarket)",
+            "crc": "000",
+            "md5": "b04d10af7ff5010c90be47948158f016",
+            "sha1": "000"
         },
         {
             "name": "GameBoy WORDLE (World) (Aftermarket)",
@@ -2279,6 +2297,12 @@
             "crc": "160fa9ef",
             "md5": "b17c839d444f98a4bd7fec2e49cacf12",
             "sha1": "5c24d595401ce3d1bb4027d0bc12312dca275470"
+        },
+        {
+            "name": "Mortal Kombat 3 (USA, Europe)",
+            "crc": "000",
+            "md5": "c19d61e31d6aebc12abf80d628a7bd09",
+            "sha1": "000"
         },
         {
             "name": "Mortal Kombat II (USA, Europe)",
@@ -3875,6 +3899,12 @@
             "crc": "e0606ced",
             "md5": "bc977605b3db8aeab9d60289e6b7e361",
             "sha1": "7f8065c817f578d031f8f646f4eca533f1dee851"
+        },
+        {
+            "name": "Uma Musume Delish Derby (World) (shiki) (Aftermarket)",
+            "crc": "000",
+            "md5": "a6d142742d41b624217123bd020f8391",
+            "sha1": "000"
         },
         {
             "name": "Undercover Cops Gaiden - Hakaishin Garumaa (Japan)",

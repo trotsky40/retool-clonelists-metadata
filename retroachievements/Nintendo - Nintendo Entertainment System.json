@@ -5132,15 +5132,15 @@
         },
         {
             "name": "Ki no Bouken - The Quest of Ki (Japan) (En) (v2.0) (Zynk Oxhyde)",
-            "crc": "0aa84f9a",
-            "md5": "9e7e713243e61c3af106e1f6870b0f3f",
-            "sha1": "f275e205cbc28ca69901ffff12552f165caf013f"
+            "crc": "7243f962",
+            "md5": "9c47b8a84b0943f469ca777d6204976d",
+            "sha1": "3235f7f850d78550c226ae9254d5629ce44ad758"
         },
         {
             "name": "Ki no Bouken - The Quest of Ki (Japan) (En) (v2.0) (Zynk Oxhyde) (Alt)",
-            "crc": "0aa84f9a",
-            "md5": "9e7e713243e61c3af106e1f6870b0f3f",
-            "sha1": "f275e205cbc28ca69901ffff12552f165caf013f"
+            "crc": "6b5f1bab",
+            "md5": "1cea9ae3b1fce106c6a718bb2b0c3331",
+            "sha1": "1d3463564b4fba82a1a20503686552ecd852870e"
         },
         {
             "name": "KickMaster (USA)",
@@ -7159,6 +7159,12 @@
             "sha1": "cc0a7351182e1e436ebaaa6e8c71228f0287f43f"
         },
         {
+            "name": "Mike Tyson's Punch-Out - Nightmare Punch-Out!! (v1.5) (Landa) (Hack)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Mike Tyson's Punch-Out!! (Japan, USA) (En)",
             "crc": "12f19390",
             "md5": "fbd32719ea0917f37cf059c02c87b662",
@@ -7802,9 +7808,9 @@
         },
         {
             "name": "Ninja Gaiden (USA) (Zh) (TPU) (v20030301)",
-            "crc": "738ae5f4",
-            "md5": "2bb9961856f6306295cdff8372d10f78",
-            "sha1": "4aebae8d7c7c833405c6e768668ee0c78e50c4e2"
+            "crc": "db58837b",
+            "md5": "74102e8c75eaa8627047a4dd2deb0d6e",
+            "sha1": "96c18e30f56bdafa25802743fe8ca803a9d3f72f"
         },
         {
             "name": "Ninja Gaiden (Upgrade A) (Hard + EXP Counter) (v1.0) (magus) (Hack)",

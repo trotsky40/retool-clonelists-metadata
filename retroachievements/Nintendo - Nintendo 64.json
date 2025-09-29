@@ -139,6 +139,12 @@
             "sha1": "eccbdf7064c197de001745807c76dd4787647ea9"
         },
         {
+            "name": "BK - The Corrupted Jiggies (v1.0) (Sorra1-Mods) (Hack)",
+            "crc": "000",
+            "md5": "295ddc270a3f55ef8acaab39f70c65bd",
+            "sha1": "000"
+        },
+        {
             "name": "BK - The Gruntch (v1.2) (Kurko Mods) (Hack)",
             "crc": "9a253727",
             "md5": "7a688e9898b6ee98dcf3904cf1094d04",
@@ -425,6 +431,12 @@
             "crc": "4cb52323",
             "md5": "fdffa662ae3357bf5970338ee7589f6c",
             "sha1": "34c45fe569a22185da5c3e707cd7eee46ad82492"
+        },
+        {
+            "name": "Densha de Go! 64 (Japan) (En) (v1.03) (Zoinkity)",
+            "crc": "000",
+            "md5": "91131a1bb91aa42d3e8f2aa55948041f",
+            "sha1": "000"
         },
         {
             "name": "Destruction Derby 64 (Europe) (En,Fr,De)",
@@ -2105,6 +2117,12 @@
             "crc": "56438441",
             "md5": "d9926a49e4f6a261bb963b694d2a07a5",
             "sha1": "4a0fbe9f16dd3a019588a416c96f5fa725f1651a"
+        },
+        {
+            "name": "Paperboy (USA)",
+            "crc": "000",
+            "md5": "C4CBCB54B010A5A71FE5CAA391E5C25F",
+            "sha1": "000"
         },
         {
             "name": "Penguins Luv Melons (World) (v2.0) (Aftermarket) (Sanni)",
@@ -4127,6 +4145,18 @@
             "crc": "171bdbbd",
             "md5": "5c71cec59736d53a060f5ab68d5bd9a2",
             "sha1": "1a73227f963668d7191e7cfcb56adf2565cd9dcd"
+        },
+        {
+            "name": "SM64 - TsucnenT's Treasures (v1.0) (TsucnenT) (Hack)",
+            "crc": "000",
+            "md5": "3580b6eb0e26f89f9d89a615ef1663c4",
+            "sha1": "000"
+        },
+        {
+            "name": "SM64 - TsucnenT's Treasures 2 (v1.0) (TsucnenT) (Hack)",
+            "crc": "000",
+            "md5": "2d0e8090ef236fca175c1fcc44b2732c",
+            "sha1": "000"
         },
         {
             "name": "SM64 - Unregistered Hypercam 64 (v1) (Hack)",

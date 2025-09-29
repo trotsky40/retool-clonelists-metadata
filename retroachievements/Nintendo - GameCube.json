@@ -841,6 +841,18 @@
             "sha1": "69245659177bbbf54d9e233ccdacc1491e5b9c08"
         },
         {
+            "name": "Naruto - Gekitou Ninja Taisen! 4 (Japan)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Naruto - Gekitou Ninja Taisen! 4 (Japan) (En) (Kosheh)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Neighbors from Hell (Europe) (En,Fr,De,Es,It)",
             "crc": "62a6f993",
             "md5": "4267dafed0cda9ac36d2258c3b9dab87",
@@ -941,6 +953,12 @@
             "crc": "6420aa24",
             "md5": "515698033a3f3c96768922b180b88da8",
             "sha1": "a1796e5139ee4fa441dd4aaa8b0cc468287a92c4"
+        },
+        {
+            "name": "Pikmin 1\u00b2 (Subset - Randomizer Run)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Pikmin 2 (Subset - Bonus)",
@@ -1160,9 +1178,9 @@
         },
         {
             "name": "SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack)",
-            "crc": "b4d798f9",
-            "md5": "53ec6e2da09406991aeb0a63134e9f12",
-            "sha1": "e3b95d7695346113e9400132213fcab6c4f70d13"
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Samurai Jack - The Shadow of Aku (USA)",

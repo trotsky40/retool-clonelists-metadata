@@ -229,6 +229,12 @@
             "sha1": "a95be37bf2f2f6e503c95e8a2879629fcf2d8a6f"
         },
         {
+            "name": "Avalon Code (Europe) (En,Fr,De) (Undub) (v1.0) (Unknown)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Avatar - The Last Airbender (USA)",
             "crc": "ffe264d5",
             "md5": "9c74123626572faa3ca9f27c28be0b78",
@@ -425,6 +431,12 @@
             "crc": "97de4f06",
             "md5": "e99794a38e9ffdf166edee82baa1c951",
             "sha1": "d888c088c3169463c296f4b219fc0534dd904514"
+        },
+        {
+            "name": "Cake Mania (Europe) (En,Fr,De,Es,It)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Carnival Games (USA) (En,Fr)",
@@ -2792,9 +2804,9 @@
         },
         {
             "name": "Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)",
-            "crc": "ed783999",
-            "md5": "724a6564d97a50489c5e471f5b40e9e0",
-            "sha1": "8e5f186f5831bc209641a319e8b15901f40c02fd"
+            "crc": "ea13253d",
+            "md5": "b4b0fe88fbc2b36e206ee510bd8c757a",
+            "sha1": "26c4a3144a957a046b16bce84768766e8d76f6f7"
         },
         {
             "name": "Pokemon - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)",
@@ -3367,6 +3379,18 @@
             "sha1": "2d27c6b1c5876c1c96f42fb94c46e6fdfe8c7631"
         },
         {
+            "name": "Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan) (En) (v1.0) (Precise Museum)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Puzzle League DS (Europe) (En,Fr,De,Es,It)",
             "crc": "d5cf9c99",
             "md5": "6fc304bdfceb95cf75e3898c895ba92e",
@@ -3443,6 +3467,18 @@
             "crc": "caaa43ce",
             "md5": "a8287405f1f1e7e881a1a4cedc89ae31",
             "sha1": "b522065a9a9123fe86dd2219681f78073ad90bf2"
+        },
+        {
+            "name": "Rayman DS (Europe) (En,Fr,De,Es,It)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Rayman DS (USA) (En,Fr,Es)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Resident Evil - Deadly Silence (USA)",

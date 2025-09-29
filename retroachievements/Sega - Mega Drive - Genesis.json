@@ -331,6 +331,12 @@
             "sha1": "f13f06362cfdc1809f92986a752141c40b22a319"
         },
         {
+            "name": "Barbie Super Model (USA)",
+            "crc": "000",
+            "md5": "57705b055973733e8b9c25373a80f28c",
+            "sha1": "000"
+        },
+        {
             "name": "Bare Knuckle III (Japan)",
             "crc": "5d09236f",
             "md5": "f1cb9e887bf4bc512d9535c89e420df7",
@@ -1711,6 +1717,12 @@
             "sha1": "c3794ef25d53cb7811dd0df73ba6fadd4cecb116"
         },
         {
+            "name": "Home Alone 2 - Lost in New York (USA)",
+            "crc": "000",
+            "md5": "9ccafedaed5426819fefc3ae17a04fd2",
+            "sha1": "000"
+        },
+        {
             "name": "Hook (USA)",
             "crc": "2c48e712",
             "md5": "70b7314bb4f542cedc0ca9422808f269",
@@ -2411,6 +2423,12 @@
             "crc": "a65dae53",
             "md5": "f5bcc0b3fc58ce5df04b7861f2d6eb3b",
             "sha1": "24c39d2e211879d97512e19bf3f2025f79b12653"
+        },
+        {
+            "name": "Mickey's Ultimate Challenge (USA)",
+            "crc": "000",
+            "md5": "34b498ba6ea5caf365cbaf6dd8c7be65",
+            "sha1": "000"
         },
         {
             "name": "Micro Machines - Turbo Tournament 96 (Europe) (J-Cart)",
@@ -3209,6 +3227,12 @@
             "crc": "7bb60c3f",
             "md5": "06ddc929a7bf834c40344ac83a4acc97",
             "sha1": "42e5ac265e3bf82c44dca70deb71b0aa08acf1a9"
+        },
+        {
+            "name": "Rings of Power (USA, Europe) (Cheats Disabled) (v1.0) (Bartis1989)",
+            "crc": "000",
+            "md5": "b78430b26a276939d64f73c9b9aea8e6",
+            "sha1": "000"
         },
         {
             "name": "Ristar (USA, Europe)",
@@ -4121,6 +4145,18 @@
             "crc": "7fada88d",
             "md5": "f9d87064d48d99ebbd425e8334de4beb",
             "sha1": "05f460a6ebbc1f86eb40b5f762083a59fb29f3e2"
+        },
+        {
+            "name": "Sonic Jam 6 (Taiwan) (En) (Pirate)",
+            "crc": "000",
+            "md5": "601dbecadde306ab238443193c76c918",
+            "sha1": "000"
+        },
+        {
+            "name": "Sonic Jam 6 (Taiwan) (En) (Pirate) (Black Screen Fix) (Alexdatadestroyer)",
+            "crc": "000",
+            "md5": "8e2907b6c7a47e4c011e5902b4135f0e",
+            "sha1": "000"
         },
         {
             "name": "Sonic Spinball (Europe)",
