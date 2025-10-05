@@ -2043,8 +2043,8 @@
 		"languages": ["En"],
 		"localName": "게임보이 플레이어"
 	},
-	"Game Boy Player Start-Up Disc (Europe) (En,Fr,De,Es,It) (Rev 1)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Game Boy Player Start-Up Disc (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Game Boy Player Start-Up Disc (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -3684,10 +3684,10 @@
 	"Metroid Prime (USA)": {
 		"languages": ["En"]
 	},
-	"Metroid Prime (USA) (Rev 1)": {
+	"Metroid Prime (USA) (Rev 2)": {
 		"languages": ["En"]
 	},
-	"Metroid Prime (USA) (Rev 2)": {
+	"Metroid Prime (USA, Canada) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Metroid Prime 2 - Dark Echoes (Japan)": {
@@ -4872,6 +4872,9 @@
 		"languages": ["Ja"],
 		"localName": "ＳＤメディアランチャー　Ｗｉｉ用／ＧＣ用"
 	},
+	"SD Media Launcher for GameCube & Wii (USA) (Unl)": {
+		"languages": []
+	},
 	"SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -5608,21 +5611,6 @@
 	"TMNT - Mutant Melee (USA)": {
 		"languages": ["En"]
 	},
-	"TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"TY the Tasmanian Tiger (USA)": {
-		"languages": ["En"]
-	},
-	"TY the Tasmanian Tiger - Night of the Quinkan (USA)": {
-		"languages": ["En"]
-	},
-	"TY the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De)": {
-		"languages": ["De", "En", "Fr"]
-	},
-	"TY the Tasmanian Tiger 2 - Bush Rescue (USA)": {
-		"languages": ["En"]
-	},
 	"Tak & Le Pouvoir de Juju (France)": {
 		"languages": ["Fr"]
 	},
@@ -6028,6 +6016,21 @@
 		"languages": ["De"]
 	},
 	"Turok - Evolution (USA)": {
+		"languages": ["En"]
+	},
+	"Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Ty the Tasmanian Tiger (USA)": {
+		"languages": ["En"]
+	},
+	"Ty the Tasmanian Tiger - Night of the Quinkan (USA)": {
+		"languages": ["En"]
+	},
+	"Ty the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
+	},
+	"Ty the Tasmanian Tiger 2 - Bush Rescue (USA)": {
 		"languages": ["En"]
 	},
 	"UEFA Champions League 2004-2005 (Europe)": {

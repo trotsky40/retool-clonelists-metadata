@@ -32,6 +32,9 @@
 		"languages": [],
 		"localName": "ダービーオーナーズクラブ２００８　ｆｅｅｌ　ｔｈｅ　ｒｕｓｈ"
 	},
+	"Ghost Squad Evolution (World) (Lindbergh Red) (Rev A)": {
+		"languages": []
+	},
 	"House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev A)": {
 		"languages": ["En", "Ja"],
 		"localName": "ザ　ハウス　オブ　ザ　デッド　４"
@@ -44,12 +47,23 @@
 		"languages": ["En", "Ja"],
 		"localName": "ザ　ハウス　オブ　ザ　デッド　４"
 	},
+	"Hummer - Extreme Edition [MDX] (World) (Lindbergh Yellow)": {
+		"languages": []
+	},
 	"Hummer - Extreme Edition [STD] (World) (En,Ja,Zh) (Lindbergh Yellow)": {
 		"languages": ["En", "Ja", "Zh"]
 	},
 	"Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "頭文字Ｄ ＡＲＣＡＤＥ ＳＴＡＧＥ ４"
+	},
+	"Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev B)": {
+		"languages": [],
+		"localName": "頭文字Ｄ ＡＲＣＡＤＥ ＳＴＡＧＥ ４"
+	},
+	"Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev C)": {
+		"languages": ["Ja"],
+		"localName": "頭文字Ｄ　ＡＲＣＡＤＥ　ＳＴＡＧＥ　４"
 	},
 	"Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev D)": {
 		"languages": ["Ja"],
@@ -59,12 +73,16 @@
 		"languages": ["Ja"],
 		"localName": "頭文字Ｄ　ＡＲＣＡＤＥ　ＳＴＡＧＥ　４"
 	},
-	"Initial D - Arcade Stage 5 (Export) (Ja,Zh) (Lindbergh Yellow) (Rev A)": {
-		"languages": ["Ja", "Zh"],
+	"Initial D - Arcade Stage 5 (Export) (DVP-0075) (Lindbergh Yellow)": {
+		"languages": ["Ja"],
 		"localName": "頭文字Ｄ　ＡＲＣＡＤＥ　ＳＴＡＧＥ　５"
 	},
-	"Initial D - Arcade Stage 5 (Export) (Lindbergh Yellow)": {
-		"languages": ["Ja"],
+	"Initial D - Arcade Stage 5 (Export) (DVP-0084) (Lindbergh Yellow)": {
+		"languages": [],
+		"localName": "頭文字Ｄ　ＡＲＣＡＤＥ　ＳＴＡＧＥ　５"
+	},
+	"Initial D - Arcade Stage 5 (Export) (Ja,Zh) (DVP-0084) (Lindbergh Yellow) (Rev A)": {
+		"languages": ["Ja", "Zh"],
 		"localName": "頭文字Ｄ　ＡＲＣＡＤＥ　ＳＴＡＧＥ　５"
 	},
 	"Initial D - Arcade Stage 5 (Japan) (Lindbergh Yellow) (Rev A)": {
@@ -100,6 +118,10 @@
 	},
 	"R-Tuned - Ultimate Street Racing (World) (Lindbergh Yellow)": {
 		"languages": []
+	},
+	"Rambo (China) (Lindbergh Red EX)": {
+		"languages": ["Zh"],
+		"localName": "ランボー"
 	},
 	"Rambo (Export) (Lindbergh Red EX)": {
 		"languages": ["En"]

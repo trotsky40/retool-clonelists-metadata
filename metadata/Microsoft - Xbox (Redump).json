@@ -908,6 +908,9 @@
 	"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)": {
 		"languages": []
 	},
+	"Chronicles of Riddick, The - Escape from Butcher Bay (Australia)": {
+		"languages": ["En"]
+	},
 	"Chronicles of Riddick, The - Escape from Butcher Bay (Europe) (Demo)": {
 		"languages": []
 	},
@@ -2313,8 +2316,8 @@
 	"Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
 	},
-	"Frankie Dettori Racing (Europe)": {
-		"languages": []
+	"Frankie Dettori Racing (Europe, Australia)": {
+		"languages": ["En"]
 	},
 	"Freaky Flyers (Europe)": {
 		"languages": ["En"]
@@ -6606,6 +6609,9 @@
 	"Star Wars - Jedi Starfighter (Asia)": {
 		"languages": ["En"]
 	},
+	"Star Wars - Jedi Starfighter (Australia)": {
+		"languages": ["En"]
+	},
 	"Star Wars - Jedi Starfighter (Europe)": {
 		"languages": ["En"]
 	},
@@ -6776,6 +6782,9 @@
 	"Stubbs the Zombie in Rebel Without a Pulse (Europe)": {
 		"languages": ["En"]
 	},
+	"Stubbs the Zombie in Rebel Without a Pulse (France)": {
+		"languages": ["Fr"]
+	},
 	"Stubbs the Zombie in Rebel Without a Pulse (USA)": {
 		"languages": ["En"]
 	},
@@ -6877,28 +6886,6 @@
 	},
 	"TOCA Race Driver 3 (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"TY the Tasmanian Tiger (Korea) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "TY 타스매니아 타이거"
-	},
-	"TY the Tasmanian Tiger (USA)": {
-		"languages": ["En"]
-	},
-	"TY the Tasmanian Tiger - Night of the Quinkan (USA) (Beta) (2005-08-03)": {
-		"languages": ["En"]
-	},
-	"TY the Tasmanian Tiger - Night of the Quinkan (USA, Australia)": {
-		"languages": ["En"]
-	},
-	"TY the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De)": {
-		"languages": ["De", "En", "Fr"]
-	},
-	"TY the Tasmanian Tiger 2 - Bush Rescue (USA)": {
-		"languages": ["En"]
 	},
 	"Taito Legends (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -7441,6 +7428,28 @@
 	},
 	"Turok - Evolution (USA) (Beta)": {
 		"languages": []
+	},
+	"Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Ty the Tasmanian Tiger (Korea) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "TY 타스매니아 타이거"
+	},
+	"Ty the Tasmanian Tiger (USA)": {
+		"languages": ["En"]
+	},
+	"Ty the Tasmanian Tiger - Night of the Quinkan (USA) (Beta) (2005-08-03)": {
+		"languages": ["En"]
+	},
+	"Ty the Tasmanian Tiger - Night of the Quinkan (USA, Australia)": {
+		"languages": ["En"]
+	},
+	"Ty the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
+	},
+	"Ty the Tasmanian Tiger 2 - Bush Rescue (USA)": {
+		"languages": ["En"]
 	},
 	"UEFA Champions League 2004-2005 (Europe)": {
 		"languages": ["En"]

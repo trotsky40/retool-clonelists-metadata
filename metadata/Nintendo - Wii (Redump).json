@@ -240,7 +240,7 @@
 	"All Star Cheer Squad 2 (USA)": {
 		"languages": ["En"]
 	},
-	"All Star Cheerleader (Europe) (En,Fr,De,Es)": {
+	"All Star Cheerleader (Europe, Australia) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"All Star Cheerleader (Scandinavia) (Sv,No,Da,Fi)": {
@@ -1932,7 +1932,7 @@
 	"Cyberbike - Cycling Sports (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"DJ Hero (Europe) (En,Fr,De,Es,It)": {
+	"DJ Hero (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"DJ Hero (USA) (En,Fr)": {
@@ -7152,7 +7152,7 @@
 	"Nancy Drew - The White Wolf of Icicle Creek (USA)": {
 		"languages": ["En"]
 	},
-	"Narnia Koku Monogatari - Dai-2 Shou - Caspian Ouji no Tsunobue (Japan)": {
+	"Narnia Koku Monogatari - Dai-2-shou - Caspian Ouji no Tsunobue (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ナルニア国物語／第２章：カスピアン王子の角笛"
 	},
@@ -8552,8 +8552,8 @@
 	"Racket Sports Party (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Racquet Sports (USA)": {
-		"languages": ["En"]
+	"Racquet Sports (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Radio Helicopter (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -9578,6 +9578,10 @@
 	"Sin Junghwa-daeseon - Michaelgwa Meimeiui Moheom (Korea)": {
 		"languages": ["Ko"],
 		"localName": "신중화대선 ~마이클과 메이메이의 모험~"
+	},
+	"Sin and Punishment - Sora no Koukeisha (Japan)": {
+		"languages": ["Ja"],
+		"localName": "罪と罰　宇宙の後継者"
 	},
 	"Sin and Punishment - Successor of the Skies (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -10838,7 +10842,7 @@
 	"Triple Crown Championship Snowboarding (USA)": {
 		"languages": ["En"]
 	},
-	"Trivial Pursuit (Europe) (En,Fr,De,Es,It)": {
+	"Trivial Pursuit (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Trivial Pursuit (Scandinavia) (Sv,No,Da,Fi)": {
@@ -10867,10 +10871,6 @@
 	},
 	"Truth or Lies (USA)": {
 		"languages": ["En"]
-	},
-	"Tsumi to Batsu - Sora no Koukeisha (Japan)": {
-		"languages": ["Ja"],
-		"localName": "罪と罰　宇宙の後継者"
 	},
 	"Turbo Trainz (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -11482,10 +11482,10 @@
 		"languages": ["Ko"],
 		"localName": "Wii 리모컨플러스로 즐기는 버라이어티 게임 박스"
 	},
-	"Wii Sports (Europe) (En,Fr,De,Es,It) (Rev 1)": {
+	"Wii Sports (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Wii Sports (Europe, Australia) (En,Fr,De,Es,It)": {
+	"Wii Sports (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Wii Sports (Japan)": {
@@ -11752,7 +11752,7 @@
 	"X-Men Origins - Wolverine (Europe) (De,Es,It)": {
 		"languages": ["De", "Es", "It"]
 	},
-	"X-Men Origins - Wolverine (Europe) (En,Fr)": {
+	"X-Men Origins - Wolverine (Europe, Australia) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
 	"X-Men Origins - Wolverine (USA) (En,Fr)": {

@@ -990,7 +990,7 @@
 		"languages": ["Ja"],
 		"localName": "アカギ　闇に降り立った天才"
 	},
-	"Akane-iro ni Somaru Saka - Parallel (Japan)": {
+	"Akaneiro ni Somaru Saka - Parallel (Japan)": {
 		"languages": ["Ja"],
 		"localName": "あかね色に染まる坂　ぱられる"
 	},
@@ -5315,9 +5315,9 @@
 	"Crime Life - Gang Wars (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Crimson Empire (Japan)": {
+	"Crimson Empire - Circumstances to Serve a Noble (Japan)": {
 		"languages": ["Ja"],
-		"localName": "クリムゾン・エンパイア"
+		"localName": "クリムゾン・エンパイア　～Ｃｉｒｃｕｍｓｔａｎｃｅｓ　ｔｏ　ｓｅｒｖｅ　ａ　ｎｏｂｌｅ～"
 	},
 	"Crimson Sea 2 (Europe)": {
 		"languages": ["En"]
@@ -5371,6 +5371,10 @@
 	},
 	"Cronicas de Narnia, Las - El Leon, la Bruja y el Armario (Spain)": {
 		"languages": ["Es"]
+	},
+	"Cross Channel - To All People (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＣＲＯＳＳ　†　ＣＨＡＮＮＥＬ　～Ｔｏ　ａｌｌ　ｐｅｏｐｌｅ～"
 	},
 	"Cross Channel - To All People (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
@@ -5734,15 +5738,15 @@
 	"Dai Senryaku VII - Modern Military Tactics Exceed (USA)": {
 		"languages": ["En"]
 	},
-	"Dai-2-Ji Super Robot Taisen Alpha (Japan)": {
+	"Dai-2-ji Super Robot Taisen Alpha (Japan)": {
 		"languages": ["Ja"],
 		"localName": "第２次スーパー・ロボット大戦α"
 	},
-	"Dai-2-Ji Super Robot Taisen Alpha (Japan) (Genteiban Collection Figure Box)": {
+	"Dai-2-ji Super Robot Taisen Alpha (Japan) (Genteiban Collection Figure Box)": {
 		"languages": ["Ja"],
 		"localName": "第２次スーパーロボット大戦α"
 	},
-	"Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)": {
+	"Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)": {
 		"languages": ["Ja"],
 		"localName": "第３次スーパーロボット大戦α　－終焉の銀河へ－"
 	},
@@ -8816,6 +8820,10 @@
 		"languages": ["Ja"],
 		"localName": "ヨーロピアンクラブサッカーウイニングイレブンタクティクス"
 	},
+	"European Game Collection (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ヨーロピアンゲームコレクション"
+	},
 	"European Tennis Pro (Europe)": {
 		"languages": ["En"]
 	},
@@ -9237,6 +9245,10 @@
 		"localName": "比波猴@爱淘儿"
 	},
 	"EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!! (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＥＹＥＴＯＹ：　サルアイトーイ：　大騒ぎ！ウッキウキゲームてんこもりっ！！"
+	},
+	"EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!! (Japan) (EyeToy Camera Doukonban)": {
 		"languages": ["Ja"],
 		"localName": "ＥＹＥＴＯＹ：　サルアイトーイ：　大騒ぎ！ウッキウキゲームてんこもりっ！！"
 	},
@@ -9893,17 +9905,17 @@
 	"Fatal Fury - Battle Archives Volume 2 (USA, Canada)": {
 		"languages": ["En"]
 	},
-	"Fate-Unlimited Codes (Japan)": {
-		"languages": ["Ja"],
-		"localName": "フェイト－アンリミテッドコード"
-	},
-	"Fate-stay night - Realta Nua (Japan)": {
+	"Fate-Stay Night - Realta Nua (Japan)": {
 		"languages": ["Ja"],
 		"localName": "フェイト／ステイナイト［レアルタ・ヌア］"
 	},
-	"Fate-stay night - Realta Nua (Japan) (Extra Edition)": {
+	"Fate-Stay Night - Realta Nua (Japan) (Extra Edition)": {
 		"languages": ["Ja"],
 		"localName": "フェイト／ステイナイト　［レアルタ・ヌア］"
+	},
+	"Fate-Unlimited Codes (Japan)": {
+		"languages": ["Ja"],
+		"localName": "フェイト－アンリミテッドコード"
 	},
 	"Fatman & Slim (Europe) (Proto) (2002-12-06)": {
 		"languages": ["En"]
@@ -13078,15 +13090,15 @@
 		"languages": ["Ja"],
 		"localName": "ガンパレード・オーケストラ　白の章　～青森ペンギン伝説～"
 	},
-	"Gunslinger Girl. Volume.I (Japan)": {
+	"Gunslinger Girl. Volume. I (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ガンスリンガー・ガール　Ｖｏｌｕｍｅ．Ｉ"
 	},
-	"Gunslinger Girl. Volume.II (Japan)": {
+	"Gunslinger Girl. Volume. II (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ガンスリンガー・ガール　Ｖｏｌｕｍｅ．Ⅱ"
 	},
-	"Gunslinger Girl. Volume.III (Japan)": {
+	"Gunslinger Girl. Volume. III (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ガンスリンガー・ガール　Ｖｏｌｕｍｅ．Ⅲ"
 	},
@@ -14237,14 +14249,6 @@
 		"languages": ["Ja"],
 		"localName": "星の降る刻"
 	},
-	"Hoshi-iro no Okurimono (Japan)": {
-		"languages": ["Ja"],
-		"localName": "星色のおくりもの"
-	},
-	"Hoshi-iro no Okurimono (Japan) (Shokai Special Genteiban)": {
-		"languages": ["Ja"],
-		"localName": "星色のおくりもの"
-	},
 	"Hoshifuru - Hoshi no Furu Machi (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ほしフル　～星の降る街～"
@@ -14252,6 +14256,14 @@
 	"Hoshigari Empusa (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ほしがりエンプーサ"
+	},
+	"Hoshiiro no Okurimono (Japan)": {
+		"languages": ["Ja"],
+		"localName": "星色のおくりもの"
+	},
+	"Hoshiiro no Okurimono (Japan) (Shokai Special Genteiban)": {
+		"languages": ["Ja"],
+		"localName": "星色のおくりもの"
 	},
 	"Hot 100 Saves (USA) (Unl)": {
 		"languages": []
@@ -15471,7 +15483,7 @@
 	},
 	"Jikkyou World Soccer 2000 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "実況ワールドサッカー　２０００"
+		"localName": "実況ワールドサッカー２０００"
 	},
 	"Jikkyou World Soccer 2000 - Final Edition (Japan)": {
 		"languages": ["Ja"],
@@ -16345,7 +16357,7 @@
 		"languages": ["Ja"],
 		"localName": "風のクロノア２　　～世界が望んだ忘れもの～"
 	},
-	"Kaze-iro Surf (Japan)": {
+	"Kazeiro Surf (Japan)": {
 		"languages": ["Ja"],
 		"localName": "風色サーフ"
 	},
@@ -20352,15 +20364,15 @@
 	"Moderngroove - Ministry of Sound Edition (Europe)": {
 		"languages": ["En"]
 	},
-	"Moe Moe 2-Ji Taisen (Ryaku) 2 (Japan)": {
+	"Moe Moe 2-ji Taisen (Ryaku) 2 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "萌え萌え２次大戦（略）２［ｃｈｕ～♪］"
 	},
-	"Moe Moe 2-Ji Taisen (Ryaku) Deluxe (Japan)": {
+	"Moe Moe 2-ji Taisen (Ryaku) Deluxe (Japan)": {
 		"languages": ["Ja"],
 		"localName": "萌え萌え２次大戦（略）☆デラックス"
 	},
-	"Moekan - Moe Musume Shima e Youkoso (Japan)": {
+	"Moekan - Moekko-jima e Youkoso (Japan)": {
 		"languages": ["Ja"],
 		"localName": "モエかん　～もえっ娘島へようこそ～"
 	},
@@ -21895,10 +21907,6 @@
 		"languages": ["Ja"],
 		"localName": "夏夢夜話"
 	},
-	"Natsu-iro no Sunadokei (Japan)": {
-		"languages": ["Ja"],
-		"localName": "夏色の砂時計"
-	},
 	"Natsuiro - Hoshikuzu no Memory (Japan)": {
 		"languages": ["Ja"],
 		"localName": "なついろ　～星屑のメモリー～"
@@ -21907,15 +21915,19 @@
 		"languages": ["Ja"],
 		"localName": "夏色小町【一日千夏】"
 	},
+	"Natsuiro no Sunadokei (Japan)": {
+		"languages": ["Ja"],
+		"localName": "夏色の砂時計"
+	},
 	"Natsuzora no Monologue (Japan)": {
 		"languages": ["Ja"],
 		"localName": "夏空のモノローグ"
 	},
-	"Natural 2 - Duo - Sakura-iro no Kisetsu (Japan)": {
+	"Natural 2 - Duo - Sakurairo no Kisetsu (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ナチュラル２　－ＤＵＯ－　桜色の季節"
 	},
-	"Natural 2 - Duo - Sakura-iro no Kisetsu (Japan) (DX Pack)": {
+	"Natural 2 - Duo - Sakurairo no Kisetsu (Japan) (DX Pack)": {
 		"languages": ["Ja"],
 		"localName": "ナチュラル２　－ＤＵＯ－　桜色の季節"
 	},
@@ -34318,29 +34330,11 @@
 		"languages": ["Ja"],
 		"localName": "ＴＶｗａｒｅ情報革命シリーズ　～新世紀エヴァンゲリオン　タイピング－Ｅ計画～"
 	},
-	"TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"TY the Tasmanian Tiger (USA) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
-	},
-	"TY the Tasmanian Tiger - Night of the Quinkan (Australia)": {
-		"languages": ["En"]
-	},
-	"TY the Tasmanian Tiger - Night of the Quinkan (USA)": {
-		"languages": ["En"]
-	},
-	"TY the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da)": {
-		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Sv"]
-	},
-	"TY the Tasmanian Tiger 2 - Bush Rescue (USA)": {
-		"languages": ["En"]
-	},
 	"Tabenasai - Demo + Video (Japan)": {
 		"languages": ["Ja"],
 		"localName": "食べなさい：　デモ＋ビデオ"
 	},
-	"Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki su! (Japan)": {
+	"Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "太平洋の嵐　～戦艦大和、暁に出撃す！～"
 	},
@@ -35105,6 +35099,10 @@
 	"Tennis no Oujisama - Sweat & Tears 2 - Seishun Gakuen Teikyuusai '03 - Perfect Live (Japan)": {
 		"languages": ["Ja"],
 		"localName": "テニスの王子様　スウェット　アンド　ティアーズ　２　青春学園庭球祭’０３　Ｐｅｒｆｅｃｔ　Ｌｉｖｅ"
+	},
+	"Tenohira o, Taiyou ni - Eikyuu no Kizuna (Japan)": {
+		"languages": ["Ja"],
+		"localName": "てのひらを、たいように　～永久の絆～"
 	},
 	"Tenohira o, Taiyou ni - Eikyuu no Kizuna (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
@@ -36532,6 +36530,24 @@
 	"Twisted Metal - Head-On - Extra Twisted Edition (USA)": {
 		"languages": ["En"]
 	},
+	"Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Ty the Tasmanian Tiger (USA) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
+	},
+	"Ty the Tasmanian Tiger - Night of the Quinkan (Australia)": {
+		"languages": ["En"]
+	},
+	"Ty the Tasmanian Tiger - Night of the Quinkan (USA)": {
+		"languages": ["En"]
+	},
+	"Ty the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da)": {
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Sv"]
+	},
+	"Ty the Tasmanian Tiger 2 - Bush Rescue (USA)": {
+		"languages": ["En"]
+	},
 	"Typing Namidabashi - Ashita no Joe Touda (Japan)": {
 		"languages": ["Ja"],
 		"localName": "タイピング泪橋　あしたのジョー　闘打"
@@ -36980,11 +36996,11 @@
 		"languages": ["Ja"],
 		"localName": "うたう♪タンブリング・ダイス　～私たち３人、あ・げ・る～"
 	},
-	"Utawareru Mono - Chiri Yuku Mono e no Komori-uta (Japan)": {
+	"Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan)": {
 		"languages": ["Ja"],
 		"localName": "うたわれるもの　散りゆく者への子守唄"
 	},
-	"Utawareru Mono - Chiri Yuku Mono e no Komori-uta (Japan) (Shokai Genteiban)": {
+	"Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "うたわれるもの　散りゆく者への子守唄"
 	},
@@ -38338,7 +38354,7 @@
 	},
 	"World Soccer Winning Eleven 7 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ワールドサッカー　　ウイニングイレブン７"
+		"localName": "ワールドサッカー　ウイニングイレブン７"
 	},
 	"World Soccer Winning Eleven 7 - International (China)": {
 		"languages": ["Zh"],

@@ -1023,6 +1023,12 @@
 	"Call of Duty (USA, Europe) (Deluxe Edition)": {
 		"languages": ["En"]
 	},
+	"Call of Duty - Black Ops (Europe) (Disc 1)": {
+		"languages": ["En"]
+	},
+	"Call of Duty - Black Ops (Europe) (Disc 2)": {
+		"languages": ["En"]
+	},
 	"Call of Duty 2 (Europe)": {
 		"languages": ["En"]
 	},
@@ -1219,6 +1225,9 @@
 	"Dark Seed II (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ダークシード　２"
+	},
+	"Dark Seed II (USA)": {
+		"languages": ["En"]
 	},
 	"DarkStar (Europe) (Installer Disc 1)": {
 		"languages": ["En"]
@@ -1559,7 +1568,7 @@
 	"Gridz (USA)": {
 		"languages": ["En"]
 	},
-	"Guignols de l'Info, Les... le Jeu ! (France)": {
+	"Guignols de l'Info, Les ...le Jeu ! (France)": {
 		"languages": ["Fr"]
 	},
 	"Guitar Hero - Aerosmith (USA) (En,Fr,De,Es,It) (Mac Install Disc)": {
@@ -1731,6 +1740,9 @@
 		"languages": []
 	},
 	"Inherit the Earth - Quest for the Orb (USA)": {
+		"languages": ["En"]
+	},
+	"Inherit the Earth - Quest for the Orb (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
 	"Initial D Second Stage - Typing Kantou Saisoku Project (Japan)": {
@@ -2590,8 +2602,8 @@
 	"Medal of Honor - Allied Assault - Spearhead (USA)": {
 		"languages": ["En"]
 	},
-	"Medal of Honor - Allied Assault - War Chest (USA)": {
-		"languages": []
+	"Medal of Honor - Allied Assault - War Chest (USA, Europe)": {
+		"languages": ["En"]
 	},
 	"Medicom Vol. 1 (Japan)": {
 		"languages": ["Ja"]
@@ -2884,6 +2896,9 @@
 	"Odyssey - The Legend of Nemesis (USA)": {
 		"languages": ["En"]
 	},
+	"Oni (Europe)": {
+		"languages": []
+	},
 	"Oni (USA)": {
 		"languages": []
 	},
@@ -2904,10 +2919,10 @@
 	"Pacific HiTech MacGames Sampler (USA)": {
 		"languages": ["En"]
 	},
-	"Paparazzi! - Tales of Tinseltown (USA) (Disc 1)": {
+	"Paparazzi! Tales of Tinseltown (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
-	"Paparazzi! - Tales of Tinseltown (USA) (Disc 2)": {
+	"Paparazzi! Tales of Tinseltown (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
 	"Paper Bag Princess, The (USA)": {
@@ -3113,6 +3128,9 @@
 	"Reader Rabbit - 2nd Grade (USA)": {
 		"languages": []
 	},
+	"Recess in Greece (USA)": {
+		"languages": ["En"]
+	},
 	"Red Faction (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
@@ -3133,6 +3151,9 @@
 	},
 	"Return to Monkey Island (USA) (Macintosh Game Disc)": {
 		"languages": []
+	},
+	"Return to Treasure Island (USA)": {
+		"languages": ["En"]
 	},
 	"Return to Zork (USA, Europe)": {
 		"languages": ["En"]
@@ -3682,6 +3703,12 @@
 	"Tokimeite Yuuwaku (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ときめいて誘惑"
+	},
+	"Tom Clancy's Rainbow Six 3 - Raven Shield (USA) (Disc 1)": {
+		"languages": ["En"]
+	},
+	"Tom Clancy's Rainbow Six 3 - Raven Shield (USA) (Disc 2)": {
+		"languages": ["En"]
 	},
 	"Tomb Raider - The Last Revelation (Europe)": {
 		"languages": ["En"]

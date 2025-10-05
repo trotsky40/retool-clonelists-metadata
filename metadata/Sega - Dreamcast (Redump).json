@@ -33,7 +33,7 @@
 		"languages": ["Ja"]
 	},
 	"Action Replay CDX - Demo Version (UK) (Unl)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Action Replay CDX Version 3.0 (France) (Unl)": {
 		"languages": ["Fr"]
@@ -715,7 +715,7 @@
 		"localName": "ダビつく　ダービー馬をつくろう！"
 	},
 	"Dabitsuku - Derby-ba o Tsukurou! (Japan) (Taikenban)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "ダビつく　ダービー馬をつくろう！"
 	},
 	"Dabitsuku 2 (Japan)": {
@@ -1099,11 +1099,11 @@
 	},
 	"Dream Preview Vol. 6 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ドリーム　プレビュー　Ｖｏｌ．　６"
+		"localName": "ドリーム　プレビュー　Ｖｏｌ．６"
 	},
 	"Dream Preview Vol. 7 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ドリーム　プレビュー　Ｖｏｌ．　７"
+		"localName": "ドリーム　プレビュー　Ｖｏｌ．７"
 	},
 	"Dream Preview Vol. 8 (Japan)": {
 		"languages": ["Ja"],
@@ -1659,11 +1659,11 @@
 	"Frogger 2 - Swampy's Revenge (USA)": {
 		"languages": ["En"]
 	},
-	"Fur Fighters (Europe) (Demo)": {
-		"languages": []
-	},
 	"Fur Fighters (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
+	},
+	"Fur Fighters (UK) (Demo)": {
+		"languages": ["En"]
 	},
 	"Fur Fighters (USA) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -1746,7 +1746,7 @@
 	"Ghost Blade (USA, Japan) (Unl) (Rerelease)": {
 		"languages": ["En"]
 	},
-	"Giant Gram - Zen Nihon Pro Wres 2 in Nihon Budoukan (Japan)": {
+	"Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ジャイアントグラム　全日本プロレス２　ＩＮ　日本武道館"
 	},
@@ -1947,6 +1947,10 @@
 	},
 	"Headhunter (Europe) (En,Fr,De,Es) (Disc 2)": {
 		"languages": ["De", "En", "Es", "Fr"]
+	},
+	"Heartbreak Diary (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ディープス　「ハートブレイク・ダイアリー」"
 	},
 	"Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -2175,7 +2179,7 @@
 		"localName": "ジェットセットラジオ"
 	},
 	"Jikkyou Powerful Pro Yakyuu - Dreamcast Edition (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "実況パワフルプロ野球　ドリームキャストエディション"
 	},
 	"Jimmy White's 2 - Cueball (Europe) (En,Fr,De,Es,It)": {
@@ -3161,6 +3165,9 @@
 	"Planet DC Cheats Band 3 fuer Dreamcast (Germany) (Unl)": {
 		"languages": ["En"]
 	},
+	"Planet DC Cheats Volume 2 (UK) (Unl)": {
+		"languages": ["En"]
+	},
 	"Planet Ring (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
@@ -3449,10 +3456,10 @@
 	"Ready 2 Rumble Boxing (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
-	"Ready 2 Rumble Boxing - Round 2 (Europe) (Beta) (2000-10-03)": {
-		"languages": []
-	},
 	"Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
+	},
+	"Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De) (Beta) (2000-10-03)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Ready 2 Rumble Boxing - Round 2 (USA) (En,Fr,De)": {
@@ -4813,7 +4820,7 @@
 		"languages": ["Ja"],
 		"localName": "月は東に日は西に　～Ｏｐｅｒａｔｉｏｎ　Ｓａｎｃｔｕａｒｙ～"
 	},
-	"Tsuushin Taisen Logic Battle Daisessen (Japan)": {
+	"Tsuushin Taisen Logic Battle - Daisessen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "通信対戦ロジックバトル　大雪戦"
 	},
@@ -5187,8 +5194,8 @@
 		"languages": ["Ja"],
 		"localName": "ゼロガンナー２"
 	},
-	"Zombie Revenge (Europe) (En,Ja,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr", "Ja"]
+	"Zombie Revenge (Europe) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Zombie Revenge (Japan)": {
 		"languages": ["Ja"],
@@ -5216,9 +5223,5 @@
 	"deSPIRIA (Japan)": {
 		"languages": ["Ja"],
 		"localName": "デスピリア"
-	},
-	"dps - Heartbreak Diary (Japan)": {
-		"languages": ["Ja"],
-		"localName": "ディープス　「ハートブレイク・ダイアリー」"
 	}
 }

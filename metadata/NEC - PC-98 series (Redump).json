@@ -225,6 +225,10 @@
 		"languages": ["En", "Ja"],
 		"localName": "ロジクール・マウスウェア　８．２Ｊ"
 	},
+	"Logicool Mouseware 8.2J (Japan) (En,Ja) (Alt)": {
+		"languages": ["En", "Ja"],
+		"localName": "ロジクール・マウスウェア　８．２Ｊ"
+	},
 	"Love Escalator (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ラブ・エスカレーター"
@@ -316,6 +320,9 @@
 	"Ningen Konchuu - Nozoki (Japan)": {
 		"languages": ["Ja"],
 		"localName": "人間昆虫・覗き"
+	},
+	"Oh!PC 1996-nen 11-1-gou Tokubetsu Furoku CD-ROM (Japan)": {
+		"languages": ["Ja"]
 	},
 	"PILcaSEX (Japan)": {
 		"languages": ["Ja"],

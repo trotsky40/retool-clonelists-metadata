@@ -1311,6 +1311,10 @@
 		"languages": ["Ja"],
 		"localName": "シルフィード"
 	},
+	"Silpheed (Japan) (Demo) (Reprint)": {
+		"languages": ["Ja"],
+		"localName": "シルフィード"
+	},
 	"Silpheed (USA)": {
 		"languages": ["En"]
 	},
@@ -1387,10 +1391,10 @@
 	"Snatcher (Europe)": {
 		"languages": ["En"]
 	},
-	"Snatcher (Europe) (Beta) (1994-10-07)": {
+	"Snatcher (USA)": {
 		"languages": ["En"]
 	},
-	"Snatcher (USA)": {
+	"Snatcher (USA) (Beta) (1994-10-07)": {
 		"languages": ["En"]
 	},
 	"Software Toolworks' Star Wars Chess, The (Europe)": {

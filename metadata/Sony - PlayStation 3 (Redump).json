@@ -1620,6 +1620,9 @@
 	"Burnout Paradise (USA) (Beta) (2007-10-31)": {
 		"languages": []
 	},
+	"Burnout Paradise - The Ultimate Box (Asia) (En,Ja,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
+	},
 	"Burnout Paradise - The Ultimate Box (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
@@ -1638,6 +1641,9 @@
 	},
 	"Buzz! Brain of the UK (UK)": {
 		"languages": ["En"]
+	},
+	"Buzz! Brain of the World (Europe) (En,De,Pt)": {
+		"languages": ["De", "En", "Pt"]
 	},
 	"Buzz! Brain of the World (Europe) (En,Fr,Nl)": {
 		"languages": ["En", "Fr", "Nl"]
@@ -1660,9 +1666,6 @@
 	},
 	"Buzz! Que Sabes de tu Pais (Spain)": {
 		"languages": ["Es"]
-	},
-	"Buzz! Quem e o Genio Portugues (Portugal) (En,De,Pt)": {
-		"languages": ["De", "En", "Pt"]
 	},
 	"Buzz! Quiz TV (Europe) (En,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
@@ -2405,15 +2408,15 @@
 	"DJ Hero 2 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Dai-2-Ji Super Robot Taisen OG (Japan, Korea)": {
+	"Dai-2-ji Super Robot Taisen OG (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "第２次スーパー・ロボット大戦ＯＧ"
 	},
-	"Dai-3-Ji Super Robot Taisen Z - Jigoku-hen (Japan)": {
+	"Dai-3-ji Super Robot Taisen Z - Jigoku-hen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "第３次スーパーロボット大戦Ｚ　時獄篇"
 	},
-	"Dai-3-Ji Super Robot Taisen Z - Tengoku-hen (Japan)": {
+	"Dai-3-ji Super Robot Taisen Z - Tengoku-hen (Japan)": {
 		"languages": [],
 		"localName": "第３次スーパーロボット大戦Ｚ　天獄篇"
 	},
@@ -4935,6 +4938,9 @@
 		"languages": [],
 		"localName": "フォークスソウル　失われた伝承"
 	},
+	"Formula One - Championship Edition (Asia)": {
+		"languages": ["En"]
+	},
 	"Formula One - Championship Edition (Europe) (En,Fr,De,Es,It,Pt,Fi)": {
 		"languages": ["De", "En", "Es", "Fi", "Fr", "It", "Pt"]
 	},
@@ -5322,15 +5328,15 @@
 	"Gran Turismo 5 - XL Edition (USA) (En,Ja,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Ja", "Pt"]
 	},
+	"Gran Turismo 6 (Asia) (En,Zh,Ko)": {
+		"languages": ["En", "Ko", "Zh"]
+	},
 	"Gran Turismo 6 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru,El,Cs,Hu,Tr)": {
 		"languages": ["Cs", "De", "El", "En", "Es", "Fr", "Hu", "It", "Ja", "Nl", "Pl", "Pt", "Ru", "Tr"]
 	},
 	"Gran Turismo 6 (Japan)": {
 		"languages": [],
 		"localName": "グランツーリスモ６"
-	},
-	"Gran Turismo 6 (Korea) (En,Zh,Ko)": {
-		"languages": ["En", "Ko", "Zh"]
 	},
 	"Gran Turismo 6 (Latin America) (En,Es,Pt)": {
 		"languages": ["En", "Es", "Pt"]
@@ -5839,7 +5845,7 @@
 		"languages": ["Ja"],
 		"localName": "ひぐらしのなく頃に粋"
 	},
-	"Hiiro no Kakera Aizouban - Akane Iro no Tsuioku (Japan)": {
+	"Hiiro no Kakera Aizouban - Akaneiro no Tsuioku (Japan)": {
 		"languages": ["Ja"],
 		"localName": "緋色の欠片　愛蔵版　～あかねいろの追憶～"
 	},
@@ -6732,7 +6738,7 @@
 		"languages": ["Ja"],
 		"localName": "Ｌ．Ａ．ノワール"
 	},
-	"L.A. Noire (USA, Canada) (En,Fr,De,Es,It)": {
+	"L.A. Noire (USA, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"L.A. Noire - The Complete Edition (Europe) (En,Fr,De,Es,It)": {
@@ -6773,7 +6779,7 @@
 	"LEGO Dimensions (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"LEGO Harry Potter - Dai-1 Shou - Dai-4 Shou (Japan)": {
+	"LEGO Harry Potter - Dai-1-shou - Dai-4-shou (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＬＥＧＯ　ハリー・ポッター　第１章－第４章"
 	},
@@ -7088,6 +7094,9 @@
 	"LittleBigPlanet 2 - Extras Edition (UK)": {
 		"languages": ["En"]
 	},
+	"LittleBigPlanet 2 - Special Edition (Asia) (En,Zh,Ko)": {
+		"languages": ["En", "Ko", "Zh"]
+	},
 	"LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
@@ -7211,7 +7220,7 @@
 	"Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko"]
 	},
-	"Lost Planet 2 (Japan, Europe) (En,Ja,Fr,De,Es,It,Ko)": {
+	"Lost Planet 2 (Europe, Asia) (En,Ja,Fr,De,Es,It,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko"],
 		"localName": "ロスト　プラネット　２"
 	},
@@ -8034,6 +8043,10 @@
 	"ModNation - Mugen no Kart Oukoku (Japan)": {
 		"languages": [],
 		"localName": "モッドネーション　無限のカート王国"
+	},
+	"ModNation Racers (Asia) (En,Zh,Ko)": {
+		"languages": ["En", "Ko", "Zh"],
+		"localName": "摩登大賽車"
 	},
 	"ModNation Racers (Europe)": {
 		"languages": ["En"]
@@ -9404,7 +9417,7 @@
 	"Orange Box, The (Germany) (En,De)": {
 		"languages": ["De", "En"]
 	},
-	"Orange Box, The (USA)": {
+	"Orange Box, The (USA, Korea)": {
 		"languages": ["En"]
 	},
 	"Order Up!! (Europe) (En,Fr,De,Es,It)": {
@@ -10072,6 +10085,10 @@
 	"Rage (USA, Korea) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Ragnarok Odyssey Ace (Korea)": {
+		"languages": [],
+		"localName": "라그나로크 오디세이 에이스"
+	},
 	"Ragnarok Odyssey Ace (USA)": {
 		"languages": ["En"]
 	},
@@ -10312,7 +10329,7 @@
 	},
 	"Red Faction - Guerrilla (Japan)": {
 		"languages": [],
-		"localName": "レッドファクション・ゲリラ"
+		"localName": "レッドファクション：ゲリラ"
 	},
 	"Red Faction - Guerrilla (UK)": {
 		"languages": ["En"]
@@ -11287,9 +11304,17 @@
 		"languages": [],
 		"localName": "真・三國無双６　Ｅｍｐｉｒｅｓ"
 	},
+	"Shin Sangoku Musou 6 - Moushouden (Asia)": {
+		"languages": ["Zh"],
+		"localName": "真・三國無雙6 猛將傳"
+	},
 	"Shin Sangoku Musou 6 - Moushouden (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "真・三國無双６　猛将伝"
+	},
+	"Shin Sangoku Musou 7 (Asia)": {
+		"languages": ["Zh"],
+		"localName": "真・三國無雙7"
 	},
 	"Shin Sangoku Musou 7 (Japan)": {
 		"languages": ["Ja"],
@@ -11302,6 +11327,10 @@
 	"Shin Sangoku Musou 7 - Moushouden (Japan)": {
 		"languages": [],
 		"localName": "真・三國無双７　猛将伝"
+	},
+	"Shin Sangoku Musou 7 with Moushouden (Asia)": {
+		"languages": ["Zh"],
+		"localName": "真・三國無雙7 with 猛將傳"
 	},
 	"Shin Sangoku Musou 7 with Moushouden (Japan)": {
 		"languages": [],
@@ -11661,6 +11690,9 @@
 	},
 	"SingStar Svenska Stjaernor (Sweden) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (v02.00)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pt", "Ru", "Sv"]
+	},
+	"SingStar Take That (Europe) (Beta) (2009-08-24)": {
+		"languages": []
 	},
 	"SingStar Take That (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
@@ -12479,7 +12511,7 @@
 	"TV Superstars (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
-	"Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugekisu (Japan)": {
+	"Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan)": {
 		"languages": [],
 		"localName": "太平洋の嵐　～戦艦大和、暁に出撃す！～"
 	},
@@ -12953,15 +12985,15 @@
 	"Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition + Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tom Clancy's Splinter Cell - Blacklist (Asia) (En,Ja,Zh,Ko)": {
-		"languages": ["En", "Ja", "Ko", "Zh"],
-		"localName": "スプリンターセル　ブラックリスト"
-	},
 	"Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Cs,Hu)": {
 		"languages": ["Cs", "En", "Hu"]
 	},
 	"Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Pt", "Sv"]
+	},
+	"Tom Clancy's Splinter Cell - Blacklist (Japan, Asia) (En,Ja,Zh,Ko)": {
+		"languages": ["En", "Ja", "Ko", "Zh"],
+		"localName": "スプリンターセル　ブラックリスト"
 	},
 	"Tom Clancy's Splinter Cell - Blacklist (Russia)": {
 		"languages": ["Ru"]
@@ -13513,6 +13545,10 @@
 	"Unreal Tournament III (Germany) (En,De)": {
 		"languages": ["De", "En"]
 	},
+	"Unreal Tournament III (Korea)": {
+		"languages": ["En"],
+		"localName": "언리얼 토너먼트 3"
+	},
 	"Unreal Tournament III (USA, Canada)": {
 		"languages": ["En"]
 	},
@@ -13529,11 +13565,11 @@
 	"Untold Legends - Dark Kingdom (USA)": {
 		"languages": ["En"]
 	},
-	"Utawareru Mono - Futari no Hakuoro (Japan)": {
+	"Utawarerumono - Futari no Hakuoro (Japan)": {
 		"languages": [],
 		"localName": "うたわれるもの　二人の白皇"
 	},
-	"Utawareru Mono - Itsuwari no Kamen (Japan)": {
+	"Utawarerumono - Itsuwari no Kamen (Japan)": {
 		"languages": [],
 		"localName": "うたわれるもの　偽りの仮面"
 	},

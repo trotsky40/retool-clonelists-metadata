@@ -1236,6 +1236,10 @@
 		"languages": ["Ja"],
 		"localName": "ダライアス外伝"
 	},
+	"Darius Gaiden (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "ダライアス外伝"
+	},
 	"Darius Gaiden (USA)": {
 		"languages": ["En"]
 	},
@@ -1483,7 +1487,7 @@
 	},
 	"Densetsu no Ogre Battle (Japan)": {
 		"languages": ["Ja"],
-		"localName": "伝説のオウガ・バトル"
+		"localName": "伝説のオウガバトル"
 	},
 	"Densha de Go! EX (Japan)": {
 		"languages": ["Ja"],
@@ -1547,7 +1551,7 @@
 		"languages": ["Ja"],
 		"localName": "デビル・サマナー　ソウル・ハッカーズ"
 	},
-	"Devil Summoner - Soul Hackers - Akuma Zensho Daini-shuu (Japan)": {
+	"Devil Summoner - Soul Hackers - Akuma Zensho Dainishuu (Japan)": {
 		"languages": ["Ja"],
 		"localName": "デビルサマナー　ソウルハッカーズ　悪魔全書　第二集"
 	},
@@ -1763,7 +1767,7 @@
 		"localName": "ドルイド　～闇への追跡者～"
 	},
 	"Duck Video Tools - Sega Saturn Demonstration Disk (USA) (Unl)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Duke Nukem 3D (Europe)": {
 		"languages": ["En"]
@@ -2811,7 +2815,7 @@
 	},
 	"Guardian Heroes (Japan) (3M)": {
 		"languages": ["Ja"],
-		"localName": "ガーディアン・ヒーローズ"
+		"localName": "ガーディアンヒーローズ"
 	},
 	"Guardian Heroes (USA)": {
 		"languages": ["En"]
@@ -3288,6 +3292,10 @@
 		"languages": ["Ja"],
 		"localName": "Ｊリーグ・プロ・サッカー・クラブ　をつくろう！２"
 	},
+	"J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev B)": {
+		"languages": ["Ja"],
+		"localName": "Ｊリーグ・プロ・サッカー・クラブ　をつくろう！２"
+	},
 	"J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev C) (32M)": {
 		"languages": ["Ja"],
 		"localName": "Ｊリーグ・プロ・サッカー・クラブ　をつくろう！２"
@@ -3494,11 +3502,11 @@
 	},
 	"Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localName": "機動戦艦ナデシコ　－Ｔｈｅ　ｂｌａｎｋ　ｏｆ　３　ｙｅａｒｓ－"
+		"localName": "機動戦艦ナデシコ　Ｔｈｅ　ｂｌａｎｋ　ｏｆ　３ｙｅａｒｓ"
 	},
 	"Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localName": "機動戦艦ナデシコ　－Ｔｈｅ　ｂｌａｎｋ　ｏｆ　３　ｙｅａｒｓ－"
+		"localName": "機動戦艦ナデシコ　Ｔｈｅ　ｂｌａｎｋ　ｏｆ　３ｙｅａｒｓ"
 	},
 	"Kidou Senkan Nadesico - Yappari Saigo wa Ai ga Katsu (Japan)": {
 		"languages": ["Ja"],
@@ -3637,7 +3645,7 @@
 		"languages": ["Ja"],
 		"localName": "黒の断章　－Ｔｈｅ　Ｌｉｔｅｒａｒｙ　Ｆｒａｇｍｅｎｔ－"
 	},
-	"Kurubushi Kyoudai Gekijou Dai-ikkan - Mahjong-hen (Japan) (2M)": {
+	"Kurubushi Kyoudai Gekijou Daiikkan - Mahjong-hen (Japan) (2M)": {
 		"languages": ["Ja"],
 		"localName": "踝兄弟劇場　第一巻　麻雀篇"
 	},
@@ -5373,7 +5381,7 @@
 	},
 	"Puzzle Bobble 3 (Japan) (1M)": {
 		"languages": ["Ja"],
-		"localName": "パズル・ボブル３"
+		"localName": "パズルボブル３"
 	},
 	"Puzzle Bobble 3 (Japan) (2M)": {
 		"languages": ["Ja"],
@@ -5590,7 +5598,7 @@
 	},
 	"Riglordsaga (Japan) (Made in U.S.A.) (1S)": {
 		"languages": ["Ja"],
-		"localName": "リグロード・サーガ"
+		"localName": "リグロード　サーガ"
 	},
 	"Riglordsaga (Japan) (Made in U.S.A.) (4S)": {
 		"languages": ["Ja"],
@@ -7883,19 +7891,19 @@
 	},
 	"Vampire Hunter - Darkstalker's Revenge (Japan) (En,Ja) (Demo)": {
 		"languages": ["En", "Ja"],
-		"localName": "ヴァンパイア・ハンター"
+		"localName": "ヴァンパイア　ハンター"
 	},
 	"Vampire Hunter - Darkstalkers' Revenge (Japan) (1M)": {
 		"languages": ["Ja"],
-		"localName": "ヴァンパイア・ハンター"
+		"localName": "ヴァンパイア　ハンター"
 	},
 	"Vampire Hunter - Darkstalkers' Revenge (Japan) (2M, 4M)": {
 		"languages": ["Ja"],
-		"localName": "ヴァンパイア・ハンター"
+		"localName": "ヴァンパイア　ハンター"
 	},
 	"Vampire Hunter - Darkstalkers' Revenge (Japan) (3M)": {
 		"languages": ["Ja"],
-		"localName": "ヴァンパイア・ハンター"
+		"localName": "ヴァンパイア　ハンター"
 	},
 	"Vampire Savior - The Lord of Vampire (Japan)": {
 		"languages": ["Ja"],
@@ -7976,11 +7984,11 @@
 	},
 	"Virtua Cop 2 (Japan) (2M)": {
 		"languages": ["Ja"],
-		"localName": "バーチャ・コップ２"
+		"localName": "バーチャコップ２"
 	},
 	"Virtua Cop 2 (Japan) (3M)": {
 		"languages": ["Ja"],
-		"localName": "バーチャ・コップ２"
+		"localName": "バーチャコップ２"
 	},
 	"Virtua Cop 2 (Japan) (Rev B) (23M)": {
 		"languages": ["Ja"],
@@ -8419,6 +8427,10 @@
 		"localName": "ウイング・アームズ　～華麗なる撃墜王～"
 	},
 	"Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "ウイング・アームズ　～華麗なる撃墜王～"
+	},
+	"Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev B)": {
 		"languages": ["Ja"],
 		"localName": "ウイング・アームズ　～華麗なる撃墜王～"
 	},

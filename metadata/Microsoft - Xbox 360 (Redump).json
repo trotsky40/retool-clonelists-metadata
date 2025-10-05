@@ -55,8 +55,8 @@
 	"2014 FIFA World Cup Brazil (Europe) (Fr,Es,Nl)": {
 		"languages": ["Es", "Fr", "Nl"]
 	},
-	"2014 FIFA World Cup Brazil (Japan)": {
-		"languages": [],
+	"2014 FIFA World Cup Brazil (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "２０１４　ＦＩＦＡ　ワールドカップ　ブラジル"
 	},
 	"2014 FIFA World Cup Brazil (USA) (En,Fr,Es)": {
@@ -145,8 +145,8 @@
 	"Adrenalin Misfits (USA)": {
 		"languages": []
 	},
-	"Adventure Time - Explore the Dungeon Because I Don't Know! (USA, Europe)": {
-		"languages": []
+	"Adventure Time - Explore the Dungeon Because I Don't Know! (USA, Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Adventure Time - Finn & Jake Investigations (USA)": {
 		"languages": []
@@ -277,7 +277,7 @@
 	"Angry Birds Star Wars (Europe) (Ru,Ar)": {
 		"languages": ["Ar", "Ru"]
 	},
-	"Angry Birds Star Wars (USA) (En,Fr,De,Es,It,Pt)": {
+	"Angry Birds Star Wars (USA, Europe) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Angry Birds Trilogy (USA, Europe) (En,Fr,De,Es,It)": {
@@ -1370,11 +1370,11 @@
 	"Call of Duty - Advanced Warfare (Italy) (Disco di Gioco)": {
 		"languages": ["It"]
 	},
-	"Call of Duty - Advanced Warfare (Japan) (Game Disc)": {
+	"Call of Duty - Advanced Warfare (Japan) (Game Disc) (Fukikaeban)": {
 		"languages": [],
 		"localName": "コール　オブ　デューティ　アドバンスド・ウォーフェア"
 	},
-	"Call of Duty - Advanced Warfare (Japan) (Game Disc) (Fukikaeban)": {
+	"Call of Duty - Advanced Warfare (Japan) (Game Disc) (Jimakuban)": {
 		"languages": [],
 		"localName": "コール　オブ　デューティ　アドバンスド・ウォーフェア"
 	},
@@ -1395,7 +1395,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
 	"Call of Duty - Black Ops (France)": {
-		"languages": []
+		"languages": ["Fr"]
 	},
 	"Call of Duty - Black Ops (Germany)": {
 		"languages": ["De"]
@@ -1408,11 +1408,11 @@
 		"localName": "コール　オブ　デューティ　ブラックオプス　吹き替え版"
 	},
 	"Call of Duty - Black Ops (Japan) (Jimakuban)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "コール　オブ　デューティ　ブラックオプス"
 	},
 	"Call of Duty - Black Ops (Poland)": {
-		"languages": []
+		"languages": ["Pl"]
 	},
 	"Call of Duty - Black Ops (Russia)": {
 		"languages": ["Ru"]
@@ -1427,7 +1427,7 @@
 		"languages": ["Pt"]
 	},
 	"Call of Duty - Black Ops II (France)": {
-		"languages": []
+		"languages": ["Fr"]
 	},
 	"Call of Duty - Black Ops II (Germany)": {
 		"languages": ["De"]
@@ -1525,7 +1525,7 @@
 		"languages": ["En"]
 	},
 	"Call of Duty - Modern Warfare 3 (France)": {
-		"languages": []
+		"languages": ["Fr"]
 	},
 	"Call of Duty - Modern Warfare 3 (Germany)": {
 		"languages": ["De"]
@@ -1554,7 +1554,7 @@
 		"languages": ["En"]
 	},
 	"Call of Duty - World at War (France)": {
-		"languages": []
+		"languages": ["Fr"]
 	},
 	"Call of Duty - World at War (Germany)": {
 		"languages": ["De"]
@@ -1562,8 +1562,8 @@
 	"Call of Duty - World at War (Italy)": {
 		"languages": ["It"]
 	},
-	"Call of Duty - World at War (Korea) (En,Ko)": {
-		"languages": ["En", "Ko"],
+	"Call of Duty - World at War (Korea)": {
+		"languages": ["Ko"],
 		"localName": "콜 오브 듀티 - 월드 앳 워"
 	},
 	"Call of Duty - World at War (Russia)": {
@@ -1575,6 +1575,9 @@
 	"Call of Duty - World at War (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Call of Duty 2 (France)": {
+		"languages": ["Fr"]
+	},
 	"Call of Duty 2 (Germany)": {
 		"languages": ["De"]
 	},
@@ -1582,14 +1585,14 @@
 		"languages": ["It"]
 	},
 	"Call of Duty 2 (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "コール　オブ　デューティ２"
 	},
 	"Call of Duty 2 (Spain)": {
 		"languages": ["Es"]
 	},
 	"Call of Duty 2 (USA) (Rev 1)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Call of Duty 2 (USA, Europe)": {
 		"languages": ["En"]
@@ -1601,11 +1604,14 @@
 		"languages": ["De"]
 	},
 	"Call of Duty 3 (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "コール　オブ　デューティ３"
 	},
 	"Call of Duty 3 (USA, Europe)": {
 		"languages": ["En"]
+	},
+	"Call of Duty 4 - Modern Warfare (France)": {
+		"languages": ["Fr"]
 	},
 	"Call of Duty 4 - Modern Warfare (Germany)": {
 		"languages": ["De"]
@@ -1614,7 +1620,7 @@
 		"languages": ["It"]
 	},
 	"Call of Duty 4 - Modern Warfare (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "コール　オブ　デューティ４　モダン・ウォーフェア"
 	},
 	"Call of Duty 4 - Modern Warfare (Korea)": {
@@ -2428,6 +2434,10 @@
 	"Destroy All Humans! Path of the Furon (USA)": {
 		"languages": []
 	},
+	"Deus Ex (Japan)": {
+		"languages": ["Ja"],
+		"localName": "デウスエクス"
+	},
 	"Deus Ex - Human Revolution (France)": {
 		"languages": ["Fr"]
 	},
@@ -2462,7 +2472,7 @@
 		"languages": [],
 		"localName": "デビル　メイ　クライ　ＨＤコレクション"
 	},
-	"Devil May Cry - HD Collection (USA, Europe) (En,Ja,Fr,De,Es,It)": {
+	"Devil May Cry - HD Collection (World) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Devil May Cry 4 (Japan)": {
@@ -2713,8 +2723,8 @@
 	"Disney-Pixar Cars 2 (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Disney-Pixar Cars 2 (USA, Europe)": {
-		"languages": []
+	"Disney-Pixar Cars 2 (USA, Europe) (En,Fr,Es,It,Nl)": {
+		"languages": ["En", "Es", "Fr", "It", "Nl"]
 	},
 	"Disney-Pixar Cars 3 - Driven to Win (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
@@ -3289,7 +3299,7 @@
 		"languages": ["En"]
 	},
 	"Elder Scrolls V, The - Skyrim (France)": {
-		"languages": []
+		"languages": ["Fr"]
 	},
 	"Elder Scrolls V, The - Skyrim (Germany)": {
 		"languages": ["De"]
@@ -3309,17 +3319,20 @@
 	"Elder Scrolls V, The - Skyrim (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Elder Scrolls V, The - Skyrim - Legendary Edition (France) (Disque 2)": {
+		"languages": ["Fr"]
+	},
 	"Elder Scrolls V, The - Skyrim - Legendary Edition (Germany) (Disc 2)": {
 		"languages": ["De"]
 	},
-	"Elder Scrolls V, The - Skyrim - Legendary Edition (Italy) (En,It) (Disco 2)": {
-		"languages": ["En", "It"]
+	"Elder Scrolls V, The - Skyrim - Legendary Edition (Italy) (Disco 2)": {
+		"languages": ["It"]
 	},
 	"Elder Scrolls V, The - Skyrim - Legendary Edition (Japan) (Disc 2)": {
 		"languages": ["Ja"]
 	},
-	"Elder Scrolls V, The - Skyrim - Legendary Edition (Spain) (En,Es) (Disc 2)": {
-		"languages": ["En", "Es"]
+	"Elder Scrolls V, The - Skyrim - Legendary Edition (Spain) (Disc 2)": {
+		"languages": ["Es"]
 	},
 	"Elder Scrolls V, The - Skyrim - Legendary Edition (USA) (Disc 2)": {
 		"languages": ["En"]
@@ -3774,14 +3787,14 @@
 	"FIFA 15 (Europe) (En,Fr,Nl)": {
 		"languages": ["En", "Fr", "Nl"]
 	},
-	"FIFA 15 (Europe) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"]
+	"FIFA 15 (Europe) (Pl,Ru,Cs,Hu)": {
+		"languages": ["Cs", "Hu", "Pl", "Ru"]
 	},
 	"FIFA 15 (Japan)": {
-		"languages": []
+		"languages": ["Ja"]
 	},
-	"FIFA 15 (USA)": {
-		"languages": []
+	"FIFA 15 (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"FIFA 16 (Australia) (En,Fr,Nl)": {
 		"languages": ["En", "Fr", "Nl"]
@@ -3798,8 +3811,8 @@
 	"FIFA 16 (Russia) (En,Pl,Ru,Cs)": {
 		"languages": ["Cs", "En", "Pl", "Ru"]
 	},
-	"FIFA 16 (USA)": {
-		"languages": []
+	"FIFA 16 (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"FIFA 17 (Brazil) (En,Pt)": {
 		"languages": ["En", "Pt"]
@@ -3822,14 +3835,14 @@
 	"FIFA 18 - Legacy Edition (Europe) (En,De,It)": {
 		"languages": ["De", "En", "It"]
 	},
-	"FIFA 18 - Legacy Edition (Europe) (En,Es)": {
-		"languages": ["En", "Es"]
-	},
 	"FIFA 18 - Legacy Edition (Europe) (En,Pl,Ru)": {
 		"languages": ["En", "Pl", "Ru"]
 	},
-	"FIFA 18 - Legacy Edition (USA)": {
-		"languages": []
+	"FIFA 18 - Legacy Edition (Spain) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
+	"FIFA 18 - Legacy Edition (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"FIFA 19 - Edicao Legacy (Brazil) (En,Pt)": {
 		"languages": ["En", "Pt"]
@@ -3840,8 +3853,8 @@
 	"FIFA 19 - Legacy Edition (Europe) (En,De,It)": {
 		"languages": ["De", "En", "It"]
 	},
-	"FIFA 19 - Legacy Edition (Europe) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
+	"FIFA 19 - Legacy Edition (Europe) (En,Fr,Nl)": {
+		"languages": ["En", "Fr", "Nl"]
 	},
 	"FIFA 19 - Legacy Edition (Spain) (En,Es)": {
 		"languages": ["En", "Es"]
@@ -4064,6 +4077,9 @@
 	},
 	"Fallout 3 (Austria, Switzerland)": {
 		"languages": ["De"]
+	},
+	"Fallout 3 (France)": {
+		"languages": ["Fr"]
 	},
 	"Fallout 3 (Germany)": {
 		"languages": ["De"]
@@ -6639,9 +6655,9 @@
 		"languages": [],
 		"localName": "ガンダム　オペレーショントロイ"
 	},
-	"Moe Moe 2-Ji Daisenryaku Ultra Deluxe (Japan)": {
+	"Moe Moe 2-ji Taisen (Ryaku) 2 Ultra Deluxe (Japan)": {
 		"languages": ["Ja"],
-		"localName": "萌え萌え２次大戦（略）２［ｃｈｕ～♪］（ウルトラデラックス）"
+		"localName": "萌え萌え２次大戦（略）２［ｃｈｕ～♪］☆ウルトラデラックス"
 	},
 	"Momotarou Dentetsu 16 Gold (Japan)": {
 		"languages": [],
@@ -6700,8 +6716,8 @@
 	"Motionsports - Play for Real (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Motionsports - Play for Real (USA, Europe) (Rev 1)": {
-		"languages": []
+	"Motionsports - Play for Real (USA, Europe) (En,Fr,De,Es,It,Nl) (Rev 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Motionsports Adrenaline (USA, Europe)": {
 		"languages": []
@@ -8112,8 +8128,8 @@
 	"Price Is Right, The - Decades (USA)": {
 		"languages": []
 	},
-	"Prince of Persia (Japan)": {
-		"languages": [],
+	"Prince of Persia (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "プリンス・オブ・ペルシャ"
 	},
 	"Prince of Persia (Korea) (En,Ko)": {
@@ -8431,6 +8447,10 @@
 	},
 	"Red Faction - Guerrilla (Germany)": {
 		"languages": []
+	},
+	"Red Faction - Guerrilla (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
+		"localName": "レッドファクション：ゲリラ"
 	},
 	"Red Faction - Guerrilla (UK)": {
 		"languages": ["En"]
@@ -10889,7 +10909,16 @@
 	"Xbox 360 - The Official Xbox Magazine - Australia & New Zealand - Issue 53 (Australia, New Zealand)": {
 		"languages": []
 	},
+	"Xbox 360 - The Official Xbox Magazine - Special Edition 15 - Starter Pack (UK)": {
+		"languages": []
+	},
+	"Xbox 360 - The Official Xbox Magazine - Special Edition 18 - Starter Pack (UK)": {
+		"languages": []
+	},
 	"Xbox 360 - The Official Xbox Magazine - The Action Collection! (Australia)": {
+		"languages": []
+	},
+	"Xbox 360 - The Official Xbox Magazine - The Full 360 Starter Pack (UK)": {
 		"languages": []
 	},
 	"Xbox 360 - The Official Xbox Magazine Issue 08 - June 2006 (UK)": {

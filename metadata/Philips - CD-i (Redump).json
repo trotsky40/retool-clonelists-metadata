@@ -3081,6 +3081,9 @@
 	"Goya Grabador - Luces y Sombras (Spain) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Goya Grabador - Luces y Sombras (Spain) (En,Fr,Es) (Beta) (1994-04-15)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"Great Art Series, The - Florence Renaissance - Renaissance of Florence, The (Japan)": {
 		"languages": ["Ja"],
 		"localName": "フィレンツェ・ルネッサンス"
@@ -3121,11 +3124,44 @@
 	"Guide to Heavy Duty Pumps in the Construction Market (USA)": {
 		"languages": []
 	},
-	"Guignols de l'Info, Les... le Jeu ! (France)": {
+	"Guignols de l'Info, Les ...le Jeu ! (France)": {
 		"languages": []
 	},
-	"Guignols de l'Info, Les... le Jeu ! (France) (Alt)": {
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Alt)": {
 		"languages": []
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-02-08)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-02-29)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-03-15)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-04-09)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-04-24)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-05-07)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-05-15)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-05-17) (v1.04)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-05-17) (v1.08)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (Disque Demo) (1996-05-20)": {
+		"languages": ["Fr"]
+	},
+	"Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (Disque Demo) (1996-05-22)": {
+		"languages": ["Fr"]
 	},
 	"HAL90 - Demo Disc (Europe)": {
 		"languages": []
@@ -4419,11 +4455,11 @@
 	},
 	"Let's Go Skiing with Alberto Tomba (Europe) (En,It)": {
 		"languages": ["En", "It"],
-		"localName": "Sciamo con Alterto Tomba"
+		"localName": "Sciamo con Alberto Tomba"
 	},
 	"Let's Go Skiing with Alberto Tomba (Europe) (En,It) (Rev 1)": {
 		"languages": ["En", "It"],
-		"localName": "Sciamo con Alterto Tomba"
+		"localName": "Sciamo con Alberto Tomba"
 	},
 	"Lettergreep (Netherlands)": {
 		"languages": ["Nl"]
@@ -4707,6 +4743,10 @@
 		"languages": ["De", "En", "Fr", "Nl"],
 		"localName": "Das Labyrinth der Meister"
 	},
+	"Maths Interactives (Switzerland) (Fr) (Proto) (1997-05-27)": {
+		"languages": ["Fr"],
+		"localName": "Math Interactives"
+	},
 	"Mathtrak K1 (USA)": {
 		"languages": []
 	},
@@ -4981,6 +5021,10 @@
 	"Nackte Kanone 2 1-2, Die (Germany) (Disc 2)": {
 		"languages": ["De"]
 	},
+	"Naftaline Field Dubbling (Belgium) (Fr) (Proto) (1994-01-01)": {
+		"languages": ["Fr"],
+		"localName": "Naftaline FDUB Mode"
+	},
 	"Naftaline chez Elle (France)": {
 		"languages": ["Fr"]
 	},
@@ -5071,6 +5115,15 @@
 	},
 	"Night in Nylon City, A (Europe)": {
 		"languages": []
+	},
+	"Night in Nylon City, A (Europe) (En,Fr) (Beta) (1995-01-10)": {
+		"languages": ["En", "Fr"]
+	},
+	"Night in Nylon City, A (Europe) (En,Fr) (Beta) (1995-02-21)": {
+		"languages": ["En", "Fr"]
+	},
+	"Night in Nylon City, A (Europe) (En,Fr) (Beta) (1995-04-18)": {
+		"languages": ["En", "Fr"]
 	},
 	"Nijmegen - 'n Rijk aan Mogelijkheden (Netherlands)": {
 		"languages": ["Nl"]
@@ -5308,6 +5361,10 @@
 	},
 	"Pegasus (USA, Europe)": {
 		"languages": []
+	},
+	"Pequeno Larousse, El (Spain) (Beta) (1996-10-04)": {
+		"languages": ["Es"],
+		"localName": "Larousse Multimedia - Diccionario Enciclopédico"
 	},
 	"Performers, De - 1995 Introducing - NOB Interactive (Netherlands)": {
 		"languages": []
@@ -5991,6 +6048,12 @@
 		"languages": []
 	},
 	"Space Ace (Europe)": {
+		"languages": ["En"]
+	},
+	"Space Ace (Europe) (Beta) (1993-10-26)": {
+		"languages": ["En"]
+	},
+	"Space Ace (Europe) (Beta) (1993-12-24)": {
 		"languages": ["En"]
 	},
 	"Space Ace (USA)": {

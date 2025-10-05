@@ -1345,13 +1345,13 @@
 	"Ape Escape (USA)": {
 		"languages": ["En"]
 	},
-	"Ape Escape (USA) (SCUS-94470)": {
+	"Ape Escape (USA) (Demo) (SCUS-94470)": {
 		"languages": ["En"]
 	},
-	"Ape Escape (USA) (SCUS-94489)": {
+	"Ape Escape (USA) (Demo) (SCUS-94489)": {
 		"languages": ["En"]
 	},
-	"Ape Escape (USA) (SCUS-94489) (EDC)": {
+	"Ape Escape (USA) (Demo) (SCUS-94489) (EDC)": {
 		"languages": ["En"]
 	},
 	"Ape Escape - La Invasion de los Monos (Spain)": {
@@ -5347,7 +5347,7 @@
 	},
 	"Cool Boarders 2 - Killing Session (Japan, Asia)": {
 		"languages": ["En"],
-		"localName": "クールボーダーズ２　キリングセッション"
+		"localName": "クールボーダーズ２ キリングセッション"
 	},
 	"Cool Boarders 2001 (USA)": {
 		"languages": ["En"]
@@ -5988,7 +5988,7 @@
 		"languages": ["Ja"],
 		"localName": "ＤＸ社長ゲーム"
 	},
-	"Dai-2-Ji Super Robot Taisen (Japan)": {
+	"Dai-2-ji Super Robot Taisen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "第２次スーパー・ロボット大戦"
 	},
@@ -5996,15 +5996,15 @@
 		"languages": ["Ja"],
 		"localName": "第２回！　クイズだらけの人生ゲーム"
 	},
-	"Dai-3-Ji Super Robot Taisen (Japan)": {
+	"Dai-3-ji Super Robot Taisen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "第３次スーパーロボット大戦"
 	},
-	"Dai-4-Ji Super Robot Taisen S (Japan)": {
+	"Dai-4-ji Super Robot Taisen S (Japan)": {
 		"languages": ["Ja"],
 		"localName": "第４次スーパーロボット大戦Ｓ"
 	},
-	"Dai-4-Ji Super Robot Taisen S (Japan) (Rev 1)": {
+	"Dai-4-ji Super Robot Taisen S (Japan) (Rev 1)": {
 		"languages": ["Ja"],
 		"localName": "第４次スーパーロボット大戦Ｓ"
 	},
@@ -8920,7 +8920,7 @@
 	},
 	"Echo Night 2 - Nemuri no Shihaisha (Japan)": {
 		"languages": ["Ja"],
-		"localName": "エコー・ナイト＃２　～眠りの支配者～"
+		"localName": "エコーナイト＃２　眠りの支配者"
 	},
 	"Echo Night 2 - Nemuri no Shihaisha (Japan) (Demo)": {
 		"languages": ["Ja"],
@@ -14249,7 +14249,7 @@
 	},
 	"Honkakuha Yonin Uchi - Mahjong Club (Japan)": {
 		"languages": ["Ja"],
-		"localName": "本格派四人打ち　麻雀倶楽部"
+		"localName": "本格派四人打ち 麻雀倶楽部"
 	},
 	"Honkakuha Yonin Uchi - Mahjong Club (Japan) (Honkakuha de 1300)": {
 		"languages": ["Ja"],
@@ -14733,6 +14733,10 @@
 		"localName": "井出洋介の麻雀家族"
 	},
 	"Ide Yousuke no Mahjong Kazoku (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "井出洋介の麻雀家族"
+	},
+	"Ide Yousuke no Mahjong Kazoku (Japan) (Rev 2)": {
 		"languages": ["Ja"],
 		"localName": "井出洋介の麻雀家族"
 	},
@@ -16236,7 +16240,15 @@
 		"languages": ["Ja"],
 		"localName": "キッド　ミックス　セクション"
 	},
+	"Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 1) (Earth Federation Disc) (Koudansha Rengou Kikaku Tokubetsu Disc)": {
+		"languages": ["Ja"],
+		"localName": "機動戦士ガンダム　ギレンの野望　ジオンの系譜"
+	},
 	"Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 1) (Earth Federation Disc) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "機動戦士ガンダム　ギレンの野望　ジオンの系譜"
+	},
+	"Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 2) (Zeon Disc) (Koudansha Rengou Kikaku Tokubetsu Disc)": {
 		"languages": ["Ja"],
 		"localName": "機動戦士ガンダム　ギレンの野望　ジオンの系譜"
 	},
@@ -18945,7 +18957,7 @@
 		"languages": ["Ja"],
 		"localName": "マーヴル・スーパーヒーローズ　ｖｓ．　ストリートファイター　ＥＸエディション"
 	},
-	"Marvel Super Heroes vs. Street Fighter - EX Edition (Japan) (Demo)": {
+	"Marvel Super Heroes vs. Street Fighter - EX Edition (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "マーヴル・スーパーヒーローズ　ｖｓ．　ストリートファイター　ＥＸエディション"
 	},
@@ -19926,6 +19938,10 @@
 		"languages": ["Ja"],
 		"localName": "見る見る　プレイステーション　Ｖｏｌ．１"
 	},
+	"MiruMiru PlayStation Vol. 10 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "見る見る　プレイステーション　Ｖｏｌ．１０"
+	},
 	"MiruMiru PlayStation Vol. 2 (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "見る見る　プレイステーション　Ｖｏｌ．２"
@@ -20025,6 +20041,10 @@
 	"MiruMiru PlayStation Vol. 43 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "見る見る　プレイステーション　ｖｏｌ．４３"
+	},
+	"MiruMiru PlayStation Vol. 9 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "見る見る　プレイステーション　Ｖｏｌ．９"
 	},
 	"Misa no Mahou Monogatari (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -27555,7 +27575,7 @@
 		"languages": ["Ja"],
 		"localName": "サムライ・ディーパー・キョウ"
 	},
-	"Samurai Deeper Kyou (Japan) (Shokai Seisan Gentei Shiyou)": {
+	"Samurai Deeper Kyo (Japan) (Shokai Seisan Gentei Shiyou)": {
 		"languages": ["Ja"],
 		"localName": "サムライ・ディーパー・キョウ"
 	},
@@ -28962,7 +28982,7 @@
 	},
 	"Simple 1500 Series Vol. 48 - The Puzzle 2 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＳＩＭＰＬＥ１５００シリーズ　Ｖｏｌ．４８　ＴＨＥ　パズル２"
+		"localName": "ＳＩＭＰＬＥ１５００シリーズ Ｖｏｌ．４８ ＴＨＥ パズル２"
 	},
 	"Simple 1500 Series Vol. 49 - The Casino (Japan)": {
 		"languages": ["Ja"],
@@ -29042,7 +29062,7 @@
 	},
 	"Simple 1500 Series Vol. 64 - The Kick Boxing (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＳＩＭＰＬＥ１５００シリーズ　Ｖｏｌ．６４　ＴＨＥ　キックボクシング"
+		"localName": "ＳＩＭＰＬＥ１５００シリーズ Ｖｏｌ．６４ ＴＨＥ キックボクシング"
 	},
 	"Simple 1500 Series Vol. 65 - The Golf (Japan)": {
 		"languages": ["Ja"],
@@ -30293,10 +30313,10 @@
 	"Spyro the Dragon (USA) (Beta) (1998-07-19)": {
 		"languages": ["En"]
 	},
-	"Spyro the Dragon (USA) (SCUS-94290)": {
+	"Spyro the Dragon (USA) (Demo) (SCUS-94290)": {
 		"languages": ["En"]
 	},
-	"Spyro the Dragon (USA) (SCUS-94439)": {
+	"Spyro the Dragon (USA) (Demo) (SCUS-94439)": {
 		"languages": ["En"]
 	},
 	"Spyro the Dragon Speciale (France)": {
@@ -34212,7 +34232,7 @@
 	},
 	"Transformers - Beast Wars (Japan)": {
 		"languages": ["Ja"],
-		"localName": "トランスフォーマー　ビーストウォーズ"
+		"localName": "トランスフォーマー ビーストウォーズ"
 	},
 	"Transformers - Beast Wars Metals (Japan)": {
 		"languages": ["Ja"],
@@ -35149,7 +35169,7 @@
 		"languages": ["Ja"],
 		"localName": "ベルデセルバ戦記　～翼の勲章～"
 	},
-	"Vem Vill Bli Miljonaer (Sweden)": {
+	"Vem vill bli Miljonaer (Sweden)": {
 		"languages": ["Sv"]
 	},
 	"Vermin Kids (Japan)": {
@@ -35767,7 +35787,7 @@
 	"Weakest Link, The (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Wedding Peach - Doki Doki Oiro-naoshi (Japan)": {
+	"Wedding Peach - Doki Doki Oironaoshi (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ウェディングピーチ　ドキドキお色直し"
 	},
