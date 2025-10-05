@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "2025-08-30 09:39:41",
+		"lastUpdated": "2025-10-06 10:50:46",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -3487,7 +3487,7 @@
 					"filters": [
 						{
 							"conditions": {
-								"matchLanguages": ["Cs", "En,", "Pl"]
+								"matchLanguages": ["Cs", "En", "Pl"]
 							},
 							"results": {
 								"localNames": {
@@ -3499,7 +3499,7 @@
 						},
 						{
 							"conditions": {
-								"matchLanguages": ["Da", "De,", "En", "Es", "Fr", "It", "Nl", "No", "Pt", "Sv"]
+								"matchLanguages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pt", "Sv"]
 							},
 							"results": {
 								"localNames": {
