@@ -127,6 +127,12 @@
             "sha1": "5cc4010eb2858afe8ce77f53a89d37c7584e15b4"
         },
         {
+            "name": "Basketball (USA)",
+            "crc": "b31d49f0",
+            "md5": "ab4ac994865fb16ebb85738316309457",
+            "sha1": "bffe99454cb055552e5d612f0dba25470137328d"
+        },
+        {
             "name": "Battlezone (Japan, USA) (En)",
             "crc": "9155dd1d",
             "md5": "41f252a66c6301f1e8ab3612c19bc5d4",
@@ -461,6 +467,12 @@
             "crc": "f20cadcf",
             "md5": "dc13df8420ec69841a7c51e41b9fbba5",
             "sha1": "bc0d1edc251d8d4db3d5234ec83dee171642a547"
+        },
+        {
+            "name": "Ghost Manor (USA)",
+            "crc": "000",
+            "md5": "2bee7f226d506c217163bad4ab1768c0",
+            "sha1": "000"
         },
         {
             "name": "Ghostbusters (USA)",

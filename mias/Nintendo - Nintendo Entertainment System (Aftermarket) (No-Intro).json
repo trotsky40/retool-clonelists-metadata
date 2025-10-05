@@ -117,14 +117,6 @@
 			"crc": "aa6d0fe4"
 		},
 		{
-			"name": "Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).nes",
-			"crc": "25abe5b9"
-		},
-		{
-			"name": "Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).unh",
-			"crc": "cd91253d"
-		},
-		{
 			"name": "Bloodshed - The Five Clans of Tresibra (World) (Demo) (2024-10-06) (Aftermarket) (Unl).nes",
 			"crc": "35d54700"
 		},
@@ -189,20 +181,20 @@
 			"crc": "9b8e3a65"
 		},
 		{
-			"name": "Delver Quest (World) (Aftermarket) (Unl).nes",
-			"crc": "da143e1d"
-		},
-		{
-			"name": "Delver Quest (World) (Aftermarket) (Unl).unh",
-			"crc": "b4b04021"
-		},
-		{
 			"name": "Desert of the Undead - New Frontiers (World) (2024-10-27) (Aftermarket) (Unl).nes",
 			"crc": "28f5dfc6"
 		},
 		{
 			"name": "Desert of the Undead - New Frontiers (World) (2024-10-27) (Aftermarket) (Unl).unh",
 			"crc": "64393d36"
+		},
+		{
+			"name": "Fie (USA) (Aftermarket) (Unl).nes",
+			"crc": "e742102c"
+		},
+		{
+			"name": "Fie (USA) (Aftermarket) (Unl).unh",
+			"crc": "42767ecc"
 		},
 		{
 			"name": "Flap Happy (World) (Rev 1) (Aftermarket) (Unl).nes",
@@ -227,14 +219,6 @@
 		{
 			"name": "Gemaboy Zero (World) (2025-04-03) (Aftermarket) (Unl).unh",
 			"crc": "448dabe2"
-		},
-		{
-			"name": "Haunted - Halloween '86 (World) (Spirit Exclusive) (Aftermarket) (Unl).nes",
-			"crc": "db33ba0f"
-		},
-		{
-			"name": "Haunted - Halloween '86 (World) (Spirit Exclusive) (Aftermarket) (Unl).unh",
-			"crc": "b6c9409d"
 		},
 		{
 			"name": "Hazard - Let Us Out! (World) (Aftermarket) (Unl).nes",
@@ -377,20 +361,12 @@
 			"crc": "8f6dac0f"
 		},
 		{
-			"name": "Perfect Diamond (World) (Aftermarket) (Unl).unh",
-			"crc": "6da94a69"
-		},
-		{
 			"name": "Relic Dungeon (World) (Aftermarket) (Unl).nes",
 			"crc": "39601904"
 		},
 		{
 			"name": "Relic Dungeon (World) (Aftermarket) (Unl).unh",
 			"crc": "d930dff8"
-		},
-		{
-			"name": "Relic Dungeon (World) (v1.1.1) (Aftermarket) (Unl).unh",
-			"crc": "39494641"
 		},
 		{
 			"name": "Restless Anima - Engine Room (World) (Demo) (Aftermarket) (Unl).nes",
@@ -443,26 +419,6 @@
 		{
 			"name": "Slow Mole Jr. (World) (v0.9) (Beta) (Aftermarket) (Unl).unh",
 			"crc": "ca7bfb3a"
-		},
-		{
-			"name": "Slow Mole Jr. (World) (v0.99) (Aftermarket) (Unl).nes",
-			"crc": "9f1cca2e"
-		},
-		{
-			"name": "Slow Mole Jr. (World) (v0.99) (Aftermarket) (Unl).unh",
-			"crc": "fa9efd29"
-		},
-		{
-			"name": "Slow Mole Jr. (World) (v0.99) (Famicom) (Aftermarket) (Unl).nes",
-			"crc": "49d5ed6e"
-		},
-		{
-			"name": "Slow Mole Jr. (World) (v0.99) (Famicom) (Aftermarket) (Unl).unh",
-			"crc": "2c57da69"
-		},
-		{
-			"name": "Soko Banana (World) (v1.0E) (Aftermarket) (Unl).unh",
-			"crc": "92b476f7"
 		},
 		{
 			"name": "Space Raft Arcade (World) (Aftermarket) (Unl).nes",
@@ -573,14 +529,6 @@
 			"crc": "cda026d6"
 		},
 		{
-			"name": "Train! Train! (World) (Aftermarket) (Unl).nes",
-			"crc": "95efb470"
-		},
-		{
-			"name": "Train! Train! (World) (Aftermarket) (Unl).unh",
-			"crc": "fb4bca4c"
-		},
-		{
 			"name": "Trial of Kharzoid, The (World) (2025-01-27) (Aftermarket) (Unl).nes",
 			"crc": "8af8e1c6"
 		},
@@ -615,6 +563,30 @@
 		{
 			"name": "Tryptic (World) (v1.1) (Aftermarket) (Unl).unh",
 			"crc": "783588f9"
+		},
+		{
+			"name": "You Are Error (USA, Europe) (Aftermarket) (Unl).nes",
+			"crc": "b0131502"
+		},
+		{
+			"name": "You Are Error (USA, Europe) (Aftermarket) (Unl).unh",
+			"crc": "129d034d"
+		},
+		{
+			"name": "You Are Error (USA, Europe) (Special Edition) (Aftermarket) (Unl) (Side A).nes",
+			"crc": "3411cc66"
+		},
+		{
+			"name": "You Are Error (USA, Europe) (Special Edition) (Aftermarket) (Unl) (Side A).unh",
+			"crc": "969fda29"
+		},
+		{
+			"name": "You Are Error (USA, Europe) (Special Edition) (Aftermarket) (Unl) (Side B).nes",
+			"crc": "93c9613d"
+		},
+		{
+			"name": "You Are Error (USA, Europe) (Special Edition) (Aftermarket) (Unl) (Side B).unh",
+			"crc": "31477772"
 		},
 		{
 			"name": "Zombie Nation (World) (Strictly Limited) (Aftermarket) (Unl).nes",

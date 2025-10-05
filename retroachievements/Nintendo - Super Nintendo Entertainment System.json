@@ -505,6 +505,78 @@
             "sha1": "08661008074163f993a9e5ff5180141a60ce10e2"
         },
         {
+            "name": "BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink)",
+            "crc": "000",
+            "md5": "be58760840703a1f1f36b3bfa2e7b108",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink)",
+            "crc": "000",
+            "md5": "effd7e9360be56da5a9876b45a5989fc",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink)",
+            "crc": "000",
+            "md5": "62331bfa00172b3e2705dc33dc93e1ee",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink)",
+            "crc": "000",
+            "md5": "f08e24ffd1c2b1f0c85cd81ba72c66bd",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn)",
+            "crc": "000",
+            "md5": "506f7d161960e4385577a5626aa80124",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)",
+            "crc": "000",
+            "md5": "7aca67c5fec3f20ccb522edaac19821a",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn)",
+            "crc": "000",
+            "md5": "887e9d1af2192c55314b07112c3f9818",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)",
+            "crc": "000",
+            "md5": "25b4d32c87e25f303a1ac87434028f5d",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn)",
+            "crc": "000",
+            "md5": "159528e718285656001292083f141c64",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)",
+            "crc": "000",
+            "md5": "0789eca39067b3a12510eb5676335ec3",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn)",
+            "crc": "000",
+            "md5": "bbb778e1023ac5da2edde430b7df9e29",
+            "sha1": "000"
+        },
+        {
+            "name": "BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)",
+            "crc": "000",
+            "md5": "d5d65fcfcf125aa4050784b964b2ce54",
+            "sha1": "000"
+        },
+        {
             "name": "BS Zelda no Densetsu (Restoration Map 1) (Japan) (En)",
             "crc": "db9f4746",
             "md5": "516f339cb0b98639a79a21640c85f78a",
@@ -823,6 +895,12 @@
             "sha1": "62ebea3b172084fbd6fcf5460b98847898e5d66d"
         },
         {
+            "name": "Bishoujo Senshi Sailor Moon - Another Story (Japan) (Es) (v1.0) (Max1323)",
+            "crc": "000",
+            "md5": "8e4e3801e84c43b693cbb4b1f85bb909",
+            "sha1": "000"
+        },
+        {
             "name": "Bishoujo Senshi Sailor Moon - Another Story (Japan) (Ru) (v1.5) (Armeniac, GrekRus)",
             "crc": "33d12a96",
             "md5": "9dfa4403d205d4a1f7f09ff597729d5e",
@@ -965,6 +1043,12 @@
             "crc": "74f70a0b",
             "md5": "90bb70c75f0000492f99725de54c264f",
             "sha1": "eab3718608f1657f484b27c6f684527fc27f2ba1"
+        },
+        {
+            "name": "Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin)",
+            "crc": "3c5828c1",
+            "md5": "e42a54f0b0457c2234271b241c2b7fb9",
+            "sha1": "1eb75479a212ff47c88c919440934f1d96db3b3e"
         },
         {
             "name": "Brandish 2 - The Planet Buster (Japan) (En) (v1.0) (Synchronicity)",
@@ -1255,16 +1339,10 @@
             "sha1": "93fbf4cf3ff9f90093fe82666b0605a8bded9c07"
         },
         {
-            "name": "Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)",
-            "crc": "e70308d5",
-            "md5": "a5c07fa9a571991290124672bb818565",
-            "sha1": "24576c5d9195a85f4b5d6fafd975b5ad67b66cf5"
-        },
-        {
             "name": "Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)",
-            "crc": "e27250dc",
-            "md5": "57ee0cb754638c08e6a432060d4abe63",
-            "sha1": "84eddccf7b784939f5be8fbead5bc7f6212e4757"
+            "crc": "7c0827f0",
+            "md5": "196130bd682f1db9bce0bf8e0d056c0b",
+            "sha1": "b103f035d388837f45dd2ec6e9678c2efa4f517c"
         },
         {
             "name": "Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)",
@@ -1277,6 +1355,12 @@
             "crc": "23906f1e",
             "md5": "a5db4d8c8fbdc278ccf28419bd46a90e",
             "sha1": "a022a67e0c4e9094bfbdc44cb51314b884b6c708"
+        },
+        {
+            "name": "Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)",
+            "crc": "e70308d5",
+            "md5": "a5c07fa9a571991290124672bb818565",
+            "sha1": "24576c5d9195a85f4b5d6fafd975b5ad67b66cf5"
         },
         {
             "name": "Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Hack)",
@@ -1865,6 +1949,12 @@
             "crc": "80c078ff",
             "md5": "153bf4cd05d8f4bdee2ab734a28b8c7f",
             "sha1": "8675595cf3a08c1c81d10b3daa43bc80a65c06b5"
+        },
+        {
+            "name": "Dragon Quest I & II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida)",
+            "crc": "59e27f1a",
+            "md5": "d4f294305fa536fc7974e764900f2fcc",
+            "sha1": "77a76fc6ab696279c5dbfdd4ad8a52eb6e8f16bd"
         },
         {
             "name": "Dragon Quest I & II (Japan) (Es) (v1.2) (Traducciones Crackowia)",
@@ -2479,22 +2569,10 @@
             "sha1": "1720fa53f7a4f8ae506cf6b6af77564276ecb7bd"
         },
         {
-            "name": "FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)",
-            "crc": "fd1a4f8b",
-            "md5": "82e7bff11473aa404492c3f6e5de02bd",
-            "sha1": "08f6b5e13c3cb2549e190255ca5f812e5bc5be3c"
-        },
-        {
             "name": "FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)",
             "crc": "7d309e30",
             "md5": "0dbacc6521140c3665e5551ae090b27a",
             "sha1": "2fa798697b086d4c9b5d1e1a5c5739c77dc4cd47"
-        },
-        {
-            "name": "FFVI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack)",
-            "crc": "23e51b38",
-            "md5": "bd5943e3c83517a820c0add7c89da74a",
-            "sha1": "e2858af52659a43e0e974aa2082b4edfedb7816f"
         },
         {
             "name": "FFVI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)",
@@ -2515,22 +2593,10 @@
             "sha1": "d7151087703cf65e58bf2cfc162af3f7fcf3c396"
         },
         {
-            "name": "FFVI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)",
-            "crc": "1cc70c28",
-            "md5": "91cd006047454d4a5924fdde87f79a9e",
-            "sha1": "d7a3609bcc38c25facefd15ecb2561eb086f62fe"
-        },
-        {
             "name": "FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)",
             "crc": "9ceddd93",
             "md5": "233b3055e466957173645a91fbb618cd",
             "sha1": "c322b2b320f0a7c8f7de8551ae9ff21b2e0cdd72"
-        },
-        {
-            "name": "FFVI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)",
-            "crc": "c238589b",
-            "md5": "d316b62e6b6e3604dc1e9593e192153a",
-            "sha1": "60ac460cbe508846b0ab7b991c014ff69b3f665d"
         },
         {
             "name": "FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)",
@@ -2623,6 +2689,12 @@
             "sha1": "d4ff12057b9723dba33dbde248a486c459797c47"
         },
         {
+            "name": "FFVI - Reimagined (v1.7) (DrakeyC) (Hack)",
+            "crc": "667f6e04",
+            "md5": "6f29ca82fe37ad99acf2238b66bfb66c",
+            "sha1": "d8c7045155d5c0d9e38fe3b6701857ec4d3fbd3e"
+        },
+        {
             "name": "FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Graphics-B + OST-B) (Hack)",
             "crc": "6ca4ddab",
             "md5": "fc6fe4870652003158e9a61f61a5e36c",
@@ -2663,12 +2735,6 @@
             "crc": "bffd2c68",
             "md5": "5bc14b6604e59740d8d0a78ca5c4e93d",
             "sha1": "28b8f5b4f4769b5e7bd7a66cfb1ba6c59d2af5af"
-        },
-        {
-            "name": "FFVI Reimagined (v1.7) (DrakeyC) (Hack)",
-            "crc": "717f5b83",
-            "md5": "26943ae9f9b7ac98cfa3605ab2a8947a",
-            "sha1": "e6088dc3202c6eda91de2db65f96d42017b903a5"
         },
         {
             "name": "Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce)",
@@ -2879,6 +2945,12 @@
             "crc": "a03ef9b3",
             "md5": "08388e4f59ca8ec1ef2114f5e5b53e85",
             "sha1": "18ea044b48329f5c80563770ea1e7d5dd93b00bf"
+        },
+        {
+            "name": "Final Fantasy V Spoof (v1.01) (Tzepish)",
+            "crc": "9a2ee9a8",
+            "md5": "e002240962051854afbf2e89bcb25128",
+            "sha1": "43bce4efd3857bf36310c3d91bae71e36b5eafbd"
         },
         {
             "name": "Final Fantasy VI (Subset - LLNMG + CESNMG)",
@@ -3199,6 +3271,24 @@
             "sha1": "9d82eb17d635001fe8c2aeba1b8b2db42fe210e4"
         },
         {
+            "name": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)",
+            "crc": "bb9d8e56",
+            "md5": "a53bee4978d7c8e13cdec5151207de54",
+            "sha1": "ee71384e286f088508a736b7305ad5efecfbcc1a"
+        },
+        {
+            "name": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe)",
+            "crc": "eed9aded",
+            "md5": "b3fca51a47bd3d5e10e1efc9d6cb5a1f",
+            "sha1": "59c64d90769b1c9ded16817a209fa8c143c03d4e"
+        },
+        {
+            "name": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)",
+            "crc": "c20720c2",
+            "md5": "19da7f2058c6a96e3471ca8a65234095",
+            "sha1": "a12c8c8d9056d3096bbb82a0b9e6492ec453da0a"
+        },
+        {
             "name": "Gangan Gan-chan (Japan)",
             "crc": "a220c6d5",
             "md5": "c82666233f216db472c77f8fd611da6b",
@@ -3293,6 +3383,12 @@
             "crc": "54a897ff",
             "md5": "c695dfd3b41163b4743389c9ec93330d",
             "sha1": "a8249f68e4ffb86ca68c609b39c8ba0328ed68bf"
+        },
+        {
+            "name": "Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation)",
+            "crc": "a3334a66",
+            "md5": "1a13988bf52cc202a78045ac70e34ad8",
+            "sha1": "3bca946ebb5a4875fe9271738ac1c5238a65f3d2"
         },
         {
             "name": "Gods (Europe)",
@@ -3395,6 +3491,18 @@
             "crc": "e22f59b8",
             "md5": "56418fe84bd05b9b2eb0c5a21943ee1c",
             "sha1": "8b4ef62d677bcc5a7ed61fba790c9382613220d5"
+        },
+        {
+            "name": "Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez)",
+            "crc": "851cfa88",
+            "md5": "0b84cfa9f165f8ebd8bdf632df6b08d6",
+            "sha1": "c545023135c1174b04393b250f9d04c426d84fba"
+        },
+        {
+            "name": "Gourmet Warriors (USA) (Piko Interactive)",
+            "crc": "b1731446",
+            "md5": "28a00d931075150c46a1129e5cdea922",
+            "sha1": "a34385584f49c013171b9865755b31a1dd27b48b"
         },
         {
             "name": "Gradius III (Japan) (En)",
@@ -4025,12 +4133,6 @@
             "crc": "0ad5ddc9",
             "md5": "fe37b170c0c868c3aa1d67bdcf9df37f",
             "sha1": "fa98524793ce31ec5e442d068a55ccc97b96da1a"
-        },
-        {
-            "name": "Kiki Kaikai - Nazo no Kuro Manteau (Japan)",
-            "crc": "1c57f2c6",
-            "md5": "37453d3e43601bc7c4b3c6fae4cb1397",
-            "sha1": "9afc61ff13312112880d6d5854baa6b529e0f250"
         },
         {
             "name": "Kiki Kaikai - Tsukiyo Soushi (Japan)",
@@ -6793,10 +6895,10 @@
             "sha1": "ca5bcfa8f68753a1025349c20b0187520ef9135c"
         },
         {
-            "name": "SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack)",
-            "crc": "1c42fe34",
-            "md5": "325de3e006de9a0effbbed39cd2397f6",
-            "sha1": "a660de013d01da249df840ae4b5a5a3ba542c593"
+            "name": "SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-11-09) (Hack)",
+            "crc": "b5b8ab63",
+            "md5": "cdb770284b8f0fb7ad6ca24b7fbb5e44",
+            "sha1": "52c102ff9e944affcd90192aff0ce891c3307617"
         },
         {
             "name": "SMW - A Rushed Project (v1.4) (GalacticSpear) (Hack)",
@@ -6973,6 +7075,18 @@
             "sha1": "a8ba8ccd3fc9ad2ea6924a8981008b1f8c2e7c36"
         },
         {
+            "name": "SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack)",
+            "crc": "7e301736",
+            "md5": "e0db3f6076f2d54f1de885b82c3794f0",
+            "sha1": "d55a3513e03d625ea20fab09b05ba1f05094ac9b"
+        },
+        {
+            "name": "SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack)",
+            "crc": "54012087",
+            "md5": "4c7828aa9798ef21a740692b5c1c4669",
+            "sha1": "f670b7fea2dfbe4e5e8c4648a5d60c4ec1cef878"
+        },
+        {
             "name": "SMW - Christmas Edition (v1.3.2) (Nowieso) (Hack)",
             "crc": "dbfa3a62",
             "md5": "490e911ed23a5c4ef17cd06aadb02111",
@@ -7115,6 +7229,12 @@
             "crc": "c48cbf50",
             "md5": "f2a9ee6fafc936562edaf6199ac81e35",
             "sha1": "c9c25df5a10c392c2603622bd675fbd33c351225"
+        },
+        {
+            "name": "SMW - Gaiden (v1.13) (SMWG Team) (Hack)",
+            "crc": "118a4951",
+            "md5": "ab1f18177f0b078eaf9a97bdeab0ba6d",
+            "sha1": "2aed791679b09bd226101c4aba57752e27bdf6b0"
         },
         {
             "name": "SMW - Gambol (v1.1) (JezJitzu) (Hack)",
@@ -7703,6 +7823,12 @@
             "crc": "45460cf5",
             "md5": "81317b808c4365a9df49039e4a133769",
             "sha1": "6817e07a7a8d02ba5fec3022a457e8e7bace99cf"
+        },
+        {
+            "name": "SMW - Polyphony (v1.1.1) (TomatoPhalanges) (Hack)",
+            "crc": "000",
+            "md5": "4054ef350628ab9743425c0f3bd499a9",
+            "sha1": "000"
         },
         {
             "name": "SMW - Project Brutality (2019-11-06) (Sweetdude) (Hack)",
@@ -8425,6 +8551,18 @@
             "sha1": "16086e43a60a403c2b9677b6c85e1ed8e7b1d804"
         },
         {
+            "name": "SMW - Yosamikalo (v2008-11-19) (Inf. Lives) (KingYoshi89) (Hack)",
+            "crc": "000",
+            "md5": "bd3cdbfda1046e0a3e12ce46e5981980",
+            "sha1": "000"
+        },
+        {
+            "name": "SMW - Yosamikalo (v2008-11-19) (KingYoshi89) (Hack)",
+            "crc": "000",
+            "md5": "359c3ba1d7c24b049be172eac422794e",
+            "sha1": "000"
+        },
+        {
             "name": "SMW - Zap Lena World (v1.1) (Yagami) (Hack)",
             "crc": "057fd6e7",
             "md5": "b153eda959779351a892d59e55a939eb",
@@ -9019,18 +9157,6 @@
             "sha1": "1075a36b885ed205eaa88f4104ad0d0ea162c37b"
         },
         {
-            "name": "Sparkster (Europe)",
-            "crc": "f43c155c",
-            "md5": "03b64e37d5b5f8b92e8681940f2e0f75",
-            "sha1": "c498e8304034121e1266c777900757a37bd5ccfa"
-        },
-        {
-            "name": "Sparkster (Europe) (Fr) (Generation IX)",
-            "crc": "78d9dbe1",
-            "md5": "38bf344adb532b01b9f72786d6babb43",
-            "sha1": "336aa207970e01f721ff5e27c7bb3a6ec9c7d75c"
-        },
-        {
             "name": "Sparkster (USA)",
             "crc": "40d11c94",
             "md5": "e00ef4c1b9e17d5fa2d8367402d28a08",
@@ -9547,6 +9673,12 @@
             "sha1": "5a194fe6812fbf3657f59e711eed00eec1f84e0a"
         },
         {
+            "name": "Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)",
+            "crc": "f84305b1",
+            "md5": "7ecaf3e2e021c8a836041c85886f4594",
+            "sha1": "d245e41a2b590f7d63666b0772cbddfb26f254a2"
+        },
+        {
             "name": "Super Mario Kart (Europe)",
             "crc": "56410e5e",
             "md5": "f9fe266e91632e68b558d6b43393eaba",
@@ -9677,6 +9809,12 @@
             "crc": "4f2bb52c",
             "md5": "38bb405ba6c6714697b48fb0ad15a2a1",
             "sha1": "a4ba5cf11cb92acdacb3382b8b159066d54cb2e7"
+        },
+        {
+            "name": "Super Mario World (USA) (Pt) (v2.0) (BMatSantos)",
+            "crc": "000",
+            "md5": "734e9ea8c1ac436218ca4d3b1f9ff6a4",
+            "sha1": "000"
         },
         {
             "name": "Super Mario World - Super Mario Bros. 4 (Japan)",
@@ -10175,6 +10313,12 @@
             "crc": "14612848",
             "md5": "9bb90422fcfb32581121a7d8588827b0",
             "sha1": "5d1f0ab7bc58ebf5423e23bc1ee9bff5a070c742"
+        },
+        {
+            "name": "Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno)",
+            "crc": "5bcc6373",
+            "md5": "6c4ed1ee8586d3c0f9d8dfae133100d1",
+            "sha1": "c9e266fedf7f6076930b7b60c9231e43293a55bb"
         },
         {
             "name": "Tales of Phantasia (Japan) (Fr) (v1.0) (DeJap, Terminus)",

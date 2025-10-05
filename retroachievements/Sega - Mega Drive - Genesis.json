@@ -331,6 +331,12 @@
             "sha1": "f13f06362cfdc1809f92986a752141c40b22a319"
         },
         {
+            "name": "Barbie Super Model (USA)",
+            "crc": "000",
+            "md5": "57705b055973733e8b9c25373a80f28c",
+            "sha1": "000"
+        },
+        {
             "name": "Bare Knuckle III (Japan)",
             "crc": "5d09236f",
             "md5": "f1cb9e887bf4bc512d9535c89e420df7",
@@ -1711,6 +1717,12 @@
             "sha1": "c3794ef25d53cb7811dd0df73ba6fadd4cecb116"
         },
         {
+            "name": "Home Alone 2 - Lost in New York (USA)",
+            "crc": "000",
+            "md5": "9ccafedaed5426819fefc3ae17a04fd2",
+            "sha1": "000"
+        },
+        {
             "name": "Hook (USA)",
             "crc": "2c48e712",
             "md5": "70b7314bb4f542cedc0ca9422808f269",
@@ -2413,6 +2425,12 @@
             "sha1": "24c39d2e211879d97512e19bf3f2025f79b12653"
         },
         {
+            "name": "Mickey's Ultimate Challenge (USA)",
+            "crc": "000",
+            "md5": "34b498ba6ea5caf365cbaf6dd8c7be65",
+            "sha1": "000"
+        },
+        {
             "name": "Micro Machines - Turbo Tournament 96 (Europe) (J-Cart)",
             "crc": "7492b1de",
             "md5": "3af236e164e601cfeb6d8bf5461561b2",
@@ -2747,6 +2765,102 @@
             "crc": "abf8d565",
             "md5": "591a9e7071a2cf512968bc4e86902083",
             "sha1": "8d46b88b896d2c44449d41a0a558ed90ab6aca71"
+        },
+        {
+            "name": "Phantasy Star II - Amia's Adventure (Japan) (En) (v20100710) (Jon Najar)",
+            "crc": "7fdb5fe9",
+            "md5": "cbdf6fe34574675dbd9da1cfccd6b9f5",
+            "sha1": "f33e5744f94dc0364bd548bf937e194e4c630666"
+        },
+        {
+            "name": "Phantasy Star II - Amia's Adventure (Japan) (SegaNet)",
+            "crc": "a3a724aa",
+            "md5": "76cb3b2ec8b827ec9288d28bc8d0cd3b",
+            "sha1": "08c6beab6f02ad533fb814a8a877849da67fc1a4"
+        },
+        {
+            "name": "Phantasy Star II - Anne's Adventure (Japan) (En) (v20100710) (Jon Najar)",
+            "crc": "355fad11",
+            "md5": "cee72632b13d435674b2ddac637c5f8e",
+            "sha1": "46a0e249b9564ed0d3d2df2435e42f0d7bdf3d97"
+        },
+        {
+            "name": "Phantasy Star II - Anne's Adventure (Japan) (SegaNet)",
+            "crc": "fafa5b6f",
+            "md5": "10195dfcde401acafd406f2640e384de",
+            "sha1": "cf93d2d5eafc72b9de7aaa6d35b81a813862d9b7"
+        },
+        {
+            "name": "Phantasy Star II - Huey's Adventure (Japan) (En) (v20100710) (Jon Najar)",
+            "crc": "db2cce50",
+            "md5": "12260bf5b7863f4489d627865dba1eec",
+            "sha1": "21b06f683d7bc34be61740c0986867f7748ca18e"
+        },
+        {
+            "name": "Phantasy Star II - Huey's Adventure (Japan) (SegaNet)",
+            "crc": "1a076f83",
+            "md5": "4efb0bc21c9df35ff39eb1862f972c47",
+            "sha1": "abc5a7ac58aefc055ed8ca5fd0f7c802ab3e1ad5"
+        },
+        {
+            "name": "Phantasy Star II - Kinds's Adventure (Japan) (En) (v20100710) (Jon Najar)",
+            "crc": "e91051e3",
+            "md5": "ca9c437ccf387fb581f9ee00cfb14f34",
+            "sha1": "731576ebdc8999417859ca440901d6c521d91477"
+        },
+        {
+            "name": "Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)",
+            "crc": "c334f308",
+            "md5": "dbe39f02548beaae0aa652dc4874c09e",
+            "sha1": "f2bd41741add13e8551250cf6afeb746e8cea316"
+        },
+        {
+            "name": "Phantasy Star II - Nei's Adventure (Japan) (En) (v20100710) (Jon Najar)",
+            "crc": "b0ce897c",
+            "md5": "30fb373aa2d47af800712f6897823309",
+            "sha1": "759ca49ca18a5e1a9f6d55770a50f5bcf3d3fcce"
+        },
+        {
+            "name": "Phantasy Star II - Nei's Adventure (Japan) (SegaNet)",
+            "crc": "3d9ad465",
+            "md5": "d60bc80b482dfc1b31cb6c383f3fd88c",
+            "sha1": "bc1b2955d1ead44d744dacdc072481dff42e4d81"
+        },
+        {
+            "name": "Phantasy Star II - Rudger's Adventure (Japan) (En) (v20100710) (Jon Najar)",
+            "crc": "3cd3bc1c",
+            "md5": "dbc8487b78b63efc151b80ea89de17ff",
+            "sha1": "3462b67944fa467a616106cf6be3ed2bb282f51e"
+        },
+        {
+            "name": "Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)",
+            "crc": "6b5916d2",
+            "md5": "8ce3458a47e1dcb75982403e8b3cbf3f",
+            "sha1": "dda0783cd5c6340c8dde665be22366108fadf50b"
+        },
+        {
+            "name": "Phantasy Star II - Shilka's Adventure (Japan) (En) (v20100710) (Jon Najar)",
+            "crc": "76e56009",
+            "md5": "35d2cd35f238c59b645f77be6e64ab81",
+            "sha1": "b3ea1a8b0e749ad5889a414dd4cf99aee83d63fb"
+        },
+        {
+            "name": "Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)",
+            "crc": "1f83beb2",
+            "md5": "5abe74899da838cc9dc7cabfb4d8f816",
+            "sha1": "114f37a287b51664e52ba483f07911a660f9e7df"
+        },
+        {
+            "name": "Phantasy Star II - Yushis's Adventure (Japan) (En) (v20100710) (Jon Najar)",
+            "crc": "5395a7e2",
+            "md5": "3c1ce24f8d84735d67fc6e0380c5e4c5",
+            "sha1": "437a2d2899f18544af981be64de23583aaaf352b"
+        },
+        {
+            "name": "Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)",
+            "crc": "d40c76d6",
+            "md5": "83f22a27147bdfd85d405daf111fde92",
+            "sha1": "85679e11000387b6ef002c53bb03593f1c3f1c11"
         },
         {
             "name": "Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)",
@@ -3113,6 +3227,12 @@
             "crc": "7bb60c3f",
             "md5": "06ddc929a7bf834c40344ac83a4acc97",
             "sha1": "42e5ac265e3bf82c44dca70deb71b0aa08acf1a9"
+        },
+        {
+            "name": "Rings of Power (USA, Europe) (Cheats Disabled) (v1.0) (Bartis1989)",
+            "crc": "000",
+            "md5": "b78430b26a276939d64f73c9b9aea8e6",
+            "sha1": "000"
         },
         {
             "name": "Ristar (USA, Europe)",
@@ -3631,6 +3751,12 @@
             "sha1": "fee9eb272362bd6f36d552a9ebfd25f5f0db7d2f"
         },
         {
+            "name": "Soldiers of Fortune (USA)",
+            "crc": "a84d28a1",
+            "md5": "b90ff517cba6492377e02d23fcda4b80",
+            "sha1": "619faee3d78532478aad405db335d00fb93e6850"
+        },
+        {
             "name": "Soleil (Europe)",
             "crc": "a30ebdb1",
             "md5": "49e6bf1adf3dd64dbd984250f340cfee",
@@ -4019,6 +4145,18 @@
             "crc": "7fada88d",
             "md5": "f9d87064d48d99ebbd425e8334de4beb",
             "sha1": "05f460a6ebbc1f86eb40b5f762083a59fb29f3e2"
+        },
+        {
+            "name": "Sonic Jam 6 (Taiwan) (En) (Pirate)",
+            "crc": "000",
+            "md5": "601dbecadde306ab238443193c76c918",
+            "sha1": "000"
+        },
+        {
+            "name": "Sonic Jam 6 (Taiwan) (En) (Pirate) (Black Screen Fix) (Alexdatadestroyer)",
+            "crc": "000",
+            "md5": "8e2907b6c7a47e4c011e5902b4135f0e",
+            "sha1": "000"
         },
         {
             "name": "Sonic Spinball (Europe)",

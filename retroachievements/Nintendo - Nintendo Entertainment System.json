@@ -1483,6 +1483,12 @@
             "sha1": "c370523b884603b5602207aea7d430e7f812e940"
         },
         {
+            "name": "Castlevania II - Simon's Quest (Subset - Full Game Damageless)",
+            "crc": "6fd9458c",
+            "md5": "dc874b35aeccef000901448a4c7494b2",
+            "sha1": "8b3419c5562e3f3724feb8b49b67443c2ae6c77e"
+        },
+        {
             "name": "Castlevania II - Simon's Quest (USA)",
             "crc": "38e82fab",
             "md5": "87dae73b0c4c8fdeba8cf4209df87e2c",
@@ -1583,6 +1589,18 @@
             "crc": "8b3fad44",
             "md5": "75ae41bd0e5336e531c7b6ea5703d539",
             "sha1": "d6cacfd0564b4c3de93d4c47563c5be6fb22a37f"
+        },
+        {
+            "name": "Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl)",
+            "crc": "39f6e5a6",
+            "md5": "b35869b01cbe32c8ba622ef511ec4605",
+            "sha1": "35bbe8be65e5ee7f0f551b605f37cfc416530f4f"
+        },
+        {
+            "name": "Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl)",
+            "crc": "6e21829d",
+            "md5": "0fc97521e5615036e7f2a2b16eef54f8",
+            "sha1": "4b09900146e299f452c25499622db1d6a16ac3c5"
         },
         {
             "name": "Chase (World) (v1.2) (Aftermarket)",
@@ -5114,15 +5132,15 @@
         },
         {
             "name": "Ki no Bouken - The Quest of Ki (Japan) (En) (v2.0) (Zynk Oxhyde)",
-            "crc": "0aa84f9a",
-            "md5": "9e7e713243e61c3af106e1f6870b0f3f",
-            "sha1": "f275e205cbc28ca69901ffff12552f165caf013f"
+            "crc": "7243f962",
+            "md5": "9c47b8a84b0943f469ca777d6204976d",
+            "sha1": "3235f7f850d78550c226ae9254d5629ce44ad758"
         },
         {
             "name": "Ki no Bouken - The Quest of Ki (Japan) (En) (v2.0) (Zynk Oxhyde) (Alt)",
-            "crc": "0aa84f9a",
-            "md5": "9e7e713243e61c3af106e1f6870b0f3f",
-            "sha1": "f275e205cbc28ca69901ffff12552f165caf013f"
+            "crc": "6b5f1bab",
+            "md5": "1cea9ae3b1fce106c6a718bb2b0c3331",
+            "sha1": "1d3463564b4fba82a1a20503686552ecd852870e"
         },
         {
             "name": "KickMaster (USA)",
@@ -6163,7 +6181,7 @@
             "sha1": "d5fb23e66d303ee2492947268b5ba778d6da2ba5"
         },
         {
-            "name": "MM2 - Basic Master (v1.2) (Tatsu) (Hack)",
+            "name": "MM2 - Basic Master (v1.0) (Tatsu) (Hack)",
             "crc": "8a98de20",
             "md5": "d4c34c1b3d14444624a0b3d19a3b9b77",
             "sha1": "b516ce749fad65b5774443668f21fd6ab386eaa7"
@@ -7141,6 +7159,12 @@
             "sha1": "cc0a7351182e1e436ebaaa6e8c71228f0287f43f"
         },
         {
+            "name": "Mike Tyson's Punch-Out - Nightmare Punch-Out!! (v1.5) (Landa) (Hack)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Mike Tyson's Punch-Out!! (Japan, USA) (En)",
             "crc": "12f19390",
             "md5": "fbd32719ea0917f37cf059c02c87b662",
@@ -7784,9 +7808,9 @@
         },
         {
             "name": "Ninja Gaiden (USA) (Zh) (TPU) (v20030301)",
-            "crc": "738ae5f4",
-            "md5": "2bb9961856f6306295cdff8372d10f78",
-            "sha1": "4aebae8d7c7c833405c6e768668ee0c78e50c4e2"
+            "crc": "db58837b",
+            "md5": "74102e8c75eaa8627047a4dd2deb0d6e",
+            "sha1": "96c18e30f56bdafa25802743fe8ca803a9d3f72f"
         },
         {
             "name": "Ninja Gaiden (Upgrade A) (Hard + EXP Counter) (v1.0) (magus) (Hack)",
@@ -9001,6 +9025,12 @@
             "sha1": "a62f997da28e2776dc4fe7b6a32f9179e971e4c0"
         },
         {
+            "name": "Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack)",
+            "crc": "df673dfc",
+            "md5": "770d5253d6579b3417778c51747c4b58",
+            "sha1": "bf918d5bd34bf72ef9330ed2920fe3ce7b25c607"
+        },
+        {
             "name": "Rockman CX (Beta 5) (Himajin Jichiku) (Rockman 2) (Hack)",
             "crc": "8bf82c60",
             "md5": "84f4a3daa61b437172ed2a3f6af94263",
@@ -9161,12 +9191,6 @@
             "crc": "3fbcea10",
             "md5": "0d1ccf4f553197d1f6605c3422b45484",
             "sha1": "a11d9577f6bf4f92f34fb7c9fa2210ee322eaab9"
-        },
-        {
-            "name": "SMB1 - Celeste Mario's Zap & Dash! (v1.0) (w7N) (Hack)",
-            "crc": "abc3bc39",
-            "md5": "7960ded91bfb74573366f26603d0261b",
-            "sha1": "841c96888bf36a431a5dce3913df564f5b5cb16a"
         },
         {
             "name": "SMB1 - Celeste Mario's Zap & Dash! (v1.0) (w7N) (Patch) (Hack)",
@@ -9635,6 +9659,12 @@
             "crc": "ae2bb564",
             "md5": "ddbf9726e9ef8ee1e976d6954e9282d3",
             "sha1": "c28043255655d32e2347be85b834bfaf801b9220"
+        },
+        {
+            "name": "Simpsons, The - Bartman Meets Radioactive Man (USA)",
+            "crc": "83ac9c8b",
+            "md5": "501f1d8cf5cfce79c896a3bfa4af94aa",
+            "sha1": "14c7842a2f2a248c424dd5d94869d774b96b4b32"
         },
         {
             "name": "Sir Ababol (World) (Remastered) (Aftermarket)",
@@ -10117,6 +10147,12 @@
             "sha1": "92fbbb836cc34ce16b80641b78d3a1254561cc48"
         },
         {
+            "name": "Super Contra 8 (China) (En) (Pirate) (Unl)",
+            "crc": "c3ac975b",
+            "md5": "3fd94541eb31adfc4cee6a3e7cb59b3f",
+            "sha1": "bb7e1a5c01d6f27620696502a09624c64085ef9f"
+        },
+        {
             "name": "Super Dodge Ball (USA)",
             "crc": "9400ba7f",
             "md5": "f8b41a9c3444061b148fe948685b7138",
@@ -10597,6 +10633,12 @@
             "sha1": "ad03f42ea1cb0673f2cb1c23d6b579ad392647f0"
         },
         {
+            "name": "Tetris (Nintendo) (Subset - Master)",
+            "crc": "337ee448",
+            "md5": "91f573dbb29278523e776957288bfd55",
+            "sha1": "87ba54804ee8ff2545a97344056f4df1ccc9409f"
+        },
+        {
             "name": "Tetris (USA)",
             "crc": "d16ea396",
             "md5": "886012ac3b3fbf4a244dead999788fe8",
@@ -10771,7 +10813,7 @@
             "sha1": "bb4fe88f0e743a0c2d6c1a11a20bc8ca0138079e"
         },
         {
-            "name": "Toobin' (USA)",
+            "name": "Toobin' (USA) (Unl)",
             "crc": "1461f263",
             "md5": "1d0084cadaef9c015dfc36bb137b6109",
             "sha1": "c41e7c4d3198432ffee22192963231eee89b5c6f"
@@ -11555,6 +11597,12 @@
             "crc": "a3356a90",
             "md5": "567cafedc9c0a3ffa0c640253933cb43",
             "sha1": "af755bc217cef0046541bedc8628098e0bf0d33d"
+        },
+        {
+            "name": "Yun (World) (v5) (Aftermarket)",
+            "crc": "04940713",
+            "md5": "ad1cf569c8cf113beeec3362581b9f0a",
+            "sha1": "f016bf14732bbed06d9bbc7854e5d8fb1ee301fa"
         },
         {
             "name": "Zanac (USA)",

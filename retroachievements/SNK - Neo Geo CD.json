@@ -2,249 +2,171 @@
     "retroachievements": [
         {
             "name": "ADK World (Japan)",
-            "crc": "07c1453d",
-            "md5": "c9ac2cff3cf4be5d4d55970b13efbe5f",
-            "sha1": "7a70edb5ded975bcaed220889e8688b03f2b50bb"
+            "sha1": "2e92a3760fec8d0020e7570975168f7b97ead974"
         },
         {
             "name": "Bang^2 Busters (France) (En,Ja) (Unl)",
-            "crc": "f555da2f",
-            "md5": "8cbcf21e5a999392695c6f595c4da507",
-            "sha1": "d9e54974652b9fbbe6c3ac82a70e9c06cc16700f"
+            "sha1": "2112eca62613c4ebaff3a62334b6395009c05c37"
         },
         {
             "name": "Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)",
-            "crc": "8c380e33",
-            "md5": "cfef6bd1e352e0a7d223e90f05b3b5c1",
-            "sha1": "8c8ecf715ffd46c9832d19c4f3ee420cde6c8883"
+            "sha1": "d0af8e54ad7841b765894014ae44c1f2c37d85b8"
         },
         {
             "name": "Breakers (Japan) (En,Ja)",
-            "crc": "ea61f50b",
-            "md5": "db55c22ef9473d655822a5c2dd22db9c",
-            "sha1": "362d954b78a3e6c4fd56ea20913bcfe009209514"
+            "sha1": "30a20ee600573e86d147657d7f5f04824c1fad27"
         },
         {
             "name": "Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)",
-            "crc": "b72555cf",
-            "md5": "f65f886df22598ee940d8948bb010139",
-            "sha1": "651ccf13b3ddea544fe7a08a2660ed30515925ad"
+            "sha1": "86fd13538b60d5f799bdd1fd480509bbd42f1a9e"
         },
         {
             "name": "Crossed Swords (Japan)",
-            "crc": "0a7b7dc8",
-            "md5": "0a7a502ecb94fbbe027b0db0b2590df5",
-            "sha1": "f7a462b3ea15d1249dc90f0f4f0c334188e09604"
+            "sha1": "70998e29ea1952b0029bb4d87aeeba6d2ad59f26"
         },
         {
             "name": "Crossed Swords II (Japan) (En,Ja)",
-            "crc": "a1b2684c",
-            "md5": "b00ce436433384cde93123dc0e34b7ab",
-            "sha1": "2ece2bc117448c29f003132a7ceb311bcef67ce0"
+            "sha1": "768b396f0e393cbc3f5af1f46efa2e84e3c202d3"
         },
         {
             "name": "Double Dragon (Japan) (En,Ja) (Rev 1)",
-            "crc": "3bddb81a",
-            "md5": "3f6119a8c0fa4bdd18da8636f1dee440",
-            "sha1": "a9d3a27bdbd533279368cdac7f83ece312235f56"
+            "sha1": "64bf06de31105900dacbdd927ef635f71d264725"
+        },
+        {
+            "name": "Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)",
+            "sha1": "b32a7b5e0c2cae6f1fcc8561fdb14cb142b25e88"
         },
         {
             "name": "Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)",
-            "crc": "b2787182",
-            "md5": "05b28a8ad96b11542b04dcebd11e07d0",
-            "sha1": "09d5d70fa28c890c990313314398ff480a6d3fed"
+            "sha1": "33c3b7522c33c3ece293567ff7d5045b98dc1c99"
         },
         {
             "name": "Flying Power Disc ~ Windjammers (Japan) (En,Ja)",
-            "crc": "abcf10f8",
-            "md5": "6d5afc44826c5ad1c5eaa1fec5d09629",
-            "sha1": "15481015cf9192a1f86d39b5f86ba1f881f65f3f"
+            "sha1": "aac4f0db9e2b998ee22d5b41fd278e52f33d1cf2"
         },
         {
             "name": "Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)",
-            "crc": "ae80b704",
-            "md5": "4bc96642054d1492634fd83742cf63f2",
-            "sha1": "77ff2f6c45fb9c112467c996fe6066a2c6735692"
+            "sha1": "e600996cbf6f15be1f3dbcf9fd85aaab93d19897"
         },
         {
             "name": "Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)",
-            "crc": "89074587",
-            "md5": "ed12060f02e8347ce639261943d2ad27",
-            "sha1": "610515a22118f4c2593969cf39531c2ec8569c93"
+            "sha1": "8a0d2a0f0114ae4bbdeb902a102b57a4a5bd83f8"
         },
         {
             "name": "Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)",
-            "crc": "f98a5a3a",
-            "md5": "2b6aadeffbdb147da973e336da465feb",
-            "sha1": "8980f5f091030510679271d0e304d8e6f398db5e"
+            "sha1": "91335dec05027605836d56260347670c7f03e766"
         },
         {
             "name": "Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)",
-            "crc": "b90dfb6b",
-            "md5": "7d4ea66a5cc2c1082c60ab29ee401354",
-            "sha1": "f3e2db57336122d4d1cc9d1e1205cd0a7ec586cc"
+            "sha1": "50c76d31533a591454934cd80a28d144a0b321f6"
         },
         {
             "name": "King of Fighters '97, The (Japan) (En,Ja)",
-            "crc": "5bb54eb2",
-            "md5": "a1011bfbbf0cedc873b38e2b6cef9aeb",
-            "sha1": "2b3be63026e336d910d9950b7c8e7b39521d4f6c"
+            "sha1": "7e7753a698d85c9ebb6500823a5136c4e4b087f1"
         },
         {
             "name": "Last Hope (Germany) (Aftermarket)",
-            "crc": "29a98350",
-            "md5": "159d6e17106f6491e15404c95ed37e66",
-            "sha1": "53c4f93bef464ab2f17650e91fc4af17818a8174"
+            "sha1": "5f3c0b9566c77a97eb94e24b7e4e15bfd326ce6e"
         },
         {
             "name": "League Bowling (Japan) (En,Ja)",
-            "crc": "35567800",
-            "md5": "99641994c11cd979384227ae009de8ce",
-            "sha1": "5a5a980b6bd61037910b5df2d84d2c0d82e04659"
+            "sha1": "ed16716cfaeb0add7584d8326566aca2ba4cd368"
         },
         {
             "name": "Magician Lord (Japan) (En,Ja)",
-            "crc": "523bbcdf",
-            "md5": "149a9d6af84e47b277c9dde4fed20a20",
-            "sha1": "87fa01b271c5f57223d2ddf78bae66feca175ab7"
+            "sha1": "7be2577453502060a8655ece288394170b5e5263"
         },
         {
             "name": "Metal Slug 2 (World) (En,Ja)",
-            "crc": "3806511e",
-            "md5": "b37467fd27269b3d5b41fff642f2da87",
-            "sha1": "7545874e448fe49d13f30b8b00b2c4291bc79795"
+            "sha1": "cf08d387da5004922bd0c6bdb9d5258f1b39575c"
         },
         {
             "name": "Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)",
-            "crc": "6176265a",
-            "md5": "8efaa16bce7cdb1c35048b4f049ce4d7",
-            "sha1": "72606100a70a0dea7d9796f1cf0035bf90176c01"
+            "sha1": "2a1c1f853706a13807cb9c270906e11d6d4a4794"
         },
         {
             "name": "Mutation Nation (Japan) (En,Ja)",
-            "crc": "61ee4822",
-            "md5": "041207e4e4f9ab70e8d0084f9e48d52c",
-            "sha1": "c86046c7b15fd101f2b8d25bd3077744991a270c"
+            "sha1": "2b75dead286a7d0f30110434ff13f1a199b4532c"
         },
         {
             "name": "Mutation Nation (Subset - Multi)",
-            "crc": "dce92037",
-            "md5": "1d5d94fed6c28ec5cc2930fc1a0ce253",
-            "sha1": "99b40e309a8725303a6e5d0da51b7d56e54bd8a1"
+            "sha1": "17cb359eba5f3a0f0471668dfa5f7b764136f435"
         },
         {
             "name": "Nam-1975 (Japan) (En,Ja)",
-            "crc": "4c4c7529",
-            "md5": "06a79b9a920d50098fc217017d6a2aae",
-            "sha1": "3dc58e5a8e8e54edd2a1bded8c883652d464c099"
+            "sha1": "bdeca0ed89d99e85f15dae5936a6426fe8703f2f"
         },
         {
             "name": "Neo Drift Out - New Technology (Japan)",
-            "crc": "d2dc97cd",
-            "md5": "ec16dacaf4c14cce80a3c08f9ff32880",
-            "sha1": "9403e89f77a0c52511e11be01718660f3081a47f"
+            "sha1": "ae66cb095499017b60cbbd06752f2c8a88bd7221"
         },
         {
             "name": "Next Thing, The - King of the Monsters 2 (World) (En,Ja)",
-            "crc": "4115937c",
-            "md5": "fcdaea883d8154eaf056ebeac7412404",
-            "sha1": "e35567fcb0e7c838f65557c560bd5a00d5d97deb"
+            "sha1": "497832edfb0ebaa1732e9fc2fe32b278b7d7c557"
         },
         {
             "name": "OverTop (Japan) (En,Ja)",
-            "crc": "e7c225a6",
-            "md5": "3adb762e6b01866afc9ad6088d84284a",
-            "sha1": "9db04589fa2e1f39dab2bbe9d57b2b7c8e6fd46b"
+            "sha1": "99e404090436eabb9a34c39c953c9550c87101f6"
         },
         {
             "name": "Pulstar (Japan) (En,Ja)",
-            "crc": "922b2afb",
-            "md5": "f9b26de3ae4a3a777f401077ed3de791",
-            "sha1": "476f2454dfce5c9df605e3ac7e4957b8936e1b79"
+            "sha1": "9c5fa602b1c3dcf70ff75a1a5f5ce16f24baeca1"
         },
         {
             "name": "Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)",
-            "crc": "e951c6be",
-            "md5": "ae9eeff58f32e86375af017ce984af04",
-            "sha1": "f1764842973d087963a69c80160619002b5366ca"
+            "sha1": "0079ce8efa93443b3988ecf733f6cd6b4ccf54f8"
         },
         {
             "name": "Rally Chase (Japan) (En,Ja)",
-            "crc": "b36554d1",
-            "md5": "ef0f2bfb8b8301a4102d241ebd642799",
-            "sha1": "16b3c3dcce97d793b07d23722c132fc4d5ddf705"
+            "sha1": "63a451a03212d224d3d01901e8242a0e93960134"
         },
         {
             "name": "Shinobi (World) (v1.0) (Hoffman) (Aftermarket)",
-            "crc": "4494c53e",
-            "md5": "84d2108cc683378b04a4cd7a1ba5b562",
-            "sha1": "8117a2e3aadddb435f2db8adef9078094d87b48f"
+            "sha1": "5d58df8714d7be728ce31216fba2697e32fefe66"
         },
         {
             "name": "Shinobi (World) (v1.1) (Hoffman) (Aftermarket)",
-            "crc": "2dd7edf9",
-            "md5": "5fd77983f3cb0909e67c26f80bd9b642",
-            "sha1": "363ea94f8af260d1ed9bd47de2e4c2ff6cd2ce26"
+            "sha1": "02273629416b0c36d911686f2f1234653c21cc52"
         },
         {
             "name": "Shougi no Tatsujin - Master of Syougi (Japan)",
-            "crc": "2c170257",
-            "md5": "32e6eaa25d3d7d1ed2c8a8856420a2f8",
-            "sha1": "34eac00b4cb8f96d98036b023128a447fe0cf928"
+            "sha1": "1ed53f2fd9f7f2e5d1c20f0ae59c3585b9966539"
         },
         {
             "name": "Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)",
-            "crc": "bbb2f599",
-            "md5": "7688fc3d710c3df5509bbdd137c7e282",
-            "sha1": "a684a6a330e882989a3618f54c5c08a181ca096f"
+            "sha1": "1f6294b688132bca63eb2c8c9cf5534959fbb35a"
         },
         {
             "name": "Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions)",
-            "crc": "de609c4b",
-            "md5": "fe407ae70404bf423175ff656ad429a9",
-            "sha1": "18e8198a0d2723a482304e55663f3467a5d8d674"
+            "sha1": "fdbc49a77b55efc30c351ed77b1bfc475989bc91"
         },
         {
             "name": "Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)",
-            "crc": "69ccae9b",
-            "md5": "db1372dec6f64d6512284609dbcd58cd",
-            "sha1": "7a42ec163527906da5e1aefafbc40b11a118de86"
+            "sha1": "30e51bf898d62d6db4e83ee089c3365fb590bb7d"
         },
         {
             "name": "Top Hunter - Roddy & Cathy (World) (En,Ja)",
-            "crc": "c21bc460",
-            "md5": "3c1679603d587ce5fa71738d52064188",
-            "sha1": "aeafea12a19ce8caf25de9f95d5a4739703ecbad"
+            "sha1": "7d75c27541cd5ae2e1677a62046529306171dd0b"
         },
         {
             "name": "Top Player's Golf (Japan) (En,Ja)",
-            "crc": "7963deaf",
-            "md5": "d8d96280cc70547ea365ee554b7a20a6",
-            "sha1": "18cf70673a0a45718161547e22b9d355223d1174"
+            "sha1": "eb46c942b4d665b9a77c0d01dd77851aa0bdfb50"
         },
         {
             "name": "Treasure of the Caribbean (France) (En,Ja) (Unl)",
-            "crc": "454756ff",
-            "md5": "ceabc4fb8ce9a1ec9139dda316400e73",
-            "sha1": "e4a4ef277903dc87ef9dc9bc0c5dda4061c9cf4f"
+            "sha1": "917cd0a4830e2ede8db151c83ad2aa80a92bdec3"
         },
         {
             "name": "Twinkle Star Sprites (Japan) (En,Ja)",
-            "crc": "f3c46209",
-            "md5": "b5fedf427eee159e57deaf3c6cbca731",
-            "sha1": "90cef41dc9bf31d971361192ff47310e26c063be"
+            "sha1": "97f5e2c95aa34b0dc56921cdcad122d7c536e593"
         },
         {
             "name": "World Heroes Perfect (Export) (En,Ja) (Rev 1)",
-            "crc": "0a3a9568",
-            "md5": "6431f0e5eba3d9fbab9334ee6f7b5679",
-            "sha1": "65bdf8970b73a029c814d570470cf863d4f5e6a6"
+            "sha1": "bd9dcf62a4b87d1e72b555eabd4c983981a5f14d"
         },
         {
             "name": "Xeno Crisis (World) (Aftermarket)",
-            "crc": "97db440b",
-            "md5": "c2c501cd243c8c6100acc73afcdc062e",
-            "sha1": "11c58e0271e88e92c100211b512bd03c88a0818c"
+            "sha1": "792ee3aa806d06163b4d613f47d8ac9802a20c92"
         }
     ]
 }

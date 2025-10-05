@@ -139,6 +139,12 @@
             "sha1": "eccbdf7064c197de001745807c76dd4787647ea9"
         },
         {
+            "name": "BK - The Corrupted Jiggies (v1.0) (Sorra1-Mods) (Hack)",
+            "crc": "000",
+            "md5": "295ddc270a3f55ef8acaab39f70c65bd",
+            "sha1": "000"
+        },
+        {
             "name": "BK - The Gruntch (v1.2) (Kurko Mods) (Hack)",
             "crc": "9a253727",
             "md5": "7a688e9898b6ee98dcf3904cf1094d04",
@@ -355,12 +361,6 @@
             "sha1": "48c353a8bd9108cac9f4b14c4429ed1c6e108740"
         },
         {
-            "name": "Conker's Bad Fur Day (Subset - Multi)",
-            "crc": "76f71c23",
-            "md5": "9504d9ce75b2aef8ff6a7d6216884393",
-            "sha1": "a8e42ec26eaf12f80d564da4eb837d06dbba43fe"
-        },
-        {
             "name": "Cruis'n Exotica (USA)",
             "crc": "867a2ced",
             "md5": "db7a03b77d44db81b8a3fcdfc4b72d8c",
@@ -431,6 +431,12 @@
             "crc": "4cb52323",
             "md5": "fdffa662ae3357bf5970338ee7589f6c",
             "sha1": "34c45fe569a22185da5c3e707cd7eee46ad82492"
+        },
+        {
+            "name": "Densha de Go! 64 (Japan) (En) (v1.03) (Zoinkity)",
+            "crc": "000",
+            "md5": "91131a1bb91aa42d3e8f2aa55948041f",
+            "sha1": "000"
         },
         {
             "name": "Destruction Derby 64 (Europe) (En,Fr,De)",
@@ -917,6 +923,36 @@
             "crc": "f6803b70",
             "md5": "ba04b138f996135d0b851fb150b5f55f",
             "sha1": "a38a255b2531832df88812f0ac9a013f97f519c8"
+        },
+        {
+            "name": "LoZ - Romhack Jam 1 - Barjack's Merda (Barjack) (Hack)",
+            "crc": "837829d1",
+            "md5": "04deca5e128eeef38a8cf100d8cdbb79",
+            "sha1": "78b0479cee802477b0ba42dd5986e8337849892f"
+        },
+        {
+            "name": "LoZ - Romhack Jam 1 - Halflight Shrine (PlushimaTitania) (Hack)",
+            "crc": "0f69bb25",
+            "md5": "e01e7afe6e6edc60bdc755ad4dfb717e",
+            "sha1": "acf8df1634853c743cc56c95ae82ea73ed7170bb"
+        },
+        {
+            "name": "LoZ - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc) (Hack)",
+            "crc": "06a5d352",
+            "md5": "4e76858409fe32bca0e9fccc4f7bd4e1",
+            "sha1": "fb6cb45e5c630bfa2db068d29f4264fe3d1b1684"
+        },
+        {
+            "name": "LoZ - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight) (Hack)",
+            "crc": "ddd22369",
+            "md5": "e5c3c8477abb0901915f52a3f41eaf3d",
+            "sha1": "aee31fcff0cf192920c44165b3923acf3b477c76"
+        },
+        {
+            "name": "LoZ - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure) (Hack)",
+            "crc": "64b14e9d",
+            "md5": "680480a85e2985ed609d6dde913a2506",
+            "sha1": "76a7642963c809f1fca31018a708807aaffad224"
         },
         {
             "name": "LoZMM - Ice Arrow is Missing (jimmie1717) (Part 01) (Hack)",
@@ -2083,6 +2119,12 @@
             "sha1": "4a0fbe9f16dd3a019588a416c96f5fa725f1651a"
         },
         {
+            "name": "Paperboy (USA)",
+            "crc": "000",
+            "md5": "C4CBCB54B010A5A71FE5CAA391E5C25F",
+            "sha1": "000"
+        },
+        {
             "name": "Penguins Luv Melons (World) (v2.0) (Aftermarket) (Sanni)",
             "crc": "f309b245",
             "md5": "09fa95c99eac0804aba96e4fd75fb76e",
@@ -2215,22 +2257,10 @@
             "sha1": "91b96e938c6d91699057fad91d726ee5a23ce33a"
         },
         {
-            "name": "Quest 64 - Hard Mode (v0.8.5) (Landmine36) (Hack)",
-            "crc": "8b26f777",
-            "md5": "641e746054496ffce612d3fc400855cb",
-            "sha1": "763b4c8bb5f536c3696552112be746b2f40d3061"
-        },
-        {
-            "name": "Quest 64 - Hard Mode (v0.8.6) (Landmine36) (Hack)",
-            "crc": "c7f2fcd0",
-            "md5": "00ca874a4b51a52e2715d08d8b90a232",
-            "sha1": "2a8d0b075c61acc2824689b50ba689b5d4bb8367"
-        },
-        {
-            "name": "Quest 64 - Hard Mode (v0.9.7) (Landmine36) (Hack)",
-            "crc": "db823fc9",
-            "md5": "a5704fb4d67f203234b54762cadcea8e",
-            "sha1": "bf4ead246969b0b39584d092cbb122c528606156"
+            "name": "Quest 64 - Hard Mode (v0.9.8.2) (Landmine36) (Hack)",
+            "crc": "4d3324a8",
+            "md5": "7d6426f22bedbba9f3b956d489d072ba",
+            "sha1": "bc703c1271cf297fe2fc06c7adf3c6fefe97ba45"
         },
         {
             "name": "RR64 - Ridge Racer 64 (USA)",
@@ -2719,6 +2749,12 @@
             "sha1": "4f7229e53472f622e562541e78b1aed6880a8873"
         },
         {
+            "name": "SM64 - Green Demon Challenge (v2.0) (IngoH) (Hack)",
+            "crc": "197d31cd",
+            "md5": "e9dd0b7adf0193f444a718be230e565b",
+            "sha1": "306886c41ede52cebc4bbbb83dfd3daba8096b0f"
+        },
+        {
             "name": "SM64 - Green Star Revenge 3 - Back to the Safe Sear Temples (v2.0) (Lugmillord) (Hack)",
             "crc": "85cdf618",
             "md5": "5631f237d925c255d4301be072cde507",
@@ -2783,6 +2819,12 @@
             "crc": "4e4706fe",
             "md5": "aa1a2926a44a8a82b7f7af90d6d09965",
             "sha1": "7ffb573ba1591edb2643a55fcf8e1bcf9fd1323c"
+        },
+        {
+            "name": "SM64 - Katze Stuck in the Toilet 64 (Console Compatible) (Tomatobird8) (Hack)",
+            "crc": "c1da101c",
+            "md5": "3070a074b89292d7edc9879473eb5231",
+            "sha1": "6448c44a02d44c4492521ce1897b68d7aea2a758"
         },
         {
             "name": "SM64 - Ks Christmas (Hack)",
@@ -3191,6 +3233,12 @@
             "crc": "7fa6660b",
             "md5": "4522482322a50626ba1c11000a97cf28",
             "sha1": "d6947973838f9738338bc7b63a962b6234d9baba"
+        },
+        {
+            "name": "SM64 - Omega Mario 64 (v1.1) (Omega_Merk, FrostyZako) (Hack)",
+            "crc": "da0ea233",
+            "md5": "f87d6a9a0018fb018b3e43d62347f231",
+            "sha1": "592e98af79cd6c7fe572dc66a0cd7374949b434e"
         },
         {
             "name": "SM64 - Only Up! 64 (v1.1) (Kaze Emanuar) (Hack)",
@@ -4099,6 +4147,18 @@
             "sha1": "1a73227f963668d7191e7cfcb56adf2565cd9dcd"
         },
         {
+            "name": "SM64 - TsucnenT's Treasures (v1.0) (TsucnenT) (Hack)",
+            "crc": "000",
+            "md5": "3580b6eb0e26f89f9d89a615ef1663c4",
+            "sha1": "000"
+        },
+        {
+            "name": "SM64 - TsucnenT's Treasures 2 (v1.0) (TsucnenT) (Hack)",
+            "crc": "000",
+            "md5": "2d0e8090ef236fca175c1fcc44b2732c",
+            "sha1": "000"
+        },
+        {
             "name": "SM64 - Unregistered Hypercam 64 (v1) (Hack)",
             "crc": "2f950926",
             "md5": "0e9fbccd042dd98abb0ff68d460aef61",
@@ -4739,6 +4799,18 @@
             "crc": "4888d0fe",
             "md5": "73c6d87dbe50f73f3b44e0f237a546d7",
             "sha1": "54e4795aba4fc326f79d0703ffdb51a212dd4b5c"
+        },
+        {
+            "name": "World Driver Championship (Europe) (En,Fr,De,Es,It)",
+            "crc": "76151df6",
+            "md5": "431de8f6611a8131b536f0ede1f330d9",
+            "sha1": "7b054d1580cc263429eb6961ad6ed6e0140e1df0"
+        },
+        {
+            "name": "World Driver Championship (USA)",
+            "crc": "5e4acbfa",
+            "md5": "7c567a5bb1ad4cbe414fb6bbff66e336",
+            "sha1": "93227776f59b42e9fb1c942eba9d5b465eeb3979"
         },
         {
             "name": "Yoshi's Story (Subset - Brutal Scores)",

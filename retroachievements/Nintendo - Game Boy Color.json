@@ -145,6 +145,12 @@
             "sha1": "28dfdc00ec7e353f4aae4c65d671300c0b97ab90"
         },
         {
+            "name": "Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)",
+            "crc": "000",
+            "md5": "45eeade46bd85f80af13af9dce572b9c",
+            "sha1": "000"
+        },
+        {
             "name": "Barbie - Ocean Discovery (USA) (GB Compatible)",
             "crc": "746936c6",
             "md5": "89de435cb69325b42d569015ca09f49f",
@@ -1693,6 +1699,12 @@
             "sha1": "1d1f073fef78599f8074c80c24a1b8ea72f78361"
         },
         {
+            "name": "Mist, The (World) (v1.3.3) (Aftermarket)",
+            "crc": "f088ffbd",
+            "md5": "dafb6629c51cdf4bb11f9b6154321aa0",
+            "sha1": "6d10498e8d7934d7b481118760fdb62469fba07b"
+        },
+        {
             "name": "Mobile Golf (Japan) (En) (marc max) (v1.1)",
             "crc": "5021fade",
             "md5": "23f98b48fe91b5c5b98f5adf7bcc828b",
@@ -2785,12 +2797,6 @@
             "sha1": "7183bcb54dd35f3a07d8fe63339b768f13b8168d"
         },
         {
-            "name": "The Mist (World) (Aftermarket)",
-            "crc": "f088ffbd",
-            "md5": "dafb6629c51cdf4bb11f9b6154321aa0",
-            "sha1": "6d10498e8d7934d7b481118760fdb62469fba07b"
-        },
-        {
             "name": "Tiny Toon Adventures - Buster Saves the Day (USA)",
             "crc": "800efb3d",
             "md5": "5a93ecb5781a3338c99e35bd06cc6127",
@@ -2899,6 +2905,12 @@
             "sha1": "6871dd15e2081432ab4c7727f88491f7bbd95099"
         },
         {
+            "name": "Turok - Rage Wars (USA, Europe) (En,Fr,De,Es)",
+            "crc": "786b5ab4",
+            "md5": "2d7d0adcec6f72ca0755862c5fddf353",
+            "sha1": "ce95e00b6e9d7dfb952e8cdf590a4c6948a6340e"
+        },
+        {
             "name": "Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible)",
             "crc": "6eda6a3a",
             "md5": "28d6c613fdf608fe241fb3ce183aaae5",
@@ -2921,6 +2933,12 @@
             "crc": "70760cce",
             "md5": "f1e27ad24bb3bf71d1d7b048ae21f0b5",
             "sha1": "b33214a4cd05f58dd019a77b1260bf557293c826"
+        },
+        {
+            "name": "Vigilante 8 (USA) (Rumble Version)",
+            "crc": "000",
+            "md5": "cb5348c1b469d698eccddce99a16d384",
+            "sha1": "000"
         },
         {
             "name": "WWF Betrayal (USA, Europe)",

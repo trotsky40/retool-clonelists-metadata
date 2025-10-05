@@ -841,6 +841,18 @@
             "sha1": "69245659177bbbf54d9e233ccdacc1491e5b9c08"
         },
         {
+            "name": "Naruto - Gekitou Ninja Taisen! 4 (Japan)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Naruto - Gekitou Ninja Taisen! 4 (Japan) (En) (Kosheh)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Neighbors from Hell (Europe) (En,Fr,De,Es,It)",
             "crc": "62a6f993",
             "md5": "4267dafed0cda9ac36d2258c3b9dab87",
@@ -883,12 +895,6 @@
             "sha1": "6df4f826b905cf72bf8883f2c62b87fb64a3c93b"
         },
         {
-            "name": "PMTTYD - The Tower of Trials (v2.03 r49) (Jdaster64) (Hack)",
-            "crc": "4bdcba1c",
-            "md5": "f2b45948f315e25b322e91311c5fe105",
-            "sha1": "0587090af56f9c46e9bf9d2c9f8ddfc684c8dac7"
-        },
-        {
             "name": "Paper Mario - The Thousand-Year Door (Europe) (En,Fr,De,Es,It)",
             "crc": "64747324",
             "md5": "8c3f2560c421aed8e737f1ecb6ab8829",
@@ -901,6 +907,18 @@
             "sha1": "1fbb7eaa7b4188c96f1019bac43439c972ba6758"
         },
         {
+            "name": "Paper Mario TTYD - The Tower of Trials (v3.10 r54) (Jdaster64) (Hack)",
+            "crc": "2b2c99d6",
+            "md5": "05836d782a3ab43b5adda0cffd38263d",
+            "sha1": "ac10eb36d45677780da02924549a92c287141132"
+        },
+        {
+            "name": "Paper Mario TTYD - The Tower of Trials (v3.11.1 r56) (Jdaster64) (Hack)",
+            "crc": "d8c74918",
+            "md5": "08a94d98148f4092566ec48f6906f5bd",
+            "sha1": "1ad6979e9d33195f672d1ed17acd3ef6b692e1db"
+        },
+        {
             "name": "Phantasy Star Online Episode I & II Plus (Subset - Grind)",
             "crc": "f9bf46f3",
             "md5": "7a35d44842265c93c604528a4b161e3e",
@@ -911,6 +929,12 @@
             "crc": "a6325905",
             "md5": "5ec15c2ee372ce46de18637849a7a92e",
             "sha1": "0dcedebec63347cbcc0d06478cfad431656d9ea8"
+        },
+        {
+            "name": "Pikmin (USA)",
+            "crc": "f2f31518",
+            "md5": "df5a6de6750ea8163cd71d749c1ac7a9",
+            "sha1": "874a6c54b360270a74d5fc533185816f3e553211"
         },
         {
             "name": "Pikmin (USA) (Rev 1)",
@@ -931,6 +955,12 @@
             "sha1": "a1796e5139ee4fa441dd4aaa8b0cc468287a92c4"
         },
         {
+            "name": "Pikmin 1\u00b2 (Subset - Randomizer Run)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Pikmin 2 (Subset - Bonus)",
             "crc": "5ecf8910",
             "md5": "813d6ca15824fa5ef1df93d0c845b11e",
@@ -947,6 +977,12 @@
             "crc": "6d42ab73",
             "md5": "3b880874df8d881a79cd1d253b3f44d1",
             "sha1": "d6a8ca05195ffdaa22f56d99b586ba7b2c550982"
+        },
+        {
+            "name": "Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack)",
+            "crc": "2b378144",
+            "md5": "e387b5e3d1ca033b29a1416bd4f48ac8",
+            "sha1": "1aae1fcf1589ca9e9194436c2d29258015fd90e4"
         },
         {
             "name": "Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi) (Hack)",
@@ -1027,6 +1063,18 @@
             "sha1": "7cb4e9cffeb55a458ff7212096a8e1452262298e"
         },
         {
+            "name": "Resident Evil (USA) (Ru) (Team Raccoon and R.G. MVO) (Disc 1)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
+            "name": "Resident Evil (USA) (Ru) (Team Raccoon and R.G. MVO) (Disc 2)",
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
+        },
+        {
             "name": "Resident Evil - Code - Veronica X (USA) (Disc 1)",
             "crc": "c4c9cae3",
             "md5": "d5a58560a4756d7d41e98a55111aa3bf",
@@ -1055,6 +1103,12 @@
             "crc": "5352d880",
             "md5": "6af1a948c9c79c2b2e162310fde6c94a",
             "sha1": "fd0c9601e9d63e96441add34abae75a0ee0feb78"
+        },
+        {
+            "name": "Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (Akella, Ivan89el)",
+            "crc": "923497d4",
+            "md5": "ef6805e8869d89d6cecbaad5210a39c6",
+            "sha1": "c0e5cf63f97a6e6a95f4623e770168f4af15b7b0"
         },
         {
             "name": "Resident Evil 4 (USA) (Disc 1)",
@@ -1124,9 +1178,9 @@
         },
         {
             "name": "SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack)",
-            "crc": "b4d798f9",
-            "md5": "53ec6e2da09406991aeb0a63134e9f12",
-            "sha1": "e3b95d7695346113e9400132213fcab6c4f70d13"
+            "crc": "000",
+            "md5": "000",
+            "sha1": "000"
         },
         {
             "name": "Samurai Jack - The Shadow of Aku (USA)",
@@ -1667,6 +1721,12 @@
             "crc": "9316bcf1",
             "md5": "74193b1bfc5a74088b410ce89ff997bc",
             "sha1": "452cad2dde7a11836831612f870d0d546fd183f6"
+        },
+        {
+            "name": "TimeSplitters - Future Perfect (USA)",
+            "crc": "329b03c9",
+            "md5": "90e7ad1498b68cf1bbd18d633268781a",
+            "sha1": "64432bc59e31d0d3e9e60526c7f71cbfd32591d2"
         },
         {
             "name": "Tony Hawk's Pro Skater 4 (USA)",

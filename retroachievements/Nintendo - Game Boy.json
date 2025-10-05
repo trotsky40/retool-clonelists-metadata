@@ -452,9 +452,9 @@
         },
         {
             "name": "Birdie Bartender (World) (Aftermarket)",
-            "crc": "375d65fb",
-            "md5": "2687e4b071cd74879de2c1384dc984ad",
-            "sha1": "60f39050f5792427d4fbe40d83e0ba70fed0c096"
+            "crc": "30abbe05",
+            "md5": "d7cd156ef19534ec9353fa016b391395",
+            "sha1": "893f6d9748d16197ec70b078e924dcbaaed29a5e"
         },
         {
             "name": "Bishoujo Senshi Sailor Moon (Japan)",
@@ -1123,6 +1123,12 @@
             "sha1": "ceef32cf78fb1b7fc6e48db83d49e8c3ed75db21"
         },
         {
+            "name": "Final Fantasy Legend II DX (v1.0) (theadamrippon)",
+            "crc": "57d43e55",
+            "md5": "66bcd8472c6aba72843920822a856deb",
+            "sha1": "b5cf0d26f295bc27987472dccfc696fa37dcc87a"
+        },
+        {
             "name": "Final Fantasy Legend III (USA)",
             "crc": "3e454710",
             "md5": "db156bc96b528996ce1bf771195171af",
@@ -1133,6 +1139,12 @@
             "crc": "72593f52",
             "md5": "31e0b16020d3b7a08a80d4416507d631",
             "sha1": "ef706ff0c03ebbb1924125b2caf1711e37de73fd"
+        },
+        {
+            "name": "Final Fantasy Legend III DX (v1.0) (theadamrippon)",
+            "crc": "97431ef5",
+            "md5": "4e70d913df7ddf0f45155ccb79963c2d",
+            "sha1": "e68f1064dcf992eb97e9aa99b067de620f95cb31"
         },
         {
             "name": "Final Fantasy Legend, The (USA)",
@@ -1243,6 +1255,18 @@
             "sha1": "e442316132506ff223a9e5f33d874b71ec09d71a"
         },
         {
+            "name": "GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket)",
+            "crc": "000",
+            "md5": "01cf4c043f69a9924f2a689e3fa60157",
+            "sha1": "000"
+        },
+        {
+            "name": "GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)",
+            "crc": "000",
+            "md5": "df77829789b41cc5be505e8cdce80ce1",
+            "sha1": "000"
+        },
+        {
             "name": "Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced)",
             "crc": "9e6cdc96",
             "md5": "7727f43d66a77fe0284bf1b8ffede7dd",
@@ -1265,6 +1289,12 @@
             "crc": "efc0f266",
             "md5": "fdd228f59ee0eb8b162054a330039b0a",
             "sha1": "5aea023fd373643e55c7276b79a2d042302c3329"
+        },
+        {
+            "name": "Game of Life Kuzushi (World) (Aftermarket)",
+            "crc": "000",
+            "md5": "b04d10af7ff5010c90be47948158f016",
+            "sha1": "000"
         },
         {
             "name": "GameBoy WORDLE (World) (Aftermarket)",
@@ -2060,9 +2090,9 @@
         },
         {
             "name": "Melanie and the Magic Forest (World) (v1.1) (GB Compatible) (Aftermarket)",
-            "crc": "949c6ab9",
-            "md5": "d6a568f56d59772c7a83b5e8504c86d6",
-            "sha1": "34269af4db6c37b92fdc7f7f914c282174603ba8"
+            "crc": "2d0b4ebf",
+            "md5": "6669ba8e9dcd087124ab657c8a8ad0db",
+            "sha1": "fe106123c88c965fa23304caddfbfa3f64a46a31"
         },
         {
             "name": "Mercenary Force (USA, Europe)",
@@ -2267,6 +2297,12 @@
             "crc": "160fa9ef",
             "md5": "b17c839d444f98a4bd7fec2e49cacf12",
             "sha1": "5c24d595401ce3d1bb4027d0bc12312dca275470"
+        },
+        {
+            "name": "Mortal Kombat 3 (USA, Europe)",
+            "crc": "000",
+            "md5": "c19d61e31d6aebc12abf80d628a7bd09",
+            "sha1": "000"
         },
         {
             "name": "Mortal Kombat II (USA, Europe)",
@@ -2755,6 +2791,60 @@
             "sha1": "b6264f439ef56bf499531c98370c87c5bd1a3930"
         },
         {
+            "name": "Pokemon - PureRGB - PureBlue (v2.6.2) (Vortyne) (Hack)",
+            "crc": "021ed1e6",
+            "md5": "3ab51f5f32df9ace20e3f469a4a09c23",
+            "sha1": "489cf571e18573a5869ebeecdfde69ac09a0b3d8"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureBlue (v2.6.3) (Vortiene) (Hack)",
+            "crc": "6f8282ff",
+            "md5": "bd69d9c06fe77707c5b3ad1fe6f26041",
+            "sha1": "d251622dd30e249cf794b7d581d289e9d1690038"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)",
+            "crc": "2176e3db",
+            "md5": "3d78ba61d68f59bd23727fc2c402fa7b",
+            "sha1": "aa3a6a17dcf2f3903374a46a5ef0e44213db9af2"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureGreen (v2.6.2) (Vortyne) (Hack)",
+            "crc": "26f0d962",
+            "md5": "0b5c445d36c2e6125917a6071656c1e4",
+            "sha1": "9ff1462058630562ba785f673b3227a4cb70cb9f"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureGreen (v2.6.3) (Vortiene) (Hack)",
+            "crc": "033abdbd",
+            "md5": "5d180f1df08f71ebc64f31721b95d201",
+            "sha1": "ed0090bd27d9055c15a339399269b4248d2707c6"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureGreen (v2.6.4) (Vortiene) (Hack)",
+            "crc": "d8022a7d",
+            "md5": "fb81050af0248b3f451944eb52fb9a14",
+            "sha1": "62d36224679205da6503f33a8e810f260446d2c0"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureRed (v2.6.2) (Vortyne) (Hack)",
+            "crc": "01c4980f",
+            "md5": "0ee583a9be10502141e07d214f84f6ba",
+            "sha1": "663c6e55fe35885f8cdeb992a2fc20cbcd6d2fe2"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureRed (v2.6.3) (Vortiene) (Hack)",
+            "crc": "fa4ce089",
+            "md5": "d0b7052c5440dc7c63e81b55b1782ba5",
+            "sha1": "03a5e34fec03133e6ba5773f8a2aaaef5152d5be"
+        },
+        {
+            "name": "Pokemon - PureRGB - PureRed (v2.6.4) (Vortiene) (Hack)",
+            "crc": "c9eaef84",
+            "md5": "3abfdb86bde17c9cc50d1b1b295de8e7",
+            "sha1": "e758448695d16675baac59a33bf616e022899661"
+        },
+        {
             "name": "Pokemon - Red Version (Subset - Bonus)",
             "crc": "6d20fe91",
             "md5": "25da61b495309bfb4d45ab54918d6135",
@@ -2837,6 +2927,12 @@
             "crc": "c1bb840c",
             "md5": "8789e3890d1dc7d9a8991598b44e18b3",
             "sha1": "4090a098b8a9c4706accf2ae1ae3e2877410cc3d"
+        },
+        {
+            "name": "Pokemon - Yellow - Velvet Special Hatenna Edition (v1.2) (PeanutellaXO) (Hack)",
+            "crc": "dec12e69",
+            "md5": "1790b5b1ddd2f3beae480a465910d333",
+            "sha1": "27b2f29a22f70ad9857e179422af4d53d15791c7"
         },
         {
             "name": "Pokemon - Yellow Legacy (Hack)",
@@ -3139,6 +3235,12 @@
             "sha1": "73cb2330f9b58a324a41f6aa85b53ab8cc946afc"
         },
         {
+            "name": "Senshijidaino kyoryu - DINOPREHIS! (World) (1997 Beta) (En) (v1.0) (AgamemnonGaming) (Aftermarket)",
+            "crc": "deb7337f",
+            "md5": "7936b12937a175abb39e199c9feed508",
+            "sha1": "25a10f54915c9cba0d9e0e496fc27e7700734d7b"
+        },
+        {
             "name": "Shadow Warriors (Europe)",
             "crc": "bcc18e24",
             "md5": "13dd6801246da226b0c2db339df4a246",
@@ -3287,6 +3389,12 @@
             "crc": "7f0f5762",
             "md5": "d32b9da8028d357e20c791b07ded4f86",
             "sha1": "da48687f3a5ee547510a0ea9eb05859b4ea9531d"
+        },
+        {
+            "name": "Space Landing (World) (Steam) (Maurizio) (Aftermarket)",
+            "crc": "3949375f",
+            "md5": "08e447a6164cefd3e56212cd36e11e6f",
+            "sha1": "dc3a64a7971ca53a01c18234bf9648612c865058"
         },
         {
             "name": "Spanky's Quest (DX Version) (World) (marc max) (v1.0)",
@@ -3655,6 +3763,12 @@
             "sha1": "dfab75ab6bdc0765ba9a5d33a93ffdb114a49cbf"
         },
         {
+            "name": "The Final Fantasy Legend DX (v1.0.1) (theadamrippon)",
+            "crc": "13d18ff0",
+            "md5": "8645f33476770262a51fd914e519a1ad",
+            "sha1": "7f411f44b74d68efe0a205176b3b010a133f7745"
+        },
+        {
             "name": "There's Nothing to Do in This Town (World) (Aftermarket)",
             "crc": "173b549a",
             "md5": "d44041e733ffa73dea5613f62f8e064b",
@@ -3785,6 +3899,12 @@
             "crc": "e0606ced",
             "md5": "bc977605b3db8aeab9d60289e6b7e361",
             "sha1": "7f8065c817f578d031f8f646f4eca533f1dee851"
+        },
+        {
+            "name": "Uma Musume Delish Derby (World) (shiki) (Aftermarket)",
+            "crc": "000",
+            "md5": "a6d142742d41b624217123bd020f8391",
+            "sha1": "000"
         },
         {
             "name": "Undercover Cops Gaiden - Hakaishin Garumaa (Japan)",

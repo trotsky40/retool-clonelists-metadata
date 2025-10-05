@@ -309,6 +309,10 @@
 			"crc": "a4eed060"
 		},
 		{
+			"name": "AFL Live 2003 (Australia).bin",
+			"crc": "eef7c462"
+		},
+		{
 			"name": "AGON - A Rejtelyes Kodex (Hungary) (Rerelease).bin",
 			"crc": "4d9a3aff"
 		},
@@ -321,22 +325,6 @@
 			"crc": "a2c5c610"
 		},
 		{
-			"name": "AI Igo 2001 (Japan).bin",
-			"crc": "03392f62"
-		},
-		{
-			"name": "AI Igo 2002 (Japan).bin",
-			"crc": "8ca15d85"
-		},
-		{
-			"name": "AI Igo 2003 (Japan).bin",
-			"crc": "b7cf1a88"
-		},
-		{
-			"name": "AI Igo 2004 (Japan).bin",
-			"crc": "b0f2a98f"
-		},
-		{
 			"name": "ATV GP (Lithuania).bin",
 			"crc": "0c761027"
 		},
@@ -345,12 +333,12 @@
 			"crc": "a2d76b3e"
 		},
 		{
-			"name": "Abenteuer Piraten - Piraten in der Tortuga Bay (Germany).bin",
-			"crc": "600ba313"
-		},
-		{
 			"name": "Ace o Nerae! Neraiuchi Typing Smash!! (Japan).bin",
 			"crc": "b40cc692"
+		},
+		{
+			"name": "Action & Arcade Compendium (Australia).bin",
+			"crc": "efde8018"
 		},
 		{
 			"name": "Action CD (Europe) (Rev 1).bin",
@@ -409,6 +397,14 @@
 			"crc": "43679849"
 		},
 		{
+			"name": "Agatha Christie - I nie bylo juz nikogo (Poland) (Disc 1).bin",
+			"crc": "a29d00c2"
+		},
+		{
+			"name": "Agatha Christie - I nie bylo juz nikogo (Poland) (Disc 2).bin",
+			"crc": "a174cef0"
+		},
+		{
 			"name": "Agatha Christie - Triple Murder Mystery Pack (USA).iso",
 			"crc": "53697b8c"
 		},
@@ -431,6 +427,10 @@
 		{
 			"name": "Age of Empires II - The Age of Kings (Japan) (Track 1).bin",
 			"crc": "c6a1e961"
+		},
+		{
+			"name": "Age of Empires II - The Age of Kings (USA) (Rerelease) (2001-08-03) (Alt 2) (Track 2).bin",
+			"crc": "2d6fa4a3"
 		},
 		{
 			"name": "Age of Empires II - The Conquerors Expansion (USA) (Rerelease) (Alt) (Track 2).bin",
@@ -483,6 +483,10 @@
 		{
 			"name": "Age of Mythology - The Titans (Japan) (Expansion).bin",
 			"crc": "23b6d1be"
+		},
+		{
+			"name": "Age of Mythology - Zlota Edycja (Poland) (Disc 2).bin",
+			"crc": "1b087dad"
 		},
 		{
 			"name": "Age of Mythology - Zlota Edycja (Poland) (Patch PL).bin",
@@ -703,6 +707,10 @@
 		{
 			"name": "Alien Incident (Finland) (En,Fi).bin",
 			"crc": "eda343c3"
+		},
+		{
+			"name": "Alien Nations II (Poland).bin",
+			"crc": "1b441402"
 		},
 		{
 			"name": "Aliens Versus Predator 2 (Korea) (Disc 1).bin",
@@ -1425,6 +1433,10 @@
 			"crc": "adc129a3"
 		},
 		{
+			"name": "Apache - Air Assault (Poland).iso",
+			"crc": "8ade51af"
+		},
+		{
 			"name": "Apathy Rental Kazoku (Japan).bin",
 			"crc": "b886d6f5"
 		},
@@ -1475,14 +1487,6 @@
 		{
 			"name": "Arma II - Operation Arrowhead (USA).iso",
 			"crc": "ea5f5b93"
-		},
-		{
-			"name": "Armed Dragoon (Japan) (C88 Kaihatsu Tochuuban).bin",
-			"crc": "83a79eaa"
-		},
-		{
-			"name": "Armed Dragoon (Japan) (Taikenban Ver. C84).bin",
-			"crc": "3c749906"
 		},
 		{
 			"name": "Army Men II (Argentina).bin",
@@ -1709,6 +1713,10 @@
 			"crc": "b7e81389"
 		},
 		{
+			"name": "Aussie Spellforce (Australia) (v1.0.7).bin",
+			"crc": "4432f29f"
+		},
+		{
 			"name": "Auta Snu (Czech).bin",
 			"crc": "44f538f2"
 		},
@@ -1873,10 +1881,6 @@
 			"crc": "a58a35f4"
 		},
 		{
-			"name": "Baldur's Gate II - Shadows of Amn (Taiwan) (Disc 3).bin",
-			"crc": "1faf2737"
-		},
-		{
 			"name": "Baldur's Gate II - Shadows of Amn (Taiwan) (Disc 4).bin",
 			"crc": "5476b686"
 		},
@@ -1911,94 +1915,6 @@
 		{
 			"name": "Baphomets Fluch (Germany) (Disc 1) (Sold Out Software) (2004-05-20).bin",
 			"crc": "b9bba2a9"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 01).bin",
-			"crc": "c1c62fa7"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 02).bin",
-			"crc": "57cdc36b"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 03).bin",
-			"crc": "7cd7b64c"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 04).bin",
-			"crc": "085e3454"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 05).bin",
-			"crc": "869c11b4"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 06).bin",
-			"crc": "8a52edd3"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 07).bin",
-			"crc": "51e7ccf0"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 08).bin",
-			"crc": "a6bacbe7"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 09).bin",
-			"crc": "c8574e1c"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 10).bin",
-			"crc": "d8edd600"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 11).bin",
-			"crc": "8c9f945d"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 12).bin",
-			"crc": "83b6ea60"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 13).bin",
-			"crc": "82eee15a"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 14).bin",
-			"crc": "598534df"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 15).bin",
-			"crc": "e7bca41b"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 16).bin",
-			"crc": "0d60fcf6"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 17).bin",
-			"crc": "da9cb264"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 18).bin",
-			"crc": "14d345ff"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 19).bin",
-			"crc": "40eb2cef"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 20).bin",
-			"crc": "19b542ce"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 21).bin",
-			"crc": "1d170ad3"
-		},
-		{
-			"name": "Bara no Ki ni Bara no Hanasaku (Japan) (Disc 2).bin",
-			"crc": "2c35c2bf"
 		},
 		{
 			"name": "Barbie in het Zwanenmeer CD-ROM - Het Toverbos (Netherlands).bin",
@@ -2113,8 +2029,16 @@
 			"crc": "b563ef1e"
 		},
 		{
+			"name": "Battlefield Vietnam Redux (USA) (En,Ja,Fr,De,Es,It,Zh,Ko) (Disc 1) (Rerelease).bin",
+			"crc": "d2de74ab"
+		},
+		{
 			"name": "Battlehawks 1942 (Europe).bin",
 			"crc": "74edb7f7"
+		},
+		{
+			"name": "Battles of Napoleon, The (Poland).bin",
+			"crc": "b2c9fcb9"
 		},
 		{
 			"name": "Battleship (Japan) (Second Player CD).bin",
@@ -2281,8 +2205,8 @@
 			"crc": "f9097910"
 		},
 		{
-			"name": "Best of Select, The - Games Special 4 (Germany) (En,Fr,De,Nl).bin",
-			"crc": "3b1559ff"
+			"name": "Best of Select, The - Games Special 3 (Germany) (En,Fr,De,Nl).bin",
+			"crc": "32065aff"
 		},
 		{
 			"name": "Bet on Soldier (Germany) (Patch Version 1.0 zu 1.1).iso",
@@ -2429,6 +2353,10 @@
 			"crc": "abe841b9"
 		},
 		{
+			"name": "Blitzkrieg - Antologia (Poland).iso",
+			"crc": "e8252d35"
+		},
+		{
 			"name": "Blood Bowl (Poland).iso",
 			"crc": "11446781"
 		},
@@ -2529,6 +2457,14 @@
 			"crc": "d76490fa"
 		},
 		{
+			"name": "Boku to, Bokura no Natsu (Japan) (Game Disc) (Track 28).bin",
+			"crc": "c486be18"
+		},
+		{
+			"name": "Boku to, Bokura no Natsu (Japan) (Game Disc) (Track 31).bin",
+			"crc": "10a325bf"
+		},
+		{
 			"name": "Boku to, Bokura no Natsu (Japan) (Special Disc) (PC Game Bundle) (Track 1).bin",
 			"crc": "753b814e"
 		},
@@ -2593,6 +2529,22 @@
 			"crc": "5bceef85"
 		},
 		{
+			"name": "Braintastic! Maths - Lower Secondary (Australia).bin",
+			"crc": "bd9d970f"
+		},
+		{
+			"name": "Braintastic! Maths - Middle Primary (Australia).bin",
+			"crc": "902fb6fd"
+		},
+		{
+			"name": "Braintastic! Maths - Upper Primary (Australia).bin",
+			"crc": "1bfecc15"
+		},
+		{
+			"name": "Braintastic! Word Skills - Word Skills Two (Australia).bin",
+			"crc": "db1582d6"
+		},
+		{
 			"name": "Break! (USA).bin",
 			"crc": "bf064a81"
 		},
@@ -2639,6 +2591,10 @@
 		{
 			"name": "Brothers in Arms - Hell's Highway (Japan) (En,Fr,Es,It).iso",
 			"crc": "5dd002c2"
+		},
+		{
+			"name": "Brothers in Arms - Hell's Highway (USA) (En,Fr,Es,It) (Rerelease).iso",
+			"crc": "4ce1148b"
 		},
 		{
 			"name": "Brothers in Arms - Road to Hill 30 (Asia).iso",
@@ -2877,6 +2833,10 @@
 			"crc": "2b29626b"
 		},
 		{
+			"name": "Caesar II (USA) (Rerelease) (1997-03-10) (Alt).bin",
+			"crc": "aa9df875"
+		},
+		{
 			"name": "Caesar III (Sweden).bin",
 			"crc": "f9d0f2c1"
 		},
@@ -2901,6 +2861,10 @@
 			"crc": "b081e11a"
 		},
 		{
+			"name": "Call of Duty 2 (Poland).iso",
+			"crc": "100356b7"
+		},
+		{
 			"name": "Call of Duty Interactive CD-ROM - Game Demo (USA).bin",
 			"crc": "58677986"
 		},
@@ -2915,10 +2879,6 @@
 		{
 			"name": "Can Can Bunny History (Japan).bin",
 			"crc": "9467cf5b"
-		},
-		{
-			"name": "Can Fes! Itazura Majo to Naisho no Gakuensai (Japan) (Taikenban).bin",
-			"crc": "73408260"
 		},
 		{
 			"name": "Candy Cruncher (UK) (Linux).bin",
@@ -3067,6 +3027,10 @@
 		{
 			"name": "Carnival Games (Turkey) (Track 11).bin",
 			"crc": "71b61edd"
+		},
+		{
+			"name": "Cartoon Network Scooby-Doo! Showdown in Ghost Town (USA) (Rerelease).bin",
+			"crc": "ebf8f047"
 		},
 		{
 			"name": "Casanova (Poland) (Disc 1).bin",
@@ -3245,6 +3209,74 @@
 			"crc": "e82f27d9"
 		},
 		{
+			"name": "Centipede (USA) (Rerelease) (Track 01).bin",
+			"crc": "b66a28f4"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 02).bin",
+			"crc": "cf56b88b"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 03).bin",
+			"crc": "0f93459e"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 04).bin",
+			"crc": "81fdaba5"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 05).bin",
+			"crc": "54bf8627"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 06).bin",
+			"crc": "76ab457f"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 07).bin",
+			"crc": "1004983a"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 08).bin",
+			"crc": "859e4f03"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 09).bin",
+			"crc": "f467c805"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 10).bin",
+			"crc": "1c04d154"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 11).bin",
+			"crc": "c754ff75"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 12).bin",
+			"crc": "d47b3837"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 13).bin",
+			"crc": "001ec659"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 14).bin",
+			"crc": "1b86851d"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 15).bin",
+			"crc": "f903c88b"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 16).bin",
+			"crc": "a3e63965"
+		},
+		{
+			"name": "Centipede (USA) (Rerelease) (Track 17).bin",
+			"crc": "41338879"
+		},
+		{
 			"name": "Century of Cinema, A - Kinema no Seiki - Shouchiku Eiga no Ayumi (Japan).bin",
 			"crc": "5a42fb4b"
 		},
@@ -3253,8 +3285,16 @@
 			"crc": "ec11ba52"
 		},
 		{
+			"name": "Cesarz - Narodziny Panstwa Srodka (Poland).bin",
+			"crc": "f3022917"
+		},
+		{
 			"name": "Cesta Kolem Sveta (Czech).bin",
 			"crc": "e896ca8d"
+		},
+		{
+			"name": "Cezar III (Poland).bin",
+			"crc": "60dd8454"
 		},
 		{
 			"name": "Championship Chess (Germany).bin",
@@ -3613,26 +3653,6 @@
 			"crc": "0bb98478"
 		},
 		{
-			"name": "Cluedo - Murder at Blackwell Grange (Germany) (En,Fr,De,Es,It,Nl,Sv) (Track 1).bin",
-			"crc": "801fe8b0"
-		},
-		{
-			"name": "Cluedo - Murder at Blackwell Grange (Germany) (En,Fr,De,Es,It,Nl,Sv) (Track 2).bin",
-			"crc": "94923c9d"
-		},
-		{
-			"name": "Cluedo - Murder at Blackwell Grange (Germany) (En,Fr,De,Es,It,Nl,Sv) (Track 3).bin",
-			"crc": "94d2a907"
-		},
-		{
-			"name": "Cluedo - Murder at Blackwell Grange (Germany) (En,Fr,De,Es,It,Nl,Sv) (Track 4).bin",
-			"crc": "6bf53acb"
-		},
-		{
-			"name": "Cluedo - Murder at Blackwell Grange (Germany) (En,Fr,De,Es,It,Nl,Sv) (Track 5).bin",
-			"crc": "bed0054c"
-		},
-		{
 			"name": "Code of Honor - The French Foreign Legion (Hungary).bin",
 			"crc": "d2e593aa"
 		},
@@ -3675,6 +3695,10 @@
 		{
 			"name": "Colin McRae Rally 2.0 (Europe) (En,Fr,De,Es,It) (Rerelease) (2001-07-03).bin",
 			"crc": "cacd43ee"
+		},
+		{
+			"name": "Colin McRae Rally 3 (UK) (Disc 2) (Sold Out Software).bin",
+			"crc": "1fb5045a"
 		},
 		{
 			"name": "Coloropus (Poland).bin",
@@ -3723,10 +3747,6 @@
 		{
 			"name": "Command & Conquer - Generals (USA) (Disc 1) (Rerelease).bin",
 			"crc": "4ddd1063"
-		},
-		{
-			"name": "Command & Conquer - Generals (USA) (Disc 2) (Rerelease).bin",
-			"crc": "d2fcb55e"
 		},
 		{
 			"name": "Command & Conquer - Generals - Zero Hour (Poland) (Disc 1).bin",
@@ -3795,6 +3815,10 @@
 		{
 			"name": "Commandos 3 - Destination Berlin (Czech) (Disc 3).bin",
 			"crc": "e85f86f0"
+		},
+		{
+			"name": "Commandos 3 - Destination Berlin (USA) (Disc 3).bin",
+			"crc": "6f3953cb"
 		},
 		{
 			"name": "Company of Heroes Anthology (Japan).iso",
@@ -4003,6 +4027,34 @@
 		{
 			"name": "Computer Bild Spiele CD-ROM zur Ausgabe 4-2003 (Germany) (Track 20).bin",
 			"crc": "b06e130a"
+		},
+		{
+			"name": "Computer Gaming World - April 1997 - No. 153 (USA).bin",
+			"crc": "6f272f72"
+		},
+		{
+			"name": "Computer Gaming World - January 2000 (USA) (Disc 1).bin",
+			"crc": "735517e5"
+		},
+		{
+			"name": "Computer Gaming World - January 2000 (USA) (Disc 2).bin",
+			"crc": "79310740"
+		},
+		{
+			"name": "Computer Gaming World - November 1997 - No. 160 (USA).bin",
+			"crc": "ee0d5798"
+		},
+		{
+			"name": "Computer Gaming World - November 1998 - No. 172 (USA).bin",
+			"crc": "0747e0c0"
+		},
+		{
+			"name": "Computer Gaming World - October 1999 (USA).bin",
+			"crc": "4c7fb5a2"
+		},
+		{
+			"name": "Computer Gaming World - September 1995 (USA).bin",
+			"crc": "343c2493"
 		},
 		{
 			"name": "Computer Gia Olous January 1998 (Greece).bin",
@@ -4713,8 +4765,16 @@
 			"crc": "257437a4"
 		},
 		{
+			"name": "Crocadoo Gone Troppo (Australia).bin",
+			"crc": "14b46eb0"
+		},
+		{
 			"name": "Cross Roads - Gruene Welle (Germany).bin",
 			"crc": "d62da8ab"
+		},
+		{
+			"name": "Crown of Glory (Poland).bin",
+			"crc": "e6b695ed"
 		},
 		{
 			"name": "Crusader Kings II (Japan).bin",
@@ -5069,14 +5129,6 @@
 			"crc": "de0aefaa"
 		},
 		{
-			"name": "D - Sono Keshiki no Mukougawa (Japan) (Track 01).bin",
-			"crc": "312aa34c"
-		},
-		{
-			"name": "D - Sono Keshiki no Mukougawa (Japan) (Track 31).bin",
-			"crc": "0fe0207f"
-		},
-		{
 			"name": "D+Vine [Luv] (Japan) (Game Disk) (Track 27).bin",
 			"crc": "9fb29e0a"
 		},
@@ -5127,6 +5179,10 @@
 		{
 			"name": "Dandelion - Starchild Journey (Japan).bin",
 			"crc": "a720ec0b"
+		},
+		{
+			"name": "Dangerous Australians - Sniffer's Adventures (Australia).bin",
+			"crc": "e3a80efe"
 		},
 		{
 			"name": "Dar ot Sartse (Bulgaria).bin",
@@ -5221,8 +5277,16 @@
 			"crc": "3d018edb"
 		},
 		{
+			"name": "Darmowy Dodatek Do Gier Z Serii EA Classic oraz EA Sports Champions Trzecia Seria (Poland).bin",
+			"crc": "5a4d0c1b"
+		},
+		{
 			"name": "Darmowy Dodatek do Gier z Serii Kolekcja Klasyki Komputerowej 2001 (Poland).bin",
 			"crc": "33ac8a73"
+		},
+		{
+			"name": "Dave Mirra Freestyle BMX (Japan).bin",
+			"crc": "16828354"
 		},
 		{
 			"name": "David Baddiel & Frank Skinner Fantasy Manager '95-'96 (Europe) (Hit Squad).bin",
@@ -5331,18 +5395,6 @@
 		{
 			"name": "Delta Force - Black Hawk Down (Netherlands).bin",
 			"crc": "765facb9"
-		},
-		{
-			"name": "Delta Force - Helikopter W Ogniu + Team Sabre (Poland).bin",
-			"crc": "ee863ff6"
-		},
-		{
-			"name": "Delta Force - Xtreme (Poland).bin",
-			"crc": "d6aa0e9a"
-		},
-		{
-			"name": "Demon Master Chris (USA).iso",
-			"crc": "9b795fb6"
 		},
 		{
 			"name": "Denis Adventure (Hungary) (Pl,Hu).bin",
@@ -5465,6 +5517,10 @@
 			"crc": "1e8466b8"
 		},
 		{
+			"name": "Devil May Cry 3 - Dante's Awakening - Edycja Specjalna (Poland).iso",
+			"crc": "737c862b"
+		},
+		{
 			"name": "Devil Whiskey (USA) (Rerelease).bin",
 			"crc": "7e145133"
 		},
@@ -5503,10 +5559,6 @@
 		{
 			"name": "Diablo II - Lord of Destruction (Expansion Set) (China).bin",
 			"crc": "4ca352f9"
-		},
-		{
-			"name": "Diablo II - Lord of Destruction (Expansion Set) (Korea).bin",
-			"crc": "5e14ec48"
 		},
 		{
 			"name": "Diamonds in the Rough (Greece).bin",
@@ -5653,6 +5705,10 @@
 			"crc": "9b147d66"
 		},
 		{
+			"name": "Disney Presents a Pixar Film - The Incredibles (Australia) (Disc 1).bin",
+			"crc": "2a2e9397"
+		},
+		{
 			"name": "Disney TRON - Evolution (Europe) (Pl,Cs).iso",
 			"crc": "6fa5e56e"
 		},
@@ -5789,10 +5845,6 @@
 			"crc": "f8522ca3"
 		},
 		{
-			"name": "Disney's Winnie the Pooh Print Studio (Australia) (En,Fr,De,Es,It,Nl).bin",
-			"crc": "5f993e4d"
-		},
-		{
 			"name": "Disney-Pixar A Bug's Life (Europe).bin",
 			"crc": "73894f0c"
 		},
@@ -5813,6 +5865,10 @@
 			"crc": "a5de88b0"
 		},
 		{
+			"name": "Disney-Pixar Toy Story 2 (Australia).bin",
+			"crc": "af8e2932"
+		},
+		{
 			"name": "Disney-Pixar Toy Story 2 (Netherlands).bin",
 			"crc": "2117ee8f"
 		},
@@ -5831,10 +5887,6 @@
 		{
 			"name": "Dobrodruzstvi Soba (Czech).bin",
 			"crc": "328c6bc4"
-		},
-		{
-			"name": "Dodatkowa plyta CD Kolekcja Klasyki Komputerowej (Poland).bin",
-			"crc": "f1aab5a5"
 		},
 		{
 			"name": "Doki Doki Vacation - Kirameku Kisetsu no Naka de (Japan) (Track 02).bin",
@@ -6161,6 +6213,10 @@
 			"crc": "0f257608"
 		},
 		{
+			"name": "Drakensang - Am Fluss der Zeit (Germany) (Covermount).iso",
+			"crc": "edaed4df"
+		},
+		{
 			"name": "Drakula - Feltamadas (Hungary) (Disc 1).bin",
 			"crc": "51f5110c"
 		},
@@ -6309,6 +6365,38 @@
 			"crc": "742f318f"
 		},
 		{
+			"name": "Dune II - The Battle for Arrakis (USA).bin",
+			"crc": "e5c49a87"
+		},
+		{
+			"name": "Dungeon Keeper (Australia) (Track 1).bin",
+			"crc": "28226d24"
+		},
+		{
+			"name": "Dungeon Keeper (Australia) (Track 2).bin",
+			"crc": "7a77d5fb"
+		},
+		{
+			"name": "Dungeon Keeper (Australia) (Track 3).bin",
+			"crc": "e305db34"
+		},
+		{
+			"name": "Dungeon Keeper (Australia) (Track 4).bin",
+			"crc": "c090c667"
+		},
+		{
+			"name": "Dungeon Keeper (Australia) (Track 5).bin",
+			"crc": "0c416e38"
+		},
+		{
+			"name": "Dungeon Keeper (Australia) (Track 6).bin",
+			"crc": "ec09b9a3"
+		},
+		{
+			"name": "Dungeon Keeper (Australia) (Track 7).bin",
+			"crc": "b22441a4"
+		},
+		{
 			"name": "Dungeon Keeper 2 (Brazil).bin",
 			"crc": "ba26817a"
 		},
@@ -6347,6 +6435,10 @@
 		{
 			"name": "Dungeons & Dragons Online - Stormreach (UK).iso",
 			"crc": "7eeb7432"
+		},
+		{
+			"name": "Dwa Trony - Wojna Roz (Poland).bin",
+			"crc": "5ec5de00"
 		},
 		{
 			"name": "Dweebs 2 - The New Breed (Europe).bin",
@@ -6465,6 +6557,46 @@
 			"crc": "81737700"
 		},
 		{
+			"name": "Earth 2140 (Germany) (Track 01).bin",
+			"crc": "b520201b"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 02).bin",
+			"crc": "c564f2d6"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 03).bin",
+			"crc": "ee1dd489"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 04).bin",
+			"crc": "772ec330"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 05).bin",
+			"crc": "7685ca0b"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 06).bin",
+			"crc": "436eee35"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 07).bin",
+			"crc": "4a615179"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 08).bin",
+			"crc": "900d1a4b"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 09).bin",
+			"crc": "fa0807a3"
+		},
+		{
+			"name": "Earth 2140 (Germany) (Track 10).bin",
+			"crc": "3a78e7ab"
+		},
+		{
 			"name": "Earth 2140 - Gold (Hungary) (Track 1).bin",
 			"crc": "1db470d6"
 		},
@@ -6519,6 +6651,94 @@
 		{
 			"name": "Earth-Wind-Fire (USA) (Manuals, Demos and Goodies).bin",
 			"crc": "d0bcab2a"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 01).bin",
+			"crc": "729d4501"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 02).bin",
+			"crc": "381be61c"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 03).bin",
+			"crc": "be2c75ad"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 06).bin",
+			"crc": "bb755ec4"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 07).bin",
+			"crc": "11c96612"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 08).bin",
+			"crc": "446aea56"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 09).bin",
+			"crc": "f5aa0c8a"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 10).bin",
+			"crc": "4d478ba0"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 11).bin",
+			"crc": "6d692d77"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 12).bin",
+			"crc": "d647e9be"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 13).bin",
+			"crc": "369e5d64"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 15).bin",
+			"crc": "ed215184"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 16).bin",
+			"crc": "ff815cc5"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 17).bin",
+			"crc": "7170cc0d"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 18).bin",
+			"crc": "6ec8a79c"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 19).bin",
+			"crc": "b912a2ba"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 20).bin",
+			"crc": "837a1a2e"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 21).bin",
+			"crc": "0b852228"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 22).bin",
+			"crc": "cc341b95"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 23).bin",
+			"crc": "da0d493f"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 24).bin",
+			"crc": "faaac30a"
+		},
+		{
+			"name": "Earthworm Jim (Japan) (OEM) (Track 27).bin",
+			"crc": "947a7de4"
 		},
 		{
 			"name": "East India Company (USA).iso",
@@ -6845,10 +7065,6 @@
 			"crc": "b2683914"
 		},
 		{
-			"name": "Elder Scrolls IV, The - Oblivion (Poland) (Plyta dodatkowa).bin",
-			"crc": "760ae02c"
-		},
-		{
 			"name": "Electric Jigsaw & ABC's Coloring Book (Scandinavia).bin",
 			"crc": "28c664b6"
 		},
@@ -6891,6 +7107,10 @@
 		{
 			"name": "Electronic Entertainment Expo Special Show (Taiwan).bin",
 			"crc": "920a952b"
+		},
+		{
+			"name": "Els Amics de Noemi i el Pilot (Spain).bin",
+			"crc": "72ca7146"
 		},
 		{
 			"name": "Elvis Presley (Brazil) (Track 1).bin",
@@ -7877,10 +8097,6 @@
 			"crc": "4ea7a4a7"
 		},
 		{
-			"name": "Fairy Bloom Freesia (Japan) (Trial C76).bin",
-			"crc": "e052afa1"
-		},
-		{
 			"name": "Fairy Tale About Father Frost, Ivan and Nastya (Turkey).iso",
 			"crc": "bcac923b"
 		},
@@ -8073,8 +8289,16 @@
 			"crc": "89a12bdc"
 		},
 		{
+			"name": "Fata Morgana no Yakata (Japan) (Alt).iso",
+			"crc": "69435609"
+		},
+		{
 			"name": "Fata Morgana no Yakata (Japan).iso",
 			"crc": "35cdcdf8"
+		},
+		{
+			"name": "Fata Morgana no Yakata - Another Episodes (Japan).bin",
+			"crc": "e738d820"
 		},
 		{
 			"name": "Fate, The (Korea).bin",
@@ -8245,10 +8469,6 @@
 			"crc": "06318f5c"
 		},
 		{
-			"name": "Final Apocalypse (Japan) (C82 Kari).bin",
-			"crc": "32781bf9"
-		},
-		{
 			"name": "Final Fantasy VII (Taiwan) (Install Disc).bin",
 			"crc": "c6a435a2"
 		},
@@ -8381,14 +8601,6 @@
 			"crc": "42445a52"
 		},
 		{
-			"name": "Flight Sim World (Australia) (Disc 1).iso",
-			"crc": "98a8fb8d"
-		},
-		{
-			"name": "Flight Sim World (Australia) (Disc 3).iso",
-			"crc": "67005487"
-		},
-		{
 			"name": "Flight of the Intruder (Europe).bin",
 			"crc": "40168171"
 		},
@@ -8397,8 +8609,108 @@
 			"crc": "f1445145"
 		},
 		{
-			"name": "Foer oss som aelskar haestar (Sweden) (3a).bin",
-			"crc": "f4de056f"
+			"name": "Folksong (Japan) (Track 01).bin",
+			"crc": "693f8410"
+		},
+		{
+			"name": "Folksong (Japan) (Track 02).bin",
+			"crc": "fda2a663"
+		},
+		{
+			"name": "Folksong (Japan) (Track 03).bin",
+			"crc": "406deb48"
+		},
+		{
+			"name": "Folksong (Japan) (Track 04).bin",
+			"crc": "edb84df0"
+		},
+		{
+			"name": "Folksong (Japan) (Track 05).bin",
+			"crc": "60a2c28a"
+		},
+		{
+			"name": "Folksong (Japan) (Track 06).bin",
+			"crc": "17a49f62"
+		},
+		{
+			"name": "Folksong (Japan) (Track 07).bin",
+			"crc": "c8265409"
+		},
+		{
+			"name": "Folksong (Japan) (Track 08).bin",
+			"crc": "c8115988"
+		},
+		{
+			"name": "Folksong (Japan) (Track 09).bin",
+			"crc": "f8a8591b"
+		},
+		{
+			"name": "Folksong (Japan) (Track 10).bin",
+			"crc": "451910f8"
+		},
+		{
+			"name": "Folksong (Japan) (Track 11).bin",
+			"crc": "43213c28"
+		},
+		{
+			"name": "Folksong (Japan) (Track 12).bin",
+			"crc": "af158a50"
+		},
+		{
+			"name": "Folksong (Japan) (Track 13).bin",
+			"crc": "a4bc4a99"
+		},
+		{
+			"name": "Folksong (Japan) (Track 14).bin",
+			"crc": "b1bf2371"
+		},
+		{
+			"name": "Folksong (Japan) (Track 15).bin",
+			"crc": "26d91ad3"
+		},
+		{
+			"name": "Folksong (Japan) (Track 16).bin",
+			"crc": "bc2c1c10"
+		},
+		{
+			"name": "Folksong (Japan) (Track 17).bin",
+			"crc": "8329ec63"
+		},
+		{
+			"name": "Folksong (Japan) (Track 18).bin",
+			"crc": "4283e2e3"
+		},
+		{
+			"name": "Folksong (Japan) (Track 19).bin",
+			"crc": "01e56360"
+		},
+		{
+			"name": "Folksong (Japan) (Track 20).bin",
+			"crc": "cf1354e8"
+		},
+		{
+			"name": "Folksong (Japan) (Track 21).bin",
+			"crc": "88df90f1"
+		},
+		{
+			"name": "Folksong (Japan) (Track 22).bin",
+			"crc": "4b95e15d"
+		},
+		{
+			"name": "Folksong (Japan) (Track 23).bin",
+			"crc": "4d953618"
+		},
+		{
+			"name": "Folksong (Japan) (Track 24).bin",
+			"crc": "f697db24"
+		},
+		{
+			"name": "Folksong (Japan) (Track 25).bin",
+			"crc": "09d66940"
+		},
+		{
+			"name": "Folksong (Japan) (Track 26).bin",
+			"crc": "8d773fe1"
 		},
 		{
 			"name": "Fong Yung dton Seuk Jaao Saatdtraa (Thailand) (Disc 1).bin",
@@ -8961,12 +9273,20 @@
 			"crc": "41a2c0ae"
 		},
 		{
+			"name": "GalZoo Island (Japan) (Rerelease).iso",
+			"crc": "8a3dc356"
+		},
+		{
 			"name": "Galamoss (Japan).bin",
 			"crc": "af03df8f"
 		},
 		{
 			"name": "Galamoss Arrangement (Japan).bin",
 			"crc": "fa7021d6"
+		},
+		{
+			"name": "Galaxy of Games - Gold Edition (Germany).bin",
+			"crc": "3453f9fa"
 		},
 		{
 			"name": "Galdregon's Domain & Blade Warrior (Scandinavia).bin",
@@ -8987,18 +9307,6 @@
 		{
 			"name": "Game Ransel Guardies (Japan).bin",
 			"crc": "b9221336"
-		},
-		{
-			"name": "Game Series 10, The - Cool Darts (Japan).bin",
-			"crc": "3d4d9c04"
-		},
-		{
-			"name": "Game Series 11, The - Billiards 9 Ball (Japan) (Rev 1).bin",
-			"crc": "22fbbae7"
-		},
-		{
-			"name": "Game Series 22, The - World League Soccer (Japan) (Rev 1).bin",
-			"crc": "99c49e50"
 		},
 		{
 			"name": "Game Series 39, The - Hopmon (Japan).bin",
@@ -9221,10 +9529,6 @@
 			"crc": "82b9083e"
 		},
 		{
-			"name": "Gekichin! (Japan).bin",
-			"crc": "ec77fae4"
-		},
-		{
 			"name": "Gekkou (Japan) (Track 01).bin",
 			"crc": "fc98214b"
 		},
@@ -9245,12 +9549,8 @@
 			"crc": "a39e3733"
 		},
 		{
-			"name": "Gensou Skydrift (Japan) (C87 Trial Disc).bin",
-			"crc": "2234bc7c"
-		},
-		{
-			"name": "Gensou Skydrift (Japan) (Trial Version).bin",
-			"crc": "3756ac3d"
+			"name": "Gensou Skydrift (Japan).iso",
+			"crc": "67e1b370"
 		},
 		{
 			"name": "German Classics GP & Cart Mania (Lithuania).bin",
@@ -9315,6 +9615,10 @@
 		{
 			"name": "Gladiators, The - Galactic Circus Games (Poland) (Disc 2).bin",
 			"crc": "da7c6f50"
+		},
+		{
+			"name": "Global Operations (Germany) (En,Fr,De).bin",
+			"crc": "6554f85d"
 		},
 		{
 			"name": "Gloria (USA).bin",
@@ -9393,6 +9697,10 @@
 			"crc": "f49940bf"
 		},
 		{
+			"name": "Goofy Go-Karts (Europe).bin",
+			"crc": "2c5f0b5b"
+		},
+		{
 			"name": "Gooka - Tajemnica Janatris (Poland).bin",
 			"crc": "f8f09b7a"
 		},
@@ -9451,10 +9759,6 @@
 		{
 			"name": "Grand Prix Circuit (Europe).bin",
 			"crc": "df1d1c47"
-		},
-		{
-			"name": "Grand Prix Legends (Germany) (Alt).bin",
-			"crc": "cd8a11c2"
 		},
 		{
 			"name": "Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It) (Xplosiv).bin",
@@ -10349,6 +10653,18 @@
 			"crc": "71a8a8a3"
 		},
 		{
+			"name": "Hammer & Sickle - Czerwony Sztorm (Poland) (Disc 1).bin",
+			"crc": "695fdac0"
+		},
+		{
+			"name": "Hammer & Sickle - Czerwony Sztorm (Poland) (Disc 2).bin",
+			"crc": "083c75b2"
+		},
+		{
+			"name": "Hammer & Sickle - Czerwony Sztorm (Poland) (Disc 3).bin",
+			"crc": "c88e538e"
+		},
+		{
 			"name": "Hard Truck - Apocalypse (Turkey).bin",
 			"crc": "71642725"
 		},
@@ -10633,6 +10949,10 @@
 			"crc": "f67a1211"
 		},
 		{
+			"name": "Heretic (USA) (Rev 1).bin",
+			"crc": "eec482e8"
+		},
+		{
 			"name": "Heretic II (Taiwan) (Track 01).bin",
 			"crc": "2deffcda"
 		},
@@ -10757,8 +11077,8 @@
 			"crc": "302228d6"
 		},
 		{
-			"name": "Hinata no Oka - Be Loved My Best Half (Japan).bin",
-			"crc": "841fda05"
+			"name": "Hitman - Codename 47 (Canada) (En,Fr,De,Es,It).bin",
+			"crc": "63b2d8bd"
 		},
 		{
 			"name": "Hitman - Contracts (Netherlands) (Disc 1) (Rerelease).bin",
@@ -10847,6 +11167,10 @@
 		{
 			"name": "Homeworld (France).bin",
 			"crc": "bb26f876"
+		},
+		{
+			"name": "Homeworld (UK) (Sold Out Software).bin",
+			"crc": "4b7b3fe8"
 		},
 		{
 			"name": "Homeworld - Cataclysm (France) (Rerelease).bin",
@@ -10945,40 +11269,16 @@
 			"crc": "9513d3de"
 		},
 		{
-			"name": "Hoshi no Oujo - Hikari no Tsubasa - 18-kin Tsuika Disc (Japan).bin",
-			"crc": "75911f0d"
-		},
-		{
-			"name": "Hoshi no Oujo Series - Hoshi no Yakusoku - 18-kin Taiou-ban (Japan) (Track 1).bin",
-			"crc": "ca5cdadb"
-		},
-		{
-			"name": "Hoshi no Oujo Series - Hoshi no Yakusoku - 18-kin Taiou-ban (Japan) (Track 2).bin",
-			"crc": "da8aa52e"
-		},
-		{
-			"name": "Hoshi no Oujo Series - Hoshi no Yakusoku - 18-kin Taiou-ban (Japan) (Track 3).bin",
-			"crc": "60299c65"
-		},
-		{
-			"name": "Hoshi no Oujo Series - Hoshi no Yakusoku - 18-kin Taiou-ban (Japan) (Track 4).bin",
-			"crc": "998a9673"
-		},
-		{
-			"name": "Hoshi no Oujo Series - Hoshi no Yakusoku - 18-kin Taiou-ban (Japan) (Track 5).bin",
-			"crc": "3d03ad9b"
-		},
-		{
-			"name": "Hoshi no Oujo Series - Hoshi no Yakusoku - 18-kin Taiou-ban (Japan) (Track 6).bin",
-			"crc": "d92ed707"
-		},
-		{
-			"name": "Hoshi no Oujo Series - Hoshi no Yakusoku - 18-kin Taiou-ban (Japan) (Track 7).bin",
-			"crc": "bf57c890"
+			"name": "Hospital Tycoon (Australia).bin",
+			"crc": "f9fdc081"
 		},
 		{
 			"name": "Hot CD-ROM Game Sampler! (USA).bin",
 			"crc": "93a78602"
+		},
+		{
+			"name": "Hot Wheels - Beat That! (USA).iso",
+			"crc": "573d2e79"
 		},
 		{
 			"name": "House of the Dead III, The (Hungary) (En,Fr,Es,It).bin",
@@ -11521,10 +11821,6 @@
 			"crc": "d9c24840"
 		},
 		{
-			"name": "Igo 3 (Japan).bin",
-			"crc": "f3ee4902"
-		},
-		{
 			"name": "Igralica - 4 Interaktivne Igre (Serbia).bin",
 			"crc": "2c7cb485"
 		},
@@ -11625,6 +11921,106 @@
 			"crc": "eef15a2e"
 		},
 		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 01).bin",
+			"crc": "c2f7261f"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 02).bin",
+			"crc": "25183315"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 03).bin",
+			"crc": "9d1be1ba"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 04).bin",
+			"crc": "dbff3bd7"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 05).bin",
+			"crc": "78c08476"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 06).bin",
+			"crc": "f0fa9900"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 07).bin",
+			"crc": "0666f842"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 08).bin",
+			"crc": "80bcecb4"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 09).bin",
+			"crc": "78dbf867"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 10).bin",
+			"crc": "f9707c34"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 11).bin",
+			"crc": "0b8e256a"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 12).bin",
+			"crc": "c6590ba9"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 13).bin",
+			"crc": "2215e8be"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 14).bin",
+			"crc": "29dab4fb"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 15).bin",
+			"crc": "ad81bee9"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 16).bin",
+			"crc": "7382dd60"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 17).bin",
+			"crc": "e0719308"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 18).bin",
+			"crc": "99ad28bd"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 19).bin",
+			"crc": "e50c144c"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 20).bin",
+			"crc": "197ca67a"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 21).bin",
+			"crc": "5c336501"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 22).bin",
+			"crc": "2abc7d8a"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 23).bin",
+			"crc": "2040047c"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 24).bin",
+			"crc": "000f94c7"
+		},
+		{
+			"name": "Incredible Toon Machine, The (USA) (Alt) (Track 25).bin",
+			"crc": "b61c7a07"
+		},
+		{
 			"name": "Inda 3 - H na Type Renshuu Soft (Japan).bin",
 			"crc": "b90355fe"
 		},
@@ -11639,6 +12035,10 @@
 		{
 			"name": "Initial D - Takahashi Ryousuke no Typing Saisoku Riron (Japan).bin",
 			"crc": "83921c6b"
+		},
+		{
+			"name": "Innercity Burnout (Germany).bin",
+			"crc": "777c6a1f"
 		},
 		{
 			"name": "Insane Speedway 2 (Poland) (Track 1).bin",
@@ -11693,6 +12093,50 @@
 			"crc": "20e02898"
 		},
 		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 01).bin",
+			"crc": "88de0c38"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 02).bin",
+			"crc": "28e50bca"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 03).bin",
+			"crc": "e01e74fe"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 04).bin",
+			"crc": "c7c7e5b8"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 05).bin",
+			"crc": "4018d75f"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 06).bin",
+			"crc": "6f6e8f01"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 07).bin",
+			"crc": "b135fda0"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 08).bin",
+			"crc": "14da7a00"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 09).bin",
+			"crc": "5c253e0e"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 10).bin",
+			"crc": "1cf61386"
+		},
+		{
+			"name": "Interstate '82 (Germany) (Covermount) (Track 11).bin",
+			"crc": "50812e7c"
+		},
+		{
 			"name": "Introductory Games in German (USA).bin",
 			"crc": "db57a370"
 		},
@@ -11735,6 +12179,10 @@
 		{
 			"name": "Istoriya Ukrayiny 1 (Ukraine).bin",
 			"crc": "3d746557"
+		},
+		{
+			"name": "Italian Job, The (UK).bin",
+			"crc": "ebbd0e7d"
 		},
 		{
 			"name": "Itami no Umi (Japan).bin",
@@ -11905,10 +12353,6 @@
 			"crc": "0ead259d"
 		},
 		{
-			"name": "Janpuu 4 (Japan).bin",
-			"crc": "be70f2c4"
-		},
-		{
 			"name": "Janryuukan Monogatari (Japan).bin",
 			"crc": "d8d210d7"
 		},
@@ -12055,10 +12499,6 @@
 		{
 			"name": "Jewels and Marbles Quest (Germany).bin",
 			"crc": "7c7dfbfc"
-		},
-		{
-			"name": "Jewels of Cleopatra (USA).bin",
-			"crc": "a1b8cc19"
 		},
 		{
 			"name": "Jewish IQ Basketball (USA).bin",
@@ -12265,10 +12705,6 @@
 			"crc": "cf6ef0f1"
 		},
 		{
-			"name": "K Charactors CD-ROM - Mahou Sensei Negima! Fun Disc - Mahorasai (Japan).bin",
-			"crc": "3f9479ae"
-		},
-		{
 			"name": "K. Hawk - Survival Instinct (Japan).bin",
 			"crc": "7d4b4f18"
 		},
@@ -12377,10 +12813,6 @@
 			"crc": "c5505812"
 		},
 		{
-			"name": "Kalle Kunskap - Ettan (Sweden) (Rerelease) (2002-11-27).bin",
-			"crc": "feac944a"
-		},
-		{
 			"name": "Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden).bin",
 			"crc": "025f63b3"
 		},
@@ -12483,10 +12915,6 @@
 		{
 			"name": "Kelyje-II (Lithuania).bin",
 			"crc": "d0464f21"
-		},
-		{
-			"name": "Kettou Danmaku (Japan) (Taikenban) (Alt).bin",
-			"crc": "023a1cfa"
 		},
 		{
 			"name": "Kharoumenes Ores (Greece).bin",
@@ -13149,6 +13577,10 @@
 			"crc": "a84b5f74"
 		},
 		{
+			"name": "LEGO Island (Poland) (Rerelease).bin",
+			"crc": "89967e4f"
+		},
+		{
 			"name": "LEGO Island (USA) (Rerelease) (2000-09-04).bin",
 			"crc": "d5081667"
 		},
@@ -13173,8 +13605,8 @@
 			"crc": "2d29a81d"
 		},
 		{
-			"name": "LEGO Racers (UK) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rerelease) (2001-05-12).bin",
-			"crc": "4b68f7b6"
+			"name": "LEGO Racers (Poland) (Rerelease).bin",
+			"crc": "67ce3a44"
 		},
 		{
 			"name": "LEGO Racers (USA).bin",
@@ -13299,6 +13731,26 @@
 		{
 			"name": "Leadtek Games Gallery (Europe).bin",
 			"crc": "5b39053e"
+		},
+		{
+			"name": "Leaf Amusement CD-ROM Saorin to Issho!! (Japan) (Track 01).bin",
+			"crc": "401e5724"
+		},
+		{
+			"name": "Leaf Amusement CD-ROM Saorin to Issho!! (Japan) (Track 02).bin",
+			"crc": "844787ca"
+		},
+		{
+			"name": "Leaf Amusement CD-ROM Saorin to Issho!! (Japan) (Track 04).bin",
+			"crc": "dfb3dec0"
+		},
+		{
+			"name": "Leaf Amusement CD-ROM Saorin to Issho!! (Japan) (Track 09).bin",
+			"crc": "89e08c7c"
+		},
+		{
+			"name": "Leaf Amusement CD-ROM Saorin to Issho!! (Japan) (Track 21).bin",
+			"crc": "7db2247f"
 		},
 		{
 			"name": "League of Legends (Turkey) (Rev 1).iso",
@@ -13745,8 +14197,16 @@
 			"crc": "e139e0f4"
 		},
 		{
+			"name": "Lock On - Air Combat Simulation (Europe) (Rerelease) (2004-07-30) (Alt).bin",
+			"crc": "c2db6938"
+		},
+		{
 			"name": "Lock On - Air Combat Simulation (Europe) (Rerelease) (Alt).bin",
 			"crc": "857eaee8"
+		},
+		{
+			"name": "Lock On - Air Combat Simulation (Poland) (Disc 1).bin",
+			"crc": "e7c7f77e"
 		},
 		{
 			"name": "Lock On - Air Combat Simulation (Poland) (Disc 2).bin",
@@ -14005,6 +14465,14 @@
 			"crc": "557701f5"
 		},
 		{
+			"name": "Lost Mind of Dr. Brain, The (USA) (Track 1).bin",
+			"crc": "9da293f0"
+		},
+		{
+			"name": "Lost Mind of Dr. Brain, The (USA) (Track 2).bin",
+			"crc": "b5209718"
+		},
+		{
 			"name": "Lost Planet - Extreme Condition (Europe) (Bonus CD).bin",
 			"crc": "e6766789"
 		},
@@ -14033,10 +14501,6 @@
 			"crc": "a6bc718b"
 		},
 		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 03).bin",
-			"crc": "6b9800f3"
-		},
-		{
 			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 04).bin",
 			"crc": "a590a4e6"
 		},
@@ -14049,20 +14513,8 @@
 			"crc": "ea5c5001"
 		},
 		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 07).bin",
-			"crc": "55950452"
-		},
-		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 08).bin",
-			"crc": "f61e3f49"
-		},
-		{
 			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 09).bin",
 			"crc": "7ac5cd74"
-		},
-		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 10).bin",
-			"crc": "11280a51"
 		},
 		{
 			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 11).bin",
@@ -14077,36 +14529,8 @@
 			"crc": "5e9c3fc0"
 		},
 		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 14).bin",
-			"crc": "9eaf8a7a"
-		},
-		{
 			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 15).bin",
 			"crc": "ec27516f"
-		},
-		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 16).bin",
-			"crc": "8bdf8a5a"
-		},
-		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 17).bin",
-			"crc": "691b7d61"
-		},
-		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 18).bin",
-			"crc": "5021503a"
-		},
-		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 19).bin",
-			"crc": "6746258f"
-		},
-		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 20).bin",
-			"crc": "9580f04d"
-		},
-		{
-			"name": "Lunatic Dawn III - Standard (Japan) (Game Disc) (Track 21).bin",
-			"crc": "df9b7deb"
 		},
 		{
 			"name": "Lunatic Dawn III - Standard (Japan) (Install Disc).bin",
@@ -14115,6 +14539,10 @@
 		{
 			"name": "Lure of the Temptress (Netherlands) (Hit Squad).bin",
 			"crc": "d23aa086"
+		},
+		{
+			"name": "MDK (Argentina) (En,Fr,Es).bin",
+			"crc": "1b7a6505"
 		},
 		{
 			"name": "MDK (China) (En,De).bin",
@@ -14215,22 +14643,6 @@
 		{
 			"name": "Magic Carpet (Europe) (En,Fr,De,It) (OEM).bin",
 			"crc": "038cdcfe"
-		},
-		{
-			"name": "Magic of Mirage, The (USA) (Track 1).bin",
-			"crc": "aa3339ac"
-		},
-		{
-			"name": "Magic of Mirage, The (USA) (Track 2).bin",
-			"crc": "ed813cfc"
-		},
-		{
-			"name": "Magic of Mirage, The (USA) (Track 3).bin",
-			"crc": "558c6086"
-		},
-		{
-			"name": "Magic of Mirage, The (USA) (Track 4).bin",
-			"crc": "f93c463b"
 		},
 		{
 			"name": "Magical Amber - Tobi Tsukihime (Japan).bin",
@@ -14725,6 +15137,10 @@
 			"crc": "6564d979"
 		},
 		{
+			"name": "Max Game 3-06 (Czech).bin",
+			"crc": "3996f7b8"
+		},
+		{
 			"name": "Max Kids Extra 1-2004 (Poland).bin",
 			"crc": "47290578"
 		},
@@ -14863,6 +15279,10 @@
 		{
 			"name": "Medieval II - Total War - Kingdoms Expansion Pack (Europe) (En,Fr,De,Es,It).iso",
 			"crc": "774579ef"
+		},
+		{
+			"name": "Medieval Lords - Buduj, Bron, Zdobywaj (Poland).bin",
+			"crc": "3561795d"
 		},
 		{
 			"name": "Medieval Lords - Build, Defend, Expand (Japan).bin",
@@ -15457,12 +15877,24 @@
 			"crc": "9118ee8d"
 		},
 		{
+			"name": "Microsoft Combat Flight Simulator - WWII Europe Series (Poland).bin",
+			"crc": "65c916e4"
+		},
+		{
 			"name": "Microsoft Combat Flight Simulator 2 - WWII Pacific Theater (Poland) (Disc 3) (Patch PL).bin",
 			"crc": "834a5e76"
 		},
 		{
+			"name": "Microsoft Combat Flight Simulator 3 - Battle for Europe (USA) (Disc 1).bin",
+			"crc": "d2d9ac06"
+		},
+		{
 			"name": "Microsoft Flight Simulator 2000 (France) (Disc 1).bin",
 			"crc": "2e49431e"
+		},
+		{
+			"name": "Microsoft Flight Simulator 2002 (Poland) (Disc 1).bin",
+			"crc": "86b39ea0"
 		},
 		{
 			"name": "Microsoft Flight Simulator 2002 (Poland) (Disc 4) (Patch PL).bin",
@@ -16489,28 +16921,44 @@
 			"crc": "8d86337c"
 		},
 		{
-			"name": "Motto! Fushigi no Gensoukyou Plus - The Dungeon of Dream and Magic (Japan) (Track 1).bin",
-			"crc": "db4c005e"
+			"name": "Motocross Mania (Poland) (Track 02).bin",
+			"crc": "e71d39a6"
 		},
 		{
-			"name": "Motto! Fushigi no Gensoukyou Plus - The Dungeon of Dream and Magic (Japan) (Track 2).bin",
-			"crc": "6c02ab71"
+			"name": "Motocross Mania (Poland) (Track 03).bin",
+			"crc": "da750888"
 		},
 		{
-			"name": "Motto! Fushigi no Gensoukyou Plus - The Dungeon of Dream and Magic (Japan) (Track 3).bin",
-			"crc": "ebbda239"
+			"name": "Motocross Mania (Poland) (Track 04).bin",
+			"crc": "80d9fcd3"
 		},
 		{
-			"name": "Motto! Fushigi no Gensoukyou Plus - The Dungeon of Dream and Magic (Japan) (Track 4).bin",
-			"crc": "bbae461b"
+			"name": "Motocross Mania (Poland) (Track 05).bin",
+			"crc": "e9216fd9"
 		},
 		{
-			"name": "Motto! Fushigi no Gensoukyou Plus - The Dungeon of Dream and Magic (Japan) (Track 5).bin",
-			"crc": "8e952d63"
+			"name": "Motocross Mania (Poland) (Track 06).bin",
+			"crc": "6bbd21bf"
 		},
 		{
-			"name": "Motto! Fushigi no Gensoukyou Plus - The Dungeon of Dream and Magic (Japan) (Track 6).bin",
-			"crc": "830337fb"
+			"name": "Motocross Mania (Poland) (Track 07).bin",
+			"crc": "7840a732"
+		},
+		{
+			"name": "Motocross Mania (Poland) (Track 08).bin",
+			"crc": "3a32c39c"
+		},
+		{
+			"name": "Motocross Mania (Poland) (Track 09).bin",
+			"crc": "ea7c46e0"
+		},
+		{
+			"name": "Motocross Mania (Poland) (Track 10).bin",
+			"crc": "0f1f5eae"
+		},
+		{
+			"name": "Motocross Mania (Poland) (Track 11).bin",
+			"crc": "3867baff"
 		},
 		{
 			"name": "Motus (France).bin",
@@ -16545,12 +16993,28 @@
 			"crc": "47eed71f"
 		},
 		{
+			"name": "Mount & Blade Collection (USA).bin",
+			"crc": "d2f454ef"
+		},
+		{
 			"name": "Mouse Trophy (Poland).bin",
 			"crc": "df2a1d6a"
 		},
 		{
 			"name": "Mozgalice (Serbia).bin",
 			"crc": "bfb5ffad"
+		},
+		{
+			"name": "Mr. Bump Presents - Mad Run (Europe) (En,Fr).bin",
+			"crc": "f99aba80"
+		},
+		{
+			"name": "Mr. Funny Presents - Challenge (Europe) (En,Fr).bin",
+			"crc": "eec6422b"
+		},
+		{
+			"name": "Mr. Noisy Presents - Balloon War (Europe) (En,Fr).bin",
+			"crc": "501c7b32"
 		},
 		{
 			"name": "Mroczne Wieki (Poland).bin",
@@ -16619,10 +17083,6 @@
 		{
 			"name": "My Alphabet Tutor (New Zealand).bin",
 			"crc": "73a236a6"
-		},
-		{
-			"name": "My Animal Hospital - Pets (Sweden) (Sv,No,Da).bin",
-			"crc": "86913935"
 		},
 		{
 			"name": "My Farm Life (Turkey).bin",
@@ -16697,8 +17157,16 @@
 			"crc": "e6364dc2"
 		},
 		{
+			"name": "Myth II - Duszozerca (Poland).bin",
+			"crc": "94775eef"
+		},
+		{
 			"name": "Myth III - Era Wilka (Poland).bin",
 			"crc": "50de3d30"
+		},
+		{
+			"name": "NASCAR Racing (Poland).bin",
+			"crc": "6bd7365e"
 		},
 		{
 			"name": "NASCAR Racing (USA) (Rerelease) (1995-07-18) (Track 1).bin",
@@ -16723,6 +17191,10 @@
 		{
 			"name": "NASCAR Racing (USA) (Track 3).bin",
 			"crc": "e6918599"
+		},
+		{
+			"name": "NASCAR Racing 2 (Poland).bin",
+			"crc": "ac3c736c"
 		},
 		{
 			"name": "NASCAR Racing 3 (Brazil).bin",
@@ -16783,6 +17255,10 @@
 		{
 			"name": "Napoleon - Total War (Europe) (Disc 2) (Rerelease).iso",
 			"crc": "05dbac63"
+		},
+		{
+			"name": "Narodziny Ameryki (Poland).bin",
+			"crc": "4657b0b6"
 		},
 		{
 			"name": "Narsillion (Japan) (Install 1).bin",
@@ -16917,12 +17393,32 @@
 			"crc": "4419fcfc"
 		},
 		{
+			"name": "Need for Speed - Underground (Asia) (Disc 1).bin",
+			"crc": "662d371a"
+		},
+		{
+			"name": "Need for Speed - Underground (Asia) (Disc 2).bin",
+			"crc": "7ab74891"
+		},
+		{
 			"name": "Need for Speed - Underground (China) (Disc 2) (EA Classics).bin",
 			"crc": "a7ea2e42"
 		},
 		{
 			"name": "Need for Speed - Underground (China) (Disc 2).bin",
 			"crc": "f1441084"
+		},
+		{
+			"name": "Need for Speed - Underground (Denmark) (Disc 1).bin",
+			"crc": "1fd6464b"
+		},
+		{
+			"name": "Need for Speed - Underground (Denmark) (Disc 2).bin",
+			"crc": "2b6b3d0f"
+		},
+		{
+			"name": "Need for Speed - Underground (Europe) (Disc 2) (Alt).bin",
+			"crc": "489ebcd2"
 		},
 		{
 			"name": "Need for Speed - Underground (France) (Disc 1).bin",
@@ -16933,8 +17429,16 @@
 			"crc": "26d04865"
 		},
 		{
-			"name": "Need for Speed - Underground (Italy) (Disc 1).bin",
-			"crc": "b4b92dfe"
+			"name": "Need for Speed - Underground (Germany) (Disc 2) (Alt).bin",
+			"crc": "ed065966"
+		},
+		{
+			"name": "Need for Speed - Underground (Germany) (Disc 2) (Rerelease).bin",
+			"crc": "8fad056c"
+		},
+		{
+			"name": "Need for Speed - Underground (India) (Disc 2).bin",
+			"crc": "9587aa73"
 		},
 		{
 			"name": "Need for Speed - Underground (Italy) (Disc 2).bin",
@@ -16947,6 +17451,18 @@
 		{
 			"name": "Need for Speed - Underground (Japan) (Disc 2).bin",
 			"crc": "d66c7500"
+		},
+		{
+			"name": "Need for Speed - Underground (Korea) (Disc 1).bin",
+			"crc": "1b5d407b"
+		},
+		{
+			"name": "Need for Speed - Underground (Korea) (Disc 2).bin",
+			"crc": "af0b3cd1"
+		},
+		{
+			"name": "Need for Speed - Underground (Norway) (Disc 2).bin",
+			"crc": "0804bb12"
 		},
 		{
 			"name": "Need for Speed - Underground (Portugal) (Disc 1).bin",
@@ -16965,6 +17481,14 @@
 			"crc": "7698f9dd"
 		},
 		{
+			"name": "Need for Speed - Underground (Sweden) (Disc 1).bin",
+			"crc": "415ae9d5"
+		},
+		{
+			"name": "Need for Speed - Underground (Sweden) (Disc 2).bin",
+			"crc": "61a9470e"
+		},
+		{
 			"name": "Need for Speed - Underground 2 (India) (Disc 1).bin",
 			"crc": "c927ca4e"
 		},
@@ -16975,6 +17499,14 @@
 		{
 			"name": "Need for Speed III - Hot Pursuit (China) (En,Es).bin",
 			"crc": "6aabeb72"
+		},
+		{
+			"name": "Need for Speed III - Hot Pursuit (USA) (En,Es) (Rev 1) (Alt).bin",
+			"crc": "dc77597d"
+		},
+		{
+			"name": "Neighbors from Hell (USA).bin",
+			"crc": "1853cd50"
 		},
 		{
 			"name": "Neighbours from Hell (Hungary).bin",
@@ -17081,6 +17613,18 @@
 			"crc": "f8a9a9bf"
 		},
 		{
+			"name": "Neverwinter Nights (Poland) (Disc 1).bin",
+			"crc": "8fb02af0"
+		},
+		{
+			"name": "Neverwinter Nights (Poland) (Disc 2).bin",
+			"crc": "62554836"
+		},
+		{
+			"name": "Neverwinter Nights (Poland) (Disc 3) (Play).bin",
+			"crc": "2d38ee19"
+		},
+		{
 			"name": "Neverwinter Nights - Bonus CD (Poland).bin",
 			"crc": "7db6be57"
 		},
@@ -17097,6 +17641,22 @@
 			"crc": "dabd047d"
 		},
 		{
+			"name": "Neverwinter Nights - Platinum (USA) (Disc 1) (Play & Install).bin",
+			"crc": "c36814b5"
+		},
+		{
+			"name": "Neverwinter Nights - Platinum (USA) (Disc 2).bin",
+			"crc": "04d0054e"
+		},
+		{
+			"name": "Neverwinter Nights - Platinum (USA) (Disc 3).bin",
+			"crc": "f9236042"
+		},
+		{
+			"name": "Neverwinter Nights - Platinum (USA) (Disc 4).bin",
+			"crc": "46848c16"
+		},
+		{
 			"name": "Neverwinter Nights - Shadows of Undrentide & Hordes of the Underdark (Poland).iso",
 			"crc": "85d96a5e"
 		},
@@ -17107,6 +17667,18 @@
 		{
 			"name": "Nexon Fun Pack (Singapore).bin",
 			"crc": "7ea05472"
+		},
+		{
+			"name": "Nickelodeon Rugrats - All Growed-Up (Australia).bin",
+			"crc": "51258892"
+		},
+		{
+			"name": "Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (Rerelease) (2008-08-07).bin",
+			"crc": "5970e885"
+		},
+		{
+			"name": "Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab - Nighty Nightmare (Europe).bin",
+			"crc": "dd3b236a"
 		},
 		{
 			"name": "Nihonshi Time Machine (Japan).bin",
@@ -17197,14 +17769,6 @@
 			"crc": "9882c084"
 		},
 		{
-			"name": "Nippon Tetsudou Scenery Series 2 - Hokkaido Tetsudou Scenery For Flight Simulator 2002 (Japan).bin",
-			"crc": "47488dbb"
-		},
-		{
-			"name": "Nippon Tetsudou Scenery Series 4 - Kinki Tetsudou Scenery For Flight Simulator 2002 (Japan).bin",
-			"crc": "533e52ba"
-		},
-		{
 			"name": "Nitro Family (Japan) (Demo).bin",
 			"crc": "2642f49a"
 		},
@@ -17229,8 +17793,20 @@
 			"crc": "4c568ac7"
 		},
 		{
+			"name": "No One Lives Forever 2 - Szpieg na tropie ugrupowania H.A.R.M (Poland) (Disc 1).bin",
+			"crc": "7afa1984"
+		},
+		{
+			"name": "No One Lives Forever 2 - Szpieg na tropie ugrupowania H.A.R.M (Poland) (Disc 2).bin",
+			"crc": "ef876d56"
+		},
+		{
 			"name": "Nobunaga no Yabou - Tenka Sousei - Power-Up Kit (Japan) (Rerelease).bin",
 			"crc": "acfd17b2"
+		},
+		{
+			"name": "Noemi i el Pilot a L'espai (Spain).bin",
+			"crc": "3a71e5b8"
 		},
 		{
 			"name": "Nogalious (Spain) (En,Fr,De,Es).bin",
@@ -17247,10 +17823,6 @@
 		{
 			"name": "Normality (Europe) (Rerelease).bin",
 			"crc": "a20046a3"
-		},
-		{
-			"name": "Noroi Chan - Kaku mo Sekai wa Mikan de Mawaru (Japan) (Taikenban).bin",
-			"crc": "686d24de"
 		},
 		{
 			"name": "North & South (USA) (En,Fr,De).bin",
@@ -17417,6 +17989,10 @@
 			"crc": "c69d114f"
 		},
 		{
+			"name": "Onsen Ping-Pong (Japan).bin",
+			"crc": "96d58053"
+		},
+		{
 			"name": "Oozora ni Kodawarou! Minna no Kuukou 2 (Japan).bin",
 			"crc": "d8e11117"
 		},
@@ -17445,8 +18021,16 @@
 			"crc": "088f31f2"
 		},
 		{
+			"name": "Operative, The - No One Lives Forever (USA) (Disc 1) (Game of the Year Edition) (Alt).bin",
+			"crc": "b0bdac3c"
+		},
+		{
 			"name": "Opsys (Europe).bin",
 			"crc": "2921ee69"
+		},
+		{
+			"name": "Oregon Trail II (USA) (Rerelease) (1996-09-16) (Alt).bin",
+			"crc": "39b8773a"
 		},
 		{
 			"name": "Orgazumi (Japan) (Disc 1).bin",
@@ -17689,14 +18273,6 @@
 			"crc": "66f8e461"
 		},
 		{
-			"name": "PC foer Alla CD 10-2004 (Sweden).bin",
-			"crc": "af4178ed"
-		},
-		{
-			"name": "PC foer Alla CD 11-2004 (Sweden).bin",
-			"crc": "8845ef54"
-		},
-		{
 			"name": "PES 2009 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It).iso",
 			"crc": "f0961d1e"
 		},
@@ -17789,8 +18365,76 @@
 			"crc": "10b2e312"
 		},
 		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 01).bin",
+			"crc": "41b5a6be"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 02).bin",
+			"crc": "d09e0dfe"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 03).bin",
+			"crc": "e21e48b6"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 04).bin",
+			"crc": "a495c02f"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 05).bin",
+			"crc": "f8b83830"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 06).bin",
+			"crc": "e89eb82d"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 07).bin",
+			"crc": "8b3f54ba"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 08).bin",
+			"crc": "e43f2e6e"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 09).bin",
+			"crc": "51288bee"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 10).bin",
+			"crc": "78d1d12d"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 11).bin",
+			"crc": "65c738ab"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 12).bin",
+			"crc": "6693bf90"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 13).bin",
+			"crc": "b98d3c55"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 14).bin",
+			"crc": "36ca148c"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 15).bin",
+			"crc": "254fadc9"
+		},
+		{
+			"name": "Panzer Dragoon (Poland) (Xplosiv) (Track 16).bin",
+			"crc": "baa53ca0"
+		},
+		{
 			"name": "Panzer General II (Poland).bin",
 			"crc": "3c47e1b8"
+		},
+		{
+			"name": "Panzer General III - Scorched Earth (Poland).bin",
+			"crc": "935ea580"
 		},
 		{
 			"name": "Papludimio Reikalu Magnatas (Lithuania).bin",
@@ -18277,6 +18921,38 @@
 			"crc": "5012e377"
 		},
 		{
+			"name": "Police Quest - SWAT 2 (Poland).bin",
+			"crc": "777966c9"
+		},
+		{
+			"name": "Polis - Det blaa fallet (Sweden).bin",
+			"crc": "663bdc76"
+		},
+		{
+			"name": "Polis - Det gula fallet (Sweden) (Alt).bin",
+			"crc": "2f9f8ea2"
+		},
+		{
+			"name": "Polis - Det gula fallet (Sweden).bin",
+			"crc": "b71ecdc1"
+		},
+		{
+			"name": "Polis - Det roeda fallet (Sweden).bin",
+			"crc": "b22fc620"
+		},
+		{
+			"name": "Polis 3 - Vargspar (Sweden) (Track 1).bin",
+			"crc": "67dd87b9"
+		},
+		{
+			"name": "Polis 3 - Vargspar (Sweden) (Track 3).bin",
+			"crc": "eb52881f"
+		},
+		{
+			"name": "Polis 3 - Vargspar (Sweden) (Track 4).bin",
+			"crc": "ef088523"
+		},
+		{
 			"name": "Polski Wiatr (Poland) (En,De,Pl) (Track 1).bin",
 			"crc": "4ad12ab3"
 		},
@@ -18477,6 +19153,14 @@
 			"crc": "94e92a3a"
 		},
 		{
+			"name": "Prince of Persia - Piaski Czasu (Poland) (Disc 1).bin",
+			"crc": "ebf2f1d3"
+		},
+		{
+			"name": "Prince of Persia - Piaski Czasu (Poland) (Disc 2).bin",
+			"crc": "08b94957"
+		},
+		{
 			"name": "Prince of Persia - Warrior Within (Japan) (Disc 1).bin",
 			"crc": "cea2cf09"
 		},
@@ -18489,12 +19173,16 @@
 			"crc": "6aa9b970"
 		},
 		{
-			"name": "Prince of Persia - Warrior Within - Promotional CD (Europe) (En,Fr,De,Es,It,Nl).bin",
-			"crc": "1297531d"
-		},
-		{
 			"name": "Prince of Persia 3D (Germany) (Disc 1) (Rerelease).bin",
 			"crc": "13383058"
+		},
+		{
+			"name": "Prince of Qin (Poland) (Disc 1).bin",
+			"crc": "4c7f06bb"
+		},
+		{
+			"name": "Prince of Qin (Poland) (Disc 2).bin",
+			"crc": "fd97cd8d"
 		},
 		{
 			"name": "Princess Case, The - A Royal Scoop (Australia).bin",
@@ -19253,6 +19941,114 @@
 			"crc": "32277793"
 		},
 		{
+			"name": "REKKR - Sunken Land (USA) (Track 01).bin",
+			"crc": "9f7ee972"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 02).bin",
+			"crc": "bc3ebb32"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 03).bin",
+			"crc": "8e1c36bc"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 04).bin",
+			"crc": "5ffa1790"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 05).bin",
+			"crc": "4c8e67f9"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 06).bin",
+			"crc": "100e6c3c"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 07).bin",
+			"crc": "2d79b341"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 08).bin",
+			"crc": "6998b504"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 09).bin",
+			"crc": "72e2fa48"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 10).bin",
+			"crc": "4d4c76b6"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 11).bin",
+			"crc": "97ba8213"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 12).bin",
+			"crc": "ed9759b6"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 13).bin",
+			"crc": "68791205"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 14).bin",
+			"crc": "302392c7"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 15).bin",
+			"crc": "f13f739b"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 16).bin",
+			"crc": "94a6478a"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 17).bin",
+			"crc": "7da998ac"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 18).bin",
+			"crc": "9acb7caa"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 19).bin",
+			"crc": "fc279144"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 20).bin",
+			"crc": "dc9d3175"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 21).bin",
+			"crc": "6ac75d8e"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 22).bin",
+			"crc": "ee2f6b3d"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 23).bin",
+			"crc": "0622b3a9"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 24).bin",
+			"crc": "fd00c204"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 25).bin",
+			"crc": "3f89cd0e"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 26).bin",
+			"crc": "80beac22"
+		},
+		{
+			"name": "REKKR - Sunken Land (USA) (Track 27).bin",
+			"crc": "f2502b49"
+		},
+		{
 			"name": "RIP (UK).bin",
 			"crc": "2e829fb4"
 		},
@@ -19769,10 +20565,6 @@
 			"crc": "9728357c"
 		},
 		{
-			"name": "Re - Trial Version (Japan).bin",
-			"crc": "6649e7b8"
-		},
-		{
 			"name": "Reach for the Stars (Thailand).bin",
 			"crc": "6af3f429"
 		},
@@ -19893,10 +20685,6 @@
 			"crc": "2ad222d7"
 		},
 		{
-			"name": "Resident Evil - Operation Raccoon City (Europe) (En,Fr,De,Es,It).iso",
-			"crc": "257fb6f5"
-		},
-		{
 			"name": "Resident Evil 3 - Nemesis (Italy).bin",
 			"crc": "9a61be57"
 		},
@@ -19969,10 +20757,6 @@
 			"crc": "6aa8bff5"
 		},
 		{
-			"name": "Revolver360 (Japan) (C78 Otameshiban).bin",
-			"crc": "5331d76c"
-		},
-		{
 			"name": "Richard Burns Rally (Czech).iso",
 			"crc": "0fcfa5a9"
 		},
@@ -19987,10 +20771,6 @@
 		{
 			"name": "Rinkanjima - Sacrament Guide - Digital Art Collection (Japan) (PC Game Bundle).bin",
 			"crc": "0c09f481"
-		},
-		{
-			"name": "Ripley's Believe It or Not - The Riddle of Master Lu (Europe).bin",
-			"crc": "663db72e"
 		},
 		{
 			"name": "Rise & Fall - Civilizations at War (Europe) (En,Fr,De,Es,It) (Demo).bin",
@@ -20015,6 +20795,10 @@
 		{
 			"name": "Rise of Nations - Zlota Edycja (Poland) (Plyty dodatkowa).bin",
 			"crc": "d80402ed"
+		},
+		{
+			"name": "Rise of Nations - Zlota Edycja (Poland).iso",
+			"crc": "37477e69"
 		},
 		{
 			"name": "Rise of the Argonauts (Hungary).iso",
@@ -20137,6 +20921,10 @@
 			"crc": "27c9307e"
 		},
 		{
+			"name": "Robot Wars - Extreme Destruction (UK).bin",
+			"crc": "a622c51a"
+		},
+		{
 			"name": "Robots (Thailand) (Disc 1).bin",
 			"crc": "e0f965c8"
 		},
@@ -20237,6 +21025,10 @@
 			"crc": "9a9605fc"
 		},
 		{
+			"name": "RollerCoaster Tycoon 2 - Zlota Edycja (Poland).bin",
+			"crc": "e2709a13"
+		},
+		{
 			"name": "RollerCoaster Tycoon 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rerelease) (2005-06-09).bin",
 			"crc": "c99fdd9f"
 		},
@@ -20245,20 +21037,12 @@
 			"crc": "ebe88c50"
 		},
 		{
-			"name": "RollerCoaster Tycoon 3 - Soaked! (USA).bin",
-			"crc": "b34f15de"
-		},
-		{
 			"name": "RollerCoaster World (Europe) (F8E26303).bin",
 			"crc": "f8e26303"
 		},
 		{
 			"name": "RollerCoaster World (Europe).bin",
 			"crc": "ec65cb0c"
-		},
-		{
-			"name": "Rolling Gunner (Japan) (Taikenban).bin",
-			"crc": "0fa6437e"
 		},
 		{
 			"name": "Rolling Marbles (Europe) (Rerelease) (2003-01-06).bin",
@@ -20989,6 +21773,14 @@
 			"crc": "c1478643"
 		},
 		{
+			"name": "Sacred Plus (Poland) (Disc 1).bin",
+			"crc": "dc782ba7"
+		},
+		{
+			"name": "Sacred Plus (Poland) (Disc 2).bin",
+			"crc": "1d4806ef"
+		},
+		{
 			"name": "Sacrifice (USA) (Hewlett Packard OEM).bin",
 			"crc": "d5d91581"
 		},
@@ -21009,32 +21801,12 @@
 			"crc": "9fbe134a"
 		},
 		{
-			"name": "Saint Eyes (Japan) (Track 02).bin",
-			"crc": "e92e40d7"
-		},
-		{
-			"name": "Saint Eyes (Japan) (Track 03).bin",
-			"crc": "d41a84e4"
-		},
-		{
-			"name": "Saint Eyes (Japan) (Track 04).bin",
-			"crc": "e79bde84"
-		},
-		{
 			"name": "Saint Eyes (Japan) (Track 05).bin",
 			"crc": "1f0cdc2d"
 		},
 		{
 			"name": "Saint Eyes (Japan) (Track 06).bin",
 			"crc": "a14f4c8f"
-		},
-		{
-			"name": "Saint Eyes (Japan) (Track 07).bin",
-			"crc": "e90f565d"
-		},
-		{
-			"name": "Saint Eyes (Japan) (Track 08).bin",
-			"crc": "f0860389"
 		},
 		{
 			"name": "Saint Eyes (Japan) (Track 09).bin",
@@ -21053,14 +21825,6 @@
 			"crc": "fc75dee2"
 		},
 		{
-			"name": "Saint Eyes (Japan) (Track 13).bin",
-			"crc": "53b369d1"
-		},
-		{
-			"name": "Saint Eyes (Japan) (Track 14).bin",
-			"crc": "6c88cbe2"
-		},
-		{
 			"name": "Saint Eyes (Japan) (Track 15).bin",
 			"crc": "1aaa1c09"
 		},
@@ -21071,14 +21835,6 @@
 		{
 			"name": "Saint Eyes (Japan) (Track 17).bin",
 			"crc": "067b0b6c"
-		},
-		{
-			"name": "Saint Eyes (Japan) (Track 18).bin",
-			"crc": "840772c2"
-		},
-		{
-			"name": "Saint Eyes (Japan) (Track 19).bin",
-			"crc": "ee1d966c"
 		},
 		{
 			"name": "Saint Eyes (Japan) (Track 20).bin",
@@ -21589,8 +22345,16 @@
 			"crc": "306c9de7"
 		},
 		{
+			"name": "Search and Rescue 4 - Coastal Heroes (Poland).bin",
+			"crc": "334c036b"
+		},
+		{
 			"name": "Secret Files 2 - Puritas Cordis (Spain).iso",
 			"crc": "16e4b5d7"
+		},
+		{
+			"name": "Secrets of the Titanic 1912-2012 (Australia).bin",
+			"crc": "f33525f2"
 		},
 		{
 			"name": "Sega Family Fun Pak (USA) (Track 01).bin",
@@ -21771,10 +22535,6 @@
 		{
 			"name": "Sega Smash Pack (Japan).bin",
 			"crc": "1970eaf7"
-		},
-		{
-			"name": "Sega Smash Pack (USA) (Rerelease).bin",
-			"crc": "885c8019"
 		},
 		{
 			"name": "Seikimatsu Taimaden Tsumugi-chan SOS (Japan) (Track 01).bin",
@@ -22043,6 +22803,10 @@
 		{
 			"name": "Settlers II, The - 10-lecie (Poland).bin",
 			"crc": "cf584d8c"
+		},
+		{
+			"name": "Settlers II, The - 10-lecie (Poland).bin",
+			"crc": "d9d92322"
 		},
 		{
 			"name": "Settlers II, The - Veni, Vidi, Vici (Europe) (v1.51) (Track 8).bin",
@@ -22343,6 +23107,14 @@
 		{
 			"name": "Shikou no Igo - Uro 2 - Kanzenban (Japan).bin",
 			"crc": "abe063fc"
+		},
+		{
+			"name": "Shin Koihime Musou - Kakumei - Souten no Haou (Japan) (Disc 1).iso",
+			"crc": "0a765ec4"
+		},
+		{
+			"name": "Shin Koihime Musou - Kakumei - Souten no Haou (Japan) (Disc 2).iso",
+			"crc": "6cfc7731"
 		},
 		{
 			"name": "Shine Memories (Japan).bin",
@@ -22773,6 +23545,10 @@
 			"crc": "0993bb3c"
 		},
 		{
+			"name": "Sid Meier's Civilization V - The Complete Edition (Europe) (En,Fr).iso",
+			"crc": "ee7340c4"
+		},
+		{
 			"name": "Sid Meier's Classic Collection (Europe) (En,Fr,De).bin",
 			"crc": "6fa242f9"
 		},
@@ -22803,6 +23579,10 @@
 		{
 			"name": "Siedler IV, Die - Gold Edition (Germany) (Disc 2).bin",
 			"crc": "b4126c3a"
+		},
+		{
+			"name": "Siedler, Die - Aufbruch der Kulturen (Germany) (Covermount).iso",
+			"crc": "701c7ff6"
 		},
 		{
 			"name": "Siedler, Die - Aufstieg eines Koenigreichs (Germany).iso",
@@ -22929,6 +23709,14 @@
 			"crc": "19905794"
 		},
 		{
+			"name": "Silent Storm & Sentinels (Poland) (Disc 1) (S^2 - Silent Storm).bin",
+			"crc": "86d103b1"
+		},
+		{
+			"name": "Silent Storm & Sentinels (Poland) (Disc 2) (S^2 - Silent Storm).bin",
+			"crc": "ebb94d2a"
+		},
+		{
 			"name": "Silent Storm & Sentinels (Poland) (Disc 3) (S^3 - Silent Storm - Sentinels).bin",
 			"crc": "57b39ddb"
 		},
@@ -23005,6 +23793,10 @@
 			"crc": "a594a98d"
 		},
 		{
+			"name": "Simon the Sorcerer (Germany) (Rerelease) (1996-03-28).bin",
+			"crc": "11d4f3bf"
+		},
+		{
 			"name": "Simpsons, The - Hit & Run (Germany) (Disc 1).bin",
 			"crc": "1a92b8b3"
 		},
@@ -23059,10 +23851,6 @@
 		{
 			"name": "Sims, The (Korea) (En,Ko).bin",
 			"crc": "46e979d1"
-		},
-		{
-			"name": "Sims, The - Livin' It Up (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Sv).bin",
-			"crc": "3ef66178"
 		},
 		{
 			"name": "Simulation Pro Yakyuu '99 (Japan) (Track 01).bin",
@@ -23861,6 +24649,10 @@
 			"crc": "cba4ba39"
 		},
 		{
+			"name": "Souseiki 1602 - Creation of a New World (Japan).bin",
+			"crc": "72c83ae6"
+		},
+		{
 			"name": "Space Ace CD-ROM (Canada).bin",
 			"crc": "35554c80"
 		},
@@ -23921,16 +24713,16 @@
 			"crc": "02af1da1"
 		},
 		{
+			"name": "Spec Ops - Ranger Assault (Poland) (Rerelease).bin",
+			"crc": "52b64f71"
+		},
+		{
 			"name": "Special Forces (Europe) (Hit Squad - Regenerator).bin",
 			"crc": "b6941c84"
 		},
 		{
 			"name": "Speed Mania (Taiwan).bin",
 			"crc": "6ca0d513"
-		},
-		{
-			"name": "Speedy Eggbert (Europe) (En,Fr,De,Es,It,Pt).bin",
-			"crc": "2c999201"
 		},
 		{
 			"name": "Speedy Eggbert II (Europe).bin",
@@ -23973,8 +24765,16 @@
 			"crc": "fd61a8ab"
 		},
 		{
+			"name": "Spider-Man 2 - Activity Center (USA).bin",
+			"crc": "b7ca8809"
+		},
+		{
 			"name": "Spiel des Lebens (Germany) (Rerelease).bin",
 			"crc": "777558b1"
+		},
+		{
+			"name": "Spielhallen Classics (Germany) (En,Fr,De).bin",
+			"crc": "d6179680"
 		},
 		{
 			"name": "Split Screen Soccer Managers (Scandinavia).bin",
@@ -23985,6 +24785,10 @@
 			"crc": "da9ee9c0"
 		},
 		{
+			"name": "Spore (USA) (Alt 3).iso",
+			"crc": "316dda82"
+		},
+		{
 			"name": "Spore - Creepy & Cute Parts Pack (Europe) (Alt).iso",
 			"crc": "b01e69b5"
 		},
@@ -23993,8 +24797,56 @@
 			"crc": "7b9b9465"
 		},
 		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 02).bin",
+			"crc": "9761f10a"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 03).bin",
+			"crc": "074b5b37"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 04).bin",
+			"crc": "af1d5b4d"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 05).bin",
+			"crc": "ca0bbcae"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 06).bin",
+			"crc": "423aaa35"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 07).bin",
+			"crc": "3856614e"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 08).bin",
+			"crc": "44be19b7"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 09).bin",
+			"crc": "975d33ec"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 10).bin",
+			"crc": "3f21a2c3"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 11).bin",
+			"crc": "c19a04dd"
+		},
+		{
+			"name": "Sports Car GT (USA) (OEM) (Alt) (Track 12).bin",
+			"crc": "8f4e3024"
+		},
+		{
 			"name": "Sports Challenge Pack 2 (India).bin",
 			"crc": "012b180e"
+		},
+		{
+			"name": "Spy Fox in Dry Cereal (Australia) (Rerelease).bin",
+			"crc": "b0bc0c2e"
 		},
 		{
 			"name": "St. Shirobara Gakuen Petit Mahjong - Enami Rina no Maki (Japan) (Track 2).bin",
@@ -24011,6 +24863,14 @@
 		{
 			"name": "Stalingrad (Japan).bin",
 			"crc": "c28dafa3"
+		},
+		{
+			"name": "Stalingrad - Wielkie Bitwy II Wojny Swiatowej (Poland) (Disc 1).bin",
+			"crc": "5e4ece24"
+		},
+		{
+			"name": "Stalingrad - Wielkie Bitwy II Wojny Swiatowej (Poland) (Disc 2).bin",
+			"crc": "dce146d0"
 		},
 		{
 			"name": "Standard 1500 - The Crossword 1 (Japan).bin",
@@ -24269,6 +25129,14 @@
 			"crc": "aa296efd"
 		},
 		{
+			"name": "Star Wars - Jedi Knight - Jedi Academy (Poland) (Disc 1).bin",
+			"crc": "1140f81c"
+		},
+		{
+			"name": "Star Wars - Jedi Knight - Jedi Academy (Poland) (Disc 2).bin",
+			"crc": "019d2b59"
+		},
+		{
 			"name": "Star Wars - Rebellion (Germany).bin",
 			"crc": "280cb710"
 		},
@@ -24441,6 +25309,50 @@
 			"crc": "b5e7a9bc"
 		},
 		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 01).bin",
+			"crc": "4e5af42a"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 02).bin",
+			"crc": "de5ce8a7"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 03).bin",
+			"crc": "5c5e20ad"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 04).bin",
+			"crc": "6ef8bba1"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 05).bin",
+			"crc": "0b011c15"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 06).bin",
+			"crc": "b5cd7acc"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 07).bin",
+			"crc": "8288db7f"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 08).bin",
+			"crc": "83464679"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 09).bin",
+			"crc": "f30d7f65"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 10).bin",
+			"crc": "db106840"
+		},
+		{
+			"name": "Strefa Hip-Hop 3-2005 (Poland) (Track 11).bin",
+			"crc": "d7a4205f"
+		},
+		{
 			"name": "Strike Commander (Poland).bin",
 			"crc": "a6854898"
 		},
@@ -24547,6 +25459,10 @@
 		{
 			"name": "Sui Sui Suicide! (Japan).bin",
 			"crc": "191573c4"
+		},
+		{
+			"name": "Suma Wszystkich Strachow (Poland).bin",
+			"crc": "706292fb"
 		},
 		{
 			"name": "Sunrise Music Typing (Japan).iso",
@@ -24869,8 +25785,8 @@
 			"crc": "75a657f5"
 		},
 		{
-			"name": "TOCA Race Driver (Poland) (Dysk 2) (Plyta Instalacyjna) (Rerelease) (2006-04-06).bin",
-			"crc": "7b9612ac"
+			"name": "TOCA Race Driver 3 (UK).iso",
+			"crc": "c0a78370"
 		},
 		{
 			"name": "TOCA Touring Car Championship (Japan) (En,Fr,De) (Track 1).bin",
@@ -24903,6 +25819,10 @@
 		{
 			"name": "TV Sports Basketball (Europe).bin",
 			"crc": "b79f9600"
+		},
+		{
+			"name": "TWilight INSanity (Japan).bin",
+			"crc": "96bb4cee"
 		},
 		{
 			"name": "Tactical Ops - Wojna z Terrorem (Poland) (Rerelease).bin",
@@ -25055,102 +25975,6 @@
 		{
 			"name": "Takeoff to Europe (India).bin",
 			"crc": "c2aedc6d"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 02).bin",
-			"crc": "5453efbf"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 03).bin",
-			"crc": "23919bd9"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 04).bin",
-			"crc": "47d69125"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 05).bin",
-			"crc": "8f285765"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 06).bin",
-			"crc": "48d43b46"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 07).bin",
-			"crc": "f3137ee3"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 08).bin",
-			"crc": "ea07611c"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 09).bin",
-			"crc": "e3ace011"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 10).bin",
-			"crc": "90687926"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 11).bin",
-			"crc": "636826ef"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 12).bin",
-			"crc": "9ba11fd1"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 13).bin",
-			"crc": "fef13deb"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 14).bin",
-			"crc": "60bb1b30"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 15).bin",
-			"crc": "7681671e"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 16).bin",
-			"crc": "35a560a0"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 17).bin",
-			"crc": "376ea63f"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 18).bin",
-			"crc": "e2444f86"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 19).bin",
-			"crc": "27178caf"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 20).bin",
-			"crc": "d8af9f8a"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 21).bin",
-			"crc": "7bc5b1b0"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 22).bin",
-			"crc": "fa8ac44d"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 23).bin",
-			"crc": "7dbf8836"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 24).bin",
-			"crc": "29f5f695"
-		},
-		{
-			"name": "Tales Nights - Mukyou no Miko (Japan) (Track 25).bin",
-			"crc": "1ea7137a"
 		},
 		{
 			"name": "Talking Fish, The (USA) (En,Hy) (Rerelease).bin",
@@ -25327,10 +26151,6 @@
 		{
 			"name": "Terre-tou no Meikyuu (Japan) (Disc 1) (Game Honpen).bin",
 			"crc": "0a39d695"
-		},
-		{
-			"name": "Territoire (Japan) (Trial Version).bin",
-			"crc": "514fbabb"
 		},
 		{
 			"name": "Test Drive 4 (Greece) (Covermount) (Track 01).bin",
@@ -25601,16 +26421,24 @@
 			"crc": "e498bc76"
 		},
 		{
+			"name": "Tin Soldiers - Alexander The Great (Poland).bin",
+			"crc": "cbc7d6d7"
+		},
+		{
+			"name": "Tiny Toon Adventures - Buster and the Beanstalk (USA) (Rerelease).iso",
+			"crc": "55dba755"
+		},
+		{
+			"name": "Titan Quest (Europe) (Alt).iso",
+			"crc": "206aa112"
+		},
+		{
 			"name": "Titan Quest (Europe) (En,Fr,De,Es,It) (Demo).bin",
 			"crc": "8110a1fe"
 		},
 		{
 			"name": "Titan Quest (Germany).iso",
 			"crc": "9b960e77"
-		},
-		{
-			"name": "Titan Quest (USA) (Disc 1).bin",
-			"crc": "a5539d3a"
 		},
 		{
 			"name": "Titanic - Adventure Out of Time (Brazil) (Disc 1).bin",
@@ -25793,62 +26621,6 @@
 			"crc": "5274a5c5"
 		},
 		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 02).bin",
-			"crc": "3363d024"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 03).bin",
-			"crc": "70dad1c5"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 04).bin",
-			"crc": "044fc41c"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 05).bin",
-			"crc": "02fecf28"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 06).bin",
-			"crc": "d561229c"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 07).bin",
-			"crc": "dd458412"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 08).bin",
-			"crc": "61d7bb90"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 09).bin",
-			"crc": "62eec63b"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 10).bin",
-			"crc": "5f5057ad"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 11).bin",
-			"crc": "307514a6"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 12).bin",
-			"crc": "9451ecd9"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 13).bin",
-			"crc": "716073e6"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 14).bin",
-			"crc": "366ac64e"
-		},
-		{
-			"name": "Tom Clancy's Rainbow Six - Rogue Spear (UK) (Covermount) (Track 15).bin",
-			"crc": "74067639"
-		},
-		{
 			"name": "Tom Clancy's Rainbow Six - Rogue Spear - Black Thorn (Europe) (OEM) (Track 01).bin",
 			"crc": "db77425a"
 		},
@@ -25903,6 +26675,10 @@
 		{
 			"name": "Tom Clancy's Rainbow Six - Rogue Spear - Black Thorn (Europe) (OEM) (Track 14).bin",
 			"crc": "d911ccdc"
+		},
+		{
+			"name": "Tom Clancy's Rainbow Six - Rogue Spear - Black Thorn (Poland).bin",
+			"crc": "01af813d"
 		},
 		{
 			"name": "Tom Clancy's Rainbow Six - Rogue Spear Mission Pack - Urban Operations (France) (Rerelease) (Track 01).bin",
@@ -26041,6 +26817,10 @@
 			"crc": "7af2900a"
 		},
 		{
+			"name": "Tom Clancy's Splinter Cell (Poland) (Disc 3).bin",
+			"crc": "48e4024a"
+		},
+		{
 			"name": "Tom Clancy's Splinter Cell (Thailand) (En,Fr,De,Es,It) (Disc 2).bin",
 			"crc": "e29b16cc"
 		},
@@ -26107,6 +26887,14 @@
 		{
 			"name": "Tomb Raider (France) (Rerelease) (Track 10).bin",
 			"crc": "52d16883"
+		},
+		{
+			"name": "Tomb Raider - Chronicles (Poland) (Disc 1).bin",
+			"crc": "d68c585f"
+		},
+		{
+			"name": "Tomb Raider - Chronicles (Poland) (Disc 2).bin",
+			"crc": "e5e81967"
 		},
 		{
 			"name": "Tomb Raider - Underworld (Europe) (Rerelease).iso",
@@ -26429,6 +27217,10 @@
 			"crc": "55fce750"
 		},
 		{
+			"name": "Trade Empires (Poland).bin",
+			"crc": "783cad54"
+		},
+		{
 			"name": "Tradicni Ceske Pohadky pro Pocitac s Windows (Czech) (En,Es,Cs).bin",
 			"crc": "34b0c57a"
 		},
@@ -26553,12 +27345,20 @@
 			"crc": "4b8fe0b5"
 		},
 		{
+			"name": "Troonies - Castle Rock (Spain).bin",
+			"crc": "03c7d4a1"
+		},
+		{
 			"name": "Tropico 2 - Die Pirateninsel (Germany) (Disc 1).bin",
 			"crc": "b70c100a"
 		},
 		{
 			"name": "Tropico 2 - Die Pirateninsel (Germany) (Disc 2).bin",
 			"crc": "fb110e89"
+		},
+		{
+			"name": "Tropico 4 (Germany) (Covermount).iso",
+			"crc": "9500a5f8"
 		},
 		{
 			"name": "Tropikalne Ryby Akwariowe (Poland).bin",
@@ -26587,6 +27387,10 @@
 		{
 			"name": "Twierdza 2 - Edycja Steam (Poland) (En,Pl).iso",
 			"crc": "830041d6"
+		},
+		{
+			"name": "Twierdza Deluxe (Poland).bin",
+			"crc": "2135081a"
 		},
 		{
 			"name": "Twierdza Krzyzowiec (Poland) (Pl,Hu).bin",
@@ -26969,10 +27773,6 @@
 			"crc": "3e1aa747"
 		},
 		{
-			"name": "Ultimate Aussie Maths Invaders (Australia).bin",
-			"crc": "f01b8ec1"
-		},
-		{
 			"name": "Ultimate Math Invaders (USA, Canada).bin",
 			"crc": "938e3e6e"
 		},
@@ -27195,6 +27995,10 @@
 		{
 			"name": "Versailles 1685 - Intriga na Corte de Luis XIV (Brazil) (Disc 2).bin",
 			"crc": "a28b2270"
+		},
+		{
+			"name": "Victoria (Poland).bin",
+			"crc": "29cad9f3"
 		},
 		{
 			"name": "Videophone (France) (En,Fr,De).bin",
@@ -27571,6 +28375,10 @@
 		{
 			"name": "Warcraft III - Frozen Throne (Poland).bin",
 			"crc": "bbf521d0"
+		},
+		{
+			"name": "Warcraft III - Reign of Chaos (Poland) (Rerelease).bin",
+			"crc": "f40a8658"
 		},
 		{
 			"name": "Wardoves - Secret Weapon of World War I (Netherlands) (En,De).bin",
@@ -27993,38 +28801,6 @@
 			"crc": "4515a651"
 		},
 		{
-			"name": "Wiggins in Storyland (USA) (Track 1).bin",
-			"crc": "e5040e99"
-		},
-		{
-			"name": "Wiggins in Storyland (USA) (Track 2).bin",
-			"crc": "be447439"
-		},
-		{
-			"name": "Wiggins in Storyland (USA) (Track 3).bin",
-			"crc": "a358e428"
-		},
-		{
-			"name": "Wiggins in Storyland (USA) (Track 4).bin",
-			"crc": "86369080"
-		},
-		{
-			"name": "Wiggins in Storyland (USA) (Track 5).bin",
-			"crc": "af877b98"
-		},
-		{
-			"name": "Wiggins in Storyland (USA) (Track 6).bin",
-			"crc": "b3de3aee"
-		},
-		{
-			"name": "Wiggins in Storyland (USA) (Track 7).bin",
-			"crc": "e3eac419"
-		},
-		{
-			"name": "Wiggins in Storyland (USA) (Track 8).bin",
-			"crc": "67d41caf"
-		},
-		{
 			"name": "Will Rock (Australia) (En,Fr,Es,It).bin",
 			"crc": "3c88a283"
 		},
@@ -28069,6 +28845,10 @@
 			"crc": "d4c9aa62"
 		},
 		{
+			"name": "Wing Commander - Privateer (USA) (Rerelease) (1996-08-28) (Alt).bin",
+			"crc": "c6331705"
+		},
+		{
 			"name": "Wing Commander III - Heart of the Tiger (Spain) (En,Es) (Disc 1).bin",
 			"crc": "d6d9b425"
 		},
@@ -28095,6 +28875,10 @@
 		{
 			"name": "Wings! Remastered Edition (Europe) (En,Fr,De,Es,It,Ru).iso",
 			"crc": "f2f4ea2b"
+		},
+		{
+			"name": "Winter Sports Extreme (Spain) (En,De).bin",
+			"crc": "8f36b368"
 		},
 		{
 			"name": "Wisecrackers! The Interactive Trivia Jewish Game - Bar-Bat Mitzvah Edition (USA).bin",
@@ -28139,6 +28923,10 @@
 		{
 			"name": "Wizardry Legacy - BCF, CDS & 8 (Japan).iso",
 			"crc": "a9152366"
+		},
+		{
+			"name": "Wizards Star - The Magical Shooters (Japan).bin",
+			"crc": "c49cf19c"
 		},
 		{
 			"name": "Wizkid - The Story of Wizball II (Europe) (En,Fr,De) (Hit Squad - Regenerator).bin",
@@ -28577,10 +29365,6 @@
 			"crc": "d50b9089"
 		},
 		{
-			"name": "Xpand Rally (Poland) (Rerelease).bin",
-			"crc": "12e68715"
-		},
-		{
 			"name": "Xploder Cheat System Pro for PS3 (Europe) (En,Fr,De,Es,It).bin",
 			"crc": "4883633b"
 		},
@@ -28591,10 +29375,6 @@
 		{
 			"name": "Yak Druzhyly Vovk ta Zayets' (Ukraine).bin",
 			"crc": "ed82a490"
-		},
-		{
-			"name": "Yama no Kappa Koubou (Japan) (Taikenban).bin",
-			"crc": "1fe59a36"
 		},
 		{
 			"name": "Yaraticiligimi Gelistiriyorum (Turkey).bin",
@@ -28967,14 +29747,6 @@
 		{
 			"name": "Zoo Tycoon 2 - Na Ratunek Zwierzakom (Poland).bin",
 			"crc": "7d5755cd"
-		},
-		{
-			"name": "Zoombinis - Expedition fjaerilsoen (Sweden).bin",
-			"crc": "a3cb1a77"
-		},
-		{
-			"name": "Zoombinis - Mysteriet i grottan (Sweden).bin",
-			"crc": "f7e031dd"
 		},
 		{
 			"name": "Zoop (USA).bin",

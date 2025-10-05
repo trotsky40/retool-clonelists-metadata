@@ -55,6 +55,12 @@
             "sha1": "5125bbbbf1df7782590d99273735826636a2f9ba"
         },
         {
+            "name": "Advance GTA (Japan) (En) (Rev 1)",
+            "crc": "fca59484",
+            "md5": "266da549741dbc9b9c902c113b13b4b6",
+            "sha1": "d93aba5e7f1195f357578106940e2bd916dcf02d"
+        },
+        {
             "name": "Advance Guardian Heroes (USA)",
             "crc": "c501917f",
             "md5": "a26c440065d89f56275644ffa34140ef",
@@ -275,6 +281,12 @@
             "crc": "db6160eb",
             "md5": "fcab58352e45a97a7becbecc948ea076",
             "sha1": "4ac1502b9b292584beecb8c7baf1abbcdb3a2d75"
+        },
+        {
+            "name": "Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)",
+            "crc": "83c90106",
+            "md5": "8c48059bf2c40a78b9739edf5ea411cb",
+            "sha1": "05c7c1bea2b0cb77976e07c8f2a8b0ef5d1f5685"
         },
         {
             "name": "Battle B-Daman (USA)",
@@ -697,10 +709,22 @@
             "sha1": "fb09408fa7c5aeac058e1b6be5a59fb98530b3fa"
         },
         {
+            "name": "Celeste (World) (v1.1 Beta) (Aftermarket)",
+            "crc": "093e3f81",
+            "md5": "b80cc711be05a40a2707fbf8027f120e",
+            "sha1": "28e06f2cf9782a68a2fe17fabdab95ef91212d6e"
+        },
+        {
             "name": "Celeste Classic (World) (v1.2) (Aftermarket)",
             "crc": "ff0e8ada",
             "md5": "9bcd687293600451abdd0f181b2427e8",
             "sha1": "08512605e5c02e81a72e24c2c8d4959d8e84e1f4"
+        },
+        {
+            "name": "Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket)",
+            "crc": "069607d0",
+            "md5": "c54284810931820a1b3e9e86b7aac6f1",
+            "sha1": "19dc1dd4e53722dc64cd1e7f97847b4cabf2f658"
         },
         {
             "name": "Chaoji Maliou DX (Taiwan) (Unl)",
@@ -2335,6 +2359,12 @@
             "sha1": "a733e689f5b91642470034e42bfc3612d089a25d"
         },
         {
+            "name": "Hachiemon (Japan)",
+            "crc": "47c45b41",
+            "md5": "6c8460b00a7dcade834b0579116771db",
+            "sha1": "10c16950388599846c2a61cacc315ba81a752deb"
+        },
+        {
             "name": "Hagane no Renkinjutsushi - Meisou no Rondo (Japan)",
             "crc": "a8cda373",
             "md5": "11a1c991749ededfce2cef42e1019cc7",
@@ -2483,6 +2513,12 @@
             "crc": "9592f553",
             "md5": "5ea3eec1d71c05f46321ce090ca791ee",
             "sha1": "e6a3ae1e4a58e47c78719a7f6a7e1ed0c37b34e6"
+        },
+        {
+            "name": "I Spy Challenger! (USA)",
+            "crc": "946d2cbb",
+            "md5": "a3201407f7988a563f4dfb243db02bcb",
+            "sha1": "532934239ea1151927fd45298d918e0646a6bea4"
         },
         {
             "name": "IK+ (USA)",
@@ -4489,6 +4525,18 @@
             "sha1": "964f951a0fdaf209e4ea1344883ef0d557bb3a80"
         },
         {
+            "name": "Pokemon - Recharged Emerald (v2.2.5) (Jaizu) (Hack)",
+            "crc": "000",
+            "md5": "eceaa049048a61ebe66f3f58e3723a5b",
+            "sha1": "000"
+        },
+        {
+            "name": "Pokemon - Recharged Emerald (v2.2.6) (Jaizu) (Hack)",
+            "crc": "000",
+            "md5": "f258589489cb284a1115ae26db5f8111",
+            "sha1": "000"
+        },
+        {
             "name": "Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)",
             "crc": "ceffa1f8",
             "md5": "9d54170472e5a37fc92602b838fe754e",
@@ -4759,6 +4807,12 @@
             "sha1": "7ed0b27ce1537610d62e3265ee1d8e7aa09ac649"
         },
         {
+            "name": "Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket)",
+            "crc": "50f6efe7",
+            "md5": "65080cc9ae25fc558c6fb0a1eb0a3b2b",
+            "sha1": "72bbae5413aee1f31aa5f7015ea4871448c03f89"
+        },
+        {
             "name": "Postman Pat and the Greendale Rocket (Europe) (En,No,Da)",
             "crc": "566cf164",
             "md5": "e682f89b0a9c991b5e16ceb188fa7e87",
@@ -5027,6 +5081,12 @@
             "crc": "cf2dba97",
             "md5": "1e3fd614dc43edbbf9df51262057f2cc",
             "sha1": "739f47323ce7e2dbe7e9bf9d553cb97f4692ecc3"
+        },
+        {
+            "name": "Scooby-Doo! - Mystery Mayhem (Europe) (En,Fr,De)",
+            "crc": "000",
+            "md5": "9cff0577973c0219738da5995edcf3ae",
+            "sha1": "000"
         },
         {
             "name": "Scooby-Doo! - Unmasked (Europe) (En,Fr)",
@@ -6113,6 +6173,12 @@
             "crc": "a9bb7cd7",
             "md5": "959c714ade4039b56e5c0227330fe1d2",
             "sha1": "8c0866db299daf6787b63cbebb50d537e5a70821"
+        },
+        {
+            "name": "Tonka - On the Job (USA)",
+            "crc": "000",
+            "md5": "ee91c4582d9b0cc494fcb71173b43e17",
+            "sha1": "000"
         },
         {
             "name": "Tony Hawk's Pro Skater 2 (USA, Europe)",
