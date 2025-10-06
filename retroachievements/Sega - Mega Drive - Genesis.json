@@ -332,9 +332,9 @@
         },
         {
             "name": "Barbie Super Model (USA)",
-            "crc": "000",
+            "crc": "81c9662b",
             "md5": "57705b055973733e8b9c25373a80f28c",
-            "sha1": "000"
+            "sha1": "490f4f7a45ca7f3e13069a498218ae8eaa563e85"
         },
         {
             "name": "Bare Knuckle III (Japan)",
@@ -1718,9 +1718,9 @@
         },
         {
             "name": "Home Alone 2 - Lost in New York (USA)",
-            "crc": "000",
+            "crc": "cbf87c14",
             "md5": "9ccafedaed5426819fefc3ae17a04fd2",
-            "sha1": "000"
+            "sha1": "24232a572b7eabc3e0ed5f483042a7085bd77c48"
         },
         {
             "name": "Hook (USA)",
@@ -2426,9 +2426,9 @@
         },
         {
             "name": "Mickey's Ultimate Challenge (USA)",
-            "crc": "000",
+            "crc": "30b512ee",
             "md5": "34b498ba6ea5caf365cbaf6dd8c7be65",
-            "sha1": "000"
+            "sha1": "def06da570df4ff73df36591ef05cce6d409b950"
         },
         {
             "name": "Micro Machines - Turbo Tournament 96 (Europe) (J-Cart)",
@@ -3230,9 +3230,9 @@
         },
         {
             "name": "Rings of Power (USA, Europe) (Cheats Disabled) (v1.0) (Bartis1989)",
-            "crc": "000",
+            "crc": "4eb94f24",
             "md5": "b78430b26a276939d64f73c9b9aea8e6",
-            "sha1": "000"
+            "sha1": "ca2e9e01348fb09f2d13327811fe7125f7d904d8"
         },
         {
             "name": "Ristar (USA, Europe)",
@@ -4148,15 +4148,15 @@
         },
         {
             "name": "Sonic Jam 6 (Taiwan) (En) (Pirate)",
-            "crc": "000",
+            "crc": "04f0c93e",
             "md5": "601dbecadde306ab238443193c76c918",
-            "sha1": "000"
+            "sha1": "a9e316ccde5b71f6aa85485b6897c1cfc780742d"
         },
         {
             "name": "Sonic Jam 6 (Taiwan) (En) (Pirate) (Black Screen Fix) (Alexdatadestroyer)",
-            "crc": "000",
+            "crc": "c4a25e46",
             "md5": "8e2907b6c7a47e4c011e5902b4135f0e",
-            "sha1": "000"
+            "sha1": "074783af72c486f5fd7b9081abdef2b618cae109"
         },
         {
             "name": "Sonic Spinball (Europe)",

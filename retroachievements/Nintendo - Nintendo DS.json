@@ -230,9 +230,9 @@
         },
         {
             "name": "Avalon Code (Europe) (En,Fr,De) (Undub) (v1.0) (Unknown)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "e92f95b2",
+            "md5": "363f3a69fecce2da29215d1072f0972d",
+            "sha1": "08e04ec27ab4734997b024a6def233a3cfe371de"
         },
         {
             "name": "Avatar - The Last Airbender (USA)",
@@ -434,9 +434,9 @@
         },
         {
             "name": "Cake Mania (Europe) (En,Fr,De,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "ee4a5de7",
+            "md5": "a77a2234ae222cbba99b414cf9e48be8",
+            "sha1": "8acfd5c964fdd76c55fd0b18fca611c6f683393e"
         },
         {
             "name": "Carnival Games (USA) (En,Fr)",
@@ -1445,6 +1445,12 @@
             "crc": "e0065997",
             "md5": "884536de3a774608ace3d0e438a44531",
             "sha1": "ae4e2850b8badd13910a6b2f9f42bcb59d477884"
+        },
+        {
+            "name": "House M.D. - The Official Game (Europe) (En,Fr,De)",
+            "crc": "f1704ca6",
+            "md5": "3267bf251cef974197ffdf624aeec8fc",
+            "sha1": "68abce46cd5b77a3b1bcf53d993ca59c03c87bec"
         },
         {
             "name": "Ikachan DS (World) (v0.1.1) (tilderain) (Aftermarket)",
@@ -3380,15 +3386,15 @@
         },
         {
             "name": "Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "aae3a6b9",
+            "md5": "f8d7bd7073fa384561888c8e4624174a",
+            "sha1": "fd7694296a093a8620e11eadb2c5938cc13fa753"
         },
         {
             "name": "Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan) (En) (v1.0) (Precise Museum)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "e82d664b",
+            "md5": "f8651e45514f30c8acc90152bb8850ee",
+            "sha1": "be793ab611c14d004298c0ef360a7c698e8613ce"
         },
         {
             "name": "Puzzle League DS (Europe) (En,Fr,De,Es,It)",
@@ -3470,15 +3476,15 @@
         },
         {
             "name": "Rayman DS (Europe) (En,Fr,De,Es,It)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "3aa858b9",
+            "md5": "57eadb68ba208d3b4edf9e4ee46f01d4",
+            "sha1": "158082697998d58881a82edc23c29e5e35d3c4b7"
         },
         {
             "name": "Rayman DS (USA) (En,Fr,Es)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "aa6ea8e3",
+            "md5": "eb7c3c00d28c3dc0ab50cc715c91cb33",
+            "sha1": "731a82cfe3d85f171cd00cd816866006a099ae21"
         },
         {
             "name": "Resident Evil - Deadly Silence (USA)",

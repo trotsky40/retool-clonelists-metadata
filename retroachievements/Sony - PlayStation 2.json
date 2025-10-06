@@ -110,7 +110,7 @@
         },
         {
             "name": "Air Ranger 2 Plus - Rescue Helicopter (Japan)",
-            "sha1": "5b0d573ae26ad75b374fb5813280616021f24958"
+            "sha1": "47a62e6ab4f6f194c4458c67f1f611e1d45a0326"
         },
         {
             "name": "Air Ranger 2 Plus - Rescue Helicopter (Japan) (Anti-Blur) (v1.0) (Souzooka)",
@@ -122,7 +122,7 @@
         },
         {
             "name": "Animal Soccer World (Europe) (En,Fr,De)",
-            "sha1": "000"
+            "sha1": "909b554737397455a61d0f230f552c42ae9e0430"
         },
         {
             "name": "Anubis II (Europe)",
@@ -422,11 +422,11 @@
         },
         {
             "name": "Choro Q HG (Japan)",
-            "sha1": "000"
+            "sha1": "ff17406a0e5cacce99c78bdbbc3b9d247c31103c"
         },
         {
             "name": "Choro Q HG (Japan) (Jenny Hi-Grade Box)",
-            "sha1": "000"
+            "sha1": "fe1f028ff736aca8807fd56711c33911a5b31b7b"
         },
         {
             "name": "Choro Q HG 3 (Japan)",
@@ -670,7 +670,7 @@
         },
         {
             "name": "Demolition Girl (Europe)",
-            "sha1": "000"
+            "sha1": "465bffd64abfa91859f0d8de546270fd902081c4"
         },
         {
             "name": "Devil Kings (USA)",
@@ -786,7 +786,7 @@
         },
         {
             "name": "Disney Sing It - Party Hits (Europe, Australia) (En,De,Es)",
-            "sha1": "000"
+            "sha1": "4f4893f3950a8e61a3b7ca2c0684e88e019242d6"
         },
         {
             "name": "Disney Think Fast (USA)",
@@ -854,7 +854,7 @@
         },
         {
             "name": "Disney's Treasure Planet (USA)",
-            "sha1": "000"
+            "sha1": "52e8ce26bff60df8a2d9ec2b8768ef58403b9d97"
         },
         {
             "name": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure (USA) (En,Fr,Es)",
@@ -890,11 +890,11 @@
         },
         {
             "name": "Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)",
-            "sha1": "000"
+            "sha1": "7773209b3e2b0e3e4b1662284ec08481cf6c85cd"
         },
         {
             "name": "Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)",
-            "sha1": "000"
+            "sha1": "3999d8701b2310a2a37f51f8c3394860c88fbbf4"
         },
         {
             "name": "Disney-Pixar WALL-E (USA) (En,Fr,Es)",
@@ -1042,7 +1042,7 @@
         },
         {
             "name": "DreamWorks Bee Movie Game (USA)",
-            "sha1": "f3edbdc009ac55c4478b75c59fb542ad916cffcf"
+            "sha1": "375d744dcb358bad986634e386a65cb95d57b26a"
         },
         {
             "name": "DreamWorks Kung Fu Panda (USA)",
@@ -1378,7 +1378,7 @@
         },
         {
             "name": "Gadget Racers (USA)",
-            "sha1": "000"
+            "sha1": "4333cc39abb8d8945929e10848d8901af3c4890b"
         },
         {
             "name": "Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy (USA)",
@@ -1529,12 +1529,12 @@
             "sha1": "31575bc6a42cf89b8e097fc2f9a330bff4dd4861"
         },
         {
-            "name": "Gran Turismo 4 (USA) (Subset - Bonus)",
-            "sha1": "d12bcd9d6262cd382ba3e1542ae6ff90138f3800"
-        },
-        {
             "name": "Gran Turismo 4 (USA) (v1.01)",
             "sha1": "7719d419b97fe15db3af82f62e758c79f9233cf2"
+        },
+        {
+            "name": "Gran Turismo 4 (USA) (v2.00) (Subset - Bonus)",
+            "sha1": "f8e256ef040cdf361b876699e1dc490d968bb420"
         },
         {
             "name": "Gran Turismo 4 - Prologue (Europe) (En,Fr,De,Es,It)",
@@ -2086,7 +2086,7 @@
         },
         {
             "name": "Kingdom Hearts - Final Mix (Subset - Proud Level 1)",
-            "sha1": "000"
+            "sha1": "0df1e335ada1c0aee949fbb25ad4abc81e763c86"
         },
         {
             "name": "Kingdom Hearts - Re-Chain of Memories (Subset - Extreme Difficulty)",
@@ -2322,7 +2322,7 @@
         },
         {
             "name": "Max Payne 2 - The Fall of Max Payne (USA)",
-            "sha1": "000"
+            "sha1": "709675d76cd4bf7e2c6a72f8f874d4d81a3711b3"
         },
         {
             "name": "Maximo - Ghosts to Glory (USA)",
@@ -2654,7 +2654,7 @@
         },
         {
             "name": "Nickelodeon Barnyard (USA)",
-            "sha1": "ab831b540214db698e995c6e0769bdbed10861a6"
+            "sha1": "854fcdbe1f7db66d8e77af663c46b3bc890560a2"
         },
         {
             "name": "Nickelodeon Jimmy Neutron - Boy Genius (USA)",
@@ -2706,11 +2706,11 @@
         },
         {
             "name": "Nicktoons - Attack of the Toybots (Subset - Multi)",
-            "sha1": "000"
+            "sha1": "874e1b113095798d2eece2077294139466033805"
         },
         {
             "name": "Nicktoons - Attack of the Toybots (USA)",
-            "sha1": "000"
+            "sha1": "431537107300460b9e87a4eef6d4b75ceffd71a3"
         },
         {
             "name": "Nicktoons - Battle for Volcano Island (USA)",
@@ -2770,7 +2770,7 @@
         },
         {
             "name": "Onimusha 2 - Samurai's Destiny (USA) (Undub) (v2021-02-14) (swosho)",
-            "sha1": "000"
+            "sha1": "a4a6d3e5747aafc1e7163a73f44217aad5d5c061"
         },
         {
             "name": "Onimusha 3 - Demon Siege (USA)",
@@ -2846,7 +2846,7 @@
         },
         {
             "name": "Penny Racers (Europe) (En,Fr,De)",
-            "sha1": "000"
+            "sha1": "5ac815c1e1b26d55577f23ff3e30ad1a2e6a956c"
         },
         {
             "name": "Persona 3 (Japan)",
@@ -3070,11 +3070,11 @@
         },
         {
             "name": "Resident Evil - Outbreak (En) (v2.1) (REfan988 & Silent Hell) (Subset - Online Multiplayer)",
-            "sha1": "000"
+            "sha1": "54ccaf488134fadd41a8ecf2620d54fa8b4ba81a"
         },
         {
-            "name": "Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan)",
-            "sha1": "54ccaf488134fadd41a8ecf2620d54fa8b4ba81a"
+            "name": "Resident Evil - Outbreak (Japan) (Subset - Online Multiplayer)",
+            "sha1": "f6b504dff93e134c00ec57cc6f91a5a16f22d50e"
         },
         {
             "name": "Resident Evil - Outbreak (USA) (v2.00)",
@@ -3086,11 +3086,11 @@
         },
         {
             "name": "Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 & Silent Hell) (Subset - Online Multiplayer)",
-            "sha1": "000"
+            "sha1": "e1948aad2a7b239c9ebe95f5326ec8948179eab7"
         },
         {
-            "name": "Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)",
-            "sha1": "e1948aad2a7b239c9ebe95f5326ec8948179eab7"
+            "name": "Resident Evil - Outbreak - File 2 (Japan) (Subset - Online Multiplayer)",
+            "sha1": "ded01741b840d4bead2d250bf1fa67c0215b9f77"
         },
         {
             "name": "Resident Evil - Outbreak - File 2 (Subset - Very Hard Challenges)",
@@ -3138,11 +3138,11 @@
         },
         {
             "name": "RoadKill (Europe) (En,Fr,Es,It)",
-            "sha1": "000"
+            "sha1": "c39b0e6f9eb08b4865eee4a5c52d4846d28368e1"
         },
         {
             "name": "RoadKill (USA)",
-            "sha1": "000"
+            "sha1": "65a3a4aafe71e024e4543150205e62eaf5870026"
         },
         {
             "name": "Rock'N'Roll Adventures (Europe)",
@@ -3390,15 +3390,15 @@
         },
         {
             "name": "Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei)",
-            "sha1": "000"
+            "sha1": "484dc51e516ef276b15c5beeb3c43c18fcdef14f"
         },
         {
             "name": "Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare)",
-            "sha1": "000"
+            "sha1": "e2ae0d09e21c60c13b54d7cf77bcaa8434efa1f6"
         },
         {
             "name": "Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)",
-            "sha1": "000"
+            "sha1": "930498b8280a5be406fbd3bd5c4f3f82c0df4e89"
         },
         {
             "name": "Shin Megami Tensei - Persona 3 FES (Undub) (USA)",
@@ -3438,11 +3438,11 @@
         },
         {
             "name": "Shinobido - Way of the Ninja (Europe) (En,Fr,De,Es,It)",
-            "sha1": "000"
+            "sha1": "fd0ce1929149ef2b1f0950cd349738648b7c48ce"
         },
         {
             "name": "Shonen Jump's One Piece - Grand Battle (USA)",
-            "sha1": "63c32fbb93a8062e00c20fbc330f748aeb79c317"
+            "sha1": "b1444ae0a8a155f0cec6f8c489c95e2054eb5810"
         },
         {
             "name": "Shrek 2 (USA)",
@@ -3510,7 +3510,7 @@
         },
         {
             "name": "Simple 2000 Series Vol. 50 - The Daibijin (Japan)",
-            "sha1": "000"
+            "sha1": "9612f2d152d8e1eb7caf142f911e0577b64b4903"
         },
         {
             "name": "Simple 2000 Series Vol. 64 - The Splatter Action (Japan)",
@@ -4082,7 +4082,7 @@
         },
         {
             "name": "Transformers (USA) (AntiCheat Patch) (v1.1) (Souzooka)",
-            "sha1": "000"
+            "sha1": "4e807968a551c33de595bcae9b34683347a85aa9"
         },
         {
             "name": "Transformers - The Game (USA)",
@@ -4178,7 +4178,7 @@
         },
         {
             "name": "War of the Monsters (USA)",
-            "sha1": "000"
+            "sha1": "bbd8a2434788686f129fa2c3a4880db717b32a4a"
         },
         {
             "name": "Warriors Orochi (USA)",
