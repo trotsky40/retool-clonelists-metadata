@@ -253,6 +253,7 @@
 		["(MBC5)", "string"],
 		["(Micro Genius)", "string"],
 		["(Nanjing)", "string"],
+		["\\s?\\(Mini Jam.*?\\)", "regex"],
 		["(No SRAM)", "string"],
 		["\\s?\\(NEO Coding Compo 20[0-9][0-9]\\)", "regex"],
 		["(NEO Compo 2012)", "string"],

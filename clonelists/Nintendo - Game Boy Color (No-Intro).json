@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Color (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:45",
+		"lastUpdated": "2025-10-12 14:24:22",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -116,6 +116,15 @@
 				{"searchTerm": "Barbie - Diepzee Avontuur"},
 				{"searchTerm": "Barbie - Meeres Abenteuer"},
 				{"searchTerm": "Barbie - Ocean Discovery"}
+			]
+		},
+		{
+			"group": "Basketbrawl",
+			"titles": [
+				{"searchTerm": "Basketbrawl"}
+			],
+			"supersets": [
+				{"searchTerm": "Basketbrawl - Deluxe Edition"}
 			]
 		},
 		{
@@ -395,7 +404,7 @@
 			"titles": [
 				{"searchTerm": "Dragon Ball Z 3 - 2002 Fighting"},
 				{"searchTerm": "Dragon Ball Z Gedou 2005", "priority": 2},
-				{"searchTerm": "Dragon Ball Z - 2002 Fighting", "priority": 3}
+				{"searchTerm": "Gedou Qi Long Qiu 2002", "priority": 3}
 			]
 		},
 		{
@@ -495,8 +504,26 @@
 		{
 			"group": "Fellowship of the Rings",
 			"titles": [
-				{"searchTerm": "Fellowship of the Rings"},
+				{
+					"searchTerm": "Fellowship of the Rings",
+					"filters": [
+						{
+							"conditions": {
+								"matchRegions": ["China"]
+							},
+							"results": {
+								"group": "Fellowship of the Rings (China)"
+							}
+						}
+					]
+				},
 				{"searchTerm": "Mojie 3-bu Wanme de Shijie", "priority": 2}
+			]
+		},
+		{
+			"group": "Fellowship of the Rings (China)",
+			"titles": [
+				{"searchTerm": "Zhihuan Wang 2"}
 			]
 		},
 		{
@@ -598,6 +625,14 @@
 			]
 		},
 		{
+			"group": "Gedou Jian Shen - Soul Falchion",
+			"titles": [
+				{"searchTerm": "Gedou Jian Shen - Soul Falchion"},
+				{"searchTerm": "Gedou Jian Shen KF", "priority": 2},
+				{"searchTerm": "Capcom Fight 2003", "priority": 3}
+			]
+		},
+		{
 			"group": "Gex 3 - Deep Pocket Gecko",
 			"titles": [
 				{"searchTerm": "Gex 3 - Deep Cover Gecko"},
@@ -639,6 +674,15 @@
 				{"searchTerm": "Golf Ou - The King of Golf"},
 				{"searchTerm": "Golf King", "priority": 2},
 				{"searchTerm": "Supershot Golf Robot", "priority": 2}
+			]
+		},
+		{
+			"group": "Gravitorque",
+			"titles": [
+				{"searchTerm": "Gravitorque"}
+			],
+			"supersets": [
+				{"searchTerm": "Gravitorque DX"}
 			]
 		},
 		{
@@ -833,8 +877,8 @@
 			"group": "Keitai Denjuu Telefang - Speed Version",
 			"titles": [
 				{"searchTerm": "Keitai Denjuu Telefang - Speed Version"},
-				{"searchTerm": "Koudai Guaishou - Feicui Ban", "priority": 2},
-				{"searchTerm": "Pokemon Jade", "priority": 3},
+				{"searchTerm": "Koudai Guaishou - Da Jihe", "priority": 2},
+				{"searchTerm": "Koudai Guaishou - Feicui Ban", "priority": 3},
 				{"searchTerm": "Pokemon Vision Jade", "priority": 4}
 			]
 		},
@@ -1058,15 +1102,6 @@
 			]
 		},
 		{
-			"group": "Micro Machines",
-			"titles": [
-				{"searchTerm": "Micro Machines"}
-			],
-			"compilations": [
-				{"searchTerm": "Micro Machines 1 and 2 - Twin Turbo"}
-			]
-		},
-		{
 			"group": "Micro Machines 2 - Turbo Tournament",
 			"titles": [
 				{"searchTerm": "Micro Machines 2 - Turbo Tournament"}
@@ -1248,6 +1283,13 @@
 			]
 		},
 		{
+			"group": "Pocket Music",
+			"titles": [
+				{"searchTerm": "Pocket Music"},
+				{"searchTerm": "Pocket Music (Riff Sampler Test)", "priority": 2}
+			]
+		},
+		{
 			"group": "Pocket Racing",
 			"titles": [
 				{"searchTerm": "Pocket GT"},
@@ -1317,6 +1359,31 @@
 			"titles": [
 				{"searchTerm": "Pokemon Adventure"},
 				{"searchTerm": "Pokemon Gold Version 2", "priority": 2}
+			]
+		},
+		{
+			"group": "Pokemon Jade Version - Special Pikachu Edition",
+			"titles": [
+				{"searchTerm": "Pokemon - La Version Esmeralda - Special Pikachu Edition"},
+				{"searchTerm": "Pokemon Jade Version - Special Pikachu Edition"},
+				{
+					"searchTerm": "Pokemon Jade",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["En"],
+								"matchRegions": ["Taiwan"]
+							},
+							"results": {
+								"group": "Keitai Denjuu Telefang - Speed Version",
+								"priority": 5
+							}
+						}
+					]
+				},
+				{"searchTerm": "Sonic Adventure 8", "priority": 3},
+				{"searchTerm": "Sonic Adventure 7", "priority": 4}
 			]
 		},
 		{
@@ -1654,6 +1721,13 @@
 			]
 		},
 		{
+			"group": "Shuma Baobei - Huojian Bingtuan",
+			"titles": [
+				{"searchTerm": "Pokemon Ruby"},
+				{"searchTerm": "Shuma Baobei - Huojian Bingtuan"}
+			]
+		},
+		{
 			"group": "Shuma Baolong - Koudai Ban",
 			"titles": [
 				{
@@ -1732,6 +1806,15 @@
 			]
 		},
 		{
+			"group": "Super Mario Special 3",
+			"titles": [
+				{"searchTerm": "Super Mario Special 3"},
+				{"searchTerm": "Pokemon Diamond", "priority": 2},
+				{"searchTerm": "Pokemon Sapphire", "priority": 3},
+				{"searchTerm": "Shuma Baobei - Hai Zhi Shen", "priority": 4}
+			]
+		},
+		{
 			"group": "Survival Kids",
 			"titles": [
 				{"searchTerm": "Stranded Kids"},
@@ -1798,6 +1881,15 @@
 			"titles": [
 				{"searchTerm": "Tom and Jerry - Mouse Hunt"},
 				{"searchTerm": "Tom and Jerry - Mousehunt"}
+			]
+		},
+		{
+			"group": "Tools of Nexaura",
+			"titles": [
+				{"searchTerm": "Tools of Nexaura"}
+			],
+			"supersets": [
+				{"searchTerm": "Tools of Nexaura - Ultimate Edition"}
 			]
 		},
 		{
@@ -1889,6 +1981,14 @@
 			"titles": [
 				{"searchTerm": "Wetrix"},
 				{"searchTerm": "Wetrix GB"}
+			]
+		},
+		{
+			"group": "Wing Warriors",
+			"titles": [
+				{"searchTerm": "Wing Warriors (EGS)"},
+				{"searchTerm": "Wing Warriors (Kitmaker)", "priority": 2},
+				{"searchTerm": "Wing Warriors", "priority": 3}
 			]
 		},
 		{
