@@ -2,13 +2,16 @@
 	"3D Model RGB Test Program (USA) (Test Program)": {
 		"languages": ["En"]
 	},
+	"007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta)": {
+		"languages": ["De", "En", "Fr"]
+	},
 	"007 - The World Is Not Enough (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"007 - The World Is Not Enough (USA) (v2) (Beta)": {
+	"007 - The World Is Not Enough (USA) (Beta 1) (1998-12-15)": {
 		"languages": ["En"]
 	},
-	"007 - The World Is Not Enough (USA) (v21) (Beta)": {
+	"007 - The World Is Not Enough (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"007 - The World Is Not Enough (USA)": {
@@ -16,6 +19,9 @@
 	},
 	"40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)": {
 		"languages": ["En", "Es", "It"]
+	},
+	"40 Winks (Europe) (En,Fr,Es) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"40 Winks (USA) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -36,6 +42,9 @@
 		"languages": ["Ja"]
 	},
 	"64 Trump Collection - Alice no Wakuwaku Trump World (Japan)": {
+		"languages": ["Ja"]
+	},
+	"64GB Checker (Japan) (v1.05) (Test Program)": {
 		"languages": ["Ja"]
 	},
 	"64Noid (World) (Demo) (N64brew Game Jam 2020) (Aftermarket) (Unl)": {
@@ -268,6 +277,12 @@
 	"Beetle Adventure Racing! (USA) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
+	"Belushi Speed Ball - What, Us Worry (World) (Audio) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Big2Small (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Big Burger (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -310,11 +325,8 @@
 	"Blastdozer (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
-	},
-	"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	"Blues Brothers 2000 (Europe) (Beta) (2000-01-15)": {
+		"languages": ["En"]
 	},
 	"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -450,6 +462,9 @@
 	"Castlevania - Legacy of Darkness (USA)": {
 		"languages": ["En"]
 	},
+	"Cave Story 64 (World) (v1.0.0.6) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Centre Court Tennis (Europe)": {
 		"languages": ["En"]
 	},
@@ -577,6 +592,10 @@
 	"Custom Robo (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Custom Robo V2 (Japan) (Beta) (2000-09-09) (Debug)": {
+		"languages": ["Ja"],
+		"localName": "カスタムロボＶ２"
+	},
 	"Custom Robo V2 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "カスタムロボＶ２"
@@ -658,6 +677,10 @@
 	},
 	"Dinosaur Planet (USA) (Proto) (2000-12-01)": {
 		"languages": ["En"]
+	},
+	"Dolphin Controller Test (Japan) (Test Program)": {
+		"languages": ["Ja"],
+		"localName": "ドルフィン・コントローラ・テスト"
 	},
 	"Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -996,10 +1019,16 @@
 	"Freak Boy (Unknown) (Proto)": {
 		"languages": ["En"]
 	},
-	"Frogger 2 (USA) (Proto 1)": {
+	"Frogger 2 (USA) (Proto) (1999-03-xx)": {
 		"languages": ["En"]
 	},
-	"Frogger 2 (USA) (Proto 2)": {
+	"Frogger 2 (USA) (Proto) (1999-06-xx) (MS4)": {
+		"languages": ["En"]
+	},
+	"Frogger 2 (USA) (Proto) (1999-06-xx)": {
+		"languages": ["En"]
+	},
+	"Frogger 2 (USA) (Proto) (1999-12-01)": {
 		"languages": ["En"]
 	},
 	"Funnel Cube (World) (Demo) (Aftermarket) (Unl)": {
@@ -1017,7 +1046,7 @@
 	"GameBooster 64 (Europe) (v1.1) (Unl)": {
 		"languages": ["En"]
 	},
-	"GameBooster 64 (USA) (v1.1) (Unl)": {
+	"GameBooster 64 (USA) (v1.1) (Unl) [b]": {
 		"languages": ["En"]
 	},
 	"GameShark Pro (USA) (v2.0) (Unl)": {
@@ -1083,7 +1112,7 @@
 	"Glover (USA) (1998-09-04) (Beta)": {
 		"languages": ["En"]
 	},
-	"Glover (USA) (En,Fr,De) (Aftermarket) (Unl)": {
+	"Glover (USA) (En,Fr,De) (Limited Run Games)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Glover (USA)": {
@@ -1411,10 +1440,16 @@
 	"John Romero's Daikatana (USA)": {
 		"languages": ["En"]
 	},
+	"Judy's Adventure DX (World) (v33.6) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Juic'n 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Juic'n 64 (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Jumping Fox (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Kakutou Denshou - F-Cup Maniax (Japan)": {
@@ -1630,6 +1665,9 @@
 	"Madden NFL 2002 (USA)": {
 		"languages": ["En"]
 	},
+	"Magic & Legend - Time Knights (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Magic & Legend - Time Knights (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -1723,6 +1761,9 @@
 	"Mario Party 3 (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
+	"Mario Party 3 (Japan) (Beta)": {
+		"languages": ["Ja"]
+	},
 	"Mario Party 3 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1779,6 +1820,12 @@
 	},
 	"Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Mia Hamm Soccer 64 (USA) (En,Es) (Beta) (2000-08-01)": {
+		"languages": ["En", "Es"]
+	},
+	"Mia Hamm Soccer 64 (USA) (En,Es) (Beta) (2000-09-01)": {
+		"languages": ["En", "Es"]
 	},
 	"Mia Hamm Soccer 64 (USA) (En,Es)": {
 		"languages": ["En", "Es"]
@@ -2366,6 +2413,12 @@
 	"Polaris SnoCross (USA)": {
 		"languages": ["En"]
 	},
+	"Portal 64 (World) (v0.14) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Portal 64 (World) (v0.15) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Power League 64 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2435,6 +2488,9 @@
 	"Racing Simulation 2 (Germany)": {
 		"languages": ["De"]
 	},
+	"Rakugakids (Europe) (Beta) (1998-09-16)": {
+		"languages": ["En"]
+	},
 	"Rakugakids (Europe)": {
 		"languages": ["En"]
 	},
@@ -2498,6 +2554,9 @@
 	"Ready 2 Rumble Boxing - Round 2 (USA)": {
 		"languages": ["En"]
 	},
+	"Remute - R64 (World) (Audio) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Resident Evil 2 (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
@@ -2508,6 +2567,18 @@
 		"languages": ["En"]
 	},
 	"Retro Dash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Riqa (Europe) (Proto) (2000-02-14)": {
+		"languages": ["En"]
+	},
+	"Riqa (Europe) (Proto) (2000-03-24)": {
+		"languages": ["En"]
+	},
+	"Riqa (Europe) (Proto) (2000-03-27)": {
+		"languages": ["En"]
+	},
+	"Riqa (Europe) (Proto) (2000-05-28)": {
 		"languages": ["En"]
 	},
 	"Road Rash 64 (Europe) (Beta) (1999-10-12)": {
@@ -2546,8 +2617,8 @@
 	"Robotron 64 (USA)": {
 		"languages": ["En"]
 	},
-	"Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)": {
-		"languages": ["En"]
+	"Rocket - Robot on Wheels (Europe) (En,Fr,De) (Beta) (1999-09-29)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Rocket - Robot on Wheels (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -2841,10 +2912,10 @@
 	"Star Wars - Shadows of the Empire (Europe)": {
 		"languages": ["En"]
 	},
-	"Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl)": {
+	"Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)": {
 		"languages": ["En"]
 	},
-	"Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)": {
+	"Star Wars - Shadows of the Empire (USA) (Limited Run Games)": {
 		"languages": ["En"]
 	},
 	"Star Wars - Shadows of the Empire (USA) (Rev 1)": {
@@ -2877,7 +2948,7 @@
 	"Star Wars Episode I - Racer (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Star Wars Episode I - Racer (USA) (Aftermarket) (Unl)": {
+	"Star Wars Episode I - Racer (USA) (Limited Run Games)": {
 		"languages": ["En"]
 	},
 	"Star Wars Episode I - Racer (USA)": {
@@ -3038,6 +3109,9 @@
 	"Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Telocation - Gemini (World) (v1.2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Test 3rd Person Demo (World) (Demo) (N64brew Game Jam 2020) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -3093,6 +3167,9 @@
 		"languages": ["En"]
 	},
 	"Tommy Thunder (USA) (Proto) (1997-10-01)": {
+		"languages": ["En"]
+	},
+	"Tomte Trouble (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tonic Trouble (Europe) (Beta)": {
@@ -3182,11 +3259,17 @@
 	"Top Gear Rally (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Top Gear Rally (USA) (Beta) (1997-08-15)": {
+		"languages": ["En"]
+	},
 	"Top Gear Rally (USA)": {
 		"languages": ["En"]
 	},
 	"Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)": {
 		"languages": ["Fr"]
+	},
+	"Toy Story 2 - Buzz Lightyear to the Rescue! (Europe) (Rev 1) (Proto)": {
+		"languages": ["En"]
 	},
 	"Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)": {
 		"languages": ["En"]
@@ -3387,6 +3470,9 @@
 	"Virtual Pro Wrestling 64 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Voidblade (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Voidblade (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -3553,7 +3639,7 @@
 	"Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Worms Armageddon (USA) (En,Fr,Es) (Aftermarket) (Unl)": {
+	"Worms Armageddon (USA) (En,Fr,Es) (Limited Run Games)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Worms Armageddon (USA) (En,Fr,Es)": {
@@ -3572,6 +3658,15 @@
 		"languages": ["En"]
 	},
 	"WWF No Mercy (Europe)": {
+		"languages": ["En"]
+	},
+	"WWF No Mercy (USA) (Beta) (2000-06-xx)": {
+		"languages": ["En"]
+	},
+	"WWF No Mercy (USA) (Beta) (2000-07-19)": {
+		"languages": ["En"]
+	},
+	"WWF No Mercy (USA) (Beta) (2000-08-xx)": {
 		"languages": ["En"]
 	},
 	"WWF No Mercy (USA) (Beta) (2000-09-11)": {
@@ -3606,6 +3701,9 @@
 	},
 	"Xena - Warrior Princess - The Talisman of Fate (USA)": {
 		"languages": ["En"]
+	},
+	"Xeno Crisis (World) (En,Ja,Fr,Es,It,Nl,Pt) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es", "Fr", "It", "Ja", "Nl", "Pt"]
 	},
 	"Xplorer 64 (Germany) (v1.067) (Unl)": {
 		"languages": ["De"]

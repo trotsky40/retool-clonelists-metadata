@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (No-Intro)",
-		"lastUpdated": "2025-08-30 09:39:40",
+		"lastUpdated": "2025-10-12 12:47:13",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -24,13 +24,6 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Advanced Music Player"}
-			]
-		},
-		{
-			"group": "Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The",
-			"titles": [
-				{"searchTerm": "Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The"},
-				{"searchTerm": "Jimmy Neutron vs. Jimmy Negatron", "priority": 2}
 			]
 		},
 		{
@@ -1095,13 +1088,6 @@
 			]
 		},
 		{
-			"group": "GBA Movie Player 2 CF",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "GBA Movie Player 2 CF"}
-			]
-		},
-		{
 			"group": "GBA Personal Organizer",
 			"categories": ["Applications"],
 			"titles": [
@@ -1786,6 +1772,7 @@
 			"titles": [
 				{"searchTerm": "Maliou Kadingche - Chaoji Saidao"},
 				{"searchTerm": "Mario Kart - Super Circuit"},
+				{"searchTerm": "Mario Kart - Super Circuit (NetCard)"},
 				{"searchTerm": "Mario Kart Advance"}
 			]
 		},
@@ -2142,10 +2129,10 @@
 			]
 		},
 		{
-			"group": "Ninja Five-0",
+			"group": "Ninja Five-O",
 			"titles": [
 				{"searchTerm": "Ninja Cop"},
-				{"searchTerm": "Ninja Five-0"}
+				{"searchTerm": "Ninja Five-O"}
 			]
 		},
 		{
@@ -3037,6 +3024,13 @@
 			"titles": [
 				{"searchTerm": "TMNT"},
 				{"searchTerm": "TMNT - Teenage Mutant Ninja Turtles"}
+			]
+		},
+		{
+			"group": "Toadally Awesome",
+			"titles": [
+				{"searchTerm": "Toadally Awesome (Unlocked)"},
+				{"searchTerm": "Toadally Awesome", "priority": 2}
 			]
 		},
 		{

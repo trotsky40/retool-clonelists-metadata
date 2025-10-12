@@ -2,8 +2,11 @@
 	"[BIOS] Nintendo Pokemon Mini (World)": {
 		"languages": ["En"]
 	},
-	"Lunch Time (USA) (GameCube)": {
+	"Lunch Time (Europe) (Demo) (Pokemon Channel)": {
 		"languages": ["En"]
+	},
+	"Mini Running Ant (World) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
 	},
 	"Pichu Bros. Mini (Japan)": {
 		"languages": ["Ja"]
@@ -56,16 +59,16 @@
 	"Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)": {
 		"languages": ["En"]
 	},
-	"Pokemon Pinball Mini (Japan) (Preview)": {
+	"Pokemon Pinball Mini (Japan) (Demo) (Pokemon Channel)": {
 		"languages": ["Ja"]
 	},
 	"Pokemon Pinball Mini (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Pokemon Pinball Mini (USA) (GameCube Preview)": {
+	"Pokemon Pinball Mini (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Pokemon Pinball Mini (USA, Europe)": {
+	"Pokemon Pinball Mini (USA, Europe, Australia) (Demo) (Pokemon Channel)": {
 		"languages": ["En"]
 	},
 	"Pokemon Puzzle Collection (France) (GameCube Preview)": {
@@ -107,8 +110,8 @@
 	"Pokemon Sodateyasan Mini (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Pokemon Tetris (Europe) (En,Ja,Fr)": {
-		"languages": ["En", "Fr", "Ja"]
+	"Pokemon Tetris (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Pokemon Zany Cards (France)": {
 		"languages": ["Fr"]
@@ -117,6 +120,9 @@
 		"languages": ["De"]
 	},
 	"Pokemon Zany Cards (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Silver Falls - Monsters In North Island (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Snorlax's Lunch Time (Europe) (GameCube)": {

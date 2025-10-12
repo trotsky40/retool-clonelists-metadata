@@ -205,26 +205,29 @@
 	"Action Replay Ultimative Cheats Greatest Hits 2003 (Germany) (Unl)": {
 		"languages": ["De"]
 	},
+	"Action Replay for GameCube & SD Media Launcher for GameCube-Wii (Europe) (Unl)": {
+		"languages": ["En"]
+	},
+	"Action Replay for GameCube & SD Media Launcher for GameCube-Wii (USA) (Unl)": {
+		"languages": ["En"]
+	},
 	"Action Replay for GameCube (Europe) (En,Fr,De,Es,It,Pt) (Unl) (v1.09)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Action Replay for GameCube (Europe) (En,Fr,De,Es,It,Pt) (Unl) (v1.14b)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
-	"Action Replay for GameCube (Europe) (Unl)": {
+	"Action Replay for GameCube (Europe) (Unl) (GameCube + Wii) (v1.0E)": {
 		"languages": ["En"]
 	},
-	"Action Replay for GameCube (Europe) (Unl) (v1.0E)": {
-		"languages": ["En"]
+	"Action Replay for GameCube (USA) (En,Fr,De,Es,It,Pt) (Unl) (v1.06)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
-	"Action Replay for GameCube (USA) (Unl) (v1.06)": {
-		"languages": ["En"]
+	"Action Replay for GameCube (USA) (En,Fr,De,Es,It,Pt) (Unl) (v1.12)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
-	"Action Replay for GameCube (USA) (Unl) (v1.12)": {
-		"languages": ["En"]
-	},
-	"Action Replay for GameCube (USA) (Unl) (v1.20)": {
-		"languages": ["En"]
+	"Action Replay for GameCube (USA) (En,Fr,De,Es,It,Pt) (Unl) (v1.13)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Action Replay for GameCube (USA, Europe) (En,Fr,De,Es,It,Pt) (Unl) (v1.08)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
@@ -532,7 +535,7 @@
 		"languages": ["Ja"],
 		"localName": "バイオハザード"
 	},
-	"Biohazard (Japan) (Tokubetsu-ban)": {
+	"Biohazard (Japan) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "バイオハザード"
 	},
@@ -1770,8 +1773,8 @@
 	"FIFA 07 (Germany)": {
 		"languages": ["De"]
 	},
-	"FIFA 2002 - Road to FIFA World Cup (Japan)": {
-		"languages": ["Ja"],
+	"FIFA 2002 - Road to FIFA World Cup (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "ＦＩＦＡ　２００２：ロード　トゥ　ＦＩＦＡ　ワールドカップ"
 	},
 	"FIFA 2003 - European Football (Japan)": {
@@ -3053,6 +3056,10 @@
 		"languages": ["Ja"],
 		"localName": "キン肉マンＩＩ世　新世代超人ＶＳ伝説超人"
 	},
+	"Kinnikuman Nisei - Shinsedai Choujin vs. Densetsu Choujin Event-you Disc (Japan)": {
+		"languages": ["Ja"],
+		"localName": "キン肉マンⅡ世新世代超人ＶＳ伝説超人　イベント用ディスク"
+	},
 	"Kirby Air Ride (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -3149,7 +3156,7 @@
 	"Legend of Zelda, The - Collector's Edition (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Legend of Zelda, The - Collector's Edition (USA)": {
+	"Legend of Zelda, The - Collector's Edition (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Legend of Zelda, The - Four Swords Adventures (Europe) (En,Fr,De,Es,It)": {
@@ -3167,7 +3174,7 @@
 	"Legend of Zelda, The - Ocarina of Time & Master Quest (Korea)": {
 		"languages": ["En"]
 	},
-	"Legend of Zelda, The - Ocarina of Time & Master Quest (USA)": {
+	"Legend of Zelda, The - Ocarina of Time & Master Quest (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Legend of Zelda, The - The Wind Waker (Europe) (En,Fr,De,Es,It)": {
@@ -3177,7 +3184,7 @@
 		"languages": ["En"],
 		"localName": "젤다의　전설　바람의　택트"
 	},
-	"Legend of Zelda, The - The Wind Waker (USA)": {
+	"Legend of Zelda, The - The Wind Waker (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Legend of Zelda, The - Twilight Princess (Europe) (En,Fr,De,Es,It)": {
@@ -3295,7 +3302,7 @@
 	"MC Groovz Dance Craze (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"MC Groovz Dance Craze (USA)": {
+	"MC Groovz Dance Craze (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"MLB SlugFest 2003 (USA)": {
@@ -3607,7 +3614,7 @@
 		"languages": ["Ja"],
 		"localName": "メダロット　ブレイブ"
 	},
-	"Mega Man Anniversary Collection (USA) (Rev 1)": {
+	"Mega Man Anniversary Collection (USA, Canada) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Mega Man Network Transmission (Europe)": {
@@ -3700,7 +3707,7 @@
 	"Metroid Prime 2 - Echoes (USA)": {
 		"languages": ["En"]
 	},
-	"Metroid Prime 2 - Echoes (USA) (Bonus Disc)": {
+	"Metroid Prime 2 - Echoes (USA, Canada) (Bonus Disc)": {
 		"languages": ["En"]
 	},
 	"Micro Machines (Europe) (En,Fr,De,Es,It)": {
@@ -4868,6 +4875,9 @@
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム　ガシャポンウォーズ"
 	},
+	"SD Media Launcher for GameCube & Wii (Europe) (Unl)": {
+		"languages": ["En"]
+	},
 	"SD Media Launcher for GameCube & Wii (Japan) (Unl)": {
 		"languages": ["Ja"],
 		"localName": "ＳＤメディアランチャー　Ｗｉｉ用／ＧＣ用"
@@ -5327,7 +5337,7 @@
 	"Spyro - Enter the Dragonfly (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Spyro - Enter the Dragonfly (USA)": {
+	"Spyro - Enter the Dragonfly (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Star Fox - Assault (Europe) (En,Fr,De,Es,It)": {

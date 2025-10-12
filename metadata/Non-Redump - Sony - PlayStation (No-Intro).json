@@ -1,4 +1,7 @@
 {
+	"40 Winks (USA) (Evercade)": {
+		"languages": ["En"]
+	},
 	"Apocalypse (USA) (Beta) (1998-07-22)": {
 		"languages": ["En"]
 	},
@@ -38,7 +41,22 @@
 	"Biohazard (Japan) (Beta) (1996-01-31)": {
 		"languages": ["Ja"]
 	},
+	"Blood Omen - Legacy of Kain (USA) (Beta) (1996-09-16)": {
+		"languages": ["nolang"]
+	},
+	"Blood Omen - Legacy of Kain (USA) (Evercade)": {
+		"languages": ["En"]
+	},
 	"Bounty Arms (Unknown) (Beta) (1995-01-30)": {
+		"languages": ["En"]
+	},
+	"Broken Sword - The Shadow of the Templars (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"Broken Sword II - The Smoking Mirror (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"Bubsy 3D - Furbitten Planet (USA) (Purrfect Collection)": {
 		"languages": ["En"]
 	},
 	"Castlevania - Symphony of the Night (USA) (Beta) (1997-06-18)": {
@@ -49,6 +67,9 @@
 	},
 	"Chrono Cross (USA) (Disc 2) (Beta) (2000-04-11)": {
 		"languages": ["En"]
+	},
+	"Classic Road (Japan) (SLPM-80019)": {
+		"languages": ["nolang"]
 	},
 	"Command & Conquer - Commando (Unknown) (Proto) (1997-07-14)": {
 		"languages": ["En"]
@@ -63,6 +84,9 @@
 		"languages": ["En"]
 	},
 	"Crash Bandicoot (Unknown) (Beta) (1996-05-11)": {
+		"languages": ["En"]
+	},
+	"Crash Collection (USA) (Pirate)": {
 		"languages": ["En"]
 	},
 	"Croc - Legend of the Gobbos (Unknown) (Beta) (1996-08-11)": {
@@ -81,6 +105,18 @@
 		"languages": ["En"]
 	},
 	"Dragon Warrior VII (USA) (Disc 2) (Beta) (2001-09-14)": {
+		"languages": ["En"]
+	},
+	"Duke Nukem - Land of the Babes (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"Duke Nukem - Time to Kill (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"Duke Nukem - Total Meltdown (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"ECW Hardcore Revolution (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"F.A. Premier League Stars 2001, The (Europe) (Beta) (2000-04-17)": {
@@ -122,6 +158,9 @@
 	"Hello Kitty no Oshaberi ABC (Japan) (SLPM-86904)": {
 		"languages": ["Ja"]
 	},
+	"Hogs of War (USA) (Evercade)": {
+		"languages": ["En"]
+	},
 	"Jet Moto 2124 (Unknown) (Atlantis II Version) (Proto) (2000-01-18)": {
 		"languages": ["En"]
 	},
@@ -143,14 +182,44 @@
 	"Koudelka (USA) (Disc 4) (Beta)": {
 		"languages": ["En"]
 	},
+	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-01-23)": {
+		"languages": ["nolang"]
+	},
+	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-02-04)": {
+		"languages": ["nolang"]
+	},
+	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-02-16)": {
+		"languages": ["nolang"]
+	},
 	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-05-12)": {
 		"languages": ["En"]
+	},
+	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-06-01)": {
+		"languages": ["nolang"]
+	},
+	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-06-10)": {
+		"languages": ["nolang"]
+	},
+	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-06-18)": {
+		"languages": ["nolang"]
 	},
 	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-06-28)": {
 		"languages": ["En"]
 	},
+	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-07-02)": {
+		"languages": ["nolang"]
+	},
+	"Legacy of Kain - Soul Reaver (USA) (Beta) (1999-07-14)": {
+		"languages": ["nolang"]
+	},
+	"Legacy of Kain - Soul Reaver (USA) (Evercade)": {
+		"languages": ["En"]
+	},
 	"Lego Stunt Rally (USA) (Proto)": {
 		"languages": ["En"]
+	},
+	"Loaded (USA) (En,Fr) (Evercade)": {
+		"languages": ["En", "Fr"]
 	},
 	"Manhattan Project (Unknown) (Beta)": {
 		"languages": ["En"]
@@ -377,6 +446,9 @@
 	"Play Power 5 (Spain) (En) (Demo)": {
 		"languages": ["En"]
 	},
+	"Pocket Dungeon (Japan) (Pirate)": {
+		"languages": ["Ja"]
+	},
 	"Populous - The Beginning (Unknown) (Beta) (1998-08-20)": {
 		"languages": ["En"]
 	},
@@ -410,11 +482,17 @@
 	"Razor Wing (Unknown) (Proto) [b]": {
 		"languages": ["En"]
 	},
+	"Re-Loaded - The Hardcore Sequel (USA) (Evercade)": {
+		"languages": ["En"]
+	},
 	"Resident Evil 1.5 Battle Coliseum (Unknown) (v1.0a) (Demo)": {
 		"languages": ["En"]
 	},
 	"RoboCop (Unknown) (Proto) (1997-08-07)": {
 		"languages": ["En"]
+	},
+	"Robotron X (USA) (Beta) (1996-09-06) [b]": {
+		"languages": ["nolang"]
 	},
 	"Rockman 8 (Japan) (Beta) (1996-06-27)": {
 		"languages": ["Ja"]
@@ -635,10 +713,28 @@
 	"StarCon (USA) (Proto)": {
 		"languages": ["En"]
 	},
+	"Steel Harbinger (USA) (Beta) (1995-05)": {
+		"languages": ["nolang"]
+	},
+	"Steel Harbinger (USA) (Beta) (1996)": {
+		"languages": ["nolang"]
+	},
+	"Steel Harbinger (USA) (Beta) (1996-03-13)": {
+		"languages": ["nolang"]
+	},
+	"Steel Harbinger (USA) (Beta) (1996-03-20)": {
+		"languages": ["nolang"]
+	},
+	"Steel Harbinger (USA) (Beta) (1996-03-29)": {
+		"languages": ["nolang"]
+	},
 	"Street Fighter EX Plus Alpha (Japan) (Demo)": {
 		"languages": ["Ja"]
 	},
 	"Superbike 98 (USA) (Proto) (1998-10-27)": {
+		"languages": ["En"]
+	},
+	"Team Losi RC Racer (USA) (Evercade)": {
 		"languages": ["En"]
 	},
 	"Thrill Kill (Europe) (Proto)": {
@@ -654,6 +750,21 @@
 		"languages": ["En"]
 	},
 	"Tomb Raider (USA) (Beta) (1996-05-20)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider - The Last Revelation (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider Chronicles (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider II - Starring Lara Croft (USA) (Evercade)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider III - Adventures of Lara Croft (USA) (Evercade)": {
 		"languages": ["En"]
 	},
 	"Tony Hawk's Pro Skater 2 (USA) (2000-05-09)": {
@@ -672,6 +783,9 @@
 		"languages": ["En"]
 	},
 	"Torc - Legend Of The Ogre Crown (USA) (Proto) (1997-12-09)": {
+		"languages": ["En"]
+	},
+	"Twisted Metal (USA) (Beta) (1995-08-17)": {
 		"languages": ["En"]
 	},
 	"Urban Assault (Europe) (Proto) (1998-12-18)": {
@@ -797,10 +911,16 @@
 	"Virtual Tennis (USA) (Proto)": {
 		"languages": ["En"]
 	},
+	"Worms Armageddon (USA) (Evercade)": {
+		"languages": ["En"]
+	},
 	"X-PO 2089 Cyber Revolution (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Xi no Ohanashi (Japan) (Demo)": {
 		"languages": ["Ja"]
+	},
+	"Z (Europe) (Evercade)": {
+		"languages": ["En"]
 	}
 }

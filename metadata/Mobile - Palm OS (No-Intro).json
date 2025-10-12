@@ -5,6 +5,9 @@
 	"Atari Retro (USA)": {
 		"languages": ["En"]
 	},
+	"Bejeweled Puzzle Pack (USA) (En,Fr,De,Es,It,Pt-BR)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt-BR"]
+	},
 	"Merriam-Webster - Crosswords & Word Challenges (USA)": {
 		"languages": ["En"]
 	},

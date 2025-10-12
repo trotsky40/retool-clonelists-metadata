@@ -1,0 +1,107 @@
+{
+	"Adventure 101 - Intro to Tourist Traps, Dwarfs and Chivalry (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Bertelsmann Lexikon Geschichte (Germany) (v2.0) (EBXA)": {
+		"languages": ["De"]
+	},
+	"Bertelsmann Universal Lexikon (Germany) (v2.0) (EBXA)": {
+		"languages": ["De"],
+		"localName": "Bertelsmann Universallexikon"
+	},
+	"Chronicle 3 - The Five Star Stories (Japan) (EBXA)": {
+		"languages": ["Ja"]
+	},
+	"Chronik des 20. Jahrhunderts mit Personenlexikon (Germany) (v2.0) (EBXA)": {
+		"languages": ["De"]
+	},
+	"CIA World Fact Book, The (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Compact America - The National Yellow Page Directory (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Compton's Concise Encyclopedia (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"European Business Guide (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Frommer's Guide - 5 Major Cities (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Hoover's Handbook - Profiles of Over 500 Major Corporations (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"International Wine Guide, The (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Jetro Ace Kaigai Business Guide - Hokubei (Japan) (EB)": {
+		"languages": ["Ja"],
+		"localName": "Ｊｅｔｒｏ　Ａｃｅ　海外ビジネスガイド（北米）"
+	},
+	"JTB no Skukuhaku Jouhou Zenkokuhen (Japan) (EB)": {
+		"languages": ["Ja"],
+		"localName": "ＪＴＢの　宿泊情報　全国編"
+	},
+	"King James Bible (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Koujien Dai-go-ban & Reader's Eiwa Jiten Dai-2-ban Shinwa ei Chuu Jiten (Japan) (S-EBXA)": {
+		"languages": ["Ja"]
+	},
+	"Library of the Future - Data Discman Vol. I (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Library of the Future - Vol. II (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"New Basics Electronic Cookbook (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"New Grolier Electronic Encyclopedia, The (Japan) (EBXA)": {
+		"languages": ["Ja"]
+	},
+	"New Grolier Electronic Encyclopedia, The (Japan) (Rev 1) (EBXA)": {
+		"languages": ["Ja"]
+	},
+	"NTC's Dictionary of American Idioms, Slang and Colloquial Expressions (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"OAG TravelDisc - North American Edition (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv) (v2.0) (EBXA)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Sv"]
+	},
+	"Passport's World Travel Translator (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Sr) (EBG)": {
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "Pt", "Sr", "Sv"]
+	},
+	"Roche Lexikon Medizin (Germany) (EBG)": {
+		"languages": ["De"]
+	},
+	"Roger Ebert's Movie Home Companion (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Time Table of History - Science and Innovation (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Total Baseball (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"USA Today - A Year in Review (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"USA Wars - Civil War (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"VGM's Careers Encyclopedia (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Webster's Official Crossword Puzzle Dictionary (USA) (EBG)": {
+		"languages": ["En"]
+	},
+	"Wellness Encyclopedia, The (USA) (EBG)": {
+		"languages": ["En"]
+	}
+}

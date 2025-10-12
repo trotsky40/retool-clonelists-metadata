@@ -1,9 +1,15 @@
 {
+	"1 on 1 (Japan)": {
+		"languages": ["Ja"]
+	},
 	"2Xtreme (USA)": {
 		"languages": ["En"]
 	},
 	"40 Winks (Europe)": {
 		"languages": ["En"]
+	},
+	"40 Winks (Russia)": {
+		"languages": ["Ru"]
 	},
 	"A5 - A-Ressha de Ikou 5 (Japan)": {
 		"languages": ["Ja"]
@@ -32,6 +38,9 @@
 	"Actua Tennis (Europe)": {
 		"languages": ["En"]
 	},
+	"Addie no Okurimono (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Advanced V.G (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -50,6 +59,12 @@
 	"Aero Dive (Japan)": {
 		"languages": ["Ja"]
 	},
+	"AI Mahjong Selection (Japan)": {
+		"languages": ["Ja"]
+	},
+	"AI Shougi Selection (Japan)": {
+		"languages": ["Ja"]
+	},
 	"AirAssault (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -60,6 +75,9 @@
 		"languages": ["Ja"]
 	},
 	"Akagawa Jirou - Yasoukyoku 2 (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Akagawa Jirou - Yasoukyoku (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Akumajou Dracula X - Gekka no Yasoukyoku (Japan)": {
@@ -137,7 +155,13 @@
 	"Arc the Lad III (USA)": {
 		"languages": ["En"]
 	},
+	"Arcade Hits - Frisky Tom (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Arcade Hits - Magical Drop (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Arcade Hits - Moon Cresta (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Arcade Hits - Outlaws of the Lost Dynasty (Japan)": {
@@ -157,6 +181,9 @@
 	},
 	"Arcade Hits - Sonic Wings Special (Asia)": {
 		"languages": ["Zh"]
+	},
+	"Arcade Hits - Sonic Wings Special (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Arcade Hits - Sonic Wings Special (Japan)": {
 		"languages": ["Ja"]
@@ -226,6 +253,9 @@
 	},
 	"ATV Racers (Germany)": {
 		"languages": ["De"]
+	},
+	"ATV Racers (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Azito (Japan)": {
 		"languages": ["Ja"]
@@ -311,6 +341,12 @@
 	"Blaster Master (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Blaze & Blade - Eternal Quest (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Blaze & Blade Busters (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Block Kuzushi - Kowashite Help! (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -344,10 +380,28 @@
 	"Bloody Roar II (USA)": {
 		"languages": ["En"]
 	},
+	"Blue Breaker - Egao no Yakusoku (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Blue Breaker Burst - Bishou wo Anata to (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Blue Breaker Burst - Smiling Face of Tomorrow (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Blue Marlin, The (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Boku wa Koukuu Kanseikan (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Bokujou Monogatari - Harvest Moon (Japan) (Alt)": {
+		"languages": ["Ja"]
+	},
 	"Bokujou Monogatari - Harvest Moon (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Bokujou Monogatari - Harvest Moon for Girl (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Bomberman - Party Edition (Japan)": {
@@ -363,6 +417,9 @@
 		"languages": ["En"]
 	},
 	"Bomberman Land (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Bombing Islands, The (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Bowling (USA)": {
@@ -401,7 +458,7 @@
 	"Bushido Blade 2 (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Bushidou Blade (Japan)": {
+	"Bushido Blade (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Bust-A-Move 4 (USA)": {
@@ -460,6 +517,9 @@
 	},
 	"Chiisa na Oukoku Eltria (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Cho Aniki (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Chocobo no Fushigi na Dungeon (Japan)": {
 		"languages": ["Ja"]
@@ -527,6 +587,9 @@
 	"Command & Conquer - Red Alert - Retaliation (Germany)": {
 		"languages": ["De"]
 	},
+	"Command & Conquer - Red Alert - Retaliation (Italy)": {
+		"languages": ["It"]
+	},
 	"Command & Conquer - Red Alert - Retaliation (USA)": {
 		"languages": ["En"]
 	},
@@ -540,6 +603,9 @@
 		"languages": ["En"]
 	},
 	"Conveni 2, The - Zenkoku Chain Tenkai da! (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Conveni, The - Ano Machi o Dokusen seyo (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Cool Boarders 2 (Europe)": {
@@ -581,6 +647,9 @@
 	"Crash Bandicoot 2 - Cortex Strikes Back (Europe)": {
 		"languages": ["En"]
 	},
+	"Crash Bandicoot 2 - Cortex Strikes Back (France)": {
+		"languages": ["Fr"]
+	},
 	"Crash Bandicoot 2 - Cortex Strikes Back (Germany)": {
 		"languages": ["De"]
 	},
@@ -617,11 +686,17 @@
 	"Crash Bandicoot (Germany)": {
 		"languages": ["De"]
 	},
+	"Crash Bandicoot (Italy)": {
+		"languages": ["It"]
+	},
 	"Crash Bandicoot (Japan) (PS3 v1.80)": {
 		"languages": ["Ja"]
 	},
 	"Crash Bandicoot (Japan) (PS3 v4.65)": {
 		"languages": ["Ja"]
+	},
+	"Crash Bandicoot (Spain)": {
+		"languages": ["Es"]
 	},
 	"Crash Bandicoot (USA) (v0.00)": {
 		"languages": ["En"]
@@ -637,18 +712,6 @@
 	},
 	"Crash Bandicoot Racing (Japan)": {
 		"languages": ["Ja"]
-	},
-	"Crash Team Racing (Europe)": {
-		"languages": ["En"]
-	},
-	"Crash Team Racing (France)": {
-		"languages": ["Fr"]
-	},
-	"Crash Team Racing (Germany)": {
-		"languages": ["De"]
-	},
-	"Crash Team Racing (Italy)": {
-		"languages": ["It"]
 	},
 	"Creatures 3 - Raised in Space (Europe)": {
 		"languages": ["En"]
@@ -673,6 +736,21 @@
 	},
 	"Crossroad Crisis (USA)": {
 		"languages": ["En"]
+	},
+	"CTR - Crash Team Racing (Europe)": {
+		"languages": ["En"]
+	},
+	"CTR - Crash Team Racing (France)": {
+		"languages": ["Fr"]
+	},
+	"CTR - Crash Team Racing (Germany)": {
+		"languages": ["De"]
+	},
+	"CTR - Crash Team Racing (Italy)": {
+		"languages": ["It"]
+	},
+	"CTR - Crash Team Racing (Spain)": {
+		"languages": ["Es"]
 	},
 	"CTR - Crash Team Racing (USA)": {
 		"languages": ["En"]
@@ -727,6 +805,9 @@
 	},
 	"Depth (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Dero-N Dero Dero (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Deserted Island (Japan)": {
 		"languages": ["Ja"]
@@ -824,6 +905,9 @@
 	"Disney's Lilo & Stitch (USA)": {
 		"languages": ["En"]
 	},
+	"Disney's Lilo & Stitch - Grossi Guai Alle Hawa (Italy)": {
+		"languages": ["It"]
+	},
 	"Disney's Lilo & Stitch - Trouble in Paradise (Europe)": {
 		"languages": ["En"]
 	},
@@ -905,6 +989,9 @@
 	"Disneys Peter Pan - Rueckkehr nach Nimmerland (Germany)": {
 		"languages": ["De"]
 	},
+	"Docchi Mecha! (Japan)": {
+		"languages": ["Ja"]
+	},
 	"DoDonPachi (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -912,6 +999,9 @@
 		"languages": ["Ja"]
 	},
 	"Doki Doki Poyachhio (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Doki Oki (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Doko Demo Issho (Japan)": {
@@ -935,6 +1025,9 @@
 	"Dragon Money (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Dragon Seeds - Saishuu Shinka Keitai (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Dragon Valor (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -949,6 +1042,9 @@
 	},
 	"Driver (Germany)": {
 		"languages": ["De"]
+	},
+	"Driver (Italy)": {
+		"languages": ["It"]
 	},
 	"Dungeon Shoutenkai - Densetsu no Ken Hajimemashita (Japan)": {
 		"languages": ["Ja"]
@@ -986,6 +1082,9 @@
 	"Everybody's Golf 2 (Europe)": {
 		"languages": ["En"]
 	},
+	"Exector (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Expert (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -997,6 +1096,12 @@
 	},
 	"Fade to Black (Europe)": {
 		"languages": ["En"]
+	},
+	"Falcata (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Family Chess (Japan)": {
+		"languages": ["nolang"]
 	},
 	"FamiRes, The - Shijou Saikyou no Menu (Japan)": {
 		"languages": ["Ja"]
@@ -1112,7 +1217,7 @@
 	"Final Fantasy VII (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Final Fantasy VII (Spain)": {
+	"Final Fantasy VII (Spain) [b]": {
 		"languages": ["Es"]
 	},
 	"Final Fantasy VII (USA)": {
@@ -1136,7 +1241,7 @@
 	"Final Fantasy VIII (Japan) (PS3 v4.46)": {
 		"languages": ["Ja"]
 	},
-	"Final Fantasy VIII (Spain)": {
+	"Final Fantasy VIII (Spain) [b]": {
 		"languages": ["Es"]
 	},
 	"Final Fantasy VIII (USA)": {
@@ -1211,10 +1316,16 @@
 	"G-Police (Europe)": {
 		"languages": ["En"]
 	},
+	"G-Police (France)": {
+		"languages": ["Fr"]
+	},
 	"G-Police (Germany)": {
 		"languages": ["De"]
 	},
 	"G-Police (Japan)": {
+		"languages": ["Ja"]
+	},
+	"GaiaMaster - Kamigami no Board Game (Japan)": {
 		"languages": ["Ja"]
 	},
 	"GaiaSeed (Europe)": {
@@ -1223,7 +1334,16 @@
 	"GaiaSeed - Project Seed Trap (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Gakkou wo Tsukurou!! Kouchou Sensei Monogatari (Japan)": {
+	"Gakkou de Atta Kowai Hanashi S (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gakkou o Tsukurou!! 2 (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Gakkou o Tsukurou!! (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Gakkou o Tsukurou!! Kouchou Sensei Monogatari (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Galaxian 3 (Japan)": {
@@ -1245,6 +1365,9 @@
 		"languages": ["Ja"]
 	},
 	"Gensou no Artemis - Actress School Mystery Adventure (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Geom Cube (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Gex 2 - Enter The Gecko (Europe)": {
@@ -1271,7 +1394,13 @@
 	"Gex - Deep Cover Gecko (Germany) (Fr,De)": {
 		"languages": ["De", "Fr"]
 	},
+	"Global Force - Shin Sentou Kokka (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Goiken Muyou II (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Goryuujin + Electro (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Gouketsuji Ichizoku 2 - Chotto Dake Saikyou Densetsu (Japan)": {
@@ -1294,6 +1423,9 @@
 	},
 	"Grille Logic (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Ground Stroke - Advanced Tennis Game (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Gubble (Europe)": {
 		"languages": ["En"]
@@ -1319,14 +1451,47 @@
 	"Gunparade March (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Gunparade March - E Rank 2nd Week Data (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gunparade March - Stage 1 - Shibamuratic Balance (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gunparade March - Stage 2 - Frameshift (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gunparade March - Stage 4 - Commander! (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gunparade March - Stage 5 - Toshun Gakuen (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gunparade March - Stage 6 - There's A Strange Situation in the Socks Front, Nakamura's Close To Crisis! (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gunparade March - Stage 7 - Day of Despair (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gunparade March - Stage 8 - Scout Polka (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Gunparade March - Stage 9 - Light Balance (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Gunship (Europe)": {
 		"languages": ["En"]
 	},
 	"Gunship (USA)": {
 		"languages": ["En"]
 	},
+	"Hana to Ryu (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Hanabi Fantast (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Hanafuda Graffiti - Koi Koi Monogatari (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Hard Edge (Japan)": {
 		"languages": ["Ja"]
@@ -1376,6 +1541,9 @@
 	"Hi-Octane (Europe)": {
 		"languages": ["En"]
 	},
+	"Hi-Octane (France)": {
+		"languages": ["Fr"]
+	},
 	"Hi-Octane (Germany)": {
 		"languages": ["De"]
 	},
@@ -1385,11 +1553,17 @@
 	"Hi-Octane - The Track Fights Back (USA)": {
 		"languages": ["En"]
 	},
+	"Hikari no Shima - Seven Lithographs in Shining Island (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Himitsu Sentai Metamor V Deluxe (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Hogs of War (USA)": {
 		"languages": ["En"]
+	},
+	"Honoo no Ryourinin - Cooking Fighter Hao (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Horror Mystery, The (Japan)": {
 		"languages": ["Ja"]
@@ -1448,6 +1622,9 @@
 	"James Pond 2 - Codename Robocod (Germany)": {
 		"languages": ["De"]
 	},
+	"James Pond 2 - Codename Robocod (Italy)": {
+		"languages": ["It"]
+	},
 	"Jet Copter X (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1469,94 +1646,19 @@
 	"Jet Rider (Germany)": {
 		"languages": ["De"]
 	},
+	"Jigsaw Island - Japan Graffiti (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Jigsaw Madness (Europe)": {
 		"languages": ["En"]
 	},
 	"Jigsaw Madness (USA)": {
 		"languages": ["En"]
 	},
+	"Jigsaw World (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Jiisan 2 Tabi Bikkuri - CG Mukashibanashi (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0013-NPJJ00568_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0013-NPJJ00577_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0102-NPJJ00623_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0240-NPJJ00292_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0325-NPJJ00217_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0325-NPJJ00227_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0325-NPJJ00240_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0507-NPJJ00205_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0507-NPJJ00237_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0507-NPJJ00238_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0507-NPJJ00246_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0571-NPJJ00010_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0571-NPJJ00159_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0571-NPJJ00426_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0571-NPJJ00438_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0571-NPJJ00452_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0571-NPJJ00530_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0700-NPJJ00560_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0700-NPJJ00676_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0700-NPJJ00696_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0700-NPJJ00706_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0747-NPJJ00532_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0747-NPJJ00535_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0747-NPJJ00589_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP0747-NPJJ00779_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP1091-NPJJ00740_00-0000000000000001 (Japan)": {
-		"languages": ["Ja"]
-	},
-	"JP9000-NPJI00006_00-0000000000000001 (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Judge Dredd (Europe)": {
@@ -1580,11 +1682,17 @@
 	"Jumping Flash! (USA)": {
 		"languages": ["En"]
 	},
+	"Kagero (Japan) (Alt)": {
+		"languages": ["Ja"]
+	},
 	"Kagero (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Kahen Soukou Gunbike - Speed Power Gunbike (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Kakuge-Yaro - Fighting Game Creator (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Kawa no Nushi Tsuri - Hikyou wo Motomete (Japan)": {
 		"languages": ["Ja"]
@@ -1600,6 +1708,9 @@
 	},
 	"Kickboxing (USA)": {
 		"languages": ["En"]
+	},
+	"Kid Clown no Crazy Chase 2 - Love Love Honey Soudatsusen (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Kileak - The Blood 2 (Japan)": {
 		"languages": ["Ja"]
@@ -1652,14 +1763,14 @@
 	"Kitchen Panic (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Klonoa - Door to Phantomile (Europe)": {
-		"languages": ["En"]
-	},
 	"Klonoa - Door to Phantomile (Germany)": {
 		"languages": ["De"]
 	},
 	"Klonoa - Door to Phantomile (Italy)": {
 		"languages": ["It"]
+	},
+	"Klonoa - Door to Phantomile (Spain) (En)": {
+		"languages": ["En"]
 	},
 	"Klonoa - Door to Phantomile (United Kingdom)": {
 		"languages": ["En"]
@@ -1674,6 +1785,9 @@
 		"languages": ["Ja"]
 	},
 	"Kokohore! Pukka - Dig-a-Dig Pukka (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Kokumeikan (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Komyuniteipomu - Home Town (Japan)": {
@@ -1699,6 +1813,9 @@
 	},
 	"Kula World (Europe)": {
 		"languages": ["En"]
+	},
+	"Kula World (France)": {
+		"languages": ["Fr"]
 	},
 	"Kula World (Germany)": {
 		"languages": ["De"]
@@ -1781,6 +1898,18 @@
 	"Loaded (Europe)": {
 		"languages": ["En"]
 	},
+	"Logic Mahjong Souryuu - Yonin Uchi, Sannin Uchi (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Lord Monarch (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Love Game's - Wai Wai Tennis (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Love Game's - Wai Wai Tennis Plus (Japan)": {
+		"languages": ["Ja"]
+	},
 	"LSD (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1829,6 +1958,12 @@
 	"Magic Carpet (USA)": {
 		"languages": ["En"]
 	},
+	"Magical Date - Doki Doki Kokuhaku Dai Sakusen (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Magical Dice Kids (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Magical Drop F (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1846,6 +1981,9 @@
 	},
 	"Mahoutsukai ni Naru Houhou (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Major Wave Series - Zipangu Jima - Unmei wa Saikoro ga Kimeru! (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Makeruna! Makendo 2 (Japan)": {
 		"languages": ["Ja"]
@@ -1868,6 +2006,9 @@
 	"Mass Destruction (USA)": {
 		"languages": ["En"]
 	},
+	"Master of Monsters - Akatsuki no Kenja Tatsu (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Max Surfing 2nd (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1888,6 +2029,9 @@
 	},
 	"MediEvil (Italy)": {
 		"languages": ["It"]
+	},
+	"MediEvil (Spain)": {
+		"languages": ["Es"]
 	},
 	"MediEvil (USA) (Unlock Key)": {
 		"languages": ["En"]
@@ -1933,6 +2077,12 @@
 	},
 	"Memorial Series - Sunsoft Vol. 6 (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Meremanoid (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Meru Purana (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Metal Gear Solid (Asia)": {
 		"languages": ["Zh"]
@@ -2018,6 +2168,9 @@
 	"Mickey's Wild Adventure (Europe)": {
 		"languages": ["En"]
 	},
+	"Mickey's Wild Adventure (Italy)": {
+		"languages": ["It"]
+	},
 	"Migi Hadari U-SA (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2066,10 +2219,16 @@
 	"Money Idol Exchanger (Japan) (PS3 v4.70) (PSP v6.61)": {
 		"languages": ["Ja"]
 	},
+	"Monster Bass! (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Monster Bass! (USA)": {
 		"languages": ["En"]
 	},
 	"Monster Farm 2 (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Monster Farm Jump (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Motor Toon Grand Prix 2 (Europe)": {
@@ -2110,6 +2269,9 @@
 	},
 	"My Home Dream (Japan)": {
 		"languages": ["Ja"]
+	},
+	"My Hot Cooking (Asia)": {
+		"languages": ["nolang"]
 	},
 	"Myst (Japan)": {
 		"languages": ["Ja"]
@@ -2189,6 +2351,9 @@
 	"Neorude - Kizamareta Monshou (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Nightmare Creatures (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Nippon Pro Mahjong Renmei Kounin - Doujou Yaburi 2 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2225,6 +2390,9 @@
 	"Nuclear Strike (USA)": {
 		"languages": ["En"]
 	},
+	"Nyan to Wonderful (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Oasis Road (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2252,6 +2420,9 @@
 	"Oddworld - Abe's Oddysee (Italy)": {
 		"languages": ["It"]
 	},
+	"Oddworld - Abe's Oddysee (Spain)": {
+		"languages": ["Es"]
+	},
 	"Oddworld - Abe's Oddysee (USA)": {
 		"languages": ["En"]
 	},
@@ -2264,7 +2435,10 @@
 	"Ore no Ryouri (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Ore no Shikabane wo Koete Yuke (Japan)": {
+	"Ore no Shikabane o Koete Yuke (Japan) (Alt)": {
+		"languages": ["Ja"]
+	},
+	"Ore no Shikabane o Koete Yuke (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Ore! Tomba (Japan)": {
@@ -2279,13 +2453,22 @@
 	"Pac-Man World 20th Anniversary (USA)": {
 		"languages": ["En"]
 	},
-	"Pacapaca Passion 2 (Japan)": {
+	"Paca Paca Passion 2 (Japan) (PS3 v3.60)": {
 		"languages": ["Ja"]
 	},
-	"Pacapaca Passion (Japan)": {
+	"Paca Paca Passion 2 (Japan) (PS3 v4.82)": {
 		"languages": ["Ja"]
 	},
-	"Pacapaca Passion Special (Japan)": {
+	"Paca Paca Passion (Japan) (PS3 v3.56)": {
+		"languages": ["Ja"]
+	},
+	"Paca Paca Passion (Japan) (PS3 v4.82)": {
+		"languages": ["Ja"]
+	},
+	"Paca Paca Passion Special (Japan) (PS3 v3.60)": {
+		"languages": ["Ja"]
+	},
+	"Paca Paca Passion Special (Japan) (PS3 v4.82)": {
 		"languages": ["Ja"]
 	},
 	"Pandemonium 2 (Germany)": {
@@ -2345,7 +2528,40 @@
 	"Pet Pet Pet (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Peter Pan - Adventures in Never Land (Italy)": {
+		"languages": ["It"]
+	},
 	"Philosoma (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Phix - The Adventure (Japan)": {
+		"languages": ["Ja"]
+	},
+	"PMS Vol.1 - Dragon Knights Glorious (Japan)": {
+		"languages": ["nolang"]
+	},
+	"PMS Vol.2 - The Dead House (Japan)": {
+		"languages": ["nolang"]
+	},
+	"PMS Vol.3 - Rabish Blaze (Japan)": {
+		"languages": ["nolang"]
+	},
+	"PMS Vol.4 - Catch! Feeling Sensation (Japan)": {
+		"languages": ["nolang"]
+	},
+	"PMS Vol.5 - Gochachiru (Japan)": {
+		"languages": ["nolang"]
+	},
+	"PMS Vol.6 ONI Zero - Resurrection (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Pocke-Kano - Aida Yumi (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Pocke-Kano - Houjouin Shizuka (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Pocke-Kano - Ueno Fumio (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Pocket Fighter (Japan)": {
@@ -2393,11 +2609,17 @@
 	"PoPoLoCrois Monogatari II (Japan)": {
 		"languages": ["Ja"]
 	},
+	"PoPoRoGue (Japan) (Alt)": {
+		"languages": ["Ja"]
+	},
 	"PoPoRoGue (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Populous - The Beginning (Europe)": {
 		"languages": ["En"]
+	},
+	"Populous - The Beginning (France)": {
+		"languages": ["Fr"]
 	},
 	"Populous - The Beginning (Japan)": {
 		"languages": ["Ja"]
@@ -2474,10 +2696,16 @@
 	"Puzzle Bobble 3 DX (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Puzzle Mania 2 (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Puzzle Mania (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Quiz Nanairo Dreams - Nijiiro Machi no Kiseki (Japan)": {
 		"languages": ["Ja"]
 	},
-	"R4 - Ridge Racer Type 4 (Japan)": {
+	"R-4 - Ridge Racer Type 4 (Japan)": {
 		"languages": ["Ja"]
 	},
 	"R-4 Ridge Racer Type 4 (Europe)": {
@@ -2489,8 +2717,14 @@
 	"R-4 Ridge Racer Type 4 (USA)": {
 		"languages": ["En"]
 	},
+	"R-Type Delta (Japan)": {
+		"languages": ["Ja"]
+	},
 	"R-Type Delta (USA)": {
 		"languages": ["En"]
+	},
+	"R-Types (Japan)": {
+		"languages": ["Ja"]
 	},
 	"R-Types (USA)": {
 		"languages": ["En"]
@@ -2513,6 +2747,9 @@
 	"Rally Cross (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Rally Cross (USA) (Alt)": {
+		"languages": ["En"]
+	},
 	"Rally Cross (USA)": {
 		"languages": ["En"]
 	},
@@ -2523,6 +2760,9 @@
 		"languages": ["Ja"]
 	},
 	"Rascal Racers (Europe)": {
+		"languages": ["En"]
+	},
+	"Rascal Racers (Germany) (En)": {
 		"languages": ["En"]
 	},
 	"Ray Tracers (Japan)": {
@@ -2537,10 +2777,13 @@
 	"Rayman 2 - The Great Escape (Europe) (En,Es,It)": {
 		"languages": ["En", "Es", "It"]
 	},
-	"Rayman 2 - The Great Escape (Europe) (Fr,De)": {
+	"Rayman 2 - The Great Escape (Germany) (Fr,De)": {
 		"languages": ["De", "Fr"]
 	},
-	"Rayman 2 - The Great Escape (Europe)": {
+	"Rayman 2 - The Great Escape (Italy)": {
+		"languages": ["It"]
+	},
+	"Rayman 2 - The Great Escape (Spain) (En)": {
 		"languages": ["En"]
 	},
 	"Rayman 2 - The Great Escape (USA)": {
@@ -2582,11 +2825,17 @@
 	"Reel Fishing (Europe)": {
 		"languages": ["En"]
 	},
+	"Reel Fishing (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Reel Fishing (USA)": {
 		"languages": ["En"]
 	},
 	"Reel Fishing II (Europe)": {
 		"languages": ["En"]
+	},
+	"Reel Fishing II (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Reel Fishing II (USA)": {
 		"languages": ["En"]
@@ -2599,6 +2848,9 @@
 	},
 	"Reloaded (USA)": {
 		"languages": ["En"]
+	},
+	"Rescue 24 Hours (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Resident Evil 2 (Europe)": {
 		"languages": ["En"]
@@ -2714,6 +2966,9 @@
 	"Romance of the Three Kingdoms IV - Wall of Fire (USA)": {
 		"languages": ["En"]
 	},
+	"Roommate - Inoue Ryoko (Japan)": {
+		"languages": ["Ja"]
+	},
 	"RungRung - Oz no Mahou Tsukai - Another World (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2792,6 +3047,9 @@
 	"Seireiki Rayblade (Asia)": {
 		"languages": ["Zh"]
 	},
+	"Sengoku Mugen (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Sentimental Graffiti (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2812,6 +3070,9 @@
 	},
 	"Sheep (Europe)": {
 		"languages": ["En"]
+	},
+	"Sheep (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Shin Megami Tensei (Japan)": {
 		"languages": ["Ja"]
@@ -2846,6 +3107,9 @@
 	"Shooter Space Shot (USA)": {
 		"languages": ["En"]
 	},
+	"Side Pocket 3 (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Silent Bomber (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2878,6 +3142,9 @@
 	},
 	"SimCity 2000 (Germany)": {
 		"languages": ["De"]
+	},
+	"SimCity 2000 (Italy)": {
+		"languages": ["It"]
 	},
 	"SimCity 2000 (USA)": {
 		"languages": ["En"]
@@ -3017,14 +3284,26 @@
 	"Simple 1500 Series Vol. 101 - The Sentou (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Slam Dragon (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Slap Happy Rhythm Busters (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Smash Court 2 (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Smash Court 3 (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Smash Court (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Sno-Cross Championship Racing (USA)": {
 		"languages": ["En"]
 	},
-	"Snowboard Racer (Russia)": {
-		"languages": ["Ru"]
+	"Snowboard Racer (Europe)": {
+		"languages": ["En"]
 	},
 	"Sorcerer's Maze (Europe)": {
 		"languages": ["En"]
@@ -3146,11 +3425,11 @@
 	"Starfighter Sanvein (USA)": {
 		"languages": ["En"]
 	},
-	"Streak - Hover Board Racing (Russia)": {
-		"languages": ["Ru"]
-	},
 	"Streak - Hoverboard Racing (Europe)": {
 		"languages": ["En"]
+	},
+	"Streak - Hoverboard Racing (Russia)": {
+		"languages": ["Ru"]
 	},
 	"Street Boarders 2 (Japan)": {
 		"languages": ["Ja"]
@@ -3224,6 +3503,9 @@
 	"Strider Hiryuu 1 & 2 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Strikers 1945 II (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Suikoden (Europe)": {
 		"languages": ["En"]
 	},
@@ -3272,6 +3554,9 @@
 	"Super Slammin' Dodgeball (Europe)": {
 		"languages": ["En"]
 	},
+	"SuperLite 3-in-1 Series - Quiz Collection (Japan)": {
+		"languages": ["Ja"]
+	},
 	"SuperLite 1500 Series - Battle Sugoroku - Hunter (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -3296,6 +3581,9 @@
 	"SuperLite 1500 Series - Hanafuda II (Japan)": {
 		"languages": ["Ja"]
 	},
+	"SuperLite 1500 Series - Hooockey!! (Japan)": {
+		"languages": ["Ja"]
+	},
 	"SuperLite 1500 Series - Oekaki Puzzle 3 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -3311,10 +3599,22 @@
 	"SuperLite 1500 Series - Pinball Golden Logres (Japan)": {
 		"languages": ["Ja"]
 	},
+	"SuperLite 1500 Series - Quiz Master Blue (Japan)": {
+		"languages": ["Ja"]
+	},
+	"SuperLite 1500 Series - Quiz Master Red (Japan)": {
+		"languages": ["Ja"]
+	},
 	"SuperLite 1500 Series - Quiz Master Yellow (Japan)": {
 		"languages": ["Ja"]
 	},
 	"SuperLite 1500 Series - Sanvein (Japan)": {
+		"languages": ["Ja"]
+	},
+	"SuperLite 1500 Series - Shanghai - Dynasty (Japan)": {
+		"languages": ["Ja"]
+	},
+	"SuperLite 1500 Series - The Curling (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Superstar Dance Club (Europe)": {
@@ -3365,7 +3665,13 @@
 	"Syphon Filter (USA) (v1.00)": {
 		"languages": ["En"]
 	},
+	"T kara Hajimaru Monogatari (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Taiyou no Shippo - Wild, Pure, Simple Life (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Tall Twins Tower (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Tall Unlimited (Japan)": {
@@ -3407,6 +3713,9 @@
 	"Tekken 2 (Germany)": {
 		"languages": ["De"]
 	},
+	"Tekken 2 (Italy)": {
+		"languages": ["It"]
+	},
 	"Tekken 2 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -3422,11 +3731,20 @@
 	"Tekken (Europe)": {
 		"languages": ["En"]
 	},
+	"Tekken (France)": {
+		"languages": ["Fr"]
+	},
 	"Tekken (Germany)": {
 		"languages": ["De"]
 	},
+	"Tekken (Italy)": {
+		"languages": ["It"]
+	},
 	"Tekken (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Tekken (Spain)": {
+		"languages": ["Es"]
 	},
 	"Tekken (USA)": {
 		"languages": ["En"]
@@ -3438,6 +3756,9 @@
 		"languages": ["Ja"]
 	},
 	"Tetsuman Special - Honkaku Mahjong (Japan)": {
+		"languages": ["Ja"]
+	},
+	"The Drug Store (Japan)": {
 		"languages": ["Ja"]
 	},
 	"The Pro Mahjong - Menkyo Minnaten (Japan)": {
@@ -3472,6 +3793,9 @@
 	},
 	"Theme Park (Europe)": {
 		"languages": ["En"]
+	},
+	"Theme Park (France)": {
+		"languages": ["Fr"]
 	},
 	"Theme Park (Germany)": {
 		"languages": ["De"]
@@ -3530,8 +3854,8 @@
 	"Tokyo Majin Gakuen Oboro-Kitan (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Tom Clancy's Rainbow Six (Europe)": {
-		"languages": ["En"]
+	"Tom Clancy's Rainbow Six (France)": {
+		"languages": ["Fr"]
 	},
 	"Tom Clancy's Rainbow Six (USA)": {
 		"languages": ["En"]
@@ -3602,6 +3926,9 @@
 	"Touge Max - Saisoku Driver Master (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Touki Denshou - Angel Eyes (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Toys Dream (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -3666,9 +3993,6 @@
 	"Ungra Walker (Japan)": {
 		"languages": ["Ja"]
 	},
-	"UP9000-NPUI94308_00-0000000000000002 (USA)": {
-		"languages": ["En"]
-	},
 	"Urawaza Mahjong - Korette Tenwatte Yatsukai (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -3717,6 +4041,9 @@
 	"Vib-Ribbon (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Vib-Ribbon (Spain)": {
+		"languages": ["Es"]
+	},
 	"Vib-Ribbon (United Kingdom)": {
 		"languages": ["En"]
 	},
@@ -3729,10 +4056,22 @@
 	"Virtual Pool 3 (USA)": {
 		"languages": ["En"]
 	},
+	"Wai Wai Bowling (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Wai Wai Kart (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Wai Wai Kusayakyu (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Waiwai Kart (Asia)": {
 		"languages": ["Zh"]
 	},
 	"Waku Waku Derby (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Waku Waku Volley (Japan) (Alt)": {
 		"languages": ["Ja"]
 	},
 	"Waku Waku Volley (Japan)": {
@@ -3829,6 +4168,15 @@
 		"languages": ["Ja"]
 	},
 	"Wolf Fang (Japan)": {
+		"languages": ["Ja"]
+	},
+	"World Greatest Hits Series Vol. 5 - Tyco R-C - Assault with a Battery (Japan)": {
+		"languages": ["Ja"]
+	},
+	"World Neverland 2 - Pluto Kyouwakoku Monogatari (Japan)": {
+		"languages": ["Ja"]
+	},
+	"World Neverland - Olerud Oukoku Monogatari (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Xenogears (Japan)": {

@@ -30,15 +30,15 @@
 		"languages": [],
 		"localName": "コード・オブ・ジョーカーＳ"
 	},
-	"GeeSen Love. (Japan)": {
+	"GeeSen Love. Plus Pengo! (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ゲーセンラブ。"
+		"localName": "ゲーセンラブ。プラスペンゴ！"
 	},
 	"Guilty Gear XX Accent Core Plus R (Japan)": {
 		"languages": []
 	},
 	"Guilty Gear XX Accent Core Plus R (Japan) (Rev A)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "ギルティギア　イグゼクス　アクセントコア　プラスアール"
 	},
 	"Hokuto no Ken - Battle Medal (Japan) (Rev D)": {
@@ -139,7 +139,7 @@
 		"localName": "トランスフォーマー　ヒューマンアライアンス"
 	},
 	"Under Night In-Birth (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "アンダー・ナイト・インヴァース"
 	}
 }

@@ -2285,6 +2285,9 @@
 	"Disney - Pixar Arabalar 2 (Turkey)": {
 		"languages": ["Tr"]
 	},
+	"Disney - Pixar Cars - Mater-National Championship (USA) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
 	"Disney Alice in Wonderland (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -2653,9 +2656,6 @@
 	},
 	"Disney-Pixar Cars - Mater-National Championship (USA) (Beta)": {
 		"languages": []
-	},
-	"Disney-Pixar Cars - Mater-National Championship (USA) (En,Es)": {
-		"languages": ["En", "Es"]
 	},
 	"Disney-Pixar Cars - Race-O-Rama (Europe) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
@@ -5150,19 +5150,19 @@
 	"Just Dance 3 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Just Dance 3 (USA) (En,Fr,Es) (Best Buy)": {
-		"languages": ["En", "Es", "Fr"]
-	},
-	"Just Dance 3 (USA) (En,Fr,Es) (Best Buy) (Rev 1)": {
-		"languages": ["En", "Es", "Fr"]
-	},
 	"Just Dance 3 (USA) (En,Fr,Es) (Rev 1)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Just Dance 3 (USA) (En,Fr,Es) (Target Exclusive Edition)": {
+	"Just Dance 3 (USA) (En,Fr,Es) (SJDY)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Just Dance 3 (USA) (En,Fr,Es) (Target Exclusive Edition) (Rev 1)": {
+	"Just Dance 3 (USA) (En,Fr,Es) (SJDY) (Rev 1)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Just Dance 3 (USA) (En,Fr,Es) (SJDZ)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Just Dance 3 (USA) (En,Fr,Es) (SJDZ) (Rev 1)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Just Dance 4 (Europe) (En,Fr,De,Es,It)": {
@@ -8927,8 +8927,8 @@
 	"Rock Band 3 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Rock Band 3 (USA)": {
-		"languages": ["En"]
+	"Rock Band 3 (USA) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Rock Band Track Pack - Classic Rock (USA)": {
 		"languages": ["En"]
@@ -11883,10 +11883,10 @@
 		"languages": ["Ja"],
 		"localName": "零　～月蝕の仮面～"
 	},
-	"ZhuZhu Pets - Featuring the Wild Bunch (Europe, Australia) (En,Fr,De,Es,It)": {
+	"Zhu Zhu Pets - Featuring the Wild Bunch (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"ZhuZhu Pets - Featuring the Wild Bunch (USA) (En,Fr,Es)": {
+	"Zhu Zhu Pets - Featuring the Wild Bunch (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Zoo Hospital (Europe) (En,Fr,De,Es,It,Nl)": {

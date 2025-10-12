@@ -1,5 +1,23 @@
 {
-	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Development)": {
+	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Beta) (1997-04-03)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1996-09-26)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-01-14)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-07-17)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-12-09)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1998-03-12)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1998-06-16)": {
 		"languages": ["Ja"]
 	},
 	"[BIOS] Nintendo 64DD Drive Controller (Japan) (Retail)": {
@@ -20,7 +38,13 @@
 	"[BIOS] Nintendo 64DD Tool IPL (Japan) (Beta)": {
 		"languages": ["Ja"]
 	},
-	"Dezaemon DD (Japan) (Proto)": {
+	"Dezaemon DD (Japan) (Proto) (1997-11-07) (Expansion)": {
+		"languages": ["Ja"]
+	},
+	"Dezaemon DD (Japan) (Proto) (1998-02-23T192425) (Expansion)": {
+		"languages": ["Ja"]
+	},
+	"Dezaemon DD (Japan) (Proto) (1998-02-23T210259) (Expansion) [b]": {
 		"languages": ["Ja"]
 	},
 	"F-Zero X - Expansion Kit (Japan)": {
@@ -47,10 +71,25 @@
 	"Mario Artist - Polygon Studio (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Mario Artist - Talent Studio (Japan) (Beta) (1999-08-05)": {
+		"languages": ["Ja"]
+	},
 	"Mario Artist - Talent Studio (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Nihon Pro Golf Tour 64 (Japan) [b]": {
+		"languages": ["Ja"]
+	},
+	"Randnet Disk (Japan) (Beta) (1999-09-28)": {
+		"languages": ["Ja"]
+	},
+	"Randnet Disk (Japan) (Beta) (1999-11-27)": {
+		"languages": ["Ja"]
+	},
+	"Randnet Disk (Japan) (Beta) (2000-02-04)": {
+		"languages": ["Ja"]
+	},
+	"Randnet Disk (Japan) (Beta) (2000-02-17)": {
 		"languages": ["Ja"]
 	},
 	"Randnet Disk (Japan) (Rev 1) [b]": {

@@ -150,8 +150,8 @@
 	"Ace Combat - Assault Horizon (Europe) (En,Ru)": {
 		"languages": ["En", "Ru"]
 	},
-	"Ace Combat - Assault Horizon (Japan)": {
-		"languages": ["Ja"],
+	"Ace Combat - Assault Horizon (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "エースコンバット　アサルト・ホライゾン"
 	},
 	"Ace Combat - Assault Horizon (USA) (En,Fr,Es)": {
@@ -522,6 +522,9 @@
 	},
 	"Armored Core 4 (USA)": {
 		"languages": ["En"]
+	},
+	"Armored Core V (Asia)": {
+		"languages": []
 	},
 	"Armored Core V (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -920,7 +923,7 @@
 		"languages": ["Ja"],
 		"localName": "バットマン　アーカム・アサイラム"
 	},
-	"Batman - Arkham Asylum (USA) (En,Fr,De,Es,It)": {
+	"Batman - Arkham Asylum (USA, Canada) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Batman - Arkham Asylum - Game of the Year Edition (Europe) (En,Fr,De,Es,It)": {
@@ -4322,14 +4325,14 @@
 	"FIFA 08 (Asia)": {
 		"languages": ["En"]
 	},
+	"FIFA 08 (Europe)": {
+		"languages": ["En"]
+	},
 	"FIFA 08 (Europe) (En,Fr,De,Es,It,Nl,Sv)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Sv"]
 	},
 	"FIFA 08 (Russia)": {
 		"languages": ["Ru"]
-	},
-	"FIFA 08 (UK)": {
-		"languages": ["En"]
 	},
 	"FIFA 08 - World Class Soccer (Japan)": {
 		"languages": [],
@@ -5290,9 +5293,6 @@
 	"Gran Turismo 5 (USA, Brazil) (En,Ja,Fr,Es,Pt) (v01.00)": {
 		"languages": ["En", "Es", "Fr", "Ja", "Pt"]
 	},
-	"Gran Turismo 5 - 2013 Edition (Asia) (En,Zh)": {
-		"languages": ["En", "Zh"]
-	},
 	"Gran Turismo 5 - Prologue (Asia)": {
 		"languages": ["Zh"]
 	},
@@ -5320,6 +5320,9 @@
 	},
 	"Gran Turismo 5 - Prologue Spec III (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Gran Turismo 5 - Spec II (Asia) (En,Zh)": {
+		"languages": ["En", "Zh"]
 	},
 	"Gran Turismo 5 - Spec II (Japan)": {
 		"languages": [],
@@ -6660,6 +6663,9 @@
 	"King of Fighters XII, The (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
+	"King of Fighters XIII, The (Asia)": {
+		"languages": []
+	},
 	"King of Fighters XIII, The (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
 	},
@@ -7711,7 +7717,7 @@
 		"languages": [],
 		"localName": "メモーション"
 	},
-	"Medal of Honor (Austria) (En,De)": {
+	"Medal of Honor (Austria, Switzerland) (En,De)": {
 		"languages": ["De", "En"]
 	},
 	"Medal of Honor (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
@@ -8830,6 +8836,9 @@
 	},
 	"Need for Speed - Hot Pursuit (USA, Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Need for Speed - Most Wanted - A Criterion Game (Asia)": {
+		"languages": []
 	},
 	"Need for Speed - Most Wanted - A Criterion Game (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,Ar)": {
 		"languages": ["Ar", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Ru"]
@@ -11078,6 +11087,9 @@
 	"Sekai Saikyou Ginsei Shougi - Fuuun Ryuuko Raiden (Japan)": {
 		"languages": [],
 		"localName": "世界最強　銀星将棋　風雲竜虎雷伝"
+	},
+	"Sengoku Basara - Samurai Heroes (Asia)": {
+		"languages": []
 	},
 	"Sengoku Basara - Samurai Heroes (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]

@@ -248,6 +248,39 @@
 	"Air Adrenaline (Unknown) (Sony Ericsson Z600, 128x128) (v1.0.6)": {
 		"languages": ["En"]
 	},
+	"Bejeweled and Peggle Combo (Unknown) (Nokia, 128x160) (v4.0.34)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Nokia, 176x208) (v4.0.83)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Nokia, 240x320) (v4.0.86)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Nokia, 320x240) (v4.0.67)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Nokia, 360x640) (v4.0.59)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Samsung, 128x160) (v4.1.45)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Samsung, 220x176) (v4.1.10)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Samsung, 240x400) (v4.0.72)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Sony Ericsson, 128x160) (v4.2.13)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Sony Ericsson, 176x220) (v4.0.37)": {
+		"languages": ["En"]
+	},
+	"Bejeweled and Peggle Combo (Unknown) (Sony Ericsson, 240x320) (v4.2.2)": {
+		"languages": ["En"]
+	},
 	"Blub! (Unknown) (Nokia Series 30, 96x65) (v1.5.0)": {
 		"languages": ["En"]
 	},
@@ -320,13 +353,73 @@
 	"Cybores (Unknown) (Nokia Series 30, 96x65) (v1.5.3)": {
 		"languages": ["En"]
 	},
+	"Doom RPG (Unknown) (It) (Nokia N95, 240x320) (v1.8.84) [b]": {
+		"languages": ["It"]
+	},
+	"Doom RPG (Unknown) (Motorola V551, 176x204) (v1.0.20) [b]": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia 5200, 128x160) (v1.11.7)": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia 6151, 128x160) (v1.9.98)": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia 6233, 240x320) (v1.8.94)": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia 6280, 240x320) (v1.3.83) [b]": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia 6600, 176x208) (v1.1.3)": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia 6680, 176x208) (v1.2.50)": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia N70, 176x208) (v1.11.85)": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia s40v5, 240x320) (v1.4.67)": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia s60v3, 240x320) (v1.6.89) [b]": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Nokia, 208x208) (v1.1.24)": {
+		"languages": ["En"]
+	},
+	"Doom RPG (Unknown) (Sony Ericsson K500, 128x160) (v1.0.92) [b]": {
+		"languages": ["En"]
+	},
+	"Doom RPG (USA) (Samsung SPH-A880, 176x220) (v1.0.18)": {
+		"languages": ["En"]
+	},
 	"Down (Unknown) (Nokia Series 40, 128x128) (v1.5.3)": {
 		"languages": ["En"]
 	},
-	"Down (Unknown) (Sony Ericsson T-Series, 128x128) (v1.5.3)": {
+	"Down (Unknown) (Sony Ericsson Txxx, 128x128) (v1.5.3)": {
 		"languages": ["En"]
 	},
-	"Empire Earth (Unknown) (En,Fr,De,Es,It) (176x208)": {
+	"Empire Earth (Unknown) (En,Fr,De,Es,It) (Motorola, 128x116) (v0.3.3)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Empire Earth (Unknown) (En,Fr,De,Es,It) (Nokia s40v2, 128x128) (v0.2.8) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Empire Earth (Unknown) (En,Fr,De,Es,It) (Nokia s40v3, 208x208) (v0.3.4)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Empire Earth (Unknown) (En,Fr,De,Es,It) (Nokia, 176x208) (v0.2.4)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Empire Earth (Unknown) (En,Fr,De,Es,It) (Siemens, 132x176) (v0.3.1)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Empire Earth (Unknown) (En,Fr,De,Es,It) (Sony Ericsson S700, 240x320) (v0.2.6) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Empire Earth (Unknown) (En,Fr,De,Es,It) (Sony Ericsson, 176x220) (v0.1.9)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Glider (Unknown) (Nokia Series 30, 96x65) (v1.5.0) [b]": {
@@ -590,11 +683,173 @@
 	"One on One Basket (Unknown) (Sony Ericsson T610, 128x128) (v1.0.17) [b]": {
 		"languages": ["En"]
 	},
-	"Peggle (Unknown) (En,Fr,De,Es,It) (240x320) (v01.02.50)": {
+	"Peggle (Unknown) (En,Fr,De,Es,It) (LG KU990, 240x298) [b]": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Peggle (Unknown) (En,Fr,De,Es,It) (240x320) (v4.4.13)": {
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Motorola C975, 176x204) (v01.01.40)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Motorola V3x, 240x299) (v01.01.17)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 500, 360x640) (v4.3.67)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 2700, 240x320) (v01.00.92)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 3250, 176x208) (v01.01.26)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 3250, 176x208) (v01.01.36)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5200, 128x160) (v01.01.63)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5310, 240x320) (v01.00.71) (Demo)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5310, 240x320) (v01.00.71, 2008)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5310, 240x320) (v01.00.71, 2010)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 5800, 360x640) (v1.5.5)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6111, 128x160) (v01.01.58)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6126, 240x320) (v01.01.04) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6220c, 240x320) (v01.01.63, 2008)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6220c, 240x320) (v01.01.63, 2010)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6233, 240x320) (v01.00.96)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6280, 240x320) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia 6600, 176x208) (v01.01.27)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia Asha 201, 320x240) (v4.4.14) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia Asha 300, 240x320) (v4.4.2) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia C3-00, 320x240) (v4.3.12)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia C5-00, 240x320) (v4.4.13)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia E61, 320x240) (2009)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia E61, 320x240) (v01.00.74, 2008)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia E61, 320x240) (v01.00.74, 2010)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia N70, 176x208) (2009)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia N70, 176x208) (v01.01.32, 2008)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia N73, 240x320) (v01.01.06)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia N95, 240x320) (v01.02.35)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia s40v3, 208x208) (v01.01.89)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia s40v5, 240x320) (v01.00.78)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia X2-00, 240x320) (v4.3.34)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Nokia, 240x320)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Samsung Chat 335, 320x240) (v4.4.3) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Samsung GT-E2121, 128x128) (v4.3.35) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Samsung GT-S8000, 240x400) (v4.3.16) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Samsung SGH-E250i, 128x160) (v4.3.44) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Samsung SGH-F480, 240x320) (v4.3.17) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Samsung, 176x205) (v01.01.10)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson C902, 240x320) (v01.00.76)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K300i, 128x128) (v01.00.65)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K510i, 128x160) (v01.01.00)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson K700i, 176x220) (v01.01.24)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson M600, 240x320) (v01.02.50)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson W810i, 176x220) (v01.00.82)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson, 128x160)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson, 240x320) (v4.3.68)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (En,Fr,De,Es,It) (Sony Ericsson, 240x320)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Peggle (Unknown) (Motorola E550, 176x204) (v01.02.54)": {
+		"languages": ["En"]
+	},
+	"Peggle (Unknown) (Nokia 6230i, 208x208) (2009)": {
+		"languages": ["En"]
+	},
+	"Peggle (Unknown) (Nokia 6230i, 208x208) (v01.01.79, 2008)": {
+		"languages": ["En"]
+	},
+	"Peggle (Unknown) (Nokia, 128x160)": {
+		"languages": ["En"]
+	},
+	"Peggle (Unknown) (Samsung SGH-E250, 128x160)": {
+		"languages": ["En"]
+	},
+	"Peggle (Unknown) (Samsung, 240x320)": {
+		"languages": ["En"]
+	},
+	"Peggle (Unknown) (Unknown Device, 128x160) (v01.02.64)": {
+		"languages": ["En"]
 	},
 	"Pesky Marbles (Unknown) (128x128) (v1.5.0)": {
 		"languages": ["En"]

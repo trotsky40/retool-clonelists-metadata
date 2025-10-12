@@ -613,6 +613,10 @@
 	"Battle Royal (India)": {
 		"languages": []
 	},
+	"Battle Spirits - Heroes Soul (Japan)": {
+		"languages": ["Ja"],
+		"localName": "バトルスピリッツ　ヒーローズ　ソウル"
+	},
 	"Battle Spirits - Kiseki no Hasha (Japan)": {
 		"languages": ["Ja"],
 		"localName": "バトルスピリッツ　輝石の覇者"
@@ -915,7 +919,11 @@
 	"Bounty Hounds (USA)": {
 		"languages": ["En"]
 	},
-	"Boxer's Road 2 - The Real (Japan)": {
+	"Boxer's Road 2 - The Real (Japan) (v1.10)": {
+		"languages": ["Ja"],
+		"localName": "ボクサーズロード２　ザ・リアル"
+	},
+	"Boxer's Road 2 - The Real (Japan) (v2.00)": {
 		"languages": ["Ja"],
 		"localName": "ボクサーズロード２　ザ・リアル"
 	},
@@ -2682,6 +2690,10 @@
 	"Eragon (USA)": {
 		"languages": []
 	},
+	"Eternal Etude - Canvas 4 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "エターナル・エチュード　Ｃａｎｖａｓ４"
+	},
 	"Etude Prologue Portable - Yureugoku Kokoro no Katachi (Japan)": {
 		"languages": ["Ja"],
 		"localName": "エチュードプロローグ　ポータブル　〜揺れ動く心のかたち〜"
@@ -2704,6 +2716,10 @@
 	"Every Extend Extra (Japan)": {
 		"languages": ["Ja"],
 		"localName": "エブリ　エクステンド　エクストラ"
+	},
+	"Every Extend Extra (Korea)": {
+		"languages": ["En"],
+		"localName": "에브리 엑스텐드 엑스트라"
 	},
 	"Every Extend Extra (USA)": {
 		"languages": ["En"]
@@ -2775,9 +2791,6 @@
 		"languages": ["Ja"],
 		"localName": "アイシールド　２１　ポータブルエディション"
 	},
-	"F1 06 Portable (Asia)": {
-		"languages": ["Ja"]
-	},
 	"F1 2009 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -2825,6 +2838,9 @@
 	},
 	"FIFA 07 (Italy)": {
 		"languages": ["It"]
+	},
+	"FIFA 07 (Japan)": {
+		"languages": ["Ja"]
 	},
 	"FIFA 07 (Netherlands)": {
 		"languages": ["Nl"]
@@ -2887,6 +2903,10 @@
 	"FIFA 09 (Spain)": {
 		"languages": ["Es"]
 	},
+	"FIFA 09 - World Class Soccer (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＦＩＦＡ　０９　ワールドクラス　サッカー"
+	},
 	"FIFA 10 (Europe)": {
 		"languages": ["En"]
 	},
@@ -2913,6 +2933,10 @@
 	},
 	"FIFA 10 (Spain)": {
 		"languages": ["Es"]
+	},
+	"FIFA 10 - World Class Soccer (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＦＩＦＡ　１０　ワールドクラス　サッカー"
 	},
 	"FIFA 11 (Europe) (v1.01)": {
 		"languages": ["En"]
@@ -2971,6 +2995,10 @@
 	"FIFA 11 (Spain) (v2.01)": {
 		"languages": ["Es"]
 	},
+	"FIFA 11 - World Class Soccer (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＦＩＦＡ　１１　ワールドクラス　サッカー"
+	},
 	"FIFA 12 (Europe)": {
 		"languages": ["En"]
 	},
@@ -3028,6 +3056,10 @@
 	},
 	"FIFA 13 (Spain)": {
 		"languages": ["Es"]
+	},
+	"FIFA 13 - World Class Soccer (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＦＩＦＡ　１３　ワールドクラス　サッカー"
 	},
 	"FIFA 14 (Europe)": {
 		"languages": ["En"]
@@ -3120,6 +3152,10 @@
 	},
 	"FIFA Street 2 (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"FIFA Street 2 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＦＩＦＡ　ストリート２"
 	},
 	"FIFA Street 2 (USA)": {
 		"languages": ["En"]
@@ -3301,6 +3337,10 @@
 	"Final Fantasy Tactics - The War of the Lions (USA)": {
 		"languages": ["En"]
 	},
+	"Finder Love - Kudou Risa - First Shoot wa Kimi to (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ファインダーラブ　工藤里紗　ファーストショットは君と。"
+	},
 	"Fired Up (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -3365,15 +3405,17 @@
 	"Ford Street Racing XR Edition (Australia)": {
 		"languages": ["En"]
 	},
-	"Formula 1 - F1 05 Portable (Japan)": {
-		"languages": ["Ja"],
-		"localName": "フォーミュラワン　０５　ポータブル"
-	},
 	"Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi)": {
 		"languages": ["De", "En", "Es", "Fi", "Fr", "It", "Pt"]
 	},
 	"Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi) (Beta) (2006-06-15)": {
 		"languages": ["De", "En", "Es", "Fi", "Fr", "It", "Pt"]
+	},
+	"Formula One 2005 Portable (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Formula One 2006 Portable (Japan, Asia)": {
+		"languages": ["Ja"]
 	},
 	"Frantix (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3387,6 +3429,10 @@
 	},
 	"Frantix (USA) (Beta) (2005-06-28)": {
 		"languages": ["En"]
+	},
+	"Frantix - Kirakira Nazotoki Daibouken (Japan)": {
+		"languages": ["Ja"],
+		"localName": "フランティックス　きらきら謎解き大冒険"
 	},
 	"Freak Out - Extreme Freeride (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3882,6 +3928,10 @@
 	"Gretzky NHL 06 (USA)": {
 		"languages": ["En"]
 	},
+	"Grimm the Bounty Hunter (Japan)": {
+		"languages": ["Ja"],
+		"localName": "グリム・ザ・バウンティハンター"
+	},
 	"GripShift (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -4257,7 +4307,11 @@
 	},
 	"Hayate no Gotoku!! Nightmare Paradise (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ハヤテのごとく！！　ナイトメアパラダイス"
+		"localName": "ハヤテのごとく！！ ナイトメアパラダイス"
+	},
+	"Heart no Kuni no Alice - Wonderful Twin World (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ハートの国のアリス～Ｗｏｎｄｅｒｆｕｌ　Ｔｗｉｎ　Ｗｏｒｌｄ～"
 	},
 	"Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -4310,6 +4364,10 @@
 	},
 	"Hexyz Force (USA)": {
 		"languages": ["En"]
+	},
+	"Hg Hydrium (Japan)": {
+		"languages": ["Ja"],
+		"localName": "【Ｈｇ】　ハイドリウム"
 	},
 	"Hg Hydrium (Korea)": {
 		"languages": ["Ko"],
@@ -4378,6 +4436,14 @@
 	},
 	"Holy Invasion of Privacy, Badman! What Did I Do to Deserve This (USA) (Proto) (2009-05-11)": {
 		"languages": []
+	},
+	"Honkaku Yonin Uchi Pro Mahjong - Mahjong-Ou Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "本格四人打プロ麻雀　麻雀王　ＰＯＲＴＡＢＬＥ"
+	},
+	"Hoshigari Empusa Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ほしがりエンプーサ　Ｐｏｒｔａｂｌｅ"
 	},
 	"Hoshiiro no Okurimono Portable (Japan)": {
 		"languages": ["Ja"],
@@ -4459,7 +4525,7 @@
 	},
 	"Idolm@ster SP, The - Missing Moon (Japan, Asia)": {
 		"languages": ["Ja"],
-		"localName": "アイドルマスターＳＰ　ミッシングムーン"
+		"localName": "アイドルマスターＳＰ ミッシングムーン"
 	},
 	"Idolm@ster SP, The - Perfect Sun (Japan, Asia)": {
 		"languages": ["Ja"],
@@ -4467,7 +4533,7 @@
 	},
 	"Idolm@ster SP, The - Wandering Star (Japan, Asia)": {
 		"languages": ["Ja"],
-		"localName": "アイドルマスターＳＰ　ワンダリングスター"
+		"localName": "アイドルマスターＳＰ ワンダリングスター"
 	},
 	"Idolm@ster Shiny Festa, The - Funky Note (Japan)": {
 		"languages": ["Ja"],
@@ -4489,9 +4555,9 @@
 		"languages": ["Ja"],
 		"localName": "一騎当千　ＸＲＯＳＳ　ＩＭＰＡＣＴ"
 	},
-	"Ikuze! Gen-san - Yuuyake Daiku Monogatari (Korea)": {
+	"Ikuze! Gen-san - Yuuyake Daiku Monogatari (Japan, Korea)": {
 		"languages": ["Ja"],
-		"localName": "いくぜっ！源さん ～夕焼け大工物語～"
+		"localName": "いくぜっ！源さん　～夕焼け大工物語～"
 	},
 	"Il-2 Shturmovik - Krylatye xishhniki (Russia)": {
 		"languages": ["Ru"],
@@ -4766,7 +4832,7 @@
 	},
 	"Jikkyou Powerful Pro Yakyuu Portable (Japan)": {
 		"languages": ["Ja"],
-		"localName": "実況パワフルプロ野球　ポータブル"
+		"localName": "実況パワフルプロ野球 ポータブル"
 	},
 	"Jikkyou Powerful Pro Yakyuu Portable 2 (Japan) (v1.03)": {
 		"languages": ["Ja"],
@@ -5010,6 +5076,10 @@
 		"languages": ["Ja"],
 		"localName": "カズオ"
 	},
+	"Keibatsuu Portable - JRA Koushiki Data 22-nenbun Shuuroku (Japan)": {
+		"languages": ["Ja"],
+		"localName": "競馬通　ポータブル　ＪＲＡ公式データ　２２年分収録"
+	},
 	"Ken to Mahou to Gakuen Mono. (Japan)": {
 		"languages": ["Ja"],
 		"localName": "剣と魔法と学園モノ。"
@@ -5098,6 +5168,10 @@
 	"Kidou Senshi Gundam - Gundam vs. Gundam Next Plus (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "機動戦士ガンダム　ガンダムｖｓ．ガンダム　ネクストプラス"
+	},
+	"Kidou Senshi Gundam - Mokuba no Kiseki (Japan)": {
+		"languages": ["Ja"],
+		"localName": "機動戦士ガンダム　木馬の軌跡"
 	},
 	"Kidou Senshi Gundam - Senjou no Kizuna Portable (Japan, Asia)": {
 		"languages": ["Ja"],
@@ -5299,6 +5373,10 @@
 	"Koloomn (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Konneko - Keep a Memory Green (Japan)": {
+		"languages": ["Ja"],
+		"localName": "こんねこ　～Ｋｅｅｐ　ａ　ｍｅｍｏｒｙ　ｇｒｅｅｎ～"
+	},
 	"Kono Aozora ni Yakusoku o - Tenohira no Rakuen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "この青空に約束を―　てのひらのらくえん"
@@ -5315,9 +5393,17 @@
 		"languages": ["Ja"],
 		"localName": "氷の墓標　一柳和、３度目の受難"
 	},
+	"Korokoro Kollon (Japan)": {
+		"languages": ["Ja"],
+		"localName": "コロコロ　ころん"
+	},
 	"Kotoba no Puzzle - Mojipittan Daijiten (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ことばのパズル　もじぴったん大辞典"
+	},
+	"Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki (Japan)": {
+		"languages": ["Ja"],
+		"localName": "攻殻機動隊　ＳＴＡＮＤ　ＡＬＯＮＥ　ＣＯＭＰＬＥＸ　－狩人の領域－"
 	},
 	"Koukyou Shihen Eureka Seven (Japan)": {
 		"languages": ["Ja"],
@@ -5686,6 +5772,10 @@
 	"M.A.C.H. - Modified Air Combat Heroes (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"M.A.C.H. - Modified Air Combat Heroes (Japan)": {
+		"languages": ["Ja"],
+		"localName": "マッハ　－モディファイド・エアー・コンバット・ヒーローズ－"
+	},
 	"M.A.C.H. - Modified Air Combat Heroes (Russia)": {
 		"languages": ["Ru"],
 		"localName": "M.A.C.H. - Модифицированная авиация специального назначения"
@@ -5856,6 +5946,18 @@
 		"languages": ["Ja"],
 		"localName": "麻雀覇王　バトルロイヤルⅡ"
 	},
+	"Mahjong Haou Portable - Dankyuu Battle (Japan)": {
+		"languages": ["Ja"],
+		"localName": "麻雀覇王　ポータブル　段級バトル"
+	},
+	"Mahjong Haou Portable - Dankyuu Battle Special (Japan)": {
+		"languages": ["Ja"],
+		"localName": "麻雀覇王　ポータブル　段級バトル　Ｓｐｅｃｉａｌ"
+	},
+	"Mahjong Haou Portable - Jansou Battle (Japan)": {
+		"languages": ["Ja"],
+		"localName": "麻雀覇王　ポータブル　雀荘バトル"
+	},
 	"Mahjong Taikai (Japan)": {
 		"languages": ["Ja"],
 		"localName": "麻雀大会"
@@ -5879,6 +5981,14 @@
 	"Mai-Hime Senretsu! Shin Fuuka Gakuen Gekitoushi!! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "舞ーＨｉＭＥ 鮮烈！真風華學園激鬥史！！"
+	},
+	"Maji de Manabu - LEC de Ukaru - Nisshou Boki 3-kyuu Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "本気で学ぶ　ＬＥＣで合格る　日商簿記３　級ポータブル"
+	},
+	"Maji de Manabu - LEC de Ukaru - Takuchi Tatemono Torihiki Shuninsha Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "本気で学ぶ　ＬＥＣで合格る　宅地建物取引主任者　ポータブル"
 	},
 	"Major League Baseball 2K10 (USA)": {
 		"languages": ["En"]
@@ -5963,6 +6073,14 @@
 		"languages": ["Ja"],
 		"localName": "マル合格　資格奪取！　ケアマネジャー試験　ポータブル"
 	},
+	"Maru Goukaku Shikaku Dasshu! FP Financial Planning Ginou Kentei Shiken 3-kyuu Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "マル合格資格奪取！　ＦＰファイナンシャル・プランニング　技能検定試験　３級　ＰＯＲＴＡＢＬＥ"
+	},
+	"Maru Goukaku Shikaku Dasshu! Kihon Jouhou Gijutsusha Shiken Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "マル合格資格奪取！　基本情報技術者試験　ポータブル"
+	},
 	"Maru Goukaku Shikaku Dasshu! Ouyou Jouhou Gijutsusha Shiken Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "マル合格資格奪取！　応用情報技術者試験　ポータブル"
@@ -6021,6 +6139,10 @@
 	},
 	"Me & My Katamari (USA)": {
 		"languages": ["En"]
+	},
+	"Me de Unou o Kitaeru - Sokudoku Jutsu Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "目で右脳を鍛える　速読術　ポータブル"
 	},
 	"Medal of Honor - Heroes (Europe)": {
 		"languages": ["En"]
@@ -6136,7 +6258,7 @@
 	},
 	"Memories Off 6 - T-Wave (Japan)": {
 		"languages": ["Ja"],
-		"localName": "メモリーズオフ　６　Ｔ－Ｗａｖｅ"
+		"localName": "メモリーズオフ　シックス　Ｔ－ｗａｖｅ"
 	},
 	"Mercury Meltdown (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6335,6 +6457,10 @@
 		"languages": ["Ja"],
 		"localName": "みんなで読書　ケータイ小説ですぅ～"
 	},
+	"Minna de Dokusho - Meisaku & Suiri & Kaidan & Bungaku (Japan)": {
+		"languages": ["Ja"],
+		"localName": "みんなで読書　名作＆推理＆怪談＆文学"
+	},
 	"Minna no Chizu (Japan)": {
 		"languages": ["Ja"],
 		"localName": "みんなの地図"
@@ -6346,6 +6472,14 @@
 	"Minna no Chizu 2 (Japan) (GPS Receiver Doukonban)": {
 		"languages": ["Ja"],
 		"localName": "みんなの地図２"
+	},
+	"Minna no Chizu 2 Chiikiban - Higashi Nihon-hen (Japan)": {
+		"languages": ["Ja"],
+		"localName": "みんなの地図２　地域版　東日本編"
+	},
+	"Minna no Chizu 2 Chiikiban - Naka Nihon-hen (Japan)": {
+		"languages": ["Ja"],
+		"localName": "みんなの地図２　地域版　中日本編"
 	},
 	"Minna no Chizu 3 (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -6399,6 +6533,10 @@
 		"languages": ["Ja"],
 		"localName": "みんなのナビ"
 	},
+	"Minna no Shiatsu - Itami mo Tsukare mo Sukirii! (Japan)": {
+		"languages": ["Ja"],
+		"localName": "みんなの指圧　痛みも疲れもスッキリ～！"
+	},
 	"Minna no Tennis Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "みんなのテニス　ポータブル"
@@ -6438,6 +6576,10 @@
 	"Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "Ｍｏｂｉｌｅ　Ｔｒａｉｎ　Ｓｉｍｕｌａｔｏｒ＋電車でＧＯ！　東京急行編"
+	},
+	"ModNation - Mugen no Kart Oukoku Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "モッドネーション　無限のカート王国　ポータブル"
 	},
 	"ModNation Racers (Asia) (En,Zh,Ko)": {
 		"languages": ["En", "Ko", "Zh"],
@@ -6501,6 +6643,10 @@
 	"Monster Hunter Freedom Unite (Europe) (En,Fr,De,Es,It) (Demo)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Monster Hunter Freedom Unite (Korea) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "몬스터헌터 프리덤 유나이트"
+	},
 	"Monster Hunter Freedom Unite (USA) (Beta) (2008-10-14)": {
 		"languages": []
 	},
@@ -6535,6 +6681,10 @@
 	},
 	"Monster Jam - Urban Assault (USA)": {
 		"languages": ["En"]
+	},
+	"Monster Kingdom - Jewel Summoner (Japan)": {
+		"languages": ["Ja"],
+		"localName": "モンスターキングダム　ジュエルサモナー"
 	},
 	"Monster Kingdom - Jewel Summoner (USA)": {
 		"languages": ["En"]
@@ -7071,6 +7221,10 @@
 	"Need for Speed - Undercover (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Nl", "Pl", "Ru"]
 	},
+	"Need for Speed - Undercover (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ニード・フォー・スピード　アンダーカバー"
+	},
 	"Need for Speed - Undercover (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
@@ -7095,6 +7249,10 @@
 	"Neo Angelique Special (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ネオアンジェリークＳｐｅｃｉａｌ"
+	},
+	"NeoGeo Heroes - Ultimate Shooting (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＮＥＯＧＥＯ　ＨＥＲＯＥＳ　～Ｕｌｔｉｍａｔｅ　Ｓｈｏｏｔｉｎｇ～"
 	},
 	"Neopets - Petpet Adventures - The Wand of Wishing (USA)": {
 		"languages": ["En"]
@@ -7155,6 +7313,10 @@
 	"Nikoli no Sudoku +3 Daiyonshuu - Sudoku Number Link Shikaku ni Kire Hashi o Kakero (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ニコリの数独＋３　第四集　～数独　ナンバーリンク　四角に切れ　橋をかけろ～"
+	},
+	"Nikoli no Sudoku Lite Daiichishuu (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ニコリの数独ＬＩＴＥ　第一集"
 	},
 	"Nikoli no Sudoku Lite Dainishuu (Japan)": {
 		"languages": ["Ja"],
@@ -7294,7 +7456,7 @@
 	},
 	"Ore no Dungeon - Desire and Adventurous Spirit (Japan)": {
 		"languages": ["Ja"],
-		"localName": "己のダンジョン"
+		"localName": "己のダンジョン　Ｄｅｓｉｒｅ　ａｎｄ　ａｄｖｅｎｔｕｒｏｕｓ　ｓｐｉｒｉｔ．"
 	},
 	"Ore no Imouto Maker EX - Imouto to Koishiyo Portable (Japan)": {
 		"languages": ["Ja"],
@@ -7312,7 +7474,11 @@
 		"languages": ["Ja"],
 		"localName": "俺の妹がこんなに可愛いわけがない　ポータブル"
 	},
-	"Ore no Shikabane o Koete Yuke (Japan)": {
+	"Ore no Shikabane o Koete Yuke (Japan) (v1.01)": {
+		"languages": ["Ja"],
+		"localName": "俺の屍を越えてゆけ"
+	},
+	"Ore no Shikabane o Koete Yuke (Japan) (v2.00)": {
 		"languages": ["Ja"],
 		"localName": "俺の屍を越えてゆけ"
 	},
@@ -8284,6 +8450,10 @@
 	"Rengoku - The Tower of Purgatory (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Rengoku - The Tower of Purgatory (Japan)": {
+		"languages": ["Ja"],
+		"localName": "煉獄　ＴＨＥ　ＴＯＷＥＲ　ＯＦ　ＰＵＲＧＡＴＯＲＹ"
+	},
 	"Rengoku - The Tower of Purgatory (USA)": {
 		"languages": ["En"]
 	},
@@ -8422,6 +8592,10 @@
 	},
 	"Rugby League Challenge (Europe)": {
 		"languages": ["En"]
+	},
+	"Rupupu Cube - Lup Salad Portable ...Matatabi (Japan)": {
+		"languages": ["Ja"],
+		"localName": "るぷぷキューブ　ルプ★さらだ　ぽ～たぶる　…またたび"
 	},
 	"Rurouni Kenshin - Meiji Kenkaku Romantan - Kansei (Japan)": {
 		"languages": ["Ja"],
@@ -8574,6 +8748,10 @@
 	"SSX on Tour (USA)": {
 		"languages": ["En"]
 	},
+	"SSX on Tour Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＳＳＸ　オン　ツアー　ポータブル"
+	},
 	"SWAT - Target Liberty (Europe)": {
 		"languages": ["En"]
 	},
@@ -8583,6 +8761,10 @@
 	"Saigo no Yakusoku no Monogatari (Japan)": {
 		"languages": ["Ja"],
 		"localName": "最後の約束の物語"
+	},
+	"Saikyou Toudai Shougi Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "最強　東大将棋　ポータブル"
 	},
 	"Saint Seiya Omega - Ultimate Cosmo (Japan)": {
 		"languages": ["Ja"],
@@ -8807,6 +8989,10 @@
 	"Sega Rally (Russia) (v2.00)": {
 		"languages": ["Ru"]
 	},
+	"Sega Rally Revo (Japan)": {
+		"languages": ["Ja"],
+		"localName": "セガラリー　レヴォ"
+	},
 	"Sega Rally Revo (USA)": {
 		"languages": ["En"]
 	},
@@ -8820,6 +9006,10 @@
 	"Seishun Hajimemashita! (Japan) (Disc 2)": {
 		"languages": ["Ja"],
 		"localName": "青春はじめました！"
+	},
+	"Seitokai no Ichizon Lv. 2 Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "生徒会の一存　Ｌｖ．２　ＰＯＲＴＡＢＬＥ"
 	},
 	"Sekai de Ichiban NG na Koi - Full House (Japan)": {
 		"languages": ["Ja"],
@@ -8890,8 +9080,16 @@
 	"Shadow of Memories (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Shanghai (Japan)": {
+		"languages": ["Ja"],
+		"localName": "上海"
+	},
 	"Shaun White Snowboarding (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Shaun White Snowboarding (Japan)": {
+		"languages": ["En"],
+		"localName": "ショーン・ホワイト　スノーボード"
 	},
 	"Shaun White Snowboarding (USA)": {
 		"languages": ["En"]
@@ -9012,6 +9210,10 @@
 		"languages": ["Ja"],
 		"localName": "新世紀エヴァンゲリオン 鋼鉄のガールフレンド２ｎｄ ポータブル"
 	},
+	"Shin Seiki Evangelion - Koutetsu no Girlfriend Tokubetsu-hen (Japan)": {
+		"languages": ["Ja"],
+		"localName": "新世紀エヴァンゲリオン 鋼鉄のガールフレンド 特別編"
+	},
 	"Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (Japan)": {
 		"languages": ["Ja"],
 		"localName": "新世紀エヴァンゲリオン２　造られしセカイ　－ａｎｏｔｈｅｒ　ｃａｓｅｓ－"
@@ -9066,6 +9268,10 @@
 	"Shinobido Homura (Japan)": {
 		"languages": ["Ja"],
 		"localName": "忍道　焔"
+	},
+	"Shinsouban Heart no Kuni no Alice - Wonderful Wonder World (Japan)": {
+		"languages": ["Ja"],
+		"localName": "新装版ハートの国のアリス～Ｗｏｎｄｅｒｆｕｌ　Ｗｏｎｄｅｒ　Ｗｏｒｌｄ～"
 	},
 	"Shinten Makai - GOC IV Another Side (Japan)": {
 		"languages": ["Ja"],
@@ -9157,6 +9363,14 @@
 		"languages": ["Ja"],
 		"localName": "ＳＩＭＰＬＥ２０００シリーズシリーズポータブル！！　Ｖｏｌ．１　ＴＨＥ　麻雀"
 	},
+	"Simple 2000 Series Portable!! Vol. 2 - The Shougi (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＳＩＭＰＬＥ２０００シリーズシリーズポータブル！！　Ｖｏｌ．２　ＴＨＥ　将棋"
+	},
+	"Simple 2500 Series Portable!! Vol. 1 - The Table Game (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＳＩＭＰＬＥ２５００シリーズポータブル！！　Ｖｏｌ．１　ＴＨＥ　テーブルゲーム"
+	},
 	"Simple 2500 Series Portable!! Vol. 10 - The IQ Cube - Moyatto Atama o Puzzle de Sukkiri! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＳＩＭＰＬＥ２５００シリーズポータブル！！　Ｖｏｌ．１０　ＴＨＥ　ＩＱ　ＣＵＢＥ　～モヤっと頭をパズルでスッキリ！～"
@@ -9180,6 +9394,10 @@
 	"Simple 2500 Series Portable!! Vol. 4 - The Unou Drill (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＳＩＭＰＬＥ２５００シリーズポータブル！！　Ｖｏｌ．４　ＴＨＥ　右脳ドリル"
+	},
+	"Simple 2500 Series Portable!! Vol. 6 - The Sensha (Japan)": {
+		"languages": ["En"],
+		"localName": "ＳＩＭＰＬＥ２５００シリーズポータブル！！　Ｖｏｌ．６　ＴＨＥ　戦車"
 	},
 	"Simple 2500 Series Portable!! Vol. 7 - The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006 (Japan)": {
 		"languages": ["Ja"],
@@ -9221,6 +9439,10 @@
 	},
 	"Sims 2, The - Castaway (USA) (En,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
+	},
+	"Sims 2, The - Pet Wan Nyan Life (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ザ・シムズ２　ペット　ワンニャンライフ"
 	},
 	"Sims 2, The - Pets (Asia) (En,Fr,De,Es,It,Nl,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Zh"]
@@ -9928,7 +10150,10 @@
 		"languages": ["Ja"],
 		"localName": "テイルズ　オブ　デスティニー２"
 	},
-	"Tales of Eternia (Europe)": {
+	"Tales of Eternia (Europe) (v1.00)": {
+		"languages": ["En"]
+	},
+	"Tales of Eternia (Europe) (v2.02)": {
 		"languages": ["En"]
 	},
 	"Tales of Eternia (Japan)": {
@@ -9941,7 +10166,7 @@
 	},
 	"Tales of Phantasia - Narikiri Dungeon X (Japan)": {
 		"languages": ["Ja"],
-		"localName": "テイルズ　オブ　ファンタジア　なりきりダンジョンＸ"
+		"localName": "テイルズ オブ ファンタジア なりきりダンジョンＸ"
 	},
 	"Tales of Rebirth (Japan)": {
 		"languages": ["Ja"],
@@ -9995,6 +10220,10 @@
 	"TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "ＴａｌｋＭａｎ　ＥＵＲＯ！　トークマン　ヨーロッパ言語版"
+	},
+	"TalkMan Travel - Kankoku, Taiwan, Chuugoku (Shanghai) Hen (Japan)": {
+		"languages": ["Ja"],
+		"localName": "トークマン・トラベル　韓国／台湾／中国（上海）／編"
 	},
 	"TalkMan-shiki - Shabelingual Eikaiwa (Japan) (Microphone Doukonban)": {
 		"languages": ["Ja"],
@@ -10196,6 +10425,10 @@
 	"Tiger Woods PGA Tour (Asia)": {
 		"languages": ["En"]
 	},
+	"Tiger Woods PGA Tour (Japan)": {
+		"languages": ["Ja"],
+		"localName": "タイガー・ウッズ ＰＧＡ ＴＯＵＲ"
+	},
 	"Tiger Woods PGA Tour (USA)": {
 		"languages": ["En"]
 	},
@@ -10224,6 +10457,10 @@
 	},
 	"Tiger Woods PGA Tour 07 (France)": {
 		"languages": ["Fr"]
+	},
+	"Tiger Woods PGA Tour 07 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "タイガー・ウッズ ＰＧＡ ＴＯＵＲ ０７"
 	},
 	"Tiger Woods PGA Tour 07 (USA)": {
 		"languages": ["En"]
@@ -10310,6 +10547,10 @@
 	"Toki no Kizuna - Sekigahara Kitan (Japan)": {
 		"languages": ["Ja"],
 		"localName": "十鬼の絆　関ヶ原奇譚"
+	},
+	"Tokimeki Memorial - Forever with You (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ときめきメモリアル　ｆｏｒｅｖｅｒ　ｗｉｔｈ　ｙｏｕ"
 	},
 	"Tokimeki Memorial 4 (Japan)": {
 		"languages": ["Ja"],
@@ -11027,7 +11268,7 @@
 	},
 	"Winning Post 7 2009 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ウイニングポスト７ マキシマム２００９"
+		"localName": "ウイニングポスト７ ２００９"
 	},
 	"Winning Post 7 2010 (Japan)": {
 		"languages": ["Ja"],
@@ -11097,6 +11338,10 @@
 	},
 	"Wipeout Pure (USA) (En,Fr,Es) (v2.00)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Wizardry Empire III - Haou no Keifu (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ウィザードリィ　エンパイアⅢ　～覇王の系譜～"
 	},
 	"World Championship Cards (USA)": {
 		"languages": ["En"]
@@ -11287,6 +11532,10 @@
 	"Xiaolin Showdown (USA)": {
 		"languages": []
 	},
+	"Xyanide (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ザイナイド"
+	},
 	"Xyanide - Resurrection (Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -11304,6 +11553,10 @@
 	"Yarudora Portable - Double Cast (Asia)": {
 		"languages": ["Zh"],
 		"localName": "互動式動畫AVG - 雙重角色"
+	},
+	"Yarudora Portable - Double Cast (Japan)": {
+		"languages": ["Ja"],
+		"localName": "やるドラポータブル ダブルキャスト"
 	},
 	"Yarudora Portable - Kisetsu o Dakishimete (Asia)": {
 		"languages": ["Zh"],
@@ -11338,6 +11591,10 @@
 	"Yoake Mae yori Ruriiro na Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "夜明け前より瑠璃色な　ＰＯＲＴＡＢＬＥ"
+	},
+	"Youkoso Hitsuji-Mura Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ようこそ　ひつじ村　ポータブル"
 	},
 	"Your Memories Off - Girl's Style (Japan)": {
 		"languages": ["Ja"],

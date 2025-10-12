@@ -1,17 +1,28 @@
 {
 	"1941 - Counter Attack (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "１９４１カウンターアタック"
 	},
-	"Aldynes - The Misson Code for Rage Crisis (Japan)": {
-		"languages": ["Ja"]
+	"Aldynes - The Misson Code for Rage Crisis (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "オルディネス　Ｔｈｅ　Ｍｉｓｓｏｎ　Ｃｏｄｅ　ｆｏｒ　Ｒａｇｅ　Ｃｒｉｓｉｓ"
 	},
-	"Battle Ace (Japan)": {
-		"languages": ["Ja"]
+	"Axelay (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
-	"Daimakaimura (Japan)": {
-		"languages": ["Ja"]
+	"Battle Ace (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "バトルエース"
 	},
-	"Madou King Granzort (Japan)": {
-		"languages": ["Ja"]
+	"Daimakaimura (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "大魔界村"
+	},
+	"Madou King Granzort (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "マドーキンググランゾート，　魔動王グランゾート"
+	},
+	"R-Type (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	}
 }

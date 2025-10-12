@@ -1,26 +1,152 @@
 {
-	"Active Life - Magical Carnival (Beta)": {
+	"428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (1247d98e00)": {
+		"languages": ["Ja"]
+	},
+	"428 - Fuusa Sareta Shibuya de (Japan) (Taikenban) (Kiosk) (d6d3a3e00)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] Factory Test NAND (Japan)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] NDEV NAND (USA) (v4.2U) [b]": {
 		"languages": ["En"]
 	},
-	"Big Top Circus (USA) (0.2.2319) (Proto)": {
+	"[BIOS] NDEV NAND (USA)": {
 		"languages": ["En"]
 	},
-	"BondX (USA) (Beta) (2009-06-18)": {
+	"[BIOS] NDEV NAND - Factor 5 (Europe)": {
+		"languages": ["En"]
+	},
+	"[BIOS] RVA Revolution Arcade NAND - Mario Party Fushigi no Korokoro Catcher 2 (Japan)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] RVA Revolution Arcade NAND - Tatsunoko vs. Capcom - Cross Generation of Heroes (Japan)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] RVT SD Card (World)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] RVT-H Reader HDD - Gemini Golf & Skylanders - SuperChargers Racing (World)": {
+		"languages": ["En"]
+	},
+	"[BIOS] RVT-H Reader HDD - Kodai Ouja Kyouryuu King (World)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] RVT-H Reader HDD - Monster Lab & Rock Band 3 (World)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] RVT-H Reader HDD - Wii Self Defense 1 (World)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] RVT-H Reader HDD - Wii Self Defense 2 (World)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] RVT-H Reader HDD - Wii Self Defense 3 (World)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] RVT-H Reader NAND - Sega (Japan)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] RVT-R Reader NAND - IE Institute (Japan)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] RVT-R Reader NAND - Netflix 1 (USA)": {
+		"languages": ["En"]
+	},
+	"[BIOS] RVT-R Reader NAND - Netflix 2 (USA)": {
+		"languages": ["En"]
+	},
+	"[BIOS] Starlight Fun Center - NAND (USA)": {
+		"languages": ["En"]
+	},
+	"[BIOS] Uji Factory SD Card (World)": {
+		"languages": ["nolang"]
+	},
+	"Active Life - Explorer (USA) (Beta) (2010-06-09)": {
+		"languages": ["En"]
+	},
+	"Active Life - Magical Carnival (USA) (Beta) (2010-07-02)": {
+		"languages": ["En"]
+	},
+	"All Star Cheer Squad 2 (USA) (Beta) (2009-09-23)": {
+		"languages": ["En"]
+	},
+	"All Star Cheer Squad 2 (USA) (Beta) (Earlier) [b]": {
+		"languages": ["En"]
+	},
+	"Bank 2 (Japan) (Program)": {
+		"languages": ["nolang"]
+	},
+	"Bank 6 (Japan) (Program)": {
+		"languages": ["Ja"]
+	},
+	"Bank 8 (Japan) (Program)": {
+		"languages": ["nolang"]
+	},
+	"Big Top Circus (USA) (Proto)": {
+		"languages": ["En"]
+	},
+	"Board Checker RVL F (Japan) (Program)": {
+		"languages": ["nolang"]
+	},
+	"BondX (USA) (Beta) (2009-06-29)": {
+		"languages": ["En"]
+	},
+	"Boy and His Blob, A (USA) (Beta) (2008-10-24)": {
+		"languages": ["En"]
+	},
+	"Boy and His Blob, A (USA) (Beta) (2009-05-27)": {
+		"languages": ["En"]
+	},
+	"Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Patched)": {
+		"languages": ["En"]
+	},
+	"Bully - Scholarship Edition (USA) (Beta) (2007-11-13) (Unpatched)": {
+		"languages": ["En"]
+	},
+	"Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Patched)": {
+		"languages": ["En"]
+	},
+	"Bully - Scholarship Edition (USA) (Beta) (2007-11-16) (Unpatched)": {
+		"languages": ["En"]
+	},
+	"Bully - Scholarship Edition (USA) (Beta) (2008-01-11)": {
+		"languages": ["En"]
+	},
+	"Bully - Scholarship Edition (USA) (Beta) (Debug)": {
+		"languages": ["En"]
+	},
+	"Bully - Scholarship Edition (USA) (Beta) (Later)": {
 		"languages": ["En"]
 	},
 	"Call of Duty - Modern Warfare - Reflex Edition (Europe) (En,Fr) (Beta)": {
 		"languages": ["En", "Fr"]
 	},
-	"Dead Space - Extraction (v430) (Beta)": {
+	"Conduit 2 (Europe) (Beta) (2010-09-24)": {
 		"languages": ["En"]
 	},
-	"Dead Space - Extraction (v441) (Beta) (2009-04-22)": {
+	"Conduit, The (USA) (Beta) (2009-02-24)": {
 		"languages": ["En"]
 	},
-	"Dead Space - Extraction (v512) (Beta)": {
+	"Cooking Mama - Cook Off (USA) (Debug Signed)": {
 		"languages": ["En"]
 	},
-	"Dead Space - Extraction (v1111) (Beta)": {
+	"Crazy Mini Golf 2 (USA) (Beta)": {
+		"languages": ["En"]
+	},
+	"Crusher for RVO (USA) (Program)": {
+		"languages": ["En"]
+	},
+	"Dead Space - Extraction (USA) (Beta) (2009-04-22) (v441)": {
+		"languages": ["En"]
+	},
+	"Dead Space - Extraction (USA) (Beta) (v430)": {
+		"languages": ["En"]
+	},
+	"Dead Space - Extraction (USA) (Beta) (v512)": {
+		"languages": ["En"]
+	},
+	"Dead Space - Extraction (USA) (Beta) (v1111)": {
 		"languages": ["En"]
 	},
 	"Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2010-09-28)": {
@@ -43,6 +169,9 @@
 	},
 	"Def Jam - Rapstar (USA) (En,Fr,De,Es,It,Pt) (Beta) (2010-07-28)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
+	},
+	"Disney Bolt (USA) (En,Fr,Es) (Debug Signed)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Disney Epic Mickey 2 - The Power of Two (USA) (Beta 1) (2011-07-28)": {
 		"languages": ["En"]
@@ -68,29 +197,194 @@
 	"Disney Epic Mickey 2 - The Power of Two (USA) (Beta 8) (2012-03-23)": {
 		"languages": ["En"]
 	},
-	"Go Vacation (Beta)": {
+	"Disney Universe (USA) (Beta) (2011-02-07)": {
+		"languages": ["En"]
+	},
+	"Disney Universe (USA) (Beta) (2011-03-29)": {
+		"languages": ["En"]
+	},
+	"Disney Universe (USA) (Beta) (2011-04-03)": {
+		"languages": ["En"]
+	},
+	"Disney Universe (USA) (Beta) (Debug)": {
+		"languages": ["En"]
+	},
+	"Disney Universe (USA) (Beta)": {
+		"languages": ["En"]
+	},
+	"Donkey Kong Jungle Beat (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"DreamWorks Kung Fu Panda (USA) (Beta) (2007-12-07)": {
+		"languages": ["En"]
+	},
+	"DS-Wii Remote Test (World) (Program)": {
+		"languages": ["En"]
+	},
+	"Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104257)": {
+		"languages": ["En"]
+	},
+	"Food Network - Cook or Be Cooked (USA) (Beta) (2009-09-25T104611)": {
+		"languages": ["En"]
+	},
+	"Food Network - Cook or Be Cooked (USA) (Beta) (Demo)": {
+		"languages": ["En"]
+	},
+	"Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (10f065be00)": {
+		"languages": ["Ja"]
+	},
+	"Fragile - Sayonara Tsuki no Haikyo (Japan) (Taikenban) (Kiosk) (cf300fe00)": {
+		"languages": ["Ja"]
+	},
+	"Free Loader (Japan) (v0.5) (Program)": {
+		"languages": ["Ja"]
+	},
+	"G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-09)": {
+		"languages": ["En"]
+	},
+	"G.I. Joe - The Rise of Cobra (USA) (Beta) (2009-03-10)": {
+		"languages": ["En"]
+	},
+	"Gemini Golf (Europe) (Proto) (2008-02-15)": {
+		"languages": ["En"]
+	},
+	"Go Vacation (USA) (Beta) (2010-07-02)": {
 		"languages": ["En"]
 	},
 	"GoldenEye 007 (Europe) (Beta)": {
 		"languages": ["En"]
 	},
-	"GoldenEye 007 (Japan) (v.664) (Beta) (2011-04-12)": {
+	"GoldenEye 007 (Japan) (Beta) (2011-04-12) (v664)": {
 		"languages": ["Ja"]
 	},
-	"GoldenEye 007 (Japan) (v.664) (Beta) (2011-04-27)": {
+	"GoldenEye 007 (Japan) (Beta) (2011-04-27) (v664)": {
 		"languages": ["Ja"]
 	},
-	"GoldenEye 007 (USA) (v.376) (Beta) (2010-08-02)": {
+	"GoldenEye 007 (USA) (Beta) (2010-08-02) (v376)": {
 		"languages": ["En"]
 	},
-	"GoldenEye 007 (USA) (v.58000618) (Beta) (2010-09-07)": {
+	"GoldenEye 007 (USA) (Beta) (2010-09-07) (v58000618)": {
 		"languages": ["En"]
 	},
 	"GoldenEye 2010 (USA) (Beta)": {
 		"languages": ["En"]
 	},
+	"Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-11)": {
+		"languages": ["En"]
+	},
+	"Green Lantern - Rise of the Manhunters (USA) (Beta) (2010-02-15)": {
+		"languages": ["En"]
+	},
+	"Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-21)": {
+		"languages": ["En"]
+	},
+	"Interpol - The Trail of Dr. Chaos (USA) (Proto) (2009-04-24)": {
+		"languages": ["En"]
+	},
+	"Iron Man 2 (USA) (Beta) (2009-04-24)": {
+		"languages": ["En"]
+	},
+	"Kaze no Klonoa - Door to Phantomile (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"Kodai Ouja Kyouryuu King (Japan) (Proto 1)": {
+		"languages": ["Ja"]
+	},
+	"Kodai Ouja Kyouryuu King (Japan) (Proto 2)": {
+		"languages": ["Ja"]
+	},
+	"Kodai Ouja Kyouryuu King (Japan) (Proto 3)": {
+		"languages": ["Ja"]
+	},
+	"Kodai Ouja Kyouryuu King (Japan) (Proto 4)": {
+		"languages": ["Ja"]
+	},
+	"Kodai Ouja Kyouryuu King (Japan) (Proto 5)": {
+		"languages": ["Ja"]
+	},
+	"Last Story, The (Europe) (Beta) (2011-11-25)": {
+		"languages": ["En"]
+	},
+	"Last Story, The (Europe) (Beta) (2011-11-28)": {
+		"languages": ["En"]
+	},
+	"LEGO Racers - The Video Game (Europe) (Proto) (2008-12-05)": {
+		"languages": ["En"]
+	},
+	"LEGO Racers - The Video Game (Europe) (Proto) (2009-01-09)": {
+		"languages": ["En"]
+	},
+	"LEGO Racers - The Video Game (Europe) (Proto) (2010-01-19)": {
+		"languages": ["En"]
+	},
+	"Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-14)": {
+		"languages": ["En"]
+	},
+	"Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-20)": {
+		"languages": ["En"]
+	},
+	"Mahjong Tales - Ancient Wisdom (USA) (Proto) (2009-04-24)": {
+		"languages": ["En"]
+	},
+	"Mahjong Tales - Ancient Wisdom (USA) (Proto) (Earlier)": {
+		"languages": ["En"]
+	},
+	"Mahjong Tales - Ancient Wisdom (USA) (Proto)": {
+		"languages": ["En"]
+	},
+	"Mario Kart Wii (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"Mighty Switch Force! (USA) (Proto) (2011-12-01)": {
+		"languages": ["En"]
+	},
+	"Monster Hunter 3 tri- (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"Monster Lab (USA) (Beta) (2008-06-10)": {
+		"languages": ["En"]
+	},
+	"Naruto Shippuuden - Gekitou Ninja Taisen! EX3 (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"Netflix (USA) (Beta) (v1280)": {
+		"languages": ["En"]
+	},
+	"Netflix (USA) (Beta) (v1792)": {
+		"languages": ["En"]
+	},
+	"New Super Mario Bros. Wii (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
 	"Nitrobike (USA) (En,Fr,Es) (Beta) (2008-05-08)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"NWC24init (World) (Program)": {
+		"languages": ["En"]
+	},
+	"Olympigs (World) (Beta) (2008-04-21) (PC Build)": {
+		"languages": ["En"]
+	},
+	"Olympigs (World) (Beta) (2008-04-23) (PC Build)": {
+		"languages": ["En"]
+	},
+	"Olympigs (World) (Beta) (2008-04-24T1617) (PC Build)": {
+		"languages": ["En"]
+	},
+	"Olympigs (World) (Beta) (2008-04-24T1644) (PC Build)": {
+		"languages": ["En"]
+	},
+	"Olympigs (World) (Beta) (2008-04-25) (PC Build)": {
+		"languages": ["En"]
+	},
+	"Olympigs (World) (Beta) (2008-05-08T1657) (PC Build)": {
+		"languages": ["En"]
+	},
+	"Olympigs (World) (Beta) (2008-05-08T1721) (PC Build)": {
+		"languages": ["En"]
+	},
+	"Osu! Exercise Dojo (Japan) (Debug Signed)": {
+		"languages": ["Ja"]
 	},
 	"Rock Band 3 (USA) (Beta) (2010-01-19)": {
 		"languages": ["En"]
@@ -107,16 +401,49 @@
 	"Rock Band 3 (USA) (En,Fr,Es) (Beta) (2010-10-19)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Score International Baja 1000 (USA) (Beta) (2008-08-22)": {
+	"Safe Frame Viewer (World) (Program)": {
 		"languages": ["En"]
 	},
-	"Score International Baja 1000 (USA) (Beta) (2008-08-28)": {
+	"Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T145324)": {
 		"languages": ["En"]
 	},
-	"Score International Baja 1000 (USA) (Beta) (2008-09-02)": {
+	"Samantha Skye - Rock P.I. (USA) (Proto) (2009-09-23T164244) [b]": {
+		"languages": ["En"]
+	},
+	"School of Rock (USA) (Proto) [b]": {
+		"languages": ["En"]
+	},
+	"SCORE International Baja 1000 (USA) (Beta) (2008-08-22)": {
+		"languages": ["En"]
+	},
+	"SCORE International Baja 1000 (USA) (Beta) (2008-08-28)": {
+		"languages": ["En"]
+	},
+	"SCORE International Baja 1000 (USA) (Beta) (2008-09-02)": {
+		"languages": ["En"]
+	},
+	"Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (1cb100fe00)": {
+		"languages": ["Ja"]
+	},
+	"Sengoku Basara 3 (Japan) (Taikenban) (Kiosk) (b309d1e00)": {
+		"languages": ["Ja"]
+	},
+	"Sexy Poker (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Simpsons Game, The (USA) (Beta) (2007-07-06)": {
+		"languages": ["En"]
+	},
+	"Sin and Punishment - Sora no Koukeisha (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"Skylanders - Giants (USA) (Beta) (2012-03-27)": {
+		"languages": ["En"]
+	},
+	"Skylanders - Giants (USA) (Beta) (2012-06-05) (Tag Programmer)": {
+		"languages": ["En"]
+	},
+	"Skylanders - Giants (USA) (Beta) (2012-08-04) (Tag Programmer)": {
 		"languages": ["En"]
 	},
 	"Skylanders - Giants (USA) (En,Fr) (Beta) (2012-04-10)": {
@@ -134,13 +461,98 @@
 	"Skylanders - Giants (USA) (En,Fr) (Beta) (2012-07-10T161508)": {
 		"languages": ["En", "Fr"]
 	},
+	"Skylanders - SuperChargers Racing (USA) (Beta) (2015-06-26)": {
+		"languages": ["En"]
+	},
 	"Skylanders - Swap Force (USA) (Beta) (2013-03-25)": {
 		"languages": ["En"]
 	},
 	"Spider-Man 4 (USA) (Proto) (2010-01-15)": {
 		"languages": ["En"]
 	},
-	"ZooVets (USA) (0.5.0586) (Beta)": {
+	"SPOGS Racing (USA) (Beta)": {
+		"languages": ["En"]
+	},
+	"Star Wars - Battlefront III (USA) (Proto) (2008-11-21) (r2.91120a)": {
+		"languages": ["En"]
+	},
+	"Star Wars - Battlefront III (USA) (Proto) (r1.90431a)": {
+		"languages": ["En"]
+	},
+	"Star Wars - Battlefront III (USA) (Proto) (r90776a)": {
+		"languages": ["En"]
+	},
+	"Super Robot Taisen Neo (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"SWUpdate (World) (v33.4.16 + RVL.114.33) (Program)": {
+		"languages": ["En"]
+	},
+	"SWUpdate (World) (v53.16.17 + v55.18.25 + RVL.119.55) (Program)": {
+		"languages": ["nolang"]
+	},
+	"SWUpdate (World) (v56.21.29 + RVL.121.56) (Program)": {
+		"languages": ["nolang"]
+	},
+	"SWUpdate (World) (v64.21.2.2 + RVL.111.21) (Program)": {
+		"languages": ["nolang"]
+	},
+	"SWUpdate (World) (v64.1026.10 + RVL.111.21) (Program)": {
+		"languages": ["En"]
+	},
+	"Tabemon (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"TV Show King 2 (USA) (Beta)": {
+		"languages": ["En"]
+	},
+	"Uno (Europe) (Beta)": {
+		"languages": ["En"]
+	},
+	"Uno (Japan) (Beta)": {
+		"languages": ["Ja"]
+	},
+	"Uno (USA) (Beta)": {
+		"languages": ["En"]
+	},
+	"Wario Land Shake (Japan) (Taikenban) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"We Cheer 2 (USA) (Beta) (2009-06-23T110537)": {
+		"languages": ["En"]
+	},
+	"We Cheer 2 (USA) (Beta) (2009-06-23T130804)": {
+		"languages": ["En"]
+	},
+	"Wii Menu Changer (World) (v1.08) (Program)": {
+		"languages": ["En"]
+	},
+	"Wii Menu Changer (World) (v1.13) (Program)": {
+		"languages": ["En"]
+	},
+	"Wii Menu Changer (World) (v1.16) (Program)": {
+		"languages": ["En"]
+	},
+	"Wii Self Defense (USA) (Proto 1)": {
+		"languages": ["En"]
+	},
+	"Wii Self Defense (USA) (Proto 2)": {
+		"languages": ["En"]
+	},
+	"Wii Station Menu (Japan) (Kiosk) (3acb80fe00)": {
+		"languages": ["Ja"]
+	},
+	"Wii Station Menu (Japan) (Kiosk) (v0.1.26)": {
+		"languages": ["Ja"]
+	},
+	"Wii Station Menu (Japan) (Kiosk) (v1.0.1)": {
+		"languages": ["Ja"]
+	},
+	"Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kyouryoku - Kanken - Minna de Wai Wai Kanji Nou (Japan) (Debug Signed)": {
+		"languages": ["Ja"],
+		"localName": "財団法人　日本漢字能力検定協会　協力　漢検　みんなでわいわいな字齢"
+	},
+	"ZooVets (USA) (Beta) (v0.5.0586)": {
 		"languages": ["En"]
 	}
 }

@@ -71,6 +71,9 @@
 	"Bitchin Beach - Risei Buttobi! Bukkake Nakadashi Hame Hame Ahe Natsu Monogatari (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Blizzcon Press Disc (USA) (Press Kit)": {
+		"languages": ["En"]
+	},
 	"Blood Royal (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -164,6 +167,9 @@
 	"Dekakute H na Ore no Ane (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Devo Presents Adventures of the Smart Patrol (USA)": {
+		"languages": ["En"]
+	},
 	"Devote (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -194,8 +200,14 @@
 	"Enbou no Felshis - Horizon of the Earth and Sky (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Enter the Matrix (Europe) (Press Kit) [b]": {
+		"languages": ["En"]
+	},
 	"Essence Lost (Japan)": {
 		"languages": ["Ja"]
+	},
+	"F1 Internacional (Argentina) (En) (Alt)": {
+		"languages": ["En"]
 	},
 	"Feti 2 - Omote no Kioku (Japan)": {
 		"languages": ["Ja"]
@@ -299,6 +311,9 @@
 	},
 	"Hakui no Gohoushi (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Half-Life (USA) (Beta) (1998-10-20)": {
+		"languages": ["En"]
 	},
 	"Hana Chiru Miyako to Ryuu no Miko (Japan)": {
 		"languages": ["Ja"]
@@ -549,6 +564,12 @@
 	"La vie de chateau (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Lara Croft Tomb Raider - The Angel of Darkness (Unknown) (Disc 1)": {
+		"languages": ["En"]
+	},
+	"Lara Croft Tomb Raider - The Angel of Darkness (Unknown) (Disc 2)": {
+		"languages": ["En"]
+	},
 	"Large Pon Pon (Japan) (Shokai Ban)": {
 		"languages": ["Ja"]
 	},
@@ -608,6 +629,9 @@
 	},
 	"Makimura Hazuki no Koigatari (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Man (USA)": {
+		"languages": ["En"]
 	},
 	"Manamusume to no Papa-katsu H - Dame tte Itte mo, Kimochiii Desho (Japan)": {
 		"languages": ["Ja"]
@@ -705,10 +729,16 @@
 	"Nikushimi no Rensa - Injoku Kougi - Megane Koten Kyoushi - Chihiro Hen & Joshi Daisei Katei Kyoushi Kaede Hen (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Nintendo 3DS Presseinformationen (Germany) (Press Kit)": {
+		"languages": ["De"]
+	},
 	"Nintendo Company Report 1998 (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Nintendo E3 1997 (USA) (Press Kit) [b]": {
+	"Nintendo Image CD (USA) (Press Kit, E3 1997) [b]": {
+		"languages": ["En"]
+	},
+	"Nintendo Image CD (USA) (Press Kit, E3 1998) [b]": {
 		"languages": ["En"]
 	},
 	"Nintendo Spaceworld 1997 (Japan) (Press Kit) [b]": {
@@ -1011,6 +1041,9 @@
 	"Stray Sheep - Samayou Kohitsuji-tachi no Yoru (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Superbike Racing (Argentina) (En)": {
+		"languages": ["En"]
+	},
 	"Sweet Gemini - Boku no Imouto (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1054,8 +1087,15 @@
 	"Tokoya no Oba-chan - Oka no Ue no Barber (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Tomb Raider (USA) (Beta) (1996-10-22)": {
+		"languages": ["nolang"]
+	},
 	"Trinoline Genesis (Japan) (Limited Edition)": {
 		"languages": ["Ja"]
+	},
+	"Tripitaka (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＴＲＩＰＩＴＡＫＡ　玄奘三蔵求法の旅"
 	},
 	"Tsuki to Taiyou no Rakusharuki - Dancers Harem (Japan)": {
 		"languages": ["Ja"]
@@ -1098,6 +1138,9 @@
 	},
 	"Wanna. Spartansex Spermax!!! (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Warhammer 4000 - Rites of War (Europe) (Beta) (1999-07-06) [b]": {
+		"languages": ["nolang"]
 	},
 	"Watashi ni Konya Ai ni Kite 2 - Oyome-san wa Hime Miko (Japan) (Limited Edition)": {
 		"languages": ["Ja"]

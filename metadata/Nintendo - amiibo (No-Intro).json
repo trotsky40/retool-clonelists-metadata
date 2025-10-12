@@ -1,194 +1,5 @@
 {
-	"0 - Super Smash Bros. - Mario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"1 - Super Smash Bros. - Peach (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"2 - Super Smash Bros. - Yoshi (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"3 - Super Smash Bros. - Donkey Kong (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"4 - Super Smash Bros. - Link (World) (Legend of Zelda) (Figurine)": {
-		"languages": ["En"]
-	},
-	"5 - Super Smash Bros. - Fox (World) (Star Fox) (Figurine)": {
-		"languages": ["En"]
-	},
-	"6 - Super Smash Bros. - Samus (World) (Metroid) (Figurine)": {
-		"languages": ["En"]
-	},
-	"7 - Super Smash Bros. - Wii Fit Trainer (World) (Wii Fit) (Figurine)": {
-		"languages": ["En"]
-	},
-	"8 - Super Smash Bros. - Villager (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"9 - Super Smash Bros. - Pikachu (World) (Pokemon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"10 - Super Smash Bros. - Kirby (World) (Kirby) (Figurine)": {
-		"languages": ["En"]
-	},
-	"11 - Super Smash Bros. - Marth (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"12 - Super Smash Bros. - Luigi (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"13 - Super Smash Bros. - Diddy Kong (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"14 - Super Smash Bros. - Zelda (World) (Legend of Zelda) (Figurine)": {
-		"languages": ["En"]
-	},
-	"15 - Super Smash Bros. - Little Mac (World) (Punch-Out!!) (Figurine)": {
-		"languages": ["En"]
-	},
-	"16 - Super Smash Bros. - Pit (World) (Kid Icarus) (Figurine)": {
-		"languages": ["En"]
-	},
-	"17 - Super Smash Bros. - Lucario (World) (Pokemon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"18 - Super Smash Bros. - Captain Falcon (World) (F-Zero) (Figurine)": {
-		"languages": ["En"]
-	},
-	"19 - Super Smash Bros. - Rosalina (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"20 - Super Smash Bros. - Bowser (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"21 - Super Smash Bros. - Bowser Jr. (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"22 - Super Smash Bros. - Link (World) (Legend of Zelda) (Figurine)": {
-		"languages": ["En"]
-	},
-	"23 - Super Smash Bros. - Zelda (World) (Legend of Zelda) (Figurine)": {
-		"languages": ["En"]
-	},
-	"24 - Super Smash Bros. - Ike (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"25 - Super Smash Bros. - Mario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"26 - Super Smash Bros. - Wario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"27 - Super Smash Bros. - Ganon (World) (Legend of Zelda) (Figurine)": {
-		"languages": ["En"]
-	},
-	"28 - Super Smash Bros. - Falco (World) (Star Fox) (Figurine)": {
-		"languages": ["En"]
-	},
-	"29 - Super Smash Bros. - Samus (World) (Metroid) (Figurine)": {
-		"languages": ["En"]
-	},
-	"30 - Super Smash Bros. - Olimar (World) (Pikmin) (Figurine)": {
-		"languages": ["En"]
-	},
-	"31 - Super Smash Bros. - Palutena (World) (Kid Icarus) (Figurine)": {
-		"languages": ["En"]
-	},
-	"32 - Super Smash Bros. - Dark Pit (World) (Kid Icarus) (Figurine)": {
-		"languages": ["En"]
-	},
-	"33 - Super Smash Bros. - Mii (World) (Mii) (Figurine)": {
-		"languages": ["En"]
-	},
-	"34 - Super Smash Bros. - Mii (World) (Mii) (Figurine)": {
-		"languages": ["En"]
-	},
-	"35 - Super Smash Bros. - Mii (World) (Mii) (Figurine)": {
-		"languages": ["En"]
-	},
-	"36 - Super Smash Bros. - Charizard (World) (Pokemon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"37 - Super Smash Bros. - Greninja (World) (Pokemon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"38 - Super Smash Bros. - Jigglypuff (World) (Pokemon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"39 - Super Smash Bros. - Meta Knight (World) (Kirby) (Figurine)": {
-		"languages": ["En"]
-	},
-	"40 - Super Smash Bros. - King Dedede (World) (Kirby) (Figurine)": {
-		"languages": ["En"]
-	},
-	"41 - Super Smash Bros. - Lucina (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"42 - Super Smash Bros. - Robin (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"43 - Super Smash Bros. - Shulk (World) (Xenoblade Chronicles) (Figurine)": {
-		"languages": ["En"]
-	},
-	"44 - Super Smash Bros. - Ness (World) (Earthbound) (Figurine)": {
-		"languages": ["En"]
-	},
-	"45 - Super Smash Bros. - Mr. G&W (World) (Classic Nintendo) (Figurine)": {
-		"languages": ["En"]
-	},
-	"46 - Super Smash Bros. - R.O.B. (World) (Classic Nintendo) (Figurine)": {
-		"languages": ["En"]
-	},
-	"47 - Super Smash Bros. - Duck Hunt (World) (Classic Nintendo) (Figurine)": {
-		"languages": ["En"]
-	},
-	"48 - Super Smash Bros. - Sonic (World) (Sonic the Hedgehog) (Figurine)": {
-		"languages": ["En"]
-	},
-	"49 - Super Smash Bros. - Mega Man (World) (Mega Man) (Figurine)": {
-		"languages": ["En"]
-	},
-	"50 - Super Smash Bros. - PAC-MAN (World) (PAC-MAN) (Figurine)": {
-		"languages": ["En"]
-	},
-	"51 - Super Smash Bros. - R.O.B. (World) (Classic Nintendo) (Figurine)": {
-		"languages": ["En"]
-	},
-	"52 - Super Mario Bros. - Mario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"53 - Super Mario Bros. - Luigi (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"54 - Super Mario Bros. - Peach (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"55 - Super Mario Bros. - Yoshi (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"56 - Super Mario Bros. - Toad (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"57 - Super Mario Bros. - Bowser (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
 	"58 - Chibi-Robo! - Chibi-Robo (World) (Chibi-Robo!) (Figurine)": {
-		"languages": ["En"]
-	},
-	"60 - Super Mario Bros. - Mario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"61 - Super Mario Bros. - Mario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"62 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"63 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"64 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
 		"languages": ["En"]
 	},
 	"65 - Yoshi's Woolly World - Yoshi (World) (Super Mario) (Plush)": {
@@ -1415,148 +1226,19 @@
 	"472 - Animal Crossing - K.K. Slider (World) (Animal Crossing) (Card)": {
 		"languages": ["En"]
 	},
-	"568 - 8-bit Mario - Mario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"569 - 8-bit Mario - Mario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
 	"570 - Skylanders - Bowser (World) (Super Mario) (Figurine)": {
 		"languages": ["En"]
 	},
 	"571 - Skylanders - Donkey Kong (World) (Super Mario) (Figurine)": {
 		"languages": ["En"]
 	},
-	"573 - Super Smash Bros. - Mewtwo (World) (Pokemon) (Figurine)": {
-		"languages": ["En"]
-	},
 	"574 - Yoshi's Woolly World - Yoshi (World) (Super Mario) (Plush)": {
-		"languages": ["En"]
-	},
-	"575 - Animal Crossing - Isabelle (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"576 - Animal Crossing - K.K. Slider (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"577 - Animal Crossing - Mabel (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"578 - Animal Crossing - Tom Nook (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"579 - Animal Crossing - Digby (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"580 - Animal Crossing - Lottie (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"581 - Animal Crossing - Reese (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"582 - Animal Crossing - Cyrus (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"583 - Animal Crossing - Blathers (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"584 - Animal Crossing - Celeste (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"585 - Animal Crossing - Mr. Resetti (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"586 - Animal Crossing - Kicks (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"587 - Animal Crossing - Isabelle (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"588 - Animal Crossing - Rover (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"589 - Animal Crossing - Timmy & Tommy (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"590 - Animal Crossing - Kapp'n (World) (Animal Crossing) (Figurine)": {
-		"languages": ["En"]
-	},
-	"591 - The Legend of Zelda - Midna (World) (Legend of Zelda) (Figurine)": {
 		"languages": ["En"]
 	},
 	"592 - Shovel Knight - Shovel Knight (World) (Shovel Knight) (Figurine)": {
 		"languages": ["En"]
 	},
-	"593 - Super Smash Bros. - Lucas (World) (Earthbound) (Figurine)": {
-		"languages": ["En"]
-	},
-	"594 - Super Smash Bros. - Roy (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"595 - Super Smash Bros. - Ryu (World) (Street Fighter) (Figurine)": {
-		"languages": ["En"]
-	},
-	"596 - Kirby - Kirby (World) (Kirby) (Figurine)": {
-		"languages": ["En"]
-	},
-	"597 - Kirby - Meta Knight (World) (Kirby) (Figurine)": {
-		"languages": ["En"]
-	},
-	"598 - Kirby - King Dedede (World) (Kirby) (Figurine)": {
-		"languages": ["En"]
-	},
-	"599 - Kirby - Waddle Dee (World) (Kirby) (Figurine)": {
-		"languages": ["En"]
-	},
-	"600 - Super Smash Bros. - Mega Man (World) (Mega Man) (Figurine)": {
-		"languages": ["En"]
-	},
-	"601 - Super Smash Bros. - Cloud Strife (World) (Final Fantasy) (Figurine)": {
-		"languages": ["En"]
-	},
-	"602 - Super Smash Bros. - Corrin (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"603 - Super Smash Bros. - Bayonetta (World) (Bayonetta) (Figurine)": {
-		"languages": ["En"]
-	},
 	"604 - Pokemon - Shadow Mewtwo (World) (Pokemon) (Card)": {
-		"languages": ["En"]
-	},
-	"605 - Splatoon - Callie (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"606 - Splatoon - Marie (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"607 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"608 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"609 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"610 - Super Mario Bros. - Rosalina (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"611 - Super Mario Bros. - Wario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"612 - Super Mario Bros. - Donkey Kong (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"613 - Super Mario Bros. - Diddy Kong (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"614 - Super Mario Bros. - Daisy (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"615 - Super Mario Bros. - Waluigi (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"616 - Super Mario Bros. - Boo (World) (Super Mario) (Figurine)": {
 		"languages": ["En"]
 	},
 	"617 - Mario Sports Superstars - Mario (World) (Mario Sports Superstars) (Card)": {
@@ -2072,67 +1754,13 @@
 	"863 - Pikmin - Pikmin (World) (Pikmin) (Figurine)": {
 		"languages": ["En"]
 	},
-	"864 - Fire Emblem - Alm (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"865 - Fire Emblem - Celica (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"866 - Super Smash Bros. - Cloud Strife (World) (Final Fantasy) (Figurine)": {
-		"languages": ["En"]
-	},
-	"867 - Super Smash Bros. - Corrin (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"868 - Super Smash Bros. - Bayonetta (World) (Bayonetta) (Figurine)": {
-		"languages": ["En"]
-	},
 	"869 - Metroid - Samus (World) (Metroid) (Figurine)": {
 		"languages": ["En"]
 	},
 	"870 - Metroid - Metroid (World) (Metroid) (Figurine)": {
 		"languages": ["En"]
 	},
-	"871 - Super Mario Bros. - Goomba (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"872 - Super Mario Bros. - Koopa Troopa (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"873 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"874 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"875 - Splatoon - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"879 - Fire Emblem - Chrom (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"880 - Fire Emblem - Tiki (World) (Fire Emblem) (Figurine)": {
-		"languages": ["En"]
-	},
-	"881 - Super Mario Bros. - Mario (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"882 - Super Mario Bros. - Peach (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"883 - Super Mario Bros. - Bowser (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"884 - Miscellaneous - Super Mario Cereal (World) (Kellogs) (Card)": {
-		"languages": ["En"]
-	},
 	"885 - Pokemon - Detective Pikachu (World) (Pokemon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"886 - Splatoon - Pearl (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"887 - Splatoon - Marina (World) (Splatoon) (Figurine)": {
 		"languages": ["En"]
 	},
 	"888 - Miscellaneous - Solaire of Astora (World) (Dark Souls) (Figurine)": {
@@ -2141,35 +1769,56 @@
 	"889 - Mega Man - Mega Man (World) (Mega Man) (Figurine)": {
 		"languages": ["En"]
 	},
-	"891 - Super Smash Bros. - King K. Rool (World) (Donkey Kong) (Figurine)": {
-		"languages": ["En"]
-	},
-	"894 - Super Smash Bros. - Wolf (World) (Star Fox) (Figurine)": {
-		"languages": ["En"]
-	},
-	"895 - Super Smash Bros. - Ridley (World) (Metroid) (Figurine)": {
-		"languages": ["En"]
-	},
-	"897 - Super Smash Bros. - Ice Climbers (World) (Classic Nintendo) (Figurine)": {
-		"languages": ["En"]
-	},
-	"898 - Super Smash Bros. - Inkling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"909 - Super Smash Bros. - Piranha Plant (World) (Super Mario) (Figurine)": {
-		"languages": ["En"]
-	},
-	"910 - Splatoon - Octoling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"911 - Splatoon - Octoling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
-	"912 - Splatoon - Octoling (World) (Splatoon) (Figurine)": {
-		"languages": ["En"]
-	},
 	"913 - Diablo - Loot Goblin (World) (Diablo) (Figurine)": {
 		"languages": ["En"]
+	},
+	"Animal Crossing - 01 - Isabelle - Winter Outfit (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 02 - K.K. (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 03 - Lottie (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 04 - Reese (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 05 - Cyrus (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 06 - Tom Nook (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 07 - Mabel (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 08 - Digby (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 09 - Resetti (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 10 - Blathers (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 11 - Kicks (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 12 - Celeste (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 13 - Timmy & Tommy (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 14 - Rover (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 15 - Kapp'n (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - 16 - Isabelle - Summer Outfit (World) (Figurine)": {
+		"languages": ["nolang"]
 	},
 	"Animal Crossing Series - C.J. (USA) (Card)": {
 		"languages": ["En"]
@@ -2189,7 +1838,562 @@
 	"Animal Crossing Series - Zoe (USA) (Card)": {
 		"languages": ["En"]
 	},
-	"Banjo & Kazooie (World)": {
+	"Fire Emblem - Alm (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Fire Emblem - Celica (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Fire Emblem - Chrom (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Fire Emblem - Tiki (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Kirby - King Dedede (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Kirby - Kirby (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Kirby - Meta Knight (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Kirby - Waddle Dee (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda 30th Anniversary, The - Link - Majora's Mask (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda 30th Anniversary, The - Link - Ocarina of Time (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda 30th Anniversary, The - Link - Skyward Sword (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda 30th Anniversary, The - Link - The Legend of Zelda (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda 30th Anniversary, The - Link - Twilight Princess (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda 30th Anniversary, The - Toon Link - The Wind Waker (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda 30th Anniversary, The - Toon Zelda - The Wind Waker (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Bokoblin (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Daruk - Goron Champion (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Guardian (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Link - Archer (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Link - Rider (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Mipha - Zora Champion (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Revali - Rito Champion (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Urbosa (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Breath of the Wild - Zelda (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Link's Awakening (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Skyward Sword - Zelda & Loftwing (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Tears of the Kingdom - Ganondorf (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Tears of the Kingdom - Link (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Tears of the Kingdom - Zelda (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Legend of Zelda, The - Twilight Princess - Wolf Link (World) (Figurine)": {
 		"languages": ["En"]
+	},
+	"Splatoon - Wave 1 - Inkling Boy (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 1 - Inkling Girl (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 1 - Inkling Squid (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 2 - Callie (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 2 - Inkling Boy - Purple (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 2 - Inkling Girl - Lime Green (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 2 - Inkling Squid - Orange (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 2 - Marie (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 3 - Inkling Boy - Neon Green (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 3 - Inkling Girl - Neon Pink (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 3 - Inkling Squid - Neon Purple (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 4 - Marina (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 4 - Pearl (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 5 - Octoling Boy (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 5 - Octoling Girl (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 5 - Octoling Octopus (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 6 - Inkling - Yellow (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 6 - Octoling - Blue (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 6 - Smallfry (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 7 - Big Man (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 7 - Frye (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 7 - Shiver (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 8 - Callie - Alterna (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 8 - Marie - Alterna (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 8 - Marina - Side Order (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Splatoon - Wave 8 - Pearl - Side Order (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 1 - Bowser (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 1 - Luigi (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 1 - Mario (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 1 - Mario - Gold Edition (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 1 - Mario - Silver Edition (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 1 - Peach (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 1 - Toad (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 1 - Yoshi (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 2 - Boo (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 2 - Daisy (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 2 - Diddy Kong (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 2 - Donkey Kong (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 2 - Rosalina (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 2 - Waluigi (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 2 - Wario (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 3 - Goomba (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 3 - Koopa Troopa (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 4 - Bowser - Wedding Outfit (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 4 - Mario - Wedding Outfit (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 4 - Peach - Wedding Outfit (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 5 - Cat Mario (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario - Wave 5 - Cat Peach (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario Bros. 30th Anniversary - 8-Bit Mario - Classic Color (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario Bros. 30th Anniversary - 8-Bit Mario - Modern Color (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Mario Cereal (World) (Box)": {
+		"languages": ["En"]
+	},
+	"Super Nintendo World - Daisy Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Nintendo World - Diddy Kong Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Nintendo World - Donkey Kong Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Nintendo World - Gold Mario Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Nintendo World - Luigi Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Nintendo World - Mario Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Nintendo World - Peach Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Nintendo World - Toad Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Nintendo World - Yoshi Power-Up Band (World) (Wristband)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 01 - Mario (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 02 - Peach (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 03 - Yoshi (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 04 - Donkey Kong (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 05 - Link (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 06 - Fox (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 07 - Samus (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 08 - Wii Fit Trainer (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 09 - Villager (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 10 - Pikachu (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 11 - Kirby (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 12 - Marth (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 13 - Zelda (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 14 - Diddy Kong (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 15 - Luigi (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 16 - Little Mac (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 17 - Pit (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 18 - Captain Falcon (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 19 - Rosalina (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 20 - Bowser (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 21 - Lucario (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 22 - Toon Link (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 23 - Sheik (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 24 - Ike (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 25 - Shulk (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 26 - Sonic (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 27 - Mega Man (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 27 - Mega Man - Gold Edition (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 28 - King Dedede (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 29 - Meta Knight (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 30 - Robin (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 31 - Lucina (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 32 - Wario (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 33 - Charizard (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 34 - Ness (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 35 - Pac-Man (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 36 - Greninja (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 37 - Jigglypuff (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 38 - Palutena (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 39 - Dark Pit (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 40 - Zero Suit Samus (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 41 - Ganondorf (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 42 - Dr. Mario (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 43 - Bowser Jr. (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 44 - Olimar (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 45 - Mr. Game & Watch (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 46 - R.O.B. - NES (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 47 - Duck Hunt (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 48 - Mii Brawler (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 49 - Mii Swordfighter (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 50 - Mii Gunner (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 51 - Mewtwo (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 52 - Falco (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 53 - Lucas (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 54 - R.O.B. - Famicom (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 55 - Roy (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 56 - Ryu (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 57 - Cloud (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 58 - Cloud - Player 2 (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 59 - Corrin (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 60 - Corrin - Player 2 (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 61 - Bayonetta (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 62 - Bayonetta - Player 2 (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 63 - Wolf (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 64 - Inkling (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 65 - Ridley (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 66 - Piranha Plant (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 67 - King K. Rool (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 68 - Ice Climbers (World) (Figurine)": {
+		"languages": ["En"]
+	},
+	"Super Smash Bros. - 69 - Ken (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 70 - Young Link (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 71 - Daisy (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 72 - Pichu (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 73 - Isabelle (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 74 - Pokemon Trainer (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 75 - Snake (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 76 - Ivysaur (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 77 - Squirtle (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 78 - Simon (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 79 - Incineroar (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 80 - Chrom (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 81 - Dark Samus (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 82 - Richter (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 83 - Joker (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 84 - Hero (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 85 - Banjo & Kazooie (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 86 - Terry (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 87 - Byleth (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 88 - Min Min (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 89 - Alex (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 89 - Steve (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 90 - Sephiroth (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 91 - Kazuya (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 92 - Mythra (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 92 - Pyra (World) (Figurine)": {
+		"languages": ["nolang"]
+	},
+	"Super Smash Bros. - 93 - Sora (World) (Figurine)": {
+		"languages": ["nolang"]
 	}
 }

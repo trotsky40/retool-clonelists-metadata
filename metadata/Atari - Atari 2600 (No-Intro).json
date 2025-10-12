@@ -2567,6 +2567,9 @@
 	"Video Life (USA)": {
 		"languages": ["En"]
 	},
+	"Video Olympics (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Video Olympics ~ Pong Sports (USA)": {
 		"languages": ["En"]
 	},

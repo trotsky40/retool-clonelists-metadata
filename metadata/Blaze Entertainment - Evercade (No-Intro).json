@@ -2,8 +2,14 @@
 	"[BIOS] Evercade Boot.bin (World) (v3.0.0)": {
 		"languages": ["nolang"]
 	},
+	"[BIOS] Super Pocket Capcom Edition Firmware (World) (v1.4.0)": {
+		"languages": ["nolang"]
+	},
 	"[BIOS] Super Pocket Technos Edition Firmware (World) (v1.4.0)": {
 		"languages": ["nolang"]
+	},
+	"Alwa's Awakening & Cathedral (Europe)": {
+		"languages": ["En"]
 	},
 	"Alwa's Awakening & Cathedral (World)": {
 		"languages": ["En"]
@@ -11,22 +17,25 @@
 	"Atari Arcade 1 (World)": {
 		"languages": ["En"]
 	},
+	"Atari Arcade 2 (World) (Alt) [b]": {
+		"languages": ["En"]
+	},
 	"Atari Arcade 2 (World)": {
 		"languages": ["En"]
 	},
-	"Atari Collection 1 (World) [b]": {
+	"Atari Collection 1 (Europe) [b]": {
 		"languages": ["En"]
 	},
-	"Atari Collection 2 (World)": {
+	"Atari Collection 2 (Europe)": {
 		"languages": ["En"]
 	},
-	"Atari Lynx Collection 1 (World)": {
+	"Atari Lynx Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
-	"Atari Lynx Collection 2 (World) [b]": {
+	"Atari Lynx Collection 2 (Europe) [b]": {
 		"languages": ["En"]
 	},
-	"Bitmap Brothers Collection 1, The (World) [b]": {
+	"Bitmap Brothers Collection 1, The (Europe) [b]": {
 		"languages": ["En"]
 	},
 	"Bitmap Brothers Collection 2, The (World)": {
@@ -35,28 +44,52 @@
 	"Broken Sword Collection (World)": {
 		"languages": ["En"]
 	},
+	"Codemasters Collection 1 (Europe)": {
+		"languages": ["En"]
+	},
+	"Codemasters Collection 1 (World) (Alt) [b]": {
+		"languages": ["En"]
+	},
 	"Codemasters Collection 1 (World)": {
 		"languages": ["En"]
 	},
-	"Data East Arcade 1 (World)": {
+	"Data East Arcade 1 (Europe) [b]": {
+		"languages": ["En"]
+	},
+	"Data East Arcade 1 (World) [b]": {
 		"languages": ["En"]
 	},
 	"Data East Arcade 2 (World)": {
 		"languages": ["En"]
 	},
-	"Data East Collection 1 (World)": {
+	"Data East Collection 1 (Europe)": {
+		"languages": ["En"]
+	},
+	"Delphine Software Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
 	"Delphine Software Collection 1 (World)": {
 		"languages": ["En"]
 	},
+	"Demons of Asteborg & Astebros (Europe)": {
+		"languages": ["En"]
+	},
 	"Demons of Asteborg & Astebros (World)": {
+		"languages": ["En"]
+	},
+	"Duke Nukem Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
 	"Duke Nukem Collection 1 (World)": {
 		"languages": ["En"]
 	},
+	"Duke Nukem Collection 2 (Europe)": {
+		"languages": ["En"]
+	},
 	"Duke Nukem Collection 2 (World)": {
+		"languages": ["En"]
+	},
+	"Full Void (Europe)": {
 		"languages": ["En"]
 	},
 	"Full Void (World)": {
@@ -65,37 +98,49 @@
 	"Goodboy Galaxy & Witch n' Wiz (World) [b]": {
 		"languages": ["En"]
 	},
+	"Gremlin Collection 1 (Europe)": {
+		"languages": ["En"]
+	},
 	"Gremlin Collection 1 (World)": {
 		"languages": ["En"]
 	},
 	"Gremlin Collection 2 (World)": {
 		"languages": ["En"]
 	},
+	"Home Computer Heroes Collection 1 (Europe)": {
+		"languages": ["En"]
+	},
 	"Home Computer Heroes Collection 1 (World)": {
 		"languages": ["En"]
 	},
-	"Indie Heroes Collection 1 (World)": {
+	"Indie Heroes Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
 	"Indie Heroes Collection 2 (World) [b]": {
 		"languages": ["En"]
 	},
-	"Indie Heroes Collection 3 (World)": {
+	"Indie Heroes Collection 3 (Europe) (v1.0.1)": {
 		"languages": ["En"]
 	},
 	"Indie Heroes Collection 4 (World)": {
 		"languages": ["En"]
 	},
-	"Intellivision Collection 1 (World)": {
+	"Intellivision Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
 	"Intellivision Collection 2 (World)": {
 		"languages": ["En"]
 	},
-	"Interplay Collection 1 (World)": {
+	"Interplay Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
-	"Interplay Collection 2 (World)": {
+	"Interplay Collection 2 (Europe) (2020-11-17) [b]": {
+		"languages": ["En"]
+	},
+	"Interplay Collection 2 (Europe) (2024-11-08)": {
+		"languages": ["En"]
+	},
+	"Irem Arcade 1 (Europe)": {
 		"languages": ["En"]
 	},
 	"Irem Arcade 1 (World) (Alt) [b]": {
@@ -113,10 +158,13 @@
 	"Legacy of Kain Collection (World)": {
 		"languages": ["En"]
 	},
-	"Mega Cat Studios Collection 1 (World)": {
+	"Mega Cat Studios Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
-	"Mega Cat Studios Collection 2 (World)": {
+	"Mega Cat Studios Collection 2 (Europe) (2021-05-25)": {
+		"languages": ["En"]
+	},
+	"Mega Cat Studios Collection 2 (Europe) (2023-12-29)": {
 		"languages": ["En"]
 	},
 	"Metal Dragon & Life on Mars (World)": {
@@ -125,13 +173,16 @@
 	"Morphcat Games Collection 1 (World) [b]": {
 		"languages": ["En"]
 	},
-	"Namco Museum Collection 1 (World)": {
+	"Namco Museum Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
-	"Namco Museum Collection 2 (World)": {
+	"Namco Museum Collection 2 (Europe)": {
 		"languages": ["En"]
 	},
-	"Oliver Twins Collection, The (World) [b]": {
+	"NeoGeo Arcade 1 (World)": {
+		"languages": ["En"]
+	},
+	"Oliver Twins Collection, The (Europe) [b]": {
 		"languages": ["En"]
 	},
 	"Piko Gaelco Arcade 1 (World)": {
@@ -143,7 +194,7 @@
 	"Piko Interactive Arcade 1 (World)": {
 		"languages": ["En"]
 	},
-	"Piko Interactive Collection 1 (World)": {
+	"Piko Interactive Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
 	"Piko Interactive Collection 2 (World)": {
@@ -152,19 +203,58 @@
 	"Piko Interactive Collection 3 (World)": {
 		"languages": ["En"]
 	},
-	"Piko Interactive Collection 4 (World)": {
+	"Piko Interactive Collection 4 (Europe)": {
+		"languages": ["En"]
+	},
+	"Renovation Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
 	"Renovation Collection 1 (World)": {
 		"languages": ["En"]
 	},
+	"Roguecraft DX (World) (Alt) [b]": {
+		"languages": ["En"]
+	},
+	"Roguecraft DX (World)": {
+		"languages": ["En"]
+	},
 	"Sunsoft Collection 1 (World)": {
 		"languages": ["En"]
 	},
-	"Sunsoft Collection 2 (World) [b]": {
+	"Sunsoft Collection 2 (Europe) [b]": {
+		"languages": ["En"]
+	},
+	"Super Pocket - The Atari Collection (World) (Extracted)": {
+		"languages": ["En"]
+	},
+	"Super Pocket - The Capcom Collection (World) (Extracted)": {
+		"languages": ["En"]
+	},
+	"Super Pocket - The Data East Collection (World) (Extracted)": {
+		"languages": ["En"]
+	},
+	"Super Pocket - The NeoGeo Collection (World) (Extracted)": {
+		"languages": ["En"]
+	},
+	"Super Pocket - The Taito Collection (World) (Extracted)": {
+		"languages": ["En"]
+	},
+	"Super Pocket - The Technos Collection (World) (Extracted)": {
+		"languages": ["En"]
+	},
+	"Sydney Hunter Collection, The (Europe)": {
 		"languages": ["En"]
 	},
 	"Sydney Hunter Collection, The (World)": {
+		"languages": ["En"]
+	},
+	"Taito Arcade 1 (World)": {
+		"languages": ["En"]
+	},
+	"Taito Arcade 2 (World)": {
+		"languages": ["En"]
+	},
+	"Team17 Collection 1 (Europe) (v1.0.4)": {
 		"languages": ["En"]
 	},
 	"Team17 Collection 1 (World)": {
@@ -173,7 +263,7 @@
 	"Technos Arcade 1 (World)": {
 		"languages": ["En"]
 	},
-	"Technos Collection 1 (World) [b]": {
+	"Technos Collection 1 (Europe) [b]": {
 		"languages": ["En"]
 	},
 	"Thalamus Collection 1 (World)": {
@@ -185,7 +275,7 @@
 	"THEC64 Collection 2 (World)": {
 		"languages": ["En"]
 	},
-	"THEC64 Collection 3 (World) [b]": {
+	"THEC64 Collection 3 (Europe) [b]": {
 		"languages": ["En"]
 	},
 	"Toaplan Arcade 1 (World) [b]": {
@@ -209,10 +299,16 @@
 	"Windjammers, Karnov & Friends (World)": {
 		"languages": ["En"]
 	},
+	"Worms Collection 1 (Europe)": {
+		"languages": ["En"]
+	},
 	"Worms Collection 1 (World) [b]": {
 		"languages": ["En"]
 	},
-	"Xeno Crisis & Tanglewood (World)": {
+	"Xeno Crisis & Tanglewood (Europe) (Alt) [b]": {
+		"languages": ["En"]
+	},
+	"Xeno Crisis & Tanglewood (Europe)": {
 		"languages": ["En"]
 	}
 }

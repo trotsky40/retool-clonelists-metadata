@@ -1,0 +1,14 @@
+{
+	"Street Fighter III - 2nd Impact - Giant Attack (Japan) (En,Ja,Es)": {
+		"languages": ["En", "Es", "Ja"],
+		"localName": "ストリートファイターⅢ　セカンドインパクト　ジャイアントアタック"
+	},
+	"Street Fighter III - 3rd Strike - Fight for the Future (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
+		"localName": "ストリートファイターⅢ　サードストライク　ファイト・フォー・ザ・フューチャー"
+	},
+	"War-Zard (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
+		"localName": "ウォーザード"
+	}
+}

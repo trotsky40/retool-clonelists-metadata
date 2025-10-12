@@ -27,6 +27,22 @@
 		"languages": ["Ja"],
 		"localName": "ザ☆ビシバシ"
 	},
+	"Castlevania - The Arcade (Japan) (Application Disc 1)": {
+		"languages": [],
+		"localName": "悪魔城ドラキュラ　ＴＨＥ　ＡＲＣＡＤＥ"
+	},
+	"Castlevania - The Arcade (Japan) (Application Disc 2)": {
+		"languages": [],
+		"localName": "悪魔城ドラキュラ　ＴＨＥ　ＡＲＣＡＤＥ"
+	},
+	"Castlevania - The Arcade (Japan) (System Disc)": {
+		"languages": [],
+		"localName": "悪魔城ドラキュラ　ＴＨＥ　ＡＲＣＡＤＥ"
+	},
+	"Feature World (Japan) (Conversion Kit Application Disc)": {
+		"languages": [],
+		"localName": "フィーチャーワールド"
+	},
 	"Mah-Jong Fight Club - Garyuu Tensei (Japan) (Client-you Application Disc)": {
 		"languages": [],
 		"localName": "麻雀格闘倶楽部　我龍転生"
@@ -121,6 +137,14 @@
 	},
 	"Toukyuu Oukoku Gashaaaan (Asia) (System Disc)": {
 		"languages": ["En"],
+		"localName": "投球王国ガシャーン"
+	},
+	"Toukyuu Oukoku Gashaaaan (Japan) (Application Disc)": {
+		"languages": [],
+		"localName": "投球王国ガシャーン"
+	},
+	"Toukyuu Oukoku Gashaaaan (Japan) (System Disc)": {
+		"languages": [],
 		"localName": "投球王国ガシャーン"
 	},
 	"World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 1)": {

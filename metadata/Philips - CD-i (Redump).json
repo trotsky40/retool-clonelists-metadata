@@ -278,7 +278,7 @@
 		"languages": []
 	},
 	"Arcade Classics (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Archeon CD-i Quiz (Netherlands)": {
 		"languages": ["Nl"]
@@ -3118,6 +3118,9 @@
 	"Grundig - Das Car Audio-Programm 1995 (Germany)": {
 		"languages": []
 	},
+	"Guidare e Pilotare (Italy) (En,It)": {
+		"languages": ["En", "It"]
+	},
 	"Guidare e Pilotare (Italy) (En,It) (Beta) (1996-06-03)": {
 		"languages": ["En", "It"]
 	},
@@ -4534,8 +4537,8 @@
 	"Lords of the Rising Sun (USA)": {
 		"languages": ["En"]
 	},
-	"Lost Eden (Europe)": {
-		"languages": ["En"]
+	"Lost Eden (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Lost Eden (France)": {
 		"languages": ["Fr"]
@@ -4897,8 +4900,8 @@
 	"Moses - Bound for the Promised Land (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Moses - The Exodus (USA)": {
-		"languages": []
+	"Moses - The Exodus (USA, Europe)": {
+		"languages": ["En"]
 	},
 	"Mother Goose - Hidden Pictures (Europe)": {
 		"languages": []

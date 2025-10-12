@@ -1677,7 +1677,7 @@
 		"languages": ["Ja"],
 		"localName": "アーマード・コア　～ラスト・レイヴン～"
 	},
-	"Armored Core - Last Raven (Japan) (Champion Tokubetsu-ban)": {
+	"Armored Core - Last Raven (Japan) (Champion Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "アーマード・コア　～ラスト・レイヴン～　チャンピオン特別版"
 	},
@@ -2729,7 +2729,7 @@
 		"languages": ["Ja"],
 		"localName": "ビストロ・きゅーぴっと２"
 	},
-	"Bistro Cupid 2 (Japan) (Tokubetsu-ban)": {
+	"Bistro Cupid 2 (Japan) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "ビストロ・きゅーぴっと２"
 	},
@@ -4956,7 +4956,7 @@
 	"Combat Ace (Europe)": {
 		"languages": ["En"]
 	},
-	"Combat Elite - WWII Paratroopers (Europe) (Beta) (2004-05-12)": {
+	"Combat Elite - WWII Paratroopers (Europe) (Proto) (2004-05-12)": {
 		"languages": ["En"]
 	},
 	"Combat Elite - WWII Paratroopers (USA)": {
@@ -12540,7 +12540,7 @@
 		"languages": ["Ja"],
 		"localName": "グラップラー刃牙　バキ最強烈伝"
 	},
-	"Gravenville - Ghost Master Chronicles (USA) (Beta) (2004-05-07)": {
+	"Gravenville - Ghost Master Chronicles (USA) (Proto) (2004-05-07)": {
 		"languages": ["En"]
 	},
 	"Gravity Games Bike - Street. Vert. Dirt. (Europe) (En,Fr,De,Es,It)": {
@@ -14179,7 +14179,7 @@
 		"languages": ["Ja"],
 		"localName": "北斗の拳　審判の双蒼星　拳豪列伝"
 	},
-	"Holiday 2004 Demo Disc (USA) (PR-Mature)": {
+	"Holiday 2004 Demo Disc (USA) (RP-Mature)": {
 		"languages": ["En"]
 	},
 	"Holiday 2004 Demo Disc (USA) (Teen)": {
@@ -14932,7 +14932,7 @@
 	"Iron Chef (Europe)": {
 		"languages": ["En"]
 	},
-	"Iron Eagle Max (Europe) (En,Fr,De) (Beta) (2002-01-09)": {
+	"Iron Eagle Max (Europe) (En,Fr,De) (Proto) (2002-01-09)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Iron Man (USA) (En,Fr,Es)": {
@@ -16535,7 +16535,7 @@
 		"languages": ["Ja"],
 		"localName": "機動戦士ガンダム"
 	},
-	"Kidou Senshi Gundam (Japan) (Tokubetsu-ban)": {
+	"Kidou Senshi Gundam (Japan) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "機動戦士ガンダム"
 	},
@@ -19302,6 +19302,9 @@
 	"Max Media Manager (USA) (Unl)": {
 		"languages": ["En"]
 	},
+	"Max Media Player (Europe) (Disc 1) (PS2 Media Disc) (Unl)": {
+		"languages": []
+	},
 	"Max Memory Online (USA) (Unl) (v1.14)": {
 		"languages": ["En"]
 	},
@@ -22015,8 +22018,8 @@
 	"Need for Speed - Most Wanted (Europe) (Demo)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Most Wanted (Europe) (En,Fr,De,Es,It,Nl,Sv)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Sv"]
+	"Need for Speed - Most Wanted (Europe) (En,Es,It)": {
+		"languages": ["En", "Es", "It"]
 	},
 	"Need for Speed - Most Wanted (Europe) (En,Fr,De,Nl,Sv,Da,Fi,Pl)": {
 		"languages": ["Da", "De", "En", "Fi", "Fr", "Nl", "Pl", "Sv"]
@@ -25812,7 +25815,7 @@
 	"Polar Express, The (USA)": {
 		"languages": ["En"]
 	},
-	"Polaroid Pete (Europe) (Beta) (2002-01-09)": {
+	"Polaroid Pete (Europe) (Proto) (2002-01-09)": {
 		"languages": ["En"]
 	},
 	"Police 24-7 (Europe) (En,Fr,De,Es,It)": {
@@ -28399,7 +28402,7 @@
 	"SX Superstar (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"SX Superstar (USA) (Beta) (2003-04-21)": {
+	"SX Superstar (USA) (Proto) (2003-04-21)": {
 		"languages": []
 	},
 	"SXR - Snow X Racing (Europe) (En,Fr,De,Es,It)": {
@@ -30221,7 +30224,7 @@
 		"languages": ["Ja"],
 		"localName": "少女義経伝"
 	},
-	"Shoujo Yoshitsune-den (Japan) (Tokubetsu-ban)": {
+	"Shoujo Yoshitsune-den (Japan) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "少女義経伝"
 	},
@@ -30229,7 +30232,7 @@
 		"languages": ["Ja"],
 		"localName": "少女義経伝弐　～刻を超える契り～"
 	},
-	"Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan) (Tokubetsu-ban)": {
+	"Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "少女義経伝弐　～刻を超える契り～"
 	},
@@ -32488,15 +32491,15 @@
 	"Soulcalibur III (Europe, Australia) (En,Fr,De,Es,It) (v2.00)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Soulcalibur III (Japan) (En,Ja) (v2.00)": {
-		"languages": ["En", "Ja"],
-		"localName": "ソウルキャリバーⅢ"
-	},
 	"Soulcalibur III (Japan) (Taikenban Special Disk)": {
 		"languages": ["Ja"],
 		"localName": "ファミ通ＰＳ２　１２月９日号増刊　ファミ通Ｐｌａｙａｂｌｅ　ソウルキャリバーⅢ"
 	},
 	"Soulcalibur III (Japan) (v1.01)": {
+		"languages": ["Ja"],
+		"localName": "ソウルキャリバーⅢ"
+	},
+	"Soulcalibur III (Japan) (v2.00)": {
 		"languages": ["Ja"],
 		"localName": "ソウルキャリバーⅢ"
 	},
@@ -39198,7 +39201,7 @@
 		"languages": ["Ja"],
 		"localName": "ジオニックフロント　機動戦士ガンダム００７９"
 	},
-	"Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsu-ban)": {
+	"Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "ジオニックフロント　機動戦士ガンダム００７９　講談社８誌連合企画　特別版"
 	},

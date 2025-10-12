@@ -993,7 +993,7 @@
 	"Cake Ninja Xmas (USA) (Es)": {
 		"languages": ["Es"]
 	},
-	"Calculator (Europe, Australia)": {
+	"Calculator (Europe, Australia) (It)": {
 		"languages": ["It"]
 	},
 	"Calculator (USA) (Es)": {
@@ -1032,7 +1032,7 @@
 	"Castle Conqueror (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"Castle Conqueror (France)": {
+	"Castle Conqueror (France) (En)": {
 		"languages": ["En"]
 	},
 	"Castle Conqueror (Germany)": {
@@ -1599,7 +1599,7 @@
 	"Dragon's Lair (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Dragon's Lair II (Europe, Australia)": {
+	"Dragon's Lair II (Europe, Australia) (Fr)": {
 		"languages": ["Fr"]
 	},
 	"Dragon's Lair II (USA)": {
@@ -1803,13 +1803,13 @@
 	"Escapee GO! (USA)": {
 		"languages": ["En"]
 	},
-	"Even Tijd Voor... Brain Training - Cijfers en Sommen (Netherlands)": {
+	"Even Tijd Voor... Brain Training - Cijfers en Sommen (Netherlands) (De)": {
 		"languages": ["De"]
 	},
-	"Even Tijd Voor... Brain Training - Sudoku (Netherlands)": {
+	"Even Tijd Voor... Brain Training - Sudoku (Netherlands) (De)": {
 		"languages": ["De"]
 	},
-	"Even Tijd Voor... Brain Training - Woorden en Beelden (Netherlands)": {
+	"Even Tijd Voor... Brain Training - Woorden en Beelden (Netherlands) (De)": {
 		"languages": ["De"]
 	},
 	"Everyday Soccer (USA)": {
@@ -1896,7 +1896,7 @@
 	"Ferryman Puzzle (Europe) (En,Fr,De,Es,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "Nl"]
 	},
-	"Fieldrunners (Europe, Australia) (Removed)": {
+	"Fieldrunners (Europe, Australia) (De) (Removed)": {
 		"languages": ["De"]
 	},
 	"Fieldrunners (USA)": {
@@ -2016,7 +2016,7 @@
 	"Foto Face - The Face Stealer Strikes (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Foto Glitter (Italy)": {
+	"Foto Glitter (Italy) (En)": {
 		"languages": ["En"]
 	},
 	"Foto-Zauber (Germany)": {
@@ -3288,7 +3288,7 @@
 	"Mister Driller (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Mixed Messages (Europe, Australia)": {
+	"Mixed Messages (Europe, Australia) (Fr)": {
 		"languages": ["Fr"]
 	},
 	"Mixed Messages (USA)": {
@@ -4098,7 +4098,7 @@
 	"Puzzler World XL (USA)": {
 		"languages": ["En"]
 	},
-	"Pyoro (Europe, Australia)": {
+	"Pyoro (Europe, Australia) (It)": {
 		"languages": ["It"]
 	},
 	"Qu Pai Pai Xuan Jing Qiao Shi Xiu (China) (En,Zh)": {
@@ -4290,7 +4290,7 @@
 	"Rytmik (USA)": {
 		"languages": ["En"]
 	},
-	"Rytmik Retrobits (Europe, Australia)": {
+	"Rytmik Retrobits (Europe, Australia) (De)": {
 		"languages": ["De"]
 	},
 	"Rytmik Retrobits (Japan) (En,Ja)": {
@@ -4599,6 +4599,9 @@
 	"Spotto! (USA)": {
 		"languages": ["En"]
 	},
+	"Starship Defender (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Starship Defense (USA)": {
 		"languages": ["En"]
 	},
@@ -4659,13 +4662,13 @@
 	"Sudoku 4Pockets (USA)": {
 		"languages": ["En"]
 	},
-	"Sudoku 50! - For Beginners (Europe, Australia)": {
+	"Sudoku 50! - For Beginners (Europe, Australia) (De)": {
 		"languages": ["De"]
 	},
 	"Sudoku 150! (Japan) (En)": {
 		"languages": ["En"]
 	},
-	"Sudoku 150! - For Challengers (Europe, Australia)": {
+	"Sudoku 150! - For Challengers (Europe, Australia) (De)": {
 		"languages": ["De"]
 	},
 	"Sudoku (Europe, Australia) (En,Fr,De,Es)": {
@@ -4686,7 +4689,7 @@
 	"Sudoku Master (USA)": {
 		"languages": ["En"]
 	},
-	"Sudoku Sensei (Europe, Australia)": {
+	"Sudoku Sensei (Europe, Australia) (De)": {
 		"languages": ["De"]
 	},
 	"Sudoku Sensei (USA) (Es)": {
@@ -4747,9 +4750,6 @@
 		"languages": ["Ja"]
 	},
 	"Sutanoberuzu - Shirogane no Torikago (Japan)": {
-		"languages": ["Ja"]
-	},
-	"Sutashippu Defunda (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Sutjarang Nolja! - Maejikseukweeowa Imijigyesan (Korea)": {
@@ -5011,7 +5011,7 @@
 	"VT Tennis (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Wakugumi - Monochrome Puzzle (Europe, Australia)": {
+	"Wakugumi - Monochrome Puzzle (Europe, Australia) (De)": {
 		"languages": ["De"]
 	},
 	"Wanko to Issho (Japan)": {

@@ -1,4 +1,11 @@
 {
+	"[BIOS] Play-Yan Micro Key File (Japan)": {
+		"languages": ["Ja"]
+	},
+	"[BIOS] Play-Yan Shin Kinou Tsuika File (Japan)": {
+		"languages": ["Ja"],
+		"localName": "プレイやん新機能追加ファイル"
+	},
 	"Avoid (Japan)": {
 		"languages": ["Ja"]
 	},

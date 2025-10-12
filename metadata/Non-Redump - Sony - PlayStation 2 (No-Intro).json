@@ -1,4 +1,22 @@
 {
+	"4x4 Evo 2 (USA) (Proto) (2002-02-28)": {
+		"languages": ["En"]
+	},
+	"007 - Everything or Nothing (USA) (Beta) (2003-12-12)": {
+		"languages": ["nolang"]
+	},
+	"007 - From Russia with Love (Europe) (Beta) (2005-09-25)": {
+		"languages": ["nolang"]
+	},
+	"007 - From Russia with Love (USA) (Beta) (2005-08-16)": {
+		"languages": ["nolang"]
+	},
+	"007 - From Russia with Love (USA) (Beta) (2005-08-23)": {
+		"languages": ["nolang"]
+	},
+	"24 - The Game (USA) (Beta) (2005-12-13)": {
+		"languages": ["nolang"]
+	},
 	"Action Replay Max Evo (USA, Europe) (July 2008 CD Edition) (Unl)": {
 		"languages": ["En"]
 	},
@@ -10,6 +28,9 @@
 	},
 	"Ao no mama de (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Ar tonelico II - Melody of Metafalica (USA) (Beta) (2008-09-22)": {
+		"languages": ["nolang"]
 	},
 	"Armored Core - Nine Breaker (Korea)": {
 		"languages": ["Ko"]
@@ -125,6 +146,9 @@
 	"Dance Dance Revolution Extreme (USA) (Beta) (2004-05-10, E3 Demo)": {
 		"languages": ["En"]
 	},
+	"Daredevil - The Man Without Fear (USA) (Proto) (2004-03-22)": {
+		"languages": ["En"]
+	},
 	"Dark Cloud 2 (Korea)": {
 		"languages": ["Ko"]
 	},
@@ -182,11 +206,14 @@
 	"Explosion Royale (USA) (Proto) (2003-06-03)": {
 		"languages": ["En"]
 	},
-	"Fatal Frame (Korea)": {
+	"Fatal Frame (Korea) [b]": {
 		"languages": ["Ko"]
 	},
-	"Fatal Frame II - Crimson Butterfly (Korea)": {
+	"Fatal Frame II - Crimson Butterfly (Korea) [b]": {
 		"languages": ["Ko"]
+	},
+	"Fear Effect - Inferno (USA) (Proto)": {
+		"languages": ["En-US"]
 	},
 	"Final Fantasy X (USA) (Beta) (2001-09-28)": {
 		"languages": ["En"]
@@ -362,6 +389,9 @@
 	"God Hand (Korea)": {
 		"languages": ["Ko"]
 	},
+	"Grand Theft Auto - Vice City (Europe) (En,Fr,De,Es,It) (Beta) (2002-10-01)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Green Green - Kane no Oto - Dynamic (Japan) [b]": {
 		"languages": ["Ja"]
 	},
@@ -410,6 +440,13 @@
 	"Hisshou Pachinko Pachi-Slot Kouryoku Series Vol. 9 - CR Fever Captain Harlock (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Hitman 2 - Silent Assassin (Korea)": {
+		"languages": ["nolang"],
+		"localName": "히트맨　２　－　사일런트　어쌔신"
+	},
+	"Hitman - Blood Money (Europe) (Beta) (2006-01-20)": {
+		"languages": ["En"]
+	},
 	"Hokenshitsu e Youkoso (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -451,6 +488,9 @@
 	},
 	"K-1 World GP 2006 (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Kaena (Europe) (En,Fr,De,Es,It) (Proto) (2003-11-24)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Kaiketsu! Osabakiina (Japan)": {
 		"languages": ["Ja"]
@@ -512,6 +552,9 @@
 	"Manea Sugoroku - Kabukuro (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Manhunt 2 (Europe) (En,Fr,De,Es,It) (Beta) (2007-05-10)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Margi - Marginal (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -521,7 +564,11 @@
 	"Max Payne 2 - The Fall of Max Payne (USA) (Beta) (2004-05-03)": {
 		"languages": ["En"]
 	},
-	"Medal of Honor - Vanguard (Unknown) (Alpha 198) (2007-01-20)": {
+	"Medal of Honor - European Assault (Korea) (En,Ko)": {
+		"languages": ["En", "Ko"],
+		"localName": "메달　오브　아너　－　유러피언　어썰트"
+	},
+	"Medal of Honor - Vanguard (USA) (Alpha 198) (2007-01-20)": {
 		"languages": ["En"]
 	},
 	"Medical 91 (Japan)": {
@@ -557,10 +604,13 @@
 	"Motion Gravure Series - Harumi Nemoto (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Motion Gravure Series - Megumi (Japan)": {
+	"Motion Gravure Series - Megumi (Japan) [b]": {
 		"languages": ["Ja"]
 	},
 	"Moto GP4 (Europe) (Beta) (2005-03-23)": {
+		"languages": ["En"]
+	},
+	"MX vs. ATV Unleashed (USA) (Beta) (2004-10-29)": {
 		"languages": ["En"]
 	},
 	"NadePro!! Kisama no Seiyuu Yatte Miro! (Japan)": {
@@ -620,7 +670,7 @@
 	"Osouji Sentai Clean Keeper H (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Otome wa Boku ni Koishiteru (Japan)": {
+	"Otome wa Boku ni Koishiteru (Japan) [b]": {
 		"languages": ["Ja"]
 	},
 	"Otona no Gal Jan 2 (Japan)": {
@@ -743,6 +793,9 @@
 	"Realize - Panorama Luminary (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Red Dead Revolver (USA) (Beta) (2002-01-15)": {
+		"languages": ["En"]
+	},
 	"Red Star (USA) (Beta) (E3 Version) [b]": {
 		"languages": ["En"]
 	},
@@ -775,6 +828,10 @@
 	},
 	"Secret Game - Killer Queen (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Sengoku Musou & Sengoku Moushouden Saikyou Data (Japan)": {
+		"languages": ["Ja"],
+		"localName": "戦国無双　＆　戦国無双　猛将伝　最強データ"
 	},
 	"Sengoku Tenka Touitsu (Japan)": {
 		"languages": ["Ja"]
@@ -830,6 +887,9 @@
 	"Siren (Korea)": {
 		"languages": ["Ko"]
 	},
+	"Six Gun (USA) (Proto) (2005-05-31)": {
+		"languages": ["En"]
+	},
 	"Slotter Up Core 10 - Mach GoGoGo2 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -842,7 +902,7 @@
 	"Sly 2 - Band of Thieves (Korea)": {
 		"languages": ["Ko"]
 	},
-	"Sly 3 - Honor Among Thieves (Europe)": {
+	"Sly 3 - Honor Among Thieves (Europe) [b]": {
 		"languages": ["En"]
 	},
 	"Sly 3 - Honor Among Thieves (Korea)": {
@@ -869,7 +929,7 @@
 	"Sotsugyou 2nd Generation (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Soul Calibur III (Korea)": {
+	"Soul Calibur III (Korea) [b]": {
 		"languages": ["Ko"]
 	},
 	"Speed Kings (USA) (Beta) (2003-03-21)": {
@@ -911,7 +971,7 @@
 	"Taishou Mononoke Ibunroku (Korea)": {
 		"languages": ["Ko"]
 	},
-	"Tales of Legendia (Korea)": {
+	"Tales of Legendia (Korea) [b]": {
 		"languages": ["Ko"]
 	},
 	"Tantei Jinguuji Saburo - Innocent Black (Korea)": {
@@ -961,6 +1021,39 @@
 	},
 	"Utau - Tumbling Dice (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Vectorman (USA) (Proto) (2002-09-06)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2002-09-29)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2002-12-03T155929)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2002-12-03T171126)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2003-01-10)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2003-02-06)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2003-04-07)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2003-04-14)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2003-05-01)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2003-05-07)": {
+		"languages": ["En"]
+	},
+	"Vectorman (USA) (Proto) (2003-06-17)": {
+		"languages": ["En"]
 	},
 	"Virtua Cop Re-Birth (Japan)": {
 		"languages": ["Ja"]

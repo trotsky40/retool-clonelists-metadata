@@ -13272,11 +13272,11 @@
 		"languages": ["Ja"],
 		"localName": "ギルティ・ギア"
 	},
-	"Guilty Gear (Japan) (Demo)": {
+	"Guilty Gear (Japan) (Rev 1)": {
 		"languages": ["Ja"],
 		"localName": "ギルティ・ギア"
 	},
-	"Guilty Gear (Japan) (Rev 1)": {
+	"Guilty Gear (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "ギルティ・ギア"
 	},
@@ -15462,7 +15462,7 @@
 	},
 	"Jikkyou Powerful Pro Yakyuu '95 - Kaimakuban (Japan)": {
 		"languages": ["Ja"],
-		"localName": "実況パワフルプロ野球＇９５　開幕版"
+		"localName": "実況パワフルプロ野球＇９５ 開幕版"
 	},
 	"Jikkyou Powerful Pro Yakyuu '97 - Kaimakuban (Japan)": {
 		"languages": ["Ja"],
@@ -15474,7 +15474,7 @@
 	},
 	"Jikkyou Powerful Pro Yakyuu '98 - Kaimakuban (Japan)": {
 		"languages": ["Ja"],
-		"localName": "実況パワフルプロ野球＇９８開幕版"
+		"localName": "実況パワフルプロ野球＇９８ 開幕版"
 	},
 	"Jikkyou Powerful Pro Yakyuu '98 - Kaimakuban (Japan) (Rev 1)": {
 		"languages": ["Ja"],
@@ -15486,11 +15486,11 @@
 	},
 	"Jikkyou Powerful Pro Yakyuu '99 - Kaimakuban (Japan)": {
 		"languages": ["Ja"],
-		"localName": "実況パワフルプロ野球‘９９　開幕版"
+		"localName": "実況パワフルプロ野球‘９９ 開幕版"
 	},
 	"Jikkyou Powerful Pro Yakyuu '99 - Ketteiban (Japan)": {
 		"languages": ["Ja"],
-		"localName": "実況パワフルプロ野球＇９９　決定版"
+		"localName": "実況パワフルプロ野球＇９９ 決定版"
 	},
 	"Jikkyou Powerful Pro Yakyuu - Premium-ban (Japan)": {
 		"languages": ["Ja"],
@@ -16587,7 +16587,7 @@
 	"Killer Loop (USA)": {
 		"languages": ["En"]
 	},
-	"Killing Time (USA) (Beta) (1997-04-29)": {
+	"Killing Time (USA) (Proto) (1997-04-29)": {
 		"languages": ["En"]
 	},
 	"Killing Zone (Europe)": {
@@ -16756,11 +16756,11 @@
 	},
 	"Kinniku Banzuke - Road to Sasuke (Japan)": {
 		"languages": ["Ja"],
-		"localName": "筋肉番付　ロード　トゥ　サスケ"
+		"localName": "筋肉番付 ロード トゥ サスケ"
 	},
 	"Kinniku Banzuke Vol. 1 - Ore ga Saikyou no Otoko da! (Japan)": {
 		"languages": ["Ja"],
-		"localName": "筋肉番付　Ｖｏｌ．１　～俺が最強の男だ！～"
+		"localName": "筋肉番付 Ｖｏｌ．１ ～俺が最強の男だ！～"
 	},
 	"Kinniku Banzuke Vol. 2 - Arata naru Genkai e no Chousen! (Japan)": {
 		"languages": ["Ja"],
@@ -18287,10 +18287,6 @@
 	"Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3)": {
 		"languages": ["Ja"],
 		"localName": "ルパン三世　カリオストロの城　再会"
-	},
-	"Lupupu Cube - Lup Salad (Japan)": {
-		"languages": ["Ja"],
-		"localName": "るぷぷキューブ　ルプ・さらだ"
 	},
 	"Lussan Nathhorst Presenterar Riding Star (Sweden)": {
 		"languages": ["Sv"]
@@ -20162,7 +20158,7 @@
 		"languages": ["Ja"],
 		"localName": "機動戦士ガンダム　逆襲のシャア"
 	},
-	"Mobile Suit Gundam - Char's Counterattack (Japan) (Tokubetsu-ban)": {
+	"Mobile Suit Gundam - Char's Counterattack (Japan) (Tokubetsuban)": {
 		"languages": ["Ja"]
 	},
 	"Mobile Suit Gundam - Perfect One Year War (Japan)": {
@@ -23037,7 +23033,7 @@
 		"languages": ["Ja"],
 		"localName": "俺の屍を越えてゆけ"
 	},
-	"Ore no Shikabane o Koete Yuke (Japan) (Demo)": {
+	"Ore no Shikabane o Koete Yuke (Japan) (Tentou-you Movie Disc)": {
 		"languages": ["Ja"],
 		"localName": "俺の屍を越えてゆけ"
 	},
@@ -23786,7 +23782,7 @@
 	"Panzer Front (USA)": {
 		"languages": ["En"]
 	},
-	"Panzer Front bis. (Europe) (En,Fr,De) (Beta) (2002-01-20)": {
+	"Panzer Front bis. (Europe) (En,Fr,De) (Proto) (2002-01-20)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Panzer Front bis. (Japan)": {
@@ -27289,6 +27285,10 @@
 	"Running Wild (USA) (Demo)": {
 		"languages": ["En"]
 	},
+	"Rupupu Cube - Lup Salad (Japan)": {
+		"languages": ["Ja"],
+		"localName": "るぷぷキューブ　ルプ★さらだ"
+	},
 	"Rurouni Kenshin - Meiji Kenkaku Romantan - Ishin Gekitou-hen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "るろうに剣心　－明治剣客浪漫譚－　維新激闘編"
@@ -27367,7 +27367,7 @@
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム ジージェネレーション・エフ"
 	},
-	"SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsu-ban)": {
+	"SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム ジージェネレーション・エフ"
 	},
@@ -27375,7 +27375,7 @@
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム ジージェネレーション・エフ"
 	},
-	"SD Gundam - GGeneration-F (Japan) (Disc 2) (Tokubetsu-ban)": {
+	"SD Gundam - GGeneration-F (Japan) (Disc 2) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム ジージェネレーション・エフ"
 	},
@@ -27383,7 +27383,7 @@
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム ジージェネレーション・エフ"
 	},
-	"SD Gundam - GGeneration-F (Japan) (Disc 3) (Tokubetsu-ban)": {
+	"SD Gundam - GGeneration-F (Japan) (Disc 3) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム ジージェネレーション・エフ"
 	},
@@ -27395,7 +27395,7 @@
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム ジージェネレーション・エフ"
 	},
-	"SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Tokubetsu-ban)": {
+	"SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Tokubetsuban)": {
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム ジージェネレーション・エフ"
 	},
@@ -27866,7 +27866,7 @@
 	},
 	"Seiken Densetsu - Legend of Mana (Japan, Asia)": {
 		"languages": ["Ja"],
-		"localName": "聖剣伝説　レジェンド　オブ　マナ"
+		"localName": "聖剣伝説 レジェンド オブ マナ"
 	},
 	"Seikon no Joka - Hikari to Yami no Seioujo (Japan)": {
 		"languages": ["Ja"],
@@ -32806,7 +32806,7 @@
 	},
 	"Tennis no Oujisama - Sweat & Tears (Japan)": {
 		"languages": ["Ja"],
-		"localName": "テニスの王子様　スウェットアンドティアーズ"
+		"localName": "テニスの王子様 スウェットアンドティアーズ"
 	},
 	"Tennis no Oujisama - Sweat & Tears (Japan) (Rev 1)": {
 		"languages": ["Ja"],
@@ -36387,11 +36387,11 @@
 	},
 	"World Soccer Jikkyou Winning Eleven 4 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ワールドサッカー　実況ウイニングイレブン４"
+		"localName": "ワールドサッカー 実況ウイニングイレブン４"
 	},
 	"World Soccer Jikkyou Winning Eleven 4 (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localName": "ワールドサッカー　実況ウイニングイレブン４"
+		"localName": "ワールドサッカー 実況ウイニングイレブン４"
 	},
 	"World Soccer Winning Eleven '97 (Japan)": {
 		"languages": ["Ja"],
