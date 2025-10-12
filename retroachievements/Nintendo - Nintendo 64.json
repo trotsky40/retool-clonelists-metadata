@@ -140,9 +140,9 @@
         },
         {
             "name": "BK - The Corrupted Jiggies (v1.0) (Sorra1-Mods) (Hack)",
-            "crc": "000",
+            "crc": "968bb3a6",
             "md5": "295ddc270a3f55ef8acaab39f70c65bd",
-            "sha1": "000"
+            "sha1": "d60b514d8a67574ab9f0dcfccb530cf8160a7062"
         },
         {
             "name": "BK - The Gruntch (v1.2) (Kurko Mods) (Hack)",
@@ -434,9 +434,9 @@
         },
         {
             "name": "Densha de Go! 64 (Japan) (En) (v1.03) (Zoinkity)",
-            "crc": "000",
+            "crc": "3e505ece",
             "md5": "91131a1bb91aa42d3e8f2aa55948041f",
-            "sha1": "000"
+            "sha1": "29c824b8f13d44b9b10bd25a226a676c40b1e071"
         },
         {
             "name": "Destruction Derby 64 (Europe) (En,Fr,De)",
@@ -635,6 +635,18 @@
             "crc": "64765e82",
             "md5": "9cb963e8b71f18568f78ec1af120362e",
             "sha1": "0489dcce749c6a5102681d288ed0616a4b94e99d"
+        },
+        {
+            "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan)",
+            "crc": "724ecae7",
+            "md5": "5270d98f9e67dc7ef354ece109c2a18f",
+            "sha1": "942d161abf00b612486388eee98a2c51fc990147"
+        },
+        {
+            "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)",
+            "crc": "26ce64f2",
+            "md5": "0ac7a16f8afcc03031835c89d095d7b9",
+            "sha1": "7c443e824d7589d2bd8bd88231ac3acf178def6f"
         },
         {
             "name": "Gex 3 - Deep Cover Gecko (USA)",
@@ -2120,9 +2132,9 @@
         },
         {
             "name": "Paperboy (USA)",
-            "crc": "000",
-            "md5": "C4CBCB54B010A5A71FE5CAA391E5C25F",
-            "sha1": "000"
+            "crc": "f27114e6",
+            "md5": "c4cbcb54b010a5a71fe5caa391e5c25f",
+            "sha1": "b043c47b9758fa6bb289ca7dba2068bda6cafa3a"
         },
         {
             "name": "Penguins Luv Melons (World) (v2.0) (Aftermarket) (Sanni)",
@@ -4148,15 +4160,15 @@
         },
         {
             "name": "SM64 - TsucnenT's Treasures (v1.0) (TsucnenT) (Hack)",
-            "crc": "000",
+            "crc": "129e8a8e",
             "md5": "3580b6eb0e26f89f9d89a615ef1663c4",
-            "sha1": "000"
+            "sha1": "ef540fa3e856b5ea2b8ba060dd8a11e9d4cebac5"
         },
         {
             "name": "SM64 - TsucnenT's Treasures 2 (v1.0) (TsucnenT) (Hack)",
-            "crc": "000",
+            "crc": "7ef0d344",
             "md5": "2d0e8090ef236fca175c1fcc44b2732c",
-            "sha1": "000"
+            "sha1": "d80be2856bf53b91b7f87b1c7938b98b3585486c"
         },
         {
             "name": "SM64 - Unregistered Hypercam 64 (v1) (Hack)",
@@ -4755,7 +4767,7 @@
         {
             "name": "WWF Attitude (USA)",
             "crc": "7a4b3686",
-            "md5": "9FAF514CB3DBB742C129DEB395DCA342",
+            "md5": "9faf514cb3dbb742c129deb395dca342",
             "sha1": "259973eb0ba1d01f1a5fbf3039ed511e6b705f26"
         },
         {

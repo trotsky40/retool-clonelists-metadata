@@ -230,7 +230,7 @@
         },
         {
             "name": "Battle Athletess - Daiundoukai GTO (Grand Trial Onnanoco) (Japan)",
-            "sha1": "000"
+            "sha1": "4c3f2d61146fc1520368b90d8d0bbbbcde187356"
         },
         {
             "name": "Battle Hunter (USA)",
@@ -674,7 +674,7 @@
         },
         {
             "name": "Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE)",
-            "sha1": "000"
+            "sha1": "f522f9b90f9e51b5d36421d10eb5e158b01952ba"
         },
         {
             "name": "Crash Team Racing - Retro-Fueled (TheRedhotbr) (Hack)",
@@ -822,7 +822,7 @@
         },
         {
             "name": "Descent (USA)",
-            "sha1": "000"
+            "sha1": "2539eef216b5ca883f25595ece4507f20551fd69"
         },
         {
             "name": "Destruction Derby Raw (USA)",
@@ -1550,7 +1550,7 @@
         },
         {
             "name": "Gubble (Japan)",
-            "sha1": "000"
+            "sha1": "506fc90fc596b7eb7215ad79162a13078b3f0ae1"
         },
         {
             "name": "Guilty Gear (USA)",
@@ -2010,19 +2010,19 @@
         },
         {
             "name": "MDK (USA)",
-            "sha1": "000"
+            "sha1": "32cb080a83c5c6415598a2e2c49461429c0e84db"
         },
         {
             "name": "MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)",
-            "sha1": "000"
+            "sha1": "419dec76dfde36fdd3fbbe2bb2109dfdf9a9bb4a"
         },
         {
             "name": "MDK (USA) (Sv) (v1.0) (dynwayv)",
-            "sha1": "000"
+            "sha1": "fd8a7fed7b4f5578aef353d1ced6e23824d95383"
         },
         {
             "name": "MDK (USA) (Uk) (v1.0) (dynwayv)",
-            "sha1": "000"
+            "sha1": "de64717954504ba0833f39d208c8872881099b24"
         },
         {
             "name": "Machine Hunter (USA)",
@@ -2038,7 +2038,7 @@
         },
         {
             "name": "Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)",
-            "sha1": "000"
+            "sha1": "13aa2717f03c9f635f9227dcdd96308e00fb8c8e"
         },
         {
             "name": "Marvel vs. Capcom - Clash of Super Heroes (USA)",
@@ -3289,6 +3289,10 @@
             "sha1": "196e5fb8bc1a96db65107abd338593198a207fae"
         },
         {
+            "name": "Spider-Man (USA) (Ru) (v1.0) (Triada-Fargus)",
+            "sha1": "8ce5177a51b16eac7a11e4b2aef3af7ee05df140"
+        },
+        {
             "name": "Spider-Man 2 - Enter - Electro (USA)",
             "sha1": "e2d1aaef4b0292cd1dab46f06ad523c31a7f213d"
         },
@@ -4096,23 +4100,23 @@
         },
         {
             "name": "X-COM - UFO Defense (USA)",
-            "sha1": "000"
+            "sha1": "e9f3cdca82de9431a581c07e01ee66a5d34dfb4e"
         },
         {
             "name": "X-COM - UFO Defense (USA) (De) (v1.0) (KeiTH)",
-            "sha1": "000"
+            "sha1": "bf16e0443505a7030969f00c0345a49c2a0f1382"
         },
         {
             "name": "X-COM - UFO Defense (USA) (Es) (v1.0) (KeiTH)",
-            "sha1": "000"
+            "sha1": "93381c201470e58581110ba683c25f91c356a98d"
         },
         {
             "name": "X-COM - UFO Defense (USA) (Fr) (v1.0) (KeiTH)",
-            "sha1": "000"
+            "sha1": "729fb552c316e8cdd6928fa45f89ea9eefcf9215"
         },
         {
             "name": "X-COM - UFO Defense (USA) (It) (v1.0) (KeiTH)",
-            "sha1": "000"
+            "sha1": "93c14759197dc80486d6a86b17a75d7e5ef10400"
         },
         {
             "name": "X-Men - Mutant Academy (USA)",
@@ -4158,7 +4162,7 @@
         },
         {
             "name": "Yetisports World Tour (Europe) (En,Fr,De,Es,It)",
-            "sha1": "000"
+            "sha1": "6d5c9d9f575834bdfa767e32153fe16ffc7446ae"
         },
         {
             "name": "Yu-Gi-Oh! Forbidden Memories (USA)",
@@ -4190,7 +4194,7 @@
         },
         {
             "name": "Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan)",
-            "sha1": "000"
+            "sha1": "c0c7e5b6c7ddfbcbac43b197439bc0276730496a"
         },
         {
             "name": "iS - Internal Section (Japan)",

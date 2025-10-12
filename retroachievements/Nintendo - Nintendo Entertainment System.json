@@ -1561,6 +1561,12 @@
             "sha1": "d1731009be95b08b315796156de52fb5cf271b1c"
         },
         {
+            "name": "Celeste (USA) (PICO-8 Port) (iProgramInCpp) (Aftermarket)",
+            "crc": "98942992",
+            "md5": "9f3ca43c8a2ce8da2c55199bdb511110",
+            "sha1": "966aa30eac4964f2acb05a321da99acab09aac07"
+        },
+        {
             "name": "Challenge of the Dragon (Asia) (En) (Sachen) (Unl)",
             "crc": "bbc88010",
             "md5": "23c269975e2ccfa50e692fa4132bd77e",
@@ -1709,6 +1715,18 @@
             "crc": "2c3831be",
             "md5": "1da97179bdea9ccc6f9086b5cc244c30",
             "sha1": "d9cf35f37418dc592aca68d5a1e42d982ead9897"
+        },
+        {
+            "name": "Chrono Trigger - Shi Kong Zhi Lun (China) (En + Extras) (v1.1) (pacnsnac, Cubear) (Unl)",
+            "crc": "b8298e0e",
+            "md5": "c64c0a11fa9428d573741171ee3f1439",
+            "sha1": "550fe0eb21e635ad6926c66a5e041f747e11fc4a"
+        },
+        {
+            "name": "Chrono Trigger - Shikong Zhi Lun (China) (Pirate) (Unl)",
+            "crc": "0cd5b4b6",
+            "md5": "d3e3a17fcedc00e17dec9821620d2d62",
+            "sha1": "104e4c349df9c8ee7d29d4a8b5c6036229ca9e7f"
         },
         {
             "name": "ChronoKnight (World) (Byte-Off 2020) (Aftermarket)",
@@ -7160,9 +7178,9 @@
         },
         {
             "name": "Mike Tyson's Punch-Out - Nightmare Punch-Out!! (v1.5) (Landa) (Hack)",
-            "crc": "000",
-            "md5": "000",
-            "sha1": "000"
+            "crc": "c1fc9c30",
+            "md5": "7be0794b1cfcbdf7a7078a982e8a7c9d",
+            "sha1": "0aaec36edf4897ff713fb4080bf3726b8b5f911a"
         },
         {
             "name": "Mike Tyson's Punch-Out!! (Japan, USA) (En)",

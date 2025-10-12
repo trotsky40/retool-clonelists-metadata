@@ -1256,15 +1256,15 @@
         },
         {
             "name": "GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket)",
-            "crc": "000",
+            "crc": "8465b47b",
             "md5": "01cf4c043f69a9924f2a689e3fa60157",
-            "sha1": "000"
+            "sha1": "ed5f63a9c600ff8a85e0bad52a0b78fe04efed99"
         },
         {
-            "name": "GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)",
-            "crc": "000",
+            "name": "GSPS - The Game (Poland) (v1.0) (zachariasz455) (Aftermarket)",
+            "crc": "8045c88e",
             "md5": "df77829789b41cc5be505e8cdce80ce1",
-            "sha1": "000"
+            "sha1": "2c32a0199d53b750c57dfa5fac4f862bf92812c7"
         },
         {
             "name": "Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced)",
@@ -1292,9 +1292,9 @@
         },
         {
             "name": "Game of Life Kuzushi (World) (Aftermarket)",
-            "crc": "000",
+            "crc": "53f8ef87",
             "md5": "b04d10af7ff5010c90be47948158f016",
-            "sha1": "000"
+            "sha1": "6c88a33d034751ddd2a3932521112352708ef7a7"
         },
         {
             "name": "GameBoy WORDLE (World) (Aftermarket)",
@@ -2300,9 +2300,9 @@
         },
         {
             "name": "Mortal Kombat 3 (USA, Europe)",
-            "crc": "000",
+            "crc": "bf9c65fb",
             "md5": "c19d61e31d6aebc12abf80d628a7bd09",
-            "sha1": "000"
+            "sha1": "b43626e2f20fa865783892ab8a012aa86e1dcee2"
         },
         {
             "name": "Mortal Kombat II (USA, Europe)",
@@ -3902,9 +3902,9 @@
         },
         {
             "name": "Uma Musume Delish Derby (World) (shiki) (Aftermarket)",
-            "crc": "000",
+            "crc": "f49053b1",
             "md5": "a6d142742d41b624217123bd020f8391",
-            "sha1": "000"
+            "sha1": "fedcaf30b093d4a7cb68f4b155ecb4a5e0ae4d91"
         },
         {
             "name": "Undercover Cops Gaiden - Hakaishin Garumaa (Japan)",
