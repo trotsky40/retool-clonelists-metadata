@@ -1,6 +1,14 @@
 {
 	"mias": [
 		{
+			"name": "100-in-1 (Asia) (En) (Pirate).nes",
+			"crc": "7a4f5f61"
+		},
+		{
+			"name": "100-in-1 (Asia) (En) (Pirate).unh",
+			"crc": "5a400077"
+		},
+		{
 			"name": "18-in-1 (Asia) (En) (Pirate).nes",
 			"crc": "be71f814"
 		},
@@ -123,6 +131,10 @@
 		{
 			"name": "Hammerin' Harry (Europe) (Retro-Bit).nes",
 			"crc": "e17d47e6"
+		},
+		{
+			"name": "Hammerin' Harry (Europe) (Retro-Bit).nes",
+			"crc": "26ab9191"
 		},
 		{
 			"name": "Hammerin' Harry (World) (Retro-Bit).nes",
@@ -279,6 +291,14 @@
 		{
 			"name": "Spook-o'-tron (World) (Backer Edition) (Aftermarket) (Unl).unh",
 			"crc": "d5d1c2b5"
+		},
+		{
+			"name": "Super 72-in-1 (Asia) (En) (Pirate).nes",
+			"crc": "7e25ff54"
+		},
+		{
+			"name": "Super 72-in-1 (Asia) (En) (Pirate).unh",
+			"crc": "a6209f97"
 		},
 		{
 			"name": "Super Cambur Origins (World) (v1) (Aftermarket) (Unl).nes",

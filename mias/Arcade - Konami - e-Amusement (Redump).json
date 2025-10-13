@@ -1,6 +1,22 @@
 {
 	"mias": [
 		{
+			"name": "Castlevania - The Arcade (Japan) (Application Disc 1).iso",
+			"crc": "08690a8c"
+		},
+		{
+			"name": "Castlevania - The Arcade (Japan) (Application Disc 2).iso",
+			"crc": "d907aad8"
+		},
+		{
+			"name": "Castlevania - The Arcade (Japan) (System Disc).iso",
+			"crc": "aaa17ada"
+		},
+		{
+			"name": "Feature World (Japan) (Conversion Kit Application Disc).iso",
+			"crc": "f25feb9d"
+		},
+		{
 			"name": "Mah-Jong Fight Club 6 (Japan) (Client-you Application Disc).iso",
 			"crc": "379e8201"
 		},
@@ -65,12 +81,12 @@
 			"crc": "5825a177"
 		},
 		{
-			"name": "Toukyuu Oukoku Gashaaaan (Asia) (Application Disc).bin",
-			"crc": "2e12393c"
+			"name": "Toukyuu Oukoku Gashaaaan (Japan) (Application Disc).bin",
+			"crc": "fe817ee6"
 		},
 		{
-			"name": "Toukyuu Oukoku Gashaaaan (Asia) (System Disc).bin",
-			"crc": "3e48a862"
+			"name": "Toukyuu Oukoku Gashaaaan (Japan) (System Disc).bin",
+			"crc": "add68325"
 		}
 	]
 }

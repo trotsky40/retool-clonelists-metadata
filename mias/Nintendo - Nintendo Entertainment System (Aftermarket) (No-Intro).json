@@ -349,6 +349,30 @@
 			"crc": "0dd1075a"
 		},
 		{
+			"name": "Malasombra (USA, Europe) (En,Es) (Aftermarket) (Unl).nes",
+			"crc": "53f0e072"
+		},
+		{
+			"name": "Malasombra (USA, Europe) (En,Es) (Aftermarket) (Unl).unh",
+			"crc": "944ff1b6"
+		},
+		{
+			"name": "Mega Book 12-in-1 (Italy) (Aftermarket) (Unl).nes",
+			"crc": "1ce8e9a3"
+		},
+		{
+			"name": "Mega Book 12-in-1 (Italy) (Aftermarket) (Unl).unh",
+			"crc": "584f52af"
+		},
+		{
+			"name": "Mega Book 4-in-1 (Italy) (Aftermarket) (Unl).nes",
+			"crc": "893f81df"
+		},
+		{
+			"name": "Mega Book 4-in-1 (Italy) (Aftermarket) (Unl).unh",
+			"crc": "3c985a45"
+		},
+		{
 			"name": "Orebody - Binder's Tale (World) (Aftermarket) (Unl).nes",
 			"crc": "b03f17e1"
 		},
@@ -379,6 +403,14 @@
 		{
 			"name": "Rise of Amondus, The (World) (Aftermarket) (Unl).nes",
 			"crc": "5c2fbd08"
+		},
+		{
+			"name": "Rockman Remix (China) (En,Ja) (Aftermarket) (Pirate).nes",
+			"crc": "3e83798c"
+		},
+		{
+			"name": "Rockman Remix (China) (En,Ja) (Aftermarket) (Pirate).unh",
+			"crc": "7576b644"
 		},
 		{
 			"name": "Rugrats - Adventures in Gameland (World) (v1.1) (Aftermarket) (Unl).nes",
@@ -419,6 +451,14 @@
 		{
 			"name": "Slow Mole Jr. (World) (v0.9) (Beta) (Aftermarket) (Unl).unh",
 			"crc": "ca7bfb3a"
+		},
+		{
+			"name": "Soldam (USA, Europe) (Aftermarket) (Unl).nes",
+			"crc": "1dfd9206"
+		},
+		{
+			"name": "Soldam (USA, Europe) (Aftermarket) (Unl).unh",
+			"crc": "d95db934"
 		},
 		{
 			"name": "Space Raft Arcade (World) (Aftermarket) (Unl).nes",
