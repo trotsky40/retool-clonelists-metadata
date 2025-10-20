@@ -1471,6 +1471,12 @@
             "sha1": "a3142c83f391eda6f445226f2d49bd8a384be411"
         },
         {
+            "name": "Home Alone 2 - Lost in New York (USA, Europe)",
+            "crc": "e8e430f1",
+            "md5": "0611b365116b22c1aaa7e3ce4faed5ed",
+            "sha1": "853e6f96bcba40bc4cfa72898b02aebc3f9d9498"
+        },
+        {
             "name": "Hoshi no Kirby (Japan)",
             "crc": "21035f95",
             "md5": "b7963a68f95d644f8adedb269d29666c",
@@ -2767,18 +2773,6 @@
             "sha1": "556dd48ff6150d2da3c67daa74729d4c61ea5c08"
         },
         {
-            "name": "Pokemon - Periwinkle Version - Special Blobbos Edition (Hack)",
-            "crc": "67b96ba3",
-            "md5": "eddac02481d810c49b54891c48acf340",
-            "sha1": "3501b403362cf96f54acf9ba3b28ae9089576ce8"
-        },
-        {
-            "name": "Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge)",
-            "crc": "f4ac0d11",
-            "md5": "860dfa9cd63619affdbab75ba7b01414",
-            "sha1": "3a52840eeea64b49789414cfe48a44cc88ec133b"
-        },
-        {
             "name": "Pokemon - Professor Oak Challenge (Blue Version) (Hack)",
             "crc": "18a0a464",
             "md5": "ac0b46cd9ccb9dda088a0e4e2de96a16",
@@ -2927,6 +2921,18 @@
             "crc": "c1bb840c",
             "md5": "8789e3890d1dc7d9a8991598b44e18b3",
             "sha1": "4090a098b8a9c4706accf2ae1ae3e2877410cc3d"
+        },
+        {
+            "name": "Pokemon - Yellow - Cramorant Edition (v1.5) (Alt Voice) (Cram-o-dev) (Hack)",
+            "crc": "769ede8b",
+            "md5": "8a02e978f2f413944cff4112b446e22c",
+            "sha1": "16e91e558bf4a188a4ba63657a873ea4669c71c0"
+        },
+        {
+            "name": "Pokemon - Yellow - Cramorant Edition (v1.5) (Cram-o-dev) (Hack)",
+            "crc": "7625f5ea",
+            "md5": "4311e7667d4edafba75ff0397856b25d",
+            "sha1": "3ab0b7cb2608750d1770b39768630e80ad3f0606"
         },
         {
             "name": "Pokemon - Yellow - Velvet Special Hatenna Edition (v1.2) (PeanutellaXO) (Hack)",
@@ -3293,6 +3299,12 @@
             "crc": "517a614c",
             "md5": "19058077b12ac22580aae17b3dd1233f",
             "sha1": "98a2d90717d8c9f7feb2d7653aaab6faa0f3ee64"
+        },
+        {
+            "name": "Simpsons, The - Itchy & Scratchy - Miniature Golf Madness (USA, Europe)",
+            "crc": "ddb147e5",
+            "md5": "ed0a8885341ee6a201873b2038c87582",
+            "sha1": "1dbb3eb39e0a2d695136880e6dd0557eb48ebf21"
         },
         {
             "name": "Skate or Die - Bad 'N Rad (Europe)",

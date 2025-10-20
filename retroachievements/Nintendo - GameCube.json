@@ -613,6 +613,12 @@
             "sha1": "de759e5c65f658e4111d727bb08bd0fed3bc0d08"
         },
         {
+            "name": "Luigi's Mansion Beta Restoration Revamped (v1.3) (Portable Productions) (Hack)",
+            "crc": "6550705f",
+            "md5": "18142fcdf4399c52726e55a4ae5e2964",
+            "sha1": "4845575305c3fb2e80407a47f64dfea0d709765a"
+        },
+        {
             "name": "MKDD - Double Dash Extended (v2.0) (M64) (Hack)",
             "crc": "a28f9acd",
             "md5": "4bd129355be996112eb3e2f866e83fbc",
@@ -815,6 +821,12 @@
             "crc": "4434f51a",
             "md5": "eaa5959d7b427cf22db0264275f5a66c",
             "sha1": "60ea82da201fd94aefd318309a21355921abcc9b"
+        },
+        {
+            "name": "Muppets - Party Cruise (USA)",
+            "crc": "53132754",
+            "md5": "216fbde5d432e9dea52e7449a1b70db7",
+            "sha1": "b43c48245fd88363cfe2948bd169ae9c0f641e9a"
         },
         {
             "name": "NHL Hitz 2002 (USA)",

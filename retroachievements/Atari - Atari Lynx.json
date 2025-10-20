@@ -25,6 +25,12 @@
             "sha1": "f09ce08d93a479feaceceb79eb48b337aff49fae"
         },
         {
+            "name": "Block Out (USA, Europe)",
+            "crc": "3cd75df3",
+            "md5": "c81abf2919effd525b83c2103b75e6ca",
+            "sha1": "ae177cf76953b7e0a56b03096bb5c9c9c9051177"
+        },
+        {
             "name": "CHIP-8 Emulator (World) (Aftermarket)",
             "crc": "ed70fbcc",
             "md5": "3d4c70cba51a5c1f0e2fc3c1acb4be50",

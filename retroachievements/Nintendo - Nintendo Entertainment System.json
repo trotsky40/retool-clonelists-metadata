@@ -2731,6 +2731,12 @@
             "sha1": "a794907cdfc17c6056320ac2810461976c5d3403"
         },
         {
+            "name": "Dragon Warrior (USA) (Es) (v1.02) (Crackowia)",
+            "crc": "375964ed",
+            "md5": "3169370c40c3b9f3e9ec95cdbbdb578b",
+            "sha1": "ebacb07868139f01a517f17a1fbd57ed0bd6ec4e"
+        },
+        {
             "name": "Dragon Warrior (USA) (RE-Quest) (v1.3c) (Choppasmith)",
             "crc": "7fddae9b",
             "md5": "eea7fb94d38b613efe2dacd1057ac854",
@@ -3227,6 +3233,18 @@
             "crc": "58c1ff5a",
             "md5": "864ef3f6c7088e4875557af46ac3e7f1",
             "sha1": "9d484c8ba7849e145ab15c465e5ab1ea1b5504a3"
+        },
+        {
+            "name": "Ferrari Grand Prix Challenge (Europe)",
+            "crc": "6bde581c",
+            "md5": "769be7ff92328392a10bce0dbe20cc19",
+            "sha1": "ef95485879532fb40ddd22db27b38737ece0c88a"
+        },
+        {
+            "name": "Ferrari Grand Prix Challenge (USA)",
+            "crc": "32ee7f38",
+            "md5": "f13e3f96af68856ba3a83a6839d4478b",
+            "sha1": "5348099a0b87179a26a877d7944250a535ef00e0"
         },
         {
             "name": "Fester's Quest (Europe)",

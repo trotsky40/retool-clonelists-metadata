@@ -271,6 +271,12 @@
             "sha1": "1619223a354c597e1f9c17c5c35d4fc90ae1dd1d"
         },
         {
+            "name": "Bee Movie Game (Europe)",
+            "crc": "52bda44b",
+            "md5": "21ba3d950568394bb21cf892b2f529ce",
+            "sha1": "d26b4d47da04c6cf83645cf0d6c95c3f848e0e12"
+        },
+        {
             "name": "Beetle King (Europe)",
             "crc": "119f7198",
             "md5": "42605906e047df8f70b31a800c6a584b",
@@ -371,6 +377,24 @@
             "crc": "cae09803",
             "md5": "5f2c60b08181b442090e4118de495883",
             "sha1": "a38da729214dd4914befb6df2a4fead9cac034c9"
+        },
+        {
+            "name": "Bob the Builder - Festival of Fun (Europe) (En,Es)",
+            "crc": "ca4dc482",
+            "md5": "b0eadac076bc5510897e2e7144b17af2",
+            "sha1": "1a1d39f7c9a4024fa6c4bf5e9e05009fb9ae4de9"
+        },
+        {
+            "name": "Bob the Builder - Festival of Fun (Europe) (En,Fr,De,Nl)",
+            "crc": "0234674f",
+            "md5": "fe027ae53f85e6c3db3592764e856555",
+            "sha1": "6e26e4edd5f4e990d9da66ba8ff0110787b7b086"
+        },
+        {
+            "name": "Bob the Builder - Festival of Fun (Europe) (En,Pt,No,Da,Fi)",
+            "crc": "7220d016",
+            "md5": "cc67aeffec248cd0a07914ba4a8c71f0",
+            "sha1": "a42752018ea95ff0f81b162f0ec1257cc8ac14fa"
         },
         {
             "name": "Bolt (Europe) (En,Fr,De,Es,It,Nl)",
@@ -1873,6 +1897,18 @@
             "sha1": "59d04e4f2896faa5bb47d5776a76a75b022faedc"
         },
         {
+            "name": "Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack)",
+            "crc": "67e2806f",
+            "md5": "d43e71d72e7381e973aed5336a6ad837",
+            "sha1": "9cd0f22c2a46e10cf8e2ce8b67525d2ac0c1ecf3"
+        },
+        {
+            "name": "Lufia - Curse of the Sinistrals (USA)",
+            "crc": "cac43a4e",
+            "md5": "33c5b4f9580c8a8ab48e15b04c925a6a",
+            "sha1": "019908480071470b8549885a87a88b17b2330cd5"
+        },
+        {
             "name": "Luminous Arc (USA)",
             "crc": "a02c3fdc",
             "md5": "cc5aa096e73df3a2fffc23a779a6052f",
@@ -3079,6 +3115,12 @@
             "sha1": "c06f7d2f31b13d188249d2c646df0b5e4cdd7375"
         },
         {
+            "name": "Pokemon - White Version 2 (Subset - Completionist)",
+            "crc": "9f68a6ba",
+            "md5": "2d8adf3f2b648f178ebb62d26bfec30e",
+            "sha1": "5b7d0100db67ae815ed91ed87356e5be06c16039"
+        },
+        {
             "name": "Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced)",
             "crc": "777eb04f",
             "md5": "0afc7974c393265d8cf23379be232a1c",
@@ -3929,6 +3971,24 @@
             "crc": "f976d9df",
             "md5": "8a253543887c465acece1253b2ee3b84",
             "sha1": "2d96eef9c684137260e412067e52ddad8a631bc7"
+        },
+        {
+            "name": "SimAnimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)",
+            "crc": "21e3683a",
+            "md5": "48c8afe56a6c648cab5b78af9160ab6d",
+            "sha1": "24634f0d0e7c3970fc22b65c1d14b95a4269536e"
+        },
+        {
+            "name": "SimAnimals (Japan) (En,Ja)",
+            "crc": "9888b3ae",
+            "md5": "f471814567527da0ad2f3754e074765f",
+            "sha1": "08797718a312c51f1218c5da08d060bcd9c571d6"
+        },
+        {
+            "name": "SimAnimals (Korea) (En,Ko)",
+            "crc": "900e1cb3",
+            "md5": "e8fa907aab2797dd59d7b9f470dc05ac",
+            "sha1": "1b8ac4b46db56c1f928aeef92be3ca6182323430"
         },
         {
             "name": "Sims 2, The (USA) (En,Fr,De,Es,It)",

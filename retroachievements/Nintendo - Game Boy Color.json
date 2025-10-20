@@ -853,6 +853,12 @@
             "sha1": "611d8ab71bdeb6b0fd292118676e85e940d11bd4"
         },
         {
+            "name": "Halloween Racer (Europe) (En,Fr,De,Es,It,Pt)",
+            "crc": "70f3b431",
+            "md5": "2e20e9cbff75913f4e123242a404a2a9",
+            "sha1": "15bf27a7847817fbbb9cb7729b8046a6d70164c5"
+        },
+        {
             "name": "Hamtaro - Ham-Hams Unite! (Europe) (En,Fr,De,Es,It)",
             "crc": "45be9d9b",
             "md5": "06157785417d6fe5c73388eb573981dc",
@@ -2591,6 +2597,12 @@
             "crc": "8c2d9b43",
             "md5": "d3c6c44a4f6021b4d5a6454a87af9a6c",
             "sha1": "e51347bb82e44a2ecefeb3f220a0b3def6daf514"
+        },
+        {
+            "name": "Snow White and the Seven Dwarfs (USA)",
+            "crc": "8dd38534",
+            "md5": "0c1c350ce431ace4328c0e935fa2f41b",
+            "sha1": "865e5bd17e336b4696fb891bc21c966ef2e186c9"
         },
         {
             "name": "South Park (USA) (Proto)",

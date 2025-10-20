@@ -349,12 +349,6 @@
             "sha1": "0d5211e211e7fc063c63c3e8235b62bc288ce305"
         },
         {
-            "name": "Conker's Bad Fur Day (Europe)",
-            "crc": "4667cfe9",
-            "md5": "05194d49c14e52055df72a54d40791e1",
-            "sha1": "ee7bc6656fd1e1d9ffb3d19add759f28b88df710"
-        },
-        {
             "name": "Conker's Bad Fur Day (Subset - Bonus)",
             "crc": "3ac2f77b",
             "md5": "b0b19810c17e754d0d4e42d41b9f5a27",
@@ -649,6 +643,18 @@
             "sha1": "7c443e824d7589d2bd8bd88231ac3acf178def6f"
         },
         {
+            "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03 - Controller Pak E) (ozidual)",
+            "crc": "128d2938",
+            "md5": "e2fe94804e7127eb6b78e25e8a775060",
+            "sha1": "c3771d8b120b1767a6410f3ebf3c87ef40b701b7"
+        },
+        {
+            "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03) (ozidual)",
+            "crc": "f37a40f6",
+            "md5": "4677619c31c5dfda8448308c558f480d",
+            "sha1": "736112b94fc4bd68c2685e7669398b4774ab3484"
+        },
+        {
             "name": "Gex 3 - Deep Cover Gecko (USA)",
             "crc": "87a7d099",
             "md5": "6770ddec84eb21a5e0d0f55dfd52a01a",
@@ -835,6 +841,12 @@
             "sha1": "a9f62c403a21ae9d9a1bbf9e92d752fc2cf85c2b"
         },
         {
+            "name": "Legend of Zelda, The - Majora's Mask (Japan) (Subset - Glitch Showcase)",
+            "crc": "f1c5bedc",
+            "md5": "dea8b7aa5fe22abec2e3031cc72236a3",
+            "sha1": "f8dc96bd80dddcc55619c32294b4b1bf143a4279"
+        },
+        {
             "name": "Legend of Zelda, The - Majora's Mask (Subset - 4th Day)",
             "crc": "2dc57e0c",
             "md5": "e54fcb0b39a197b22c470d188fafb934",
@@ -847,10 +859,22 @@
             "sha1": "d6133ace5afaa0882cf214cf88daba39e266c078"
         },
         {
+            "name": "Legend of Zelda, The - Majora's Mask (USA) (Pt) (Subset - Glitch Showcase)",
+            "crc": "5efeab6a",
+            "md5": "963b0f26bf166a336892c61f92eaea0e",
+            "sha1": "3132f631d16769f5aee76756102ab978a467c46e"
+        },
+        {
             "name": "Legend of Zelda, The - Majora's Mask (USA) (Pt-Br) (v1.0) (Mex Maximus)",
             "crc": "7db49377",
             "md5": "05ad897a87d88ea7be737246be07d3e7",
             "sha1": "dc81254665353ccac6187de9b442e8cb4635dc45"
+        },
+        {
+            "name": "Legend of Zelda, The - Majora's Mask (USA) (Subset - Glitch Showcase)",
+            "crc": "9762e0ba",
+            "md5": "9da9a2d4f8c83c563d2c88c8f9058916",
+            "sha1": "1119aedd49701db246ac320cd4e3fd7b979ca634"
         },
         {
             "name": "Legend of Zelda, The - Ocarina of Time (Subset - Glitch Showcase) (Japan)",
@@ -1261,16 +1285,10 @@
             "sha1": "7741bf21b443e35229d4c272be89666a6e9f17a2"
         },
         {
-            "name": "LoZOoT - Hero of Law (v1.03) (Newer Team) (Hack)",
-            "crc": "bcb139c5",
-            "md5": "d826e04d46be813079bff7e8720d0f98",
-            "sha1": "dfa98fbdcc3aefa0c44c76f7c1284d4f61a7c589"
-        },
-        {
-            "name": "LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack)",
-            "crc": "3ed35b5c",
-            "md5": "6f9476d767e61960c1dafbb006d4923a",
-            "sha1": "c8acb9bc4c6bf80d54ea09deff7e9c364c8d3549"
+            "name": "LoZOoT - Hero of Law (v1.10) (Newer Team) (Hack)",
+            "crc": "bd599967",
+            "md5": "3eba56d724a9b0c540ed62b9c878425a",
+            "sha1": "82626e3db0fbdc3d6c96b668c9c25aa77713723a"
         },
         {
             "name": "LoZOoT - Master of Time (doncamilo) (Hack)",
@@ -3277,6 +3295,12 @@
             "sha1": "ad78bcaf849871abacbb499882499b52a05d3f31"
         },
         {
+            "name": "SM64 - Pacmario (v1.0) (Nebula) (Hack)",
+            "crc": "c3f3c973",
+            "md5": "77b7b9bf40e8b8ab04b474d912979459",
+            "sha1": "c58e92af32f6a75f409874525fad6ab6e727cb4a"
+        },
+        {
             "name": "SM64 - Palmsear Sands (v1.0) (sm64pie) (Hack)",
             "crc": "39a9938b",
             "md5": "7ea2660aa957cf88f96f74746488e91e",
@@ -3665,6 +3689,12 @@
             "crc": "601628e7",
             "md5": "32cb417c8c8953728905ffdaf9f3a579",
             "sha1": "0bedef452169bbc59c3ae4111b3c63e6b0e0f873"
+        },
+        {
+            "name": "SM64 - Star Revenge 6.9 - Luigi Lost in Time (v1.1) (Hack)",
+            "crc": "bae7ef0b",
+            "md5": "3f6f8a405bd953f617781f82f6cc9cd5",
+            "sha1": "11f300fe1e59be24be4392a2ef5b8e1788e50b3b"
         },
         {
             "name": "SM64 - Star Revenge 7 - Park of Time (v1.1) (BroDute) (Hack)",

@@ -4765,6 +4765,12 @@
             "sha1": "874c8c6702e5ac5b9efedc445eca91873fdfc06b"
         },
         {
+            "name": "Lufia II - Rise of the Sinistrals (USA) (Frue Lufia) (v8.1) (Artemis)",
+            "crc": "ef2fe777",
+            "md5": "97998af661bfb8477737bfc83fc9dae8",
+            "sha1": "fce047b563fabe3d9eded71f38643627b47c1a1d"
+        },
+        {
             "name": "Lupin Sansei - Densetsu no Hihou o Oe! (Japan)",
             "crc": "74adc6e2",
             "md5": "e5b0cfce81837d97a215da82cb02a273",
@@ -9797,6 +9803,12 @@
             "crc": "f4ae8246",
             "md5": "a409a0d29d0e16092b1b610ec0f9f7e7",
             "sha1": "2f23374ccc555ee7f5b28cded63bf62c35ed4302"
+        },
+        {
+            "name": "Super Mario World (Subset - Sub 90-Minute 96 Exit Speedrun)",
+            "crc": "8bdc48dc",
+            "md5": "5b2c2e7e4f3eca3bd8bb76eab35f3116",
+            "sha1": "6a2bdc4cd9eac98ce6a12ab6cab4f660cbd492fa"
         },
         {
             "name": "Super Mario World (USA)",

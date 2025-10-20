@@ -303,6 +303,14 @@
             "sha1": "54553dfc3797c3852101e64cd4048a57c8ec9154"
         },
         {
+            "name": "Digivice Ver Portable (Japan) (PSN)",
+            "sha1": "5d2770ae10acc6fffb40f610a7823910da4e83c7"
+        },
+        {
+            "name": "Digivice Ver Portable (Japan) (PSN) (Es) (v1.0) (Bunkai)",
+            "sha1": "c35df02c9aadf943c2b3f3192dbadf4b4f965d44"
+        },
+        {
             "name": "Diner Dash (Europe) (En,Fr,De,Es,It)",
             "sha1": "d390ca4278e3e99292b14a894aeacffcdcc0c4ef"
         },
@@ -1331,6 +1339,10 @@
         {
             "name": "Spider-Man 2 (USA)",
             "sha1": "5a0bb369cd3bc1baf28be2d4c8a93985832efbe9"
+        },
+        {
+            "name": "Split-Second - Velocity (Europe) (En,Fr,De,Es,It,Ru)",
+            "sha1": "31f11a2100f75a12ef177561416b018881c69118"
         },
         {
             "name": "SpongeBob's Truth or Square (USA)",

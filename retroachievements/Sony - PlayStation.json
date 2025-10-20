@@ -1219,6 +1219,12 @@
             "sha1": "c35beb6887dc5b0dac87b7deef331fc5e5b69e11"
         },
         {
+            "name": "Evil Dead - Hail to the King (USA)",
+            "crc": "8d7aced0",
+            "md5": "26206c4f06cc22b4abffaa1f2f3587b1",
+            "sha1": "87e68fd3dc7ac2f7f5deea2264c868f34f42c1a8"
+        },
+        {
             "name": "Evil Zone (USA)",
             "sha1": "96e193cf090f479f78a1a2f6abb12622f171b99c"
         },
@@ -1603,7 +1609,7 @@
             "sha1": "9e632f8255a0ff05dc07a5a674b4285652ca8aa2"
         },
         {
-            "name": "Harvest Moon - Back to Nature (USA) (Id)",
+            "name": "Harvest Moon - Back to Nature (USA) (Id) (v1.0) (Palapa)",
             "sha1": "8cb3664d085d305695fe15cc2d006c86f0a635cb"
         },
         {
@@ -2039,6 +2045,10 @@
         {
             "name": "Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)",
             "sha1": "13aa2717f03c9f635f9227dcdd96308e00fb8c8e"
+        },
+        {
+            "name": "Martian Gothic - Unification (USA)",
+            "sha1": "04c0036af9cce8528e79d8c426b28ff1fb914809"
         },
         {
             "name": "Marvel vs. Capcom - Clash of Super Heroes (USA)",
@@ -3073,6 +3083,10 @@
             "sha1": "58f9fdbe3edb6bbfaef15e267139499099fd0732"
         },
         {
+            "name": "Rupupu Cube - Lup Salad (Japan)",
+            "sha1": "b5517cf6f7bc1e0075dfd93d792ae8c83f856d59"
+        },
+        {
             "name": "Saban's Power Rangers - Time Force (USA)",
             "sha1": "892024b22c0f8b517ae057de31e8e18ba922c447"
         },
@@ -3103,6 +3117,18 @@
         {
             "name": "Segare Ijiri (Japan)",
             "sha1": "c1f1bc032921c544d393359e79a6b987574ab72f"
+        },
+        {
+            "name": "Serial Experiments Lain (Japan)",
+            "crc": "6e137a39",
+            "md5": "1274e1411407a4f432515e6830d80d2f",
+            "sha1": "53e2c15a0cd82990e35a8e7ccd60c2a27255a8c1"
+        },
+        {
+            "name": "Serial Experiments Lain (Japan) (En) (v1.0) (carlosrhv)",
+            "crc": "46bf7625",
+            "md5": "8e0897911fa7efb6751d272e16477eae",
+            "sha1": "72b449f784697a64fac80009f4edc5b6d93bebbd"
         },
         {
             "name": "Sesame Street - Elmo's Letter Adventure (USA)",
@@ -3737,6 +3763,10 @@
             "sha1": "03f2bfa22e4c464eab7d695814ee6216c0caa04c"
         },
         {
+            "name": "Three Stooges, The (USA)",
+            "sha1": "01d519a07510122a1edb49a9553b0638cf49db71"
+        },
+        {
             "name": "Time Crisis (USA)",
             "sha1": "8cf4fba6bad635804523a1383d269a330a345885"
         },
@@ -3763,6 +3793,10 @@
         {
             "name": "Tobal 2 (Japan) (Rev 1)",
             "sha1": "05f3b7718cc60acdf3e349ad4c939695a7ab0ed3"
+        },
+        {
+            "name": "Tobal No. 1 (USA)",
+            "sha1": "7bd2e70f7ba76f4c53a6603cec568e35fe5732cd"
         },
         {
             "name": "Tom and Jerry in House Trap (USA)",

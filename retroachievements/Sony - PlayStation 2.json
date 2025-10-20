@@ -1757,6 +1757,18 @@
             "sha1": "39290ac4134deffd348a463963e9ed315cc8f0fd"
         },
         {
+            "name": "Harry Potter and the Goblet of Fire (Europe) (En,Nl,Sv,No,Da,Fi,Pl)",
+            "sha1": "6e3379586579fb7c6a2e081108673c46c87896bd"
+        },
+        {
+            "name": "Harry Potter and the Goblet of Fire (Europe) (Fr,De,Es,It,Pt)",
+            "sha1": "65a8e99adcab84607f36e5e4248f1991b13e4168"
+        },
+        {
+            "name": "Harry Potter and the Goblet of Fire (USA)",
+            "sha1": "51212cbe1cdda83bb8fa3e212a2677f2a99b1278"
+        },
+        {
             "name": "Harry Potter and the Half-Blood Prince (USA) (En,Fr,Es,Pt)",
             "sha1": "f1d1b763f68521e3848c5586655e0696bc1cbeeb"
         },
@@ -2663,6 +2675,10 @@
         {
             "name": "Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies (USA)",
             "sha1": "dd9fd5d9face7c4da786312b407ece0e1eca67e3"
+        },
+        {
+            "name": "Nickelodeon Rugrats - Royal Ransom (USA)",
+            "sha1": "f41a0394f9970c5f2fac7c6428ab780cd5a8dc1c"
         },
         {
             "name": "Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)",
@@ -3725,6 +3741,14 @@
             "sha1": "0ec03a2f1ee86df5a3aab90bdf1d8e7b1b7020fb"
         },
         {
+            "name": "Star Wars - Battlefront (USA)",
+            "sha1": "c02c97ec3338df5b8dc9520a0eb241724b978744"
+        },
+        {
+            "name": "Star Wars - Battlefront II (USA) (v2.01)",
+            "sha1": "2fcb8a2002c6bf9763221970cc5ebb8f7c08a4fd"
+        },
+        {
             "name": "Star Wars - Bounty Hunter (Europe)",
             "sha1": "c6082f99f6d763f85714fd75d0732ef5be80c348"
         },
@@ -4029,6 +4053,10 @@
             "sha1": "9f4ce953e95d64c9db39c2fb831c8591a8368a3d"
         },
         {
+            "name": "Tomb Raider - Underworld (USA) (En,Fr,Es)",
+            "sha1": "46e6f60587b0f6ef0b0acf9cdcc78a0dcfda1fee"
+        },
+        {
             "name": "Tony Hawk's American Wasteland (USA) (Collector's Edition)",
             "sha1": "817d26b86cb92170dcccefe55b94c029887d43a8"
         },
@@ -4087,6 +4115,10 @@
         {
             "name": "Transformers - The Game (USA)",
             "sha1": "9aa589c28d62b4821ed7ee958eac267922eb57a2"
+        },
+        {
+            "name": "Triggerheart Exelica Enhanced (Japan)",
+            "sha1": "be59f26a082b450fe9541718d0f951c2128b6b5e"
         },
         {
             "name": "True Crime - Streets of LA (USA)",
@@ -4219,6 +4251,10 @@
         {
             "name": "Wild Arms 4 (USA) (Undub) (Unknown)",
             "sha1": "a1f352953a529211f836ca088870101f9e7527de"
+        },
+        {
+            "name": "Wild Arms 5 (Europe) (En,Fr,It)",
+            "sha1": "48238f427e4751a89cd5ea0796aebab97556d425"
         },
         {
             "name": "WinBack - Covert Operations (USA) (En,Ja)",

@@ -925,6 +925,12 @@
             "sha1": "32b2b1de0947fb713787020679efacffd29ec04e"
         },
         {
+            "name": "Darius (World) (Genesis Mini, Mega Drive Mini)",
+            "crc": "26ca4234",
+            "md5": "05dac074b9f194d74c44848eb15ad53f",
+            "sha1": "4841d8f05a73cb7c5f98b710f14ebd72be1a6504"
+        },
+        {
             "name": "Dark Castle (USA, Europe)",
             "crc": "0464aca4",
             "md5": "56965eb7dde9bc22d16ffa72331c0e09",
@@ -2309,6 +2315,12 @@
             "crc": "589542cc",
             "md5": "71134a51f1a903c9e7e85e98133a8c68",
             "sha1": "9a5ec12534137301ecc192ac80401eb82ec41968"
+        },
+        {
+            "name": "Mega Man - The Wily Wars (SRAM) (v1.0) (Plombo) (Protoman Fix) (v1.1) (Stifu)",
+            "crc": "f81eb0e2",
+            "md5": "62ffd9a4aa8a88b1c2711ddb053c9009",
+            "sha1": "a2414b1fec93db52a6b743a0f11f48cd631cbeaa"
         },
         {
             "name": "Mega Man - The Wily Wars (USA) (Genesis Mini)",
@@ -3829,6 +3841,12 @@
             "sha1": "c4a45eac178558d006bd42513ef93a691ba1c409"
         },
         {
+            "name": "Sonic 1 - Boomed (QoL Fix) (VAdaPEGA)",
+            "crc": "09e946f7",
+            "md5": "4382459fead8b3790199b68fd3b0fc76",
+            "sha1": "a24b5d5ce1092510fb99f10ffe06422e4a55ced6"
+        },
+        {
             "name": "Sonic 1 - Brother Trouble (v1.5) (MarkeyJester) (Hack)",
             "crc": "76a89460",
             "md5": "8e97a03cfb31917b7c2120405440f820",
@@ -3947,6 +3965,12 @@
             "crc": "b1a5f9d3",
             "md5": "ae1dd63ec1c689de873d8e0918757b97",
             "sha1": "ab91e712946f7ded4a1b9f45e5308b368a683590"
+        },
+        {
+            "name": "Sonic 1 - Pantufa the Cat - Extended Edition (SHC2020) (VAdaPEGA) (Hack)",
+            "crc": "8639aea0",
+            "md5": "0073325e4b4b86db19154f6a52e2a817",
+            "sha1": "6ba9e4147a36721106f2c86f5c29f38a11ca910b"
         },
         {
             "name": "Sonic 1 - Pepsi in Sonic 1 (SHC2016) (UnlimitedTrees) (Hack)",
@@ -4145,6 +4169,12 @@
             "crc": "7fada88d",
             "md5": "f9d87064d48d99ebbd425e8334de4beb",
             "sha1": "05f460a6ebbc1f86eb40b5f762083a59fb29f3e2"
+        },
+        {
+            "name": "Sonic Eraser (Japan) (SegaNet)",
+            "crc": "62d8a0e7",
+            "md5": "ff65f5666f84f0b2d9d6b535188bcd14",
+            "sha1": "be70d4246be49c0301a1402bd93f28c58b558a8d"
         },
         {
             "name": "Sonic Jam 6 (Taiwan) (En) (Pirate)",

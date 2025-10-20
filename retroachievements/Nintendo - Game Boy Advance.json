@@ -157,6 +157,12 @@
             "sha1": "7b4be37971335759ecc828b290338ab35e047017"
         },
         {
+            "name": "Army Men - Operation Green (USA) (En,Fr,De,Es,It)",
+            "crc": "6d174e28",
+            "md5": "60eb386e45d38b41fa10cd2535f681d8",
+            "sha1": "b0fa4769cddbc66bc333ad45658524a4aeeec755"
+        },
+        {
             "name": "Army Men Advance (USA, Europe) (En,Fr,De,Es,It)",
             "crc": "9a4a509f",
             "md5": "30ff69a44658fcf2cc381736403e74ef",
@@ -263,6 +269,18 @@
             "crc": "f508a7b7",
             "md5": "64082d14d8a4abe32fb8b062d9c0b9ed",
             "sha1": "432ed848343ad3c66bcb3acf245cacbb829f5f9c"
+        },
+        {
+            "name": "Barbie Diaries, The - High School Mystery (Europe)",
+            "crc": "4e8a650c",
+            "md5": "8e1c2672225640d441932424b5e11243",
+            "sha1": "1a89dc89d8cffc119643b99228d4cc567d5421b3"
+        },
+        {
+            "name": "Barbie Diaries, The - High School Mystery (USA)",
+            "crc": "5c704cbe",
+            "md5": "85bbf8a6f95b9d2d463d0a55f2b69d35",
+            "sha1": "3e61732fb0d19912b76c16e7fe1407e14ba38447"
         },
         {
             "name": "Barbie and the Magic of Pegasus (Europe) (En,Fr,De,Es,It,Nl)",
@@ -1423,6 +1441,12 @@
             "sha1": "0aa4fd4808260af2c8a7531b07ed301eee1bb50a"
         },
         {
+            "name": "Drake & Josh (USA) (En,Fr)",
+            "crc": "63a4422e",
+            "md5": "ca1e7ca13fc27ec962b8163d8e94dce0",
+            "sha1": "07499bf3329bcd38f4dd8bb7e392e44957243534"
+        },
+        {
             "name": "Drill Dozer (Europe) (En,Fr,De,Es,It) (Virtual Console)",
             "crc": "4c09614e",
             "md5": "2286cf9c0253344a19ccc19a36ea293f",
@@ -2513,6 +2537,12 @@
             "crc": "9592f553",
             "md5": "5ea3eec1d71c05f46321ce090ca791ee",
             "sha1": "e6a3ae1e4a58e47c78719a7f6a7e1ed0c37b34e6"
+        },
+        {
+            "name": "Hot Wheels - World Race (USA)",
+            "crc": "cb313505",
+            "md5": "91cc97b4023b7876f4ac783c2c4de2bd",
+            "sha1": "4045cb4551399537812d81b76bdd5cb46c4c7c06"
         },
         {
             "name": "I Spy Challenger! (USA)",
@@ -4639,6 +4669,18 @@
             "sha1": "81d0cbb5620d5d5c4b6f2ca524c85a33a8f511ec"
         },
         {
+            "name": "Pokemon - Scorched Silver (v1.3) (Sloo) (Hack)",
+            "crc": "a0639593",
+            "md5": "f7af51cecd3e170cc373fba01753053c",
+            "sha1": "67949d03fd3dbfcec7903857560128ae6438110b"
+        },
+        {
+            "name": "Pokemon - Smaragd-Edition (Germany)",
+            "crc": "34c9df89",
+            "md5": "f793a854654b467211fc32c4062cb183",
+            "sha1": "61c2eb2b380b1a75f0c94b767a2d4c26cd7ce4e3"
+        },
+        {
             "name": "Pokemon - Snakewood (Alt) (Cutlerine) (Hack)",
             "crc": "09d13fbb",
             "md5": "3e18faadb97ea0dc129240fca69f8336",
@@ -5023,6 +5065,12 @@
             "sha1": "44be0a6869f3495c23a5770993116ac80b554bac"
         },
         {
+            "name": "Rockman & Crystal (USA) (Unl)",
+            "crc": "9dc4dc05",
+            "md5": "8bb88f20d166d7f6c3806c0c761fb54d",
+            "sha1": "755c686ad485055a2ab884a42fe56fce26180049"
+        },
+        {
             "name": "Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (exeguy11) (v1.1)",
             "crc": "d4b8b057",
             "md5": "410c6df8eaef7b9e13853abf46dc689b",
@@ -5111,6 +5159,18 @@
             "crc": "144b0c2b",
             "md5": "b133f753da90eecc2c69df91eacdc24b",
             "sha1": "a286ba0ec687f11ab8d7c62af95e5c21ce0a6997"
+        },
+        {
+            "name": "Scorpion King, The - Sword of Osiris (Europe) (En,Fr,De,Es,It)",
+            "crc": "d5410d32",
+            "md5": "bf8fac941521947c92ba860d570927c4",
+            "sha1": "9a483e98d72b1d7d8579511cc9344e5d27bcee61"
+        },
+        {
+            "name": "Scorpion King, The - Sword of Osiris (USA)",
+            "crc": "6e0a8585",
+            "md5": "8620aeb89f00dd3e3c2a500ba75ce2de",
+            "sha1": "2224c8080f48073e568d1b75eec32e18bc1f5a09"
         },
         {
             "name": "Scrabble Blast! (USA)",
@@ -6139,6 +6199,12 @@
             "sha1": "69127756d96375d8fa0336db48416e630e8da8e0"
         },
         {
+            "name": "Three-in-One Pack - Risk + Battleship + Clue (USA)",
+            "crc": "f6f70922",
+            "md5": "1cd909a6837e4175244b71b83d2fdd1f",
+            "sha1": "35d7fe8c1a36a4f924c28ff0e9c728c819b52405"
+        },
+        {
             "name": "Tim Burton's The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It)",
             "crc": "3c247c14",
             "md5": "2de53bf040953ad79cc8135c37b47aa0",
@@ -6245,6 +6311,12 @@
             "crc": "bb85ad55",
             "md5": "a4e4230baf0e3b819c84eae58097cdb0",
             "sha1": "d502ab791843d2359726983032390ce037894c67"
+        },
+        {
+            "name": "Ultimate Spider-Man (USA)",
+            "crc": "931e2c18",
+            "md5": "11beb7fd8ce6c8a3d4987274835e0843",
+            "sha1": "1f5959b66dafb33c9fa01389c23214b38b0fcc79"
         },
         {
             "name": "Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)",
