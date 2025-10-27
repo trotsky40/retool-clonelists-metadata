@@ -593,20 +593,8 @@
             "sha1": "e07b4f462a2855d3fb4ad9e1f336f677651268bf"
         },
         {
-            "name": "Darkwatch (Europe, Australia) (50FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)",
-            "sha1": "610e616e867f105477dbee293e8bf9006891d5c5"
-        },
-        {
             "name": "Darkwatch (Europe, Australia) (En,Fr,De,Es,It)",
             "sha1": "9136e27c6b0b1729008c3dfb7356ec79de010366"
-        },
-        {
-            "name": "Darkwatch (Europe, Australia) (Widescreen + NTSC Mode + 60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)",
-            "sha1": "c50009f37a10e3904d214590356f9444e08d5fed"
-        },
-        {
-            "name": "Darkwatch (Europe, Australia) (Widescreen + NTSC Mode) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)",
-            "sha1": "df473b384f15bcd63aacbaf60bd446f3f1f95787"
         },
         {
             "name": "Darkwatch (Europe, Australia) (Widescreen, NTSC 60Hz mode) (v1.0) (ASolidSnack)",
@@ -629,20 +617,8 @@
             "sha1": "8b982571b4374b799e2e752c8965e48f364ec42c"
         },
         {
-            "name": "Darkwatch (USA) (60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)",
-            "sha1": "e6cedf49e868b636c56f0c39ac5ea7f9093eace6"
-        },
-        {
-            "name": "Darkwatch (USA) (Widescreen + 60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)",
-            "sha1": "42a0fa4e09ce85b29793599d290c0bc7d840b407"
-        },
-        {
             "name": "Darkwatch (USA) (Widescreen) (v1.0) (ASolidSnack)",
             "sha1": "49b87c1e2cd70d876194917b56d1bd6bd7b2fae2"
-        },
-        {
-            "name": "Darkwatch (USA) (Widescreen) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)",
-            "sha1": "78608d0aebecbb75fa5d53430f6b92cf1be7fe6a"
         },
         {
             "name": "Darkwatch (USA) (Widescreen, 60FPS) (v1.0) (ASolidSnack)",
@@ -847,6 +823,10 @@
         {
             "name": "Disney's Stitch - Experiment 626 (USA)",
             "sha1": "6a6edf07ce5f0f25c9dc7d2dafb9225103d38625"
+        },
+        {
+            "name": "Disney's Tarzan - Untamed (USA)",
+            "sha1": "e63a4b42730f7b6e15e517dd4542f106276f6ff5"
         },
         {
             "name": "Disney's The Haunted Mansion (USA) (Anti-Cheat) (v1.0) (Raeyene)",
@@ -1579,6 +1559,10 @@
         {
             "name": "Grand Theft Auto - Liberty City Stories (USA) (Ru)",
             "sha1": "6f54c67e2d7f35d3025afe039966a822443acf5d"
+        },
+        {
+            "name": "Grand Theft Auto - San Andreas (Subset - Vehicle Enthusiast)",
+            "sha1": "e471262f52d39e5f9bbcedec64339baa884c69b7"
         },
         {
             "name": "Grand Theft Auto - San Andreas (Subset - Viva Las Venturas)",
@@ -2939,6 +2923,10 @@
         {
             "name": "PopCap Hits! Vol. 1 (USA)",
             "sha1": "38b4fc169772023b70329720672b8031e2e6d95f"
+        },
+        {
+            "name": "Portal Runner (USA)",
+            "sha1": "e619444048937dabb3319d4ffc8fcd8852a2f9c8"
         },
         {
             "name": "Postman Pat (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",

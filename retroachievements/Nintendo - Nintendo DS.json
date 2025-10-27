@@ -973,6 +973,12 @@
             "sha1": "9602be2072a526893dd2037ccb764893d65a9a2b"
         },
         {
+            "name": "Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl)",
+            "crc": "fe158662",
+            "md5": "588b392dfd20e8c670ab3a2b2ee79cd8",
+            "sha1": "a4c8b20886cbfc44311658b97aeb23b407f7aba2"
+        },
+        {
             "name": "Draglade (Europe) (En,Fr,De,Es,It)",
             "crc": "0d6c64a7",
             "md5": "7d6ccbd73cae13d4fe02cb2b90697487",
@@ -2207,6 +2213,12 @@
             "crc": "21e5c976",
             "md5": "17018e65690a6b2964f64a0a5883e06b",
             "sha1": "e982f9addd89490f495d69fe6eb8aff1ac878657"
+        },
+        {
+            "name": "Might & Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It)",
+            "crc": "f0e68923",
+            "md5": "0687be54d2a086bb7eb33daf901a8a63",
+            "sha1": "7ad26d2180c45d5e6d7113f73c4d479d1795d94c"
         },
         {
             "name": "Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)",
@@ -3859,6 +3871,18 @@
             "sha1": "87568bae7f2831ad28762574719da46ccd72ce8d"
         },
         {
+            "name": "SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)",
+            "crc": "f47920fb",
+            "md5": "cb70e35f95fd09b1247b151fd117a126",
+            "sha1": "ab732fb3aedeb11cd932842106fc9d17784d6cf8"
+        },
+        {
+            "name": "SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan) (En) (v2.12) (Crimson Nocturnal)",
+            "crc": "984ef5fb",
+            "md5": "59a96ab6cd9f571175e820fc28139797",
+            "sha1": "41bf7f7d912e686d9219117f21184e58a1569040"
+        },
+        {
             "name": "SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan) (En) (v2.0.830 Beta) (Cain & Easton West)",
             "crc": "2af5af5a",
             "md5": "9c7a8a8865f74b1790c8f0aea3198f1c",
@@ -4091,6 +4115,12 @@
             "crc": "1d82aeef",
             "md5": "64f6c3d017fc5f61eb3740ce2fd8a2a7",
             "sha1": "b09b7540e93292c8a7bdcc7e45a6b945470f34a3"
+        },
+        {
+            "name": "SpongeBob and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)",
+            "crc": "649f30c9",
+            "md5": "47cb0cd6bbd6b6370c43a58c73384947",
+            "sha1": "20c3c55ccd9ef2b99f74c587b95a45aa12f0a1d2"
         },
         {
             "name": "SpongeBob's Atlantis SquarePantis (USA)",

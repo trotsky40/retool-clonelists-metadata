@@ -769,6 +769,18 @@
             "sha1": "619f7d5b1ae9d732ad4186ca3b4dd2d6299022a0"
         },
         {
+            "name": "Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)",
+            "crc": "ddc4b118",
+            "md5": "fa6a6fd3e3898a58977f468db9a1f6f9",
+            "sha1": "0b32c3abb700f36864bc468ef6188513b0f4b0a1"
+        },
+        {
+            "name": "Chobits for Game Boy Advance - Atashi Dake no Hito (Japan) (En) (v1.0) (Gopicolo)",
+            "crc": "6d2eba30",
+            "md5": "11716b06dad0f17160fa237a7ace7130",
+            "sha1": "c8dd6796ffdd64835aeb0841efa8fd40ba7b3cd0"
+        },
+        {
             "name": "Chocobo Land - A Game of Dice (Japan)",
             "crc": "d4f8152e",
             "md5": "6341167e3c3212c632e7956cf0e69119",
@@ -1055,6 +1067,18 @@
             "crc": "4171c811",
             "md5": "4a5a274a7c2514b21ebb43b2ceade091",
             "sha1": "9e5aed84668e5838cb58a3c33e8d6db7a85fd536"
+        },
+        {
+            "name": "Curious George (Europe) (En,Fr,De,Es,It,Sv,Da)",
+            "crc": "eef104b0",
+            "md5": "1f49d24ac42d1697a55a45a145b1dd39",
+            "sha1": "702b89df39afae4d767977ae5b5ed0467e009ffc"
+        },
+        {
+            "name": "Curious George (USA)",
+            "crc": "f6b549dd",
+            "md5": "b70a1cfd17b2194ad99b2abf558aadf2",
+            "sha1": "7153a1e2b246c1997a91257480c67ac8b54fe61b"
         },
         {
             "name": "DK - King of Swing (Europe) (En,Fr,De,Es,It)",
@@ -5729,6 +5753,12 @@
             "crc": "e1068687",
             "md5": "17dd0e3e76207e30614768482078cc3f",
             "sha1": "3e7a5a0f62a7319d0ebf3d302377b08f3f4cdd8e"
+        },
+        {
+            "name": "SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It)",
+            "crc": "611cc620",
+            "md5": "b8a651f0fc9080bf42044c93a746b5e7",
+            "sha1": "0b597ce175f42e8fabb64fc278bda50c4357edfa"
         },
         {
             "name": "SpongeBob's Atlantis SquarePantis (USA)",

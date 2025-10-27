@@ -37,6 +37,14 @@
             "sha1": "bf040cda63a2488be3b78a4e8c6b61e6a92592cd"
         },
         {
+            "name": "Aconcagua (Japan) (Disc 1)",
+            "sha1": "57ace3a37619ac37a4fb75de599858590b9e2b78"
+        },
+        {
+            "name": "Aconcagua (Japan) (Disc 2)",
+            "sha1": "52cc3ce95fdd70ea05653df526a1a89c0f2f8380"
+        },
+        {
             "name": "Action Man - Operation Extreme (USA)",
             "sha1": "52170ed7d2390e094dbcd49ece3df8660dcd9a49"
         },
@@ -195,6 +203,14 @@
         {
             "name": "Army Men 3D (USA) (Ru)",
             "sha1": "084cc48a5ee2485de7b8e81c7852c13d4239778c"
+        },
+        {
+            "name": "Asterix (Europe) (De,Es,It) (Rev 1)",
+            "sha1": "6d087d292f2394a587a62c40f12a4e1efd245fd9"
+        },
+        {
+            "name": "Asterix (Europe) (En,Fr,Nl) (Rev 1)",
+            "sha1": "48838275b15789f53d4019970847d48cad37d742"
         },
         {
             "name": "Atari Anniversary Edition Redux (USA)",
@@ -823,6 +839,10 @@
         {
             "name": "Descent (USA)",
             "sha1": "2539eef216b5ca883f25595ece4507f20551fd69"
+        },
+        {
+            "name": "Destruction Derby 2 (USA)",
+            "sha1": "dd34233f6ecf6a588baf4d5762fddc1f5d9e6743"
         },
         {
             "name": "Destruction Derby Raw (USA)",
@@ -1617,6 +1637,10 @@
             "crc": "e516c9a0",
             "md5": "370d4a0249b625db44077286e408386f",
             "sha1": "5e0d0ed22fb462e0600194e3d50ba5f8e976e122"
+        },
+        {
+            "name": "Hellnight (Europe) (En,Fr,De)",
+            "sha1": "e827cb68c19a50d6438d68505d40673220b6f820"
         },
         {
             "name": "Herc's Adventures (USA)",
@@ -3963,6 +3987,10 @@
         {
             "name": "VS. Selever (victor179, UNSTOP4BLE) (Aftermarket)",
             "sha1": "6a80bde4064b545ba81107a942a7399b7d9fa07b"
+        },
+        {
+            "name": "VS. Sky (Nintendo bro385) (Aftermarket)",
+            "sha1": "686f2ff9aa05e777217bf9207039dedd532801dc"
         },
         {
             "name": "VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000) (Aftermarket)",

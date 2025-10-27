@@ -1063,6 +1063,12 @@
             "sha1": "b8a9e3023b92e0f4139428f6d7a9e0f9db70f60e"
         },
         {
+            "name": "Breath of Fire (USA) (Es) (v1.3) (Vegetal)",
+            "crc": "4e55a8b8",
+            "md5": "305d0b1ddbb96f3eec8868f4980ea688",
+            "sha1": "e62caeb79ca0d70d1ae317a29e4a1d21f945a0ea"
+        },
+        {
             "name": "Breath of Fire (USA) (Pt) (v1.1) (Hexagon)",
             "crc": "08098770",
             "md5": "953cf128f47276da28fdd7cc4788a20f",
@@ -2423,6 +2429,12 @@
             "crc": "1cf51375",
             "md5": "72e0347734698984e3b3a97b4556844d",
             "sha1": "cfdc0af3eb5f8b8cc95b8f078ca3b23bfee34214"
+        },
+        {
+            "name": "FFII - FF2us Impossible (JCE3000GT) (v3.0b) (Hack)",
+            "crc": "624481a1",
+            "md5": "4d1f40a7e696bf7888defb8f98a82ee3",
+            "sha1": "eecd6e310909608cc12f7075b7c3f2865ff88c52"
         },
         {
             "name": "FFII - Job System (v1.1) (S34n4e) (Hack)",
@@ -5903,6 +5915,12 @@
             "crc": "49da3583",
             "md5": "e4d7ca6333e7a05acfd409b169f1a1c2",
             "sha1": "2400f6d79aff8eb82c2dba767901c0c0a5d08ea9"
+        },
+        {
+            "name": "Nontan to Issho - Kurukuru Puzzle (Japan)",
+            "crc": "de346477",
+            "md5": "abd1b7abfdb05162688e5abd2879a9f3",
+            "sha1": "f2bfed3a65c38319fb11dada2eab31d1d10d5466"
         },
         {
             "name": "Nosferatu (USA)",
@@ -10127,6 +10145,12 @@
             "crc": "2d0b20d0",
             "md5": "975074b66b9a993648142e2bcd8a02cf",
             "sha1": "eafef16aa34e12e99d1a8bbe138b0a0e39dbbef1"
+        },
+        {
+            "name": "Super Soccer (USA)",
+            "crc": "4fd164d8",
+            "md5": "15bc713c9464c0e3243d1dbcf75c9bee",
+            "sha1": "47f401cf0b5845e129b636d381233c23ba74cef6"
         },
         {
             "name": "Super Solitaire (USA) (En,Fr,De,Es,It)",
