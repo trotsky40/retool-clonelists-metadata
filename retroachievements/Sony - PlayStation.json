@@ -37,12 +37,10 @@
             "sha1": "bf040cda63a2488be3b78a4e8c6b61e6a92592cd"
         },
         {
-            "name": "Aconcagua (Japan) (Disc 1)",
-            "sha1": "57ace3a37619ac37a4fb75de599858590b9e2b78"
-        },
-        {
-            "name": "Aconcagua (Japan) (Disc 2)",
-            "sha1": "52cc3ce95fdd70ea05653df526a1a89c0f2f8380"
+            "name": "Aconcagua (Japan)",
+            "crc": "7743d13b",
+            "md5": "1109d56c8d70bd5c731cba128ed2af78",
+            "sha1": "491c253aa6cf946092be4e2c49f5b5d66323d5d4"
         },
         {
             "name": "Action Man - Operation Extreme (USA)",
