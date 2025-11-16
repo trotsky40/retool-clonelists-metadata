@@ -7,8 +7,8 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "12 October 2025",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "24 August 2024",
+		"minimumVersion": "2.3.6"
 	},
 
 	"cloneListMetadataUrl": "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main",
@@ -213,6 +213,8 @@
 		["(Early)", "string"],
 		["(Elektronite)", "string"],
 		["(Encrypted CIA)", "string"],
+		["(Evercade)", "string"],
+		["(Evercade, GOG)", "string"],
 		["(Export)", "string"],
 		["(FamicomBox)", "string"],
 		["(FS005)", "string"],
@@ -701,6 +703,7 @@
 		"ByteSwapped",
 		"CardImage",
 		"Combined",
+		"CDN",
 		"DC42",
 		"Decrypted",
 		"Deprecated",
