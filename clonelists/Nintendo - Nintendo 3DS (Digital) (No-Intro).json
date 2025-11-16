@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (Digital) (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:45",
+		"lastUpdated": "2025-11-16 12:48:04",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -24,6 +24,13 @@
 			"titles": [
 				{"searchTerm": "3D Bare Knuckle II - Shitou e no Requiem"},
 				{"searchTerm": "3D Streets of Rage 2"}
+			]
+		},
+		{
+			"group": "3D Visual Experience",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "3D Visual Experience"}
 			]
 		},
 		{
@@ -83,6 +90,20 @@
 			]
 		},
 		{
+			"group": "Comic Workshop",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Comic Workshop"}
+			]
+		},
+		{
+			"group": "Comic Workshop 2",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Comic Workshop 2"}
+			]
+		},
+		{
 			"group": "Crashmo",
 			"titles": [
 				{"searchTerm": "Crashmo"},
@@ -120,6 +141,7 @@
 		},
 		{
 			"group": "Flipnote Studio 3D",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Flipnote Studio 3D"},
 				{"searchTerm": "Ugoku Memo Chou 3D"}
@@ -144,6 +166,13 @@
 			"titles": [
 				{"searchTerm": "Gumman Story 2"},
 				{"searchTerm": "Gunman Clive 2"}
+			]
+		},
+		{
+			"group": "Hulu Plus",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Hulu Plus"}
 			]
 		},
 		{
@@ -210,6 +239,13 @@
 			]
 		},
 		{
+			"group": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album"}
+			]
+		},
+		{
 			"group": "Mario and Donkey Kong - Minis on the Move",
 			"titles": [
 				{"searchTerm": "Mario and Donkey Kong - Mini Mini Carnival"},
@@ -231,6 +267,13 @@
 			]
 		},
 		{
+			"group": "Netflix",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Netflix"}
+			]
+		},
+		{
 			"group": "New Super Mario Bros. 2",
 			"titles": [
 				{"searchTerm": "New Super Mario Bros. 2"}
@@ -248,14 +291,30 @@
 			]
 		},
 		{
+			"group": "Nintendo Anime Channel",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo Anime Channel"}
+			]
+		},
+		{
 			"group": "Nintendo Badge Arcade",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Home Menu ni Kazareru Badge Toreru Center"},
 				{"searchTerm": "Nintendo Badge Arcade"}
 			]
 		},
 		{
+			"group": "Nintendo Video",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo Video"}
+			]
+		},
+		{
 			"group": "Photos with Animal Crossing",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Isshoni Photo Doubutsu no Mori"},
 				{"searchTerm": "Photos with Animal Crossing"}
@@ -263,9 +322,17 @@
 		},
 		{
 			"group": "Photos with Mario",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Isshoni Photo Super Mario"},
 				{"searchTerm": "Photos with Mario"}
+			]
+		},
+		{
+			"group": "Pikmin Short Movies 3D",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Pikmin Short Movies 3D"}
 			]
 		},
 		{
@@ -276,10 +343,28 @@
 			]
 		},
 		{
-			"group": "Pokedex 3D",
+			"group": "Poke Transporter",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Pokedex 3D"},
-				{"searchTerm": "Pokedex", "priority": 2}
+				{"searchTerm": "Poke Transporter"}
+			]
+		},
+		{
+			"group": "Pokedex 3D",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pokedex"},
+				{"searchTerm": "Pokedex 3D"}
+			],
+			"supersets": [
+				{"searchTerm": "Pokedex 3D Pro"}
+			]
+		},
+		{
+			"group": "Pokemon Bank",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pokemon Bank"}
 			]
 		},
 		{
@@ -340,6 +425,33 @@
 			]
 		},
 		{
+			"group": "Shaun the Sheep - Episode 1 - 5 (Video)",
+			"titles": [
+				{"searchTerm": "Shaun the Sheep - Episode 1 - 5 (Video)"}
+			],
+			"supersets": [
+				{"searchTerm": "Shaun the Sheep - Episode 1 - 15 + Making Of (Video)"}
+			]
+		},
+		{
+			"group": "Shaun the Sheep - Episode 6 - 10 (Video)",
+			"titles": [
+				{"searchTerm": "Shaun the Sheep - Episode 6 - 10 (Video)"}
+			],
+			"supersets": [
+				{"searchTerm": "Shaun the Sheep - Episode 1 - 15 + Making Of (Video)"}
+			]
+		},
+		{
+			"group": "Shaun the Sheep - Episode 11 - 15 (Video)",
+			"titles": [
+				{"searchTerm": "Shaun the Sheep - Episode 11 - 15 (Video)"}
+			],
+			"supersets": [
+				{"searchTerm": "Shaun the Sheep - Episode 1 - 15 + Making Of (Video)"}
+			]
+		},
+		{
 			"group": "Shovel Knight",
 			"titles": [
 				{"searchTerm": "Shovel Knight"}
@@ -357,6 +469,7 @@
 		},
 		{
 			"group": "SmileBASIC",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Puchikon No. 3 SmileBASIC"},
 				{"searchTerm": "SmileBASIC"}
@@ -378,6 +491,15 @@
 			]
 		},
 		{
+			"group": "Speedx 3D",
+			"titles": [
+				{"searchTerm": "Speedx 3D"}
+			],
+			"supersets": [
+				{"searchTerm": "Speedx 3D Hyper Edition"}
+			]
+		},
+		{
 			"group": "Stretchmo",
 			"titles": [
 				{"searchTerm": "Fullblox"},
@@ -387,6 +509,7 @@
 		},
 		{
 			"group": "Swapnote",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Nintendo Letter Box"},
 				{"searchTerm": "Swapnote"}
@@ -437,6 +560,7 @@
 		},
 		{
 			"group": "Tomodachi Life - Move-In Version",
+			"categories": ["Demos"],
 			"titles": [
 				{"searchTerm": "Tomodachi Life - Move-In Version"},
 				{"searchTerm": "Tomodachi Life - Welcome Version"}
@@ -476,6 +600,13 @@
 			"titles": [
 				{"searchTerm": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers"},
 				{"searchTerm": "Yoshi's Island - Super Mario Advance 3"}
+			]
+		},
+		{
+			"group": "Youtube",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Youtube"}
 			]
 		},
 		{

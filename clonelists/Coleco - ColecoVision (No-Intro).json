@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Coleco - ColecoVision (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:45",
+		"lastUpdated": "2025-11-05 17:36:53",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -15,7 +15,7 @@
 		{
 			"group": "ColecoVision Monitor Test",
 			"titles": [
-				{"searchTerm": "ColecoVision Monitor Test", "categories": ["applications"]}
+				{"searchTerm": "ColecoVision Monitor Test", "categories": ["Applications"]}
 			]
 		},
 		{
@@ -28,7 +28,7 @@
 		{
 			"group": "Final Test Cartridge",
 			"titles": [
-				{"searchTerm": "Final Test Cartridge", "categories": ["applications"]}
+				{"searchTerm": "Final Test Cartridge", "categories": ["Applications"]}
 			]
 		},
 		{
@@ -59,7 +59,7 @@
 		{
 			"group": "Super Controller Tester",
 			"titles": [
-				{"searchTerm": "Super Controller Tester", "categories": ["applications"]}
+				{"searchTerm": "Super Controller Tester", "categories": ["Applications"]}
 			]
 		}
 	]
