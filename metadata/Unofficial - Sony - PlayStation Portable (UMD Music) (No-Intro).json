@@ -2,7 +2,7 @@
 	"50 Cent - The Massacre (Special Edition) (World)": {
 		"languages": ["En"]
 	},
-	"Asian Kung-Fu Generation - Eizo Sakuhinshu - Vol1 (Japan, Europe)": {
+	"Asian Kung-Fu Generation - Eizo Sakuhinshu - Vol1 (Japan, Europe) (Ja)": {
 		"languages": ["Ja"]
 	},
 	"Audioslave - Live in Cuba (World)": {
@@ -13,6 +13,9 @@
 	},
 	"Blink-182 - Greatest Hits (World)": {
 		"languages": ["En"]
+	},
+	"BoA - History of BoA (World) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"Bob Marley - The Legend Live (World)": {
 		"languages": ["En"]
@@ -47,6 +50,12 @@
 	"Depeche Mode - Playing the Angel (Europe)": {
 		"languages": ["En"]
 	},
+	"Eminem - The Anger Management Tour (World)": {
+		"languages": ["En"]
+	},
+	"Fatboy Slim - The Greatest Hits - Why Make Videos (Europe)": {
+		"languages": ["En"]
+	},
 	"Girl Next Door (Be your Wings - Friendship - Wait for you) (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -62,7 +71,13 @@
 	"Green Day - Bullet in a Bible (USA)": {
 		"languages": ["En"]
 	},
+	"Hombres G El Canto Del Loco (Europe) (Es)": {
+		"languages": ["Es"]
+	},
 	"INXS - Live Baby Live (Europe)": {
+		"languages": ["En"]
+	},
+	"Iron Maiden - Rock in Rio (Europe) (Preview)": {
 		"languages": ["En"]
 	},
 	"Iron Maiden - Rock in Rio (Europe)": {
@@ -77,6 +92,9 @@
 	"Jack Johnson Live in Japan (World)": {
 		"languages": ["En"]
 	},
+	"Jovanotti - Buon Sangue - Live (Europe) (It)": {
+		"languages": ["It"]
+	},
 	"Kylie Minogue - Showgirl (World)": {
 		"languages": ["En"]
 	},
@@ -88,6 +106,9 @@
 	},
 	"Metallica - Metallica (World) (En,Fr,De,Es,It,Nl,Pt) (Classic Albums)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
+	},
+	"Michael Jackson - Number Ones (World)": {
+		"languages": ["En"]
 	},
 	"Mika Nakashima - Film Lotus IV (Japan)": {
 		"languages": ["Ja"]
@@ -101,11 +122,20 @@
 	"Nirvana - Nevermind (World) (En,Fr,De,Es,It,Nl,Pt) (USA Version) (Classic Albums)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
 	},
-	"Nobody Knows + Mebae (Japan, Europe)": {
+	"Nobody Knows + Mebae (Japan, Europe) (Ja)": {
 		"languages": ["Ja"]
 	},
-	"Okuda Tamio - OT Clips of the Years (Japan, Europe)": {
+	"Now 2006 - That's What I Call Music! (World)": {
+		"languages": ["En"]
+	},
+	"Offspring, The - Complete Music Video Collection (World)": {
+		"languages": ["En"]
+	},
+	"Okuda Tamio - OT Clips of the Years (Japan, Europe) (Ja)": {
 		"languages": ["Ja"]
+	},
+	"Oreja de Van Gogh, La - En directo (World) (Es)": {
+		"languages": ["Es"]
 	},
 	"Outkast - The Videos (World)": {
 		"languages": ["En"]
@@ -137,7 +167,7 @@
 	"Shiina Hekiru - Hequil VI (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Silbermond - Verschwende Deine Zeit Live (Japan, Europe)": {
+	"Silbermond - Verschwende Deine Zeit Live (Japan, Europe) (De)": {
 		"languages": ["De"]
 	},
 	"Skoop on Somebody - SOS CLIPS Vol.2 (Japan)": {
@@ -156,6 +186,9 @@
 		"languages": ["En"]
 	},
 	"Up in Smoke Tour, The (World)": {
+		"languages": ["En"]
+	},
+	"Usher - Rhythm City Volume One - Caught Up (World)": {
 		"languages": ["En"]
 	},
 	"Who, The - The Kids are Alright (World)": {

@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "VTech - V.Smile (No-Intro)",
-		"lastUpdated": "03 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Adventures of Little Red Riding Hood, The",
@@ -57,9 +56,9 @@
 		{
 			"group": "Cars - Rev It Up in Radiator Springs",
 			"titles": [
-				{"searchTerm": "Cars"},
 				{"searchTerm": "Bilar - Koer ikapp i Kylarkoeping"},
 				{"searchTerm": "Biler - Raes i Kolerkildekobing"},
+				{"searchTerm": "Cars"},
 				{"searchTerm": "Cars - Quatre roues"},
 				{"searchTerm": "Cars - Rev It Up in Radiator Springs"},
 				{"searchTerm": "Cars - Vollgas in Radiator Springs"}
@@ -142,18 +141,10 @@
 			]
 		},
 		{
-			"group": "Learnin' Wheels",
+			"group": "Handy Manny",
 			"titles": [
-				{"searchTerm": "Apprenti' pilote"},
-				{"searchTerm": "Freds Zahlen Rallye"},
-				{"searchTerm": "Learnin' Wheels"}
-			]
-		},
-		{
-			"group": "Fussball Schule",
-			"titles": [
-				{"searchTerm": "Football Club"},
-				{"searchTerm": "Fussball Schule"}
+				{"searchTerm": "Handy Manny"},
+				{"searchTerm": "Meister Manny's Werkzeugkiste"}
 			]
 		},
 		{
@@ -164,10 +155,11 @@
 			]
 		},
 		{
-			"group": "Handy Manny",
+			"group": "Learnin' Wheels",
 			"titles": [
-				{"searchTerm": "Handy Manny"},
-				{"searchTerm": "Meister Manny's Werkzeugkiste"}
+				{"searchTerm": "Apprenti' pilote"},
+				{"searchTerm": "Freds Zahlen Rallye"},
+				{"searchTerm": "Learnin' Wheels"}
 			]
 		},
 		{
@@ -212,12 +204,12 @@
 		{
 			"group": "Scooby-Doo! - Funland Frenzy",
 			"titles": [
+				{"searchTerm": "Scooby-Doo - Panique a Funland"},
 				{"searchTerm": "Scooby-Doo! - Avventura a Funland"},
 				{"searchTerm": "Scooby-Doo! - Funland Frenzy"},
 				{"searchTerm": "Scooby-Doo! - Im Lernpark"},
 				{"searchTerm": "Scooby-Doo! - Sjov i forlystelsesparken"},
-				{"searchTerm": "Scooby-Doo! - Tivoli-tokerier"},
-				{"searchTerm": "Scooby-Doo - Panique a Funland"}
+				{"searchTerm": "Scooby-Doo! - Tivoli-tokerier"}
 			]
 		},
 		{
@@ -254,9 +246,9 @@
 		{
 			"group": "Spider-Man & Friends - Doc Ock's Challenge",
 			"titles": [
+				{"searchTerm": "Spider-Man & Freunde - Wettkampf im Space-Labor"},
 				{"searchTerm": "Spider-Man & Friends - Doc Ock's Challenge"},
-				{"searchTerm": "Spider-Man & Friends - La Sfida del Dottor Ock"},
-				{"searchTerm": "Spider-Man & Freunde - Wettkampf im Space-Labor"}
+				{"searchTerm": "Spider-Man & Friends - La Sfida del Dottor Ock"}
 			]
 		},
 		{

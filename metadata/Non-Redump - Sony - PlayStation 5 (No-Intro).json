@@ -1,0 +1,221 @@
+{
+	"3D Billiards - Pool & Snooker (Europe)": {
+		"languages": ["nolang"],
+		"localName": "3D Billard - Pool & Snooker"
+	},
+	"Aliens - Fireteam Elite (USA)": {
+		"languages": ["nolang"]
+	},
+	"Among Us (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Assassin's Creed Shadows (USA)": {
+		"languages": ["En"]
+	},
+	"Assassin's Creed Valhalla (USA)": {
+		"languages": ["En"]
+	},
+	"Balan Wonderworld (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Call of Duty - Black Ops Cold War (USA)": {
+		"languages": ["En"]
+	},
+	"Death Stranding - Director's Cut (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Death Stranding - Director's Cut (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Ar)": {
+		"languages": ["Ar", "Cs", "De", "El", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Tr", "Zh"]
+	},
+	"Demon's Souls (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Demon's Souls (USA)": {
+		"languages": ["nolang"]
+	},
+	"Devil May Cry 5 - Special Edition (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Devil May Cry 5 - Special Edition (USA)": {
+		"languages": ["En"]
+	},
+	"Diablo IV (Europe)": {
+		"languages": ["En"]
+	},
+	"Diablo IV (USA)": {
+		"languages": ["nolang"]
+	},
+	"Elden Ring (USA)": {
+		"languages": ["En"]
+	},
+	"FIFA 21 - NXT LVL Edition (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Final Fantasy VII Rebirth (Europe) (En,Ja,Fr,De,Es,It,Pt) (Play Disc)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt"]
+	},
+	"Final Fantasy VII Remake Intergrade (USA)": {
+		"languages": ["En"]
+	},
+	"Final Fantasy XVI (Europe)": {
+		"languages": ["En"]
+	},
+	"Final Fantasy XVI (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Five Nights at Freddy's - Security Breach (USA)": {
+		"languages": ["En"]
+	},
+	"Forspoken (USA)": {
+		"languages": ["En"]
+	},
+	"Ghost of Tsushima - Director's Cut (USA)": {
+		"languages": ["En"]
+	},
+	"God of War - Ragnarok (Europe)": {
+		"languages": ["En"]
+	},
+	"God of War - Ragnarok (USA)": {
+		"languages": ["nolang"]
+	},
+	"Godfall (USA)": {
+		"languages": ["En"]
+	},
+	"Gran Turismo 7 (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Gran Turismo 7 (USA)": {
+		"languages": ["En"]
+	},
+	"Grand Theft Auto V (Europe)": {
+		"languages": ["En"]
+	},
+	"Grand Theft Auto V (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ko", "Pl", "Pt", "Ru", "Zh"]
+	},
+	"Guardians of the Galaxy (USA)": {
+		"languages": ["En"]
+	},
+	"Hitman 3 (USA)": {
+		"languages": ["nolang"]
+	},
+	"Honkai - Star Rail (USA) (En,Ja,Zh,Ko)": {
+		"languages": ["En", "Ja", "Ko", "Zh"]
+	},
+	"Horizon II - Forbidden West (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Horizon II - Forbidden West (USA)": {
+		"languages": ["En"]
+	},
+	"Judge Eyes - Shinigami no Yuigon Remastered (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Judgment (USA)": {
+		"languages": ["En"]
+	},
+	"Kena - Bridge of Spirits (Germany)": {
+		"languages": ["nolang"]
+	},
+	"Last of Us Part I, The (Europe) (En,Fr,De,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr)": {
+		"languages": ["Cs", "Da", "De", "El", "En", "Fi", "Fr", "Hr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
+	},
+	"Last of Us Part I, The (USA) (En,Fr,Es,Pt)": {
+		"languages": ["En", "Es", "Fr", "Pt"]
+	},
+	"Last of Us Part II Remastered, The (Europe) (En,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr)": {
+		"languages": ["Cs", "Da", "De", "El", "En", "Es", "Fi", "Hr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
+	},
+	"LEGO Star Wars - The Skywalker Saga (USA)": {
+		"languages": ["En"]
+	},
+	"Marvel Spider-Man 2 (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Marvel Spider-Man 2 (USA)": {
+		"languages": ["En"]
+	},
+	"Marvel Spider-Man - Miles Morales (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Marvel Spider-Man - Miles Morales (USA)": {
+		"languages": ["En"]
+	},
+	"Moorhuhn Shooter Edition (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Mortal Kombat 11 (Europe)": {
+		"languages": ["En"]
+	},
+	"Mortal Kombat 11 (USA) (En,Fr,Es,Zh)": {
+		"languages": ["En", "Es", "Fr", "Zh"]
+	},
+	"NBA 2K21 (Europe)": {
+		"languages": ["nolang"]
+	},
+	"NBA 2K21 (USA)": {
+		"languages": ["nolang"]
+	},
+	"NBA 2K22 (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Pac-Man World - Re-Pac (USA)": {
+		"languages": ["En"]
+	},
+	"Panda Hero Remastered (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Planet Coaster - Console Edition (USA)": {
+		"languages": ["En"]
+	},
+	"Quantum Error (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Ratchet & Clank - Rift Apart (USA)": {
+		"languages": ["En"]
+	},
+	"Record of Lodoss War - Deedlit in Wonder Labyrinth (Japan)": {
+		"languages": ["nolang"],
+		"localName": "Ｌｏｄｏｓｓ－ｔｏｕ　Ｓｅｎｋｉ　－　Ｄｅｅｄｌｉｔ　ｉｎ　Ｗｏｎｄｅｒ　Ｌａｂｙｒｉｎｔｈ"
+	},
+	"Renzo Racer (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Resident Evil - Village (USA)": {
+		"languages": ["En"]
+	},
+	"Returnal (USA)": {
+		"languages": ["En"]
+	},
+	"Star Wars Jedi - Fallen Order (Europe)": {
+		"languages": ["En"]
+	},
+	"Star Wars Jedi - Fallen Order (USA)": {
+		"languages": ["En"]
+	},
+	"Star Wars Outlaws (USA)": {
+		"languages": ["nolang"]
+	},
+	"Stranger of Paradise - Final Fantasy Origin (USA)": {
+		"languages": ["En"]
+	},
+	"Tales of Arise (USA) (En,Fr,Es,Pt)": {
+		"languages": ["En", "Es", "Fr", "Pt"]
+	},
+	"Uncharted - Legacy of Thieves Collection (Europe)": {
+		"languages": ["En"]
+	},
+	"Uncharted - Legacy of Thieves Collection (USA)": {
+		"languages": ["En"]
+	},
+	"Uncharted - Treasure Hunter Collection (Japan)": {
+		"languages": ["Ja"],
+		"localName": "アンチャーテッド　トレジャーハンターコレクション"
+	},
+	"Watch Dogs - Legion (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Witcher 3, The - Wild Hunt (USA)": {
+		"languages": ["En"]
+	}
+}

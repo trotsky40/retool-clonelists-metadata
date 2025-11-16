@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DSi (No-Intro)",
-		"lastUpdated": "28 April 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Foto Showdown",

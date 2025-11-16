@@ -29,7 +29,10 @@
 	"BLOX (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Bound High (Japan) (En) (Proto)": {
+	"Bound High (World) (Proto 1) [b]": {
+		"languages": ["En"]
+	},
+	"Bound High (World) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Capitan Sevilla 2 (World) (Es) (Aftermarket) (Unl)": {
@@ -194,8 +197,8 @@
 	"Tron VB (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"V-Tetris (Japan)": {
-		"languages": ["Ja"]
+	"V-Tetris (Japan) (En)": {
+		"languages": ["En"]
 	},
 	"Vertical Force (Japan)": {
 		"languages": ["Ja"]
@@ -215,11 +218,17 @@
 	"Virtual Lab (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Virtual League Baseball 2 (USA) (Proto)": {
+		"languages": ["En"]
+	},
 	"Virtual League Baseball (USA)": {
 		"languages": ["En"]
 	},
 	"Virtual Pro Yakyuu '95 (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Virtual WarZone (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"VUEngine Platformer (World) (En,Fr,De,Es-ES) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["De", "En", "Es-ES", "Fr"]

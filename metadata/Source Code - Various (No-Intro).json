@@ -1,14 +1,74 @@
 {
+	"Boy and His Blob, A (USA)": {
+		"languages": ["En"]
+	},
+	"CDPR leaks (World)": {
+		"languages": ["En"]
+	},
+	"Counter-Strike - Source (Unknown) (Assets)": {
+		"languages": ["nolang"]
+	},
 	"Crysis 2 (Unknown) (PC, PlayStation 3, Xbox 360)": {
+		"languages": ["En"]
+	},
+	"Cyberpunk 2077 (World)": {
+		"languages": ["En"]
+	},
+	"Day of Defeat (Unknown) (Assets)": {
+		"languages": ["nolang"]
+	},
+	"Guilty Gear Strive (Unknown) (Ja)": {
+		"languages": ["Ja"]
+	},
+	"Half-Life 2 (Unknown) (Assets)": {
+		"languages": ["nolang"]
+	},
+	"Half-Life 2 - Deathmatch (Unknown) (Assets)": {
+		"languages": ["nolang"]
+	},
+	"Half-Life 2 - Episode One (Unknown) (Assets)": {
+		"languages": ["nolang"]
+	},
+	"Half-Life 2 - Episode Two (Unknown) (Assets)": {
+		"languages": ["nolang"]
+	},
+	"Half-Life (Unknown) (Assets)": {
 		"languages": ["En"]
 	},
 	"Poker Face Paul's Cribbage (Unknown) (Proto) (Game Boy, Sega Master System, Game Gear)": {
 		"languages": ["En"]
 	},
+	"Portal (Unknown) (Assets)": {
+		"languages": ["nolang"]
+	},
+	"Q-Cubed (World) (Graphics, Sound and Design Materials)": {
+		"languages": ["En"]
+	},
+	"Quake 2 (Source Code) (Amiga) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Rayman 4 (World) (Proto) (GameCube, PC, PlayStation 2, Xbox 360)": {
+		"languages": ["nolang"]
+	},
 	"Road Riot 4WD (Unknown) (1992-11-13)": {
 		"languages": ["En"]
 	},
 	"Shovel Knight (World) (Graphics)": {
+		"languages": ["En"]
+	},
+	"Team Fortress 2 (Unknown) (Assets)": {
+		"languages": ["nolang"]
+	},
+	"Tomb Raider + Tomb Raider II (Unknown)": {
+		"languages": ["nolang"]
+	},
+	"Wipeout (Unknown) (PlayStation, Windows)": {
+		"languages": ["En"]
+	},
+	"Xbox One, Xbox Series, Xbox Series X - leaked schematics (World)": {
+		"languages": ["En"]
+	},
+	"Zouna (World) (Game Engine)": {
 		"languages": ["En"]
 	}
 }

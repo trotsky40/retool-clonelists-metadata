@@ -1,18 +1,10 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Vita (PSN) (Content) (No-Intro)",
-		"lastUpdated": "10 February 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
-		{
-			"group": "#Killallzombies Companion App",
-			"categories": ["Add-Ons"],
-			"titles": [
-				{"searchTerm": "#Killallzombies Companion App"}
-			]
-		},
 		{
 			"group": "1001 Spikes",
 			"titles": [
@@ -21,11 +13,10 @@
 			]
 		},
 		{
-			"group": "A.W. - Phoenix Festa",
+			"group": "#Killallzombies Companion App",
+			"categories": ["Add-Ons"],
 			"titles": [
-				{"searchTerm": "A.W. - Phoenix Festa"},
-				{"searchTerm": "Asterisk War, The - The Academy City on the Water Houaa Kenran"},
-				{"searchTerm": "Gakusen Toshi Asterisk Festa - Houka Kenran"}
+				{"searchTerm": "#Killallzombies Companion App"}
 			]
 		},
 		{
@@ -33,6 +24,14 @@
 			"titles": [
 				{"searchTerm": "A-Men"},
 				{"searchTerm": "Assault Armies"}
+			]
+		},
+		{
+			"group": "A.W. - Phoenix Festa",
+			"titles": [
+				{"searchTerm": "A.W. - Phoenix Festa"},
+				{"searchTerm": "Asterisk War, The - The Academy City on the Water Houaa Kenran"},
+				{"searchTerm": "Gakusen Toshi Asterisk Festa - Houka Kenran"}
 			]
 		},
 		{
@@ -59,8 +58,8 @@
 		{
 			"group": "Akiba's Trip - Undead & Undressed",
 			"titles": [
-				{"searchTerm": "Akiba's Trip - Undead & Undressed"},
-				{"searchTerm": "Akiba's Trip 2"}
+				{"searchTerm": "Akiba's Trip 2"},
+				{"searchTerm": "Akiba's Trip - Undead & Undressed"}
 			]
 		},
 		{
@@ -237,18 +236,18 @@
 			]
 		},
 		{
+			"group": "Caligula Effect, The",
+			"titles": [
+				{"searchTerm": "Caligula"},
+				{"searchTerm": "Caligula Effect, The"}
+			]
+		},
+		{
 			"group": "Call of Duty - Black Ops - Declassified",
 			"titles": [
 				{"searchTerm": "Call of Duty - Black Ops - Declassified"},
 				{"searchTerm": "Call of Duty - Black Ops Declassified"},
 				{"searchTerm": "Call of Duty Black Ops - Declassified"}
-			]
-		},
-		{
-			"group": "Caligula Effect, The",
-			"titles": [
-				{"searchTerm": "Caligula"},
-				{"searchTerm": "Caligula Effect, The"}
 			]
 		},
 		{
@@ -322,17 +321,17 @@
 			]
 		},
 		{
-			"group": "Criminal Girls - Invite Only",
-			"titles": [
-				{"searchTerm": "Criminal Girls - Invite Only"},
-				{"searchTerm": "Criminal Girls - Invitation"}
-			]
-		},
-		{
 			"group": "Criminal Girls 2 - Party Favors",
 			"titles": [
 				{"searchTerm": "Criminal Girls 2"},
 				{"searchTerm": "Criminal Girls 2 - Party Favors"}
+			]
+		},
+		{
+			"group": "Criminal Girls - Invite Only",
+			"titles": [
+				{"searchTerm": "Criminal Girls - Invitation"},
+				{"searchTerm": "Criminal Girls - Invite Only"}
 			]
 		},
 		{
@@ -364,17 +363,17 @@
 			]
 		},
 		{
-			"group": "Danganronpa - Trigger Happy Havoc",
-			"titles": [
-				{"searchTerm": "Danganronpa - Trigger Happy Havoc"},
-				{"searchTerm": "Danganronpa"}
-			]
-		},
-		{
 			"group": "Danganronpa 2 - Goodbye Despair",
 			"titles": [
 				{"searchTerm": "Danganronpa 2 - Goodbye Despair"},
 				{"searchTerm": "Super Danganronpa 2"}
+			]
+		},
+		{
+			"group": "Danganronpa - Trigger Happy Havoc",
+			"titles": [
+				{"searchTerm": "Danganronpa"},
+				{"searchTerm": "Danganronpa - Trigger Happy Havoc"}
 			]
 		},
 		{
@@ -503,6 +502,13 @@
 			]
 		},
 		{
+			"group": "Du View",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Du View"}
+			]
+		},
+		{
 			"group": "Duck Souls+",
 			"titles": [
 				{"searchTerm": "Duck Souls"},
@@ -514,13 +520,6 @@
 			"titles": [
 				{"searchTerm": "Dark Quest - Alliance"},
 				{"searchTerm": "Dungeon Hunter - Alliance"}
-			]
-		},
-		{
-			"group": "Du View",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Du View"}
 			]
 		},
 		{
@@ -762,6 +761,13 @@
 			]
 		},
 		{
+			"group": "Hyperdevotion Noire - Goddess Black Heart",
+			"titles": [
+				{"searchTerm": "Chou Megami Shinkou Noire - Gekishin Black Heart"},
+				{"searchTerm": "Hyperdevotion Noire - Goddess Black Heart"}
+			]
+		},
+		{
 			"group": "Hyperdimension Neptunia Re;Birth2 - Sisters Generation",
 			"titles": [
 				{"searchTerm": "Chou Tsugitsugimono Game Neptune Re;Birth2 - Sisters Generation"},
@@ -773,13 +779,6 @@
 			"titles": [
 				{"searchTerm": "Chou Jigen Action - Neptune U"},
 				{"searchTerm": "Hyperdimension Neptunia U - Action Unleashed"}
-			]
-		},
-		{
-			"group": "Hyperdevotion Noire - Goddess Black Heart",
-			"titles": [
-				{"searchTerm": "Chou Megami Shinkou Noire - Gekishin Black Heart"},
-				{"searchTerm": "Hyperdevotion Noire - Goddess Black Heart"}
 			]
 		},
 		{
@@ -836,8 +835,8 @@
 		{
 			"group": "Knock-Knock",
 			"titles": [
-				{"searchTerm": "Knock-Knock"},
-				{"searchTerm": "Knock Knock"}
+				{"searchTerm": "Knock Knock"},
+				{"searchTerm": "Knock-Knock"}
 			]
 		},
 		{
@@ -937,8 +936,8 @@
 		{
 			"group": "MegaTagmension Blanc + Neptune vs. Zombies",
 			"titles": [
-				{"searchTerm": "MegaTagmension Blanc + Neptune vs. Zombies"},
-				{"searchTerm": "MegaTagmension Blanc + Neptune VS Zombies"}
+				{"searchTerm": "MegaTagmension Blanc + Neptune VS Zombies"},
+				{"searchTerm": "MegaTagmension Blanc + Neptune vs. Zombies"}
 			]
 		},
 		{
@@ -974,9 +973,9 @@
 		{
 			"group": "Mr. Pumpkin's Adventure",
 			"titles": [
-				{"searchTerm": "Mr. Pumpkin's Adventure"},
 				{"searchTerm": "Mr. Pumpkin Adventure"},
-				{"searchTerm": "Mr. Pumpkin no Fushigi na Tabi"}
+				{"searchTerm": "Mr. Pumpkin no Fushigi na Tabi"},
+				{"searchTerm": "Mr. Pumpkin's Adventure"}
 			]
 		},
 		{
@@ -996,9 +995,9 @@
 		{
 			"group": "Mystery Chronicle - One Way Heroics",
 			"titles": [
+				{"searchTerm": "Fushigi no Chronicle - Furikaerimasen Katsu Madewa"},
 				{"searchTerm": "Mystery Chronicle - One Way Heroes"},
-				{"searchTerm": "Mystery Chronicle - One Way Heroics"},
-				{"searchTerm": "Fushigi no Chronicle - Furikaerimasen Katsu Madewa" }
+				{"searchTerm": "Mystery Chronicle - One Way Heroics"}
 			]
 		},
 		{
@@ -1077,22 +1076,22 @@
 		{
 			"group": "Nobunaga's Ambition - Souzou",
 			"titles": [
-				{"searchTerm": "Nobunaga's Ambition - Souzou"},
-				{"searchTerm": "Nobunaga no Yabou - Souzou"}
+				{"searchTerm": "Nobunaga no Yabou - Souzou"},
+				{"searchTerm": "Nobunaga's Ambition - Souzou"}
 			]
 		},
 		{
 			"group": "Nobunaga's Ambition - Souzou - Sengoku Risshiden",
 			"titles": [
-				{"searchTerm": "Nobunaga's Ambition - Souzou - Sengoku Risshiden"},
-				{"searchTerm": "Nobunaga no Yabou - Souzou Sengoku Risshiden"}
+				{"searchTerm": "Nobunaga no Yabou - Souzou Sengoku Risshiden"},
+				{"searchTerm": "Nobunaga's Ambition - Souzou - Sengoku Risshiden"}
 			]
 		},
 		{
 			"group": "Nobunaga's Ambition - Sphere of Influence",
 			"titles": [
-				{"searchTerm": "Nobunaga's Ambition - Sphere of Influence"},
-				{"searchTerm": "Nobunaga no Yabou - Souzou with Power-Up Kit"}
+				{"searchTerm": "Nobunaga no Yabou - Souzou with Power-Up Kit"},
+				{"searchTerm": "Nobunaga's Ambition - Sphere of Influence"}
 			]
 		},
 		{
@@ -1171,8 +1170,8 @@
 		{
 			"group": "Phineas and Ferb - Day of Doofenshmirtz",
 			"titles": [
-				{"searchTerm": "Phineas and Ferb - Day of Doofenshmirtz"},
-				{"searchTerm": "Phineas and Ferb - Day of Doofenshimirtz"}
+				{"searchTerm": "Phineas and Ferb - Day of Doofenshimirtz"},
+				{"searchTerm": "Phineas and Ferb - Day of Doofenshmirtz"}
 			]
 		},
 		{
@@ -1261,17 +1260,17 @@
 			]
 		},
 		{
-			"group": "Reel Fishing - Master's Challenge",
-			"titles": [
-				{"searchTerm": "Reel Fishing - Master's Challenge"},
-				{"searchTerm": "Reel Fishing - Wasureteita Yakusoku"}
-			]
-		},
-		{
 			"group": "Red Bow",
 			"titles": [
 				{"searchTerm": "Akai Ribbon - Kimyou na Yume"},
 				{"searchTerm": "Red Bow"}
+			]
+		},
+		{
+			"group": "Reel Fishing - Master's Challenge",
+			"titles": [
+				{"searchTerm": "Reel Fishing - Master's Challenge"},
+				{"searchTerm": "Reel Fishing - Wasureteita Yakusoku"}
 			]
 		},
 		{
@@ -1320,14 +1319,6 @@
 			]
 		},
 		{
-			"group": "Samurai Warriors Chronicles 3",
-			"titles": [
-				{"searchTerm": "Samurai Warriors - Chronicles 3"},
-				{"searchTerm": "Samurai Warriors Chronicles 3"},
-				{"searchTerm": "Sengoku Musou Chronicle 3"}
-			]
-		},
-		{
 			"group": "Samurai Warriors 4 Empires",
 			"titles": [
 				{"searchTerm": "Samurai Warriors 4 Empires"},
@@ -1339,6 +1330,14 @@
 			"titles": [
 				{"searchTerm": "Samurai Warriors 4-II"},
 				{"searchTerm": "Sengoku Musou 4-II"}
+			]
+		},
+		{
+			"group": "Samurai Warriors Chronicles 3",
+			"titles": [
+				{"searchTerm": "Samurai Warriors - Chronicles 3"},
+				{"searchTerm": "Samurai Warriors Chronicles 3"},
+				{"searchTerm": "Sengoku Musou Chronicle 3"}
 			]
 		},
 		{
@@ -1365,11 +1364,11 @@
 		{
 			"group": "Senran Kagura Bon Appetit!",
 			"titles": [
-				{"searchTerm": "Senran Kagura Bon Appetit!"},
 				{"searchTerm": "Dekamori Senran Kagura - Body Pack A - Hanzo & Guren"},
 				{"searchTerm": "Dekamori Senran Kagura - Body Pack B"},
 				{"searchTerm": "Dekamori Senran Kagura - Hontai Pack A - Hanzo & Guren"},
-				{"searchTerm": "Dekamori Senran Kagura - Hontai Pack B"}
+				{"searchTerm": "Dekamori Senran Kagura - Hontai Pack B"},
+				{"searchTerm": "Senran Kagura Bon Appetit!"}
 			]
 		},
 		{
@@ -1389,15 +1388,15 @@
 		{
 			"group": "Sid Meier's Civilization Revolution 2 Plus",
 			"titles": [
-				{"searchTerm": "Sid Meier's Civilization Revolution 2+"},
-				{"searchTerm": "Sid Meier's Civilization Revolution 2 Plus"}
+				{"searchTerm": "Sid Meier's Civilization Revolution 2 Plus"},
+				{"searchTerm": "Sid Meier's Civilization Revolution 2+"}
 			]
 		},
 		{
 			"group": "Skullgirls 2nd Encore",
 			"titles": [
-				{"searchTerm": "Skullgirls - 2nd Encore"},
-				{"searchTerm": "Skullgirls 2nd Encore"}
+				{"searchTerm": "Skullgirls 2nd Encore"},
+				{"searchTerm": "Skullgirls - 2nd Encore"}
 			]
 		},
 		{
@@ -1438,8 +1437,8 @@
 		{
 			"group": "Squareboy vs. Bullies - Arena Edition",
 			"titles": [
-				{"searchTerm": "Squareboy vs. Bullies - Arena Edition"},
-				{"searchTerm": "Squareboy vs Bullies - Arena Edition"}
+				{"searchTerm": "Squareboy vs Bullies - Arena Edition"},
+				{"searchTerm": "Squareboy vs. Bullies - Arena Edition"}
 			]
 		},
 		{
@@ -1504,9 +1503,9 @@
 		{
 			"group": "Superdimension Neptune vs. Sega Hard Girls",
 			"titles": [
-				{"searchTerm": "Superdimension Neptune vs. Sega Hard Girls"},
+				{"searchTerm": "Chou Jigen Taisen Neptune VS Sega Hard Girls - Yume no Gattai Special"},
 				{"searchTerm": "Superdimension Neptune VS Sega Hard Girls"},
-				{"searchTerm": "Chou Jigen Taisen Neptune VS Sega Hard Girls - Yume no Gattai Special"}
+				{"searchTerm": "Superdimension Neptune vs. Sega Hard Girls"}
 			]
 		},
 		{
@@ -1575,13 +1574,6 @@
 			]
 		},
 		{
-			"group": "Toukiden - The Age of Demons",
-			"titles": [
-				{"searchTerm": "Toukiden"},
-				{"searchTerm": "Toukiden - The Age of Demons"}
-			]
-		},
-		{
 			"group": "Toukiden 2 - Free Alliances Version",
 			"titles": [
 				{"searchTerm": "Toukiden 2 - Free Alliances Version"},
@@ -1589,12 +1581,18 @@
 			]
 		},
 		{
+			"group": "Toukiden - The Age of Demons",
+			"titles": [
+				{"searchTerm": "Toukiden"},
+				{"searchTerm": "Toukiden - The Age of Demons"}
+			]
+		},
+		{
 			"group": "Trillion - God of Destruction",
 			"titles": [
-				{"searchTerm": "Makaigami Trillion" },
+				{"searchTerm": "Makaigami Trillion"},
 				{"searchTerm": "Makaishin Trillion"},
 				{"searchTerm": "Trillion - God of Destruction"}
-
 			]
 		},
 		{

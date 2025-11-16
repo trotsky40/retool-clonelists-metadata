@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "RCA - Studio II (No-Intro)",
-		"lastUpdated": "26 December 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Demonstration Cartridge",

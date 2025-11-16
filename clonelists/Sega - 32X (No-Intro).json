@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Sega - 32X (No-Intro)",
-		"lastUpdated": "30 December 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Cosmic Carnage",
@@ -13,8 +12,15 @@
 					"searchTerm": "Cosmic Carnage",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"localNames": {"english": "Cosmic Carnage", "japanese": "Cyber Brawl"}}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Cosmic Carnage",
+									"japanese": "Cyber Brawl"
+								}
+							}
 						}
 					]
 				}
@@ -34,8 +40,14 @@
 					"searchTerm": "Knuckles' Chaotix",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"localNames": {"japanese": "カオティクス"}}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"japanese": "カオティクス"
+								}
+							}
 						}
 					]
 				}
@@ -49,8 +61,15 @@
 					"searchTerm": "Zaxxon's Motherbase",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"localNames": {"english": "Zaxxon's Motherbase 2000", "japanese": "ＰＡＲＡＳＱＵＡＤ"}}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Zaxxon's Motherbase 2000",
+									"japanese": "ＰＡＲＡＳＱＵＡＤ"
+								}
+							}
 						}
 					]
 				},
@@ -58,8 +77,15 @@
 					"searchTerm": "Zaxxon's Motherbase 2000",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"localNames": {"english": "Zaxxon's Motherbase 2000", "japanese": "ＰＡＲＡＳＱＵＡＤ"}}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Zaxxon's Motherbase 2000",
+									"japanese": "ＰＡＲＡＳＱＵＡＤ"
+								}
+							}
 						}
 					]
 				}

@@ -1,16 +1,15 @@
 {
 	"description": {
 		"name": "Sega - Game Gear (No-Intro)",
-		"lastUpdated": "10 February 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Ax Battler - A Legend of Golden Axe",
 			"titles": [
-				{"searchTerm": "Ax Battler - A Legend of Golden Axe", "priority": 2},
-				{"searchTerm": "Ax Battler - Golden Axe Densetsu"}
+				{"searchTerm": "Ax Battler - Golden Axe Densetsu"},
+				{"searchTerm": "Ax Battler - A Legend of Golden Axe", "priority": 2}
 			]
 		},
 		{
@@ -118,8 +117,15 @@
 					"searchTerm": "Fantasy Zone",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "Europe"]},
-							"results": {"localNames": {"english": "Fantasy Zone", "japanese": "ＦａｎｔａｓｙＺｏｎｅＧｅａｒオパオパＪｒ．の冒険"}}
+							"conditions": {
+								"matchRegions": ["Europe", "Japan"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Fantasy Zone",
+									"japanese": "ＦａｎｔａｓｙＺｏｎｅＧｅａｒオパオパＪｒ．の冒険"
+								}
+							}
 						}
 					]
 				}
@@ -135,8 +141,8 @@
 		{
 			"group": "Galaga 2",
 			"titles": [
-				{"searchTerm": "Galaga '91"},
-				{"searchTerm": "Galaga 2"}
+				{"searchTerm": "Galaga 2"},
+				{"searchTerm": "Galaga '91"}
 			]
 		},
 		{
@@ -177,8 +183,20 @@
 		{
 			"group": "Power Strike II",
 			"titles": [
-				{"searchTerm": "GG Aleste II", "localNames": {"english": "Power Strike II", "japanese": "ＧＧ　Ａｌｅｓｔｅ　Ⅱ"}},
-				{"searchTerm": "Power Strike II", "localNames": {"english": "Power Strike II", "japanese": "ＧＧ　Ａｌｅｓｔｅ　Ⅱ"}}
+				{
+					"searchTerm": "GG Aleste II",
+					"localNames": {
+						"english": "Power Strike II",
+						"japanese": "ＧＧ　Ａｌｅｓｔｅ　Ⅱ"
+					}
+				},
+				{
+					"searchTerm": "Power Strike II",
+					"localNames": {
+						"english": "Power Strike II",
+						"japanese": "ＧＧ　Ａｌｅｓｔｅ　Ⅱ"
+					}
+				}
 			]
 		},
 		{

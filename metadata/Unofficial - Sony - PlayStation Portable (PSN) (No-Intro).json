@@ -59,6 +59,12 @@
 	"20Q (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"100-Man Ton no Barabara (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"100-Man Ton no Barabara (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"100-Man Ton no Barabara (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
@@ -74,6 +80,9 @@
 	"300 - March to Glory (USA) (En,Fr,De,Es,It) (v1.01) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"428 - Fuusa Sareta Shibuya de (Japan)": {
+		"languages": ["nolang"]
+	},
 	"1000 Tiny Claws (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -85,6 +94,9 @@
 	},
 	"2010 FIFA World Cup - South Africa (Europe) (PSPgo Promo) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"2010 FIFA World Cup - South Africa (Germany)": {
+		"languages": ["nolang"]
 	},
 	"2010 FIFA World Cup - South Africa (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -100,6 +112,9 @@
 	},
 	"Ace Combat - Joint Assault (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Ace Combat X2 - Joint Assault (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Ace Combat X2 - Joint Assault (Japan) (En,Ja,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -152,22 +167,25 @@
 	"AKB1-149 Renai Sousenkyo (Japan) (Game Disc) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Aldynes - The Mission Code for Rage Crisis (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"Akiba's Trip Plus (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Aldynes - The Mission Code for Rage Crisis (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Alien Crush (Japan) (DLC)": {
+	"Aldynes - The Mission Code for Rage Crisis (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Alien Crush (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Alien Crush (USA) (DLC)": {
-		"languages": ["En"]
+	"Alien Crush (Japan) (PCE)": {
+		"languages": ["Ja"]
 	},
 	"Alien Crush (USA) (TGX) (PSN)": {
+		"languages": ["En"]
+	},
+	"Alien Crush (USA) (TGX)": {
 		"languages": ["En"]
 	},
 	"Alien Havoc (Europe) (minis) (PSN)": {
@@ -175,6 +193,9 @@
 	},
 	"Alien Havoc (Europe) (v2) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"Alien Havoc (USA) (minis) (Alt)": {
+		"languages": ["nolang"]
 	},
 	"Alien Havoc (USA) (minis) (PSN)": {
 		"languages": ["En"]
@@ -226,6 +247,9 @@
 	},
 	"Angus Hates Aliens (USA) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Ao no Exorcist - Genkoku no Labyrinth (Japan) (PSN)": {
 		"languages": ["Ja"]
@@ -347,6 +371,12 @@
 	"Armored Core - Silent Line Portable (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Army of Two - The 40th Day (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Army of Two - The 40th Day (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Army of Two - The 40th Day (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
@@ -370,6 +400,12 @@
 	},
 	"Assassin's Creed - Bloodlines (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Astonishia Story 2 (Asia)": {
+		"languages": ["nolang"]
+	},
+	"Astonishia Story (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Astro Boy - The Video Game (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -452,10 +488,10 @@
 	"Batman - Arkham Asylum - Road to Arkham (USA) (Promo) (Digital Comic) (PSN)": {
 		"languages": ["En"]
 	},
-	"Battle Ace (Japan) (DLC)": {
+	"Battle Ace (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Battle Ace (Japan) (PCE) (PSN)": {
+	"Battle Ace (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Battle Dodgeball 3 (Japan) (PSP) (PSN)": {
@@ -472,6 +508,9 @@
 	},
 	"Beach Buzzin' Chopper (Europe) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"Beam 'em Up (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
 	},
 	"Beam 'em Up (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -509,6 +548,9 @@
 	"Ben 10 - Alien Force (USA) (En,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Ben 10 - Alien Force - Vilgax Attacks (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Ben 10 - Alien Force - Vilgax Attacks (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
@@ -518,10 +560,10 @@
 	"Ben 10 - Ultimate Alien - Cosmic Destruction (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Benkei Gaiden (Japan) (DLC)": {
+	"Benkei Gaiden (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Benkei Gaiden (Japan) (PCE) (PSN)": {
+	"Benkei Gaiden (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Bermuda Triangle (Europe) (minis) (PSN)": {
@@ -542,6 +584,9 @@
 	"Beta Bloc (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Beyond the Future - Fix the Time Arrows (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Bigs 2, The (Europe) (PSN)": {
 		"languages": ["En"]
 	},
@@ -560,6 +605,9 @@
 	"Blade Dancer - Lineage of Light (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Blast Off (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
+	},
 	"Blast Off (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -572,16 +620,22 @@
 	"BlazBlue - Calamity Trigger Portable (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"BlazBlue - Continuum Shift Extend (Japan)": {
+		"languages": ["nolang"]
+	},
+	"BlazBlue - Continuum Shift II (Europe)": {
+		"languages": ["nolang"]
+	},
 	"BlazBlue - Continuum Shift II (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"BlazBlue - Continuum Shift II (USA) (En,Ja,Zh,Ko) (PSP) (PSN)": {
 		"languages": ["En", "Ja", "Ko", "Zh"]
 	},
-	"Blazing Lazers (Japan) (DLC)": {
+	"Blazing Lazers (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Blazing Lazers (Japan) (PCE) (PSN)": {
+	"Blazing Lazers (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Blazing Souls - Accelate (Europe) (PSP) (PSN)": {
@@ -629,31 +683,58 @@
 	"Bloons TD (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Boku no Natsuyasumi 4 - Seitouchi Shounen Tanteidan, Boku to Himitsu no Chizu (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Boku no Natsuyasumi Portable 2 - Nazo Nazo Shimai to Chinbotsusen no Himitsu! (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Boku wa Kimi Dake wo Mitsumeru (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Bomberman '94 (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"Boku wa Koukuu Kanseikan - Airport Hero Naha (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Boku wa Koukuu Kanseikan - Airport Hero Narita (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Boku wa Koukuu Kanseikan - Airport Hero Shinsensai (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Bokujou Monogatari - Harvest Moon - Boy & Girl (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Bomberman '94 (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Bomberman '94 (USA) (DLC)": {
-		"languages": ["En"]
+	"Bomberman '94 (Japan) (PCE)": {
+		"languages": ["Ja"]
 	},
 	"Bomberman '94 (USA) (TGX) (PSN)": {
+		"languages": ["En"]
+	},
+	"Bomberman '94 (USA) (TGX)": {
 		"languages": ["En"]
 	},
 	"Bomberman (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Bomberman - Panic Bomber (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Bomberman Land (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Bonk's Adventure (USA) (DLC)": {
-		"languages": ["En"]
+	"Bomberman Land Portable (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Bomberman Portable (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Bonk's Adventure (USA) (TGX) (PSN)": {
+		"languages": ["En"]
+	},
+	"Bonk's Adventure (USA) (TGX)": {
 		"languages": ["En"]
 	},
 	"Boom Beats (Europe) (minis) (PSN)": {
@@ -685,6 +766,9 @@
 	},
 	"Brain Challenge (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Brainpipe (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
 	},
 	"Brainpipe (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -740,8 +824,14 @@
 	"Brunswick Pro Bowling (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Bubble Trubble (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
+	},
 	"Bubble Trubble (Europe) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"Bubble Trubble (USA) (minis) (Alt)": {
+		"languages": ["nolang"]
 	},
 	"Bubble Trubble (USA) (minis) (PSN)": {
 		"languages": ["En"]
@@ -803,6 +893,12 @@
 	"Buzz! Deutschlands Superquiz (Germany) (v1.01) (PSP) (PSN)": {
 		"languages": ["De"]
 	},
+	"Buzz! Master Quiz (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Buzz! Master Quiz (USA)": {
+		"languages": ["nolang"]
+	},
 	"Buzz! Quiz World (Europe) (En,Pl) (PSP) (PSN)": {
 		"languages": ["En", "Pl"]
 	},
@@ -811,6 +907,9 @@
 	},
 	"Buzz! Quiz World (Europe) (Ru,Hr) (PSP) (PSN)": {
 		"languages": ["Hr", "Ru"]
+	},
+	"Buzz! Quiz World (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Buzz! Quiz World (Italy) (DLC)": {
 		"languages": ["It"]
@@ -887,6 +986,9 @@
 	"Card Shark (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Carnage Heart EXA (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Carnage Heart EXA (USA) (PSN)": {
 		"languages": ["En"]
 	},
@@ -919,6 +1021,9 @@
 	},
 	"Cars (Europe) (v1.01) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Castle Rustle (Europe) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Castle Rustle (Europe) (PSN)": {
 		"languages": ["En"]
@@ -959,10 +1064,10 @@
 	"Chessmaster - The Art of Learning (Europe) (PSN)": {
 		"languages": ["En"]
 	},
-	"Chiki Chiki Boys (Japan) (DLC)": {
+	"Chiki Chiki Boys (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Chiki Chiki Boys (Japan) (PCE) (PSN)": {
+	"Chiki Chiki Boys (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Cho Aniki (Japan) (DLC)": {
@@ -977,8 +1082,17 @@
 	"Chopper I (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Chuumon Shiyouze! Oretachi no Sekai (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Circles, Circles, Circles (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
+	},
 	"Circles, Circles, Circles (Europe) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"Circles, Circles, Circles (USA) (minis) (Alt)": {
+		"languages": ["nolang"]
 	},
 	"Circles, Circles, Circles (USA) (minis) (PSN)": {
 		"languages": ["En"]
@@ -989,8 +1103,17 @@
 	"Cladun - This is an RPG! (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Cladun x2 (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Cladun x2 (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Clank & Ratchet - Maru Hi Mission - Ignition (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Clank & Ratchet - Maruhi Mission Ignition (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Class of Heroes 2 (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -1001,8 +1124,17 @@
 	"Class of Heroes (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Classic Dungeon - Fuyoku no Masoujin (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Classic Dungeon - Fuyoku no Masoujin (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Classic Dungeon X2 (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Cloudy with a Chance of Meatballs (USA)": {
+		"languages": ["nolang"]
 	},
 	"Coconut Dodge (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -1031,6 +1163,12 @@
 	"Conception - Ore no Kodomo o Unde Kure! (Japan) (Demo) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Conception - Ore no Kodomo o Unde Kure!! (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Conception - Ore no Kodomo o Unde Kure!! - 2nd Trial (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Core Blaster (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -1043,17 +1181,29 @@
 	"Corpse Party (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Corpse Party - Blood Covered - Repeated Fear (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Corpse Party - Blood Covered - Repeated Fear (Japan) (DL Version) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Corpse Party - Book of Shadows (Europe) (PSN)": {
 		"languages": ["En"]
 	},
+	"Corpse Party - Book of Shadows (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Corpse Party - Book of Shadows (Japan) (DL Version) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Corpse Party - Book of Shadows (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"Corpse Party - The Anthology - Sachiko no Ren'ai Yuugi - Hysteric Birthday 2U (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Corpse Party - The Anthology - Sachiko no Ren'ai Yuugi - Hysteric Birthday 2U (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Cover Girl (World) (DLC)": {
 		"languages": ["En"]
@@ -1069,6 +1219,9 @@
 	},
 	"Crazy Taxi - Double Punch (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Crazy Taxi - Double Punch (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Crazy Taxi - Fare Wars (Europe) (PSN)": {
 		"languages": ["En"]
@@ -1100,14 +1253,29 @@
 	"Cryptics, The (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Crystal Defenders (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Crystal Defenders (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Crystal Defenders (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Crystal Defenders (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Crystal Defenders (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Crystal Defenders (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Crystal Defenders (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Crystal Mines (Europe) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Crystal Mines (Europe) (PSN)": {
 		"languages": ["En"]
@@ -1121,29 +1289,53 @@
 	"Cubixx (Europe) (En,Fr,De,Es,It) (minis) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Cubixx (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
+	},
 	"Cubixx (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
 	"Custom Drive (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"D-Cube Planet (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
+	},
 	"D-Cube Planet (Europe) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"D-Cube Planet (USA) (minis) (Alt)": {
+		"languages": ["nolang"]
 	},
 	"D-Cube Planet (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
-	"Dai Makai-Mura (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"Da Capo I Plus Situation Portable (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Da Capo II Plus Situation Portable (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Dai Makai-Mura (Japan) (PCE) (PSN)": {
+		"languages": ["Ja"]
+	},
+	"Dai Makai-Mura (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Dai-2-Ji Super Robot Taisen Z Saisei-hen (Japan) (PSP the Best)": {
+		"languages": ["nolang"]
+	},
 	"Dai-2-Ji Super Robot Taisen Z Saisei-hen (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Daisenryaku VII - Exceed (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Danball Senki Boost (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
@@ -1153,6 +1345,12 @@
 	},
 	"Danball Senki W (Japan) (v2.00) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Dangan-Ronpa - Kibou no Gakuen to Zetsubou no Koukousei (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Dangan-Ronpa - Kibou no Gakuen to Zetsubou no Koukousei (Japan) (PSP the Best)": {
+		"languages": ["nolang"]
 	},
 	"Dango Sanshimai (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
@@ -1175,6 +1373,9 @@
 	"Daxter (Europe) (PSN)": {
 		"languages": ["En"]
 	},
+	"Daxter (Europe) (PSP Go)": {
+		"languages": ["nolang"]
+	},
 	"Daxter (USA) (PSN)": {
 		"languages": ["En"]
 	},
@@ -1186,6 +1387,9 @@
 	},
 	"Dead Head Fred (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Dead or Alive - Paradise (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Dead or Alive - Paradise (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
@@ -1325,11 +1529,14 @@
 	"Detana!! TwinBee (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Devil Crash (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
 	"Devil Crash (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Devil Crash (Japan) (PCE)": {
+		"languages": ["Ja"]
+	},
+	"Dies Irae - Amantes Amentes (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Digi-Tiles (USA) (minis) (PSN)": {
 		"languages": ["En"]
@@ -1343,11 +1550,20 @@
 	"Digivice Ver Portable (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Disgaea 2 - Dark Hero Days (Asia)": {
+		"languages": ["nolang"]
+	},
 	"Disgaea 2 - Dark Hero Days (Europe) (DLC)": {
 		"languages": ["En"]
 	},
+	"Disgaea 2 - Dark Hero Days (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Disgaea 2 - Dark Hero Days (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"Disgaea - Afternoon of Darkness (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Disgaea - Afternoon of Darkness (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -1355,11 +1571,47 @@
 	"Disgaea Infinite (Asia) (En) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Disgaea Infinite (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Disgaea Infinite (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Disgaea Infinite (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Disgaea Infinite (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Disney-Pixar Cars 2 (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Cars 2 (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Cars 2 (USA)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Cars (Germany)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Cars (Italy)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Cars - Race-O-Rama (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Ratatouille (Germany)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Ratatouille (Italy)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Toy Story 3 (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Disney-Pixar Up (Italy)": {
+		"languages": ["nolang"]
 	},
 	"Dissidia 012 - Duodecim Final Fantasy (Europe) (PSN)": {
 		"languages": ["En"]
@@ -1460,8 +1712,17 @@
 	"Dissidia 012 Prologus - Final Fantasy (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Dissidia - Final Fantasy (Europe) (Demo 2)": {
+		"languages": ["nolang"]
+	},
+	"Dissidia - Final Fantasy (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Dissidia - Final Fantasy (Europe) (PSN)": {
 		"languages": ["En"]
+	},
+	"Dissidia - Final Fantasy (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Dissidia - Final Fantasy (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -1469,8 +1730,17 @@
 	"Dissidia - Final Fantasy - Universal Tuning (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"DJ Max Fever (Europe)": {
+		"languages": ["nolang"]
+	},
 	"DJ Max Fever (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"DJ Max Portable 3 (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"DJ Max Portable 3 (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"DJ Max Portable 3 (USA) (PSN)": {
 		"languages": ["En"]
@@ -1496,10 +1766,10 @@
 	"Dot Defense (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Double Dungeons (Japan) (DLC)": {
+	"Double Dungeons (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Double Dungeons (Japan) (PCE) (PSN)": {
+	"Double Dungeons (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Double Smash (Japan) (minis) (PSN)": {
@@ -1517,17 +1787,32 @@
 	"Dr. Mini Games (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Dracula - Undead Awakening (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
+	},
 	"Dracula - Undead Awakening (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
 	"Dracula - Undead Awakening (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Dragon Ball Tag VS (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Dragon Ball Z - Tenkaichi Tag Team (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Dragon Ball Z - Tenkaichi Tag Team (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Dragon's Lair (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"Dragon's Lair (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Dragoneer's Aria (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Dragoneer's Aria (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -1556,38 +1841,65 @@
 	"Ducati Challenge (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
-	"Dungeon Explorer (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"Dunamis15 (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Dungeon Explorer (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Dungeon Explorer (USA) (DLC)": {
-		"languages": ["En"]
+	"Dungeon Explorer (Japan) (PCE)": {
+		"languages": ["Ja"]
 	},
 	"Dungeon Explorer (USA) (TGX) (PSN)": {
+		"languages": ["En"]
+	},
+	"Dungeon Explorer (USA) (TGX)": {
 		"languages": ["En"]
 	},
 	"Dungeon Explorer - Warriors of Ancient Arts (USA) (PSN)": {
 		"languages": ["En"]
 	},
-	"Dungeon Explorer II (Japan) (DLC)": {
+	"Dungeon Explorer II (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Dungeon Explorer II (Japan) (PCE) (PSN)": {
+	"Dungeon Explorer II (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Dungeon Maker - Hunting Ground (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Dungeon Travelers 2 - Ouritsu Toshokan to Mamono no Fuuin (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Dungeon Travelers 2 - Ouritsu Toshokan to Mamono no Fuuin (Japan) (v1.01) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Dynasty Warriors (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Dynasty Warriors (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Dynasty Warriors - Strikeforce (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Dynasty Warriors - Strikeforce (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Dynasty Warriors - Strikeforce (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Dynasty Warriors - Strikeforce (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Dynasty Warriors Vol. 2 (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Dynasty Warriors Vol. 2 (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"Dynogems (Europe) (En,Fr,De,Es,It) (minis) (Alt)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Dynogems (Europe) (En,Fr,De,Es,It) (minis) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1598,6 +1910,9 @@
 	"EA Replay (Europe) (En,De,Es,It,Nl) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "It", "Nl"]
 	},
+	"Earth Defense Forces 2 Portable (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Earth Saver Plus - Inseki Bakuha Daisakusen (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
@@ -1607,20 +1922,26 @@
 	"Echochrome (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Echochrome (Japan) (Demo) (PSN)": {
+		"languages": ["Ja"]
+	},
+	"Echochrome (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Echochrome (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"Echochrome - Expansion Pack (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Echochrome Micro (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Echochrome Micro (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"Echochrome Micro (Europe) (v1.00) (PSP) (PSN)": {
 		"languages": ["En"]
-	},
-	"Echocrome (Japan) (Demo) (PSN)": {
-		"languages": ["Ja"]
 	},
 	"Echoes (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -1634,8 +1955,17 @@
 	"Echoes (USA) (v2) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Echoshift (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Echoshift (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Echoshift (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Ru"]
+	},
+	"Echoshift (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Echoshift (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -1649,6 +1979,15 @@
 	"Edge (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Eiyuu Densetsu - Ao no Kiseki (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Eiyuu Densetsu - Ao no Kiseki (Japan) (PSP the Best)": {
+		"languages": ["nolang"]
+	},
+	"Eiyuu Densetsu - Sora no Kiseki FC (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Eiyuu Densetsu - Sora no Kiseki FC (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
@@ -1660,6 +1999,12 @@
 	},
 	"Eiyuu Densetsu - Sora no Kiseki the 3rd (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Eiyuu Densetsu - Zero no Kiseki (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Eiyuu Densetsu - Zero no Kiseki (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Elementalmonster TD Portable (Europe) (En,Fr,De,Es,It) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1691,6 +2036,9 @@
 	"Enigmo (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Enkaku Sousa - Sana e no 23 Hiai (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Epyx's Impossible Mission (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -1721,8 +2069,20 @@
 	"Everybody's Golf 2 (Europe) (PSN)": {
 		"languages": ["En"]
 	},
+	"Everybody's Golf 2 - Beginner (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Everybody's Golf 2 - Intermediate (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Everybody's Golf (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Everybody's Stress Buster (Asia) (Demo) (NPHG00062)": {
+		"languages": ["nolang"]
+	},
+	"Everybody's Stress Buster (Asia) (Demo) (NPHG00063)": {
+		"languages": ["nolang"]
 	},
 	"Everybody's Stress Buster (Asia) (Ja) (PSP) (PSN)": {
 		"languages": ["Ja"]
@@ -1738,6 +2098,9 @@
 	},
 	"Everybody's Stress Buster - Yellow (Europe) (PSN)": {
 		"languages": ["En"]
+	},
+	"Everybody's Tennis (Europe) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Everybody's Tennis (Europe) (PSN)": {
 		"languages": ["En"]
@@ -1763,13 +2126,25 @@
 	"Express Raider (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Eye of Judgment, The - Legends (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Eye of Judgment, The - Legends (Europe) (Alt)": {
+		"languages": ["nolang"]
+	},
+	"Eye of Judgment, The - Legends (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Eye of Judgment, The - Legends (Europe) (DLC)": {
+		"languages": ["En"]
+	},
 	"Eye of Judgment, The - Legends (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Eye of Judgment, The - Legends (USA) (PSP) (PSN)": {
-		"languages": ["En"]
+	"Eye of Judgment, The - Legends (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
-	"Eye of Judgment, The - Legends (World) (DLC)": {
+	"Eye of Judgment, The - Legends (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"Eye of Judgment, The - Legends Master Pack (Europe) (DLC)": {
@@ -1781,8 +2156,8 @@
 	"Eye of Judgment, The - Legends Saviour Pack (Europe) (DLC)": {
 		"languages": ["En"]
 	},
-	"Eye of Judgment, The - Shintaku no Wizard (Japan) (Demo) (PSP) (PSN)": {
-		"languages": ["Ja"]
+	"F1 2009 (Europe)": {
+		"languages": ["nolang"]
 	},
 	"F1 2009 (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -1799,6 +2174,12 @@
 	"Fading Shadows (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Fairy Tail - Portable Guild 2 (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Fairy Tail - Portable Guild (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Family Games (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -1807,6 +2188,9 @@
 	},
 	"Fantasy Golf Pangya Portable (Asia) (Ko) (PSN)": {
 		"languages": ["Ko"]
+	},
+	"Fantasy Golf Pangya Portable (Korea) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Farm Frenzy 2 (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -1847,6 +2231,9 @@
 	"Fatal Fury - King of Fighters (USA) (NG) (PSN)": {
 		"languages": ["En"]
 	},
+	"Fate-Extra (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Fate-Extra (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
@@ -1871,8 +2258,14 @@
 	"Field Commander (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Fieldrunners (Europe) (minis) (Alt)": {
+		"languages": ["nolang"]
+	},
 	"Fieldrunners (Europe) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"Fieldrunners (USA) (minis) (Alt)": {
+		"languages": ["nolang"]
 	},
 	"Fieldrunners (USA) (minis) (PSN)": {
 		"languages": ["En"]
@@ -1880,7 +2273,7 @@
 	"FIFA 09 (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"FIFA 10 (Russia) (PSP) (PSN)": {
+	"FIFA 10 (Russia) (En) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"FIFA 14 (USA) (En,Es) (PSP) (PSN)": {
@@ -1891,6 +2284,9 @@
 	},
 	"FIFA Soccer 12 (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"FIFA Soccer 13 (USA) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"Fight Night Round 3 (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -1909,6 +2305,9 @@
 	},
 	"Fighting Fantasy - The Warlock of Firetop Mountain (USA) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"Final Fantasy (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Final Fantasy - 20th Anniversary Edition (Europe) (PSN)": {
 		"languages": ["En"]
@@ -1937,11 +2336,17 @@
 	"Final Fantasy IX (Germany) (PSP) (PSN)": {
 		"languages": ["De"]
 	},
+	"Final Fantasy Reishiki (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Final Fantasy Reishiki (Japan) (Disc 1) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Final Fantasy Reishiki (Japan) (Disc 2) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Final Fantasy Reishiki Taikenban - Zeroshiki (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Final Fantasy Tactics - The War of the Lions (Europe) (PSN)": {
 		"languages": ["En"]
@@ -2003,6 +2408,9 @@
 	"Fired Up - Multiplayer Pack - Steinbruchkoenig (Europe) (DLC)": {
 		"languages": ["En"]
 	},
+	"Fish Eyes Portable (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Fish Tank (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -2012,8 +2420,17 @@
 	"Flash Motor Karen (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"FlatOut - Head On (Europe) (Demo) (Alt)": {
+		"languages": ["nolang"]
+	},
+	"FlatOut - Head On (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"FlatOut - Head On (Europe) (En,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"FlatOut - Head On (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Flick Fishing (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -2048,8 +2465,14 @@
 	"Flying Hamster (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Football Manager Handheld 2010 (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Football Manager Handheld 2010 (USA) (En,Fr,Es,It) (PSP) (PSN)": {
 		"languages": ["En", "Es", "Fr", "It"]
+	},
+	"Football Manager Handheld 2013 (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Forest Puzzle (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -2090,6 +2513,12 @@
 	"Freekscape - Escape From Hell (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Frontier Gate (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Frontier Gate Boost+ (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Full Auto 2 - Battlelines (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
@@ -2105,6 +2534,12 @@
 	"Funky Punch (USA) (v2) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Fushigi no Dungeon - Fuurai no Shiren 3 Portable (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Fushigi no Dungeon - Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Fushigi no Kuni no Bouken Sakaba Portable (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
@@ -2117,10 +2552,19 @@
 	"G.I. Joe - The Rise of Cobra (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Galaga '88 (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"GA - Geijutsuka Art Design Class - Slapstick Wonder Land (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"GachiTora! Abarenbou Kyoushi in High School (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"GachiTora! Abarenbou Kyoushi in High School (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Galaga '88 (Japan) (PCE) (PSN)": {
+		"languages": ["Ja"]
+	},
+	"Galaga '88 (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Galcon Labs (Europe) (minis) (PSN)": {
@@ -2144,17 +2588,23 @@
 	"Gangs of London (USA) (v1.01) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Garou Densetsu (Japan) (NG) (PSN)": {
-		"languages": ["Ja"]
+	"Garnet Chronicle (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
-	"Gate of Thunder (Japan) (DLC)": {
+	"Garou Densetsu (Japan) (NG) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Gate of Thunder (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Gate of Thunder (Japan) (PCE)": {
+		"languages": ["Ja"]
+	},
 	"Generation of Chaos (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Generation of Chaos - Pandora's Reflection (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Generation of Chaos - Pandora's Reflection (USA) (PSN)": {
 		"languages": ["En"]
@@ -2174,8 +2624,23 @@
 	"Geronimo Stilton - Return to the Kingdom of Fantasy (Europe) (En,Fr,De,Es,It,Nl,Pt) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
 	},
+	"Geronimo Stilton - Return to the Kingdom of Fantasy (USA)": {
+		"languages": ["nolang"]
+	},
+	"Geronimo Stilton in the Kingdom of Fantasy (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Geronimo Stilton in the Kingdom of Fantasy (USA)": {
+		"languages": ["nolang"]
+	},
 	"Ghostbusters - The Video Game (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Ginsei Shougi Portable (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Ginsei Shougi Portable - Fuuun Ryuuko Raiden (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Ginsei Tsume Shogi Portable (Japan) (PSN)": {
 		"languages": ["Ja"]
@@ -2183,8 +2648,17 @@
 	"Gitaroo Man Lives! (Japan) (v1.03) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Gladiator Begins (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Gladiator Begins (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Gladiator Begins (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Gladiator Begins (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Gladiator Begins (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -2204,8 +2678,17 @@
 	"God Eater 2 (Japan) (v1.01) (Joban Marugoto Taikenban) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"God Eater Burst (Japan) (Demo) (PSN)": {
+	"God Eater 2 - Prelude (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"God Eater (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"God Eater Burst (Japan) (Demo) (PSN) [b]": {
 		"languages": ["Ja"]
+	},
+	"God Eater Burst (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"God Eater Burst (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
@@ -2213,14 +2696,29 @@
 	"God of War - Chains of Olympus (Asia) (En,Zh) (PSN)": {
 		"languages": ["En", "Zh"]
 	},
+	"God of War - Chains of Olympus (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"God of War - Chains of Olympus (Europe) (En,Fr,De,Es,It) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"God of War - Chains of Olympus (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"God of War - Chains of Olympus - Battle of Attica (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"God of War - Ghost of Sparta (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"God of War - Ghost of Sparta (Asia) (En,Zh) (PSP) (PSN)": {
 		"languages": ["En", "Zh"]
+	},
+	"God of War - Ghost of Sparta (Europe) (Demo) (NPEG90032)": {
+		"languages": ["nolang"]
+	},
+	"God of War - Ghost of Sparta (Europe) (Demo) (NPEG90035)": {
+		"languages": ["nolang"]
 	},
 	"God of War - Ghost of Sparta (Europe) (DLC)": {
 		"languages": ["En"]
@@ -2231,8 +2729,20 @@
 	"God of War - Ghost of Sparta (Europe) (En,Pl,Ru) (PSN)": {
 		"languages": ["En", "Pl", "Ru"]
 	},
+	"God of War - Ghost of Sparta (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"God of War - Ghost of Sparta (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"God of War - Koutan no Kokuin (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"God of War - Koutan no Kokuin (Japan)": {
+		"languages": ["nolang"]
+	},
+	"God of War - Rakujitsu no Hisoukyoku (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"God of War - Rakujitsu no Hisoukyoku (Japan) (PSN)": {
 		"languages": ["Ja"]
@@ -2242,6 +2752,9 @@
 	},
 	"Gods Eater Burst (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"Goku Makai-Mura Kai (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Gold Fever (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -2264,19 +2777,19 @@
 	"Gottlieb Pinball Classics (Europe) (En,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Gradius (Japan) (DLC)": {
+	"Gradius (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Gradius (Japan) (PCE) (PSN)": {
+	"Gradius (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Gradius Collection (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Gradius II - Gofer no Yabou (Japan) (DLC)": {
+	"Gradius II - Gofer no Yabou (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Gradius II - Gofer no Yabou (Japan) (PCE) (PSN)": {
+	"Gradius II - Gofer no Yabou (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Gran Turismo (Asia) (Ja) (PSP) (PSN)": {
@@ -2297,14 +2810,23 @@
 	"Gran Turismo (World) (DLC)": {
 		"languages": ["En"]
 	},
+	"Grand Knights History (Japan) (PSP the Best)": {
+		"languages": ["nolang"]
+	},
 	"Grand Theft Auto - Chinatown Wars (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Grand Theft Auto - Chinatown Wars (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Grand Theft Auto - Chinatown Wars (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"Grand Theft Auto - Liberty City Stories (Europe) (PSN)": {
 		"languages": ["En"]
+	},
+	"Grand Theft Auto - Liberty City Stories (Europe) (v4.00)": {
+		"languages": ["nolang"]
 	},
 	"Grand Theft Auto - Liberty City Stories (Germany) (PSP) (PSN)": {
 		"languages": ["De"]
@@ -2420,6 +2942,9 @@
 	"Growlanser - Wayfarer of Time (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Growlanser IV - Overloaded (Japan)": {
+		"languages": ["nolang"]
+	},
 	"GTI Club - Supermini Festa! (Europe) (En,Fr,De,Es,It,Nl) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -2450,17 +2975,35 @@
 	"GUN Showdown (USA) (v1.01) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Gundam Battle Universe (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Gungnir (Europe) (PSN)": {
 		"languages": ["En"]
 	},
 	"Gungnir (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Gungnir - Masou no Gunshin to Eiyuu Sensou (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Gurumin (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Gurumin - A Monstrous Adventure (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Hack-Link (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hakuisei Ren'ai Shoukougun (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hakuisei Ren'ai Shoukougun RE-Therapy (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hakuisei Ren'ai Shoukougun RE-Therapy (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Hakuoki - Demon of the Fleeting Blossom (USA) (PSN)": {
 		"languages": ["En"]
@@ -2480,11 +3023,23 @@
 	"Half-Minute Hero (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Half-Minute Hero - Evil Lord 30 (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Half-Minute Hero - Hero 30 (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Half-Minute Hero - Hero 30 (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Hammerin' Hero (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"Hamster Channel (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Hanasaku Manimani (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Hannah Montana - Rock Out the Show (Europe) (En,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -2504,6 +3059,12 @@
 	"Harvest Moon - Sugar Village and Everyone's Wish (Korea) (PSP) (PSN)": {
 		"languages": ["Ko"]
 	},
+	"Harvey Birdman - Attorney at Law (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hatsune Miku - Project Diva 2nd (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Hatsune Miku - Project Diva 2nd (Japan) (En) (DLC)": {
 		"languages": ["En"]
 	},
@@ -2512,6 +3073,9 @@
 	},
 	"Hatsune Miku - Project Diva 2nd (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Hatsune Miku - Project Diva 2nd - Dreamy Theater - Export App (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Hatsune Miku - Project Diva 2nd - Kasane Teto (Japan) (En) (DLC)": {
 		"languages": ["En"]
@@ -2522,14 +3086,38 @@
 	"Hatsune Miku - Project Diva - Dreamy Theater (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Hatsune Miku - Project Diva - Dreamy Theater Extend - Setsuzoku Appli (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Hatsune Miku - Project Diva - Tsuika Gakkyokushuu Deluxe Pack 1 - Miku Uta, Okawari (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Hatsune Miku - Project Diva - Tsuika Gakkyokushuu Deluxe Pack 2 (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Hatsune Miku - Project Diva Extend (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Hatsune Miku - Project Diva Extend (Japan) (v1.01) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Hatsune Miku - Project Diva Extend - TGS Taikenban (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hayarigami 2 Portable - Keishichou Kaii Jiken File (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hayarigami 2 Portable - Keishichou Kaii Jiken File (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Hayarigami 3 - Keishichou Kaii Jiken File (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hayarigami Portable - Keishichou Kaii Jiken File (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hayarigami Portable - Keishichou Kaii Jiken File (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Hello Flowerz (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -2561,6 +3149,9 @@
 	"Hexyz Force (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Higurashi Daybreak Portable (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Hiiro no Kakera Portable (Japan) (v1.02) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
@@ -2588,11 +3179,26 @@
 	"Hiyoko Kantei (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Hoard (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Hoard (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Hoard (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Hoard (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Holy Invasion of Privacy, Badman! 2 - Time to Tighten Up Security - Sneak Peek (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Holy Invasion of Privacy, Badman! - What Did I Do to Deserve This - 1st Look (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Holy Invasion of Privacy, Badman! - What Did I Do to Deserve This - 1st Look (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Holy Invasion of Privacy, Badman! What Did I Do to Deserve This (USA) (PSN)": {
 		"languages": ["En"]
@@ -2603,6 +3209,12 @@
 	"Homerun Hitters (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Honki de Manabu LEC de Goukakuru - Hishou Boki 3-Kyuu Portable (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Honki de Manabu LEC de Goukakuru - Takuchi Tatemono Torihiki Shuninsha Portable (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Hot Brain (USA) (En,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -2611,6 +3223,12 @@
 	},
 	"Hot Shots Golf - Open Tee 2 (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Hot Shots Golf - Open Tee 2 - Beginner (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Hot Shots Golf - Open Tee 2 - Intermediate (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Hot Shots Golf - Open Tee (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -2626,6 +3244,9 @@
 	},
 	"Hot Shots Shorties - Yellow (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Hot Shots Tennis - Get a Grip (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Hot Shots Tennis - Get a Grip (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -2675,11 +3296,23 @@
 	"Idiot Squad (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Idolmaster SP, The - Missing Moon (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Idolmaster SP, The - Perfect Sun (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Idolmaster SP, The - Wandering Star (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Idolmaster, The - Shiny Festa - Funky Note (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Idolmaster, The - Shiny Festa - Groovy Tune (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Idolmaster, The - Shiny Festa - Honey Sound (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Ikari III - The Rescue (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -2708,6 +3341,9 @@
 	"IL-2 Sturmovik - Birds of Prey (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Imagine - Champion Rider (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Impossible Game, The (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -2719,6 +3355,15 @@
 	},
 	"Indiana Jones and the Staff of Kings (Europe) (PSN)": {
 		"languages": ["En"]
+	},
+	"Indiana Jones and the Staff of Kings (USA)": {
+		"languages": ["nolang"]
+	},
+	"Infinite Loop - Kojjou ga Miseta Yume (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Infinite Loop - Possession (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Influence (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
@@ -2732,6 +3377,9 @@
 	"Innocent Life - A Futuristic Harvest Moon (USA) (En,Fr,De,Es,It) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Innocent Life - Shin Bokujou Monogatari (Japan) (Best Collection)": {
+		"languages": ["nolang"]
+	},
 	"International Athletics (Europe) (PSN)": {
 		"languages": ["En"]
 	},
@@ -2741,6 +3389,9 @@
 	"inviZimals (Europe) (v2) (PSN)": {
 		"languages": ["En"]
 	},
+	"Invizimals (USA)": {
+		"languages": ["nolang"]
+	},
 	"inviZimals - Collectible Card Game - Hidden Challenges (Europe) (En,Fr,De,It,Pt) (PSN)": {
 		"languages": ["De", "En", "Fr", "It", "Pt"]
 	},
@@ -2749,6 +3400,9 @@
 	},
 	"inviZimals - Shadow Zone (Europe) (v2) (PSN)": {
 		"languages": ["En"]
+	},
+	"Invizimals - Shadow Zone (USA)": {
+		"languages": ["nolang"]
 	},
 	"inviZimals - The Lost Tribes (Europe) (v2) (PSN)": {
 		"languages": ["En"]
@@ -2777,8 +3431,32 @@
 	"Itsumono Shougi (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"J.League Pro Soccer Club o Tsukurou! 6 - Pride of J (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"J.League Pro Soccer Club o Tsukurou! 7 Euro Plus (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Jak and Daxter - Elf to Itachi no Daibouken (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Jak and Daxter - The Lost Frontier (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Jak and Daxter - The Lost Frontier (Europe) (Alt)": {
+		"languages": ["nolang"]
+	},
+	"Jak and Daxter - The Lost Frontier (Europe) (Demo 2)": {
+		"languages": ["nolang"]
+	},
+	"Jak and Daxter - The Lost Frontier (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Jak and Daxter - The Lost Frontier (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (PSP) (PSN)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Sv"]
+	},
+	"Jak and Daxter - The Lost Frontier (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Jak and Daxter - The Lost Frontier (USA) (PSN)": {
 		"languages": ["En"]
@@ -2837,11 +3515,20 @@
 	"Jewel Keepers - Easter Island (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Jigen Kairou (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Jigoku 1000 bon no Knock (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Jikan de Fantasia (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Jikandia - The Timeless Land (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Jikandia - The Timeless Land (USA)": {
+		"languages": ["nolang"]
 	},
 	"Judie no Atelier - Gramnad no Renkinjutsushi - Toraware no Moribito (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
@@ -2855,8 +3542,17 @@
 	"Jungle Party (Europe) (PSN)": {
 		"languages": ["En"]
 	},
+	"Just English (Korea)": {
+		"languages": ["nolang"]
+	},
 	"Justice League Heroes (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Juusei to Diamond (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Juusei to Diamond (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Kahoots (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -2867,19 +3563,19 @@
 	"Kahoots (USA) (v2) (minis) (PSN)": {
 		"languages": ["En"]
 	},
-	"Kaizou Chounin Shubibinman 2 - Aratanaru Teki (Japan) (DLC)": {
+	"Kaizou Choujin Shubibinman 2 - Atanaru Teki (Japan) (PCE)": {
+		"languages": ["Ja"]
+	},
+	"Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan) (PCE)": {
+		"languages": ["Ja"]
+	},
+	"Kaizou Choujin Shubibinman (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Kaizou Chounin Shubibinman 2 - Aratanaru Teki (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Kaizou Chounin Shubibinman 3 - Ikai no Princess (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
 	"Kaizou Chounin Shubibinman 3 - Ikai no Princess (Japan) (PCE) (PSN)": {
-		"languages": ["Ja"]
-	},
-	"Kaizou Chounin Shubibinman (Japan) (DLC)": {
 		"languages": ["Ja"]
 	},
 	"Kaizou Chounin Shubibinman (Japan) (PCE) (PSN)": {
@@ -2918,17 +3614,68 @@
 	"Katekyoo Hitman Reborn! Battle Arena (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Katekyoo Hitman Reborn! Kizuna no Tag Battle (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Ken to Mahou to Gakuen Mono. 2 (Japan) (PSP the Best)": {
+		"languages": ["nolang"]
+	},
+	"Ken to Mahou to Gakuen Mono. 3 (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Ken to Mahou to Gakuen Mono. (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Ken to Mahou to Gakuen Mono. Final - Shinnyuusei wa Ohimesama! (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Kenka Bancho - Badass Rumble (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Kenka Banchou 3 - Zenkoku Seiha (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Kenka Banchou 3 - Zenkoku Seiha (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Kenka Banchou 3 - Zenkoku Seiha (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Kenka Banchou 4 - Ichinen Sensou (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Kenka Banchou 5 - Otoko no Housoku (Japan) (PSP the Best)": {
+		"languages": ["nolang"]
+	},
+	"Kenka Banchou Bros. Tokyo Battle Royale (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Kenka Banchou Bros. Tokyo Battle Royale (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Kenka Banchou Portable (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Kentoushi - Gladiator Begins (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Key of Heaven (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Kidou Senshi Gundam - Gihren no Yabou - Axis no Kyoui V (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Kidou Senshi Gundam - Shin Gihren no Yabou (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Kidou Senshi Gundam AGE - Cosmic Drive (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Kidou Senshi Gundam AGE - Universe Accel (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. Portable (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Killzone - Liberation (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -2990,6 +3737,12 @@
 	"Kinoko or Die 2 (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Kisou Ryouhei Gunhound EX (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Kisou Ryouhei Gunhound EX (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Knight Fortix 2 (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -3023,6 +3776,21 @@
 	"Kunoichi Densetsu (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Kurohyou 2 - Ryuu ga Gotoku Ashura Hen (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Kurohyou 2 - Ryuu ga Gotoku Ashura-en (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Kurohyou - Ryuu ga Gotoku Shinshou (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Kurohyou - Ryuu ga Gotoku Shinshou (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Kurohyou - Ryuu ga Gotoku Shinshou (Japan) (PSP the Best)": {
+		"languages": ["nolang"]
+	},
 	"Kuroko no Basuke - Kiseke no Shiai (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
@@ -3050,16 +3818,16 @@
 	"Labyrinth (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
-	"LairLand Story (Asia) (Zh-Hant) (PSN)": {
+	"LairLand Story (Asia) (PSN)": {
 		"languages": ["Zh-Hant"]
 	},
 	"LairLand Story - Shoujo no Yakujou (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Langrisser - Hikari no Matsuei (Japan) (DLC)": {
+	"Langrisser - Hikari no Matsuei (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Langrisser - Hikari no Matsuei (Japan) (PCE) (PSN)": {
+	"Langrisser - Hikari no Matsuei (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Last Ranker (Japan) (PSN)": {
@@ -3083,17 +3851,29 @@
 	"Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Legend of Heroes, The - Trails in the Sky (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Legend of Heroes, The - Trails in the Sky (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"Legend of Kunoichi (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Legends of War - Patton's Campaign (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Legends of War - Patton's Campaign (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Legends of War - Patton's Campaign (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"LEGO Batman - The Video Game (Europe) (En,Fr,De,Es,It,Da) (PSP) (PSN)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
+	},
+	"LEGO Batman - The Video Game (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"LEGO Batman - The Video Game (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3110,8 +3890,14 @@
 	"LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da) (PSP) (PSN)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
 	},
+	"LEGO Indiana Jones - The Original Adventures (USA)": {
+		"languages": ["nolang"]
+	},
 	"LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (PSP) (PSN)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
+	},
+	"LEGO Pirates of the Caribbean - The Video Game (USA)": {
+		"languages": ["nolang"]
 	},
 	"LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da) (PSP) (PSN)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
@@ -3140,8 +3926,14 @@
 	"Let's Golf (USA) (v2) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"LittleBigPlanet (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"LittleBigPlanet (Asia) (En,Zh,Ko) (PSP) (PSN)": {
 		"languages": ["En", "Ko", "Zh"]
+	},
+	"LittleBigPlanet (Europe) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"LittleBigPlanet (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3149,13 +3941,16 @@
 	"LittleBigPlanet (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"LittleBigPlanet (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"LittleBigPlanet (USA) (PSN)": {
 		"languages": ["En"]
 	},
 	"LittleBigPlanet - Easter Level Pack (Europe) (DLC)": {
 		"languages": ["En"]
 	},
-	"LittleBigPlanet - Free Content (World) (20110506) (DLC)": {
+	"LittleBigPlanet - Free Content (World) (DLC)": {
 		"languages": ["En"]
 	},
 	"LittleBigPlanet - Fruit Salad Level Kit (Europe) (DLC)": {
@@ -3230,6 +4025,12 @@
 	"LittleBigPlanet - Yuletide Sack Level Kit (Europe) (DLC)": {
 		"languages": ["En"]
 	},
+	"Littlewitch Parfait - Kuroneko Mahouten Monogatari (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Littlewitch Parfait - Kuroneko Mahouten Monogatari (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Lock 'n' Chase (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -3241,6 +4042,9 @@
 	},
 	"LocoRoco 2 (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"LocoRoco 2 (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"LocoRoco 2 (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3296,8 +4100,26 @@
 	"LocoRoco - Midnight Carnival - Official Strategy Guide (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Lord of Apocalypse (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Lord of Arcana (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Lord of Arcana (Europe)": {
+		"languages": ["nolang"]
+	},
+	"Lord of Arcana (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Lord of Arcana (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Lord of Arcana (USA) (En,Fr) (PSP) (PSN)": {
 		"languages": ["En", "Fr"]
+	},
+	"Lord of Arcana - Josho - Slayer e no Tobira (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Lord of Arcana - Pack 5 (World) (DLC)": {
 		"languages": ["En"]
@@ -3308,6 +4130,9 @@
 	"Lord of the Rings, The - Tactics (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Love at Once (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Love Cupid (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -3317,8 +4142,20 @@
 	"Love Once Mahjong (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Lunar - Harmony of Silver Star (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Lunar - Harmony of Silver Star (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Lunar - Silver Star Harmony (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Lunar - Silver Star Harmony (Europe) (PSN)": {
 		"languages": ["En"]
+	},
+	"Lunar - Silver Star Harmony (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Lunar - Silver Star Harmony (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3337,6 +4174,9 @@
 	},
 	"Macaron Reversi (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Machi - Unmei no Kousaten - Tokubetsu-hen (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Mad Blocker Alpha (USA) (minis) (PSN)": {
 		"languages": ["En"]
@@ -3364,6 +4204,9 @@
 	},
 	"Magician Lord (USA) (NG) (PSN)": {
 		"languages": ["En"]
+	},
+	"MagusTale Eternity - Sekaiju to Koi Suru Mahou Tsukai (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Mahjong Artifacts (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -3410,6 +4253,12 @@
 	"Maid Paradise Mezase! Maid Number One! (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Mainichi Issho - 2008 (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Mainichi Issho - 2009 (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Major League Baseball 2K9 (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
@@ -3430,6 +4279,9 @@
 	},
 	"Makiwari 2 (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Mana Khemia - Student Alliance (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Mana Khemia - Student Alliance (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3479,8 +4331,14 @@
 	"Medal of Honor - Heroes 2 (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Medal of Honor - Heroes 2 (USA)": {
+		"languages": ["nolang"]
+	},
 	"Medal of Honor - Heroes (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Medal of Honor - Heroes (USA)": {
+		"languages": ["nolang"]
 	},
 	"MediEvil - Resurrection (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3496,6 +4354,36 @@
 	},
 	"Meitantei Conan - Kakokara no Prelude (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Memories Off 2nd (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off 5 - Encore (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off 5 - Togireta Film (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off 6 - Next Relation (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off 6 - T-Wave (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off - AfterRain (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off - Sorekara (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off - Sorekara Again (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off - Yubikiri no Kioku (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Memories Off - Yubikiri no Kioku (Japan)": {
+		"languages": ["nolang"]
 	},
 	"MENA Speed (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -3518,14 +4406,26 @@
 	"Meruru no Atelier Plus - Arland no Renkinjutsushi 3 - Official PlayView (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Metal Gear Solid - Digital Graphic Novel (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Metal Gear Solid - Digital Graphic Novel (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Metal Gear Solid - Peace Walker (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Metal Gear Solid - Peace Walker (Europe) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Metal Gear Solid - Peace Walker (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
 	"Metal Gear Solid - Peace Walker (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Metal Gear Solid - Peace Walker (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Metal Gear Solid - Peace Walker (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3632,11 +4532,29 @@
 	"Minna no Golfjou Ball Hiroi (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Minna no Sukkiri (Japan) (v1.01) (PS3 v1.70, PSP v5.51) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Minna no Sukkiri (Japan) (v1.01) (PSP v6.00) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Minna no Sukkiri (Japan) (v2.00) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Minna no Sukkiri (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Minna no Tennis Portable (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Minna no Tennis Portable (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Mirai Nikki - 13-ninme no Nikki Shoyuusha Re-Write (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Misshitsu no Sacrifice (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Misshitsu no Sacrifice - Jitka Aru Heisashisetsu Kara no Dasshutsu (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
@@ -3644,11 +4562,29 @@
 	"Misshitsu no Sacrifice - Miki High Tension Night (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Missing Parts - The Tantei Stories - Complete (Japan)": {
+		"languages": ["nolang"]
+	},
+	"MLB 08 - The Show (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"MLB 10 - The Show (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"MLB 11 - The Show (USA)": {
+		"languages": ["nolang"]
+	},
 	"ModNation Racers (Asia) (En) (PSN)": {
 		"languages": ["En"]
+	},
+	"ModNation Racers (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"ModNation Racers (Europe)": {
+		"languages": ["nolang"]
+	},
+	"ModNation Racers (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"ModNation Racers (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3680,8 +4616,14 @@
 	"Monster Hunter Freedom (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Monster Hunter Freedom Unite (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Monster Hunter Freedom Unite (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Monster Hunter Freedom Unite (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Monster Hunter Freedom Unite (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3689,8 +4631,14 @@
 	"Monster Hunter Portable 2nd G (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Monster Hunter Portable 3rd (Japan) (Demo) (PSN)": {
+	"Monster Hunter Portable 3rd (Asia)": {
+		"languages": ["nolang"]
+	},
+	"Monster Hunter Portable 3rd (Japan) (Demo) (PSN) [b]": {
 		"languages": ["Ja"]
+	},
+	"Monster Hunter Portable 3rd (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Monster Hunter Portable 3rd (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
@@ -3701,6 +4649,9 @@
 	"Monster Hunter Portable 3rd - Monster Data Chishikisho (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Monster Jam - Path of Destruction (USA)": {
+		"languages": ["nolang"]
+	},
 	"Monsters (Probably) Stole My Princess (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -3710,11 +4661,14 @@
 	"Mortal Kombat - Unchained (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Moto Roader II (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
 	"Moto Roader II (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Moto Roader II (Japan) (PCE)": {
+		"languages": ["Ja"]
+	},
+	"MotorStorm - Arctic Edge (Europe) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"MotorStorm - Arctic Edge (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3722,11 +4676,17 @@
 	"MotorStorm - Arctic Edge (Europe) (PSPgo Promo) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"MotorStorm - Arctic Edge (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"MotorStorm - Arctic Edge (USA) (En,Fr,De,Es,It,Nl,Pt,Ru) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Ru"]
 	},
 	"MotorStorm - Arctic Edge - Collector's Edition (Europe) (DLC)": {
 		"languages": ["En"]
+	},
+	"MotorStorm - Raging Ice (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Mots Croises (France) (minis) (PSN)": {
 		"languages": ["Fr"]
@@ -3745,6 +4705,9 @@
 	},
 	"Musou Orochi (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"MutaJuice (Asia)": {
+		"languages": ["nolang"]
 	},
 	"MX vs. ATV Reflex (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3770,6 +4733,30 @@
 	"Naraku no Shiro Portable - Ichiyanagi Nagomu, 2-dome no Junan (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Naruto Shippuden - Kizuna Drive (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Naruto Shippuden - Kizuna Drive (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Naruto Shippuden - Kizuna Drive (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Naruto Shippuden - Kizuna Drive (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Naruto Shippuden - Narutimate Accel 3 (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Naruto Shippuden - Narutimate Impact (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Naruto Shippuden - Ultimate Ninja Heroes 3 (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Naruto Shippuden - Ultimate Ninja Heroes 3 (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Naruto Shippuden - Ultimate Ninja Impact (Europe) (En,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -3794,16 +4781,25 @@
 	"NBA 2K13 (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"NBA 09 - The Inside (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"NBA 10 - The Inside (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"NBA 10 - The Inside (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"NBA Live 10 (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"NCAA Football 10 (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Necromancer (Japan) (DLC)": {
+	"Necromancer (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Necromancer (Japan) (PCE) (PSN)": {
+	"Necromancer (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Need for Speed - Most Wanted 5-1-0 (Europe) (PSN)": {
@@ -3845,28 +4841,31 @@
 	"Neopets - Petpet Adventures - The Wand of Wishing (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Neutopia (USA) (DLC)": {
+	"Neutopia (USA) (PCE)": {
 		"languages": ["En"]
 	},
 	"Neutopia (USA) (TGX) (PSN)": {
 		"languages": ["En"]
 	},
-	"Neutopia - Frey No Shou (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
 	"Neutopia - Frey No Shou (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Neutopia II (Japan) (DLC)": {
+	"Neutopia - Frey no Shou (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Neutopia II (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"New Adventure Island (USA) (DLC)": {
-		"languages": ["En"]
+	"Neutopia II (Japan) (PCE)": {
+		"languages": ["Ja"]
+	},
+	"Neverland Card Battles (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"New Adventure Island (USA) (TGX) (PSN)": {
+		"languages": ["En"]
+	},
+	"New Adventure Island (USA)": {
 		"languages": ["En"]
 	},
 	"Next Space, The (Europe) (minis) (PSN)": {
@@ -3890,6 +4889,9 @@
 	"Ninki Pro Wrestler (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"No Fate! Only the Power of Will (Japan)": {
+		"languages": ["nolang"]
+	},
 	"No Gravity - The Plague of Mind (Europe) (En,Fr,De,Es,Nl,Pt) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "Nl", "Pt"]
 	},
@@ -3898,6 +4900,12 @@
 	},
 	"No Heroes Allowed (Europe) (PSN)": {
 		"languages": ["En"]
+	},
+	"No Heroes Allowed! (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"No Heroes Allowed! (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"No Heroes Allowed! (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3944,8 +4952,14 @@
 	"Numba (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Numblast (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Numblast (Asia) (En,Zh,Ko) (PSP) (PSN)": {
 		"languages": ["En", "Ko", "Zh"]
+	},
+	"Numblast (Europe) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Numblast (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -3956,6 +4970,9 @@
 	"Oben (Germany) (PSP) (PSN)": {
 		"languages": ["De"]
 	},
+	"Obscure - The Aftermath (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Obscure - The Aftermath (USA) (En,Fr,Es) (PSP) (PSN)": {
 		"languages": ["En", "Es", "Fr"]
 	},
@@ -3964,6 +4981,9 @@
 	},
 	"OMG-Z (USA) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"Omoide ni Kawaru Kimi - Memories Off (Japan)": {
+		"languages": ["nolang"]
 	},
 	"One Epic Game (Europe) (minis) (PSN)": {
 		"languages": ["En"]
@@ -3980,6 +5000,9 @@
 	"One Two Boat Racing (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Onore no Shinzuru Michi o Yuke (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Open Season (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (PSP) (PSN)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "No", "Sv"]
 	},
@@ -3992,14 +5015,29 @@
 	"Ore ni Hatarakette Iwaretemo (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Ore ni Hatarakette Iwaretemo Otsu (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Ore ni Hatarakette Iwaretemo Otsu (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Portable ga Tsuzuku Wake ga Nai (Japan) (Disc 1) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Portable ga Tsuzuku Wake ga Nai (Japan) (Disc 1)": {
+		"languages": ["nolang"]
+	},
 	"Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Portable ga Tsuzuku Wake ga Nai (Japan) (Disc 2) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Portable ga Tsuzuku Wake ga Nai (Japan) (Disc 2)": {
+		"languages": ["nolang"]
+	},
+	"Ore no Shikabane o Koete Yuke (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Ore no Shikabane o Koete Yuke - Goshinki Taikenban - OreShika 2 no Mae ni Pan to! Asonde Mimasho (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Ore no Shikabane wo Koete Yuke (Japan) (v2) (PSN)": {
 		"languages": ["Ja"]
@@ -4009,6 +5047,9 @@
 	},
 	"Ore no Shikabane wo Koete Yuke - Koushiki Shinansho Sonochi Tayasanu Tameni 1999 Nenban (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Ore wa Shoujo Mangaka (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Othello (Japan) (minis) (PSN)": {
 		"languages": ["Ja"]
@@ -4037,6 +5078,9 @@
 	"Pac-Man Championship Edition (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"PachiPara Slot+ Pachi-Slot Daiku no Gen-San - Ikuze! Honoo no Gen-Matsuri-Hen (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Pachisi (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
@@ -4061,11 +5105,32 @@
 	"PaRappa the Rapper (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Pastel Chime Continue (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Pastel Chime Continue (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Patapon 2 (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Patapon 2 (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Patapon 2 (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Patapon 2 (USA)": {
+		"languages": ["nolang"]
+	},
+	"Patapon 2 - Don-Chaka (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Patapon 2 - Don-Chaka (Japan) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Patapon 3 (Asia) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Patapon 3 (Asia) (En,Zh,Ko) (PSP) (PSN)": {
 		"languages": ["En", "Ko", "Zh"]
@@ -4073,8 +5138,14 @@
 	"Patapon 3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (v1.01) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
 	},
+	"Patapon 3 (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Patapon 3 (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Patapon 3 (Korea) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Patapon 3 (USA) (En,Fr,Es,Pt) (PSP) (PSN)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
@@ -4082,37 +5153,58 @@
 	"Patapon 3 - Digital Strategy Guide (USA) (PSN)": {
 		"languages": ["En"]
 	},
+	"Patapon 3 - Multiplayer (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Patapon 3 - Multiplayer (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Patapon (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Patapon (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Patapon (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Patapon (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Patapon (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Patapon (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Patchwork Heroes (Europe) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Patchwork Heroes (Europe) (En,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Patchwork Heroes (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Patchwork Heroes (USA) (PSP) (PSN)": {
 		"languages": ["En"]
-	},
-	"PC Genjin 2 (Japan) (DLC)": {
-		"languages": ["Ja"]
 	},
 	"PC Genjin 2 (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"PC Genjin 3 (Japan) (DLC)": {
+	"PC Genjin 2 (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"PC Genjin 3 (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"PC Genjin (Japan) (DLC)": {
+	"PC Genjin 3 (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"PC Genjin (Japan) (PCE) (PSN)": {
+		"languages": ["Ja"]
+	},
+	"PC Genjin (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Peggle (Europe) (PSP) (PSN)": {
@@ -4121,11 +5213,17 @@
 	"Peggle (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Persona 2 - Batsu - Eternal Punishment (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Persona 2 - Tsumi (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Persona 3 Portable (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Persona (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Peter Jackson's King Kong (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (PSP) (PSN)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Sv"]
@@ -4135,6 +5233,9 @@
 	},
 	"Petz - Hamsterz Bunch (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Petz - Saddle Club (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Petz - Saddle Club (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -4148,8 +5249,17 @@
 	"Phantasy Star Portable 2 (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
+	"Phantasy Star Portable 2 (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Phantasy Star Portable 2 (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"Phantasy Star Portable 2 (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Phantasy Star Portable 2 (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Phantasy Star Portable 2 (USA) (PSN)": {
 		"languages": ["En"]
@@ -4166,8 +5276,26 @@
 	"Phantasy Star Portable 2 Infinity (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Phantasy Star Portable 2 Infinity - Special Taikenban (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Phantasy Star Portable (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Phantasy Star Portable (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Phantom Brave - The Hermuda Triangle (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Phantom Brave - The Hermuda Triangle (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Phantom Brave Portable (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Phantom Kingdom Portable (Japan)": {
+		"languages": ["nolang"]
 	},
 	"Phase Shift - Threats Beyond the Network (Asia) (En) (minis) (PSN)": {
 		"languages": ["En"]
@@ -4177,6 +5305,9 @@
 	},
 	"Phineas and Ferb - Across the 2nd Dimension (USA) (En,Fr,Es) (PSN)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"PhotoKano (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"PhotoKano - Official Complete Guide (Japan) (DLC)": {
 		"languages": ["Ja"]
@@ -4238,6 +5369,12 @@
 	"Pipe Madness (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Pipe Mania (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Pipe Mania (USA) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Piposaru Academia 2 (Asia) (PSP) (PSN)": {
 		"languages": ["Zh"]
 	},
@@ -4253,11 +5390,23 @@
 	"Pix'n Love Rush (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"PixelJunk Monsters Deluxe (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"PixelJunk Monsters Deluxe (Europe) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"PixelJunk Monsters Deluxe (Europe) (En,Fr,De,Es,It) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"PixelJunk Monsters Deluxe (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"PixelJunk Monsters Deluxe (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
+	},
+	"PixelJunk Monsters Deluxe (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"PixelJunk Monsters Deluxe (USA) (PSP) (PSN)": {
 		"languages": ["En"]
@@ -4273,6 +5422,9 @@
 	},
 	"Piyotama (World) (DLC)": {
 		"languages": ["En"]
+	},
+	"Planetarian - Chiisana Hoshi no Yume (Japan)": {
+		"languages": ["nolang"]
 	},
 	"PlayEnglish - Capitulos Extra (Spain) (PSN)": {
 		"languages": ["Es"]
@@ -4292,16 +5444,22 @@
 	"Pool Hall Pro (USA) (PSN)": {
 		"languages": ["En"]
 	},
-	"Power League 4 (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"Pop'n Music Portable 2 (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Pop'n Music Portable 2 (Japan) (PSP the Best)": {
+		"languages": ["nolang"]
 	},
 	"Power League 4 (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Power Sports (Japan) (DLC)": {
+	"Power League 4 (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Power Sports (Japan) (PCE) (PSN)": {
+		"languages": ["Ja"]
+	},
+	"Power Sports (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Power Stone Collection (Europe) (PSP) (PSN)": {
@@ -4337,6 +5495,12 @@
 	"Princess Crown (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Princess Maker 4 Portable (Japan)": {
+		"languages": ["nolang"]
+	},
+	"Princess Maker 5 Portable (Japan)": {
+		"languages": ["nolang"]
+	},
 	"Prinny 2 - Dawn of Operation Panties Dood (Europe) (DLC)": {
 		"languages": ["En"]
 	},
@@ -4367,6 +5531,12 @@
 	"Prinny - Can I Really Be The Hero - Marona of Phantom Island (Europe) (DLC)": {
 		"languages": ["En"]
 	},
+	"Prinny - Ore ga Shujinkou de Iinsuka (Asia) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Prinny - Ore ga Shujinkou de Iinsuka (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Prinny - Ore ga Shujinkou de Iinsuka (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
@@ -4378,6 +5548,9 @@
 	},
 	"Pro Bull Riders - Out of the Chute (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"Pro Bull Riders - Out of the Chute (USA)": {
+		"languages": ["nolang"]
 	},
 	"Pro Evolution Soccer 2011 (USA) (En,Es) (PSP) (PSN)": {
 		"languages": ["En", "Es"]
@@ -4394,11 +5567,20 @@
 	"Psycho Soldier (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
+	"Pucelle, La - Ragnarok (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Pucelle, La - Ragnarok (Japan) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Pursuit Force (Europe)": {
+		"languages": ["nolang"]
+	},
 	"Pursuit Force (USA) (PSP) (PSN)": {
 		"languages": ["En"]
+	},
+	"Pursuit Force - Extreme Justice (Europe)": {
+		"languages": ["nolang"]
 	},
 	"Pursuit Force - Extreme Justice (USA) (En,Fr,Es) (PSP) (PSN)": {
 		"languages": ["En", "Es", "Fr"]
@@ -4406,11 +5588,20 @@
 	"Puyo Puyo 7 (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Puyo Puyo!! 20th Anniversary (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
 	"Puyo Puyo!! 20th Anniversary (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
+	"Puzzle Challenge - Crosswords and More (USA)": {
+		"languages": ["nolang"]
+	},
 	"Puzzle Chronicles (USA) (PSN)": {
 		"languages": ["En"]
+	},
+	"Puzzle Guzzle (USA) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Puzzle Quest - Challenge of the Warlords (Europe) (PSN)": {
 		"languages": ["En"]
@@ -4420,6 +5611,15 @@
 	},
 	"Puzzle Scape (Europe) (minis) (PSN)": {
 		"languages": ["En"]
+	},
+	"PW - Project Witch (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"PW - Project Witch - Taikenban Dai-1-Maku (Japan) (Demo)": {
+		"languages": ["nolang"]
+	},
+	"Qruton (Japan) (Demo)": {
+		"languages": ["nolang"]
 	},
 	"Qruton (Japan) (PSN)": {
 		"languages": ["Ja"]
@@ -4436,7 +5636,7 @@
 	"R-Type (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Ragnarok - Hikari to Yami no Koujo - The First Ending Ban (Japan) (PSN)": {
+	"Ragnarok - Hikari to Yami no Koujo - The First Ending Ban (Japan) (Demo) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Ragnarok Tactics (USA) (PSP) (PSN)": {
@@ -4628,10 +5828,10 @@
 	"Sakura Taisen 1 & 2 (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Salamander (Japan) (DLC)": {
+	"Salamander (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Salamander (Japan) (PCE) (PSN)": {
+	"Salamander (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Salamander Portable (Japan) (PSP) (PSN)": {
@@ -4712,10 +5912,10 @@
 	"Sega Rally Revo (USA) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Sengoku Mahjong (Japan) (DLC)": {
+	"Sengoku Mahjong (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Sengoku Mahjong (Japan) (PCE) (PSN)": {
+	"Sengoku Mahjong (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Sengoku Tenka Touitsu (Japan) (v2) (PSN)": {
@@ -4877,7 +6077,7 @@
 	"Soldier Blade (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Soldier Blade (USA) (DLC)": {
+	"Soldier Blade (USA) (PCE)": {
 		"languages": ["En"]
 	},
 	"Soldier Blade (USA) (TGX) (PSN)": {
@@ -4907,7 +6107,7 @@
 	"Soulcalibur - Broken Destiny (Europe) (En,Fr,De,Es,It,Ru) (PSP) (PSN)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
-	"Soulcalibur - Broken Destiny (Europe) (PSN)": {
+	"Soulcalibur - Broken Destiny (Europe) (PSN) [b]": {
 		"languages": ["En"]
 	},
 	"Soulcalibur - Broken Destiny (Japan) (PSN)": {
@@ -4949,10 +6149,10 @@
 	"Spinout (Europe) (PSP) (PSN)": {
 		"languages": ["En"]
 	},
-	"Splatterhouse (Japan) (DLC)": {
+	"Splatterhouse (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Splatterhouse (Japan) (PCE) (PSN)": {
+	"Splatterhouse (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Split-Second (USA) (En,Fr,Es) (PSP) (PSN)": {
@@ -5120,13 +6320,13 @@
 	"Super Sidekicks (USA) (NG) (PSN)": {
 		"languages": ["En"]
 	},
-	"Super Star Soldier (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
 	"Super Star Soldier (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Super Star Soldier (USA) (DLC)": {
+	"Super Star Soldier (Japan) (PCE)": {
+		"languages": ["Ja"]
+	},
+	"Super Star Soldier (USA) (PCE)": {
 		"languages": ["En"]
 	},
 	"Super Star Soldier (USA) (TGX) (PSN)": {
@@ -5249,10 +6449,10 @@
 	"Taishou Mebiusline Portable (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Takahashi Meijin no Shin Bouken Jima (Japan) (DLC)": {
+	"Takahashi Meijin no Shin Bouken Jima (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Takahashi Meijin no Shin Bouken Jima (Japan) (PCE) (PSN)": {
+	"Takahashi Meijin no Shin Bouken Jima (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Tales of Phantasia - Narikiri Dungeon X (Japan) (v1.01) (PSP) (PSN)": {
@@ -5342,10 +6542,10 @@
 	"Tengai Makyou - Ziria (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Tengai Makyou II - Manji Maru (Japan) (DLC)": {
+	"Tengai Makyou II - Manji Maru (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Tengai Makyou II - Manji Maru (Japan) (PCE) (PSN)": {
+	"Tengai Makyou II - Manji Maru (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Terminator, The (Europe) (minis) (PSN)": {
@@ -5510,7 +6710,7 @@
 	"Touchdown Fever (USA) (minis) (PSN)": {
 		"languages": ["En"]
 	},
-	"Toukiden Kiwami (Japan) (Action Taikenban) (PSN)": {
+	"Toukiden Kiwami (Japan) (Demo) (Action Taikenban) (PSN)": {
 		"languages": ["Ja"]
 	},
 	"Toukiden Kiwami (Japan) (v1.02) (PSP) (PSN)": {
@@ -5627,16 +6827,16 @@
 	"Valhalla Knights (USA) (PSN)": {
 		"languages": ["En"]
 	},
-	"Valis (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
 	"Valis (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Valis II (Japan) (DLC)": {
+	"Valis (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Valis II (Japan) (PCE) (PSN)": {
+		"languages": ["Ja"]
+	},
+	"Valis II (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Valkyria Chronicles II (Europe) (DLC)": {
@@ -5693,14 +6893,14 @@
 	"Victory Road (Europe) (minis) (PSN)": {
 		"languages": ["En"]
 	},
-	"Victory Run (USA) (DLC)": {
+	"Victory Run (Japan) (PCE)": {
+		"languages": ["Ja"]
+	},
+	"Victory Run (USA) (PCE)": {
 		"languages": ["En"]
 	},
 	"Victory Run (USA) (TGX) (PSN)": {
 		"languages": ["En"]
-	},
-	"Victory Run - Eikou no 13,000KM (Japan) (DLC)": {
-		"languages": ["Ja"]
 	},
 	"Victory Run - Eikou no 13,000KM (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
@@ -5792,10 +6992,10 @@
 	"Wild Arms XF (USA) (PSN)": {
 		"languages": ["En"]
 	},
-	"Winds of Thunder (Japan) (DLC)": {
+	"Winds of Thunder (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Winds of Thunder (Japan) (PCE) (PSN)": {
+	"Winds of Thunder (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"WipEout Pulse (Europe) (PSN)": {
@@ -5888,7 +7088,7 @@
 	"World Soccer Winning Eleven 2010 - Aoki Samurai no Chousen (Japan) (PSP) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"World Sports Competition (USA) (DLC)": {
+	"World Sports Competition (USA) (PCE)": {
 		"languages": ["En"]
 	},
 	"World Sports Competition (USA) (TGX) (PSN)": {
@@ -5945,10 +7145,10 @@
 	"Ys - The Oath in Felghana (USA) (PSN)": {
 		"languages": ["En"]
 	},
-	"Ys I & II (Japan) (DLC)": {
+	"Ys I & II (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Ys I & II (Japan) (PCE) (PSN)": {
+	"Ys I & II (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Ys I & II Chronicles (Europe) (PSN)": {
@@ -5957,16 +7157,16 @@
 	"Ys I & II Chronicles (USA) (v2) (PSN)": {
 		"languages": ["En"]
 	},
-	"Ys III - Wanderers from Ys (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
 	"Ys III - Wanderers from Ys (Japan) (PCE) (PSN)": {
 		"languages": ["Ja"]
 	},
-	"Ys IV - The Dawn of Ys (Japan) (DLC)": {
+	"Ys III - Wanderers from Ys (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Ys IV - The Dawn of Ys (Japan) (PCE) (PSN)": {
+		"languages": ["Ja"]
+	},
+	"Ys IV - The Dawn of Ys (Japan) (PCE)": {
 		"languages": ["Ja"]
 	},
 	"Ys Seven (Europe) (PSN)": {

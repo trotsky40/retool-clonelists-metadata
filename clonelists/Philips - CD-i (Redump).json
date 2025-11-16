@@ -1,28 +1,9 @@
 {
 	"description": {
 		"name": "Philips - CD-i (Redump)",
-		"lastUpdated": "06 April 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
-	"mias": [
-		"Caesars World of Gambling (Japan)",
-		"French Impressionists, The - France Inshouha (Japan)",
-		"James Brown - Non Stop Hit Machine (Japan)",
-		"Louis Armstrong - An American Songbook (Japan)",
-		"Nobelia (USA, Europe) (Unl)",
-		"Nuri e Asobi II - Paint School II (Japan)",
-		"Piano, The (Korea) (Disc 1)",
-		"Piano, The (Korea) (Disc 2)",
-		"Revolution in Color, A - Russia Kindai Kaiga no Reimei (Japan) (En,Ja,Fr,De,Es,It,Nl)",
-		"Rhythm Maker (Japan) (En,Ja)",
-		"Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi (Japan)",
-		"Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi (Japan)",
-		"Sesame Street Kazu Asobi - A Visit to Sesame Street - Numbers (Japan)",
-		"Sesame Street Moji Asobi - A Visit to Sesame Street - Letters (Japan)",
-		"TR-I - No World Order (Japan)"
-	],
-
 	"variants": [
 		{
 			"group": "7th Guest, The (Disc 1) (The Game)",
@@ -73,6 +54,7 @@
 			"group": "Beauty & the Beast",
 			"titles": [
 				{"searchTerm": "Beauty & the Beast"},
+				{"searchTerm": "Bella e La Bestia, La"},
 				{"searchTerm": "Belle et la Bete, La"},
 				{"searchTerm": "Schoene und das Tier, Die"}
 			]
@@ -80,9 +62,9 @@
 		{
 			"group": "Berenstain Bears, The - On Their Own",
 			"titles": [
-				{"searchTerm": "Berenstain-Baeren, Die - Selbst ist der Baer"},
 				{"searchTerm": "Berenstain Bears, The - Bij de Berenstain Beren Thuis - Thuis en bij Jou"},
 				{"searchTerm": "Berenstain Bears, The - On Their Own"},
+				{"searchTerm": "Berenstain-Baeren, Die - Selbst ist der Baer"},
 				{"searchTerm": "Ours Berenstain, Les - Comme des Grands"}
 			]
 		},
@@ -103,8 +85,8 @@
 		{
 			"group": "Burn-Cycle (Disc 1) (The Game)",
 			"titles": [
-				{"searchTerm": "Burn-Cycle (Disc 1) (The Game)"},
 				{"searchTerm": "Burn-Cycle (Das Spiel)"},
+				{"searchTerm": "Burn-Cycle (Disc 1) (The Game)"},
 				{"searchTerm": "Burn-Cycle (El Juego)"},
 				{"searchTerm": "Burn-Cycle (Il Gioco)"},
 				{"searchTerm": "Burn-Cycle (Jeu)"},
@@ -178,9 +160,9 @@
 			"titles": [
 				{"searchTerm": "Dark Fables of Aesop, The"},
 				{"searchTerm": "Duistere Fabels van Aesopus, De"},
-				{"searchTerm": "Geheimnisvollen Fabeln von Aesop, Die"},
 				{"searchTerm": "Fables d'Esope I, Les"},
 				{"searchTerm": "Fabulas de Esopo, Las"},
+				{"searchTerm": "Geheimnisvollen Fabeln von Aesop, Die"},
 				{"searchTerm": "Meer Duistere Fabels van Aesopus"},
 				{"searchTerm": "Weitere Geheimnisvolle Fabeln von Aesop"}
 			]
@@ -262,15 +244,15 @@
 		{
 			"group": "Ghost (Disc 1)",
 			"titles": [
-				{"searchTerm": "Ghost - Nachricht von Sam (Disc 1)"},
-				{"searchTerm": "Ghost (Disc 1)"}
+				{"searchTerm": "Ghost (Disc 1)"},
+				{"searchTerm": "Ghost - Nachricht von Sam (Disc 1)"}
 			]
 		},
 		{
 			"group": "Ghost (Disc 2)",
 			"titles": [
-				{"searchTerm": "Ghost - Nachricht von Sam (Disc 2)"},
-				{"searchTerm": "Ghost (Disc 2)"}
+				{"searchTerm": "Ghost (Disc 2)"},
+				{"searchTerm": "Ghost - Nachricht von Sam (Disc 2)"}
 			]
 		},
 		{
@@ -280,7 +262,6 @@
 				{"searchTerm": "Ernte der Sonne - Vincent van Gogh"},
 				{"searchTerm": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils"},
 				{"searchTerm": "Harvest of the Sun - Vincent Van Gogh Revisited"},
-				{"searchTerm": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils"},
 				{"searchTerm": "Oogst van de Zon"},
 				{"searchTerm": "Raccolto del Sole, Il - Van Gogh"},
 				{"searchTerm": "Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh"}
@@ -289,6 +270,7 @@
 		{
 			"group": "How the Rhinoceros Got His Skin",
 			"titles": [
+				{"searchTerm": "Como Consiguio el Rinoceronte su Piel"},
 				{"searchTerm": "How the Rhinoceros Got His Skin"},
 				{"searchTerm": "Wie das Rhinozeros zu seiner Haut kam"}
 			]
@@ -332,6 +314,7 @@
 			"group": "Mad Dog II - The Lost Gold",
 			"titles": [
 				{"searchTerm": "Mad Dog 2 - Le Tresor Perdu"},
+				{"searchTerm": "Mad Dog II - El Oro Perdido"},
 				{"searchTerm": "Mad Dog II - The Lost Gold"}
 			]
 		},
@@ -470,17 +453,18 @@
 				{"searchTerm": "Richard Scarry's Allerbeste Buurt Disc!"},
 				{"searchTerm": "Richard Scarry's Best Neighborhood Disc Ever!"},
 				{"searchTerm": "Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi"},
+				{"searchTerm": "Richard Scarry's wunderbarste Geschichten aus Schaffenau"},
 				{"searchTerm": "Ville Surprise de Richard Scarry 1, La"}
 			]
 		},
 		{
 			"group": "Richard Scarry's Busiest Neighborhood Disc Ever!",
 			"titles": [
+				{"searchTerm": "Richard Scarry - La Citta piu Indaffarata del Mondo!"},
 				{"searchTerm": "Richard Scarry's Allerdrukste Buurt Disc!"},
 				{"searchTerm": "Richard Scarry's Allerwitzigste Geschichten aus Schaffenau"},
 				{"searchTerm": "Richard Scarry's Busiest Neighborhood Disc Ever!"},
 				{"searchTerm": "Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi"},
-				{"searchTerm": "Richard Scarry - La Citta piu Indaffarata del Mondo!"},
 				{"searchTerm": "Ville Surprise de Richard Scarry 2, La"}
 			]
 		},
@@ -537,6 +521,7 @@
 			"group": "Story Machine - Star Dreams",
 			"titles": [
 				{"searchTerm": "Macchina delle Favole, La - Racconti Spaziali"},
+				{"searchTerm": "Maquina de Cuentos, La - Suenos de Estrellas"},
 				{"searchTerm": "Story Machine - Star Dreams"},
 				{"searchTerm": "Story Maschine - Galaxis"}
 			]
@@ -575,15 +560,6 @@
 			]
 		},
 		{
-			"group": "Tim & Bear in the Hospital",
-			"titles": [
-				{"searchTerm": "Tim & Baer im Krankenhaus"},
-				{"searchTerm": "Tim & Beer in het Ziekenhuis"},
-				{"searchTerm": "Tim & Bear in the Hospital"},
-				{"searchTerm": "Tim et Ted a l'Hopital"}
-			]
-		},
-		{
 			"group": "Tim & Bear at the Movies",
 			"titles": [
 				{"searchTerm": "Tim & Baer beim Film"},
@@ -593,21 +569,31 @@
 			]
 		},
 		{
+			"group": "Tim & Bear in the Hospital",
+			"titles": [
+				{"searchTerm": "Tim & Baer im Krankenhaus"},
+				{"searchTerm": "Tim & Bear in the Hospital"},
+				{"searchTerm": "Tim & Beer in het Ziekenhuis"},
+				{"searchTerm": "Tim et Ted a l'Hopital"}
+			]
+		},
+		{
 			"group": "Time Life Presents - 35mm Photography",
 			"titles": [
-				{"searchTerm": "Time-Life Praesentiert - Kleinbild-Fotografie"},
 				{"searchTerm": "Time Life Presenta - 35mm Fotografia"},
 				{"searchTerm": "Time Life Presenta - La Fotografia in 35mm"},
 				{"searchTerm": "Time Life Presente - La Photographie 24 x 36 mm"},
-				{"searchTerm": "Time Life Presents - 35mm Photography"}
+				{"searchTerm": "Time Life Presents - 35mm Photography"},
+				{"searchTerm": "Time-Life Praesentiert - Kleinbild-Fotografie"}
 			]
 		},
 		{
 			"group": "Tom - Magic Picture Show",
 			"titles": [
+				{"searchTerm": "Tom - Der Maximagier"},
 				{"searchTerm": "Tom - Il Dizionario Magico"},
-				{"searchTerm": "Tom's Magic Picture Show"},
-				{"searchTerm": "Tom - Magic Picture Show"}
+				{"searchTerm": "Tom - Magic Picture Show"},
+				{"searchTerm": "Tom's Magic Picture Show"}
 			]
 		},
 		{
@@ -625,17 +611,17 @@
 			]
 		},
 		{
-			"group": "Visit to Sesame Street, A - Numbers",
-			"titles": [
-				{"searchTerm": "Sesame Street Kazu Asobi - A Visit to Sesame Street - Numbers"},
-				{"searchTerm": "Visit to Sesame Street, A - Numbers"}
-			]
-		},
-		{
 			"group": "Visit to Sesame Street, A - Letters",
 			"titles": [
 				{"searchTerm": "Sesame Street Moji Asobi - A Visit to Sesame Street - Letters"},
 				{"searchTerm": "Visit to Sesame Street, A - Letters"}
+			]
+		},
+		{
+			"group": "Visit to Sesame Street, A - Numbers",
+			"titles": [
+				{"searchTerm": "Sesame Street Kazu Asobi - A Visit to Sesame Street - Numbers"},
+				{"searchTerm": "Visit to Sesame Street, A - Numbers"}
 			]
 		},
 		{

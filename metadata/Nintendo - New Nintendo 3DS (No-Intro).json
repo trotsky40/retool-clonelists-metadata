@@ -11,8 +11,8 @@
 	"Fire Emblem Warriors (USA)": {
 		"languages": ["En"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (USA)": {
-		"languages": ["En"]
+	"Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh-Hans", "Zh-Hant"]
 	},
 	"Runbow Pocket Deluxe Edition (USA)": {
 		"languages": ["En"]

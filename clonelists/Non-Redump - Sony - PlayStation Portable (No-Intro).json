@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Non-Redump - Sony - PlayStation Portable (No-Intro)",
-		"lastUpdated": "26 December 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Bubble Bobble - Evolution",
@@ -73,8 +72,8 @@
 		{
 			"group": "FIFA 11",
 			"titles": [
-				{"searchTerm": "FIFA 11 - World Class Soccer"},
-				{"searchTerm": "FIFA 11 (Platinum Edition)"}
+				{"searchTerm": "FIFA 11 (Platinum Edition)"},
+				{"searchTerm": "FIFA 11 - World Class Soccer"}
 			]
 		},
 		{
@@ -151,8 +150,8 @@
 		{
 			"group": "Ratchet & Clank - Size Matters",
 			"titles": [
-				{"searchTerm": "Ratchet & Clank - Size Matters"},
-				{"searchTerm": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan"}
+				{"searchTerm": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan"},
+				{"searchTerm": "Ratchet & Clank - Size Matters"}
 			]
 		},
 		{

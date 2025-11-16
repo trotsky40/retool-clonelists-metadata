@@ -1,16 +1,20 @@
 {
 	"description": {
 		"name": "IBM - PC and Compatibles (Digital) (Updates and DLC) (No-Intro)",
-		"lastUpdated": "10 January 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
-    "variants": [
-        {
-            "group": "Kyonyuu no Yuusha wa Choroin (Patch)",
-            "titles": [
-                {"searchTerm": "Kyonyuu no Yuusha wa Choroin (Patch)", "localNames": {"japanese": "イセカイ・ラヴァーズ！ ～巨乳の勇者はちょろいん～"}}
-            ]
-        }
-    ]
+	"variants": [
+		{
+			"group": "Kyonyuu no Yuusha wa Choroin (Patch)",
+			"titles": [
+				{
+					"searchTerm": "Kyonyuu no Yuusha wa Choroin (Patch)",
+					"localNames": {
+						"japanese": "イセカイ・ラヴァーズ！ ～巨乳の勇者はちょろいん～"
+					}
+				}
+			]
+		}
+	]
 }

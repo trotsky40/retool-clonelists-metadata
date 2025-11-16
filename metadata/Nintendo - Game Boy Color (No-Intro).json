@@ -26,6 +26,9 @@
 	"4x4 World Trophy (Europe) (En,Fr,De,Es,It) (GB Compatible)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"5 Minutes until Goodbye (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"007 - The World Is Not Enough (USA, Europe)": {
 		"languages": ["En"]
 	},
@@ -52,6 +55,9 @@
 	},
 	"36 in 1 (Taiwan) (SL36-0032) (Unl)": {
 		"languages": ["Zh"]
+	},
+	"60 Minutes til Rot (World) (v1.6b) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"102 Dalmatas - Cachorros Al Rescate (Spain)": {
 		"languages": ["Es"]
@@ -125,13 +131,13 @@
 	"[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En)": {
 		"languages": ["En"]
 	},
-	"[BIOS] Nintendo Game Boy Color Boot ROM (World) (Beta) (Virtual Console)": {
-		"languages": ["En"]
-	},
 	"[BIOS] Nintendo Game Boy Color Boot ROM (World) (Pokemon Stadium)": {
 		"languages": ["En"]
 	},
 	"[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1)": {
+		"languages": ["En"]
+	},
+	"[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 2)": {
 		"languages": ["En"]
 	},
 	"[BIOS] Touch Boy System ROM (Taiwan) (Unl)": {
@@ -141,6 +147,9 @@
 		"languages": ["nolang"]
 	},
 	"Absolute X (Europe) (Proto)": {
+		"languages": ["En"]
+	},
+	"Ack Ack Attack (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Action Man - Search for Base X (USA, Europe)": {
@@ -155,11 +164,20 @@
 	"Adulting! Soundtrack (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Adventures in Carnal Hell, The (World) (v1.01) (GB Compatible) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"Adventure (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
-	"Adventures in Carnal Hell, The (World) (v1.02) (GB Compatible) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"Adventures in Carnal Hell, The (World) (En) (v1.02) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Adventures in Carnal Hell, The (World) (Es) (v1.02) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Es"]
+	},
+	"Adventures in Carnal Hell, The (World) (Ja) (v1.01) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
+	"Adventures in Carnal Hell, The (World) (Ja) (v1.02) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
 	},
 	"Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -180,6 +198,9 @@
 		"languages": ["Ja"]
 	},
 	"AirForce Delta (USA)": {
+		"languages": ["En"]
+	},
+	"Airwolf 16 (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Aladdin (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -212,6 +233,9 @@
 	"All Star Tennis 2000 (USA) (Proto) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"All Star Tennis '99 (USA) (Proto) (1999-09-13) (GB Compatible)": {
+		"languages": ["En"]
+	},
 	"All-Star Baseball 2000 (USA, Europe)": {
 		"languages": ["En"]
 	},
@@ -234,6 +258,9 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"AMF Bowling (USA) (Proto)": {
+		"languages": ["En"]
+	},
+	"Android Nim (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Animal Breeder 3 (Japan) (SGB Enhanced) (GB Compatible)": {
@@ -320,6 +347,9 @@
 	"Asteroids (USA, Europe) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"Astral Possession (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Astro Plumber (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -370,6 +400,9 @@
 	},
 	"Auto Zone (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
+	},
+	"Autobahn (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Autumn With You, An (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -485,6 +518,12 @@
 	"Barcode Taisen Bardigun (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
+	"Basketbrawl (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Basketbrawl - Deluxe Edition (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Bass Masters Classic (USA, Europe) (GB Compatible)": {
 		"languages": ["En"]
 	},
@@ -560,6 +599,9 @@
 	"BIG2SMALL (World) (Digital) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"BIG2SMALL (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Bikkuriman 2000 - Charging Card GB (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
@@ -613,6 +655,12 @@
 	},
 	"Blinky's Revenge (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
+	},
+	"Block Droppin' (World) (v1.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Block Droppin' (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Blue's Clues - Blue's Alphabet Book (USA) (Rev 1) (Proto)": {
 		"languages": ["En"]
@@ -693,6 +741,9 @@
 	"Bomberman Selection (Korea)": {
 		"languages": ["Ko"]
 	},
+	"Booga-Boo (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Booty (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
@@ -708,10 +759,22 @@
 	"Boxed In (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Boxing Master (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Brave Saga - Shinshou Astaria (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Bub-O Escape (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Bub-O Escape (World) (v2.5) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Bub-O Escape - Tournament Edition (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Bubble Frog (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Bubble Trouble (World) (Aftermarket) (Unl)": {
@@ -721,6 +784,9 @@
 		"languages": ["nolang"]
 	},
 	"Buffy the Vampire Slayer (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Bug Byte (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Bug's Life, A (Europe) (SGB Enhanced) (GB Compatible)": {
@@ -750,6 +816,12 @@
 	"Bugs Bunny in - Crazy Castle 4 (USA)": {
 		"languages": ["En"]
 	},
+	"BULB! (World) (LED Cart) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"BULB! (World) (v2.5) (Digital) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Bundesliga Stars 2001 (Germany)": {
 		"languages": ["De"]
 	},
@@ -757,6 +829,9 @@
 		"languages": ["Ja"]
 	},
 	"Burger Burger Pocket - Hamburger Simulation (Japan) (SGB Enhanced) (GB Compatible)": {
+		"languages": ["Ja"]
+	},
+	"Burger Kitchen (World) (Ja) (GB  Compatible) (Aftermarket) (Unl)": {
 		"languages": ["Ja"]
 	},
 	"Burger Paradise International (Japan)": {
@@ -774,6 +849,9 @@
 	"Buzz Lightyear of Star Command (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Bygone Choices (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Caesars Palace II (USA, Europe)": {
 		"languages": ["En"]
 	},
@@ -782,6 +860,12 @@
 	},
 	"Caise Gedou 29 in 1 Diannao Huamian Xuan Game (Taiwan) (Unl)": {
 		"languages": ["Zh"]
+	},
+	"Cake Keeper (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Campfire Tales (World) (v2.0.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Cancer Culture VS The Illuminati (World) (2023-05-03) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
@@ -798,11 +882,38 @@
 	"Cannon Fodder (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Canoe Slalom (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Capcom Fight 2003 (Hong Kong) (En) (Unl)": {
+		"languages": ["En"]
+	},
 	"Capcom vs SNK - Millennium Fight 2001 (Taiwan) (En) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cappimon (World) (v1.0) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cappimon (World) (v1.1) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Captain Buzz Lightyear - Star Command (Germany)": {
 		"languages": ["De"]
+	},
+	"Capybara Quest (World) (v1.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Capybara Quest (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Capybara Quest (World) (v1.2) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Capybara Village (World) (v1.0) (Proto) (Cozy Spring Jam) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Capybara Village (World) (v1.1) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Card Sharks (USA) (Proto)": {
 		"languages": ["En"]
@@ -861,7 +972,13 @@
 	"Casper (USA)": {
 		"languages": ["En"]
 	},
+	"Castlevania - Demon Castle (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Cat Boy's Stellar Journey (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cat Jumper (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Caterpillar Construction Zone (USA, Europe) (GB Compatible)": {
@@ -887,6 +1004,9 @@
 	},
 	"Cave Hunter (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
+	},
+	"Cavelon (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Centipede (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -966,8 +1086,26 @@
 	"Choro-Q (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Chromanoids (World) (v1.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Chromanoids (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Chrome and Blood (World) (v1.00) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Chrome and Blood (World) (v1.02) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Chuanshuo (Taiwan) (Unl)": {
 		"languages": ["Zh"]
+	},
+	"Chumbles Bumbles (World) (v1.2) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Church of Pastor Chuck (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Classic Bubble Bobble (Europe) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
@@ -979,6 +1117,12 @@
 		"languages": ["nolang"]
 	},
 	"Clockmaker's Tale, A (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Closet Monsters (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cold Nights (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Colin McRae Rally (Europe)": {
@@ -999,7 +1143,16 @@
 	"Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["De", "En", "Fr"]
 	},
+	"Cookie Monster Munch (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Cookie's Bakery (World) (v1.0.3) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cool Bricks (Europe) (Beta) (1999-03-24)": {
+		"languages": ["En"]
+	},
+	"Cool Bricks (Europe) (Beta) (1999-05-10)": {
 		"languages": ["En"]
 	},
 	"Cool Bricks (Europe) (En,Fr,De,Es,It)": {
@@ -1008,6 +1161,9 @@
 	"Cool Hand (Europe) (En,Fr,De) (GB Compatible)": {
 		"languages": ["De", "En", "Fr"]
 	},
+	"Cops and Robbers (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Coria and the Sunken City (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -1015,6 +1171,9 @@
 		"languages": ["En"]
 	},
 	"Cosmo Knight ZiON (World) (En,Es) (v0.47) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es"]
+	},
+	"Cosmo Knight ZiON (World) (En,Es) (v2.38) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En", "Es"]
 	},
 	"Crazy Bikers (Europe)": {
@@ -1028,6 +1187,9 @@
 	},
 	"Crazy Golf (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
+	},
+	"Crest RPG (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Croc 2 (USA, Europe)": {
 		"languages": ["En"]
@@ -1056,6 +1218,18 @@
 	"Cubix - Robots for Everyone - Race 'n Robots (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Cult of Blood, The (World) (Demo 1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cult of Blood, The (World) (Demo 4) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cuthbert Enters the Tombs of Doom (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cuthbert in Space (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Cuthbert in the Cooler (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
@@ -1067,6 +1241,9 @@
 	},
 	"Cyborg Kuro-chan - Devil Fukkatsu (Japan)": {
 		"languages": ["Ja"]
+	},
+	"D-Fuzed (World) (Demo) (2022-04-21) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Daa! Daa! Daa! - Totsuzen Card de Battle de Uranai de! (Japan)": {
 		"languages": ["Ja"]
@@ -1128,7 +1305,13 @@
 	"Dancing Furby (Japan) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
+	"Dango Dash (World) (Digital) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Dark Winter Wander, A (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Darklite (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Data-Navi Pro Yakyuu 2 (Japan)": {
@@ -1147,7 +1330,8 @@
 		"languages": ["En", "Es"]
 	},
 	"David O'Leary's Total Soccer 2000 (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
+		"localName": "Telefoot Soccer 2000"
 	},
 	"Dawn Will Come (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -1203,13 +1387,25 @@
 	"Densha de Go! (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Descent (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Dexter's Laboratory - Robot Rampage (USA, Europe)": {
 		"languages": ["En"]
 	},
 	"Dia de Sol Noite de Lua (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Dicee! (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dicee! (World) (v1.4) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Digimon 02 4 (Taiwan) (En) (Unl)": {
+		"languages": ["En"]
+	},
+	"Digimon 02 5 (USA) (Unl)": {
 		"languages": ["En"]
 	},
 	"Digimon 2 (Taiwan) (En) (Unl)": {
@@ -1232,6 +1428,9 @@
 	},
 	"Digimon Pocket (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
+	},
+	"Digimon Pocket (Taiwan) (Zh) (Unl)": {
+		"languages": ["Zh"]
 	},
 	"Digimon Saphire (USA) (Unl)": {
 		"languages": ["En"]
@@ -1275,8 +1474,20 @@
 	"Diva Starz - Mall Mania (USA)": {
 		"languages": ["En"]
 	},
+	"DiveBlob (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"DiveBlob (World) (Digital) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"DiveBlob (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Diver 94 (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Doc Cosmos - The Saga Begins (World) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
 	},
 	"Dogz (Europe)": {
 		"languages": ["En"]
@@ -1391,10 +1602,6 @@
 	},
 	"Dragon Ball Z 3 - 2002 Fighting (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
-	},
-	"Dragon Ball Z - 2002 Fighting (Taiwan) (Zh) (Unl)": {
-		"languages": ["Zh"],
-		"localName": "格鬥七龍球　２００２"
 	},
 	"Dragon Ball Z - Densetsu no Chou Senshi-tachi (Japan) (Beta) (All Unlocked)": {
 		"languages": ["Ja"]
@@ -1523,10 +1730,40 @@
 	"Dragonborne DX (World) (v1.0.2) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Dragonyhm (World) (v1.0) (Demo) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+	"Dragonmaster (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Dragonyhm (World) (v1.1) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+	"Dragonyhm (World) (Demo) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dragonyhm (World) (Incube8 Games) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dragonyhm (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dragonyhm (World) (v1.1.0) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dream Shark - Part 1 (World) (Beta 2) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dream Shark - Part 1 (World) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dream Shark - Part 1 (World) (Digital) (Batteryless) (MBC3) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dream Shark - Part 1 (World) (Digital) (Batteryless) (MBC5) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dream Shark - Part 1 (World) (Digital) (MBC3) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dream Shark - Part 1 (World) (Digital) (MBC5) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dream Shark - Part 1 (World) (MBC5) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Driver (Europe) (En,Fr,De,Es,It) (Beta)": {
@@ -1559,6 +1796,12 @@
 	"Dukes of Hazzard, The - Racing for Home (USA)": {
 		"languages": ["En"]
 	},
+	"Dungeon Crystal (World) (v1.0) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dungeon Crystal (World) (v1.1) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Dungeon Savior (Japan) (Rev 1) (Proto) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
@@ -1578,6 +1821,9 @@
 		"languages": ["Ja"]
 	},
 	"DynaMike (Europe) (Proto)": {
+		"languages": ["En"]
+	},
+	"e'Fighter HOT (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
 	"E.T. - The Extra-Terrestrial - Digital Companion (Europe) (Proto)": {
@@ -1602,6 +1848,12 @@
 		"languages": ["En"]
 	},
 	"ECW Hardcore Revolution (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Egbert (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Elang 2003 - Mark of the Wolfs (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
 	"Elang Chuanshuo - Shiji Zhi Zhan (Taiwan) (Unl)": {
@@ -1643,7 +1895,19 @@
 	"Empire of Dreams, The (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Empire of Dreams, The (World) (v1.0.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Empire of Dreams, The (World) (v1.0.2) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Empire of Dreams, The (World) (v2.0.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Equestriad 2001 (Europe) (Proto)": {
+		"languages": ["En"]
+	},
+	"Escape from Vostok (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"ESPN International Track & Field (USA)": {
@@ -1668,6 +1932,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Sv"]
 	},
 	"Evel Knievel (USA) (GB Compatible)": {
+		"languages": ["En"]
+	},
+	"Everlasting Summer (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Expiration Date (World) (GB Compatible) (Aftermarket) (Unl)": {
@@ -1736,6 +2003,9 @@
 	"Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
+	"Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Far After (World) (v1.1) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -1749,12 +2019,15 @@
 		"languages": ["En"]
 	},
 	"Feed IT Souls (World) (v1.3) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+		"languages": ["En"]
 	},
 	"Feed IT Souls (World) (v1.4) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Feed The Monster (World) (GB Compatible) (Aftermarket) (Pirate)": {
+		"languages": ["En"]
+	},
+	"Fellowship of the Rings (China) (En) (Unl)": {
 		"languages": ["En"]
 	},
 	"Fellowship of the Rings (Taiwan) (En) (Unl)": {
@@ -1781,6 +2054,9 @@
 	"FIFA 2000 (USA, Europe) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"Fighter on the Path of Glory (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Ja"]
+	},
 	"Fillo - Crystal Version (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
@@ -1799,8 +2075,20 @@
 	"Firemen (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
+	"First Contact Protocol (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Fish Files, The (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Fishing for Asteroids (World) (v1.0) (Mini Jam 153) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Fishing for Asteroids (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Fishnet Burn (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Fix & Foxi - Episode 1 - Lupo (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -1808,8 +2096,14 @@
 	"Fix It Felix Jr. (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
+	"Fix My Heart (World) (En,Pt) (v1.0.0) (Digital) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Pt"]
+	},
 	"Fix My Heart (World) (GB Compo 2021) (GB Compatible) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+		"languages": ["En"]
+	},
+	"Flap Happy (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Flashin' (World) (v3.0) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -1833,6 +2127,12 @@
 		"languages": ["En"]
 	},
 	"Floracy (Europe) (Proto) (2000-10-10)": {
+		"languages": ["En"]
+	},
+	"Foal's Creek (World) (v1.05) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Foal's Creek (World) (v1.06) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Force 21 (USA) (En,Fr,De)": {
@@ -1931,6 +2231,12 @@
 	"G.B Corp. (World) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"G.B Corp. (World) (v2.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"G.B Corp. (World) (v2.0) (No Link Cable) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Gaiamaster Duel - Card Attackers (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1941,6 +2247,9 @@
 		"languages": ["Ja"]
 	},
 	"Galaga - Destination Earth (USA)": {
+		"languages": ["En"]
+	},
+	"Gallery+ (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1)": {
@@ -1956,6 +2265,12 @@
 		"languages": ["En"]
 	},
 	"Game Boy Camera Gallery 2022, The (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Game Boy Camera Gallery - Mystery Show (World) (v1.2) (Digital) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Game Boy Camera Gallery - Mystery Show (World) (v1.4) (Digital) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Game Boy Color (World) (Demo) (Kiosk)": {
@@ -1984,6 +2299,9 @@
 	},
 	"Game Conveni 21 (Japan) (GB Compatible)": {
 		"languages": ["Ja"]
+	},
+	"Game with The Cerulean Blob, The (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Gamer Boy Mission (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -2024,7 +2342,7 @@
 	"GB Karan Koron Gakuen - Hanafuda Mahjong (Japan)": {
 		"languages": ["Ja"]
 	},
-	"GB Memory Multi Menu (Japan) (SGB Enhanced, GB Compatible) (NP)": {
+	"GB-Memory Multi Menu (Japan) (SGB Enhanced, GB Compatible) (NP)": {
 		"languages": ["Ja"]
 	},
 	"GB-Wordyl (World) (Ca) (GB Compatible) (Aftermarket) (Unl)": {
@@ -2057,11 +2375,22 @@
 	"GB-Wordyl (World) (Pt-BR) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["Pt-BR"]
 	},
-	"Gedou Jian Shen - Soul Falchion (Taiwan) (Unl) (Alt)": {
-		"languages": ["Zh"]
+	"Gedou Jian Shen - Soul Falchion (Taiwan) (En) (Unl) (Alt 2)": {
+		"languages": ["En"]
 	},
-	"Gedou Jian Shen - Soul Falchion (Taiwan) (Unl)": {
-		"languages": ["Zh"]
+	"Gedou Jian Shen - Soul Falchion (Taiwan) (En) (Unl) (Alt)": {
+		"languages": ["En"]
+	},
+	"Gedou Jian Shen - Soul Falchion (Taiwan) (En) (Unl)": {
+		"languages": ["En"]
+	},
+	"Gedou Jian Shen KF (Taiwan) (En) (Unl)": {
+		"languages": ["En"],
+		"localName": "格斗剑神　ＫＦ"
+	},
+	"Gedou Qi Long Qiu 2002 (Taiwan) (Zh) (Unl)": {
+		"languages": ["Zh"],
+		"localName": "格鬥七龍球　２００２"
 	},
 	"Gedou Zhizun 2003 (Taiwan) (Unl)": {
 		"languages": ["Zh"],
@@ -2083,6 +2412,9 @@
 		"languages": ["Ja"]
 	},
 	"Get Chuu Club - Minna no Konchuu Daizukan (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)": {
+		"languages": ["Ja"]
+	},
+	"Get!! Loto Club (Japan) (Proto)": {
 		"languages": ["Ja"]
 	},
 	"Gex 3 - Deep Cover Gecko (Europe) (En,Fr,De,Es,It)": {
@@ -2175,10 +2507,22 @@
 	"Gonta no Okiraku Daibouken (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Gopher (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Goraku Ou Tango! (Japan) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
 	"Gorf the Ghost Saves Halloween (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Gourmet (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"GPC Rally (World) (v1.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"GPC Rally (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Grand Casino (Japan) (Proto)": {
@@ -2214,6 +2558,9 @@
 	"Gravitorque (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Gravitorque DX (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Great Battle Pocket, The (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
@@ -2231,6 +2578,9 @@
 	},
 	"Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
+	},
+	"Gridtrap (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Grimace's Birthday (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -2273,6 +2623,9 @@
 	},
 	"Gun Law (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
+	},
+	"Gunship DX (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Gunslinger (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -2419,6 +2772,9 @@
 	"Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"Hat Boy (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Haunted (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -2433,6 +2789,9 @@
 	},
 	"Hejin Zhuangbei II (Taiwan) (Unl)": {
 		"languages": ["Zh"]
+	},
+	"Heliosphere Arcade (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Hello Kitty no Beads Factory (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
@@ -2482,17 +2841,26 @@
 	"Hidden Gems (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Hidden Gems (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Hidden Gems (World) (GB Compo 2023) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"High Noon (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
-	"Hime's Quest (World) (Cart) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"Hightail (World) (Demo 4A) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Hightail (World) (Demo 4F) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Hime's Quest (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Hime's Quest (World) (Digital) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+		"languages": ["En"]
 	},
 	"Hiryuu no Ken - Retsuden GB (Japan)": {
 		"languages": ["Ja"]
@@ -2524,6 +2892,9 @@
 	"Honkaku Yonin Uchi Mahjong - Mahjong Ou (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
+	"Hopp It (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Host, The (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -2547,6 +2918,21 @@
 	},
 	"Hugo - The Evil Mirror (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pt", "Sv"]
+	},
+	"Hunt The Gwumbus (World) (Digital) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Hunt the Gwumbus (World) (v2.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Hunt the Gwumbus (World) (v2.2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Hunter in the Lost Forest (World) (En) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Hunter in the Lost Forest (World) (Ja) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
 	},
 	"Hunter x Hunter - Hunter no Keifu (Japan)": {
 		"languages": ["Ja"]
@@ -2572,6 +2958,15 @@
 	"Ide Yousuke no Mahjong Kyoushitsu GB (Japan)": {
 		"languages": ["Ja"]
 	},
+	"In The Dark 2 (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"In The Dark 2 (World) (Rev 1) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"In the Dark (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
@@ -2579,6 +2974,9 @@
 		"languages": ["En"]
 	},
 	"Infinity (USA) (Proto) (2001-03-22)": {
+		"languages": ["En"]
+	},
+	"Inscryption (World) (v0.5) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Inspector Gadget - Operation Madkactus (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -2590,7 +2988,16 @@
 	"Inspector Gadget - Operation Madkactus (USA)": {
 		"languages": ["En"]
 	},
+	"Inspector Waffles Early Days (World) (Digital) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Inspector Waffles Early Days (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Inspector Waffles Early Days (World) (v1.0.1) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Inspector Waffles Early Days (World) (v1.1.0) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"International Karate 2000 (Europe)": {
@@ -2620,6 +3027,9 @@
 	"International Track & Field - Summer Games (Europe)": {
 		"languages": ["En"]
 	},
+	"Invasion of the Geminorons (World) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
 	"Iron Cor - Stainless (World) (v2.0) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -2628,6 +3038,9 @@
 	},
 	"Itsudemo Pachinko GB - CR Monster House (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Itty Bitty Adventures (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"J.League Excite Stage GB (Japan)": {
 		"languages": ["Ja"]
@@ -2672,6 +3085,9 @@
 		"languages": ["Ja"]
 	},
 	"Jet Set Willy (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Jet Set Willy II - The Final Frontier (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Jibaku-kun - Rei no Itsuki no Kajitsu (Japan) (Proto)": {
@@ -2742,6 +3158,9 @@
 	},
 	"Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Junior Maths 2 (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Jurassic Boy 2 (Taiwan) (En) (Rev 1) (Sachen) (Unl)": {
 		"languages": ["En"]
@@ -2908,6 +3327,9 @@
 	"Knit-Wit (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
+	"KnockOut (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Knockout Kings (USA, Europe)": {
 		"languages": ["En"]
 	},
@@ -2941,6 +3363,9 @@
 	"Konchuu Hakase 2 (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
+	"Konchuu Hakase 3 (Japan) (Beta)": {
+		"languages": ["Ja"]
+	},
 	"Konchuu Hakase 3 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2950,6 +3375,10 @@
 	},
 	"Koto Battle - Tengai no Moribito (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Koudai Guaishou - Da Jihe (Taiwan) (Ja) (Pirate)": {
+		"languages": ["Ja"],
+		"localName": "口袋怪獸　大集合"
 	},
 	"Koudai Guaishou - Dongzuo Pian (Taiwan) (En) (Unl) (Alt)": {
 		"languages": ["En"]
@@ -2987,6 +3416,12 @@
 	"Laofuzi Chuanqi (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
+	"Larion's Tinker Toys (World) (Proto 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Larion's Tinker Toys (World) (Proto 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Las Vegas Cool Hand (USA) (GB Compatible)": {
 		"languages": ["En"]
 	},
@@ -3020,10 +3455,22 @@
 	"Leaper (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Lee Carvallo's Putting Challenge II (World) (v1.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Lee Carvallo's Putting Challenge II (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Lee Carvallo's Putting Challenge II (World) (v1.2) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Legacy of Verintia (World) (2023-05-15) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Legacy of Verintia (World) (2023-05-31) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Legend of Carrot (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Legend of the River King 2 (Europe) (SGB Enhanced) (GB Compatible)": {
@@ -3047,13 +3494,13 @@
 	"Legend of Zelda, The - Link's Awakening DX (France) (Beta) (1998-12-11) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Fr"]
 	},
-	"Legend of Zelda, The - Link's Awakening DX (France) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)": {
-		"languages": ["Fr"]
-	},
 	"Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Fr"]
 	},
 	"Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)": {
+		"languages": ["Fr"]
+	},
+	"Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Fr"]
 	},
 	"Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (SGB Enhanced) (GB Compatible)": {
@@ -3269,6 +3716,9 @@
 	"Lord of the Rings, The - The Fellowship of the Ring (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
+	"Lost Treasure of Lima (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Love Hina Party (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -3277,6 +3727,9 @@
 	},
 	"Love Hina Pocket (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Love is Dead (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
@@ -3302,6 +3755,10 @@
 	"Luke Yingxiong 2 - Zook Hero 2 (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
+	"Luke Yingxiong Chuan 3 (Taiwan) (Unl)": {
+		"languages": ["Zh"],
+		"localName": "路克英雄傳３"
+	},
 	"Luke Yingxiong Z (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
@@ -3309,6 +3766,9 @@
 		"languages": ["En"]
 	},
 	"Lunar Docking (World) (2022-08-07) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Lunatic Tower (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Luoke Yingxiong EXE5 (Taiwan) (Unl)": {
@@ -3326,10 +3786,22 @@
 	"M&M's Minis Madness (USA)": {
 		"languages": ["En"]
 	},
+	"Machine, The (World) (Demo) (2022-06-04) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Machine, The (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Machine, The (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Machine, The (World) (v1.1) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Machine, The (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Machine, The (World) (v1.2) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Macross 7 - Ginga no Heart o Furuwasero!! (Japan)": {
@@ -3347,6 +3819,12 @@
 	"Madden NFL 2002 (USA)": {
 		"languages": ["En"]
 	},
+	"Mage and the Grimoire of Beast (World) (En) (v1.01) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Mage and the Grimoire of Beast (World) (Ja) (v1.01) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
 	"Magi Nation (USA)": {
 		"languages": ["En"]
 	},
@@ -3354,6 +3832,12 @@
 		"languages": ["En"]
 	},
 	"Magic & Legend - Time Knights (World) (Demo) (The Retro Room) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Magic & Legend - Time Knights (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Magic & Legend - Time Knights (World) (The Retro Room) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan)": {
@@ -3366,6 +3850,15 @@
 		"languages": ["De", "En", "Fr"]
 	},
 	"Magical Drop (USA)": {
+		"languages": ["En"]
+	},
+	"Magical Tale, A - Revoke (World) (2024-08-21) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Magical Tale, A - Revoke (World) (2024-08-24) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Magical Tale, A - Revoke (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1)": {
@@ -3473,6 +3966,9 @@
 	"Mayhem (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
+	"Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"McDonald's Monogatari - Honobono Tenchou Ikusei Game (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -3530,6 +4026,9 @@
 	"Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
+	"Meiji Jingu (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
@@ -3544,6 +4043,12 @@
 	},
 	"Melanie and the Magic Forest (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Melon Journey Pocket (World) (En) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Melon Journey Pocket (World) (Ja) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
 	},
 	"Memory Mania Challenge (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
@@ -3581,11 +4086,20 @@
 	"Metamode (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Metamorphosis Collection (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Metamorphosis Collection (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Meteorite (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
 	"Mia Hamm Soccer Shootout (USA)": {
 		"languages": ["En"]
+	},
+	"Michael the Ant Thumper (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
 	},
 	"Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3680,6 +4194,9 @@
 	"Mizuki Shigeru no Shin Youkaiden (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Mob Creche Parallel Game (World) (En,Ja) (Aftermarket) (Unl)": {
+		"languages": ["En", "Ja"]
+	},
 	"Mobile Golf (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -3695,6 +4212,9 @@
 	"Mojie Zhanshi Chuanshuo (Taiwan) (Unl)": {
 		"languages": ["Zh"],
 		"localName": "魔戒战士传说"
+	},
+	"Mommy (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Momotarou Densetsu 1-2 (Japan)": {
 		"languages": ["Ja"]
@@ -3786,6 +4306,9 @@
 	"Motocross Maniacs 2 (USA)": {
 		"languages": ["En"]
 	},
+	"Mount Vesuvius (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Mountain Climber (World) (En,Es) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En", "Es"]
 	},
@@ -3841,6 +4364,9 @@
 		"languages": ["De", "En", "Fr"]
 	},
 	"Mummy, The (USA)": {
+		"languages": ["En"]
+	},
+	"Munch It (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Musical Notes (World) (2023-05-19) (Aftermarket) (Unl)": {
@@ -3969,6 +4495,9 @@
 	"Neighbor (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Neonsomnia (World) (v0.1) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Net de Get - Minigame @ 100 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -4014,6 +4543,9 @@
 	"Nicktoons Racing (USA)": {
 		"languages": ["En"]
 	},
+	"Nightmare Hamlet (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Ninja JaJaMaru - The Great World Adventure DX (USA, Europe) (Ninja JaJaMaru Retro Collection) (Switch)": {
 		"languages": ["nolang"]
 	},
@@ -4047,11 +4579,20 @@
 	"Nv Wang Gedou 2000 (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
+	"Nyghtmare - The Ninth King (World) (Cart) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Nyghtmare - The Ninth King (World) (Free Version) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Nyghtmare - The Ninth King (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
 	"Nyghtmare - The Ninth King (World) (Rev 1) (Free Version) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Nyghtmare - The Ninth King (World) (Rev 1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
 	},
 	"Nyghtmare - The Ninth King (World) (v0.1.0) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -4143,6 +4684,12 @@
 	"Out on a Limb (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
+	"Outta Time (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Outward (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Owarai Yoiko no Geemumichi - Oyaji Sagashite 3 Choume (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
@@ -4176,6 +4723,15 @@
 	"Painter (Europe) (Unl)": {
 		"languages": ["En"]
 	},
+	"Paku Paku GB (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pancho (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pandora's Blocks (World) (v1.8) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Panik!16 (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
@@ -4184,6 +4740,9 @@
 	},
 	"Papyrus (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"Patchy Matchy (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"PaZeek (USA) (Proto)": {
 		"languages": ["En"]
@@ -4215,10 +4774,25 @@
 	"Piecrust (World) (Unl)": {
 		"languages": ["En"]
 	},
-	"Pilgrim's Peril (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+	"Pilgrim's Peril (World) (Demo 1) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Pine Creek (World) (En-US,Es-MX,Pt-BR) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
+	"Pilgrim's Peril (World) (Demo 2) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pilgrim's Peril (World) (v0.1.0) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pilgrim's Peril (World) (v1.0.2) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pine Creek (World) (Ca) (v1.2.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Ca"]
+	},
+	"Pine Creek (World) (En-US,Es-MX,Pt-BR) (v1.2.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En-US", "Es-MX", "Pt-BR"]
+	},
+	"Pine Creek (World) (En-US,Es-MX,Pt-BR) (v2.2) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En-US", "Es-MX", "Pt-BR"]
 	},
 	"Pinecone Pizza Party (World) (Prototype) (GB Compatible) (Aftermarket) (Unl)": {
@@ -4264,6 +4838,9 @@
 		"languages": ["Ja"]
 	},
 	"Pocket Color Trump (Japan) (GB Compatible)": {
+		"languages": ["Ja"]
+	},
+	"Pocket Cooking (Japan) (Beta)": {
 		"languages": ["Ja"]
 	},
 	"Pocket Cooking (Japan)": {
@@ -4329,8 +4906,14 @@
 	"Pocket Music (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Pocket Music (USA) (En,Es) (Proto)": {
+	"Pocket Music (USA) (En,Es) (Proto) (2002-03-04)": {
 		"languages": ["En", "Es"]
+	},
+	"Pocket Music (USA) (En,Es) (Proto) (2003-03-07)": {
+		"languages": ["En", "Es"]
+	},
+	"Pocket Music (World) (Proto) (Riff Sampler Test)": {
+		"languages": ["En"]
 	},
 	"Pocket no Naka no Oukoku (Japan) (Proto)": {
 		"languages": ["Ja"]
@@ -4395,8 +4978,14 @@
 	"Pokemon - Kristall-Edition (Germany)": {
 		"languages": ["De"]
 	},
+	"Pokemon - La Version Esmeralda - Special Pikachu Edition (Spain) (Pirate)": {
+		"languages": ["Es"]
+	},
 	"Pokemon - Mewtwo Strikes Back (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
+	},
+	"Pokemon - Mewtwo Strikes Back (Taiwan) (Zh) (Unl)": {
+		"languages": ["Zh"]
 	},
 	"Pokemon - Sapphire Version (USA) (Unl)": {
 		"languages": ["En"]
@@ -4443,6 +5032,9 @@
 	"Pokemon Diamond (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
+	"Pokemon Diamond (Taiwan) (Zh) (Unl)": {
+		"languages": ["Zh"]
+	},
 	"Pokemon Gold (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
@@ -4451,6 +5043,9 @@
 	},
 	"Pokemon Jade (Taiwan) (En) (Pirate)": {
 		"languages": ["En"]
+	},
+	"Pokemon Jade (Taiwan) (Zh) (Unl)": {
+		"languages": ["Zh"]
 	},
 	"Pokemon Jade Version - Special Pikachu Edition (USA) (Pirate)": {
 		"languages": ["En"]
@@ -4476,6 +5071,15 @@
 	"Pokemon Puzzle Challenge (USA, Australia)": {
 		"languages": ["En"]
 	},
+	"Pokemon Ruby (Taiwan) (Unl)": {
+		"languages": ["Zh"]
+	},
+	"Pokemon Sapphire (Taiwan) (En) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pokemon Sapphire (Taiwan) (Zh) (Unl)": {
+		"languages": ["Zh"]
+	},
 	"Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En", "Es", "It"]
 	},
@@ -4494,16 +5098,22 @@
 	"Pokemon Vision Jade (Taiwan) (De) (Unl)": {
 		"languages": ["De"]
 	},
-	"Pokettohiro! (World) (Demo) (Aftermarket) (Unl)": {
+	"Pokettohiro! (World) (v1.0) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Pokettohiro! (World) (v2.0) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pokettohiro! (World) (v3.0) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Polaris SnoCross (USA) (Beta) (Rumble Version)": {
 		"languages": ["En"]
 	},
 	"Polaris SnoCross (USA) (Rumble Version)": {
+		"languages": ["En"]
+	},
+	"Pomape Castle (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Pong - The Next Level (USA, Europe)": {
@@ -4530,6 +5140,9 @@
 	"Pop'n Pop (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Porklike (World) (v1.0.13) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Portal Runner (USA)": {
 		"languages": ["En"]
 	},
@@ -4537,6 +5150,9 @@
 		"languages": ["En"]
 	},
 	"Postie (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Postman Pat's Trail Game (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Potbound (World) (2022-09-26) (Proto) (GBJam 10) (GB Compatible) (Aftermarket) (Unl)": {
@@ -4550,6 +5166,9 @@
 	},
 	"POWA! (World) (En) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"POWA! (World) (Eu) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Eu"]
 	},
 	"POWA! (World) (Ja) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["Ja"]
@@ -4573,6 +5192,9 @@
 		"languages": ["De", "En-GB", "En-US", "Es", "Fr", "It"]
 	},
 	"Power Spike - Pro Beach Volleyball (USA)": {
+		"languages": ["En"]
+	},
+	"PowerBall - Monster's Quest (World) (Digital) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Powerpuff Girls, The - Bad Mojo Jojo (Europe) (BJJP)": {
@@ -4638,6 +5260,9 @@
 	"Prince of Persia (USA, Europe) (En,Fr,De,Es,It) (GB Compatible)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Princess Gardening (Japan) (En) (Rev 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Princess Poffin and the Spider Invasion! (World) (2023-06-04) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -4668,11 +5293,23 @@
 	"Pro Pool (USA) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
+	"Project S-11 (USA) (Beta) (2000-05-11)": {
+		"languages": ["En"]
+	},
 	"Project S-11 (USA)": {
+		"languages": ["En"]
+	},
+	"Project S-11 (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Proof of Destruction (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
+	},
+	"PSY - Psychic Love Damage (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"PSY - Psychic Love Damage (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Puchi Carat (Europe) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
@@ -4749,6 +5386,9 @@
 	"Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"Quest Arrest (World) (v1.1) (Digital) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Quest Arrest (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -4757,6 +5397,9 @@
 	},
 	"Quest for Camelot (USA, Australia) (En,Fr,Es) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Quest of the MX-129 Wizard (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Qui Qui (Japan) (GB Compatible)": {
 		"languages": ["Ja"]
@@ -4806,6 +5449,9 @@
 	"Rats! (USA) (En,Es) (GB Compatible)": {
 		"languages": ["En", "Es"]
 	},
+	"Raven's Core (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Ravenia (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
@@ -4852,10 +5498,34 @@
 		"languages": ["Zh"],
 		"localName": "熱門高校　－　數碼怪獸　Ⅲ"
 	},
+	"Remi's Pizzaria (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Repair-chan's Repair Mission (World) (Ja) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
+	"Repugnant Bounty (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Repugnant Bounty (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
 	"Repugnant Bounty (World) (Demo) (GB Compo 2021) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Repugnant Bounty (World) (Digital) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Repugnant Bounty (World) (Rev A) (Digital) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Repugnant Bounty (World) (Rev B) (Digital) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Repugnant Bounty (World) (Rev C) (Digital) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Repugnant Bounty (World) (Rev C.1) (Digital) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Repugnant Bounty (World) (v0.1.023) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
@@ -4894,7 +5564,7 @@
 	"Return of the Ninja (USA)": {
 		"languages": ["En"]
 	},
-	"Return of the Ninja (World) (Aftermarket) (Unl)": {
+	"Return of the Ninja (World) (Limited Run Games)": {
 		"languages": ["En"]
 	},
 	"Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)": {
@@ -4908,6 +5578,9 @@
 	},
 	"Rip-Tide Racer (Europe) (En,Fr,De,Es,It) (GB Compatible)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Ripjack (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"River Styx Round-Up (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -4969,6 +5642,9 @@
 	"Rocket Power - La Glisse de l'Extreme (France)": {
 		"languages": ["Fr"]
 	},
+	"Rockets Vs Cars (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Rockman 3 (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
@@ -4978,7 +5654,7 @@
 	"Rockman DX6 (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
-	"Rockman DX8 (Taiwan) (En) (Unl)": {
+	"Rockman DX8 (China) (En) (Unl)": {
 		"languages": ["En"],
 		"localName": "洛克人　ＤＸ８"
 	},
@@ -5014,6 +5690,9 @@
 	},
 	"Ronaldo V-Soccer (USA) (En,Fr,Es,Pt) (GB Compatible)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
+	},
+	"Rootin' Tootin' Cowboy Wizard Lizards (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -5066,16 +5745,25 @@
 	"Rugrats Movie, The (USA) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"Ruin Run (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Rumble & Tumble (USA) (Demo) (E3 2001)": {
 		"languages": ["En"]
 	},
 	"Runelords (USA) (Proto)": {
 		"languages": ["En"]
 	},
+	"RunieStory (World) (Aftermarket) (Unl) (Alt)": {
+		"languages": ["En"]
+	},
 	"RunieStory (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"RunieStory (World) (GB Showdown) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"RunieStory (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Runner (World) (Aftermarket) (Unl)": {
@@ -5102,8 +5790,9 @@
 	"Sakura Taisen GB 2 - Thunderbolt Sakusen (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Sakura Taisen GB - Geki Hana Gumi Nyuutai! (Japan)": {
-		"languages": ["Ja"]
+	"Sakura Taisen GB - Geki Hanagumi Nyuutai! (Japan)": {
+		"languages": ["Ja"],
+		"localName": "サクラ大戦ＧＢ　檄・花組入隊！"
 	},
 	"Sam the Optimistic Hedgehog (World) (2023-01-16) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -5126,6 +5815,9 @@
 	"Sangokushi - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
+	"Sanguozhi - Aoshi Tianxia (Taiwan) (Unl) (Alt)": {
+		"languages": ["Zh"]
+	},
 	"Sanguozhi - Aoshi Tianxia (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
@@ -5147,7 +5839,22 @@
 	"Santa Claus Junior (Europe)": {
 		"languages": ["En"]
 	},
+	"Sapphire & Shiny Kidnap the Crows (World) (v2) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Sapphire Hotel - The Little Tales of (World) (v1.2) (Batteryless) (MBC3) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Sapphire Hotel - The Little Tales of (World) (v1.2) (Batteryless) (MBC5) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Sapphire Hotel - The Little Tales of (World) (v1.2) (Demo) (MBC5) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Sapphire Hotel - The Little Tales of (World) (v1.2) (MBC3) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Sapphire Hotel - The Little Tales of (World) (v1.2) (MBC5) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Saru Puncher (Japan) (SGB Enhanced) (GB Compatible)": {
@@ -5176,6 +5883,12 @@
 	},
 	"Senkai Ibunroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
+	},
+	"Sergio Kidd (World) (En,Es) (v1.995) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es"]
+	},
+	"Sergio Kidd (World) (En,Es) (v2.013) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es"]
 	},
 	"Sesame Street - Elmo's 123s (Europe) (GB Compatible)": {
 		"languages": ["En"]
@@ -5255,10 +5968,10 @@
 	"Shantae (USA)": {
 		"languages": ["En"]
 	},
-	"Shantae (World) (Aftermarket)": {
+	"Shantae (World) (GBA Enhanced) (Switch)": {
 		"languages": ["En"]
 	},
-	"Shantae (World) (GBA Enhanced) (Switch)": {
+	"Shantae (World) (Limited Run Games)": {
 		"languages": ["En"]
 	},
 	"Shantae (World) (Switch)": {
@@ -5293,8 +6006,16 @@
 	"Shengui Diguo Zhi Emo Cheng (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
-	"Shi Mian Maifu - Fengyun Pian (Taiwan) (Unl)": {
+	"Shi Mian Maifu - Fengyun Pian (China) (Unl)": {
 		"languages": ["Zh"]
+	},
+	"Shi Mian Maifu - Tianlong Pian (China) (Unl)": {
+		"languages": ["Zh"],
+		"localName": "十面埋伏　－　天龍篇"
+	},
+	"Shi Mian Maifu - Yingxiong Pian (China) (Unl)": {
+		"languages": ["Zh"],
+		"localName": "十面埋伏　－　英雄篇"
 	},
 	"Shikong Xing Shou (Taiwan) (Unl)": {
 		"languages": ["Zh"]
@@ -5326,6 +6047,9 @@
 	"Shishang Chaoqiang RPG + Gedou + Yizhi Ban Zuhe Ka 18 in 1 (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
+	"Shoot It (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Shougi 2 (Japan) (GB Compatible)": {
 		"languages": ["Ja"],
 		"localName": "将棋２"
@@ -5335,6 +6059,9 @@
 	},
 	"Shrek - Fairy Tale Freakdown (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Shrine Rally (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Shuihu Shenshou (Taiwan) (Unl) (Alt)": {
 		"languages": ["Zh"]
@@ -5367,7 +6094,7 @@
 	"Shuma Baolong 02 4 (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
-	"Shuma Baolong 02 5 (China) (Unl)": {
+	"Shuma Baolong 02 5 (Taiwan) (Unl)": {
 		"languages": ["Zh"],
 		"localName": "數碼暴龍　０２　５"
 	},
@@ -5428,13 +6155,34 @@
 	"Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Sir Knight (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Skelby (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
+	},
+	"Skull Nightmare (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Skycon (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
+	"Slime Dungeon (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Slime's Adventure (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Sludge & Sorcery (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Smickeonn - The Game 2 - Virtual Boy Edition (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Smickeonn - The Game Boy Adventure (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Smickeonn - The Game Deluxe (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Smurfs Nightmare, The (Europe) (En,Fr,De,Es)": {
@@ -5467,6 +6215,9 @@
 	"Snooze (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Snout (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
@@ -5478,6 +6229,9 @@
 	},
 	"Soccer Manager (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
+	},
+	"Sofia the Witch - Curse of the Monster Moon (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Sofia the Witch - Curse of the Monster Moon (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -5509,6 +6263,9 @@
 	"Space Baby (USA) (Unl)": {
 		"languages": ["En"]
 	},
+	"Space Fleet (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Space Invaders (USA, Europe) (GB Compatible)": {
 		"languages": ["En"]
 	},
@@ -5525,6 +6282,9 @@
 		"languages": ["En"]
 	},
 	"Space Marauder (USA)": {
+		"languages": ["En"]
+	},
+	"Space War (World) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Space-Net - Cosmo Blue (Japan)": {
@@ -5629,6 +6389,12 @@
 	"Stars of Zureon (World) (Proto 2) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Starseed 2 (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Starseed (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Startled 911 (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
@@ -5637,6 +6403,15 @@
 	},
 	"Stranded Kids (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Stratacombo (World) (v1.0) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Stratacombo (World) (v1.2) (Proto) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Stratagem Hero (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Street Fighter Alpha - Warriors' Dreams (Europe) (Rev 1) (Proto)": {
 		"languages": ["En"]
@@ -5695,6 +6470,12 @@
 	"Super Chinese Fighter EX (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Super Color 26-in-1 (Taiwan) (Unl)": {
+		"languages": ["Zh"]
+	},
+	"Super Dassalo Land (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Super Doll Licca-chan - Kisekae Daisakusen (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5731,7 +6512,7 @@
 	"Super Jacked Up Tomato Face Johnson (World) (v2.3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Super JetPak DX (World) (GB Compatible) (Aftermarket)": {
+	"Super JetPak DX (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
 	"Super Mario Bros. Deluxe (Europe) (Rev 2)": {
@@ -5833,6 +6614,15 @@
 	"Swordbird Song - The Iron Owl Tower (World) (v3.1) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Swordsman on the Eternal Journey (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Ja"]
+	},
+	"Swordsman on the Eternal Journey (World) (En,Ja) (v1.01) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Ja"]
+	},
+	"Swordsman on the Eternal Journey (World) (It) (v1.01) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["It"]
+	},
 	"Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan) (Rev 1) (Possible Proto)": {
 		"languages": ["Ja"]
 	},
@@ -5866,6 +6656,10 @@
 	"Taikong Zhanshi DX3 - Zuizhong Huanxiang (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
+	"Taikong Zhanshi X - Fantasy War (Taiwan) (Unl)": {
+		"languages": ["Zh"],
+		"localName": "太空戰士Ｘ　－　Ｆａｎｔａｓｙ　Ｗａｒ"
+	},
 	"Taisen Tsume Shougi (Japan) (NP) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
@@ -5875,7 +6669,16 @@
 	"Taito Memorial - Chase H.Q. - Secret Police (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
+	"Take Your Medicine (World) (En,Pt) (v1.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Pt"]
+	},
+	"Take Your Medicine (World) (En,Pt) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Pt"]
+	},
 	"Tales of Monsterland (World) (v2.83) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tales of Monsterland DX (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced) (GB Compatible)": {
@@ -5957,6 +6760,18 @@
 	"Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"Tetris (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tetris (World) (v1.01) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tetris (World) (v1.1) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tetris (World) (v1.2) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
@@ -5978,6 +6793,9 @@
 	"TG Rally 2 (United Kingdom)": {
 		"languages": ["En"]
 	},
+	"The Last Employee DX (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Three Lions (United Kingdom) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Sv"]
 	},
@@ -5991,6 +6809,12 @@
 		"languages": ["En"]
 	},
 	"Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible)": {
+		"languages": ["En"]
+	},
+	"Tiledentity (World) (v1.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tiledentity (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tintin - Le Temple Du Soleil (Europe) (En,Fr,De) (Beta)": {
@@ -6035,6 +6859,9 @@
 	"TNN Outdoors Fishing Champ (USA) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"To The Stars (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
@@ -6044,7 +6871,10 @@
 	"Toki Tori (USA, Europe) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
-	"Toki Tori (World) (Aftermarket)": {
+	"Toki Tori (World) (Limited Run Games)": {
+		"languages": ["En"]
+	},
+	"Toki Tori - Ultimate Edition (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody (Japan) (SGB Enhanced) (GB Compatible)": {
@@ -6129,6 +6959,39 @@
 		"languages": ["En"]
 	},
 	"Toobin' (USA)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura (World) (Beta 1) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura (World) (Beta 2) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura (World) (Beta 4) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura (World) (Beta 5) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura (World) (Beta 6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura (World) (Digital) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura (World) (v0.4) (Demo) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura - Blue Moon Edition (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura - Ultimate Edition (World) (Digital) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tools of Nexaura - Ultimate Edition (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Toonsylvania (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -6227,10 +7090,16 @@
 	"Trickboarder GP (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Trip World DX (USA) (Limited Run Games)": {
+	"Trip World DX (World) (Limited Run Games)": {
 		"languages": ["En"]
 	},
 	"Triple Play 2001 (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Tristam Island (World) (v1.6) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Trouballs (USA) (Beta) (2000-04-02)": {
 		"languages": ["En"]
 	},
 	"Trouballs (USA)": {
@@ -6308,6 +7177,9 @@
 	"Tyrannosaurus Tex (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Tyrannosaurus Tex (World) (Piko Interactive)": {
+		"languages": ["En"]
+	},
 	"Tyrian 2000 (USA) (Proto) (GB Compatible)": {
 		"languages": ["En"]
 	},
@@ -6335,7 +7207,16 @@
 	"Ultimate Surfing (USA)": {
 		"languages": ["En"]
 	},
+	"Unearthed (World) (2024 Version) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Unearthed (World) (v1.1) (2024 Version) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Unearthed (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Unearthed Zero (World) (2021 Jam Version) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Ungrateful Son, The (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)": {
@@ -6348,6 +7229,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Uno (USA) (GB Compatible)": {
+		"languages": ["En"]
+	},
+	"Usurper Ghoul (World) (v1.9) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"UXB (World) (Aftermarket) (Unl)": {
@@ -6386,6 +7270,9 @@
 	"Visiteurs, Les (France) (GB Compatible)": {
 		"languages": ["Fr"]
 	},
+	"Vixen (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"VOX (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
@@ -6403,6 +7290,9 @@
 	},
 	"Wai Xing Tanxian Zhi Xingqiu Dazhan (Taiwan) (Unl)": {
 		"languages": ["Zh"]
+	},
+	"Walaki (World) (Hu) (Aftermarket) (Unl)": {
+		"languages": ["Hu"]
 	},
 	"Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es)": {
 		"languages": ["De", "Es", "Fr"]
@@ -6470,6 +7360,12 @@
 	"Waternet (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
+	"Wayfarer Boo - Pushing Through (World) (v1.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Wayfarer Boo - Pushing Through (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"WCW Mayhem (USA, Europe)": {
 		"languages": ["En"]
 	},
@@ -6500,19 +7396,40 @@
 	"What's Updog (World) (2022-11-23) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"What's Updog (World) (2023-01-09) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Where's My Cake (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
 	},
+	"Who Dares Wins II (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Who Wants to Be a Millionaire - 2nd Edition (USA)": {
+		"languages": ["En"]
+	},
+	"Wicked Plague (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Wicked Plague (World) (v0.1.1) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Wicked Plague (World) (v0.1.2) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Wild Thornberrys, The - Rambler (USA)": {
 		"languages": ["En"]
 	},
-	"Wing Warriors (World) (En,Fr,Es) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
+	"Wing Warriors (World) (En,Fr,Es) (Beta 1) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Wing Warriors (World) (En,Fr,Es) (GB Compatible) (Aftermarket) (Unl)": {
+	"Wing Warriors (World) (En,Fr,Es) (Beta 2) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Wing Warriors (World) (En,Fr,Es) (EGS) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Wing Warriors (World) (En,Fr,Es) (Kitmaker) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Wings of Fury (Europe) (En,Fr,De) (GB Compatible)": {
@@ -6521,17 +7438,38 @@
 	"Wings of Fury (USA) (GB Compatible)": {
 		"languages": ["En"]
 	},
+	"Wink & the Broken Robot (World) (Beta 6) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Winnie the Pooh - Adventures in the 100 Acre Wood (USA)": {
 		"languages": ["En"]
 	},
-	"Witches and Butchers (World) (v2) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+	"Winsley's Guardian (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Witches and Butchers (World) (v3) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+	"Winsley's Guardian (World) (v1.2.8) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Winsley's Guardian (World) (v1.3.0) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Witches and Butchers (World) (2023-08-26) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Witches and Butchers (World) (2024-03-23) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Witches and Butchers (World) (En,Es) (2024-08-14-1) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es"]
+	},
+	"Witches and Butchers (World) (En,Es) (2024-08-14-2) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es"]
+	},
+	"Witches and Butchers (World) (En,Es) (2024-08-15) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es"]
 	},
 	"Wizard of Wor (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
@@ -6553,6 +7491,12 @@
 	},
 	"Wizardry III - Diamond no Kishi (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Wizkid and The Tower (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Wolf Pack (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Woody Woodpecker (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6586,6 +7530,12 @@
 	},
 	"Worms Armageddon (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Worms Armageddon (World) (Limited Run Games)": {
+		"languages": ["En"]
+	},
+	"Wrestling Thunder City (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"WWF Attitude (USA, Europe)": {
 		"languages": ["En"]
@@ -6658,6 +7608,9 @@
 	"Xtreme Sports (USA)": {
 		"languages": ["En"]
 	},
+	"Xtreme Sports (World) (Limited Run Games)": {
+		"languages": ["En"]
+	},
 	"Xtreme Sports (World) (Switch)": {
 		"languages": ["En"]
 	},
@@ -6688,6 +7641,18 @@
 	"Year After, The (World) (Pt) (Beta) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["Pt"]
 	},
+	"Yellow Sapphire Hotel - The Little Tales of (World) (Batteryless) (MBC3) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yellow Sapphire Hotel - The Little Tales of (World) (Batteryless) (MBC5) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yellow Sapphire Hotel - The Little Tales of (World) (MBC3) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yellow Sapphire Hotel - The Little Tales of (World) (MBC5) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Yin Ban Zhongwen RPG Zhanlve + Dongzuo + Yizhi 12 in 1 (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
@@ -6706,6 +7671,15 @@
 	},
 	"Yixing VS Tiexue Zhanshi (Taiwan) (Unl)": {
 		"languages": ["Zh"]
+	},
+	"YiYa - The Digital Pet Game (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"YiYa - The Digital Pet Game DX (World) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"YNXA (World) (En,Ja,Fr,De,Es-ES,Pt-BR) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["De", "En", "Es-ES", "Fr", "Ja", "Pt-BR"]
 	},
 	"Yogi Bear - Great Balloon Blast (USA)": {
 		"languages": ["En"]
@@ -6763,6 +7737,21 @@
 	},
 	"Yuenan Zhanyi X - Shenru Dihou (Taiwan) (Unl)": {
 		"languages": ["Zh"]
+	},
+	"Yurivania 0 - Soul Night Prelude (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yurivania - Uhaul of the Night (World) (v1.5) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yurivania II - Josette's Quest (World) (v1.2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yurivania II - Josette's Quest (World) (v1.3) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yurivania III - Circle of the Polycule (World) (v1.4) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Zagan Warrior (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
@@ -6857,17 +7846,31 @@
 	"Zhen Sanguo Wushuang 2 - Shin Sangokumusou (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
+	"Zhihuan Wang 2 (China) (Zh) (Unl)": {
+		"languages": ["Zh"],
+		"localName": "指環王２"
+	},
 	"Zhihuan Wang - Shoubu Qu (Taiwan) (Zh) (Unl)": {
 		"languages": ["Zh"]
 	},
 	"Zhizhu Xia III - Dianying Ban (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
+	"Zhong Zhuang Ji Bing (China) (Pirate)": {
+		"languages": ["Zh-Hant"],
+		"localName": "重裝機兵"
+	},
 	"Zidane - Football Generation (Europe) (En,Fr,De,Es,It) (Beta)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Zidane - Football Generation (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Zippy The Pinecone (World) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Zippy The Pinecone (World) (v2.7) (Demo) (GB Compatible) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Zoboomafoo - Playtime in Zobooland (USA)": {
 		"languages": ["En"]
@@ -6891,6 +7894,9 @@
 		"languages": ["En"]
 	},
 	"Zook Z (USA) (Unl)": {
+		"languages": ["En"]
+	},
+	"Zork + Harris (World) (v0.0.1.0) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	}
 }

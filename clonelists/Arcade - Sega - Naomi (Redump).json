@@ -1,15 +1,14 @@
 {
 	"description": {
 		"name": "Arcade - Sega - Naomi (Redump)",
-		"lastUpdated": "09 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Melty Blood - Act Cadenza",
 			"titles": [
-				{"searchTerm": "Melty Blood - Act Cadenza Ver. B"},
+				{"searchTerm": "Melty Blood - Act Cadenza Ver. B", "nameType": "regionFree"},
 				{"searchTerm": "Melty Blood - Act Cadenza", "priority": 2}
 			]
 		},

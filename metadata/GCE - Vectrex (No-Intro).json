@@ -20,7 +20,7 @@
 	"Art Master (USA)": {
 		"languages": ["En"]
 	},
-	"Bedlam (USA, Europe)": {
+	"Bedlam (World)": {
 		"languages": ["En"]
 	},
 	"Berzerk (Europe) (Rev 2)": {
@@ -29,7 +29,7 @@
 	"Berzerk (USA)": {
 		"languages": ["En"]
 	},
-	"Blitz! - Action Football (USA, Europe) (Alt)": {
+	"Blitz! - Action Football (World) (Alt)": {
 		"languages": ["En"]
 	},
 	"Blitz! - Action Football (World)": {
@@ -47,7 +47,10 @@
 	"Engine Analyzer (USA) (Proto)": {
 		"languages": ["En"]
 	},
-	"Fortress of Narzod (USA, Europe)": {
+	"Fortress of Narzod (Europe) (Rev 2)": {
+		"languages": ["En"]
+	},
+	"Fortress of Narzod (USA)": {
 		"languages": ["En"]
 	},
 	"Heads-Up - Action Soccer (World)": {
@@ -71,7 +74,7 @@
 	"Mine Storm II (USA) (Rev 2)": {
 		"languages": ["En"]
 	},
-	"Mr. Boston Clean Sweep (Europe)": {
+	"Mr. Boston - Clean Sweep (USA)": {
 		"languages": ["En"]
 	},
 	"Pitcher's Duel (USA) (Proto)": {
@@ -95,7 +98,7 @@
 	"Rip Off (World)": {
 		"languages": ["En"]
 	},
-	"Scramble (USA, Europe)": {
+	"Scramble (World)": {
 		"languages": ["En"]
 	},
 	"Sledge 3D (USA) (Sample)": {
@@ -107,16 +110,19 @@
 	"Space Wars (World)": {
 		"languages": ["En"]
 	},
-	"Spike (USA, Europe)": {
+	"Spike (World)": {
 		"languages": ["En"]
 	},
-	"Spinball (USA)": {
+	"Spinball (World)": {
 		"languages": ["En"]
 	},
 	"Star Castle (USA)": {
 		"languages": ["En"]
 	},
-	"Star Ship (Europe)": {
+	"Star Ship (Europe) (1982)": {
+		"languages": ["En"]
+	},
+	"Star Ship (Europe) (1983)": {
 		"languages": ["En"]
 	},
 	"Star Trek - The Motion Picture (USA)": {
@@ -131,10 +137,16 @@
 	"Tour De France (USA) (Proto)": {
 		"languages": ["En"]
 	},
+	"USA Zombie Apocalypse (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Vectral (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"WebWarp (Europe)": {
 		"languages": ["En"]
 	},
-	"WebWars (USA)": {
+	"WebWars (World)": {
 		"languages": ["En"]
 	}
 }

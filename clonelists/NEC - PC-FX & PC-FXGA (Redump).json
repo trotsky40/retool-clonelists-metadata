@@ -1,23 +1,22 @@
 {
 	"description": {
 		"name": "NEC - PC-FX & PC-FXGA (Redump)",
-		"lastUpdated": "26 December 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
-		{
-			"group": "Amateur Teikyou CD-ROM (NEC PC-FXGA)",
-			"categories": ["Demos"],
-			"titles": [
-				{"searchTerm": "Amateur Teikyou CD-ROM (NEC PC-FXGA)"}
-			]
-		},
 		{
 			"group": "Amateur Teikyou CD-ROM (DOS-V-you) (NEC PC-FXGA)",
 			"categories": ["Demos"],
 			"titles": [
 				{"searchTerm": "Amateur Teikyou CD-ROM (DOS-V-you) (NEC PC-FXGA)"}
+			]
+		},
+		{
+			"group": "Amateur Teikyou CD-ROM (NEC PC-FXGA)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Amateur Teikyou CD-ROM (NEC PC-FXGA)"}
 			]
 		},
 		{
@@ -60,13 +59,6 @@
 			"categories": ["Video"],
 			"titles": [
 				{"searchTerm": "AnimeFreak FX Vol. 5 (Disc 2)"}
-			]
-		},
-		{
-			"group": "AnimeFreak FX Vol. 5 (Disc 1)",
-			"categories": ["Video"],
-			"titles": [
-				{"searchTerm": "AnimeFreak FX Vol. 5 (Disc 1)"}
 			]
 		},
 		{

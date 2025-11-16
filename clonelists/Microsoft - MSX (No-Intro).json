@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Microsoft - MSX (No-Intro)",
-		"lastUpdated": "06 January 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "3-D Golf Simulation",
@@ -49,17 +48,17 @@
 			]
 		},
 		{
-			"group": "Konami's Billiards",
-			"titles": [
-				{"searchTerm": "Konami's Billiards"},
-				{"searchTerm": "Video Hustler"}
-			]
-		},
-		{
 			"group": "Knightmare II - The Maze of Galious",
 			"titles": [
 				{"searchTerm": "Knightmare - Majou Densetsu"},
 				{"searchTerm": "Knightmare II - The Maze of Galious"}
+			]
+		},
+		{
+			"group": "Konami's Billiards",
+			"titles": [
+				{"searchTerm": "Konami's Billiards"},
+				{"searchTerm": "Video Hustler"}
 			]
 		},
 		{
@@ -86,14 +85,25 @@
 		{
 			"group": "Nemesis 2",
 			"titles": [
-				{"searchTerm": "Gradius 2", "localNames": {"english": "Gradius 2", "japanese": "グラディウス２"}},
+				{
+					"searchTerm": "Gradius 2",
+					"localNames": {
+						"english": "Gradius 2",
+						"japanese": "グラディウス２"
+					}
+				},
 				{"searchTerm": "Nemesis 2"}
 			]
 		},
 		{
 			"group": "Nemesis 3 - The Eve of Destruction",
 			"titles": [
-				{"searchTerm": "Gofer no Yabo - Episode II", "localNames": {"japanese": "ゴーファーの野望・ＥＰＩＳＯＤＥ　Ⅱ"}},
+				{
+					"searchTerm": "Gofer no Yabo - Episode II",
+					"localNames": {
+						"japanese": "ゴーファーの野望・ＥＰＩＳＯＤＥ　Ⅱ"
+					}
+				},
 				{"searchTerm": "Nemesis 3 - The Eve of Destruction"}
 			]
 		},

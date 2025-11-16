@@ -1,4 +1,10 @@
 {
+	"240p Test Suite (World) (v1.23) (Program) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"240p Test Suite (World) (v1.30) (Program) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Adventures of Batman and Robin, The (Unknown) (Beta) (1995-04-24)": {
 		"languages": ["En"]
 	},
@@ -14,6 +20,9 @@
 	"Battlecorps (Unknown) (Beta) (1994-02-11)": {
 		"languages": ["En"]
 	},
+	"Blackhole Assault (Unknown) (Beta) (1992-10-01) [b]": {
+		"languages": ["En"]
+	},
 	"Blackhole Assault (Unknown) (Beta) (1992-10-01)": {
 		"languages": ["En"]
 	},
@@ -27,6 +36,9 @@
 		"languages": ["En"]
 	},
 	"Default (Unknown)": {
+		"languages": ["En"]
+	},
+	"Fatal Fury Special (Unknown) (Beta) (1995-01-13) [b]": {
 		"languages": ["En"]
 	},
 	"Fatal Fury Special (Unknown) (Beta) (1995-01-13)": {
@@ -50,9 +62,6 @@
 	"Make My Video - Marky Mark and the Funky Bunch (Unknown) (Beta) (1993-01-20)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (Unknown) (Beta) (1995-06-12)": {
-		"languages": ["En"]
-	},
 	"Road Rash (Unknown) (Beta) (1995-02-11)": {
 		"languages": ["En"]
 	},
@@ -64,5 +73,8 @@
 	},
 	"Tomcat Alley (Unknown) (Beta) (1994-02-10)": {
 		"languages": ["En"]
+	},
+	"WonderMega Collection (Japan) (Rev 2)": {
+		"languages": ["nolang"]
 	}
 }

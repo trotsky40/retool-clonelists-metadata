@@ -1,92 +1,9 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "19 April 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
-	"mias": [
-		"3.15 IDU Firmware Update (USA)",
-		"3.40 IDU-IDU FW Update (USA)",
-		"3.66 IDU FW (USA)",
-		"April 2009 IDU 2.60 (USA)",
-		"Atelier Ayesha (Asia)",
-		"Buzz! The Ultimate Music Quiz (Greece)",
-		"Call of Duty 4 - Modern Warfare (Korea)",
-		"Captain America - Super Soldier (Asia) (En,Fr,De,Es,It)",
-		"Dead Space (UK) (En,Fr,Es) (Beta) (2008-08-30)",
-		"Drag-on Dragoon 3 (Asia)",
-		"Dragon Ball Z - Budokai HD Collection (Asia) (En,Fr,Es)",
-		"E-M Fall Refresh 3.40 IDU-IDU Update (USA)",
-		"Endcap Display - 2014 Holiday Refresh - Walmart (USA)",
-		"Endcap Display - 2015 Winter Refresh - Walmart (USA)",
-		"Evil Within, The (Asia)",
-		"Fairytale Fights (Europe) (Beta) (2009-09-04)",
-		"Fairytale Fights (Europe) (Beta) (2009-09-24)",
-		"Fall 2013 - PS3 IDU 4.46 (USA)",
-		"Fall Refresh 2011 - 3.70 IDU FW Update (USA)",
-		"GT5 - IDU FW update 3.40 (USA) (Kiosk Demo)",
-		"Gran Turismo 5 (Asia) (En,Zh)",
-		"Guitar Hero - Aerosmith IDU_IDU 2.35 (USA)",
-		"Guitar Hero - Smash Hits - May 2.76 IDU Update (USA)",
-		"Guitar Hero - Warriors of Rock 3.40 IDU FW Update (USA) (Kiosk Demo)",
-		"Guitar Hero World Tour IDU 2.43 (USA)",
-		"Inline Display - 2014 Holiday Refresh - Walmart (USA)",
-		"Inline Video Player Display - 2015 Winter Refresh - Walmart (USA)",
-		"Jin Samguk Mussang - Multi Raid Special (Korea)",
-		"LittleBigPlanet 2 (Asia) (En,Zh)",
-		"LittleBigPlanet Karting (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru) (Beta) (2012-08-01)",
-		"Marvel vs. Capcom 3 - Fate of Two Worlds (Korea) (En,Ja,Fr,De,Es,It)",
-		"Mobile Suit Gundam - Side Stories (Asia)",
-		"MotorStorm 3 - Apocalypse (Asia)",
-		"MotorStorm II (Asia)",
-		"Musou Orochi Z (Asia)",
-		"Mussang Orochi Z (Korea)",
-		"Nobunaga no Yabou - Souzou (Asia)",
-		"One Piece - Unlimited World R (Asia)",
-		"PES 2016 - Pro Evolution Soccer - Winning Eleven 2016 (Asia) (En,Zh,Ko)",
-		"PES 2017 - Pro Evolution Soccer - Winning Eleven 2017 (Asia) (En,Ja,Zh,Ko)",
-		"PES 2018 - Pro Evolution Soccer - Winning Eleven 2018 (Korea) (En,Ja,Zh,Ko)",
-		"PS3 IDU - 2014 Holiday Refresh (USA)",
-		"PS3 IDU - 2015 Holiday Refresh (USA)",
-		"PS3 IDU 3.50 FW - Oct 2010 (USA)",
-		"PS3 IDU 3.56 FW (USA)",
-		"PS3 IDU 3.72 PS 3D Display Update (USA)",
-		"PS3 IDU 431 (USA)",
-		"PS3 IDU Update 4.10 (USA)",
-		"PS3 IDU Update 430 (USA)",
-		"PS3 Standard IDU 4.23 - Holiday 2012 Update (USA)",
-		"PS3 System Software v.4.21 - F-W Only (USA)",
-		"PlayStation 3 System Software Update (Version 2.0) (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr)",
-		"PlayStation 3 System Software Update (Version 2.0) (USA) (En,Fr)",
-		"Pro Yakyuu Spirits 2013 (Asia)",
-		"Ratchet & Clank - Nexus (World) (Beta)",
-		"Remember Me (World) (Beta) (2013-03-20)",
-		"Saint Seiya - Sanctuary Battle (World) (En,Ja) (Beta) (2011-12-07)",
-		"Samurai Dou 3 (Japan) (v02.00)",
-		"Shin Sangoku Musou 5 (Asia)",
-		"Shining Resonance (Asia)",
-		"SingStar (Norway)",
-		"SingStar Mallorca Party (Germany) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru) (v02.00)",
-		"SingStar SuomiBileet (Finland) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr)",
-		"Spider-Man 3 (Korea)",
-		"Sports Champions & Medieval Moves - Deadmund's Quest Combo Disc (Latin America) (En,Fr,Es,Pt)",
-		"Spring 2012 Refresh Standard - PS3 IDU 4.11 (USA)",
-		"Spring 2013 - Standard IDU 4.31 (USA)",
-		"Spring Refresh 2010 - 3.21 IDU Update (E-M) (USA)",
-		"Spring Refresh 2011 3.60 IDU FW Update (USA)",
-		"Start the Party! (Korea)",
-		"Street Fighter X Tekken (World) (Beta) (2012-01-16)",
-		"Summer Refresh 2011 - 3.65 IDU FW Update (USA)",
-		"Walmart Endcap - 2014 Summer Refresh (USA)",
-		"Winter 2012 Refresh PS3 IDU 3.72 (USA)",
-		"Winter Refresh 2011 - 3.55 FW Update (USA)",
-		"WipEout HD (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (Beta)",
-		"Wonderbook - Diggs Nightcrawler (Europe) (En,Da,Ru) (Beta)",
-		"inFamous 2 (Asia) (En,Zh,Ko)",
-		"inFamous 2 + MotorStorm Apocalypse - Spring Refresh 2011 3.60 IDU FW Update (USA)"
-	],
-
 	"variants": [
 		{
 			"group": "007 - Quantum of Solace",
@@ -163,14 +80,15 @@
 			"group": "Agarest - Generations of War",
 			"titles": [
 				{"searchTerm": "Agarest - Generations of War"},
+				{"searchTerm": "Agarest Senki"},
 				{"searchTerm": "Record of Agarest War"}
 			]
 		},
 		{
 			"group": "Akiba's Trip - Undead & Undressed",
 			"titles": [
-				{"searchTerm": "Akiba's Trip - Undead & Undressed"},
-				{"searchTerm": "Akiba's Trip 2"}
+				{"searchTerm": "Akiba's Trip 2"},
+				{"searchTerm": "Akiba's Trip - Undead & Undressed"}
 			]
 		},
 		{
@@ -181,10 +99,10 @@
 			]
 		},
 		{
-			"group": "Agarest - Generations of War",
+			"group": "Amazing Spider-Man, The",
 			"titles": [
-				{"searchTerm": "Agarest - Generations of War"},
-				{"searchTerm": "Agarest Senki"}
+				{"searchTerm": "Amazing Spider-Man, The"},
+				{"searchTerm": "Novyj Chelovek-Pauk"}
 			]
 		},
 		{
@@ -206,13 +124,6 @@
 			"titles": [
 				{"searchTerm": "Aquanaut's Holiday - Hidden Memories"},
 				{"searchTerm": "Aquanaut's Holiday - Kakusareta Kiroku"}
-			]
-		},
-		{
-			"group": "Amazing Spider-Man, The",
-			"titles": [
-				{"searchTerm": "Amazing Spider-Man, The"},
-				{"searchTerm": "Novyj Chelovek-Pauk"}
 			]
 		},
 		{
@@ -255,9 +166,9 @@
 				{"searchTerm": "Assassin's Creed - Brotherhood"}
 			],
 			"compilations": [
+				{"searchTerm": "Assassin's Creed - Brotherhood + Assassin's Creed - Revelations", "titlePosition": 1},
 				{"searchTerm": "Assassin's Creed - Ezio Saga"},
 				{"searchTerm": "Assassin's Creed - Ezio Trilogy"},
-				{"searchTerm": "Assassin's Creed - Brotherhood + Assassin's Creed - Revelations", "titlePosition": 1},
 				{"searchTerm": "Assassin's Creed - Heritage Collection"}
 			]
 		},
@@ -270,17 +181,26 @@
 				{"searchTerm": "Assassin's Creed - Revelations - Special Edition"}
 			],
 			"compilations": [
+				{"searchTerm": "Assassin's Creed - Brotherhood + Assassin's Creed - Revelations", "priority": 2, "titlePosition": 2},
 				{"searchTerm": "Assassin's Creed - Ezio Saga", "priority": 2},
 				{"searchTerm": "Assassin's Creed - Ezio Trilogy", "priority": 2},
-				{"searchTerm": "Assassin's Creed - Brotherhood + Assassin's Creed - Revelations", "titlePosition": 2, "priority": 2},
 				{"searchTerm": "Assassin's Creed - Heritage Collection", "priority": 2}
+			]
+		},
+		{
+			"group": "Assassin's Creed - Rogue",
+			"titles": [
+				{"searchTerm": "Assassin's Creed - Rogue"}
+			],
+			"compilations": [
+				{"searchTerm": "Assassin's Creed IV - Black Flag + Assassin's Creed - Rogue", "titlePosition": 2}
 			]
 		},
 		{
 			"group": "Assassin's Creed - The Americas Collection",
 			"titles": [
-				{"searchTerm": "Assassin's Creed - The Americas Collection"},
-				{"searchTerm": "Assassin's Creed - Birth of a New World - The American Saga"}
+				{"searchTerm": "Assassin's Creed - Birth of a New World - The American Saga"},
+				{"searchTerm": "Assassin's Creed - The Americas Collection"}
 			]
 		},
 		{
@@ -293,10 +213,10 @@
 				{"searchTerm": "Assassin's Creed II - Special Edition"}
 			],
 			"compilations": [
+				{"searchTerm": "Assassin's Creed II - Game of the Year Edition + Assassin's Creed", "titlePosition": 1},
 				{"searchTerm": "Assassin's Creed - Ezio Trilogy", "priority": 2},
 				{"searchTerm": "Assassin's Creed - Heritage Collection", "priority": 2},
-				{"searchTerm": "Assassin's Creed I + II Welcome Pack", "titlePosition": 2, "priority": 2},
-				{"searchTerm": "Assassin's Creed II - Game of the Year Edition + Assassin's Creed", "titlePosition": 1}
+				{"searchTerm": "Assassin's Creed I + II Welcome Pack", "priority": 2, "titlePosition": 2}
 			]
 		},
 		{
@@ -305,8 +225,8 @@
 				{"searchTerm": "Assassin's Creed III"}
 			],
 			"compilations": [
-				{"searchTerm": "Assassin's Creed - Heritage Collection"},
-				{"searchTerm": "Assassin's Creed - Connor Saga"}
+				{"searchTerm": "Assassin's Creed - Connor Saga"},
+				{"searchTerm": "Assassin's Creed - Heritage Collection"}
 			]
 		},
 		{
@@ -316,15 +236,6 @@
 			],
 			"compilations": [
 				{"searchTerm": "Assassin's Creed IV - Black Flag + Assassin's Creed - Rogue", "titlePosition": 1}
-			]
-		},
-		{
-			"group": "Assassin's Creed - Rogue",
-			"titles": [
-				{"searchTerm": "Assassin's Creed - Rogue"}
-			],
-			"compilations": [
-				{"searchTerm": "Assassin's Creed IV - Black Flag + Assassin's Creed - Rogue", "titlePosition": 2}
 			]
 		},
 		{
@@ -401,6 +312,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Battlefield - Bad Company 2 (Limited Edition)"}
+			]
+		},
+		{
+			"group": "BioShock",
+			"titles": [
+				{"searchTerm": "BioShock"},
+				{"searchTerm": "BioShock (2K Collection)"}
 			]
 		},
 		{
@@ -510,7 +428,6 @@
 				{"searchTerm": "Buzz! Quiz TV"}
 			],
 			"supersets": [
-				{"searchTerm": "Buzz! TV Visa Special Edition"},
 				{"searchTerm": "Buzz! Quiz TV (Special Edition)"}
 			]
 		},
@@ -561,13 +478,6 @@
 			"titles": [
 				{"searchTerm": "Cross Edge"},
 				{"searchTerm": "X Edge"}
-			]
-		},
-		{
-			"group": "Crysis 3 (Hunter Edition)",
-			"titles": [
-				{"searchTerm": "Crysis 3"},
-				{"searchTerm": "Crysis 3 (Hunter Edition)"}
 			]
 		},
 		{
@@ -647,6 +557,13 @@
 			]
 		},
 		{
+			"group": "Deception IV - Blood Ties",
+			"titles": [
+				{"searchTerm": "Deception IV - Blood Ties"},
+				{"searchTerm": "Kagero - Darkside Princess"}
+			]
+		},
+		{
 			"group": "Deus Ex - Human Revolution",
 			"titles": [
 				{"searchTerm": "Deus Ex"},
@@ -663,13 +580,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "DiRT 3 - Complete Edition"}
-			]
-		},
-		{
-			"group": "Deception IV - Blood Ties",
-			"titles": [
-				{"searchTerm": "Deception IV - Blood Ties"},
-				{"searchTerm": "Kagero - Darkside Princess"}
 			]
 		},
 		{
@@ -713,16 +623,16 @@
 		{
 			"group": "Disney Infinity 3.0 Edition",
 			"titles": [
+				{"searchTerm": "Disney Infinity 3.0"},
 				{"searchTerm": "Disney Infinity 3.0 - Play Without Limits"},
-				{"searchTerm": "Disney Infinity 3.0 Edition"},
-				{"searchTerm": "Disney Infinity 3.0"}
+				{"searchTerm": "Disney Infinity 3.0 Edition"}
 			]
 		},
 		{
 			"group": "Disney-Pixar Cars 2",
 			"titles": [
-				{"searchTerm": "Disney-Pixar Cars 2"},
-				{"searchTerm": "Disney - Pixar Arabalar 2"}
+				{"searchTerm": "Disney - Pixar Arabalar 2"},
+				{"searchTerm": "Disney-Pixar Cars 2"}
 			]
 		},
 		{
@@ -794,37 +704,10 @@
 			]
 		},
 		{
-			"group": "Dynasty Warriors - Gundam",
-			"titles": [
-				{"searchTerm": "Dynasty Warriors - Gundam"},
-				{"searchTerm": "Gundam Musou"}
-			]
-		},
-		{
-			"group": "Dynasty Warriors - Gundam 2",
-			"titles": [
-				{"searchTerm": "Dynasty Warriors - Gundam 2"},
-				{"searchTerm": "Gundam Musou 2"}
-			]
-		},
-		{
-			"group": "Dynasty Warriors - Gundam 3",
-			"titles": [
-				{"searchTerm": "Dynasty Warriors - Gundam 3"},
-				{"searchTerm": "Gundam Musou 3"}
-			]
-		},
-		{
-			"group": "Dynasty Warriors - Gundam Reborn",
-			"titles": [
-				{"searchTerm": "Dynasty Warriors - Gundam Reborn"},
-				{"searchTerm": "Shin Gundam Musou"}
-			]
-		},
-		{
 			"group": "Dynasty Warriors 6",
 			"titles": [
 				{"searchTerm": "Dynasty Warriors 6"},
+				{"searchTerm": "Jin Samguk Mussang 5"},
 				{"searchTerm": "Shin Sangoku Musou 5"}
 			]
 		},
@@ -872,6 +755,35 @@
 			]
 		},
 		{
+			"group": "Dynasty Warriors - Gundam",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors - Gundam"},
+				{"searchTerm": "Gundam Musou"},
+				{"searchTerm": "Gundam Mussang"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors - Gundam 2",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors - Gundam 2"},
+				{"searchTerm": "Gundam Musou 2"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors - Gundam 3",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors - Gundam 3"},
+				{"searchTerm": "Gundam Musou 3"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors - Gundam Reborn",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors - Gundam Reborn"},
+				{"searchTerm": "Shin Gundam Musou"}
+			]
+		},
+		{
 			"group": "EA Sports MMA",
 			"titles": [
 				{"searchTerm": "EA Sports MMA"},
@@ -888,8 +800,8 @@
 		{
 			"group": "Eat Lead - The Return of Matt Hazard",
 			"titles": [
-				{"searchTerm": "Eat Lead - The Return of Matt Hazard"},
-				{"searchTerm": "Eat Lead - Matt Hazard no Gyakushuu"}
+				{"searchTerm": "Eat Lead - Matt Hazard no Gyakushuu"},
+				{"searchTerm": "Eat Lead - The Return of Matt Hazard"}
 			]
 		},
 		{
@@ -903,8 +815,12 @@
 					"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Europe"]},
-							"results": {"priority": 2}
+							"conditions": {
+								"matchRegions": ["Europe"]
+							},
+							"results": {
+								"priority": 2
+							}
 						}
 					]
 				}
@@ -921,8 +837,12 @@
 					"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Europe"]},
-							"results": {"priority": 2}
+							"conditions": {
+								"matchRegions": ["Europe"]
+							},
+							"results": {
+								"priority": 2
+							}
 						}
 					]
 				}
@@ -992,15 +912,6 @@
 			]
 		},
 		{
-			"group": "Fallout - New Vegas",
-			"titles": [
-				{"searchTerm": "Fallout - New Vegas"}
-			],
-			"supersets": [
-				{"searchTerm": "Fallout - New Vegas - Ultimate Edition"}
-			]
-		},
-		{
 			"group": "Fallout 3",
 			"titles": [
 				{"searchTerm": "Fallout 3"}
@@ -1019,9 +930,12 @@
 			]
 		},
 		{
-			"group": "Far Cry Classic",
-			"compilations": [
-				{"searchTerm": "Far Cry - The Wild Expedition"}
+			"group": "Fallout - New Vegas",
+			"titles": [
+				{"searchTerm": "Fallout - New Vegas"}
+			],
+			"supersets": [
+				{"searchTerm": "Fallout - New Vegas - Ultimate Edition"}
 			]
 		},
 		{
@@ -1040,9 +954,9 @@
 				{"searchTerm": "Far Cry 3"}
 			],
 			"compilations": [
+				{"searchTerm": "Far Cry 3 + Far Cry 4 - Double Pack", "titlePosition": 1},
 				{"searchTerm": "Far Cry - The Wild Expedition"},
-				{"searchTerm": "Far Cry Compilation"},
-				{"searchTerm": "Far Cry 3 + Far Cry 4 - Double Pack", "titlePosition": 1}
+				{"searchTerm": "Far Cry Compilation"}
 			]
 		},
 		{
@@ -1062,12 +976,25 @@
 			]
 		},
 		{
+			"group": "Far Cry Classic",
+			"compilations": [
+				{"searchTerm": "Far Cry - The Wild Expedition"}
+			]
+		},
+		{
 			"group": "Ferrari Challenge - Trofeo Pirelli",
 			"titles": [
 				{"searchTerm": "Ferrari Challenge - Trofeo Pirelli"}
 			],
 			"compilations": [
 				{"searchTerm": "Ferrari Challenge - Trofeo Pirelli with Supercar Challenge", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "FIFA 09",
+			"titles": [
+				{"searchTerm": "FIFA 09"},
+				{"searchTerm": "FIFA 09 - World Class Soccer"}
 			]
 		},
 		{
@@ -1090,13 +1017,6 @@
 				{"searchTerm": "FIFA 08"},
 				{"searchTerm": "FIFA 08 - World Class Soccer"},
 				{"searchTerm": "FIFA Soccer 08"}
-			]
-		},
-		{
-			"group": "FIFA 09",
-			"titles": [
-				{"searchTerm": "FIFA 09"},
-				{"searchTerm": "FIFA 09 - World Class Soccer"}
 			]
 		},
 		{
@@ -1139,6 +1059,15 @@
 			]
 		},
 		{
+			"group": "Final Fantasy XIV Online",
+			"titles": [
+				{"searchTerm": "Final Fantasy XIV Online"}
+			],
+			"supersets": [
+				{"searchTerm": "Final Fantasy XIV Online - The Complete Experience"}
+			]
+		},
+		{
 			"group": "Final Fantasy XIV Online - A Realm Reborn",
 			"titles": [
 				{"searchTerm": "Final Fantasy XIV Online - A Realm Reborn"}
@@ -1151,15 +1080,6 @@
 			"group": "Final Fantasy XIV Online - Heavensward",
 			"titles": [
 				{"searchTerm": "Final Fantasy XIV Online - Heavensward"}
-			],
-			"supersets": [
-				{"searchTerm": "Final Fantasy XIV Online - The Complete Experience"}
-			]
-		},
-		{
-			"group": "Final Fantasy XIV Online",
-			"titles": [
-				{"searchTerm": "Final Fantasy XIV Online"}
 			],
 			"supersets": [
 				{"searchTerm": "Final Fantasy XIV Online - The Complete Experience"}
@@ -1244,11 +1164,7 @@
 			"group": "Gran Turismo 5 - Prologue Spec III",
 			"titles": [
 				{"searchTerm": "Gran Turismo 5 - Prologue Spec III"},
-				{"searchTerm": "Gran Turismo 5", "priority": 2}
-			],
-			"supersets": [
-				{"searchTerm": "Gran Turismo 5 - 2013 Edition"},
-				{"searchTerm": "Gran Turismo 5 - XL Edition", "priority": 2}
+				{"searchTerm": "Gran Turismo 5 - Prologue", "priority": 2}
 			]
 		},
 		{
@@ -1309,6 +1225,13 @@
 			]
 		},
 		{
+			"group": "Harry Potter and the Order of the Phoenix",
+			"titles": [
+				{"searchTerm": "Harry Potter and the Order of the Phoenix"},
+				{"searchTerm": "Harry Potter to Fushichou no Kishidan"}
+			]
+		},
+		{
 			"group": "Heavy Rain",
 			"titles": [
 				{"searchTerm": "Heavy Rain"},
@@ -1338,14 +1261,14 @@
 		{
 			"group": "House of the Dead, The - Overkill - Extended Cut",
 			"titles": [
-				{"searchTerm": "House of the Dead, The - Overkill - Extended Cut"},
-				{"searchTerm": "House of the Dead, The - Overkill - Director's Cut"}
+				{"searchTerm": "House of the Dead, The - Overkill - Director's Cut"},
+				{"searchTerm": "House of the Dead, The - Overkill - Extended Cut"}
 			]
 		},
 		{
 			"group": "Hyperdimension Neptunia",
 			"titles": [
-				{"searchTerm": "Cho Chawon Game Neptune"},
+				{"searchTerm": "Chochawon Game Neptune"},
 				{"searchTerm": "Chou Jigen Game Neptune"},
 				{"searchTerm": "Hyperdimension Neptunia"}
 			],
@@ -1356,7 +1279,7 @@
 		{
 			"group": "Hyperdimension Neptunia mk2",
 			"titles": [
-				{"searchTerm": "Cho Chawon Game Neptune mk2"},
+				{"searchTerm": "Chochawon Game Neptune mk2"},
 				{"searchTerm": "Chou Jigen Game Neptune mk2"},
 				{"searchTerm": "Hyperdimension Neptunia mk2"}
 			],
@@ -1376,19 +1299,20 @@
 			]
 		},
 		{
-			"group": "Ice Age - Dawn of the Dinosaurs",
-			"titles": [
-				{"searchTerm": "Era Glaciale 3, L' - L'Alba dei Dinosauri"},
-				{"searchTerm": "Ice Age - Dawn of the Dinosaurs"},
-				{"searchTerm": "Ice Age 3 - Dawn of the Dinosaurs"},
-				{"searchTerm": "Lednikovyj period 3 - E'ra dinozavrov"}
-			]
-		},
-		{
 			"group": "Ice Age 4 - Continental Drift - Arctic Games",
 			"titles": [
 				{"searchTerm": "Era Glaciale 4, L' - Continenti alla Deriva - Giochi Polari"},
-				{"searchTerm": "Ice Age 4 - Continental Drift - Arctic Games"}
+				{"searchTerm": "Ice Age 4 - Continental Drift - Arctic Games"},
+				{"searchTerm": "Lednikovyj period 4 - Kontinental'nyj drejf - Arkticheskie igry"}
+			]
+		},
+		{
+			"group": "Ice Age - Dawn of the Dinosaurs",
+			"titles": [
+				{"searchTerm": "Era Glaciale 3, L' - L'Alba dei Dinosauri"},
+				{"searchTerm": "Ice Age 3 - Dawn of the Dinosaurs"},
+				{"searchTerm": "Ice Age - Dawn of the Dinosaurs"},
+				{"searchTerm": "Lednikovyj period 3 - E'ra dinozavrov"}
 			]
 		},
 		{
@@ -1461,6 +1385,13 @@
 			]
 		},
 		{
+			"group": "Jikkyou Powerful Pro Yakyuu 2011",
+			"titles": [
+				{"searchTerm": "Jikkyou Powerful Pro Yakyuu 2011"},
+				{"searchTerm": "Silhwang Powerful Pro Yagu 2011"}
+			]
+		},
+		{
 			"group": "John Woo Presents Stranglehold",
 			"titles": [
 				{"searchTerm": "John Woo Presents Stranglehold"}
@@ -1472,8 +1403,8 @@
 		{
 			"group": "JoJo's Bizarre Adventure - All Star Battle",
 			"titles": [
-				{"searchTerm": "JoJo's Bizarre Adventure - All Star Battle"},
-				{"searchTerm": "JoJo no Kimyou na Bouken - All Star Battle"}
+				{"searchTerm": "JoJo no Kimyou na Bouken - All Star Battle"},
+				{"searchTerm": "JoJo's Bizarre Adventure - All Star Battle"}
 			]
 		},
 		{
@@ -1498,7 +1429,7 @@
 				{"searchTerm": "Just Dance 3"}
 			],
 			"supersets": [
-				{"searchTerm": "Just Dance 3 (Best Buy)"},
+				{"searchTerm": "Just Dance 3 (Best Buy Edition)"},
 				{"searchTerm": "Just Dance 3 (Special Edition)"},
 				{"searchTerm": "Just Dance 3 (Target Edition)", "priority": 2}
 			]
@@ -1580,13 +1511,6 @@
 			]
 		},
 		{
-			"group": "Harry Potter and the Order of the Phoenix",
-			"titles": [
-				{"searchTerm": "Harry Potter and the Order of the Phoenix"},
-				{"searchTerm": "Harry Potter to Fushichou no Kishidan"}
-			]
-		},
-		{
 			"group": "LEGO Marvel Super Heroes",
 			"titles": [
 				{"searchTerm": "LEGO Marvel Super Heroes"},
@@ -1608,21 +1532,21 @@
 			]
 		},
 		{
-			"group": "LittleBigPlanet 2",
-			"titles": [
-				{"searchTerm": "LittleBigPlanet 2"}
-			],
-			"supersets": [
-				{"searchTerm": "LittleBigPlanet 2 - Special Edition"}
-			]
-		},
-		{
 			"group": "LittleBigPlanet",
 			"titles": [
 				{"searchTerm": "LittleBigPlanet"}
 			],
 			"supersets": [
 				{"searchTerm": "LittleBigPlanet - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "LittleBigPlanet 2",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet 2"}
+			],
+			"supersets": [
+				{"searchTerm": "LittleBigPlanet 2 - Special Edition"}
 			]
 		},
 		{
@@ -1739,13 +1663,6 @@
 			]
 		},
 		{
-			"group": "Minna no Golf 5 (PlayStation Move Taiou)",
-			"titles": [
-				{"searchTerm": "Minna no Golf 5 (PlayStation Move Taiou)"},
-				{"searchTerm": "Minna no Golf 5", "priority": 2}
-			]
-		},
-		{
 			"group": "Mobile Suit Gundam - Crossfire",
 			"titles": [
 				{"searchTerm": "Mobile Suit Gundam - Crossfire"},
@@ -1755,8 +1672,8 @@
 		{
 			"group": "ModNation Racers",
 			"titles": [
-				{"searchTerm": "ModNation Racers"},
-				{"searchTerm": "ModNation - Mugen no Kart Oukoku"}
+				{"searchTerm": "ModNation - Mugen no Kart Oukoku"},
+				{"searchTerm": "ModNation Racers"}
 			]
 		},
 		{
@@ -1890,19 +1807,19 @@
 			]
 		},
 		{
-			"group": "NBA 08 featuring Games of the Week",
-			"titles": [
-				{"searchTerm": "NBA 08"},
-				{"searchTerm": "NBA 08 featuring Games of the Week"}
-			]
-		},
-		{
 			"group": "NBA 2K12",
 			"titles": [
 				{"searchTerm": "NBA 2K12"}
 			],
 			"supersets": [
 				{"searchTerm": "NBA 2K12 - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "NBA 08 featuring Games of the Week",
+			"titles": [
+				{"searchTerm": "NBA 08"},
+				{"searchTerm": "NBA 08 featuring Games of the Week"}
 			]
 		},
 		{
@@ -1918,7 +1835,7 @@
 		{
 			"group": "Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge",
 			"titles": [
-				{"searchTerm": "Nickelodeon Gubka Bob Kvadratnye Shtany - Plankton. Mest' robotov"},
+				{"searchTerm": "Nickelodeon Gubka Bob Kvadratnye Shtany - Plankton - Mest' robotov"},
 				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge"}
 			]
 		},
@@ -2012,6 +1929,7 @@
 		{
 			"group": "Persona 4 Arena Ultimax",
 			"titles": [
+				{"searchTerm": "Persona 4 - The Ultimax - Ultra Suplex Hold"},
 				{"searchTerm": "Persona 4 - The Ultimax Ultra Suplex Hold"},
 				{"searchTerm": "Persona 4 Arena Ultimax"}
 			]
@@ -2132,15 +2050,29 @@
 		{
 			"group": "Pro Yakyuu Spirits 6",
 			"titles": [
-				{"searchTerm": "Pro Yagu Spirits 6 - Professional Baseball Spirits"},
+				{"searchTerm": "Pro Yagu Spirits 6"},
 				{"searchTerm": "Pro Yakyuu Spirits 6"}
+			]
+		},
+		{
+			"group": "Pro Yakyuu Spirits 2010",
+			"titles": [
+				{"searchTerm": "Pro Yagu Spirits 2010"},
+				{"searchTerm": "Pro Yakyuu Spirits 2010"}
+			]
+		},
+		{
+			"group": "Pro Yakyuu Spirits 2013",
+			"titles": [
+				{"searchTerm": "Pro Yakyuu Spirits 2013"},
+				{"searchTerm": "Professional Baseball Spirits 2013"}
 			]
 		},
 		{
 			"group": "Pure",
 			"titles": [
-				{"searchTerm": "Pure"},
-				{"searchTerm": "Extreme Racing Pure"}
+				{"searchTerm": "Extreme Racing Pure"},
+				{"searchTerm": "Pure"}
 			]
 		},
 		{
@@ -2188,8 +2120,8 @@
 		{
 			"group": "Ratchet & Clank Collection",
 			"titles": [
-				{"searchTerm": "Ratchet & Clank - Ginga Saikyou Tri-Star Pack"},
 				{"searchTerm": "Ratchet & Clank 1, 2, 3 - Ginga Saikyou Gorgeous Pack"},
+				{"searchTerm": "Ratchet & Clank - Ginga Saikyou Tri-Star Pack"},
 				{"searchTerm": "Ratchet & Clank Collection"},
 				{"searchTerm": "Ratchet & Clank Trilogy, The"}
 			]
@@ -2260,6 +2192,25 @@
 			]
 		},
 		{
+			"group": "Resident Evil 5",
+			"titles": [
+				{"searchTerm": "Biohazard 5 - Alternative Edition"},
+				{"searchTerm": "Resident Evil 5"},
+				{"searchTerm": "Biohazard 5", "priority": 2}
+			],
+			"supersets": [
+				{"searchTerm": "Biohazard 5 - Alternative Edition (PlayStation Move Taiou)"},
+				{"searchTerm": "Resident Evil 5 - Gold Edition"}
+			]
+		},
+		{
+			"group": "Resident Evil 6",
+			"titles": [
+				{"searchTerm": "Biohazard 6"},
+				{"searchTerm": "Resident Evil 6"}
+			]
+		},
+		{
 			"group": "Resident Evil - Operation Raccoon City",
 			"titles": [
 				{"searchTerm": "Biohazard - Operation Raccoon City"},
@@ -2280,26 +2231,6 @@
 			"titles": [
 				{"searchTerm": "Biohazard - Revelations 2"},
 				{"searchTerm": "Resident Evil - Revelations 2"}
-			]
-		},
-		{
-			"group": "Resident Evil 5",
-			"titles": [
-				{"searchTerm": "Biohazard 5 - Alternative Edition"},
-				{"searchTerm": "Resident Evil 5"},
-				{"searchTerm": "Resident Evil 5 ~ Biohazard 5"},
-				{"searchTerm": "Biohazard 5", "priority": 2}
-			],
-			"supersets": [
-				{"searchTerm": "Biohazard 5 - Alternative Edition (PlayStation Move Taiou)"},
-				{"searchTerm": "Resident Evil 5 - Gold Edition"}
-			]
-		},
-		{
-			"group": "Resident Evil 6",
-			"titles": [
-				{"searchTerm": "Biohazard 6"},
-				{"searchTerm": "Resident Evil 6"}
 			]
 		},
 		{
@@ -2334,7 +2265,8 @@
 		{
 			"group": "Rocksmith",
 			"titles": [
-				{"searchTerm": "Rocksmith"}
+				{"searchTerm": "Rocksmith (Guitar and Bass)"},
+				{"searchTerm": "Rocksmith", "priority": 2}
 			],
 			"supersets": [
 				{"searchTerm": "Rocksmith (Best Buy Edition)"}
@@ -2343,8 +2275,8 @@
 		{
 			"group": "Rocksmith - All-New 2014 Edition",
 			"titles": [
-				{"searchTerm": "Rocksmith - All-New 2014 Edition"},
-				{"searchTerm": "Rocksmith 2014"}
+				{"searchTerm": "Rocksmith 2014"},
+				{"searchTerm": "Rocksmith - All-New 2014 Edition"}
 			]
 		},
 		{
@@ -2361,6 +2293,39 @@
 			"titles": [
 				{"searchTerm": "Rune Factory - Oceans"},
 				{"searchTerm": "Rune Factory - Tides of Destiny"}
+			]
+		},
+		{
+			"group": "Saint Seiya - Brave Soldiers - Knights of the Zodiac",
+			"titles": [
+				{"searchTerm": "Cavaleiros do Zodiaco, Os - Bravos Soldados"},
+				{"searchTerm": "Saint Seiya - Brave Soldiers"},
+				{"searchTerm": "Saint Seiya - Brave Soldiers - Knights of the Zodiac"}
+			]
+		},
+		{
+			"group": "Saint Seiya - Sanctuary Battle",
+			"titles": [
+				{"searchTerm": "Caballeros del Zodiaco, Los - Batalla por el Santuario"},
+				{"searchTerm": "Saint Seiya - Sanctuary Battle"},
+				{"searchTerm": "Saint Seiya Senki"}
+			]
+		},
+		{
+			"group": "Saint Seiya - Soldiers' Soul - Knights of the Zodiac",
+			"titles": [
+				{"searchTerm": "Cavaleiros do Zodiaco, Os - Alma dos Soldados"},
+				{"searchTerm": "Saint Seiya - Soldiers' Soul"},
+				{"searchTerm": "Saint Seiya - Soldiers' Soul - Knights of the Zodiac"}
+			]
+		},
+		{
+			"group": "Saints Row - Gat out of Hell",
+			"titles": [
+				{"searchTerm": "Saints Row - Gat out of Hell"}
+			],
+			"supersets": [
+				{"searchTerm": "Saints Row - Game of the Century Edition & Gat Out of Hell"}
 			]
 		},
 		{
@@ -2384,38 +2349,6 @@
 			]
 		},
 		{
-			"group": "Saints Row - Gat out of Hell",
-			"titles": [
-				{"searchTerm": "Saints Row - Gat out of Hell"}
-			],
-			"supersets": [
-				{"searchTerm": "Saints Row - Game of the Century Edition & Gat Out of Hell"}
-			]
-		},
-		{
-			"group": "Saint Seiya - Brave Soldiers - Knights of the Zodiac",
-			"titles": [
-				{"searchTerm": "Cavaleiros do Zodiaco, Os - Bravos Soldados"},
-				{"searchTerm": "Saint Seiya - Brave Soldiers"},
-				{"searchTerm": "Saint Seiya - Brave Soldiers - Knights of the Zodiac"}
-			]
-		},
-		{
-			"group": "Saint Seiya - Sanctuary Battle",
-			"titles": [
-				{"searchTerm": "Saint Seiya - Sanctuary Battle"},
-				{"searchTerm": "Saint Seiya Senki"}
-			]
-		},
-		{
-			"group": "Saint Seiya - Soldiers' Soul - Knights of the Zodiac",
-			"titles": [
-				{"searchTerm": "Cavaleiros do Zodiaco, Os - Alma dos Soldados"},
-				{"searchTerm": "Saint Seiya - Soldiers' Soul"},
-				{"searchTerm": "Saint Seiya - Soldiers' Soul - Knights of the Zodiac"}
-			]
-		},
-		{
 			"group": "Sangokushi 12",
 			"titles": [
 				{"searchTerm": "Sangokushi 12 with Power-Up Kit"},
@@ -2432,8 +2365,8 @@
 		{
 			"group": "SBK - Superbike World Championship",
 			"titles": [
-				{"searchTerm": "SBK - Superbike World Championship"},
-				{"searchTerm": "SBK 08 - Superbike World Championship"}
+				{"searchTerm": "SBK 08 - Superbike World Championship"},
+				{"searchTerm": "SBK - Superbike World Championship"}
 			]
 		},
 		{
@@ -2463,8 +2396,8 @@
 		{
 			"group": "Sengoku Basara - Samurai Heroes",
 			"titles": [
-				{"searchTerm": "Sengoku Basara - Samurai Heroes"},
-				{"searchTerm": "Sengoku Basara 3"}
+				{"searchTerm": "Sengoku Basara 3"},
+				{"searchTerm": "Sengoku Basara - Samurai Heroes"}
 			]
 		},
 		{
@@ -2481,6 +2414,15 @@
 			"titles": [
 				{"searchTerm": "Jin Samguk Mussang - Multi Raid Special"},
 				{"searchTerm": "Shin Sangoku Musou - Multi Raid Special"}
+			]
+		},
+		{
+			"group": "Shin Sangoku Musou Online - Souten Ranbu",
+			"titles": [
+				{"searchTerm": "Shin Sangoku Musou Online - Souten Ranbu"}
+			],
+			"supersets": [
+				{"searchTerm": "Shin Sangoku Musou Online - Souten Ranbu - 4 Shuunen Kinen Pack"}
 			]
 		},
 		{
@@ -2516,8 +2458,8 @@
 		{
 			"group": "Simpsons Game, The",
 			"titles": [
-				{"searchTerm": "Simpsons, Die - Das Spiel"},
-				{"searchTerm": "Simpsons Game, The"}
+				{"searchTerm": "Simpsons Game, The"},
+				{"searchTerm": "Simpsons, Die - Das Spiel"}
 			]
 		},
 		{
@@ -2556,16 +2498,6 @@
 			]
 		},
 		{
-			"group": "Sniper Elite",
-			"titles": [
-				{"searchTerm": "Sniper Elite"}
-			],
-			"supersets": [
-				{"searchTerm": "Sniper Elite - Game of the Year Edition"},
-				{"searchTerm": "Sniper Elite - Silver Star Edition"}
-			]
-		},
-		{
 			"group": "Sniper Elite III",
 			"titles": [
 				{"searchTerm": "Sniper Elite III"}
@@ -2575,24 +2507,27 @@
 			]
 		},
 		{
-			"group": "SOCOM - U.S. Navy SEALs - Confrontation",
+			"group": "Sniper Elite V2",
 			"titles": [
-				{"searchTerm": "SOCOM - Confrontation"},
-				{"searchTerm": "SOCOM - U.S. Navy SEALs - Confrontation"}
+				{"searchTerm": "Sniper Elite V2"}
+			],
+			"supersets": [
+				{"searchTerm": "Sniper Elite V2 - Game of the Year Edition"},
+				{"searchTerm": "Sniper Elite V2 - Silver Star Edition"}
 			]
 		},
 		{
 			"group": "SOCOM 4 - U.S. Navy SEALs",
 			"titles": [
-				{"searchTerm": "SOCOM - Special Forces"},
-				{"searchTerm": "SOCOM 4 - U.S. Navy SEALs"}
+				{"searchTerm": "SOCOM 4 - U.S. Navy SEALs"},
+				{"searchTerm": "SOCOM - Special Forces"}
 			]
 		},
 		{
-			"group": "Sonic's Ultimate Genesis Collection",
+			"group": "SOCOM - U.S. Navy SEALs - Confrontation",
 			"titles": [
-				{"searchTerm": "Sega Mega Drive Ultimate Collection"},
-				{"searchTerm": "Sonic's Ultimate Genesis Collection"}
+				{"searchTerm": "SOCOM - Confrontation"},
+				{"searchTerm": "SOCOM - U.S. Navy SEALs - Confrontation"}
 			]
 		},
 		{
@@ -2610,10 +2545,17 @@
 			]
 		},
 		{
+			"group": "Sonic's Ultimate Genesis Collection",
+			"titles": [
+				{"searchTerm": "Sega Mega Drive Ultimate Collection"},
+				{"searchTerm": "Sonic's Ultimate Genesis Collection"}
+			]
+		},
+		{
 			"group": "Sorcery",
 			"titles": [
-				{"searchTerm": "Sorcery"},
-				{"searchTerm": "Lord of Sorcery"}
+				{"searchTerm": "Lord of Sorcery"},
+				{"searchTerm": "Sorcery"}
 			]
 		},
 		{
@@ -2724,13 +2666,6 @@
 			]
 		},
 		{
-			"group": "Test Drive Unlimited 2",
-			"titles": [
-				{"searchTerm": "Test Drive Unlimited 2"},
-				{"searchTerm": "Test Drive Unlimited 2 Plus Casino Online"}
-			]
-		},
-		{
 			"group": "Tekken 6",
 			"titles": [
 				{"searchTerm": "Tekken 6"}
@@ -2746,6 +2681,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Fighting Edition"}
+			]
+		},
+		{
+			"group": "Test Drive Unlimited 2",
+			"titles": [
+				{"searchTerm": "Test Drive Unlimited 2"},
+				{"searchTerm": "Test Drive Unlimited 2 Plus Casino Online"}
 			]
 		},
 		{
@@ -2811,16 +2753,6 @@
 			]
 		},
 		{
-			"group": "Tom Clancy's Rainbox Six - Vegas",
-			"titles": [
-				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas"}
-			],
-			"compilations": [
-				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas + Tom Clancy's Splinter Cell - Double Agent", "titlePosition": 1},
-				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 1 + 2", "titlePosition": 1}
-			]
-		},
-		{
 			"group": "Tom Clancy's Rainbow Six - Vegas 2",
 			"titles": [
 				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2"}
@@ -2829,8 +2761,18 @@
 				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition"}
 			],
 			"compilations": [
-				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition + Tom Clancy's Ghost Recon - Advanced Warfighter 2", "titlePosition": 1},
-				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 1 + 2", "titlePosition": 2}
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 1 + 2", "titlePosition": 2},
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition + Tom Clancy's Ghost Recon - Advanced Warfighter 2", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Tom Clancy's Rainbox Six - Vegas",
+			"titles": [
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas"}
+			],
+			"compilations": [
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 1 + 2", "titlePosition": 1},
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas + Tom Clancy's Splinter Cell - Double Agent", "titlePosition": 1}
 			]
 		},
 		{
@@ -2875,8 +2817,8 @@
 		{
 			"group": "Toro! Let's Party!",
 			"titles": [
-				{"searchTerm": "Toro! Let's Party!"},
-				{"searchTerm": "Toro to Morimori"}
+				{"searchTerm": "Toro to Morimori"},
+				{"searchTerm": "Toro! Let's Party!"}
 			]
 		},
 		{
@@ -2889,8 +2831,8 @@
 		{
 			"group": "TV Superstars",
 			"titles": [
-				{"searchTerm": "TV Superstars"},
-				{"searchTerm": "TV Superstar"}
+				{"searchTerm": "TV Superstar"},
+				{"searchTerm": "TV Superstars"}
 			]
 		},
 		{
@@ -2903,6 +2845,23 @@
 			]
 		},
 		{
+			"group": "Uncharted 2 - Among Thieves",
+			"titles": [
+				{"searchTerm": "Uncharted 2 - Among Thieves"},
+				{"searchTerm": "Uncharted - Ougontou to Kieta Sendan"}
+			]
+		},
+		{
+			"group": "Uncharted 3 - Drake's Deception",
+			"titles": [
+				{"searchTerm": "Uncharted 3 - Drake's Deception"},
+				{"searchTerm": "Uncharted - Sabaku ni Nemuru Atlantis"}
+			],
+			"supersets": [
+				{"searchTerm": "Uncharted 3 - Drake's Deception - Game of the Year Edition"}
+			]
+		},
+		{
 			"group": "Uncharted - Drake's Fortune",
 			"titles": [
 				{"searchTerm": "Uncharted - Drake's Fortune"},
@@ -2910,27 +2869,10 @@
 			]
 		},
 		{
-			"group": "Uncharted 2 - Among Thieves",
-			"titles": [
-				{"searchTerm": "Uncharted - Ougontou to Kieta Sendan"},
-				{"searchTerm": "Uncharted 2 - Among Thieves"}
-			]
-		},
-		{
-			"group": "Uncharted 3 - Drake's Deception",
-			"titles": [
-				{"searchTerm": "Uncharted - Sabaku ni Nemuru Atlantis"},
-				{"searchTerm": "Uncharted 3 - Drake's Deception"}
-			],
-			"supersets": [
-				{"searchTerm": "Uncharted 3 - Drake's Deception - Game of the Year Edition"}
-			]
-		},
-		{
 			"group": "Under Defeat HD - Deluxe Edition",
 			"titles": [
-				{"searchTerm": "Under Defeat HD - Deluxe Edition"},
-				{"searchTerm": "Under Defeat HD"}
+				{"searchTerm": "Under Defeat HD"},
+				{"searchTerm": "Under Defeat HD - Deluxe Edition"}
 			]
 		},
 		{
@@ -2990,8 +2932,8 @@
 		{
 			"group": "Watch_Dogs",
 			"titles": [
-				{"searchTerm": "Watch_Dogs"},
-				{"searchTerm": "Watch Dogs"}
+				{"searchTerm": "Watch Dogs"},
+				{"searchTerm": "Watch_Dogs"}
 			]
 		},
 		{
@@ -3047,8 +2989,8 @@
 		{
 			"group": "XBlaze - Code - Embryo",
 			"titles": [
-				{"searchTerm": "XBlaze - Code-Embryo"},
-				{"searchTerm": "XBlaze - Code - Embryo"}
+				{"searchTerm": "XBlaze - Code - Embryo"},
+				{"searchTerm": "XBlaze - Code-Embryo"}
 			]
 		},
 		{
@@ -3056,13 +2998,6 @@
 			"titles": [
 				{"searchTerm": "XBlaze - Lost - Memories"},
 				{"searchTerm": "XBlaze - Lost-Memories"}
-			]
-		},
-		{
-			"group": "Yakuza - Dead Souls",
-			"titles": [
-				{"searchTerm": "Ryuu ga Gotoku - Of the End"},
-				{"searchTerm": "Yakuza - Dead Souls"}
 			]
 		},
 		{
@@ -3077,6 +3012,13 @@
 			"titles": [
 				{"searchTerm": "Ryuu ga Gotoku 4 - Densetsu o Tsugu Mono"},
 				{"searchTerm": "Yakuza 4"}
+			]
+		},
+		{
+			"group": "Yakuza - Dead Souls",
+			"titles": [
+				{"searchTerm": "Ryuu ga Gotoku - Of the End"},
+				{"searchTerm": "Yakuza - Dead Souls"}
 			]
 		},
 		{

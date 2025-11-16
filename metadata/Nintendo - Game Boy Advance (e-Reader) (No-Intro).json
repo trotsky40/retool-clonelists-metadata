@@ -986,6 +986,12 @@
 	"Animal Crossing-e - Series 4 - P-016 - Girl 8 (USA)": {
 		"languages": ["En"]
 	},
+	"Bomb Hunter (Japan) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Bomb Hunter (USA) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
 	"Domo-Kun no Card-e - A-001 (Japan) (Promo)": {
 		"languages": ["Ja"]
 	},
@@ -2405,7 +2411,43 @@
 	"Doubutsu no Mori Card-e+ - Series 3 - 06-K012 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"E-Snake (Japan) (Card 1) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
+	"E-Snake (Japan) (Card 2) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
+	"E-Snake (Japan) (En) (Card 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"E-Snake (Japan) (En) (Card 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"E-Snake (USA) (Card 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"E-Snake (USA) (Card 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"EON Ticket - 00-C000 (USA) (Promo)": {
+		"languages": ["En"]
+	},
+	"Exo Attack (Japan) (Card 1) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
+	"Exo Attack (Japan) (Card 2) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
+	"Exo Attack (Japan) (En) (Card 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Exo Attack (Japan) (En) (Card 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Exo Attack (USA) (Card 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Exo Attack (USA) (Card 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"F-Zero - Falcon Densetsu Card-e+ - Carddas Ban - 14-A001 (Japan)": {
@@ -2587,6 +2629,18 @@
 	},
 	"F-Zero - Falcon Densetsu Card-e+ - Pillow Pack - 14-F016 (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Franny Answers (Japan) (En) (Card 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Franny Answers (Japan) (En) (Card 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Franny Answers (USA) (Card 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Franny Answers (USA) (Card 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Game & Watch Card-e - 0 (Japan) (Promo)": {
 		"languages": ["Ja"]
@@ -7247,6 +7301,9 @@
 	"Pokemon-e TCG - M-88-# - Machamp (USA) (Sample)": {
 		"languages": ["En"]
 	},
+	"Pokemon-e TCG - R-09-# - Pikachu (Japan) (Sample)": {
+		"languages": ["Ja"]
+	},
 	"Pokemon-e TCG - Skyridge - E-01-# - Zubat (USA)": {
 		"languages": ["En"]
 	},
@@ -9295,6 +9352,45 @@
 	},
 	"Rockman Zero 3 - Kaizou Card - Part 2 - 135-B040 (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Scavenger Hunt (Japan) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
+	"Scavenger Hunt (Japan) (En) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Scavenger Hunt (USA) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Solitaire (Japan) (1c7efea) (Beta) (GitHub) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Solitaire (Japan) (47b5771) (Beta) (GitHub) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Solitaire (Japan) (96ad620) (GitHub) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Solitaire (Japan) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Solitaire (Japan) (Beta) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Solitaire (USA) (1c7efea) (Beta) (GitHub) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Solitaire (USA) (47b5771) (Beta) (GitHub) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Solitaire (USA) (96ad620) (GitHub) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Solitaire (USA) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Solitaire (USA) (Beta) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Super Mario Advance 4 Card-e+ - 07-A001 (Japan) (Promo)": {
 		"languages": ["Ja"]

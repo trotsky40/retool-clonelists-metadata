@@ -129,10 +129,12 @@
 		"languages": ["En"]
 	},
 	"A-Ressha de Ikou 3D (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ａ列車で行こう３Ｄ"
 	},
 	"A-Ressha de Ikou 3D (Japan) (v2.0, v1072) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ａ列車で行こう３Ｄ"
 	},
 	"A-Train - 3D City Simulator (Europe) (DLC)": {
 		"languages": ["En"]
@@ -375,13 +377,16 @@
 		"languages": ["Ja"]
 	},
 	"Beyblade Burst - BeyLogger Plus & Puzzle (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ベイブレードバースト　－　ベイロガープラス＆パズル"
 	},
 	"Beyblade Burst - BeyLogger Plus & Puzzle (Japan) (v1.1, v1136) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ベイブレードバースト　－　ベイロガープラス＆パズル"
 	},
 	"Beyblade Burst - BeyLogger Plus & Puzzle (Japan) (v1.2, v2176) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ベイブレードバースト　－　ベイロガープラス＆パズル"
 	},
 	"BeyBlade Burst God (Japan) (v1.1, v1072) (Update)": {
 		"languages": ["Ja"]
@@ -392,8 +397,8 @@
 	"Bike Rider DX2 - Galaxy (Europe) (DLC)": {
 		"languages": ["En"]
 	},
-	"Bike Rider DX2 - Galaxy (Korea) (DLC)": {
-		"languages": ["Ko"]
+	"Bike Rider DX2 - Galaxy (Korea) (En) (DLC)": {
+		"languages": ["En"]
 	},
 	"Bike Rider DX2 - Galaxy (USA) (DLC)": {
 		"languages": ["En"]
@@ -686,8 +691,9 @@
 	"Chou Kagaku Dasshutsu - Gear Detective (Japan) (v1.1, v1040) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
-	"Choujin Baseball Stadium - Nekketsu Story (Japan) (v1.1, v1040) (Update)": {
-		"languages": ["Ja"]
+	"Choujin Baseball Stadium - Nekketsu Story-Ban (Japan) (v1.1, v1040) (Update)": {
+		"languages": ["Ja"],
+		"localName": "超人ベースボールスタジアム　－　～熱血ストーリー版～"
 	},
 	"Choukaiten Sushi Striker - The Way of Sushido (Japan) (v1.1.0, v1056) (Update)": {
 		"languages": ["Ja"]
@@ -798,13 +804,20 @@
 		"languages": ["En"]
 	},
 	"Cube Creator DX (Japan) (v1.1, v1088) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "キューブクリエイターＤＸ"
 	},
 	"Cube Creator DX (Japan) (v1.1.1, v2128) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "キューブクリエイターＤＸ"
+	},
+	"Cube Creator DX (Japan) (v1.1.2, v3168) (Update)": {
+		"languages": ["Ja"],
+		"localName": "キューブクリエイターＤＸ"
 	},
 	"Cube Creator DX (Japan) (v1.1.3, v4208) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "キューブクリエイターＤＸ"
 	},
 	"Cube Creator DX (Korea) (v1.1.1, v1040) (Update)": {
 		"languages": ["Ko"]
@@ -831,7 +844,8 @@
 		"languages": ["Ja"]
 	},
 	"Culdcept Revolt (Japan) (v3072) (Embedded Update) [b]": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "カルドセプト　リボルト"
 	},
 	"Culdcept Revolt (USA) (DLC)": {
 		"languages": ["En"]
@@ -852,19 +866,24 @@
 		"languages": ["En"]
 	},
 	"Dai Gyakuten Saiban 2 - Naruhodou Ryuunosuke no Kakugo (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "大逆転裁判２　－成歩堂龍ノ介の覺悟－"
 	},
 	"Dai Gyakuten Saiban 2 - Naruhodou Ryuunosuke no Kakugo (Japan) (v1.1.0, v1072) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "大逆転裁判２　－成歩堂龍ノ介の覺悟－"
 	},
 	"Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "大逆転裁判　－成歩堂龍ノ介の冒險－"
 	},
 	"Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken (Japan) (v1.1.0, v1040) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "大逆転裁判　－成歩堂龍ノ介の冒險－"
 	},
 	"Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken (Japan) (v1.2.0, v2080) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "大逆転裁判　－成歩堂龍ノ介の冒險－"
 	},
 	"Dai-2-Ji Super Robot Taisen - Nintendo 3DS Ishoku Ban (Japan) (v1.01, v1040) (Embedded Update)": {
 		"languages": ["Ja"]
@@ -945,7 +964,8 @@
 		"languages": ["Ja"]
 	},
 	"Dairantou Smash Brothers for Nintendo 3DS (Taiwan) (Ja) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "大亂鬥スマッシュブラザーズ　ｆｏｒ　Ｎｉｎｔｅｎｄｏ　３ＤＳ　（日文版）"
 	},
 	"Dairantou Smash Brothers for Nintendo 3DS (Taiwan) (Ja) (v1.0.8, v12304) (Update)": {
 		"languages": ["Ja"]
@@ -1007,6 +1027,22 @@
 	"Demon King Box (USA) (v2.0.0, v1040) (Embedded Update)": {
 		"languages": ["En"]
 	},
+	"Dengeki BAZOOKA!! Oh! Gatchiman Special Game (Japan) (DLC)": {
+		"languages": ["Ja"],
+		"localName": "デンゲキＢＡＺＯＯＫＡ！！　－　Ｏｈ！ガッチマンスペシャルゲーム"
+	},
+	"Dengeki BAZOOKA!! Oh! Gatchiman Special Game (Japan) (v1.1, v1040) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "デンゲキＢＡＺＯＯＫＡ！！　－　Ｏｈ！ガッチマンスペシャルゲーム"
+	},
+	"Dengeki BAZOOKA!! Oh! Gatchiman Special Game (Japan) (v2.0, v2080) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "デンゲキＢＡＺＯＯＫＡ！！　－　Ｏｈ！ガッチマンスペシャルゲーム"
+	},
+	"Dengeki BAZOOKA!! Oh! Gatchiman Special Game (Japan) (v3.0, v3120) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "デンゲキＢＡＺＯＯＫＡ！！　－　Ｏｈ！ガッチマンスペシャルゲーム"
+	},
 	"Denpa Ningen no RPG 2 (Japan) (v1040) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
@@ -1025,50 +1061,69 @@
 	"Denpa Ningen no RPG (Japan) (v1024) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.1, v1072) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.1.0, v1072) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.2, v2128) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.2.0, v2128) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.3, v3168) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.3.0, v3168) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.4, v4208) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.4.0, v4208) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.5, v5248) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.5.0, v5248) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.6, v6288) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.6.0, v6288) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.7, v7328) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.7.0, v7328) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.8, v8368) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.8.0, v8368) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.9, v9408) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.9.0, v9408) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.10, v10448) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.10.0, v10448) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.11, v11488) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.11.0, v11488) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.12, v12528) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.12.0, v12528) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.13, v13568) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.13.0, v13568) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.14, v14608) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.14.0, v14608) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
-	"Denpa Ningen no RPG FREE! (Japan) (v1.16, v16688) (Update)": {
-		"languages": ["Ja"]
+	"Denpa Ningen no RPG FREE! (Japan) (v1.16.0, v16688) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
+	},
+	"Denpa Ningen no RPG FREE! (Japan) (v1.17.0, v17728) (Update)": {
+		"languages": ["Ja"],
+		"localName": "電波人間のＲＰＧ　ＦＲＥＥ！"
 	},
 	"Densha Unten Shirei! Toukaidou-Hen (Japan) (v1.0.1, v1056) (Update)": {
 		"languages": ["Ja"]
@@ -1128,25 +1183,32 @@
 		"languages": ["Ko"]
 	},
 	"Disney Magic Castle - My Happy Life 2 (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ディズニー　マジックキャッスル　マイ・ハッピー・ライフ２"
 	},
 	"Disney Magic Castle - My Happy Life 2 (Japan) (v1.1, v1104) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ディズニー　マジックキャッスル　マイ・ハッピー・ライフ２"
 	},
 	"Disney Magic Castle - My Happy Life 2 (Japan) (v1.2, v2144) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ディズニー　マジックキャッスル　マイ・ハッピー・ライフ２"
 	},
 	"Disney Magic Castle - My Happy Life 2 (Japan) (v1.3, v3184) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ディズニー　マジックキャッスル　マイ・ハッピー・ライフ２"
 	},
 	"Disney Magic Castle - My Happy Life 2 (Japan) (v1.3.1, v4224) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ディズニー　マジックキャッスル　マイ・ハッピー・ライフ２"
 	},
 	"Disney Magic Castle - My Happy Life (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ディズニー　マジックキャッスル　－　マイ・ハッピー・ライフ"
 	},
 	"Disney Magic Castle - My Happy Life (Japan) (v1.1, v1072) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ディズニー　マジックキャッスル　－　マイ・ハッピー・ライフ"
 	},
 	"Disney Magical World 2 (Europe) (DLC)": {
 		"languages": ["En"]
@@ -1157,8 +1219,8 @@
 	"Disney Magical World (Europe) (DLC)": {
 		"languages": ["En"]
 	},
-	"Disney Magical World (Korea) (DLC)": {
-		"languages": ["Ko"]
+	"Disney Magical World (Korea) (En) (DLC)": {
+		"languages": ["En"]
 	},
 	"Disney Magical World (USA) (DLC)": {
 		"languages": ["En"]
@@ -1763,122 +1825,225 @@
 	"Dragon Quest VII - Eden no Senshitachi (Japan) (v1.1, v1088) (Update)": {
 		"languages": ["Ja"]
 	},
-	"Dragon Quest X - Bokensha no Odekake Handy Tool (Japan) (v01.03, v2048) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Benri Tool (Japan) (v01.03, v2048) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　－　冒険者のおでかけ便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Handy Tool (Japan) (v01.04, v3072) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Benri Tool (Japan) (v01.04, v3072) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　－　冒険者のおでかけ便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Handy Tool (Japan) (v01.10, v4112) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Benri Tool (Japan) (v01.10, v4112) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　－　冒険者のおでかけ便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Handy Tool (Japan) (v01.20, v5152) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Benri Tool (Japan) (v01.20, v5152) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　－　冒険者のおでかけ便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Handy Tool (Japan) (v01.21, v6192) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Benri Tool (Japan) (v01.21, v6192) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　－　冒険者のおでかけ便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Handy Tool (Japan) (v1024) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Benri Tool (Japan) (v1024) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　－　冒険者のおでかけ便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.1.0, v1056) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.1.0, v1056) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.2.0, v2096) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.2.0, v2096) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.3.0, v3136) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.3.0, v3136) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.4.0, v4176) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.4.0, v4176) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.5.0, v5216) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.5.0, v5216) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.5.1, v6256) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.5.1, v6256) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.6.0, v7296) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.6.0, v7296) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.6.1, v8336) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.6.1, v8336) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v1.7.0, v9376) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v1.7.0, v9376) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.1.6, v10416) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.1.6, v10416) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.1.10, v11456) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.1.10, v11456) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.2.5, v12496) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.2.5, v12496) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.2.8, v13536) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.2.8, v13536) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.3.0, v14576) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.3.0, v14576) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.3.5, v15616) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.3.5, v15616) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.3.7, v16656) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.3.7, v16656) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.4.0, v17712) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.4.0, v17712) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.4.5, v18752) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.4.5, v18752) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.4.6, v19792) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.4.6, v19792) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.4.7, v20832) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.4.7, v20832) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.5.0, v21872) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.5.0, v21872) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.5.2, v22912) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.5.2, v22912) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.5.4, v23968) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.5.4, v23968) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.5.6, v25024) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.5.6, v25024) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v3.5.9, v26064) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v3.5.9, v26064) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v4.0.0, v27104) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.0.0, v27104) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v4.1.0, v28160) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.1.0, v28160) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v4.1.1, v29200) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.1.1, v29200) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v4.1.2, v30240) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.1.2, v30240) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v4.2.0, v31280) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.2.0, v31280) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v4.2.1, v32320) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.2.1, v32320) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v4.2.2, v33360) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.2.2, v33360) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
-	"Dragon Quest X - Bokensha no Odekake Super Handy Tool (Japan) (v6.0.0, v55200) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.3.0, v34400) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.4.0, v35456) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.5.0, v36496) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.5.7, v39616) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v4.5.8, v40656) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.0.0, v42720) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.1.0, v44800) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.1.1, v45840) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.2.0, v46880) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.3.0, v47920) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.3.1, v48960) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.4.0, v50000) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.4.1, v51040) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.4.2, v52080) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.5.0, v53120) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v5.5.5, v54160) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
+	},
+	"Dragon Quest X - Boukensha no Odekake Chou Benri Tool (Japan) (v6.0.0, v55200) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストⅩ　冒険者のおでかけ超便利ツール"
 	},
 	"Dragon Quest X - Mezameshi Itsutsu no Shuzoku Online (Japan) (v1.0.1, v1072) (Embedded Update)": {
 		"languages": ["Ja"]
@@ -1905,7 +2070,8 @@
 		"languages": ["Ja"]
 	},
 	"Dragon Quest XI - Sugi Sarishi Toki o Motomete (Japan) (DLC) [b]": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ドラゴンクエストＸＩ　－　過ぎ去りし時を求めて"
 	},
 	"Drancia Saga (Japan) (v1.1, v1040) (Update)": {
 		"languages": ["Ja"]
@@ -2087,11 +2253,13 @@
 	"Fire Emblem Echoes - Shadows of Valentia (Europe) (v1.1, v1056) (Update)": {
 		"languages": ["En"]
 	},
-	"Fire Emblem Echoes - Shadows of Valentia (Taiwan) (Ja) (DLC)": {
-		"languages": ["Ja"]
+	"Fire Emblem Echoes - Shadows of Valentia (Taiwan) (Ja,Zh-Hant,Zh-Hans) (DLC)": {
+		"languages": ["Ja", "Zh-Hans", "Zh-Hant"],
+		"localName": "ＦＩＲＥ　ＥＭＢＬＥＭ　Ｅｃｈｏｅｓ　另一位英雄王　（中日版）"
 	},
-	"Fire Emblem Echoes - Shadows of Valentia (Taiwan) (Ja) (v1.1, v2080) (Update)": {
-		"languages": ["Ja"]
+	"Fire Emblem Echoes - Shadows of Valentia (Taiwan) (Ja,Zh-Hant,Zh-Hans) (v1.1, v2080) (Update)": {
+		"languages": ["Ja", "Zh-Hans", "Zh-Hant"],
+		"localName": "ＦＩＲＥ　ＥＭＢＬＥＭ　Ｅｃｈｏｅｓ　另一位英雄王　（中日版）"
 	},
 	"Fire Emblem Echoes - Shadows of Valentia (USA) (DLC)": {
 		"languages": ["En"]
@@ -2171,17 +2339,45 @@
 	"Fire Emblem Warriors (Europe) (v1.5.0, v6256) (Update)": {
 		"languages": ["En"]
 	},
-	"Fire Emblem Warriors (Korea) (En) (DLC)": {
-		"languages": ["En"]
+	"Fire Emblem Warriors (Korea) (En,Fr,De,Es,It) (DLC)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（영어）"
 	},
-	"Fire Emblem Warriors (Korea) (En) (v1.5.0, v4160) (Update)": {
-		"languages": ["En"]
+	"Fire Emblem Warriors (Korea) (En,Fr,De,Es,It) (v1.2.0, v1040) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（영어）"
+	},
+	"Fire Emblem Warriors (Korea) (En,Fr,De,Es,It) (v1.3.0, v2080) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（영어）"
+	},
+	"Fire Emblem Warriors (Korea) (En,Fr,De,Es,It) (v1.4.0, v3120) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（영어）"
+	},
+	"Fire Emblem Warriors (Korea) (En,Fr,De,Es,It) (v1.5.0, v4160) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（영어）"
 	},
 	"Fire Emblem Warriors (Korea) (Ja) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（일본어）"
+	},
+	"Fire Emblem Warriors (Korea) (Ja) (v1.2.0, v1040) (Update)": {
+		"languages": ["Ja"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（일본어）"
+	},
+	"Fire Emblem Warriors (Korea) (Ja) (v1.3.0, v2080) (Update)": {
+		"languages": ["Ja"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（일본어）"
+	},
+	"Fire Emblem Warriors (Korea) (Ja) (v1.4.0, v3120) (Update)": {
+		"languages": ["Ja"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（일본어）"
 	},
 	"Fire Emblem Warriors (Korea) (Ja) (v1.5.0, v4160) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ｆｉｒｅ　Ｅｍｂｌｅｍ　Ｗａｒｒｉｏｒｓ　（일본어）"
 	},
 	"Fire Emblem Warriors (USA) (DLC)": {
 		"languages": ["En"]
@@ -2322,7 +2518,8 @@
 		"languages": ["Ja"]
 	},
 	"Haikyu!! Cross Team Match! (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ハイキュー！！　Ｃｒｏｓｓ　ｔｅａｍ　ｍａｔｃｈ！"
 	},
 	"Hakuoki - Memories of the Shinsengumi (Europe) (v1.1, v1040) (Update)": {
 		"languages": ["En"]
@@ -2634,10 +2831,12 @@
 		"languages": ["Ja"]
 	},
 	"Illvelo Dillinjah (Japan) (v1040) (Embedded Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "イルベロデリンジャ"
 	},
 	"Illvelo Dillinjah (Japan) (v2080) (Embedded Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "イルベロデリンジャ"
 	},
 	"Imagine - Fashion World 3D (Europe) (DLC)": {
 		"languages": ["En"]
@@ -2712,16 +2911,20 @@
 		"languages": ["Ja"]
 	},
 	"Itsu no ma ni Koukan Nikki (Japan) (v1024) (Embedded Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "いつの間に交換日記"
 	},
 	"Itsu no ma ni Koukan Nikki (Japan) (v2064) (Embedded Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "いつの間に交換日記"
 	},
 	"Itsu no ma ni Koukan Nikki (Japan) (v2080) (Embedded Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "いつの間に交換日記"
 	},
 	"Itsu no ma ni Koukan Nikki (Japan) (v3120) (Embedded Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "いつの間に交換日記"
 	},
 	"Itsu no Ma ni Televi (Japan) (v2048) (Embedded Update)": {
 		"languages": ["Ja"]
@@ -2748,7 +2951,8 @@
 		"languages": ["En"]
 	},
 	"Jikkyou Powerful Pro Yakyuu Heroes (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "実況パワフルプロ野球　ヒーローズ"
 	},
 	"Jissha de Chibi Robo! (Japan) (v1056) (Embedded Update)": {
 		"languages": ["Ja"]
@@ -2798,6 +3002,9 @@
 	"Karous - The Beast of Re-Eden (Japan) (v2.0.0, v2128) (Update)": {
 		"languages": ["Ja"]
 	},
+	"Karous - The Beast of Re-Eden (Japan) (v1088) (Embedded Update)": {
+		"languages": ["Ja"]
+	},
 	"Kaseki Horider - Mugen Gear (Japan) (v1.1, v1056) (Update)": {
 		"languages": ["Ja"]
 	},
@@ -2805,7 +3012,8 @@
 		"languages": ["Ja"]
 	},
 	"Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal (Japan) (v1.1, v2048) (Embedded Update) [b]": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "かわいいペットとくらそう！　－　わんニャン＆ミニミニアニマル"
 	},
 	"Keep, The (Europe) (v1.1.0, v1040) (Embedded Update)": {
 		"languages": ["En"]
@@ -2823,9 +3031,6 @@
 		"languages": ["En"]
 	},
 	"Kid Tripp RUN! (Japan) (v1.1, v1040) (Embedded Update)": {
-		"languages": ["Ja"]
-	},
-	"Killca Drive (Japan) (DLC)": {
 		"languages": ["Ja"]
 	},
 	"Kingdom Hearts 3D - Dream Drop Distance (Japan) (v1.1, v1024) (Update)": {
@@ -2873,8 +3078,13 @@
 	"Kirby Battle Royale (USA) (v3.0, v5184) (Update)": {
 		"languages": ["En"]
 	},
+	"Kiruka Drive (Japan) (DLC)": {
+		"languages": ["Ja"],
+		"localName": "キルカ・ドライブ"
+	},
 	"Kiwamero! Shunkan Jump Kentei (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "極めろ！瞬間ジャンプ検定"
 	},
 	"Kobito Dukan - Kobito no Fushigi - Jikken Set (Japan) (v1.1, v1056) (Update)": {
 		"languages": ["Ja"]
@@ -3015,10 +3225,12 @@
 		"languages": ["It"]
 	},
 	"LEGO Marvel Avengers (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＬＥＧＯマーベル　アベンジャーズ"
 	},
 	"LEGO Marvel Avengers (Japan) (v1.1.0, v1056) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＬＥＧＯマーベル　－　アベンジャーズ"
 	},
 	"LEGO Marvel Avengers (USA) (DLC)": {
 		"languages": ["En"]
@@ -3086,8 +3298,8 @@
 	"Link-a-Pix Color (USA) (v1.01, v1040) (Update)": {
 		"languages": ["En"]
 	},
-	"Link-a-Pix Colour (Europe, Australia) (v1.01, v1040) (Update)": {
-		"languages": ["En"]
+	"Link-a-Pix Colour (Europe, Australia) (En,Fr,De,Es) (v1.01, v1040) (Update)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Little Adventure on the Prairie (Europe) (v1.1, v1040) (Embedded Update)": {
 		"languages": ["En"]
@@ -3134,32 +3346,37 @@
 	"Mamegoma Happy! Sweets Farm (Japan) (v1.1, v2096) (Update)": {
 		"languages": ["Ja"]
 	},
-	"Mario & Luigi - Bowser's Inside Story + Bowser Jr's Journey (Europe) (v1.1, v1040) (Update) [b]": {
-		"languages": ["En"]
+	"Mario & Luigi - Bowser's Inside Story + Bowser Jr's Journey (Europe, Australia) (En,Fr,De,Es,It) (v1.1, v1040) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Mario & Luigi - Bowser's Inside Story + Bowser Jr's Journey (Europe) (v1.2, v2080) (Update) [b]": {
-		"languages": ["En"]
+	"Mario & Luigi - Bowser's Inside Story + Bowser Jr's Journey (Europe, Australia) (En,Fr,De,Es,It) (v1.2, v2080) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Mario & Luigi - Bowser's Inside Story + Bowser Jr's Journey (USA) (v1.1, v1040) (Update) [b]": {
-		"languages": ["En"]
+	"Mario & Luigi - Bowser's Inside Story + Bowser Jr's Journey (USA) (En,Fr,Es) (v1.1, v1040) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Mario & Luigi - Bowser's Inside Story + Bowser Jr's Journey (USA) (v1.2, v2080) (Update) [b]": {
-		"languages": ["En"]
+	"Mario & Luigi - Bowser's Inside Story + Bowser Jr's Journey (USA) (En,Fr,Es) (v1.2, v2080) (Update)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Mario & Luigi - Dream Team (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v1.1, v2048) (Embedded Update) [b]": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Ru"]
 	},
 	"Mario & Luigi - Dream Team (Europe) (v1.1, v1040) (Update)": {
 		"languages": ["En"]
 	},
-	"Mario & Luigi - Dream Team (Europe) (v1.1, v2048) (Embedded Update) [b]": {
-		"languages": ["En"]
+	"Mario & Luigi - Dream Team (USA) (En,Fr,Es) (v1.1, v2048) (Embedded Update) [b]": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Mario & Luigi - Dream Team (USA) (v1.1, v1040) (Update)": {
 		"languages": ["En"]
 	},
-	"Mario & Luigi - Dream Team (USA) (v1.1, v2048) (Embedded Update) [b]": {
-		"languages": ["En"]
+	"Mario & Luigi RPG3 DX (Japan) (v1.1, v1056) (Update)": {
+		"languages": ["Ja"],
+		"localName": "マリオ＆ルイージＲＰＧ３　ＤＸ"
 	},
 	"Mario & Luigi RPG3 DX (Japan) (v1.2, v2096) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "マリオ＆ルイージＲＰＧ３　ＤＸ"
 	},
 	"Mario & Luigi RPG4 - Dream Adventure (Japan) (v1.1, v1056) (Update)": {
 		"languages": ["Ja"]
@@ -3174,22 +3391,43 @@
 		"languages": ["Ja"]
 	},
 	"Mario Golf - World Tour (Korea) (DLC)": {
-		"languages": ["Ko"]
+		"languages": ["Ko"],
+		"localName": "마리오　골프　월드　투어"
 	},
 	"Mario Golf - World Tour (USA) (DLC)": {
 		"languages": ["En"]
 	},
-	"Mario Kart 7 (Europe) (v1.1, v1040) (Update)": {
-		"languages": ["En"]
+	"Mario Kart 7 (Europe, Australia) (En,Fr,De,It,Nl,Pt,Ru) (v1.1, v1040) (Update)": {
+		"languages": ["De", "En", "Fr", "It", "Nl", "Pt", "Ru"]
+	},
+	"Mario Kart 7 (Europe, Australia) (En,Fr,De,It,Nl,Pt,Ru) (v1.2, v3152) (Update)": {
+		"languages": ["De", "En", "Fr", "It", "Nl", "Pt", "Ru"]
 	},
 	"Mario Kart 7 (Japan) (v1.1, v1040) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "マリオカート７"
 	},
-	"Mario Kart 7 (USA) (v1.1, v1040) (Update)": {
-		"languages": ["En"]
+	"Mario Kart 7 (Japan) (v1.2, v3152) (Update)": {
+		"languages": ["Ja"],
+		"localName": "マリオカート７"
+	},
+	"Mario Kart 7 (Korea) (v1.2, v3088) (Update)": {
+		"languages": ["Ko"],
+		"localName": "마리오　카트　７"
+	},
+	"Mario Kart 7 (Taiwan) (v1.2, v3088) (Update)": {
+		"languages": ["Zh"],
+		"localName": "瑪利歐賽車７"
+	},
+	"Mario Kart 7 (USA) (En,Fr,Es) (v1.1, v1040) (Update)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Mario Kart 7 (USA) (En,Fr,Es) (v1.2, v3152) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Mario Party - Star Rush (Korea) (v1.1.0, v1040) (Update)": {
-		"languages": ["Ko"]
+		"languages": ["Ko"],
+		"localName": "마리오　파티　스타　러시"
 	},
 	"Mario vs. Donkey Kong - Minna de Mini-Land (Japan) (v1.01, v1040) (Update)": {
 		"languages": ["Ja"]
@@ -3219,22 +3457,28 @@
 		"languages": ["Ja"]
 	},
 	"Medarot 8 - Kabuto Ver. (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロット８　－　カブトＶｅｒ．"
 	},
 	"Medarot 8 - Kabuto Ver. (Japan) (v1.1, v1104) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロット８　－　カブトＶｅｒ．"
 	},
 	"Medarot 8 - Kuwagata Ver. (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロット８　－　クワガタＶｅｒ．"
 	},
 	"Medarot 8 - Kuwagata Ver. (Japan) (v1.1, v1104) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロット８　－　クワガタＶｅｒ．"
 	},
 	"Medarot 9 - Kabuto Ver. (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロット９　－　カブトＶｅｒ．"
 	},
 	"Medarot 9 - Kabuto Ver. (Japan) (v1.1, v1072) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロット９　－　カブトＶｅｒ．"
 	},
 	"Medarot 9 - Kuwagata Ver. (Japan) (DLC)": {
 		"languages": ["Ja"]
@@ -3245,17 +3489,29 @@
 	"Medarot Classics - 20th Anniversary Edition (Japan) (v1.1, v1056) (Update)": {
 		"languages": ["Ja"]
 	},
+	"Medarot Classics - Kabuto Ver. (Japan) (v1.1, v1056) (Update)": {
+		"languages": ["Ja"],
+		"localName": "メダロット　クラシックス　－　カブトＶｅｒ．"
+	},
 	"Medarot Classics - Kabuto Ver. (Japan) (v2.0, v2112) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロット　クラシックス　－　カブトＶｅｒ．"
+	},
+	"Medarot Classics - Kuwagata Ver. (Japan) (v1.1, v1056) (Update)": {
+		"languages": ["Ja"],
+		"localName": "メダロット　クラシックス　－　クワガタＶｅｒ．"
 	},
 	"Medarot Classics - Kuwagata Ver. (Japan) (v2.0, v2112) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロット　クラシックス　－　クワガタＶｅｒ．"
 	},
 	"Medarot Dual - Kabuto Ver. (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロットＤＵＡＬ　－　カブトＶｅｒ．"
 	},
 	"Medarot Dual - Kabuto Ver. (Japan) (v1.1, v1072) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "メダロットＤＵＡＬ　－　カブトＶｅｒ．"
 	},
 	"Medarot Dual - Kuwagata Ver. (Japan) (DLC)": {
 		"languages": ["Ja"]
@@ -3365,11 +3621,25 @@
 	"Mighty Gunvolt Burst (Europe) (v1.3.1, v4160) (Update)": {
 		"languages": ["En"]
 	},
-	"Mighty Gunvolt Burst (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"Mighty Gunvolt Burst (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru) (DLC)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt", "Ru"],
+		"localName": "マイティガンヴォルト　バースト"
 	},
-	"Mighty Gunvolt Burst (Japan) (v1.3.1, v4176) (Update)": {
-		"languages": ["Ja"]
+	"Mighty Gunvolt Burst (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru) (v1.3, v3136) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt", "Ru"],
+		"localName": "マイティガンヴォルト　バースト"
+	},
+	"Mighty Gunvolt Burst (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru) (v1.3.1, v4176) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt", "Ru"],
+		"localName": "マイティガンヴォルト　バースト"
+	},
+	"Mighty Gunvolt Burst (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru) (v1056) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt", "Ru"],
+		"localName": "マイティガンヴォルト　バースト"
+	},
+	"Mighty Gunvolt Burst (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru) (v2096) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt", "Ru"],
+		"localName": "マイティガンヴォルト　バースト"
 	},
 	"Mighty Gunvolt Burst (USA) (DLC)": {
 		"languages": ["En"]
@@ -3407,38 +3677,53 @@
 	"Miitopia (Japan) (v16) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Europe) (DLC)": {
-		"languages": ["En"]
+	"Minecraft - New Nintendo 3DS Edition (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (DLC)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Europe) (v1.9.19, v9392) (Update)": {
-		"languages": ["En"]
+	"Minecraft - New Nintendo 3DS Edition (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.5.25, v5232) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"Minecraft - New Nintendo 3DS Edition (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.7.10, v7312) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Japan) (v1.1.06, v1088) (Update)": {
-		"languages": ["Ja"]
+	"Minecraft - New Nintendo 3DS Edition (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.8.13, v8352) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Japan) (v1.2.12, v2128) (Update)": {
-		"languages": ["Ja"]
+	"Minecraft - New Nintendo 3DS Edition (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.9.19, v9392) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Japan) (v1.3.12, v3168) (Update)": {
-		"languages": ["Ja"]
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (DLC)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Japan) (v1.4.23, v4208) (Update)": {
-		"languages": ["Ja"]
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.1.06, v1088) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Japan) (v1.5.25, v5264) (Update)": {
-		"languages": ["Ja"]
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.2.12, v2128) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Japan) (v1.6.11, v6304) (Update)": {
-		"languages": ["Ja"]
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.3.12, v3168) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (Japan) (v1.9.19, v9424) (Update)": {
-		"languages": ["Ja"]
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.4.23, v4208) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minecraft - New Nintendo 3DS Edition (USA) (DLC)": {
-		"languages": ["En"]
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.5.25, v5264) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
+	},
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.6.11, v6304) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
+	},
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.7.10, v7344) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
+	},
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.8.13, v8384) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
+	},
+	"Minecraft - New Nintendo 3DS Edition (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.9.19, v9424) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
+	},
+	"Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (DLC)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
 	"Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.1.06, v1056) (Update)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
@@ -3467,19 +3752,19 @@
 	"Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.9.19, v9408) (Update)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pt", "Ru", "Zh"]
 	},
-	"Minna de Mamotte Knight - Hime no Tokimeki Rhapsody (Japan) (DLC)": {
+	"Minna de Mamotte Kishi - Hime no Tokimeki Rhapsody (Japan) (DLC)": {
 		"languages": ["Ja"]
 	},
-	"Minna de Mamotte Knight - Hime no Tokimeki Rhapsody (Japan) (v1.1, v1104) (Embedded Update)": {
+	"Minna de Mamotte Kishi - Hime no Tokimeki Rhapsody (Japan) (v1.1, v1104) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
-	"Minna de Mamotte Knight - Hime no Tokimeki Rhapsody (Japan) (v1.1, v2144) (Embedded Update)": {
+	"Minna de Mamotte Kishi - Hime no Tokimeki Rhapsody (Japan) (v1.1, v2144) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
-	"Minna de Mamotte Knight - Hime no Tokimeki Rhapsody (Japan) (v1.3, v3184) (Embedded Update)": {
+	"Minna de Mamotte Kishi - Hime no Tokimeki Rhapsody (Japan) (v1.3, v3184) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
-	"Minna de Mamotte Knight - Hime no Tokimeki Rhapsody (Japan) (v1.4, v4224) (Embedded Update)": {
+	"Minna de Mamotte Kishi - Hime no Tokimeki Rhapsody (Japan) (v1.4, v4224) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
 	"Minna de! Kirby Hunters Z (Japan) (v1.1.0, v1040) (Embedded Update)": {
@@ -3509,7 +3794,7 @@
 	"Moero!! Pro Yakyuu 2016 (Japan) (v1056) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
-	"Moji Puzzle Kotoda Maru (Japan) (v1.1, v1072) (Update)": {
+	"Moji Puzzle Kotodamaru (Japan) (v1.1, v1072) (Update)": {
 		"languages": ["Ja"]
 	},
 	"Momotarou Dentetsu 2017 - Tachiagare Nippon!! (Japan) (v1.1, v1040) (Update)": {
@@ -3576,13 +3861,23 @@
 		"languages": ["Ja"]
 	},
 	"Monster Hunter Stories (Taiwan) (Ja) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＭＯＮＳＴＥＲ　ＨＵＮＴＥＲ　ＳＴＯＲＩＥＳ　（日文版）"
+	},
+	"Monster Hunter Stories (Taiwan) (Ja) (v1.1.0, v1040) (Update)": {
+		"languages": ["Ja"],
+		"localName": "ＭＯＮＳＴＥＲ　ＨＵＮＴＥＲ　ＳＴＯＲＩＥＳ　（日文版）"
+	},
+	"Monster Hunter Stories (Taiwan) (Ja) (v1.2.0, v2096) (Update)": {
+		"languages": ["Ja"],
+		"localName": "ＭＯＮＳＴＥＲ　ＨＵＮＴＥＲ　ＳＴＯＲＩＥＳ　（日文版）"
 	},
 	"Monster Hunter Stories (Taiwan) (Ja) (v1.3.0, v3136) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＭＯＮＳＴＥＲ　ＨＵＮＴＥＲ　ＳＴＯＲＩＥＳ　（日文版）"
 	},
-	"Monster Hunter Stories (USA) (DLC)": {
-		"languages": ["En"]
+	"Monster Hunter Stories (USA) (En,Fr,Es) (DLC)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Monster Hunter X (Japan) (v1.1.0, v1088) (Update)": {
 		"languages": ["Ja"]
@@ -3614,11 +3909,25 @@
 	"Monster Hunter XX - Double Cross (Japan) (v1.4.0, v4224) (Update)": {
 		"languages": ["Ja"]
 	},
-	"Monster Hunter XX - Double Cross (Taiwan) (Ja) (v1.4.0, v4176) (Update)": {
-		"languages": ["Ja"]
+	"Monster Hunter XX - Double Cross (Taiwan) (Ja) (v1.1.0, v1040) (Update)": {
+		"languages": ["Ja"],
+		"localName": "ＭＯＮＳＴＥＲ　ＨＵＮＴＥＲ　ＸＸ　（日文版）"
 	},
-	"Monster Hunter XX Data Migration App (Japan) (v1.1.0, v1040) (Update)": {
-		"languages": ["Ja"]
+	"Monster Hunter XX - Double Cross (Taiwan) (Ja) (v1.2.0, v2096) (Update)": {
+		"languages": ["Ja"],
+		"localName": "ＭＯＮＳＴＥＲ　ＨＵＮＴＥＲ　ＸＸ　（日文版）"
+	},
+	"Monster Hunter XX - Double Cross (Taiwan) (Ja) (v1.3.0, v3136) (Update)": {
+		"languages": ["Ja"],
+		"localName": "ＭＯＮＳＴＥＲ　ＨＵＮＴＥＲ　ＸＸ　（日文版）"
+	},
+	"Monster Hunter XX - Double Cross (Taiwan) (Ja) (v1.4.0, v4176) (Update)": {
+		"languages": ["Ja"],
+		"localName": "ＭＯＮＳＴＥＲ　ＨＵＮＴＥＲ　ＸＸ　（日文版）"
+	},
+	"Monster Hunter XX - Double Cross - Data Migration App (Japan) (v1.1.0, v1040) (Update)": {
+		"languages": ["Ja"],
+		"localName": "モンスターハンターダブルクロス　－　データ移行アプリ"
 	},
 	"Monster Strike (Japan) (DLC)": {
 		"languages": ["Ja"]
@@ -3689,6 +3998,10 @@
 	"New Love Plus (Japan) (v1.2, v2048) (Update)": {
 		"languages": ["Ja"]
 	},
+	"New Super Mario Bros. 2 (China) (Zh-Hant,Zh-Hans) (DLC)": {
+		"languages": ["Zh-Hans", "Zh-Hant"],
+		"localName": "Ｎｅｗ　超級瑪利歐兄弟　２"
+	},
 	"New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (DLC) (Alt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Ru"]
 	},
@@ -3697,9 +4010,6 @@
 	},
 	"New Super Mario Bros. 2 (Korea) (DLC)": {
 		"languages": ["Ko"]
-	},
-	"New Super Mario Bros. 2 (Taiwan) (DLC)": {
-		"languages": ["Zh"]
 	},
 	"New Super Mario Bros. 2 (USA) (DLC)": {
 		"languages": ["En"]
@@ -3846,21 +4156,10 @@
 		"languages": ["Ja"]
 	},
 	"Nobunaga no Yabou 2 (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "信長の野望２"
 	},
 	"Nobunaga no Yabou (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
-	"Oh! GattiMan Dengeki BAZOOKA!! Special Game (Japan) (DLC)": {
-		"languages": ["Ja"]
-	},
-	"Oh! GattiMan Dengeki BAZOOKA!! Special Game (Japan) (v1.1, v1040) (Embedded Update)": {
-		"languages": ["Ja"]
-	},
-	"Oh! GattiMan Dengeki BAZOOKA!! Special Game (Japan) (v2.0, v2080) (Embedded Update)": {
-		"languages": ["Ja"]
-	},
-	"Oh! GattiMan Dengeki BAZOOKA!! Special Game (Japan) (v3.0, v3120) (Embedded Update)": {
 		"languages": ["Ja"]
 	},
 	"Ohno Odyssey (USA) (v1.1.0, v1040) (Embedded Update)": {
@@ -3933,7 +4232,8 @@
 		"languages": ["Ja"]
 	},
 	"Osomatsu-san Neat Dasshutsu Spiral!! (Japan) (v1.1, v1056) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "おそ松さん　－　ニート脱出スパイラル！！"
 	},
 	"Otegaru Puzzle Series - Alice to Mahou no Trump (Japan) (v32) (Embedded Update)": {
 		"languages": ["Ja"]
@@ -3977,17 +4277,20 @@
 	"Percy's Predicament Deluxe (USA) (v1.0, v1088) (Embedded Update)": {
 		"languages": ["En"]
 	},
-	"Persona Q2 - New Cinema Labyrinth (Europe) (DLC)": {
+	"Persona Q2 - New Cinema Labyrinth (Europe, Australia) (DLC)": {
 		"languages": ["En"]
 	},
 	"Persona Q2 - New Cinema Labyrinth (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ペルソナＱ２　－　ニュー　シネマ　ラビリンス"
 	},
-	"Persona Q2 - New Cinema Labyrinth (Japan) (v1.1) (Update)": {
-		"languages": ["Ja"]
+	"Persona Q2 - New Cinema Labyrinth (Japan) (v1.1, v1056) (Update)": {
+		"languages": ["Ja"],
+		"localName": "ペルソナＱ２　－　ニュー　シネマ　ラビリンス"
 	},
-	"Persona Q2 - New Cinema Labyrinth (Japan) (v1.2, v2096) (Update) [b]": {
-		"languages": ["Ja"]
+	"Persona Q2 - New Cinema Labyrinth (Japan) (v1.2, v2096) (Update)": {
+		"languages": ["Ja"],
+		"localName": "ペルソナＱ２　－　ニュー　シネマ　ラビリンス"
 	},
 	"Persona Q2 - New Cinema Labyrinth (USA) (DLC)": {
 		"languages": ["En"]
@@ -4020,7 +4323,8 @@
 		"languages": ["Ko"]
 	},
 	"Phoenix Wright - Ace Attorney - Dual Destinies (Taiwan) (En) (DLC)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "逆轉裁判　５　（英文版）"
 	},
 	"Phoenix Wright - Ace Attorney - Dual Destinies (USA) (DLC)": {
 		"languages": ["En"]
@@ -4035,7 +4339,8 @@
 		"languages": ["En"]
 	},
 	"Phoenix Wright - Ace Attorney - Spirit of Justice (Taiwan) (En) (DLC)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "逆轉裁判　６　（英文版）"
 	},
 	"Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (DLC)": {
 		"languages": ["En"]
@@ -4052,8 +4357,8 @@
 	"Pic-a-Pix Color (USA) (DLC)": {
 		"languages": ["En"]
 	},
-	"Pic-a-Pix Colour (Europe, Australia) (DLC)": {
-		"languages": ["En"]
+	"Pic-a-Pix Colour (Europe, Australia) (En,Fr,De,Es) (DLC)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Pig Who Cried Werewolf, The (USA) (v16) (Embedded Update)": {
 		"languages": ["En"]
@@ -4251,22 +4556,32 @@
 		"languages": ["Ja"]
 	},
 	"Pro Yakyuu Famista Climax (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "プロ野球　ファミスタ　クライマックス"
 	},
 	"Pro Yakyuu Famista Climax (Japan) (v1.1.0, v2080) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "プロ野球　ファミスタ　クライマックス"
 	},
 	"Pro Yakyuu Famista Climax (Japan) (v1.2.0, v3120) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "プロ野球　ファミスタ　クライマックス"
 	},
 	"Pro Yakyuu Famista Climax (Japan) (v1.3.0, v4160) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "プロ野球　ファミスタ　クライマックス"
 	},
 	"Pro Yakyuu Famista Climax (Japan) (v1.4.0, v5200) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "プロ野球　ファミスタ　クライマックス"
 	},
 	"Pro Yakyuu Famista Climax (Japan) (v1.5.0, v6240) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "プロ野球　ファミスタ　クライマックス"
+	},
+	"Pro Yakyuu Famista Climax (Japan) (v1040) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "プロ野球　ファミスタ　クライマックス"
 	},
 	"Project Cross Zone 2 (Korea) (DLC)": {
 		"languages": ["Ko"]
@@ -4593,43 +4908,58 @@
 		"languages": ["En"]
 	},
 	"RPG Tsukuru Fes (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス"
 	},
 	"RPG Tsukuru Fes (Japan) (v1.1.0, v1056) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス"
 	},
 	"RPG Tsukuru Fes (Japan) (v1.1.1, v2096) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス"
 	},
 	"RPG Tsukuru Fes (Japan) (v1.1.2, v3136) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス"
 	},
 	"RPG Tsukuru Fes (Japan) (v1.1.3, v4176) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス"
 	},
 	"RPG Tsukuru Fes (Japan) (v1.1.4, v5232) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス"
 	},
 	"RPG Tsukuru Fes Player (Japan) (v1.1.0, v1056) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス　プレイヤー"
 	},
 	"RPG Tsukuru Fes Player (Japan) (v1.1.1, v2096) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス　プレイヤー"
 	},
 	"RPG Tsukuru Fes Player (Japan) (v1.1.2, v3136) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス　プレイヤー"
 	},
 	"RPG Tsukuru Fes Player (Japan) (v1.1.3, v4192) (Embedded Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス　プレイヤー"
 	},
 	"RPG Tsukuru Fes Player (Japan) (v1.1.4, v5232) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス　プレイヤー"
+	},
+	"RPG Tsukuru Fes Player (Japan) (v16) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "ＲＰＧツクール　フェス　プレイヤー"
 	},
 	"RTO (New Nintendo 3DS version) (Europe, Australia) (v1.1.1, v1056) (Embedded Update)": {
 		"languages": ["En"]
 	},
-	"Runbow Pocket (Europe, Australia) (DLC) [b]": {
-		"languages": ["En"]
+	"Runbow Pocket (Europe, Australia) (En,Fr,De,Es,It) (DLC)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Runbow Pocket (USA) (DLC)": {
 		"languages": ["En"]
@@ -4667,10 +4997,10 @@
 	"Samurai Warriors Chronicles 3 (USA) (v1.0.2, v2080) (Update)": {
 		"languages": ["En"]
 	},
-	"San Goku Shi (Japan) (DLC)": {
+	"San Goku Shi 2 (Japan) (v1.1, v1072) (Update)": {
 		"languages": ["Ja"]
 	},
-	"Sangokushi 2 (Japan) (v1.1, v1072) (Update)": {
+	"San Goku Shi (Japan) (DLC)": {
 		"languages": ["Ja"]
 	},
 	"Scribblenauts Unlimited (Europe) (v1040) (Embedded Update)": {
@@ -4791,7 +5121,8 @@
 		"languages": ["Ko"]
 	},
 	"Shin Megami Tensei IV (Taiwan) (Ja) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "真・女神轉生Ⅳ　（日文版）"
 	},
 	"Shin Megami Tensei IV (USA) (DLC)": {
 		"languages": ["En"]
@@ -4892,20 +5223,21 @@
 	"Shovel Knight (Europe, Australia) (v2.2, v2080) (Update)": {
 		"languages": ["En"]
 	},
-	"Shovel Knight (Japan) (v2.3.1, v1040) (Update)": {
-		"languages": ["Ja"]
+	"Shovel Knight (Japan) (En,Ja,Fr,De,Es,It) (v2.3.1, v1040) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
+		"localName": "ショベルナイト"
 	},
-	"Shovel Knight (Japan) (v3.0A, v2080) (Update)": {
-		"languages": ["Ja"]
+	"Shovel Knight (Japan) (En,Ja,Fr,De,Es,It,Pt-BR,Ru) (v3.0A, v2080) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt-BR", "Ru"],
+		"localName": "ショベルナイト"
 	},
-	"Shovel Knight (Japan) (v4.0A, v3072) (Update)": {
-		"languages": ["Ja"]
+	"Shovel Knight (Japan) (En,Ja,Fr,De,Es,It,Pt-BR,Ru) (v4.0A, v3120) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt-BR", "Ru"],
+		"localName": "ショベルナイト"
 	},
-	"Shovel Knight (Japan) (v4.0A, v3120) (Update)": {
-		"languages": ["Ja"]
-	},
-	"Shovel Knight (Japan) (v4.1, v4160) (Update)": {
-		"languages": ["Ja"]
+	"Shovel Knight (Japan) (En,Ja,Fr,De,Es,It,Pt-BR,Ru) (v4.1, v4160) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt-BR", "Ru"],
+		"localName": "ショベルナイト"
 	},
 	"Shovel Knight (USA) (v2.2, v1040) (Update)": {
 		"languages": ["En"]
@@ -5082,7 +5414,8 @@
 		"languages": ["En"]
 	},
 	"SPEC - Kan (Japan) (DLC)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＳＰＥＣ～干～"
 	},
 	"Star Wars Pinball (Europe) (v1.0, v1056) (Embedded Update)": {
 		"languages": ["En"]
@@ -5162,8 +5495,8 @@
 	"Stickman Super Athletics (USA) (v1.1, v1040) (Update)": {
 		"languages": ["En"]
 	},
-	"Story of Seasons - Trio of Towns (Europe) (v1.1, v1040) (Update)": {
-		"languages": ["En"]
+	"Story of Seasons - Trio of Towns (Europe) (En,Fr,De,Es,It) (v1.1, v1040) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Story of Seasons - Trio of Towns (USA) (DLC)": {
 		"languages": ["En"]
@@ -5258,62 +5591,69 @@
 	"Sumikko Gurashi - Omise Hajimerundesu (Japan) (v2.0, v3152) (Update)": {
 		"languages": ["Ja"]
 	},
-	"Super Mario Maker for Nintendo 3DS (Europe) (v1.01, v1056) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (Europe, Australia) (En,Fr,De,Es,Nl,Pt,Ru) (v1.01, v1056) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl", "Pt", "Ru"]
 	},
-	"Super Mario Maker for Nintendo 3DS (Europe) (v1.02, v3136) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (Europe, Australia) (En,Fr,De,Es,Nl,Pt,Ru) (v1.02, v3136) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl", "Pt", "Ru"]
 	},
-	"Super Mario Maker for Nintendo 3DS (Europe) (v1.02, v4176) (Embedded Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (Europe, Australia) (En,Fr,De,Es,Nl,Pt,Ru) (v1.02, v4176) (Embedded Update)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl", "Pt", "Ru"]
 	},
-	"Super Mario Maker for Nintendo 3DS (Europe) (v1.03, v5216) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (Europe, Australia) (En,Fr,De,Es,Nl,Pt,Ru) (v1.03, v5216) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl", "Pt", "Ru"]
 	},
-	"Super Mario Maker for Nintendo 3DS (Europe) (v1.04, v6256) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (Europe, Australia) (En,Fr,De,Es,Nl,Pt,Ru) (v1.04, v6256) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl", "Pt", "Ru"]
 	},
-	"Super Mario Maker for Nintendo 3DS (Europe) (v1.05, v8336) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (Europe, Australia) (En,Fr,De,Es,Nl,Pt,Ru) (v1.05, v8336) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl", "Pt", "Ru"]
 	},
 	"Super Mario Maker for Nintendo 3DS (Japan) (v1.01, v1072) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "スーパーマリオメーカー　－　ｆｏｒ　ニンテンドー３ＤＳ"
 	},
 	"Super Mario Maker for Nintendo 3DS (Japan) (v1.02, v3136) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "スーパーマリオメーカー　－　ｆｏｒ　ニンテンドー３ＤＳ"
 	},
 	"Super Mario Maker for Nintendo 3DS (Japan) (v1.03, v5216) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "スーパーマリオメーカー　－　ｆｏｒ　ニンテンドー３ＤＳ"
 	},
 	"Super Mario Maker for Nintendo 3DS (Japan) (v1.04, v6256) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "スーパーマリオメーカー　－　ｆｏｒ　ニンテンドー３ＤＳ"
 	},
 	"Super Mario Maker for Nintendo 3DS (Japan) (v1.05, v8336) (Update)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "スーパーマリオメーカー　－　ｆｏｒ　ニンテンドー３ＤＳ"
 	},
 	"Super Mario Maker for Nintendo 3DS (Korea) (v1.04, v6160) (Update)": {
-		"languages": ["Ko"]
+		"languages": ["Ko"],
+		"localName": "슈퍼　마리오　메이커　ｆｏｒ　닌텐도　３ＤＳ"
 	},
 	"Super Mario Maker for Nintendo 3DS (Korea) (v1.05, v8240) (Update)": {
-		"languages": ["Ko"]
+		"languages": ["Ko"],
+		"localName": "슈퍼　마리오　메이커　ｆｏｒ　닌텐도　３ＤＳ"
 	},
-	"Super Mario Maker for Nintendo 3DS (USA) (v1.01, v1056) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (v1.01, v1056) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Super Mario Maker for Nintendo 3DS (USA) (v1.02, v3136) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (v1.02, v3136) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Super Mario Maker for Nintendo 3DS (USA) (v1.02, v4176) (Embedded Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (v1.02, v4176) (Embedded Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Super Mario Maker for Nintendo 3DS (USA) (v1.03, v5216) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (v1.03, v5216) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Super Mario Maker for Nintendo 3DS (USA) (v1.04, v6256) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (v1.04, v6256) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Super Mario Maker for Nintendo 3DS (USA) (v1.05, v8336) (Update)": {
-		"languages": ["En"]
+	"Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (v1.05, v8336) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Super Robot Taisen BX (Japan) (DLC)": {
 		"languages": ["Ja"]
@@ -5654,8 +5994,8 @@
 	"Theatrhythm Final Fantasy (Japan) (DLC)": {
 		"languages": ["Ja"]
 	},
-	"Theatrhythm Final Fantasy (Korea) (DLC)": {
-		"languages": ["Ko"]
+	"Theatrhythm Final Fantasy (Korea) (En) (DLC)": {
+		"languages": ["En"]
 	},
 	"Theatrhythm Final Fantasy (USA) (DLC)": {
 		"languages": ["En"]
@@ -5939,35 +6279,50 @@
 	"Yo-Kai Watch 2 - Wonjo (Korea) (v2.0, v1040) (Update)": {
 		"languages": ["Ko"]
 	},
-	"Yo-Kai Watch 3 (Europe) (DLC)": {
+	"Yo-Kai Watch 3 (Europe, Australia) (DLC)": {
 		"languages": ["En"]
 	},
-	"Yo-Kai Watch 3 (Europe) (En,Fr,De,Es,It) (v1.2, v2080) (Update)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Yo-Kai Watch 3 (Europe, Australia) (v1.1, v1040) (Update)": {
+		"languages": ["En"]
+	},
+	"Yo-Kai Watch 3 (Europe, Australia) (v1.2, v2080) (Update)": {
+		"languages": ["En"]
+	},
+	"Yo-Kai Watch 3 (France) (v1.1, v1056) (Update)": {
+		"languages": ["Fr"]
 	},
 	"Yo-Kai Watch 3 (France) (v1.2, v2096) (Update)": {
 		"languages": ["Fr"]
 	},
+	"Yo-Kai Watch 3 (Germany) (v1.1, v1056) (Update)": {
+		"languages": ["De"]
+	},
 	"Yo-Kai Watch 3 (Germany) (v1.2, v2096) (Update)": {
 		"languages": ["De"]
+	},
+	"Yo-Kai Watch 3 (Italy) (v1.1, v1056) (Update)": {
+		"languages": ["It"]
 	},
 	"Yo-Kai Watch 3 (Italy) (v1.2, v2096) (Update)": {
 		"languages": ["It"]
 	},
+	"Yo-Kai Watch 3 (Spain) (v1.1, v1040) (Update)": {
+		"languages": ["Es"]
+	},
 	"Yo-Kai Watch 3 (Spain) (v1.2, v2080) (Update)": {
 		"languages": ["Es"]
 	},
-	"Yo-Kai Watch 3 (USA) (DLC)": {
-		"languages": ["En"]
+	"Yo-Kai Watch 3 (USA) (En,Fr,Es) (DLC)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Yo-Kai Watch 3 (USA) (v1.1, v1056) (Update) [b]": {
-		"languages": ["En"]
+	"Yo-Kai Watch 3 (USA) (En,Fr,Es) (v1.1, v1056) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Yo-Kai Watch 3 (USA) (v1.2) (Update)": {
-		"languages": ["En"]
+	"Yo-Kai Watch 3 (USA) (En,Fr,Es) (v1.2, v2096) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Yo-Kai Watch 3 (USA) (v1.3, v3136) (Update) [b]": {
-		"languages": ["En"]
+	"Yo-Kai Watch 3 (USA) (En,Fr,Es) (v1.3, v3136) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Yo-Kai Watch (Australia) (v1.1, v1040) (Update)": {
 		"languages": ["En"]
@@ -5981,35 +6336,43 @@
 	"Yo-Kai Watch (USA) (v1.2, v2080) (Update)": {
 		"languages": ["En"]
 	},
-	"Yo-Kai Watch Blasters - Red Cat Corps (Europe, Australia) (v2.4, v2096) (Update) [b]": {
-		"languages": ["En"]
+	"Yo-Kai Watch Blasters (Europe, Australia) (En,Fr,De,Es,It) (DLC)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Yo-Kai Watch Blasters - Red Cat Corps (USA) (v2.3, v1072) (Update)": {
-		"languages": ["En"]
+	"Yo-Kai Watch Blasters (USA) (En,Fr,Es) (DLC)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Yo-Kai Watch Blasters - Red Cat Corps (USA) (v2.4, v2112) (Update)": {
-		"languages": ["En"]
+	"Yo-Kai Watch Blasters - Red Cat Corps (Europe, Australia) (En,Fr,De,Es,It) (v2.3, v1056) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Yo-Kai Watch Blasters - White Dog Squad (Europe) (v2.3.0) (Update)": {
-		"languages": ["En"]
+	"Yo-Kai Watch Blasters - Red Cat Corps (Europe, Australia) (En,Fr,De,Es,It) (v2.4, v2096) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Yo-Kai Watch Blasters - White Dog Squad (Europe, Australia) (v2.3, v1056) (Update)": {
-		"languages": ["En"]
+	"Yo-Kai Watch Blasters - Red Cat Corps (USA) (En,Fr,Es) (v2.3, v1072) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Yo-Kai Watch Blasters - White Dog Squad (Europe, Australia) (v2.4, v2096) (Update)": {
-		"languages": ["En"]
+	"Yo-Kai Watch Blasters - Red Cat Corps (USA) (En,Fr,Es) (v2.4, v2112) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Yo-Kai Watch Blasters - White Dog Squad (USA) (v2.3, v1072) (Update) [b]": {
-		"languages": ["En"]
+	"Yo-Kai Watch Blasters - White Dog Squad (Europe, Australia) (En,Fr,De,Es,It) (v2.3, v1056) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Yo-Kai Watch Blasters - White Dog Squad (USA) (v2.4, v2112) (Update)": {
-		"languages": ["En"]
+	"Yo-Kai Watch Blasters - White Dog Squad (Europe, Australia) (En,Fr,De,Es,It) (v2.4, v2096) (Update)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Yo-Kai Watch Busters - Baegyeondae (Korea) (v2.3, v1040) (Update)": {
-		"languages": ["Ko"]
+	"Yo-Kai Watch Blasters - White Dog Squad (USA) (En,Fr,Es) (v2.3, v1072) (Update)": {
+		"languages": ["En", "Es", "Fr"]
 	},
-	"Yo-Kai Watch Busters - Bulg-eun Goyangidan (Korea) (v2.3, v1040) (Update)": {
-		"languages": ["Ko"]
+	"Yo-Kai Watch Blasters - White Dog Squad (USA) (En,Fr,Es) (v2.4, v2112) (Update)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Yogoe Watch Busters - Baekgyeondae (Korea) (v2.3, v1040) (Update)": {
+		"languages": ["Ko"],
+		"localName": "요괴워치버스터즈　백견대"
+	},
+	"Yogoe Watch Busters - Jeongmyodan (Korea) (v2.3, v1040) (Update)": {
+		"languages": ["Ko"],
+		"localName": "요괴워치버스터즈　적묘단"
 	},
 	"Yoru no Majin to Ikusa no Kuni - Samayoeru Vampire (Japan) (v1024) (Embedded Update)": {
 		"languages": ["Ja"]
@@ -6036,7 +6399,8 @@
 		"languages": ["Ja"]
 	},
 	"Youkai Watch 2 - Ganso (Japan) (v1.3, v6144) (Embedded Update) [b]": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "妖怪ウォッチ２元祖"
 	},
 	"Youkai Watch 2 - Ganso (Japan) (v2.0, v7232) (Update)": {
 		"languages": ["Ja"]
@@ -6054,7 +6418,8 @@
 		"languages": ["Ja"]
 	},
 	"Youkai Watch 2 - Honke (Japan) (v1.3, v6144) (Embedded Update) [b]": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "妖怪ウォッチ２本家"
 	},
 	"Youkai Watch 2 - Honke (Japan) (v2.0, v7232) (Update)": {
 		"languages": ["Ja"]
@@ -6069,7 +6434,8 @@
 		"languages": ["Ja"]
 	},
 	"Youkai Watch 2 - Shinuchi (Japan) (v1.2, v4096) (Embedded Update) [b]": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "妖怪ウォッチ２真打"
 	},
 	"Youkai Watch 3 (Japan) (DLC)": {
 		"languages": ["Ja"]
@@ -6251,11 +6617,13 @@
 	"Yowamushi Pedal - Ashita e no High Cadence (Japan) (v1.1, v1040) (Update)": {
 		"languages": ["Ja"]
 	},
-	"Yu-Gi-Oh! ARC-V Official Card Game - Easy Master! (Japan) (DLC)": {
-		"languages": ["Ja"]
+	"Yu-Gi-Oh! ARC-V Official Card Game - Kantan Master! Pendulum Shoukan! (Japan) (DLC)": {
+		"languages": ["Ja"],
+		"localName": "遊戯王ＡＲＣ－Ｖ　ＯＣＧ　－　かんたんマスター！ペンデュラム召喚"
 	},
-	"Yu-Gi-Oh! ARC-V Official Card Game - Easy Master! (Japan) (v1.1, v1056) (Embedded Update)": {
-		"languages": ["Ja"]
+	"Yu-Gi-Oh! ARC-V Official Card Game - Kantan Master! Pendulum Shoukan! (Japan) (v1.1, v1056) (Embedded Update)": {
+		"languages": ["Ja"],
+		"localName": "遊戯王ＡＲＣ－Ｖ　ＯＣＧ　－　かんたんマスター！ペンデュラム召喚"
 	},
 	"Yu-Gi-Oh! Duel Monsters - Saikyo Card Battle! (Japan) (DLC)": {
 		"languages": ["Ja"]

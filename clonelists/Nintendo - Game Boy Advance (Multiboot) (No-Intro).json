@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (Multiboot) (No-Intro)",
-		"lastUpdated": "11 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Puyo Pop - Endless Version",

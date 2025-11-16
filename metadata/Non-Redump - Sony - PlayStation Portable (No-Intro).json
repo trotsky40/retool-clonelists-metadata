@@ -1044,6 +1044,9 @@
 	"Buzz! The Ultimate Music Quiz (Europe, Australia) (v1.02)": {
 		"languages": ["En"]
 	},
+	"Buzz! Ultimate Music Quiz (World)": {
+		"languages": ["nolang"]
+	},
 	"Cabela's African Safari (USA) (v1.01)": {
 		"languages": ["En"]
 	},
@@ -1247,6 +1250,9 @@
 	},
 	"CID The Dummy (USA) (v1.02)": {
 		"languages": ["En"]
+	},
+	"ClaDun X2 (Japan) (Beta) (2010-10-02) [b]": {
+		"languages": ["Ja"]
 	},
 	"Clank & Ratchet - Maru Hi Mission - Ignition (Japan)": {
 		"languages": ["Ja"]
@@ -1542,7 +1548,7 @@
 	"Custom Drive (Japan) (v1.03)": {
 		"languages": ["Ja"]
 	},
-	"D.C. Girls Symphony Pocket (Japan) (v1.01)": {
+	"D.C. Girl's Symphony Pocket (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
 	"D.C. III + (Japan) (v1.01)": {
@@ -1612,7 +1618,8 @@
 		"languages": ["Ja"]
 	},
 	"Danganronpa - Kibou no Gakuen to Zetsubou no Koukousei (Japan) (v1.03)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ダンガンロンパ　希望の学園と絶望の高校生"
 	},
 	"Dante's Inferno (Asia) (En) (v1.01)": {
 		"languages": ["En"]
@@ -1866,13 +1873,13 @@
 	"Dissidia - Final Fantasy - Universal Tuning (Japan)": {
 		"languages": ["Ja"]
 	},
+	"DJ Max Emotional Sense P2 Portable 2 (Korea) (En,Ja,Ko) (v1.09)": {
+		"languages": ["En", "Ja", "Ko"]
+	},
 	"DJ Max Emotional Sense P 2 - Limited Edition (Korea) (En,Ja,Ko)": {
 		"languages": ["En", "Ja", "Ko"]
 	},
-	"DJ Max Emotional Sense P 2 - Sound Miracle (Korea) (En,Ja,Ko) (v1.09)": {
-		"languages": ["En", "Ja", "Ko"]
-	},
-	"DJ Max Emotional Sense P - Dynamic Sound Creation Portable (Korea) (v1.02)": {
+	"DJ Max Emotional Sense P Portable (Korea) (v1.02)": {
 		"languages": ["Ko"]
 	},
 	"DJ Max Fever (USA) (v1.03)": {
@@ -2679,6 +2686,9 @@
 	"FIFA Soccer 09 (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
+	"FIFA Soccer 10 (Canada) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
 	"FIFA Soccer 10 (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
@@ -3072,11 +3082,14 @@
 	"Geten no Hana - Yume Akari (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
-	"Getsuei no Kusari - Kyouran Moratorium (Japan) (v1.1)": {
-		"languages": ["Ja"]
+	"Getsuei no Kusari - Kyouran Moratorium (World) (v1.1)": {
+		"languages": ["nolang"]
 	},
-	"Getsuei no Kusari - Sakuran Paranoia (Japan) (v1.01)": {
-		"languages": ["Ja"]
+	"Getsuei no Kusari - Sakuran Paranoia (World) (v1.01)": {
+		"languages": ["nolang"]
+	},
+	"Ghost In the Shell - Stand Alone Complex (Asia) (En)": {
+		"languages": ["En"]
 	},
 	"Ghost in the Shell - Stand Alone Complex (Europe)": {
 		"languages": ["En"]
@@ -3279,11 +3292,14 @@
 	"Gran Turismo (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v2.00)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Ru"]
 	},
-	"Gran Turismo (Japan) (v1.01)": {
-		"languages": ["Ja"]
+	"Gran Turismo (Japan) (En,Ja) (v1.01)": {
+		"languages": ["En", "Ja"]
 	},
 	"Gran Turismo (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Gran Turismo (World) (v2.00) (PSP The Best)": {
+		"languages": ["nolang"]
 	},
 	"Grand Knights History (Japan) (v1.01)": {
 		"languages": ["Ja"]
@@ -3597,7 +3613,7 @@
 	"Harukanaru Toki no Naka de 3 with Izayoiki Aizouban (Japan) (v1.02)": {
 		"languages": ["Ja"]
 	},
-	"Harukanaru Toki no Naka de 4 Aizouban (Japan) (v1.01)": {
+	"Harukanaru Toki no Naka de 4 Aizouban (Japan) (v1.01) [b]": {
 		"languages": ["Ja"]
 	},
 	"Harukanaru Toki no Naka de 5 (Japan) (v1.01)": {
@@ -3639,10 +3655,10 @@
 	"Hatsune Miku - Project Diva 2nd (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Hatsune Miku - Project Diva (Japan) (v1.01)": {
+	"Hatsune Miku - Project Diva Extend (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
-	"Hatsune Miku - Project Diva Extend (Japan) (v1.01)": {
+	"Hatsune Miku - Project Diva Okaidoku-ban (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
 	"Hayarigami 2 Portable - Keishichou Kaii Jiken File (Japan) (v1.02)": {
@@ -3657,10 +3673,10 @@
 	"Hayate no Gotoku!! - Nightmare Paradise (Japan) (v1.02)": {
 		"languages": ["Ja"]
 	},
-	"Heart no Kuni no Alice (Japan)": {
+	"Heart no Kuni no Alice - Wonderful Twin World (Japan) (v1.03)": {
 		"languages": ["Ja"]
 	},
-	"Heart no Kuni no Alice - Wonderful Twin World (Japan) (v1.03)": {
+	"Heart no Kuni no Alice - Wonderful Wonder World (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World (Japan) (v1.03)": {
@@ -3729,8 +3745,8 @@
 	"Higurashi Daybreak Portable Mega Edition (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
-	"Higurashi no Naku Koro ni - Jan (Japan) (v1.01)": {
-		"languages": ["Ja"]
+	"Higurashi no Naku Koro ni - Jan (World) (v1.01)": {
+		"languages": ["nolang"]
 	},
 	"Hiiro no Kakera - Shin Tamayori-hime Denshou - Piece of Future (Japan) (1.01)": {
 		"languages": ["Ja"]
@@ -4185,7 +4201,7 @@
 	"Jungle Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El) (v1.01)": {
 		"languages": ["Da", "De", "El", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
-	"Just English (Korea) (v1.03)": {
+	"Just English (Korea) (v1.03) [b]": {
 		"languages": ["Ko"]
 	},
 	"Justice League Heroes (Europe) (En,Fr,De,Es,It)": {
@@ -4515,8 +4531,8 @@
 	"Knights in the Nightmare (USA)": {
 		"languages": ["En"]
 	},
-	"Koezaru wa Akaihana - Taiga wa Mirai o Tsumugu (Japan) (v1.01)": {
-		"languages": ["Ja"]
+	"Koezaru wa Akaihana - Taiga wa Mirai o Tsumugu (World) (v1.01)": {
+		"languages": ["nolang"]
 	},
 	"Koi Sentai Love & Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable Ka Daisakusen de Aru! (Japan) (v1.01)": {
 		"languages": ["Ja"]
@@ -4569,9 +4585,6 @@
 	"Kotoba no Puzzle - Mojipittan Daijiten (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Koukaku Kidoutai - Stand Alone Complex (Asia) (Ja)": {
-		"languages": ["Ja"]
-	},
 	"Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
@@ -4587,11 +4600,13 @@
 	"Kurogane no Linebarrels (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
-	"Kurohyou 2 - Ryu ga Gotoku Ashura Hen (Japan) (v1.01)": {
-		"languages": ["Ja"]
+	"Kurohyou 2 - Ryuu ga Gotoku Ashura Hen (Japan) (v1.01)": {
+		"languages": ["Ja"],
+		"localName": "クロヒョウ２　龍が如く　阿修羅編"
 	},
-	"Kurohyou - Ryu ga Gotoku Shinshou (Japan) (v1.02)": {
-		"languages": ["Ja"]
+	"Kurohyou - Ryuu ga Gotoku Shinshou (Japan) (v1.02)": {
+		"languages": ["Ja"],
+		"localName": "クロヒョウ　龍が如く新章"
 	},
 	"Kuroko no Basuke - Kiseki no Game (Japan) (v1.01)": {
 		"languages": ["Ja"]
@@ -6291,8 +6306,8 @@
 	"NHRA Drag Racing - Countdown to the Championship (USA) (v1.01)": {
 		"languages": ["En"]
 	},
-	"Nichijou - Uchuujin (Japan) (v1.01)": {
-		"languages": ["Ja"]
+	"Nichijou - Uchuujin (World) (v1.01)": {
+		"languages": ["nolang"]
 	},
 	"Nikoli no Sudoku +2 Daiisshuu - Sudoku Nurikabe Heyawake (Japan) (v1.01)": {
 		"languages": ["Ja"]
@@ -6364,7 +6379,8 @@
 		"languages": ["Ja"]
 	},
 	"Nouryoku Trainer Portable (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "脳力トレーナー　ポータブル"
 	},
 	"Numpla 10000-Mon (Japan)": {
 		"languages": ["Ja"]
@@ -6483,7 +6499,7 @@
 	"Ouka Sengoku Portable (Japan) (v1.02)": {
 		"languages": ["Ja"]
 	},
-	"Oumagatoki - Kaidan Romance (Japan) (v1.02)": {
+	"Oumagatoki - Kaidan Romance (Japan) (v1.02) [b]": {
 		"languages": ["Ja"]
 	},
 	"OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It) (v1.01)": {
@@ -6714,6 +6730,9 @@
 	"Phantom Kingdom Portable (Japan) (v1.03)": {
 		"languages": ["Ja"]
 	},
+	"Phase D - Souka no Shou (Japan) (v1.01)": {
+		"languages": ["Ja"]
+	},
 	"Phase-D - Hakuei no Shou (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -6721,9 +6740,6 @@
 		"languages": ["Ja"]
 	},
 	"Phase-D - Shuki no Shou (Japan)": {
-		"languages": ["Ja"]
-	},
-	"Phase-D - Souka no Shou (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
 	"Phi Brain - Kizuna no Puzzle (Japan) (v1.01)": {
@@ -6981,8 +6997,8 @@
 	"Prinny - Can I Really Be the Hero (USA)": {
 		"languages": ["En"]
 	},
-	"Prinny - Ore ga Shujinkou de Iinsuka (Japan)": {
-		"languages": ["Ja"]
+	"Prinny - Ore ga Shujinkou de Iinsuka (Japan, Korea) (Ja,Ko)": {
+		"languages": ["Ja", "Ko"]
 	},
 	"Pro Atlas Travel Guide (Japan) (v1.01)": {
 		"languages": ["Ja"]
@@ -7576,19 +7592,19 @@
 	"Salamander Portable (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
-	"Sampler Disc for PSP Vol. 1 (Europe) (Demo)": {
+	"Sampler Disc for PSP Vol. 1 (Europe) (Demo) [b]": {
 		"languages": ["En"]
 	},
 	"Sampler Disc for PSP Vol. 1 (USA) (Demo)": {
+		"languages": ["En"]
+	},
+	"Samurai Shodown Anthology (Asia) (En) (v1.02)": {
 		"languages": ["En"]
 	},
 	"Samurai Shodown Anthology (Europe) (v1.01)": {
 		"languages": ["En"]
 	},
 	"Samurai Shodown Anthology (USA)": {
-		"languages": ["En"]
-	},
-	"Samurai Shodown Anthology (USA, Asia) (En) (v1.02)": {
 		"languages": ["En"]
 	},
 	"Samurai Warriors - State of War (Europe)": {
@@ -7849,10 +7865,10 @@
 	"Senjou no Valkyria 2 - Gallia Ouritsu Shikan Gakkou (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
-	"Senjou no Valkyria 3 (Japan) (v1.01)": {
+	"Senjou no Valkyria 3 - Extra Edition (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Senjou no Valkyria 3 - Extra Edition (Japan)": {
+	"Senjou no Valkyria 3 - Unrecorded Chronicles (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
 	"Senor de los Anillos, El - Tacticas (Spain)": {
@@ -8308,7 +8324,7 @@
 	"SOCOM - U.S. Navy SEALs - Fireteam Bravo (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"SOCOM - U.S. Navy SEALs - Fireteam Bravo (Korea)": {
+	"SOCOM - U.S. Navy SEALs - Fireteam Bravo (Korea) [b]": {
 		"languages": ["Ko"]
 	},
 	"SOCOM - U.S. Navy SEALs - Fireteam Bravo (USA) (Beta)": {
@@ -8614,11 +8630,13 @@
 	"Starry Sky - After Autumn Portable (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
-	"Starry Sky - After Spring Portable (Japan) (v1.03) (Extra Disc)": {
-		"languages": ["Ja"]
-	},
 	"Starry Sky - After Spring Portable (Japan) (v1.03)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ｓｔａｒｒｙ☆Ｓｋｙ～Ａｆｔｅｒ　Ｓｐｒｉｎｇ～Ｐｏｒｔａｂｌｅ"
+	},
+	"Starry Sky - After Spring Portable - Etsuran Shite (Japan) (v1.03) (Extra Disc)": {
+		"languages": ["Ja"],
+		"localName": "Ｓｔａｒｒｙ☆Ｓｋｙ～Ａｆｔｅｒ　Ｓｐｒｉｎｇ～　閲覧してプリーズ“えつプリっ２！”"
 	},
 	"Starry Sky - After Summer Portable (Japan) (v1.01)": {
 		"languages": ["Ja"]
@@ -9265,7 +9283,7 @@
 	"ToCA Race Driver 3 Challenge (Europe) (En,Fr,De,Es,It) (v1.01)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Togainu no Chi - True Blood Portable (Japan) (v1.03)": {
+	"Togainu no Chi - T B P (Japan) (v1.03)": {
 		"languages": ["Ja"]
 	},
 	"ToHeart 2 - Dungeon Travelers (Japan) (v1.04)": {
@@ -9352,7 +9370,10 @@
 	"Tomb Raider - Anniversary (USA) (En,Fr,De,Es,It) (v1.02)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tomoyo After - It's a Wonderful Life - CS Edition (Japan)": {
+	"Tomoyo After - It's a Wonderful Life - CS Edition (Japan) (v1.03)": {
+		"languages": ["Ja"]
+	},
+	"Tomoyo After - It's a Wonderful Life - CS Edition (Japan) (v2.01)": {
 		"languages": ["Ja"]
 	},
 	"Tony Hawk's Project 8 (Europe) (Fr,De,Es,It) (v1.02)": {
@@ -9916,7 +9937,7 @@
 	"Win-TOEIC Beginners' LC (Korea) (v1.02)": {
 		"languages": ["Ko"]
 	},
-	"Win-TOEIC Beginners' RC (Korea) (v1.02)": {
+	"Win-TOEIC Beginners' RC (Korea) (v1.02) [b]": {
 		"languages": ["Ko"]
 	},
 	"Winglish - Oh's Talk English (Korea)": {
@@ -10054,8 +10075,8 @@
 	"World Soccer Winning Eleven 2009 (Japan) (v1.01)": {
 		"languages": ["Ja"]
 	},
-	"World Soccer Winning Eleven 2010 (Japan) (v1.01)": {
-		"languages": ["Ja"]
+	"World Soccer Winning Eleven 2010 (Japan) (En,Ja) (v1.01)": {
+		"languages": ["En", "Ja"]
 	},
 	"World Soccer Winning Eleven 2010 - Aoki Samurai no Chousen (Japan) (v1.01)": {
 		"languages": ["Ja"]
@@ -10084,8 +10105,8 @@
 	"World Soccer Winning Eleven 2014 - Aoki Samurai no Chousen (Japan)": {
 		"languages": ["Ja"]
 	},
-	"World Soccer Winning Eleven - Ubiquitous Evolution 2008 (Japan) (v1.02)": {
-		"languages": ["Ja"]
+	"World Soccer Winning Eleven - Ubiquitous Evolution 2008 (Japan) (En,Ja) (v1.02)": {
+		"languages": ["En", "Ja"]
 	},
 	"World Tour Soccer 2 (Europe) (En,Fr,De,Es,It) (Demo)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]

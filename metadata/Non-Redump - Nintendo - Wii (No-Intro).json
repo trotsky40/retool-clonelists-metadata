@@ -1,5 +1,17 @@
 {
-	"[BIOS] Wii (Unknown) (NAND)": {
+	"[BIOS] iQue Wii (China) (NAND) [b]": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] RVL-101 (USA) (NAND)": {
+		"languages": ["En"]
+	},
+	"Active Life - Magical Carnival (USA) (Beta) (2010-07-02)": {
+		"languages": ["En"]
+	},
+	"Aging Disc RVL (Japan) (v1.0)": {
+		"languages": ["Ja"]
+	},
+	"Auto Erase Disc (USA) (005E)": {
 		"languages": ["En"]
 	},
 	"Boom Blox (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
@@ -8,11 +20,17 @@
 	"Conduit, The (USA) (Demo) (Kiosk, E3 2008)": {
 		"languages": ["En"]
 	},
-	"Connie Talbot - Over the Rainbow (Europe) (Proto) [b]": {
+	"Connie Talbot - Over the Rainbow (Europe) (Proto)": {
 		"languages": ["En"]
 	},
 	"Deca Sporta - Wiiro Jeulgineun Sports 10 Jongmok! (Korea)": {
 		"languages": ["Ko"]
+	},
+	"DS-Wii Remote Test Ver 1.0 (Unknown)": {
+		"languages": ["En"]
+	},
+	"Go Vacation (USA) (Beta) (2010-07-02)": {
+		"languages": ["En"]
 	},
 	"Heatseeker (USA) (Beta) [b]": {
 		"languages": ["En"]
@@ -20,19 +38,73 @@
 	"Legend of Zelda, The - Twilight Princess (Europe) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
-	"Madden NFL 12 (USA) (Beta) (Alpha 24 - OPT)": {
+	"Madden NFL 12 (USA) (Beta) (2011-01-12)": {
 		"languages": ["En"]
 	},
-	"Madden NFL 12 (USA) (Beta) (Alpha 24 - SHIP)": {
+	"Madden NFL 12 (USA) (Beta) (2011-06-02)": {
 		"languages": ["En"]
 	},
-	"Madden NFL 12 (USA) (Beta) (Pre-Alpha 14)": {
+	"Madden NFL 12 (USA) (Beta) (2011-06-03)": {
+		"languages": ["En"]
+	},
+	"Mario & Sonic at the Olympic Winter Games (Europe) (Beta) (2009-08-19)": {
 		"languages": ["En"]
 	},
 	"PES 2008 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Pt) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
+	"Pre-Repair Check Disc (USA) (v2.2) [b]": {
+		"languages": ["En"]
+	},
+	"Read WAD from SD (USA)": {
+		"languages": ["En"]
+	},
+	"Rock Band 2 (USA) (Beta) (2008-10-07)": {
+		"languages": ["En"]
+	},
+	"RVL Diag (Japan) (v4.3)": {
+		"languages": ["Ja"]
+	},
+	"RVL Diag (Japan) (v4.4)": {
+		"languages": ["nolang"]
+	},
+	"RVL Uji Diag (Japan) (v1.0)": {
+		"languages": ["nolang"]
+	},
+	"RVL Uji Diag (Japan) (v2.0)": {
+		"languages": ["Ja"]
+	},
 	"Sky Crawlers, The - Innocent Aces (USA) (Proto)": {
 		"languages": ["nolang"]
+	},
+	"Sonic & Sega All-Stars Racing (Europe) (Beta)": {
+		"languages": ["En"]
+	},
+	"Sonic and the Black Knight (Europe) (Beta)": {
+		"languages": ["En"]
+	},
+	"The House of the Dead - Overkill (USA) (Beta)": {
+		"languages": ["En"]
+	},
+	"Update Program (Unknown)": {
+		"languages": ["En"]
+	},
+	"Urban Extreme - Street Rage (Europe) (Beta) (2009-01-29)": {
+		"languages": ["En"]
+	},
+	"WAD Installer (Unknown)": {
+		"languages": ["En"]
+	},
+	"Wii Startup Disc (USA) (main_cn41v2) [b]": {
+		"languages": ["En"]
+	},
+	"Wii Startup Disc (USA) (RAAE01-v0.devel) [b]": {
+		"languages": ["En"]
+	},
+	"Wii Startup Disc (USA) (RAAE01-v0.prod) [b]": {
+		"languages": ["En"]
+	},
+	"Wii Startup Disc (USA)": {
+		"languages": ["En"]
 	}
 }

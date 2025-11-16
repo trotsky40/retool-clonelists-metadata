@@ -1,4 +1,7 @@
 {
+	"4 Maeisterwerken 4 Masterpieces (Netherlands)": {
+		"languages": ["nolang"]
+	},
 	"7th Guest, The (Unknown) (Proto) (1994-04-14) [b]": {
 		"languages": ["En"]
 	},
@@ -15,6 +18,9 @@
 		"languages": ["En"]
 	},
 	"A First Look at Trees (USA)": {
+		"languages": ["En"]
+	},
+	"Accent Health (USA)": {
 		"languages": ["En"]
 	},
 	"Accent Health - Information for Healthy Living - January 2004 (USA)": {
@@ -143,7 +149,7 @@
 	"Concise Oxford Dictionary & Oxford Thesaurus, The (Europe) (Proto) (1994-09-20)": {
 		"languages": ["En"]
 	},
-	"Connaone (Unknown) (Demo) (Homebrew)": {
+	"Connaone (Unknown) (Demo) (Unl)": {
 		"languages": ["En"]
 	},
 	"Cosecha del Sol, La - Vincent Van Gogh Revivido (Spain)": {
@@ -338,6 +344,9 @@
 	"Kingdom Shadoan (Europe) (Beta)": {
 		"languages": ["En"]
 	},
+	"Knowlogy (Saudia Arabia)": {
+		"languages": ["nolang"]
+	},
 	"Language Director - Deutsch - Level 3 (Europe) (Disc 1)": {
 		"languages": ["En"]
 	},
@@ -437,7 +446,7 @@
 	"Micro Machines (Europe) (Beta)": {
 		"languages": ["En"]
 	},
-	"Mode 7 (Unknown) (Demo) (Homebrew)": {
+	"Mode 7 (Unknown) (Demo) (Unl)": {
 		"languages": ["En"]
 	},
 	"Mondrian (Netherlands)": {
@@ -476,10 +485,10 @@
 	"Night in Nylon City, A (Europe) (Beta)": {
 		"languages": ["En"]
 	},
-	"Nobelia (Unknown) (Demo) (Demo 01, 2021-05-09) (Homebrew)": {
+	"Nobelia (Unknown) (Demo) (Demo 01, 2021-05-09) (Unl)": {
 		"languages": ["En"]
 	},
-	"Number Factory (Europe)": {
+	"Number Factory, The (Europe)": {
 		"languages": ["En"]
 	},
 	"Odyssey - The Journey to Your Future (USA)": {
@@ -581,7 +590,7 @@
 	"Story Machine - Star Dreams (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Super Quartet (Unknown) (Homebrew)": {
+	"Super Quartet (Unknown) (Unl)": {
 		"languages": ["En"]
 	},
 	"Temperature, Pressure, and Humidity (USA)": {
@@ -616,6 +625,9 @@
 	},
 	"UEFA Champions League (Netherlands)": {
 		"languages": ["Nl"]
+	},
+	"Ugly Duckling, The (Japan) (Proto) [b]": {
+		"languages": ["Ja"]
 	},
 	"Uncover Tatjana (Europe) (Beta)": {
 		"languages": ["En"]

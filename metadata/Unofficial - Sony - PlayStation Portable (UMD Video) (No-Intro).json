@@ -11,7 +11,7 @@
 	"7 Seconds (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]": {
 		"languages": ["En", "Es", "Fr", "Ko", "Pt", "Th", "Zh"]
 	},
-	"8 Mile (Japan, Europe)": {
+	"8 Mile (Europe)": {
 		"languages": ["En"]
 	},
 	"9 Songs (Europe)": {
@@ -22,6 +22,9 @@
 	},
 	"13 Going on 30 (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)": {
 		"languages": ["Ar", "Cs", "De", "El", "En", "Es", "Fr", "Hi", "Hu", "It", "Nl", "Pl", "Ru", "Tr"]
+	},
+	"13 Roses (Europe) (En,Es,Pt)": {
+		"languages": ["En", "Es", "Pt"]
 	},
 	"16 Blocks (USA, Europe)": {
 		"languages": ["En"]
@@ -41,7 +44,7 @@
 	"28 Days Later (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"28 Weeks Later (Japan, Europe)": {
+	"28 Weeks Later (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"30 Days of Night (Europe) (En,Es,Pt)": {
@@ -49,6 +52,9 @@
 	},
 	"30 Days of Night (USA) (En,Fr,Es,Pt,Zh,Th)": {
 		"languages": ["En", "Es", "Fr", "Pt", "Th", "Zh"]
+	},
+	"36, Quai des Orfevres (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"50 First Dates (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "It", "Ko", "Nl", "No", "Pl", "Pt", "Ro", "Ru", "Sv", "Th", "Tr", "Zh"]
@@ -78,7 +84,12 @@
 		"languages": ["En", "Ja"]
 	},
 	"AKB1-48 - Idol to Guam to Koishitara (Japan) (Bonus UMD Movie)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＡＫＢ１－４８　アイドルとグアムで恋したら"
+	},
+	"AKB1-48 - Idol to Koishitara... Game mi Shuuroku Eizou Disk (Japan) (Bonus UMD Movie)": {
+		"languages": ["Ja"],
+		"localName": "ＡＫＢ１－４８　アイドルと恋したら・・・　ゲーム未収録映像ディスク"
 	},
 	"Aki no Urara no Akaneiro Shoutengai (Japan) (UMD-PG Edition)": {
 		"languages": ["Ja"]
@@ -98,7 +109,7 @@
 	"Alien (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Fr", "It", "Nl", "No", "Sv"]
 	},
-	"Alien (Japan, Europe)": {
+	"Alien (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Alien vs. Predator (Europe) (En,De,Es)": {
@@ -118,6 +129,9 @@
 	},
 	"All Star Janken Battle (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Alone in the dark - Director's Cut (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Alvin and the Chipmunks (World)": {
 		"languages": ["En"]
@@ -143,7 +157,7 @@
 	"Anacondas - The Hunt for the Blood Orchid (Europe) (All Ages)": {
 		"languages": ["En"]
 	},
-	"Anacondas - The Hunt for the Blood Orchid (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg) (16 and older)": {
+	"Anacondas - The Hunt for the Blood Orchid (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg) (16 and Older)": {
 		"languages": ["Ar", "Bg", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ro", "Ru", "Sl", "Sv", "Tr"]
 	},
 	"Aneimo 2 - Second Stage (Japan) [b]": {
@@ -173,6 +187,9 @@
 	"Appleseed (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
+	"Aqua Teen Hunger Force - Volume 4 (USA)": {
+		"languages": ["En"]
+	},
 	"Are We Done Yet (USA) (En,Fr,Es,Pt,Zh,Ko,Th)": {
 		"languages": ["En", "Es", "Fr", "Ko", "Pt", "Th", "Zh"]
 	},
@@ -185,20 +202,44 @@
 	"Armageddon (Europe) (En,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "No", "Sv"]
 	},
+	"Arsene Lupin (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"Assault on Precinct 13 (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
 	"Assault on Precinct 13 (Europe)": {
 		"languages": ["En"]
 	},
 	"Assault on Precinct 13 (Netherlands) (En,Nl)": {
 		"languages": ["En", "Nl"]
 	},
+	"Asterix Chez les Bretons (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
 	"Asterix en Bretana (Europe) (Fr,Es)": {
 		"languages": ["Es", "Fr"]
+	},
+	"Asterix et la Surprise de Cesar (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"Asterix et le Coup du Menhir (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"Asterix et les Vikings (Europe) (Fr)": {
+		"languages": ["Fr"]
 	},
 	"Astro Boy - Volume 1 - Astro Boy Blasts Off! (USA)": {
 		"languages": ["En"]
 	},
 	"Austin Powers - International Man of Mystery (USA) (En,Es) [b]": {
 		"languages": ["En", "Es"]
+	},
+	"Austin Powers - The Spy Who Shagged Me (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
+	"Austin Powers in Goldmember (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Australia (World)": {
 		"languages": ["En"]
@@ -215,10 +256,10 @@
 	"Bad Boys (Europe) (En,Es,It,Pt,El,Hu)": {
 		"languages": ["El", "En", "Es", "Hu", "It", "Pt"]
 	},
-	"Bad Boys (Japan, Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Tr,Ar)": {
+	"Bad Boys (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Tr,Ar)": {
 		"languages": ["Ar", "Da", "De", "En", "Fi", "Fr", "Nl", "No", "Sv", "Tr"]
 	},
-	"Bad Santa (Extended Version) (Europe) (En,Fr,De,Es,It,Zh,Tr,Hi,Ar)": {
+	"Bad Santa (Europe) (En,Fr,De,Es,It,Zh,Tr,Hi,Ar) (Extended Version)": {
 		"languages": ["Ar", "De", "En", "Es", "Fr", "Hi", "It", "Tr", "Zh"]
 	},
 	"Barbershop (USA) (En,Fr) [b]": {
@@ -233,13 +274,22 @@
 	"Batman (Europe) (En,Fr,Es,No)": {
 		"languages": ["En", "Es", "Fr", "No"]
 	},
+	"Batman And Robin (World)": {
+		"languages": ["En"]
+	},
 	"Batman Begins (Europe) (En,De,Nl,Sv)": {
 		"languages": ["De", "En", "Nl", "Sv"]
 	},
-	"Batman Begins (USA)": {
+	"Batman Begins (Europe) (En,Fr,Es,No)": {
+		"languages": ["En", "Es", "Fr", "No"]
+	},
+	"Batman Begins (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"]
+	},
+	"Batman Begins (World)": {
 		"languages": ["En"]
 	},
-	"Battlestar Galactica Season 1 (Europe)": {
+	"Battlestar Galactica - Season 1 - Episodes 1-3 (Europe)": {
 		"languages": ["En"]
 	},
 	"Be Cool (Europe) (En,Fr,De,Nl)": {
@@ -262,6 +312,9 @@
 	},
 	"Beavis & Butt-Head - The Mike Judge Collection - Volume 3 (USA) (En,De,Pl,El,Tr,Cs,Hu,He)": {
 		"languages": ["Cs", "De", "El", "En", "He", "Hu", "Pl", "Tr"]
+	},
+	"Beef II (Europe)": {
+		"languages": ["En"]
 	},
 	"Behind Enemy Lines (Europe) (En,De,Es)": {
 		"languages": ["De", "En", "Es"]
@@ -302,6 +355,9 @@
 	"Black Dawn (Europe) (En,De,Es,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Nl", "Pt"]
 	},
+	"Black Dawn (Europe) (En,Fr,Ar)": {
+		"languages": ["Ar", "En", "Fr"]
+	},
 	"Black Diamond (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
@@ -311,11 +367,14 @@
 	"Black Hawk Down (USA) (En,Fr,Es,Pt,Zh,Ko,Tr) [b]": {
 		"languages": ["En", "Es", "Fr", "Ko", "Pt", "Tr", "Zh"]
 	},
+	"Blade 2 (Europe)": {
+		"languages": ["En"]
+	},
 	"Blade 2 (Italy) (En,It)": {
 		"languages": ["En", "It"]
 	},
-	"Blade 2 (USA)": {
-		"languages": ["En"]
+	"Blade (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"Blade (Europe) (En,Pt)": {
 		"languages": ["En", "Pt"]
@@ -347,17 +406,23 @@
 	"Bokudake No Kajitsu (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Bone Collector, The (Europe) (En,Es,It,Pt)": {
+		"languages": ["En", "Es", "It", "Pt"]
+	},
 	"Bone Collector, The (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He,Is,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "De", "El", "En", "Fi", "Fr", "He", "Hi", "Hu", "Is", "Nl", "No", "Pl", "Ro", "Ru", "Sv", "Tr"]
 	},
 	"Boogeyman (USA) (En,Fr,Zh) [b]": {
 		"languages": ["En", "Fr", "Zh"]
 	},
-	"Borat (Japan, Europe)": {
+	"Borat (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Borat (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Boss'n up (Europe) (Fr)": {
+		"languages": ["Fr"]
 	},
 	"Bottom Series 1 (Europe)": {
 		"languages": ["En"]
@@ -365,11 +430,11 @@
 	"Bouncy (USA) [b]": {
 		"languages": ["En"]
 	},
+	"Bourne Identity, The (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr,Is)": {
+		"languages": ["Da", "En", "Es", "Fi", "Fr", "Hr", "Is", "It", "Nl", "No", "Pt", "Sv"]
+	},
 	"Bourne Identity, The (Europe) (En,Ja,De,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,He)": {
 		"languages": ["Cs", "De", "El", "En", "He", "Hu", "Ja", "Ko", "Pl", "Th", "Tr", "Zh"]
-	},
-	"Bourne Identity, The (Japan, Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr,Is)": {
-		"languages": ["Da", "En", "Es", "Fi", "Fr", "Hr", "Is", "It", "Nl", "No", "Pt", "Sv"]
 	},
 	"Bourne Supremacy, The (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Hr,Is)": {
 		"languages": ["Da", "En", "Es", "Fi", "Fr", "Hr", "Is", "It", "Nl", "No", "Pt", "Sv"]
@@ -386,8 +451,17 @@
 	"Boyz 'N the Hood (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,Tr,Hi,Ar)": {
 		"languages": ["Ar", "De", "En", "Es", "Fr", "Hi", "It", "Nl", "Pt", "Tr"]
 	},
+	"Brave Little Toaster, The (Europe) (Fr,Nl)": {
+		"languages": ["Fr", "Nl"]
+	},
 	"Brave Story (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Breach (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
+	"Breaking News (Europe) (Fr,Ko)": {
+		"languages": ["Fr", "Ko"]
 	},
 	"Bret Hitman Hart - The Best There Is (Europe)": {
 		"languages": ["En"]
@@ -398,13 +472,16 @@
 	"Brokeback Mountain (Europe)": {
 		"languages": ["En"]
 	},
+	"Brotherhood (Europe) (En,Ja,Fr,Sv,No,Da,Fi,Ko)": {
+		"languages": ["Da", "En", "Fi", "Fr", "Ja", "Ko", "No", "Sv"]
+	},
 	"Brotherhood of the Wolf (Europe) (Fr,Es)": {
 		"languages": ["Es", "Fr"]
 	},
-	"Brothers Grimm (Japan, Europe)": {
+	"Brothers Grimm (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
-	"Bruno (Europe)": {
+	"Bruno (World)": {
 		"languages": ["En"]
 	},
 	"Bucket List, The (World)": {
@@ -419,16 +496,19 @@
 	"Business, The (Europe)": {
 		"languages": ["En"]
 	},
+	"Butterfly Effect, The (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
 	"Butterfly Effect, The (USA) (En,Es) [b]": {
 		"languages": ["En", "Es"]
 	},
 	"Cabin Fever (Europe) (En,Fr,Nl)": {
 		"languages": ["En", "Fr", "Nl"]
 	},
-	"Carry On Camping (World)": {
+	"Carry on Camping (World)": {
 		"languages": ["En"]
 	},
-	"Casa de las Dagas Voladoras, La (Japan, Europe)": {
+	"Casa de las Dagas Voladoras, La (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Casey the CO-ED (Europe)": {
@@ -437,23 +517,32 @@
 	"Casino Royale (Europe) (En,Es,Nl,Pt,Sv,No,Da,Fi,El)": {
 		"languages": ["Da", "El", "En", "Es", "Fi", "Nl", "No", "Pt", "Sv"]
 	},
-	"Casino Royale (Europe)": {
-		"languages": ["En"]
+	"Casino Royale (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
-	"Casino Royale (Japan, Europe) [b]": {
+	"Casino Royale (Europe) (En,Pl,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro)": {
+		"languages": ["Ar", "Cs", "En", "He", "Hi", "Hr", "Hu", "Is", "Pl", "Ro", "Sl", "Tr"]
+	},
+	"Casino Royale (Japan, Europe) (En) [b]": {
 		"languages": ["En"]
 	},
 	"Casino Royale (USA) (En,Fr,Ko)": {
 		"languages": ["En", "Fr", "Ko"]
 	},
-	"Catherine Tate Show, The - Series One (Europe)": {
+	"Catherine Tate Show, The - Series One (World)": {
 		"languages": ["En"]
 	},
 	"Cave, The (Europe) (En,Es,It,Nl,Pt)": {
 		"languages": ["En", "Es", "It", "Nl", "Pt"]
 	},
+	"Cave, The (Europe) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"Cave, The (Europe) (En,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "En", "Hu", "Pl", "Ru"]
+	},
+	"Cave, The (Europe)": {
+		"languages": ["En"]
 	},
 	"Cave, The (USA) (En,Fr,Es,Pt) [b]": {
 		"languages": ["En", "Es", "Fr", "Pt"]
@@ -476,22 +565,28 @@
 	"Charlie's Angels (Europe) (En,Fr,De,Nl,Tr,Hi,Ar)": {
 		"languages": ["Ar", "De", "En", "Fr", "Hi", "Nl", "Tr"]
 	},
-	"Charlie's Angels (Europe) (En,Fr,Ko)": {
-		"languages": ["En", "Fr", "Ko"]
-	},
 	"Charlie's Angels (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
+	},
+	"Charlie's Angels (USA) (En,Fr,Ko)": {
+		"languages": ["En", "Fr", "Ko"]
 	},
 	"Charlie's Angels (World) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,He,Is,Bg)": {
 		"languages": ["Bg", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hu", "Is", "It", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
+	"Charlie's Angels - Full Throttle (Europe) (En,Fr,De,Nl)": {
+		"languages": ["De", "En", "Fr", "Nl"]
+	},
 	"Cheaper by the Dozen (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Fr", "It", "Nl", "No", "Sv"]
+	},
+	"Chicken Run (Europe) (Fr)": {
+		"languages": ["Fr"]
 	},
 	"Chicken Run (World)": {
 		"languages": ["En"]
 	},
-	"Chopper (Japan, Europe)": {
+	"Chopper (Europe)": {
 		"languages": ["En"]
 	},
 	"Chris Rock - Bigger and Blacker (USA)": {
@@ -512,14 +607,17 @@
 	"Chronicles of Riddick, The (Europe) (En,Es,Pt,Zh,Pl,El,Tr,Cs,Hu,He)": {
 		"languages": ["Cs", "El", "En", "Es", "He", "Hu", "Pl", "Pt", "Tr", "Zh"]
 	},
-	"Chronicles of Riddick, The (Japan, Europe)": {
-		"languages": ["En"]
+	"Chronicles of Riddick, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)": {
+		"languages": ["Da", "En", "Fi", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"Clerks (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
 	"Click (Europe) (En,Es,Nl,Pt,Sv,No,Da,Fi,Hi)": {
 		"languages": ["Da", "En", "Es", "Fi", "Hi", "Nl", "No", "Pt", "Sv"]
+	},
+	"Click (Europe) (En,Fr,De,Tr)": {
+		"languages": ["De", "En", "Fr", "Tr"]
 	},
 	"Click (USA) (En,Fr,Es,Pt,Zh,Ko,Th)": {
 		"languages": ["En", "Es", "Fr", "Ko", "Pt", "Th", "Zh"]
@@ -536,20 +634,29 @@
 	"Code Geas - Lelouch of the Rebelion Vol.04 (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Company of Wolves, The (Europe)": {
+	"Company of Wolves, The (World)": {
 		"languages": ["En"]
 	},
 	"Connor's War (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)": {
 		"languages": ["Ar", "Bg", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hr", "Hu", "Is", "It", "No", "Pl", "Pt", "Ro", "Sl", "Sv", "Tr"]
 	},
+	"Connor's War (Europe) (En,Fr,De,Tr,Ar)": {
+		"languages": ["Ar", "De", "En", "Fr", "Tr"]
+	},
 	"Constantine (Europe) (En,De,Nl,Sv)": {
 		"languages": ["De", "En", "Nl", "Sv"]
+	},
+	"Constantine (Europe) (En,Fr,Es,No) (Alt)": {
+		"languages": ["En", "Es", "Fr", "No"]
 	},
 	"Constantine (Europe) (En,Fr,Es,No)": {
 		"languages": ["En", "Es", "Fr", "No"]
 	},
-	"Corpse Bride, The (Europe) (En,Fr,Es,No)": {
+	"Corpse Bride (Europe) (En,Fr,Es,No)": {
 		"languages": ["En", "Es", "Fr", "No"]
+	},
+	"Corpse Bride (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"Cowboy Bebop - The Movie (Europe) (En,Ja,Es,It,Pt,Zh,Ko,Th) [b]": {
 		"languages": ["En", "Es", "It", "Ja", "Ko", "Pt", "Th", "Zh"]
@@ -599,6 +706,9 @@
 	"Crying First (Korea) (En,Ko)": {
 		"languages": ["En", "Ko"]
 	},
+	"Curse of the Golden Flower (Europe) (Es,Zh)": {
+		"languages": ["Es", "Zh"]
+	},
 	"Curse of the Golden Flower (USA) (En,Es,Pt,Zh)": {
 		"languages": ["En", "Es", "Pt", "Zh"]
 	},
@@ -607,6 +717,9 @@
 	},
 	"Cursed (USA) [b]": {
 		"languages": ["En"]
+	},
+	"D'Artagnan (Europe) (Fr)": {
+		"languages": ["Fr"]
 	},
 	"Da Ali G Show - Season 2 (USA) [b]": {
 		"languages": ["En"]
@@ -620,6 +733,9 @@
 	"Da Vinci Code, The (Europe) (En,Es,Pt,Sv,No,Da,Fi,Pl,El,Tr,Ar,Is,Ro)": {
 		"languages": ["Ar", "Da", "El", "En", "Es", "Fi", "Is", "No", "Pl", "Pt", "Ro", "Sv", "Tr"]
 	},
+	"Da Vinci Code, The (Europe) (En,It)": {
+		"languages": ["En", "It"]
+	},
 	"Da Vinci Code, The (Europe) (En,Nl,Zh,Ko,Ru,Cs,Hu,Th,Hr,Hi,He,Sl)": {
 		"languages": ["Cs", "En", "He", "Hi", "Hr", "Hu", "Ko", "Nl", "Ru", "Sl", "Th", "Zh"]
 	},
@@ -629,8 +745,11 @@
 	"Daddy Day CAre (USA) (En,Fr,Ko)": {
 		"languages": ["En", "Fr", "Ko"]
 	},
-	"Dappere Broodroostertje, Het (Netherlands) (Fr,Nl)": {
-		"languages": ["Fr", "Nl"]
+	"Danny The Dog (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
+	"Daredevil (Europe) (En,De,Es)": {
+		"languages": ["De", "En", "Es"]
 	},
 	"Daredevil (Europe) (En,Fr,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "En", "Fr", "It", "Nl", "No", "Sv"]
@@ -653,7 +772,7 @@
 	"Dark Water (Europe) (En,Fr,Nl)": {
 		"languages": ["En", "Fr", "Nl"]
 	},
-	"Dark Water (Japan, Europe)": {
+	"Dark Water (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Darkness (Europe) (En,Es)": {
@@ -671,7 +790,7 @@
 	"Dawn of the Dead - Unrated (USA)": {
 		"languages": ["En"]
 	},
-	"Day After Tomorrow, The (Europe) (En,De,Es) [b]": {
+	"Day After Tomorrow, The (Europe) (En,De,Es)": {
 		"languages": ["De", "En", "Es"]
 	},
 	"Day After Tomorrow, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)": {
@@ -683,10 +802,13 @@
 	"Day the Earth Stood Still, The (World)": {
 		"languages": ["En"]
 	},
+	"De Caunes Garcia (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
 	"Dead Leaves (USA)": {
 		"languages": ["En"]
 	},
-	"Dead or Alive (Spain) (En,Es)": {
+	"Dead or Alive (Europe) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
 	"Desperado (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He,Is,Ro)": {
@@ -694,6 +816,9 @@
 	},
 	"Destination Germany - Road to the 2006 Finals (World) (En,Fr,De,Es,It,Pt,Pl,El)": {
 		"languages": ["De", "El", "En", "Es", "Fr", "It", "Pl", "Pt"]
+	},
+	"Detonator, The (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Ar,He,Is,Sl,Ro)": {
+		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "Fr", "He", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ro", "Sl", "Sv", "Tr"]
 	},
 	"Detonator, The (USA) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro) [b]": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ro", "Sl", "Sv", "Tr"]
@@ -734,16 +859,13 @@
 	"District 9 (Europe)": {
 		"languages": ["En"]
 	},
-	"Diz que e uma especie de Magazine - 1 Serie - Vol. 01 (Europe) (Pt)": {
-		"languages": ["Pt"]
-	},
-	"Doctor Who Volume 1 (Europe)": {
+	"Doctor Who Volume 1 (World)": {
 		"languages": ["En"]
 	},
-	"Doctor Who Volume 2 (Europe)": {
+	"Doctor Who Volume 2 (World)": {
 		"languages": ["En"]
 	},
-	"Doctor Who Volume 3 (Europe)": {
+	"Doctor Who Volume 3 (World)": {
 		"languages": ["En"]
 	},
 	"Doctor Who Volume 4 (Europe)": {
@@ -773,7 +895,7 @@
 	"Doom (Europe) (En,Fr,Nl)": {
 		"languages": ["En", "Fr", "Nl"]
 	},
-	"Doom (Japan, Europe)": {
+	"Doom (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Doom (USA) (En,Fr,Es)": {
@@ -797,7 +919,7 @@
 	"Dumb & Dumber (Italy) (En,It) [b]": {
 		"languages": ["En", "It"]
 	},
-	"Dumb and Dumber - Uncut (United Kingdom)": {
+	"Dumb and Dumber - Uncut (Europe)": {
 		"languages": ["En"]
 	},
 	"Dune (Europe)": {
@@ -809,8 +931,14 @@
 	"Eastern Promises (World)": {
 		"languages": ["En"]
 	},
+	"Elektra (Europe) (En,Es,It)": {
+		"languages": ["En", "Es", "It"]
+	},
 	"Elektra (Europe) (En,Fr,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Fr", "Nl", "No", "Sv"]
+	},
+	"Elf (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Elf (Europe)": {
 		"languages": ["En"]
@@ -818,7 +946,7 @@
 	"Elf (USA) (En,Es) [b]": {
 		"languages": ["En", "Es"]
 	},
-	"Empire des Loups, L' (France) (En,Fr)": {
+	"Empire des Loups, L' (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
 	"Endless Waltz - Gundam Wing - The Movie (USA) (En,Ja) [b]": {
@@ -830,11 +958,18 @@
 	"Enter the Dragon (Europe) (En,De,Nl,Sv)": {
 		"languages": ["De", "En", "Nl", "Sv"]
 	},
-	"Entourage - The Complete First Season (USA) (En,Fr,Es)": {
+	"Entourage - The Complete First Season (USA) (En,Fr,Es) (Disc 1)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Entourage - The Complete First Season (USA) (En,Fr,Es) (Disc 2)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Equilibrium (Europe)": {
 		"languages": ["En"]
+	},
+	"Eric ke Ramzy - Nouveau Spectacle (Europe) (Fr)": {
+		"languages": ["Fr"],
+		"localName": "Éric ké Ramzy - Nouveau Spectacle"
 	},
 	"Escaflowne (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
@@ -851,8 +986,11 @@
 	"Exorcism of Emily Rose, The (Europe) (En,De,Pl,Tr,Cs,Hu)": {
 		"languages": ["Cs", "De", "En", "Hu", "Pl", "Tr"]
 	},
-	"Exorcism of Emily Rose, The - Unrated Version (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Hi,Ar,He)": {
+	"Exorcism of Emily Rose, The (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Hi,Ar,He) (Unrated Version)": {
 		"languages": ["Ar", "Da", "El", "En", "Es", "Fi", "He", "Hi", "It", "Nl", "No", "Pt", "Sv"]
+	},
+	"Exorcist - The Beginning (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"Exorcist, The (Europe)": {
 		"languages": ["En"]
@@ -860,16 +998,25 @@
 	"Exterminator, The (USA)": {
 		"languages": ["En"]
 	},
-	"Face Off (Japan, Europe) [b]": {
+	"Face Off (Japan, Europe) (En) [b]": {
 		"languages": ["En"]
 	},
 	"Family Guy - Freakin' Sweet Collection (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Family Guy - Presents Blue Harvest (USA, Europe)": {
+	"Family Guy - Presents Blue Harvest (Europe)": {
 		"languages": ["En"]
 	},
-	"Family Guy Presents Stewie Griffin - The Untold Story (Japan, Europe)": {
+	"Family Guy - Season 1 - Disc 1 - Episodes 1-5 (World)": {
+		"languages": ["En"]
+	},
+	"Family Guy - Season 1 - Disc 2 - Episodes 6-11 (World)": {
+		"languages": ["En"]
+	},
+	"Family Guy - Season 1 - Disc 3 - Episodes 12-15 (World)": {
+		"languages": ["En"]
+	},
+	"Family Guy Presents Stewie Griffin - The Untold Story (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Family Guy Vol. 1 (USA) (En,Fr,Es)": {
@@ -877,6 +1024,9 @@
 	},
 	"Family Guy Vol. 2 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Fantastic 4 (Europe) (En,Es,It)": {
+		"languages": ["En", "Es", "It"]
 	},
 	"Fantastic 4 (Europe) (En,Fr,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Fr", "Nl", "No", "Sv"]
@@ -902,7 +1052,7 @@
 	"Father Ted - The Complete 1st Series (Europe)": {
 		"languages": ["En"]
 	},
-	"Fawlty Towers - Series 1 (Europe)": {
+	"Fawlty Towers - Series 1 (World)": {
 		"languages": ["En"]
 	},
 	"Few Good Men, A (USA) (En,Es)": {
@@ -914,8 +1064,11 @@
 	"Fifth Element, The (Europe)": {
 		"languages": ["En"]
 	},
-	"Fight Club (Europe)": {
+	"Fight Club (World)": {
 		"languages": ["En"]
+	},
+	"Final Destination 2 (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"Final Destination 2 (Europe)": {
 		"languages": ["En"]
@@ -956,13 +1109,19 @@
 	"Fog, The (USA) (En,Fr) [b]": {
 		"languages": ["En", "Fr"]
 	},
+	"Football Factory, The (Europe)": {
+		"languages": ["En"]
+	},
 	"Four Brothers (USA)": {
 		"languages": ["En"]
 	},
 	"Fragile (Europe) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Franck Dubocs - Les Por Toi Public (Europe) (Fr)": {
+	"Franck Dubosc - Les Pour Toi Public (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"Franck Dubosc Romantique (Europe) (Fr)": {
 		"languages": ["Fr"]
 	},
 	"Freddy VS. Jason (USA) (En,Es) [b]": {
@@ -980,8 +1139,11 @@
 	"Fun with Dick & Jane (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Sl,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "It", "Ko", "Nl", "No", "Pl", "Pt", "Ro", "Ru", "Sl", "Sv", "Th", "Tr", "Zh"]
 	},
-	"Futurama - Bender's Big Score (Japan, Europe)": {
+	"Futurama - Bender's Big Score (Japan, Europe) (En)": {
 		"languages": ["En"]
+	},
+	"Gabriel (Europe) (En,De,Es,It,Pt,Tr,Ar,Ro)": {
+		"languages": ["Ar", "De", "En", "Es", "It", "Pt", "Ro", "Tr"]
 	},
 	"Gag Manga Biyori Vol. 1 (Japan)": {
 		"languages": ["Ja"]
@@ -1006,6 +1168,15 @@
 	},
 	"Garfield - The Movie (Europe)": {
 		"languages": ["En"]
+	},
+	"Gato Fedorento - Diz que e uma especie de Magazine - 1a Serie - Vol. 01 (Europe) (Pt)": {
+		"languages": ["Pt"]
+	},
+	"Gato Fedorento - Diz que e uma especie de Magazine - 1a Serie - Vol. 02 (Europe) (Pt)": {
+		"languages": ["Pt"]
+	},
+	"Gato Fedorento - Diz que e uma especie de Magazine - 2a Serie - Vol. 02 (Europe) (Pt)": {
+		"languages": ["Pt"]
 	},
 	"Gato Fedorento - Serie Lopes da Silva 1 (Europe) (Pt)": {
 		"languages": ["Pt"]
@@ -1055,11 +1226,20 @@
 	"Glengarry Glen Ross (Europe)": {
 		"languages": ["En"]
 	},
+	"Godsend (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
 	"Godsmack Live (World)": {
 		"languages": ["En"]
 	},
+	"Godzilla (Europe) (En,It)": {
+		"languages": ["En", "It"]
+	},
 	"Godzilla (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,Hi,He)": {
 		"languages": ["Cs", "Da", "El", "En", "Fi", "He", "Hi", "Hu", "Nl", "No", "Pl", "Ru", "Sv"]
+	},
+	"Gone in 60 Seconds (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"Gone in 60 Seconds (Europe) (En,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "No", "Sv"]
@@ -1070,7 +1250,7 @@
 	"GoodFellas (Europe)": {
 		"languages": ["En"]
 	},
-	"Goonies (Japan, Europe)": {
+	"Goonies (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Goonies, The (Europe) (En,Fr,Es,No)": {
@@ -1130,7 +1310,7 @@
 	"Hancock (Europe) (En,Es,It,Pt,Ca)": {
 		"languages": ["Ca", "En", "Es", "It", "Pt"]
 	},
-	"Hancock (United Kingdom) (En,Hi)": {
+	"Hancock (Europe) (En,Hi)": {
 		"languages": ["En", "Hi"]
 	},
 	"Hangover, The (Europe)": {
@@ -1142,8 +1322,14 @@
 	"Hard Corps, The (Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)": {
 		"languages": ["Ar", "Bg", "Cs", "Da", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "Nl", "No", "Pl", "Pt", "Ro", "Sl", "Sv", "Tr"]
 	},
+	"Hard Knocks - The Chris Benoit Story (Europe)": {
+		"languages": ["En"]
+	},
 	"Hard Luck (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)": {
 		"languages": ["Ar", "Bg", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ro", "Sl", "Sv", "Tr"]
+	},
+	"Hard Luck (Europe) (En,Fr,De,Tr,Ar)": {
+		"languages": ["Ar", "De", "En", "Fr", "Tr"]
 	},
 	"Harold & Kumar Go to White Castle - Extreme Unrated (USA) (En,Es) [b]": {
 		"languages": ["En", "Es"]
@@ -1193,6 +1379,9 @@
 	"Hellboy (Europe) (En,Fr,Es,Pt,Ko,Ar)": {
 		"languages": ["Ar", "En", "Es", "Fr", "Ko", "Pt"]
 	},
+	"Hellboy (Europe) (En,It)": {
+		"languages": ["En", "It"]
+	},
 	"Hellboy (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
@@ -1207,6 +1396,9 @@
 	},
 	"Hero (USA) (En,Fr,Es,Zh)": {
 		"languages": ["En", "Es", "Fr", "Zh"]
+	},
+	"Het Schnitzel Paradijs (Europe) (En,Nl,Ar)": {
+		"languages": ["Ar", "En", "Nl"]
 	},
 	"High Tension (USA) (En,Fr,Es) [b]": {
 		"languages": ["En", "Es", "Fr"]
@@ -1241,6 +1433,9 @@
 	"Hollow Man 2 (Europe) (En,Es,Pt,Sv,No,Da,Fi,El,Hi,Ar)": {
 		"languages": ["Ar", "Da", "El", "En", "Es", "Fi", "Hi", "No", "Pt", "Sv"]
 	},
+	"Hollow Man 2 (Europe) (En,Fr,Ar)": {
+		"languages": ["Ar", "En", "Fr"]
+	},
 	"Hollow Man (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,El)": {
 		"languages": ["Da", "El", "En", "Es", "Fi", "It", "No", "Pt", "Sv"]
 	},
@@ -1254,6 +1449,9 @@
 		"languages": ["En"]
 	},
 	"Home Alone (World)": {
+		"languages": ["En"]
+	},
+	"Horton Hears a Who! (World)": {
 		"languages": ["En"]
 	},
 	"Hoshi no Koe - The Voices of a Distant Star (Japan)": {
@@ -1280,6 +1478,9 @@
 	"Hotel Rwanda (Europe)": {
 		"languages": ["En"]
 	},
+	"House Bunny, The (Europe) (En,De,Es,It,Pt,Tr,Hi,Ar)": {
+		"languages": ["Ar", "De", "En", "Es", "Hi", "It", "Pt", "Tr"]
+	},
 	"House Bunny, The (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]": {
 		"languages": ["En", "Es", "Fr", "Ko", "Pt", "Th", "Zh"]
 	},
@@ -1291,6 +1492,9 @@
 	},
 	"House of the Dead II (Europe) (En,Es,Sv,No,Da,Fi,El,Hi,Ar)": {
 		"languages": ["Ar", "Da", "El", "En", "Es", "Fi", "Hi", "No", "Sv"]
+	},
+	"House of the Flying Daggers (Europe) (Pt,Zh)": {
+		"languages": ["Pt", "Zh"]
 	},
 	"House of Wax (Europe) (En,De,Nl,Sv)": {
 		"languages": ["De", "En", "Nl", "Sv"]
@@ -1310,11 +1514,11 @@
 	"Hustle & Flow (USA) [b]": {
 		"languages": ["En"]
 	},
-	"I am Legend (Europe)": {
-		"languages": ["En"]
-	},
 	"I Am Legend (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
+	},
+	"I am Legend (World)": {
+		"languages": ["En"]
 	},
 	"I Spit on Your Grave (Europe)": {
 		"languages": ["En"]
@@ -1349,7 +1553,7 @@
 	"Idle Hands (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Idol to Yakyuken (Japan, Europe)": {
+	"Idol to Yakyuken (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Immortals (Europe) (En,Fr,Nl)": {
@@ -1373,7 +1577,7 @@
 	"Independence Day (USA) (En,Es) [b]": {
 		"languages": ["En", "Es"]
 	},
-	"Informant, The (Europe)": {
+	"Informant, The (World)": {
 		"languages": ["En"]
 	},
 	"Inglorious Basterds (Europe)": {
@@ -1388,13 +1592,16 @@
 	"Into the Blue (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Ar,He,Is)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hu", "Is", "It", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
 	},
+	"Into the Blue (Europe) (En,Fr,Ar)": {
+		"languages": ["Ar", "En", "Fr"]
+	},
 	"Into the Blue (Europe) (En,Nl,Ko,Hi)": {
 		"languages": ["En", "Hi", "Ko", "Nl"]
 	},
 	"Into the Blue (USA) (En,Fr) [b]": {
 		"languages": ["En", "Fr"]
 	},
-	"Ipcress File, The (Europe)": {
+	"Ipcress File, The (World)": {
 		"languages": ["En"]
 	},
 	"Iron Man (Japan) (En,Ja)": {
@@ -1427,10 +1634,16 @@
 	"Jackass Vol. 3 (World)": {
 		"languages": ["En"]
 	},
+	"Japanese Hell (World) (En,Ja)": {
+		"languages": ["En", "Ja"]
+	},
+	"Jerry Maguire (Europe) (En,Es,Pt)": {
+		"languages": ["En", "Es", "Pt"]
+	},
 	"Jerry Maguire (Europe) (En,Fr,Nl,Ar)": {
 		"languages": ["Ar", "En", "Fr", "Nl"]
 	},
-	"Jerry Maguire (Japan, Europe)": {
+	"Jerry Maguire (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Joe Dirt (USA) (En,Fr,Es,Pt,Zh,Ko,Th)": {
@@ -1478,7 +1691,10 @@
 	"Kill Bill - Vol.2 (Japan, Europe) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"King Arthur DC (Japan, Europe)": {
+	"Kill Bill - Volume 1 (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
+	"King Arthur DC (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"King Arthur Directors Cut (Europe) (En,Fr,Nl)": {
@@ -1486,6 +1702,9 @@
 	},
 	"King Kong (Europe) (En,De)": {
 		"languages": ["De", "En"]
+	},
+	"King Kong (Europe) (En,Es,It,Pt,Hr,Sl)": {
+		"languages": ["En", "Es", "Hr", "It", "Pt", "Sl"]
 	},
 	"King Kong (Europe) (En,Es,Pt)": {
 		"languages": ["En", "Es", "Pt"]
@@ -1496,11 +1715,18 @@
 	"Kingdom of Heaven (Japan, Europe) (En,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Nl", "No", "Sv"]
 	},
+	"Kirikou el les Betes Sauvages (Europe) (Fr)": {
+		"languages": ["Fr"],
+		"localName": "Kirikou el les Bêtes Sauvages"
+	},
 	"Kiss of the Dragon (Europe) (En,Es,It)": {
 		"languages": ["En", "Es", "It"]
 	},
 	"Knight's Tale, A (Europe) (En,De,Tr)": {
 		"languages": ["De", "En", "Tr"]
+	},
+	"Knight's Tale, A (Europe) (En,Fr,Es,Pt,Zh,Ko,Th,Ar)": {
+		"languages": ["Ar", "En", "Es", "Fr", "Ko", "Pt", "Th", "Zh"]
 	},
 	"Knight's Tale, A (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Fi", "He", "Hi", "Hu", "Nl", "No", "Pl", "Ru", "Sv", "Tr"]
@@ -1514,11 +1740,14 @@
 	"L4yer Cake (Japan, Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
 	},
+	"L'Auberge Espagnole (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"L'Enquete Corse - Le Film (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
 	"La Blue Girl Returns (World)": {
 		"languages": ["En"]
-	},
-	"La Quatrieme Dimension (Europe) (Fr)": {
-		"languages": ["Fr"]
 	},
 	"Labyrinth (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Hu,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hu", "It", "Nl", "No", "Pl", "Pt", "Sv"]
@@ -1529,6 +1758,9 @@
 	"Lady in the Water (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
+	"Lakeview Terrace (Europe) (En,De,Es,Pt,Tr)": {
+		"languages": ["De", "En", "Es", "Pt", "Tr"]
+	},
 	"Lakeview Terrace (Europe) (En,It,Hi,Ar)": {
 		"languages": ["Ar", "En", "Hi", "It"]
 	},
@@ -1538,8 +1770,14 @@
 	"Land of the Dead (Europe) (En,Es,Pt)": {
 		"languages": ["En", "Es", "Pt"]
 	},
-	"Land of the Dead (Japan, Europe)": {
-		"languages": ["En"]
+	"Land Of The Dead (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
+	"Land of the Dead (Europe) (En,Sv,No,Da,Fi,Ru,He,Is)": {
+		"languages": ["Da", "En", "Fi", "He", "Is", "No", "Ru", "Sv"]
+	},
+	"Lara Croft Tomb Raider (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"Lara Croft Tomb Raider (USA)": {
 		"languages": ["En"]
@@ -1556,11 +1794,18 @@
 	"Last Samurai, The (Europe) (En,De,Nl,Sv)": {
 		"languages": ["De", "En", "Nl", "Sv"]
 	},
+	"Le Tres Tres Bien de Jamel (Europe) (Fr)": {
+		"languages": ["Fr"],
+		"localName": "Le Très Très Bien de Jamel"
+	},
 	"League of Extraordinary Gentleman, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"League of Extraordinary Gentleman, The (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
+	},
+	"League of Extraordinary Gentlemen, The (Europe) (En,De,Es)": {
+		"languages": ["De", "En", "Es"]
 	},
 	"League of Gentlemen's Apocalypse, The (Europe)": {
 		"languages": ["En"]
@@ -1571,19 +1816,26 @@
 	"League of Gentlemen, The - The Second Series (Europe)": {
 		"languages": ["En"]
 	},
+	"Legend - The Best Of Bob Marley And The Wailers (World)": {
+		"languages": ["En"]
+	},
 	"Legend of Zorro, The (Europe) (En,De,Nl,Sv,No,Da,Fi,Ru,Tr,Cs,Hi,Ar)": {
 		"languages": ["Ar", "Cs", "Da", "De", "En", "Fi", "Hi", "Nl", "No", "Ru", "Sv", "Tr"]
 	},
 	"Legend of Zorro, The (Europe) (En,Es,It,Hi)": {
 		"languages": ["En", "Es", "Hi", "It"]
 	},
-	"Little Britain - The Complete First Series (Europe)": {
+	"Les Nuls L'Integrule (Europe) (Fr)": {
+		"languages": ["Fr"],
+		"localName": "Les Nuls L'Intégrule"
+	},
+	"Little Britain - The Complete First Series (World) (Alt)": {
 		"languages": ["En"]
 	},
 	"Little Britain - The Complete First Series (World)": {
 		"languages": ["En"]
 	},
-	"Little Britain - The Complete Second Series (Europe)": {
+	"Little Britain - The Complete Second Series (World)": {
 		"languages": ["En"]
 	},
 	"Little Man (Europe) (En,Fr,De,Es,Nl,Pl,Tr,Hi,Ar,Is)": {
@@ -1600,6 +1852,9 @@
 	},
 	"Longest Yard, The (Europe, Australia) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hu", "It", "Ko", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Th", "Tr", "Zh"]
+	},
+	"Lord of War (Europe)": {
+		"languages": ["En"]
 	},
 	"Lord of War (USA) (En,Es)": {
 		"languages": ["En", "Es"]
@@ -1637,6 +1892,10 @@
 	"Mad Max (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"Mamono Musume to no Seikatsu ~Lamia no Baai~ (Japan) (UMD-PG Edition)": {
+		"languages": ["Ja"],
+		"localName": "魔物娘との性活～ラミアの場合～"
+	},
 	"Man of the House (USA) (En,Fr) [b]": {
 		"languages": ["En", "Fr"]
 	},
@@ -1645,6 +1904,9 @@
 	},
 	"Man on Fire (USA) (En,Es)": {
 		"languages": ["En", "Es"]
+	},
+	"Man Thing (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"Marine, The (Europe)": {
 		"languages": ["En"]
@@ -1657,6 +1919,12 @@
 	},
 	"Mask of Zorro, The (Europe) (En,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Fi", "He", "Hi", "Hu", "Nl", "No", "Pl", "Ru", "Sv", "Tr"]
+	},
+	"Master and Commander - The Far Side of the World (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
+	"Master and Commander - The Far Side of the World (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Master and Commander - The Far Side of the World (Europe) (En,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "No", "Sv"]
@@ -1697,6 +1965,12 @@
 	"Mei Shoujo (Japan) [b]": {
 		"languages": ["Ja"]
 	},
+	"Memoirs of a Geisha (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
+	"Men Behaving Badly - Last Orders (World)": {
+		"languages": ["En"]
+	},
 	"Men in Black (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "It", "Ko", "Nl", "No", "Pl", "Pt", "Ro", "Ru", "Sv", "Tr", "Zh"]
 	},
@@ -1708,6 +1982,9 @@
 	},
 	"Michael Jackson's This is It (Europe) (En,De,Es,It,Pt,Tr)": {
 		"languages": ["De", "En", "Es", "It", "Pt", "Tr"]
+	},
+	"Michael Youn - Pluskapoil (Europe) (Fr)": {
+		"languages": ["Fr"]
 	},
 	"Michel Vaillant (Europe) (Fr,Es)": {
 		"languages": ["Es", "Fr"]
@@ -1721,8 +1998,14 @@
 	"Miku no Hi 39's Giving Day Project DIVA (Japan) [b]": {
 		"languages": ["Ja"]
 	},
+	"Million Dollar Baby (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
 	"Million Dollar Baby (Europe)": {
 		"languages": ["En"]
+	},
+	"Mindhunters (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"Mirror Mask (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]": {
 		"languages": ["En", "Es", "Fr", "Ko", "Pt", "Th", "Zh"]
@@ -1766,6 +2049,12 @@
 	"Monty Python's Flying Circus - Michael Palin's Personal Best (Europe) (En,Fr,De,Es,Nl,Pt,Sv,No,Da,Fi,El,Tr,Hi,Ar,Is)": {
 		"languages": ["Ar", "Da", "De", "El", "En", "Es", "Fi", "Fr", "Hi", "Is", "Nl", "No", "Pt", "Sv", "Tr"]
 	},
+	"Monty Python's Flying Circus - Terry Gilliam's Personal Best (Europe) (En,De,Es,Pt,Sv,No,Da,Fi,El,Tr,Hi,Ar,Is)": {
+		"languages": ["Ar", "Da", "De", "El", "En", "Es", "Fi", "Hi", "Is", "No", "Pt", "Sv", "Tr"]
+	},
+	"Mr Bean 2 (Europe)": {
+		"languages": ["En"]
+	},
 	"Mr. & Mrs. Smith (Europe) (En,Es,Nl,Sv,No,Da,Fi) (Alt)": {
 		"languages": ["Da", "En", "Es", "Fi", "Nl", "No", "Sv"]
 	},
@@ -1787,6 +2076,9 @@
 	"Mummy Returns, The (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi,Hr,Is)": {
 		"languages": ["Da", "En", "Fi", "Fr", "Hr", "Is", "It", "Nl", "No", "Sv"]
 	},
+	"Mummy Returns, The (Europe) (En,Sv,No,Da,Fi,Is)": {
+		"languages": ["Da", "En", "Fi", "Is", "No", "Sv"]
+	},
 	"Mummy, The (Japan, Europe) (En,Ja,De,Es,Pt,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,He)": {
 		"languages": ["Cs", "De", "El", "En", "Es", "He", "Hu", "Ja", "Ko", "Pl", "Pt", "Th", "Tr", "Zh"]
 	},
@@ -1799,14 +2091,20 @@
 	"National Lampoon's Christmas Vacation (Europe)": {
 		"languages": ["En"]
 	},
-	"National Lampoon's European Vacation (Europe) (En,Fr,Es,No)": {
+	"National Lampoon's Vacation (Europe) (En,Fr,Es,No)": {
 		"languages": ["En", "Es", "Fr", "No"]
 	},
 	"National Lampoon's Vacation (Europe)": {
 		"languages": ["En"]
 	},
+	"National Lampoon's Van Wilder (USA) (En,Es) (Alt)": {
+		"languages": ["En", "Es"]
+	},
 	"National Lampoon's Van Wilder (USA) (En,Es)": {
 		"languages": ["En", "Es"]
+	},
+	"National Treasure (Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"National Treasure (Europe)": {
 		"languages": ["En"]
@@ -1826,6 +2124,12 @@
 	"Night at the Museum (Europe)": {
 		"languages": ["En"]
 	},
+	"Night Watch (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
+	"Night Watch (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
 	"Night Watch (Europe) (En,Nl,Sv,No,Da,Fi,Ru)": {
 		"languages": ["Da", "En", "Fi", "Nl", "No", "Ru", "Sv"]
 	},
@@ -1837,6 +2141,9 @@
 	},
 	"Ninja Scroll (USA)": {
 		"languages": ["En"]
+	},
+	"Not Another Teen Movie (Europe) (En,Fr,De,Es,Pt,Sv,No,Da,Fi,El,Tr,Hi,Ar) (Extend Cut)": {
+		"languages": ["Ar", "Da", "De", "El", "En", "Es", "Fi", "Fr", "Hi", "No", "Pt", "Sv", "Tr"]
 	},
 	"Not Another Teen Movie (USA) (En,Fr) [b]": {
 		"languages": ["En", "Fr"]
@@ -1883,6 +2190,9 @@
 	"Ohne Worte - Bastian Pastewka (Europe) (De)": {
 		"languages": ["De"]
 	},
+	"Old Boy (Europe) (Fr,Ko)": {
+		"languages": ["Fr", "Ko"]
+	},
 	"Oldboy (Japan, Europe) (En,Ko)": {
 		"languages": ["En", "Ko"]
 	},
@@ -1906,6 +2216,9 @@
 	},
 	"Open Season (Europe) (En,Es,It,Nl,Pt,Pl,Cs,Hu,Hi,Ar,He,Is,Ro)": {
 		"languages": ["Ar", "Cs", "En", "Es", "He", "Hi", "Hu", "Is", "It", "Nl", "Pl", "Pt", "Ro"]
+	},
+	"Open Season (Europe) (En,Fr,De,Ko,Tr,Ar)": {
+		"languages": ["Ar", "De", "En", "Fr", "Ko", "Tr"]
 	},
 	"Open Season (USA) (En,Fr,Es) [b]": {
 		"languages": ["En", "Es", "Fr"]
@@ -1949,7 +2262,7 @@
 	"Peter Kay Live at the Manchester Arena (Europe)": {
 		"languages": ["En"]
 	},
-	"Peter Pan (Extended Version) (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Ar,Is,Ro)": {
+	"Peter Pan (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Ar,Is,Ro) (Extended Version)": {
 		"languages": ["Ar", "Cs", "De", "El", "En", "Es", "Fr", "Hu", "Is", "It", "Nl", "Pl", "Ro", "Ru", "Tr"]
 	},
 	"Phone Booth (Europe) (En,De,Es) [b]": {
@@ -2003,14 +2316,23 @@
 	"Poseidon (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Predator (Europe) (En,De,Es) [b]": {
+	"Predator (Europe) (En,De,Es)": {
 		"languages": ["De", "En", "Es"]
+	},
+	"Predator (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi) (Alt)": {
+		"languages": ["Da", "En", "Fi", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"Predator (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"Pride & Prejudice (Europe) (En,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Nl", "No", "Sv"]
+	},
+	"Prince - Rave un2 the year 2000 (USA)": {
+		"languages": ["En"]
+	},
+	"Prince Live at the Aladdin Las Vegas (World)": {
+		"languages": ["En"]
 	},
 	"Prison Break Season 1 (Europe)": {
 		"languages": ["En"]
@@ -2075,20 +2397,29 @@
 	"Punisher, The - War Zone (Europe) (En,Es,It,Pt,Hi,Ar)": {
 		"languages": ["Ar", "En", "Es", "Hi", "It", "Pt"]
 	},
-	"Pursuit Of Happiness, The (USA) (En,Es,Pt,Hi) [b]": {
+	"Punk - Attitude (World)": {
+		"languages": ["En"]
+	},
+	"Pursuit of Happiness, The (USA) (En,Es,Pt,Hi) [b]": {
+		"languages": ["En", "Es", "Hi", "Pt"]
+	},
+	"Pursuit of Happyness, The (Europe) (En,Es,Pt,Hi)": {
 		"languages": ["En", "Es", "Hi", "Pt"]
 	},
 	"Quantum of Solace (World)": {
 		"languages": ["En"]
 	},
-	"R.O.D. The TV - Vol.1 - We Are the Paper Sisters Detective Company (USA) (En,Ja)": {
+	"Quatrieme Dimension, La (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"R.O.D. the TV - Vol.1 - We Are the Paper Sisters Detective Company (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Rambo (Europe) (En,Hi) [b]": {
+	"Rambo (Europe) (En,Hi)": {
 		"languages": ["En", "Hi"]
 	},
-	"Rambo IV (Europe) (En,Hi)": {
-		"languages": ["En", "Hi"]
+	"Red Eye (USA) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Red Scorpion (USA)": {
 		"languages": ["En"]
@@ -2129,13 +2460,16 @@
 	"Resident Evil - Extinction (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Riding the Bullet (Japan, Europe)": {
+	"Rhyme and Reason - The Ultimate Back Stage Pass (World)": {
+		"languages": ["En"]
+	},
+	"Riding the Bullet (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Ring, The (Europe) (Ja,Es)": {
 		"languages": ["Es", "Ja"]
 	},
-	"Ringers Lord of the Fans (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
+	"Ringers Lord of the Fans (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
 	},
 	"Road to the Finals 2006, The - The Boys From Brazil (Europe)": {
@@ -2147,7 +2481,7 @@
 	"Rob & Big Volume 2 (USA)": {
 		"languages": ["En"]
 	},
-	"RoboCop (Europe) (En,Es,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,Hi,Ar,He) [b]": {
+	"RoboCop (Europe) (En,Es,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hu", "Ko", "No", "Pl", "Pt", "Sv", "Th", "Tr", "Zh"]
 	},
 	"RoboCop (Europe) (En,Fr,Nl,Hi,Ar)": {
@@ -2186,6 +2520,9 @@
 	"Romeo Must Die (Europe) (En,Fr,Es,No) [b]": {
 		"languages": ["En", "Es", "Fr", "No"]
 	},
+	"Ronin (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He) (Alt)": {
+		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hu", "It", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
+	},
 	"Ronin (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hu", "It", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
 	},
@@ -2195,10 +2532,19 @@
 	"Royle Family, The - The Complete Series 1 (World)": {
 		"languages": ["En"]
 	},
+	"Running Man, The (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"Rush Hour 2 (Europe) (Alt)": {
+		"languages": ["En"]
+	},
 	"Rush Hour 2 (Europe)": {
 		"languages": ["En"]
 	},
-	"Rush Hour 2 (United Kingdom)": {
+	"Rush Hour (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
+	"Rush Hour (Europe)": {
 		"languages": ["En"]
 	},
 	"Rush Hour (USA) (En,Es)": {
@@ -2207,13 +2553,16 @@
 	"Russian Dolls (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"RV (Europe) (En,Es,It,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Sl,Ro)": {
+		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hr", "Hu", "Is", "It", "Ko", "No", "Pl", "Pt", "Ro", "Ru", "Sl", "Sv", "Th", "Tr", "Zh"]
+	},
 	"s-CRY-ed - Vol. 1 - The Lost Ground (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
 	"S.W.A.T. (Europe) (En,Es,It,Pt,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Es", "Fi", "It", "No", "Pt", "Sv"]
 	},
-	"S.W.A.T. (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He) (German edition)": {
+	"S.W.A.T. (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He) (German Edition)": {
 		"languages": ["Ar", "Cs", "De", "El", "En", "Fr", "He", "Hi", "Hu", "Nl", "Pl", "Ru", "Tr"]
 	},
 	"S.W.A.T. (Europe) (En,Fr,De,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
@@ -2233,6 +2582,12 @@
 	},
 	"Sakura Wars - The Movie (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
+	},
+	"Samantha Oups! Volume 2 (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"Samantha Oups! Volume 3 (Europe) (Fr)": {
+		"languages": ["Fr"]
 	},
 	"Samurai 7 - Vol.03 (Japan)": {
 		"languages": ["Ja"]
@@ -2264,6 +2619,9 @@
 	"Sanglante Chicago - Les Annes Capone (Europe) (Fr)": {
 		"languages": ["Fr"]
 	},
+	"Saw (Europe) (Uncut)": {
+		"languages": ["En"]
+	},
 	"Saw (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
@@ -2282,8 +2640,17 @@
 	"Screamers Shockers and Sharpshooters (World) [b]": {
 		"languages": ["En"]
 	},
+	"Scum (Europe)": {
+		"languages": ["En"]
+	},
 	"Second in Command (Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "Nl", "No", "Pl", "Pt", "Ro", "Sv", "Tr"]
+	},
+	"Second Raid, The - Scene 06+07 (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Secondhand Lions (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Secondhand Lions (Europe)": {
 		"languages": ["En"]
@@ -2291,7 +2658,10 @@
 	"Sekai o Seifuku Suru Tame no, 3-tsu no Houhou (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Serenity (Japan, Europe)": {
+	"Senjou no Valkyria 2 - Special UMD VIDEO (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Serenity (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Seth MacFarlane's Calvacade of Cartoon Comedy (World)": {
@@ -2321,8 +2691,9 @@
 	"Shaolin Soccer (USA) (En,Es,Zh)": {
 		"languages": ["En", "Es", "Zh"]
 	},
-	"Sharin no Kuni, Himawari no Shoujo (Japan) [b]": {
-		"languages": ["Ja"]
+	"Sharin no Kuni, Himawari no Shoujo - UMD-PG Edition (Japan)": {
+		"languages": ["Ja"],
+		"localName": "車輪の国、向日葵の少女　ＵＭＤ－ＰＧ　Ｅｄｉｔｉｏｎ"
 	},
 	"Shaun of the Dead (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2336,11 +2707,14 @@
 	"Silent Hill (Europe)": {
 		"languages": ["En"]
 	},
-	"Silent Hill Experience (Japan, Europe)": {
-		"languages": ["En"]
+	"Silent Hill Experience, The (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Simpsons Movie, The (Europe)": {
 		"languages": ["En"]
+	},
+	"Sin City (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Sin City (Europe) (En,It)": {
 		"languages": ["En", "It"]
@@ -2363,13 +2737,13 @@
 	"Skeleton Key, The (Europe) (En,Sv,No,Da,Fi,Ru,He,Is)": {
 		"languages": ["Da", "En", "Fi", "He", "Is", "No", "Ru", "Sv"]
 	},
-	"Skeleton Key, The (Japan, Europe)": {
+	"Skeleton Key, The (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Sky Blue (World)": {
 		"languages": ["En"]
 	},
-	"Sky High (Japan, Europe)": {
+	"Sky High (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Sky High (USA) (En,Fr,Es) [b]": {
@@ -2384,8 +2758,16 @@
 	"Soccer AM II (Europe)": {
 		"languages": ["En"]
 	},
-	"Soreiyu - Me, Myself and Master (Europe) (Ja)": {
-		"languages": ["Ja"]
+	"Soleil - Me, Myself and Master (Japan) (UMD-PG Edition)": {
+		"languages": ["Ja"],
+		"localName": "それいゆ　－Ｍｅ，　Ｍｙｓｅｌｆ　＆　Ｍａｓｔｅｒ－"
+	},
+	"Soleil -Me, Myself & Master- (Japan) (UMD-PG Edition)": {
+		"languages": ["Ja"],
+		"localName": "それいゆ　－Ｍｅ，　Ｍｙｓｅｌｆ　＆　Ｍａｓｔｅｒ－"
+	},
+	"Sound of Thunder (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"South Park - Bigger, Longer & Uncut (World)": {
 		"languages": ["En"]
@@ -2399,26 +2781,38 @@
 	"Speed (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
+	"Speed Racer (World)": {
+		"languages": ["En"]
+	},
 	"Spider-Man 2 (Europe) (En,Es,It,Pt)": {
 		"languages": ["En", "Es", "It", "Pt"]
 	},
-	"Spider-man 2 (Europe) (En,Es,Nl,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)": {
+	"Spider-Man 2 (Europe) (En,Es,Nl,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Sl,Ro,Bg)": {
 		"languages": ["Ar", "Bg", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hr", "Hu", "Is", "Ko", "Nl", "No", "Pl", "Ro", "Ru", "Sl", "Sv", "Th", "Tr", "Zh"]
 	},
 	"Spider-Man 2 (Europe) (En,Fr,De,Nl,Ar)": {
 		"languages": ["Ar", "De", "En", "Fr", "Nl"]
 	},
+	"Spider-Man 2 (Europe) (En,Fr,De,Nl,Tr,Ar)": {
+		"languages": ["Ar", "De", "En", "Fr", "Nl", "Tr"]
+	},
 	"Spider-Man 2 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Spider-man 3 (Europe) (En,Nl,El,Hi,Ar,Is)": {
+	"Spider-Man 3 (Europe) (En,Fr,Ar)": {
+		"languages": ["Ar", "En", "Fr"]
+	},
+	"Spider-Man 3 (Europe) (En,Nl,El,Hi,Ar,Is)": {
 		"languages": ["Ar", "El", "En", "Hi", "Is", "Nl"]
 	},
 	"Spider-Man 3 (Europe) (En,Pt)": {
 		"languages": ["En", "Pt"]
 	},
-	"Spider-man 3 (USA) (En,Fr,Es)": {
+	"Spider-Man 3 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Spider-Man (Europe) (En,Es,It,Nl,Pt,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,Is,Ro)": {
+		"languages": ["Ar", "Cs", "El", "En", "Es", "Hi", "Hu", "Is", "It", "Nl", "Pl", "Pt", "Ro", "Ru", "Tr"]
 	},
 	"Spider-Man (USA) (En,Fr,Es,Pt,Zh,Ko,Th)": {
 		"languages": ["En", "Es", "Fr", "Ko", "Pt", "Th", "Zh"]
@@ -2444,16 +2838,19 @@
 	"Stargate (USA) (En,Es) [b]": {
 		"languages": ["En", "Es"]
 	},
+	"Starry Sky - In Winter Portable Animate Genteiban Mini Drama (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Starry Sky in Autumn Portable - Digital Settei Shiryoushuu UMD VIDEO - Etsuran Shite Please Etsu Pri! (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Starry Sky in Spring Portable - Digital Settei Shiryoushuu UMD VIDEO - Etsuran Shite Please Etsu Pri! (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Starry Sky in Summer Portable (Japan)": {
+	"Starry Sky in Summer Portable - Digital Settei Shiryoushuu UMD VIDEO - Etsuran Shite Please Etsu Pri! (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Starry Sky in Winter Portable (Japan)": {
+	"Starry Sky in Winter Portable - Digital Settei Shiryoushuu UMD VIDEO - Etsuran Shite Please Etsu Pri! (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Starship Troopers 3 - Marauder (USA) (En,Fr)": {
@@ -2465,10 +2862,13 @@
 	"Steamboy (USA) (En,Ja,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Ja", "Pt"]
 	},
-	"Steamboy Director's Cut (Europe) (En,Ja,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
+	"Steamboy - Director's Cut (Europe) (En,Ja,Fr,Ar)": {
+		"languages": ["Ar", "En", "Fr", "Ja"]
+	},
+	"Steamboy - Director's Cut (Europe) (En,Ja,Nl,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar,He)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Fi", "He", "Hi", "Hu", "Ja", "Nl", "No", "Pl", "Ru", "Sv", "Tr"]
 	},
-	"Stephen King's Children of the Corn (World)": {
+	"Stephen King's Children of the Corn (Europe)": {
 		"languages": ["En"]
 	},
 	"Steve-O - The Greatest Hits (World)": {
@@ -2483,7 +2883,7 @@
 	"Stranger than Fiction (Europe) (En,Es,It,Nl,Hi)": {
 		"languages": ["En", "Es", "Hi", "It", "Nl"]
 	},
-	"Stranger than Fiction (Japan, Europe)": {
+	"Stranger than Fiction (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Straw Dogs (World)": {
@@ -2495,7 +2895,7 @@
 	"Stripes - Extended Cut (USA) (En,Fr,Es,Pt,Zh,Th)": {
 		"languages": ["En", "Es", "Fr", "Pt", "Th", "Zh"]
 	},
-	"Stuart Little 2 (Japan, Europe) (En,Fr,De,Es,It,Nl,Pt,El,Tr,Hi,Ar)": {
+	"Stuart Little 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,El,Tr,Hi,Ar)": {
 		"languages": ["Ar", "De", "El", "En", "Es", "Fr", "Hi", "It", "Nl", "Pt", "Tr"]
 	},
 	"Stuart Little 2 (USA) (En,Fr,Es,Pt,Zh,Ko,Th) [b]": {
@@ -2567,6 +2967,9 @@
 	"Taken (Europe)": {
 		"languages": ["En"]
 	},
+	"Taking of Pelham 1 2 3, The (Europe) (En,De,Es,It,Pt,Tr,Hi,Ar)": {
+		"languages": ["Ar", "De", "En", "Es", "Hi", "It", "Pt", "Tr"]
+	},
 	"Tales of the Abyss - Vol.01 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2591,13 +2994,17 @@
 	"Tales of the Abyss - Vol.09 (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Tales of Vesperia - The First Strike (Japan)": {
+	"Tales of the Symphonia - The Animation - Sylvatant Hen - Vol.3 (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Tales of Vesperia - The First Strike (Japan)": {
+		"languages": ["Ja"],
+		"localName": "テイルズ　オブ　ヴェスペリア～　Ｔｈｅ　Ｆｉｒｓｔ　Ｓｔｒｉｋｅ　～"
 	},
 	"Talladega Nights - The Ballad of Ricky Bobby (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Hu,Hi,Ar,He,Is,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ro", "Sv"]
 	},
-	"Talladega Nights - The Ballad of Ricky Bobby (Europe) (En,Fr,Ko)": {
+	"Talladega Nights - The Ballad of Ricky Bobby (USA) (En,Fr,Ko) (Alt)": {
 		"languages": ["En", "Fr", "Ko"]
 	},
 	"Talladega Nights - The Ballad of Ricky Bobby (USA) (En,Fr,Ko)": {
@@ -2617,6 +3024,9 @@
 	},
 	"Tenjho Tenge - Vol. 1 (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
+	},
+	"Terminator 2 - Judgement Day (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Terminator 2 - Judgement Day (USA)": {
 		"languages": ["En"]
@@ -2645,20 +3055,26 @@
 	"Texas Chainsaw Massacre, The (USA) (En,Es) [b]": {
 		"languages": ["En", "Es"]
 	},
+	"Theo Maassen - Functioneel Naakt (Europe) (Nl)": {
+		"languages": ["Nl"]
+	},
 	"There's Something about Mary (Europe) (En,Fr,It,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Fr", "It", "Nl", "No", "Sv"]
 	},
-	"Thir13en Ghosts (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Bg) (French edition)": {
+	"Thir13en Ghosts (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Bg) (French Edition)": {
 		"languages": ["Ar", "Bg", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sl", "Sv", "Tr"]
 	},
 	"Thir13en Ghosts (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Bg)": {
 		"languages": ["Ar", "Bg", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "He", "Hi", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sl", "Sv", "Tr"]
 	},
-	"Tim Burton's Corpse Bride (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"]
+	"Thorgal - Entre les Faux Dieux (Europe) (Fr)": {
+		"languages": ["Fr"]
 	},
 	"Time Bandits (Europe)": {
 		"languages": ["En"]
+	},
+	"Timecop (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"TMNT (Europe)": {
 		"languages": ["En"]
@@ -2672,11 +3088,17 @@
 	"Tomorrow Never Dies (World)": {
 		"languages": ["En"]
 	},
-	"Tony Hawks presents The End (World)": {
+	"Tontons Flingueurs, Les (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
+	"Tony Hawk Presents The End (World)": {
 		"languages": ["En"]
 	},
 	"Toono no Yakata - Dai-1-Shou Keiyaku (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Top Gun (Europe) (En,Fr,De,Nl) (Alt)": {
+		"languages": ["De", "En", "Fr", "Nl"]
 	},
 	"Top Gun (Europe) (En,Fr,De,Nl)": {
 		"languages": ["De", "En", "Fr", "Nl"]
@@ -2744,19 +3166,22 @@
 	"Ultraviolet (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ro", "Sl", "Sv", "Tr"]
 	},
-	"Ultraviolet (Europe) (En,Es,It,Nl,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro) [b]": {
-		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Ro", "Sl", "Sv", "Tr"]
-	},
-	"Ultraviolet (Japan, Europe)": {
+	"Ultraviolet (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Under Siege (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
+	"Underworld (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
+	"Underworld (Europe) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
 	"Underworld (Europe) (Special Extended Edition)": {
 		"languages": ["En"]
 	},
-	"Underworld (Japan, Europe)": {
+	"Underworld (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"Underworld - Rise of Lycans (Europe) (En,De,Es,It,Pt,Tr,Ca,Ar)": {
@@ -2801,6 +3226,9 @@
 	"Vacancy (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"Valiant (Europe)": {
+		"languages": ["En"]
+	},
 	"Van Helsing (Europe) (En,De,Pl,El,Tr,Hu,He)": {
 		"languages": ["De", "El", "En", "He", "Hu", "Pl", "Tr"]
 	},
@@ -2815,6 +3243,9 @@
 	},
 	"Vantage Point (Europe) (En,De,Es,Pt,Tr,Ca)": {
 		"languages": ["Ca", "De", "En", "Es", "Pt", "Tr"]
+	},
+	"Vantage Point (Europe) (En,It,Tr,Hi,Ar)": {
+		"languages": ["Ar", "En", "Hi", "It", "Tr"]
 	},
 	"Vantage Point (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2843,11 +3274,17 @@
 	"Warped Tour 2003 (World)": {
 		"languages": ["En"]
 	},
+	"Warriors of the Wind (Europe) (Fr)": {
+		"languages": ["Fr"]
+	},
 	"Water Boy (Japan) (En,Ja) [b]": {
 		"languages": ["En", "Ja"]
 	},
 	"Water Horse, The (Europe) (En,De,Es,It,Tr,Hi,Ar)": {
 		"languages": ["Ar", "De", "En", "Es", "Hi", "It", "Tr"]
+	},
+	"Water Margin, The (Europe)": {
+		"languages": ["En"]
 	},
 	"We Own the Night (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2861,8 +3298,14 @@
 	"Welcome to the Jungle (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)": {
 		"languages": ["Ar", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "Hi", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
 	},
+	"What Happens in Vegas (World)": {
+		"languages": ["En"]
+	},
 	"When a Stranger Calls (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Th,Hr,Hi,Ar,He,Is,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hr", "Hu", "Is", "It", "Ko", "Nl", "No", "Pl", "Pt", "Ro", "Ru", "Sv", "Th", "Tr", "Zh"]
+	},
+	"When a Stranger Calls (Europe) (En,Fr,Ar)": {
+		"languages": ["Ar", "En", "Fr"]
 	},
 	"When a Stranger Calls (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -2872,6 +3315,13 @@
 	},
 	"White Noise (Europe) (En,Fr,Nl)": {
 		"languages": ["En", "Fr", "Nl"]
+	},
+	"White Noise (Europe)": {
+		"languages": ["En"]
+	},
+	"WILD BODY - Aika Shun (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ワイルドボディ　あいか瞬"
 	},
 	"Wildboyz Volume 2 (World)": {
 		"languages": ["En"]
@@ -2885,13 +3335,13 @@
 	"Wonderful Days (Europe) (De)": {
 		"languages": ["De"]
 	},
-	"Wonderful Days (Japan, Europe) [b]": {
-		"languages": ["En"]
-	},
 	"World Cup Final 1966, The - England v West Germany (World)": {
 		"languages": ["En"]
 	},
 	"World is not Enough, The (World)": {
+		"languages": ["En"]
+	},
+	"WWE - Shawn Michaels - From the Vault (Europe)": {
 		"languages": ["En"]
 	},
 	"X2 - X-Men United (Europe) (En,Fr,Nl)": {
@@ -2903,35 +3353,41 @@
 	"X Files, The - I Want to Believe (Europe)": {
 		"languages": ["En"]
 	},
-	"X-Men 2 (Japan, Europe) [b]": {
+	"X-Men 2 (Japan, Europe) (En) [b]": {
 		"languages": ["En"]
 	},
 	"X-Men 3 - The Last Stand (Europe)": {
 		"languages": ["En"]
 	},
-	"X-Men (Japan, Europe)": {
+	"X-Men 3 - The Last Stand (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"X-Men (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
 	"X-Men (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"X-Men - The Last Stand (USA) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
+	"XXX (Europe) (En,De,Tr)": {
+		"languages": ["De", "En", "Tr"]
+	},
+	"xXx (Europe) (En,Fr,Es,Pt,Zh,Ko,Pl,Th,Ar)": {
+		"languages": ["Ar", "En", "Es", "Fr", "Ko", "Pl", "Pt", "Th", "Zh"]
 	},
 	"xXx (Europe) (En,Nl,Pl,El,Tr,Cs,Hu,Hi,Ar)": {
 		"languages": ["Ar", "Cs", "El", "En", "Hi", "Hu", "Nl", "Pl", "Tr"]
 	},
-	"xXx (Japan, Europe)": {
+	"xXx (Japan, Europe) (En)": {
 		"languages": ["En"]
-	},
-	"XXX (World) (En,De,Tr)": {
-		"languages": ["De", "En", "Tr"]
 	},
 	"xXx - The Next Level (Europe) (En,De,Es,It,Nl,Pl,Ru,El,Tr,Cs,Hu,Hi,Ar)": {
 		"languages": ["Ar", "Cs", "De", "El", "En", "Es", "Hi", "Hu", "It", "Nl", "Pl", "Ru", "Tr"]
 	},
 	"Year One (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
+	},
+	"Yellowcard - Beyond Ocean Avenue - Live at the Electric Factory (World)": {
+		"languages": ["En"]
 	},
 	"Yes Man (Europe)": {
 		"languages": ["En"]
@@ -2945,8 +3401,14 @@
 	"Yours, Mine & Ours (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Tr,Cs,Hu,Hr,Hi,Ar,He,Is,Sl,Ro)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "He", "Hi", "Hr", "Hu", "Is", "It", "Nl", "No", "Pl", "Pt", "Ro", "Sl", "Sv", "Tr"]
 	},
+	"Yours, Mine and Ours (Europe) (En,Fr,Ar)": {
+		"languages": ["Ar", "En", "Fr"]
+	},
 	"Zathura - A Space Adventure (Europe) (En,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,El,Tr,Cs,Hu,Th,Hi,Ar,Is)": {
 		"languages": ["Ar", "Cs", "Da", "El", "En", "Es", "Fi", "Hi", "Hu", "Is", "It", "Ko", "Nl", "No", "Pl", "Pt", "Sv", "Th", "Tr", "Zh"]
+	},
+	"Zathura - A Space Adventure (Europe) (En,Fr,Sv,No,Da,Fi,Ar)": {
+		"languages": ["Ar", "Da", "En", "Fi", "Fr", "No", "Sv"]
 	},
 	"Zathura - A Space Adventure (Europe) (En,Hi)": {
 		"languages": ["En", "Hi"]
@@ -2954,7 +3416,17 @@
 	"Zathura - A Space Adventure (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"Zinedine Zidane - Comme dans un Reve (World) (Fr)": {
+		"languages": ["Fr"]
+	},
 	"Zombieland (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Zombieland (World) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Zyklus (Japan) (UMD-PG Edition)": {
+		"languages": ["Ja"],
+		"localName": "ツィクルス"
 	}
 }

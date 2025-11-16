@@ -10,6 +10,9 @@
 	"DIMM Firm Update (Japan) (Rev C)": {
 		"languages": ["En"]
 	},
+	"DIMM Firm Update (Japan) (Rev E)": {
+		"languages": ["En"]
+	},
 	"Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)": {
 		"languages": ["En", "Ja"]
 	},
@@ -79,11 +82,18 @@
 		"languages": ["Ja"],
 		"localName": "旋光の輪舞"
 	},
+	"Senko no Ronde (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "旋光の輪舞"
+	},
 	"Shikigami no Shiro II (Japan)": {
 		"languages": ["Ja"],
 		"localName": "式神の城ＩＩ"
 	},
 	"Slashout (World) (En,Ja)": {
+		"languages": ["En", "Ja"]
+	},
+	"Spikers Battle (World) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
 	"Sports Jam (Japan)": {

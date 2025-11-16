@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Fairchild - Channel F (No-Intro)",
-		"lastUpdated": "26 December 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Demonstration Cartridge",
@@ -27,7 +26,6 @@
 				{"searchTerm": "Ordtaevling"},
 				{"searchTerm": "Rat' Mal"}
 			]
-
 		},
 		{
 			"group": "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle",

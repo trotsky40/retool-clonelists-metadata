@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Commodore - Amiga CD32 (Redump)",
-		"lastUpdated": "28 April 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Bump 'n' Burn",

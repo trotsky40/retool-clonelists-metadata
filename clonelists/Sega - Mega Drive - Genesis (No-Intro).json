@@ -1,20 +1,10 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "07 April 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
-		{
-			"group": "16t",
-			"titles": [
-				{"searchTerm": "16t"}
-			],
-			"compilations": [
-				{"searchTerm": "Game no Kanzume Otokuyou"}
-			]
-		},
 		{
 			"group": "2 Ciclopes and Friends - Fight Game",
 			"titles": [
@@ -23,6 +13,15 @@
 			"supersets": [
 				{"searchTerm": "2 Ciclopes e Amigos - Fight Game - Winner Edition - New Challengers"},
 				{"searchTerm": "2 Ciclopes and Friends - The Fight Game - Winner Edition", "priority": 2}
+			]
+		},
+		{
+			"group": "16t",
+			"titles": [
+				{"searchTerm": "16t"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
 			]
 		},
 		{
@@ -35,7 +34,12 @@
 		{
 			"group": "Adventurous Boy - Maoxian Xiaozi",
 			"titles": [
-				{"searchTerm": "Adventurous Boy - Maoxian Xiaozi", "localNames": {"chinese (traditional)": "冒險小子"}}
+				{
+					"searchTerm": "Adventurous Boy - Maoxian Xiaozi",
+					"localNames": {
+						"chinese (traditional)": "冒險小子"
+					}
+				}
 			]
 		},
 		{
@@ -94,12 +98,24 @@
 					"searchTerm": "Altered Beast",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"localNames": {"english": "Altered Beast", "japanese": "獣王記"}}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Altered Beast",
+									"japanese": "獣王記"
+								}
+							}
 						}
 					]
 				},
-				{"searchTerm": "Juuouki", "localNames": {"japanese": "獣王記"}}
+				{
+					"searchTerm": "Juuouki",
+					"localNames": {
+						"japanese": "獣王記"
+					}
+				}
 			],
 			"compilations": [
 				{"searchTerm": "Arcade Legends Sega Mega Drive"},
@@ -271,7 +287,12 @@
 			"group": "Brave Battle Saga - Legend of the Magic Warrior",
 			"titles": [
 				{"searchTerm": "Brave Battle Saga - Legend of the Magic Warrior"},
-				{"searchTerm": "Taikong Zhanshi - Mofa Zhanshi (Barver Battle Saga)", "localNames": {"chinese (traditional)": "太空戰士　－　魔法戰"}}
+				{
+					"searchTerm": "Taikong Zhanshi - Mofa Zhanshi (Barver Battle Saga)",
+					"localNames": {
+						"chinese (traditional)": "太空戰士　－　魔法戰"
+					}
+				}
 			]
 		},
 		{
@@ -360,7 +381,12 @@
 		{
 			"group": "Chong Chong Weiji - A Bug's Life",
 			"titles": [
-				{"searchTerm": "Chong Chong Weiji - A Bug's Life", "localNames": {"chinese (traditional)": "蟲蟲危機"}}
+				{
+					"searchTerm": "Chong Chong Weiji - A Bug's Life",
+					"localNames": {
+						"chinese (traditional)": "蟲蟲危機"
+					}
+				}
 			]
 		},
 		{
@@ -463,8 +489,8 @@
 		{
 			"group": "David Robinson's Supreme Court",
 			"titles": [
-				{"searchTerm": "David Robinson's Supreme Court"},
-				{"searchTerm": "David Robinson Basketball"}
+				{"searchTerm": "David Robinson Basketball"},
+				{"searchTerm": "David Robinson's Supreme Court"}
 			]
 		},
 		{
@@ -581,6 +607,15 @@
 			]
 		},
 		{
+			"group": "F-22 Interceptor",
+			"titles": [
+				{"searchTerm": "F-22 Interceptor"},
+				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter"},
+				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter (F-205)"},
+				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter (F-202)", "priority": 2}
+			]
+		},
+		{
 			"group": "F-117 Night Storm",
 			"titles": [
 				{"searchTerm": "F-117 Night Storm"},
@@ -588,20 +623,15 @@
 			]
 		},
 		{
-			"group": "F-22 Interceptor",
-			"titles": [
-				{"searchTerm": "F-22 Interceptor"},
-				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter"},
-				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter (F-205)"},
-				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter (F-202)", "priority": 2}
-
-			]
-		},
-		{
 			"group": "Fatal Fury",
 			"titles": [
 				{"searchTerm": "Fatal Fury"},
-				{"searchTerm": "Garou Densetsu - Shukumei no Tatakai", "localNames": {"japanese": "餓狼伝説 ～宿命の闘い～"}}
+				{
+					"searchTerm": "Garou Densetsu - Shukumei no Tatakai",
+					"localNames": {
+						"japanese": "餓狼伝説 ～宿命の闘い～"
+					}
+				}
 			]
 		},
 		{
@@ -643,8 +673,15 @@
 					"searchTerm": "Final Zone",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"localNames": {"english": "Final Zone", "japanese": "ＦＺ戦記ＡＸＩＳ"}}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Final Zone",
+									"japanese": "ＦＺ戦記ＡＸＩＳ"
+								}
+							}
 						}
 					]
 				}
@@ -694,8 +731,8 @@
 		{
 			"group": "Fun 'n' Games",
 			"titles": [
-				{"searchTerm": "Fun 'n' Games"},
-				{"searchTerm": "Fun 'n Games"}
+				{"searchTerm": "Fun 'n Games"},
+				{"searchTerm": "Fun 'n' Games"}
 			]
 		},
 		{
@@ -745,13 +782,25 @@
 		{
 			"group": "Ghouls'n Ghosts",
 			"titles": [
-				{"searchTerm": "Daimakaimura", "localNames": {"japanese": "大魔界村"}},
+				{
+					"searchTerm": "Daimakaimura",
+					"localNames": {
+						"japanese": "大魔界村"
+					}
+				},
 				{
 					"searchTerm": "Ghouls'n Ghosts",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"localNames": {"english": "Ghouls'n Ghosts", "japanese": "大魔界村"}}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Ghouls'n Ghosts",
+									"japanese": "大魔界村"
+								}
+							}
 						}
 					]
 				}
@@ -818,7 +867,12 @@
 		{
 			"group": "Hongzha Xiaozi - Bomboy",
 			"titles": [
-				{"searchTerm": "Hongzha Xiaozi - Bomboy", "localNames": {"chinese (traditional)": "轟炸小子"}}
+				{
+					"searchTerm": "Hongzha Xiaozi - Bomboy",
+					"localNames": {
+						"chinese (traditional)": "轟炸小子"
+					}
+				}
 			]
 		},
 		{
@@ -953,16 +1007,9 @@
 		{
 			"group": "Kid Chameleon",
 			"titles": [
+				{"searchTerm": "Arcade Legends Sega Mega Drive"},
 				{"searchTerm": "Chameleon Kid"},
-				{"searchTerm": "Kid Chameleon"},
-				{"searchTerm": "Arcade Legends Sega Mega Drive"}
-			]
-		},
-		{
-			"group": "King Salmon - The Big Catch",
-			"titles": [
-				{"searchTerm": "King Salmon"},
-				{"searchTerm": "King Salmon - The Big Catch"}
+				{"searchTerm": "Kid Chameleon"}
 			]
 		},
 		{
@@ -970,6 +1017,13 @@
 			"titles": [
 				{"searchTerm": "King of Fighters 98', The"},
 				{"searchTerm": "King of Fighters 2000, The", "priority": 2}
+			]
+		},
+		{
+			"group": "King Salmon - The Big Catch",
+			"titles": [
+				{"searchTerm": "King Salmon"},
+				{"searchTerm": "King Salmon - The Big Catch"}
 			]
 		},
 		{
@@ -1006,7 +1060,12 @@
 		{
 			"group": "Leidian Chuanshuo II",
 			"titles": [
-				{"searchTerm": "Leidian Chuanshuo II (Thunderbolt II)", "localNames": {"chinese (traditional)": "雷電傳説　Ⅱ"}},
+				{
+					"searchTerm": "Leidian Chuanshuo II (Thunderbolt II)",
+					"localNames": {
+						"chinese (traditional)": "雷電傳説　Ⅱ"
+					}
+				},
 				{"searchTerm": "Thunderbolt II"}
 			]
 		},
@@ -1048,7 +1107,12 @@
 		{
 			"group": "Majiang Emo Ta - Devilish Mahjong Tower",
 			"titles": [
-				{"searchTerm": "Majiang Emo Ta - Devilish Mahjong Tower", "localNames": {"chinese (traditional)": "麻将恶魔塔"}}
+				{
+					"searchTerm": "Majiang Emo Ta - Devilish Mahjong Tower",
+					"localNames": {
+						"chinese (traditional)": "麻将恶魔塔"
+					}
+				}
 			]
 		},
 		{
@@ -1058,8 +1122,12 @@
 					"searchTerm": "Marble Madness",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan"]},
-							"results": {"group": "Marble Madness (Japan)"}
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"group": "Marble Madness (Japan)"
+							}
 						}
 					]
 				}
@@ -1196,24 +1264,24 @@
 			]
 		},
 		{
-			"group": "NHL '94",
-			"titles": [
-				{"searchTerm": "NHL '94"},
-				{"searchTerm": "NHL '94 (Re-release)", "priority": 2}
-			]
-		},
-		{
 			"group": "NHL 95",
 			"titles": [
-				{"searchTerm": "NHL 95"},
-				{"searchTerm": "Elitserien 95"}
+				{"searchTerm": "Elitserien 95"},
+				{"searchTerm": "NHL 95"}
 			]
 		},
 		{
 			"group": "NHL 96",
 			"titles": [
-				{"searchTerm": "NHL 96"},
-				{"searchTerm": "Elitserien 96"}
+				{"searchTerm": "Elitserien 96"},
+				{"searchTerm": "NHL 96"}
+			]
+		},
+		{
+			"group": "NHL '94",
+			"titles": [
+				{"searchTerm": "NHL '94"},
+				{"searchTerm": "NHL '94 (Re-release)", "priority": 2}
 			]
 		},
 		{
@@ -1250,8 +1318,8 @@
 		{
 			"group": "Nobunaga's Ambition",
 			"titles": [
-				{"searchTerm": "Nobunaga's Ambition"},
-				{"searchTerm": "Nobunaga no Yabou - Zenkoku Ban"}
+				{"searchTerm": "Nobunaga no Yabou - Zenkoku Ban"},
+				{"searchTerm": "Nobunaga's Ambition"}
 			]
 		},
 		{
@@ -1366,13 +1434,23 @@
 		{
 			"group": "Pikachu (Pocket Monsters)",
 			"titles": [
-				{"searchTerm": "Pikachu (Pocket Monsters)", "localNames": {"chinese (traditional)": "比卡超"}}
+				{
+					"searchTerm": "Pikachu (Pocket Monsters)",
+					"localNames": {
+						"chinese (traditional)": "比卡超"
+					}
+				}
 			]
 		},
 		{
 			"group": "Pikachu II (Pocket Monsters II)",
 			"titles": [
-				{"searchTerm": "Pikachu II (Pocket Monsters II)", "localNames": {"chinese (traditional)": "皮卡丘　Ⅱ"}}
+				{
+					"searchTerm": "Pikachu II (Pocket Monsters II)",
+					"localNames": {
+						"chinese (traditional)": "皮卡丘　Ⅱ"
+					}
+				}
 			]
 		},
 		{
@@ -1430,8 +1508,15 @@
 					"searchTerm": "Raiden Trad",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"english": "Raiden Trad", "japanese": "雷電伝説"}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Raiden Trad",
+									"japanese": "雷電伝説"
+								}
+							}
 						}
 					]
 				}
@@ -1458,8 +1543,15 @@
 					"searchTerm": "Revenge of Shinobi, The",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"localNames": {"english": "Revenge of the Shinobi, The", "japanese": "Ｓｕｐｅｒ　Ｓｈｉｎｏｂｉ，　Ｔｈｅ"}}
+							"conditions": {
+								"matchRegions": ["Japan", "USA"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Revenge of the Shinobi, The",
+									"japanese": "Ｓｕｐｅｒ　Ｓｈｉｎｏｂｉ，　Ｔｈｅ"
+								}
+							}
 						}
 					]
 				},
@@ -1645,7 +1737,12 @@
 		{
 			"group": "Smart Mouse",
 			"titles": [
-				{"searchTerm": "Huanle Taoqi Shu - Smart Mouse", "localNames": {"chinese (traditional)": "歡樂淘氣鼠"}},
+				{
+					"searchTerm": "Huanle Taoqi Shu - Smart Mouse",
+					"localNames": {
+						"chinese (traditional)": "歡樂淘氣鼠"
+					}
+				},
 				{"searchTerm": "Smart Mouse"}
 			]
 		},
@@ -1742,8 +1839,8 @@
 		{
 			"group": "Space Invaders '91",
 			"titles": [
-				{"searchTerm": "Space Invaders '91"},
-				{"searchTerm": "Space Invaders 90"}
+				{"searchTerm": "Space Invaders 90"},
+				{"searchTerm": "Space Invaders '91"}
 			]
 		},
 		{
@@ -1823,8 +1920,15 @@
 					"searchTerm": "Streets of Rage",
 					"filters": [
 						{
-							"conditions": {"matchRegions": "World"},
-							"results": {"localNames": {"english": "Streets of Rage", "japanese": "ベアナックル 怒りの鉄拳"}}
+							"conditions": {
+								"matchRegions": ["World"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Streets of Rage",
+									"japanese": "ベアナックル 怒りの鉄拳"
+								}
+							}
 						}
 					]
 				}
@@ -1839,23 +1943,40 @@
 		{
 			"group": "Streets of Rage 2",
 			"titles": [
+				{
+					"searchTerm": "Bare Knuckle II",
+					"localNames": {
+						"japanese": "ベア・ナックルII"
+					}
+				},
 				{"searchTerm": "Streets of Rage 2"},
 				{
 					"searchTerm": "Streets of Rage II",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "Europe"]},
-							"results": {"localNames": {"english": "Street of Rage II", "japanese": "ベア・ナックルII 死闘への鎮魂歌"}}
+							"conditions": {
+								"matchRegions": ["Europe", "Japan"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Street of Rage II",
+									"japanese": "ベア・ナックルII 死闘への鎮魂歌"
+								}
+							}
 						}
 					]
-				},
-				{"searchTerm": "Bare Knuckle II", "localNames": {"japanese": "ベア・ナックルII"}}
+				}
 			]
 		},
 		{
 			"group": "Streets of Rage 3",
 			"titles": [
-				{"searchTerm": "Bare Knuckle III", "localNames": {"japanese": "ベア・ナックルIII"}},
+				{
+					"searchTerm": "Bare Knuckle III",
+					"localNames": {
+						"japanese": "ベア・ナックルIII"
+					}
+				},
 				{"searchTerm": "Streets of Rage 3"}
 			]
 		},
@@ -1978,18 +2099,18 @@
 			]
 		},
 		{
-			"group": "Target Earth",
-			"titles": [
-				{"searchTerm": "Juusou Kihei Leynos"},
-				{"searchTerm": "Target Earth"}
-			]
-		},
-		{
 			"group": "Tanglewood",
 			"titles": [
 				{"searchTerm": "Tanglewood"},
 				{"searchTerm": "Tanglewood (Windows)", "priority": 2},
 				{"searchTerm": "Tanglewood (GOG, Itch)", "priority": 3}
+			]
+		},
+		{
+			"group": "Target Earth",
+			"titles": [
+				{"searchTerm": "Juusou Kihei Leynos"},
+				{"searchTerm": "Target Earth"}
 			]
 		},
 		{
@@ -2023,13 +2144,6 @@
 			]
 		},
 		{
-			"group": "Tekken Special",
-			"titles": [
-				{"searchTerm": "Tekken Special"},
-				{"searchTerm": "Tekken 3 Special", "priority": 2}
-			]
-		},
-		{
 			"group": "Teenage Mutant Ninja Turtles - The Hyperstone Heist",
 			"titles": [
 				{"searchTerm": "Teenage Mutant Hero Turtles - The Hyperstone Heist"},
@@ -2042,6 +2156,13 @@
 			"titles": [
 				{"searchTerm": "Teenage Mutant Hero Turtles - Tournament Fighters"},
 				{"searchTerm": "Teenage Mutant Ninja Turtles - Tournament Fighters"}
+			]
+		},
+		{
+			"group": "Tekken Special",
+			"titles": [
+				{"searchTerm": "Tekken Special"},
+				{"searchTerm": "Tekken 3 Special", "priority": 2}
 			]
 		},
 		{
@@ -2083,8 +2204,8 @@
 		{
 			"group": "ToeJam & Earl in Panic on Funkotron",
 			"titles": [
-				{"searchTerm": "ToeJam & Earl in Panik auf Funkotron"},
-				{"searchTerm": "ToeJam & Earl in Panic on Funkotron"}
+				{"searchTerm": "ToeJam & Earl in Panic on Funkotron"},
+				{"searchTerm": "ToeJam & Earl in Panik auf Funkotron"}
 			]
 		},
 		{
@@ -2112,7 +2233,12 @@
 			"group": "Top Fighter 2000 MK VIII",
 			"titles": [
 				{"searchTerm": "Top Fighter 2000 MK VIII"},
-				{"searchTerm": "Top Fighter 2005", "localNames": {"chinese (traditional)": "Ｔｏｐ　Ｆｉｇｈｔｅｒ　２００５－格鬥王"}}
+				{
+					"searchTerm": "Top Fighter 2005",
+					"localNames": {
+						"chinese (traditional)": "Ｔｏｐ　Ｆｉｇｈｔｅｒ　２００５－格鬥王"
+					}
+				}
 			]
 		},
 		{
@@ -2147,7 +2273,12 @@
 		{
 			"group": "Tunshi Tiandi III - Sanguo Waizhuan",
 			"titles": [
-				{"searchTerm": "Tunshi Tiandi III - Sanguo Waizhuan (Chinese Fighter)", "localNames": {"chinese (traditional)": "吞食天地　Ⅲ　－　三国外传"}},
+				{
+					"searchTerm": "Tunshi Tiandi III - Sanguo Waizhuan (Chinese Fighter)",
+					"localNames": {
+						"chinese (traditional)": "吞食天地　Ⅲ　－　三国外传"
+					}
+				},
 				{"searchTerm": "Tenchi o Kurau III - Sangoku Gaiden", "priority": 2}
 			]
 		},
@@ -2165,8 +2296,15 @@
 					"searchTerm": "Twin Hawk",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Japan", "Europe"]},
-							"results": {"localNames": {"english": "Twin Hawk", "japanese": "大旋風"}}
+							"conditions": {
+								"matchRegions": ["Europe", "Japan"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Twin Hawk",
+									"japanese": "大旋風"
+								}
+							}
 						}
 					]
 				}
@@ -2182,8 +2320,8 @@
 		{
 			"group": "Tyrants - Fight Through Time",
 			"titles": [
-				{"searchTerm": "Mega-lo-Mania"},
 				{"searchTerm": "Mega lo Mania"},
+				{"searchTerm": "Mega-lo-Mania"},
 				{"searchTerm": "Tyrants - Fight Through Time"}
 			]
 		},
@@ -2336,10 +2474,19 @@
 			]
 		},
 		{
-			"group": "World Class Leaderboard Golf",
+			"group": "World Championship Soccer",
 			"titles": [
-				{"searchTerm": "World Class Leader Board"},
-				{"searchTerm": "World Class Leaderboard Golf"}
+				{"searchTerm": "World Championship Soccer"},
+				{"searchTerm": "World Cup Italia '90"},
+				{"searchTerm": "World Cup Soccer"}
+			],
+			"compilations": [
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Mega 6 Vol. 3"},
+				{"searchTerm": "Mega Games 6"},
+				{"searchTerm": "Mega Games 6 Vol. 2"},
+				{"searchTerm": "Mega Games I"},
+				{"searchTerm": "Sega Top Five"}
 			]
 		},
 		{
@@ -2352,19 +2499,10 @@
 			]
 		},
 		{
-			"group": "World Championship Soccer",
+			"group": "World Class Leaderboard Golf",
 			"titles": [
-				{"searchTerm": "World Cup Italia '90"},
-				{"searchTerm": "World Cup Soccer"},
-				{"searchTerm": "World Championship Soccer"}
-			],
-			"compilations": [
-				{"searchTerm": "10 Super Jogos"},
-				{"searchTerm": "Mega 6 Vol. 3"},
-				{"searchTerm": "Mega Games 6"},
-				{"searchTerm": "Mega Games 6 Vol. 2"},
-				{"searchTerm": "Mega Games I"},
-				{"searchTerm": "Sega Top Five"}
+				{"searchTerm": "World Class Leader Board"},
+				{"searchTerm": "World Class Leaderboard Golf"}
 			]
 		},
 		{
@@ -2415,13 +2553,23 @@
 		{
 			"group": "Zhanqi - Chinese Battle Chess",
 			"titles": [
-				{"searchTerm": "Zhanqi - Chinese Battle Chess", "localNames": {"chinese (traditional)": "戦棊"}}
+				{
+					"searchTerm": "Zhanqi - Chinese Battle Chess",
+					"localNames": {
+						"chinese (traditional)": "戦棊"
+					}
+				}
 			]
 		},
 		{
 			"group": "Zhua Gui Dashi - Ghost Hunter",
 			"titles": [
-				{"searchTerm": "Zhua Gui Dashi - Ghost Hunter", "localNames": {"chinese (traditional)": "抓鬼大师"}}
+				{
+					"searchTerm": "Zhua Gui Dashi - Ghost Hunter",
+					"localNames": {
+						"chinese (traditional)": "抓鬼大师"
+					}
+				}
 			]
 		},
 		{

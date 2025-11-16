@@ -90,6 +90,12 @@
 	"Baseball (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Battle Battle League (Japan) (Proto) (Disk 1)": {
+		"languages": ["Ja"]
+	},
+	"Battle Battle League (Japan) (Proto) (Disk 2)": {
+		"languages": ["Ja"]
+	},
 	"Big Challenge! Dogfight Spirit (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -425,7 +431,7 @@
 	"Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer)": {
 		"languages": ["Ja"]
 	},
-	"Famimaga Disk Vol. 4 - Clox (Japan) (Disk Writer)": {
+	"Famimaga Disk Vol. 4 - Clocks (Japan) (Disk Writer)": {
 		"languages": ["Ja"]
 	},
 	"Famimaga Disk Vol. 5 - Puyo Puyo (Japan) (Disk Writer)": {
@@ -825,7 +831,10 @@
 		"languages": ["Ja"]
 	},
 	"NESert Golfing (World) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+		"languages": ["En"]
+	},
+	"NESert Golfing (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Neunzehn - 19 (Japan)": {
 		"languages": ["Ja"]
@@ -1205,7 +1214,7 @@
 	"Yuushi no Monshou - Deep Dungeon (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Zanac (Japan)": {
+	"Zanac (AI) (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl)": {

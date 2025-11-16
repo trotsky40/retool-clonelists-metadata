@@ -1,38 +1,83 @@
 {
-	"A Day on the Farm (USA) (V.Smile Baby)": {
+	"5, Rue Sesame - Le Monde d'Elmo - Les grandes decouvertes d'Elmo (France)": {
+		"languages": ["Fr"],
+		"localName": "5, Rue Sésame - Le Monde d'Elmo - Les grandes découvertes d'Elmo"
+	},
+	"5, Rue Sesame - Les aventures imaginaires d'Ernest et Bart (France)": {
+		"languages": ["Fr"],
+		"localName": "5, Rue Sésame - Les aventures imaginaires d'Ernest et Bart"
+	},
+	"[BIOS] VTech V.Smile (World) (v100)": {
 		"languages": ["En"]
+	},
+	"[BIOS] VTech V.Smile (World) (v102)": {
+		"languages": ["En"]
+	},
+	"[BIOS] VTech V.Smile (World) (v103)": {
+		"languages": ["En"]
+	},
+	"[BIOS] VTech V.Smile Baby (World)": {
+		"languages": ["En"]
+	},
+	"[BIOS] VTech V.Smile Motion (World)": {
+		"languages": ["En"]
+	},
+	"ABC Land Aventure (France) (Alt 2)": {
+		"languages": ["Fr"]
+	},
+	"ABC Land Aventure (France) (Alt)": {
+		"languages": ["Fr"]
 	},
 	"ABC Land Aventure (France)": {
 		"languages": ["Fr"]
 	},
+	"Abenteuer im ABC Park (Germany) (Alt)": {
+		"languages": ["De"]
+	},
 	"Abenteuer im ABC Park (Germany)": {
 		"languages": ["De"]
 	},
-	"Action Mania (USA) (V.Smile Motion)": {
+	"Action Mania (Spain) (V.Smile Motion)": {
+		"languages": ["Es"],
+		"localName": "Action Manía"
+	},
+	"Action Mania (USA) (Rev 1) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Action Mania (USA) (Rev 2) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Action Mania (USA) (Rev 3) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Action Mania (USA) (Rev 4) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Action Mania (USA) (Rev 5) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
 	"Adventures of Little Red Riding Hood, The (USA)": {
 		"languages": ["En"]
 	},
-	"Aladdin - Aladdins Welt der Wunder (Germany)": {
-		"languages": ["De"]
-	},
-	"Aladdin - El Maravilloso Mundo de Aladdin (Spain)": {
-		"languages": ["Es"]
-	},
-	"Aladdin - Il magico mondo di Aladdin (Italy)": {
-		"languages": ["It"]
+	"Alfabet Pretpark (Netherlands)": {
+		"languages": ["Nl"]
 	},
 	"Alphabet Park Adventure (United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Alphabet Park Adventure (USA) (Alt 2)": {
+		"languages": ["En"]
+	},
+	"Alphabet Park Adventure (USA) (Alt 3)": {
 		"languages": ["En"]
 	},
 	"Alphabet Park Adventure (USA) (Alt)": {
 		"languages": ["En"]
 	},
-	"Alphabet Park Adventure (USA) (Rev 1) (Alt)": {
+	"Alphabet Park Adventure (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Alphabet Park Adventure (USA) (Rev 1)": {
+	"Alphabet Park Adventure (USA) (Rev 3)": {
 		"languages": ["En"]
 	},
 	"Alphabet Park Adventure (USA)": {
@@ -41,59 +86,116 @@
 	"Apprenti' pilote (France)": {
 		"languages": ["Fr"]
 	},
-	"Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)": {
-		"languages": ["De"]
-	},
-	"Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)": {
-		"languages": ["De"]
+	"Arche de Noe, L' - L'aventure des animaux (France) (V.Smile Baby)": {
+		"languages": ["Fr"],
+		"localName": "Arche de Noé, L' - L'aventure des animaux"
 	},
 	"Aventuras en el Parque Alfabeto (Spain)": {
 		"languages": ["Es"]
 	},
+	"Aventures du Petit Chaperon Rouge, Les (France)": {
+		"languages": ["Fr"],
+		"localName": "Les Aventures du Petit Chaperon Rouge"
+	},
 	"Avventura nel Parco Alfabeto (Italy)": {
 		"languages": ["It"]
 	},
-	"Baby Einstein (USA) (V.Smile Baby) (Alt)": {
+	"Baby Einstein - Un monde de decouvertes (France) (V.Smile Baby)": {
+		"languages": ["Fr"],
+		"localName": "Baby Einstein - Un monde de découvertes"
+	},
+	"Baby Einstein - World of Discoveries (USA) (Rev 1) (V.Smile Baby)": {
 		"languages": ["En"]
 	},
-	"Baby Einstein (USA) (V.Smile Baby)": {
+	"Baby Einstein - World of Discoveries (USA) (V.Smile Baby)": {
 		"languages": ["En"]
 	},
-	"Backyardigans - Viking Voyage (USA) (Rev 2)": {
+	"Backyardigans, The - Big Backyard Adventures (USA) (V.Smile Baby)": {
 		"languages": ["En"]
 	},
-	"Backyardigans, The - Viking Voyage (USA)": {
+	"Backyardigans, The - Viking Voyage (USA) (2006)": {
 		"languages": ["En"]
 	},
-	"Barney (USA) (V.Smile Baby)": {
+	"Backyardigans, The - Viking Voyage (USA) (2008)": {
 		"languages": ["En"]
 	},
 	"Barney - Erlebnis-Reise (Germany)": {
 		"languages": ["De"]
 	},
-	"Barney - The Land of Make Believe (USA)": {
+	"Barney - Let's Go to a Party (USA) (V.Smile Baby)": {
 		"languages": ["En"]
 	},
-	"Batman, The - Gotham City Rescue (USA, Europe)": {
-		"languages": ["En-US"]
+	"Barney - The Land of Make Believe (USA) (Rev 1)": {
+		"languages": ["En"]
+	},
+	"Barrio Sesamo - El Mundo de Elmo - Grandes descubrimientos de Elmo (Spain)": {
+		"languages": ["Es"],
+		"localName": "Barrio Sésamo - El Mundo de Elmo - Grandes descubrimientos de Elmo"
+	},
+	"Barrio Sesamo - El Mundo Fantastico de Epi y Blas (Spain)": {
+		"languages": ["Es"],
+		"localName": "Barrio Sésamo - El Mundo Fantástico de Epi y Blas"
+	},
+	"Batman - De redding van Gotham City (Netherlands)": {
+		"languages": ["Nl"]
+	},
+	"Batman - Gotham City Rescue (USA, United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Batman - Panique a Gotham City (France)": {
+		"languages": ["Fr"],
+		"localName": "Batman - Panique à Gotham City"
+	},
+	"Batman - Rescate en Gotham City (Spain)": {
+		"languages": ["Es"]
+	},
+	"Batman - Rettung von Gotham City (Germany)": {
+		"languages": ["De"]
+	},
+	"Bianfuxia - Zhengjiu Chengshi (China)": {
+		"languages": ["Zh"],
+		"localName": "蝙蝠侠　－　拯救城市"
 	},
 	"Bilar - Koer ikapp i Kylarkoeping (Sweden)": {
-		"languages": ["Sv"]
+		"languages": ["Sv"],
+		"localName": "Bilar - Kör ikapp i Kylarköping"
 	},
 	"Biler - Raes i Kolerkildekobing (Denmark)": {
-		"languages": ["Da"]
+		"languages": ["Da"],
+		"localName": "Biler - Ræs i Kølerkildekøbing"
+	},
+	"Bisounous, Les - Le monde merveilleux des Bisounours (France)": {
+		"languages": ["Fr"]
 	},
 	"Blue's Clues - Collection Day (USA)": {
 		"languages": ["En"]
 	},
-	"Bob der Baumeister - Bobs spannender Arbeitstag (Germany)": {
+	"Bob der Baumeister - Bobs spannender Arbeitstag (Germany) (2005)": {
 		"languages": ["De"]
 	},
-	"Bob the Builder - Bob's Busy Day (Europe)": {
+	"Bob der Baumeister - Bobs spannender Arbeitstag (Germany) (2008)": {
+		"languages": ["De"]
+	},
+	"Bob Esponja - Un dia en la vida de una esponja (Spain)": {
+		"languages": ["Es"],
+		"localName": "Bob Esponja - Un día en la vida de una esponja"
+	},
+	"Bob L'eponge - Une journee dans la vie d'une eponge (France)": {
+		"languages": ["Fr"],
+		"localName": "Bob L'éponge - Une journée dans la vie d'une éponge"
+	},
+	"Bob le Bricoleur - Les p'tits chantiers de Bob (France)": {
+		"languages": ["Fr"]
+	},
+	"Bob the Builder - Bob's Busy Day (United Kingdom)": {
 		"languages": ["En-GB"]
 	},
 	"Bob the Builder - Bob's Busy Day (USA)": {
 		"languages": ["En"]
+	},
+	"Bob y sus Amigos - Un Dia De Trabajo (Spain)": {
+		"languages": ["Es"],
+		"localName": "Bob y sus Amigos - Un Día De Trabajo"
 	},
 	"Byggare Bob - Bobs stressiga dag (Sweden)": {
 		"languages": ["Sv"]
@@ -101,22 +203,52 @@
 	"Byggemand Bob - Bobs travle dag (Denmark)": {
 		"languages": ["Da"]
 	},
+	"Campeonato de Futbol V.Smile (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
+	},
 	"Care Bears (USA) (V.Smile Baby)": {
+		"languages": ["En"]
+	},
+	"Care Bears - A Lesson in Caring (USA) (Alt)": {
 		"languages": ["En"]
 	},
 	"Care Bears - A Lesson in Caring (USA)": {
 		"languages": ["En"]
 	},
+	"Cars 2 (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Cars 2 (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
+	"Cars 2 (USA) (Rev 1) (V.Smile Motion) (Pocket Version)": {
+		"languages": ["En"]
+	},
 	"Cars 2 (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Cars (United Kingdom)": {
-		"languages": ["En"]
+	"Cars - Acelera el Motor en Radiador Springs (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
 	},
-	"Cars - Quatre roues (France)": {
+	"Cars - Acelera el Motor en Radiador Springs (Spain)": {
+		"languages": ["Es"]
+	},
+	"Cars - Quatre roues (France) (2006)": {
 		"languages": ["Fr"]
 	},
-	"Cars - Rev It Up in Radiator Springs (Europe)": {
+	"Cars - Quatre roues (France) (2009)": {
+		"languages": ["Fr"]
+	},
+	"Cars - Quatre roues (France) (Rev 1) (2006)": {
+		"languages": ["Fr"]
+	},
+	"Cars - Quatre roues (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Cars - Rev It Up in Radiator Springs (United Kingdom) (Rev 5)": {
+		"languages": ["En"]
+	},
+	"Cars - Rev It Up in Radiator Springs (United Kingdom)": {
 		"languages": ["En-GB"]
 	},
 	"Cars - Rev It Up in Radiator Springs (USA) (Alt 2)": {
@@ -125,64 +257,335 @@
 	"Cars - Rev It Up in Radiator Springs (USA) (Alt)": {
 		"languages": ["En"]
 	},
-	"Cars - Rev It Up in Radiator Springs (USA) (Rev 2)": {
+	"Cars - Rev It Up in Radiator Springs (USA) (Rev 1)": {
+		"languages": ["En"]
+	},
+	"Cars - Rev It Up in Radiator Springs (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
 	"Cars - Rev It Up in Radiator Springs (USA)": {
 		"languages": ["En"]
 	},
+	"Cars - Vollgas in Radiator Springs (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
 	"Cars - Vollgas in Radiator Springs (Germany)": {
 		"languages": ["De"]
 	},
-	"Cendrillon - Le reve enchante de Cendrillon (France)": {
+	"Conduccion Divertida (Spain)": {
+		"languages": ["Es"],
+		"localName": "Conducción Divertida"
+	},
+	"Cranium - Freizeit Park - Ein Jahrmarkt Voller Spiel-Und Lernspass (Germany)": {
+		"languages": ["De"],
+		"localName": "Cranium - Freizeit Park - Ein Jahrmarkt voller Spiel-und Lernspaß"
+	},
+	"Cranium - Le parc d'attractions (France)": {
 		"languages": ["Fr"]
 	},
-	"Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1)": {
-		"languages": ["It"]
+	"Cranium - Parque de Atracciones de Cranium (Spain)": {
+		"languages": ["Es"]
 	},
-	"Cenerentola - I desideri magici di Cenerentola (Italy)": {
-		"languages": ["It"]
-	},
-	"Cinderella - Askepots magiske onsker (Denmark)": {
-		"languages": ["Da"]
-	},
-	"Cinderella - Askungens magiska oenskningar (Sweden)": {
-		"languages": ["Sv"]
-	},
-	"Cinderella - Cinderella's Magic Wishes (Europe)": {
-		"languages": ["En-GB"]
-	},
-	"Cinderella - Cinderella's Magic Wishes (USA) (Rev 1)": {
+	"Cranium - Partyland Park - A Carnival of Play-and-Learn Fun (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Cinderella - Cinderella's Magic Wishes (USA)": {
+	"Dakota y su mascota (Spain)": {
+		"languages": ["Es"]
+	},
+	"Day on the Farm, A (USA) (V.Smile Baby)": {
 		"languages": ["En"]
 	},
-	"Cinderella - Lernen im Maerchenland (Germany) (Rev 1)": {
-		"languages": ["De"]
+	"Decouvertes de Mickey et ses amis, Les (France) (V.Smile Baby)": {
+		"languages": ["Fr"],
+		"localName": "Les découvertes de Mickey et ses amis"
 	},
-	"Cinderella - Lernen im Maerchenland (Germany) (V.Smile Motion)": {
-		"languages": ["De"]
+	"Dierenhuis (Netherlands) (V.Smile Baby)": {
+		"languages": ["Nl"]
 	},
-	"Cinderella - Lernen im Maerchenland (Germany)": {
-		"languages": ["De"]
+	"Discovery with Baby Mickey & Friends (USA) (V.Smile Baby)": {
+		"languages": ["En"]
 	},
-	"Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)": {
-		"languages": ["Sv"]
+	"Disney Aladdin - El Maravilloso Mundo de Aladdin (Spain)": {
+		"languages": ["Es"]
 	},
-	"Den lille havfrue - Ariels majestaetiske rejse! (Denmark)": {
-		"languages": ["Da"]
+	"Disney Aladdin - Il magico mondo di Aladdin (Italy)": {
+		"languages": ["It"]
 	},
 	"Disney Aladdin - Wonders of the World (United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Disney Baby - Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby)": {
+		"languages": ["Sv"],
+		"localName": "Disney Baby - Nalle Puhs äventyr i Sjumilaskogen"
+	},
+	"Disney Baby - Pooh's Hundred Acre Wood Adventure (USA) (V.Smile Baby)": {
+		"languages": ["En"]
+	},
+	"Disney Baby - Puuhs Hundert-Morgen-Wald (Germany) (V.Smile Baby)": {
+		"languages": ["De"]
+	},
+	"Disney Den lille havfrue - Ariels majestaetiske rejse! (Denmark)": {
+		"languages": ["Da"]
+	},
+	"Disney Der Koenig der Loewen - Simbas grosses Abenteuer (Germany)": {
+		"languages": ["De"],
+		"localName": "Disney Der König der Löwen - Simbas großes Abenteuer"
+	},
+	"Disney El Rey Leon - La Gran Aventura de Simba (Spain)": {
+		"languages": ["Es"],
+		"localName": "Disney El Rey León - La Gran Aventura de Simba"
+	},
+	"Disney Fairies - Campanilla (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
+	},
+	"Disney Fairies - La Fee Clochette (France) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "Disney Fairies - La Fée Clochette"
+	},
+	"Disney Fairies - Tingeling (Sweden)": {
+		"languages": ["Sv"]
+	},
+	"Disney Fairies - TinkerBell (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
+	"Disney Fairies - TinkerBell (USA) (Rev 1) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
 	"Disney Fairies - TinkerBell (USA)": {
 		"languages": ["En"]
 	},
+	"Disney Il Re Leone - La Grande Avventura di Simba (Italy)": {
+		"languages": ["It"]
+	},
+	"Disney Kuss den Frosch - Tianas grosser Traum (Germany) (V.Smile Motion)": {
+		"languages": ["De"],
+		"localName": "Disney Küss den Frosch - Tianas großer Traum"
+	},
+	"Disney La Casa de Mickey Mouse (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
+	},
+	"Disney La Casa de Mickey Mouse (Spain)": {
+		"languages": ["Es"]
+	},
+	"Disney La Maison de Mickey (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Disney La Maison de Mickey (France)": {
+		"languages": ["Fr"]
+	},
+	"Disney La Petite Sirene - Ariel devient une princesse (France)": {
+		"languages": ["Fr"],
+		"localName": "Disney La Petite Sirène - Ariel devient une princesse"
+	},
+	"Disney La Sirenetta - Ariel e la Crociera Magica (Italy)": {
+		"languages": ["It"]
+	},
+	"Disney La Sirenita - El Viaje Fantastico de Ariel (Spain)": {
+		"languages": ["Es"]
+	},
+	"Disney Le Roi Lion - Simba decouvre la jungle (France) (Rev 1) (Alt)": {
+		"languages": ["Fr"],
+		"localName": "Disney Le Roi Lion - Simba découvre la jungle"
+	},
+	"Disney Le Roi Lion - Simba decouvre la jungle (France) (Rev 1)": {
+		"languages": ["Fr"],
+		"localName": "Disney Le Roi Lion - Simba découvre la jungle"
+	},
+	"Disney Le Roi Lion - Simba decouvre la jungle (France)": {
+		"languages": ["Fr"],
+		"localName": "Disney Le Roi Lion - Simba découvre la jungle"
+	},
+	"Disney Lejonkungen - Simbas stora aeventyr (Sweden)": {
+		"languages": ["Sv"],
+		"localName": "Disney Lejonkungen - Simbas stora äventyr"
+	},
+	"Disney Lovernes Konge - Simbas store eventyr (Denmark)": {
+		"languages": ["Da"],
+		"localName": "Disney Løvernes Konge - Simbas store eventyr"
+	},
+	"Disney Mes Amis Tigrou et Winnie - La chasse au miel de Winnie (France)": {
+		"languages": ["Fr"]
+	},
+	"Disney Mickey - La Aventura Magica de Mickey (Spain)": {
+		"languages": ["Es"],
+		"localName": "Disney Mickey - La Aventura Mágica de Mickey"
+	},
+	"Disney Mickey - Mickey a la recherche de Pluto (France) (Alt)": {
+		"languages": ["Fr"],
+		"localName": "Disney Mickey - Mickey à la recherche de Pluto"
+	},
+	"Disney Mickey - Mickey a la recherche de Pluto (France)": {
+		"languages": ["Fr"],
+		"localName": "Disney Mickey - Mickey à la recherche de Pluto"
+	},
+	"Disney Mickey Mouse - De wonderwereld van Micke (Netherlands)": {
+		"languages": ["Nl"]
+	},
+	"Disney Mickey Mouse Clubhouse (Netherlands)": {
+		"languages": ["Nl"]
+	},
+	"Disney Mickey Mouse Clubhouse (Sweden)": {
+		"languages": ["Sv"]
+	},
+	"Disney Mickey Mouse Clubhouse (USA) (Rev 1) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Disney Mickey Mouse Clubhouse (USA) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Disney Micky Maus Wunderhaus (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
+	"Disney Micky Maus Wunderhaus (Germany)": {
+		"languages": ["De"]
+	},
+	"Disney My Friends Tigger & Pooh - Die Honigjagd (Germany) (Rev 2)": {
+		"languages": ["De"]
+	},
+	"Disney My Friends Tigger and Pooh - En Busca de la Miel (Spain)": {
+		"languages": ["Es"]
+	},
+	"Disney Nalle Puh - Honungsjakten (Sweden)": {
+		"languages": ["Sv"]
+	},
+	"Disney Peter Plys - Honningjagten (Denmark)": {
+		"languages": ["Da"]
+	},
+	"Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2005)": {
+		"languages": ["Es"],
+		"localName": "Disney Princesas - La Cenicienta - Los sueños mágicos de Cenicienta"
+	},
+	"Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2007)": {
+		"languages": ["Es"],
+		"localName": "Disney Princesas - La Cenicienta - Los sueños mágicos de Cenicienta"
+	},
+	"Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (Spain) (2008)": {
+		"languages": ["Es"],
+		"localName": "Disney Princesas - La Cenicienta - Los sueños mágicos de Cenicienta"
+	},
+	"Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2005)": {
+		"languages": ["Nl"]
+	},
+	"Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2007)": {
+		"languages": ["Nl"]
+	},
+	"Disney Princess - Assepoester - De wonderwereld van Assepoester (Netherlands) (2010)": {
+		"languages": ["Nl"]
+	},
+	"Disney Princess - Cinderella - Askepots magiske onsker (Denmark) (2006)": {
+		"languages": ["Da"],
+		"localName": "Disney Princess - Cinderella - Askepots magiske ønsker"
+	},
+	"Disney Princess - Cinderella - Askungens magiska oenskningar (Sweden) (2006)": {
+		"languages": ["Sv"],
+		"localName": "Disney Princess - Cinderella - Askungens magiska önskningar"
+	},
+	"Disney Princess - Cinderella - Cinderella's Magic Wishes (United Kingdom) (2005)": {
+		"languages": ["En-GB"]
+	},
+	"Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2005) (Alt)": {
+		"languages": ["En"]
+	},
+	"Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2005)": {
+		"languages": ["En"]
+	},
+	"Disney Princess - Cinderella - Cinderella's Magic Wishes (USA) (2007)": {
+		"languages": ["En"]
+	},
+	"Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2005)": {
+		"languages": ["De"],
+		"localName": "Disney Princess - Cinderella - Lernen im Märchenland"
+	},
+	"Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2007)": {
+		"languages": ["De"]
+	},
+	"Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2008)": {
+		"languages": ["De"],
+		"localName": "Disney Princess - Cinderella - Lernen im Märchenland"
+	},
+	"Disney Princess - Cinderella - Lernen im Maerchenland (Germany) (2010) (V.Smile Motion)": {
+		"languages": ["De"],
+		"localName": "Disney Princess - Cinderella - Lernen im Märchenland"
+	},
+	"Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2005) (Alt)": {
+		"languages": ["Fr"],
+		"localName": "Disney Princesses - Cendrillon - Le rêve enchanté de Cendrillon"
+	},
+	"Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2005)": {
+		"languages": ["Fr"],
+		"localName": "Disney Princesses - Cendrillon - Le rêve enchanté de Cendrillon"
+	},
+	"Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2007)": {
+		"languages": ["Fr"],
+		"localName": "Disney Princesses - Cendrillon - Le rêve enchanté de Cendrillon"
+	},
+	"Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2008)": {
+		"languages": ["Fr"],
+		"localName": "Disney Princesses - Cendrillon - Le rêve enchanté de Cendrillon"
+	},
+	"Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (France) (2010) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "Disney Princesses - Cendrillon - Le rêve enchanté de Cendrillon"
+	},
+	"Disney Principesse - Cenerentola - I desideri magici di Cenerentola (Italy) (2006) (Alt)": {
+		"languages": ["It"]
+	},
+	"Disney Principesse - Cenerentola - I desideri magici di Cenerentola (Italy) (2006)": {
+		"languages": ["It"]
+	},
+	"Disney Topolino - Le Magiche Avventure di Topolino (Italy)": {
+		"languages": ["It"]
+	},
+	"Disney Winnie l'Ourson - La Chasse au miel de Winnie (France) (Alt 2)": {
+		"languages": ["Fr"]
+	},
+	"Disney Winnie l'Ourson - La Chasse au miel de Winnie (France) (Alt)": {
+		"languages": ["Fr"]
+	},
+	"Disney Winnie l'Ourson - La Chasse au miel de Winnie (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Disney Winnie l'Ourson - La Chasse au miel de Winnie (France)": {
+		"languages": ["Fr"]
+	},
+	"Disney Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
+	"Disney Winnie Puuh - Die Honigjagd (Germany)": {
+		"languages": ["De"]
+	},
+	"Disney Winnie the Pooh - E la caccia al miele (Italy)": {
+		"languages": ["It"]
+	},
 	"Disney's Aladdin - Aladdin's Wonders of the World (USA)": {
 		"languages": ["En"]
 	},
-	"Disney's The Lion King - Simba's Big Adventure (USA) (Rev 1)": {
+	"Disney's Aladdin - De wonderwereld van Aladdin (Netherlands)": {
+		"languages": ["Nl"]
+	},
+	"Disney's Aladdin - Les fabuleuses aventures d'Aladdin (France)": {
+		"languages": ["Fr"]
+	},
+	"Disney's Mickey Mouse - Mickey's Magical Adventure (United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Disney's Mickey Mouse - Mickey's Magical Adventure (USA)": {
+		"languages": ["En"]
+	},
+	"Disney's Micky - Mickys magisches Abenteuer (Germany)": {
+		"languages": ["De"]
+	},
+	"Disney's Musse Pigg - Musses magiska aeventyr (Sweden)": {
+		"languages": ["Sv"],
+		"localName": "Disney's Musse Pigg - Musses magiska äventyr"
+	},
+	"Disney's The Lion King - Simba's Big Adventure (USA) (2004)": {
+		"languages": ["En"]
+	},
+	"Disney's The Lion King - Simba's Big Adventure (USA) (Alt)": {
+		"languages": ["En"]
+	},
+	"Disney's The Lion King - Simba's Big Adventure (USA)": {
 		"languages": ["En"]
 	},
 	"Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1) (Alt)": {
@@ -191,41 +594,255 @@
 	"Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)": {
+	"Disney's The Little Mermaid - Ariel's Majestic Journey (USA, United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Disney's Winnie de Poeh - De wonderwereld van Poeh (Netherlands)": {
+		"languages": ["Nl"]
+	},
+	"Disney's Winnie the Pooh - The Honey Hunt (United Kingdom) (Rev 2)": {
+		"languages": ["En"]
+	},
+	"Disney's Winnie the Pooh - The Honey Hunt (United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Disney's Winnie the Pooh - The Honey Hunt (USA) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Disney's Winnie the Pooh - The Honey Hunt (USA)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar A Procura de Nemo - Nemo A Descoberta do Oceano (Portugal)": {
+		"languages": ["Pt"],
+		"localName": "Disney-Pixar À Procura de Nemo - Nemo À Descoberta do Oceano"
+	},
+	"Disney-Pixar Buscando a Nemo - Los Descubrimientos de Nemo (Spain)": {
+		"languages": ["Es"]
+	},
+	"Disney-Pixar Findet Nemo - Nemos Unterwasserabenteuer (Germany)": {
 		"languages": ["De"]
+	},
+	"Disney-Pixar Finding Nemo - De wonderwereld van Nemo (Netherlands)": {
+		"languages": ["Nl"]
+	},
+	"Disney-Pixar Finding Nemo - Nemo's Ocean Discoveries (USA)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar La-Haut (France) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "Disney-Pixar Là-Haut"
+	},
+	"Disney-Pixar La-Haut (France)": {
+		"languages": ["Fr"],
+		"localName": "Disney-Pixar Là-Haut"
+	},
+	"Disney-Pixar Le Monde de Nemo - Nemo a la decouverte de l'ocean (France) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "Disney-Pixar Le Monde de Nemo - Nemo à la découverte de l'océan"
+	},
+	"Disney-Pixar Le Monde de Nemo - Nemo a la decouverte de l'ocean (France)": {
+		"languages": ["Fr"],
+		"localName": "Disney-Pixar Le Monde de Nemo - Nemo à la découverte de l'océan"
+	},
+	"Disney-Pixar Oben (Germany)": {
+		"languages": ["De"]
+	},
+	"Disney-Pixar Ratatouille - Las recetas del Remy (Spain)": {
+		"languages": ["Es"]
+	},
+	"Disney-Pixar Ratatouille - Le nuove Ricette di Remy (Italy) (Rev 2)": {
+		"languages": ["It"]
+	},
+	"Disney-Pixar Ratatouille - Les nouvelles recettes de Remy (France) (Rev 1)": {
+		"languages": ["Fr"],
+		"localName": "Disney-Pixar Ratatouille - Les nouvelles recettes de Rémy"
+	},
+	"Disney-Pixar Ratatouille - Les nouvelles recettes de Remy (France)": {
+		"languages": ["Fr"],
+		"localName": "Disney-Pixar Ratatouille - Les nouvelles recettes de Rémy"
+	},
+	"Disney-Pixar Ratatouille - Remy's New Recipes (USA) (Rev 1)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar Ratatouille - Remy's Nieuwe Recepten (Netherlands)": {
+		"languages": ["Nl"]
+	},
+	"Disney-Pixar Ratatouille - Remys neue Rezepte (Germany)": {
+		"languages": ["De"]
+	},
+	"Disney-Pixar Toy Story 2 (USA) (Smartbook)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar Toy Story 2 - Buzz a la rescousse ! (France)": {
+		"languages": ["Fr"],
+		"localName": "Disney-Pixar Toy Story 2 - Buzz à la rescousse !"
+	},
+	"Disney-Pixar Toy Story 2 - El Rescate De Woody (Spain)": {
+		"languages": ["Es"]
+	},
+	"Disney-Pixar Toy Story 2 - Operation - Raedda Woody! (Sweden)": {
+		"languages": ["Sv"]
+	},
+	"Disney-Pixar Toy Story 2 - Operation - Rescue Woody! (United Kingdom)": {
+		"languages": ["En-GB"]
+	},
+	"Disney-Pixar Toy Story 2 - Operation Rescue Woody! (USA)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar Toy Story 2 - Operazione - Salvataggio di Woody! (Italy)": {
+		"languages": ["It"]
+	},
+	"Disney-Pixar Toy Story 2 - Woodys spannende Rettung (Germany)": {
+		"languages": ["De"]
+	},
+	"Disney-Pixar Toy Story 3 (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Disney-Pixar Toy Story 3 (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
+	"Disney-Pixar Toy Story 3 (Italy) [b]": {
+		"languages": ["It"]
+	},
+	"Disney-Pixar Toy Story 3 (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
+	},
+	"Disney-Pixar Toy Story 3 (USA) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar Up (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
+	},
+	"Disney-Pixar Up (Spain)": {
+		"languages": ["Es"]
+	},
+	"Disney-Pixar Up (United Kingdom) (Rev 3)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar Up (USA) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar Up (USA)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar Wall-E (China)": {
+		"languages": ["Zh"],
+		"localName": "Ｄｉｓｎｅｙ－Ｐｉｘａｒ　瓦力"
+	},
+	"Disney-Pixar Wall-E (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Disney-Pixar Wall-E (France)": {
+		"languages": ["Fr"]
+	},
+	"Disney-Pixar Wall-E (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
+	"Disney-Pixar Wall-E (Germany)": {
+		"languages": ["De"]
+	},
+	"Disney-Pixar Wall-E (Italy)": {
+		"languages": ["It"]
+	},
+	"Disney-Pixar Wall-E (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
+	},
+	"Disney-Pixar Wall-E (Spain)": {
+		"languages": ["Es"]
+	},
+	"Disney-Pixar Wall-E (Sweden)": {
+		"languages": ["Sv"]
+	},
+	"Disney-Pixar Wall-E (USA) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Disney-Pixar Wall-E (USA)": {
+		"languages": ["En"]
+	},
+	"Disneys Aladdin - Aladdins Welt der Wunder (Germany)": {
+		"languages": ["De"]
+	},
+	"Disneys Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany) (Rev 1)": {
+		"languages": ["De"]
+	},
+	"Disneys Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (Germany)": {
+		"languages": ["De"]
+	},
+	"Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa! (Sweden)": {
+		"languages": ["Sv"],
+		"localName": "Disneys Den lilla sjöjungfrun - Ariels majestätiska resa!"
+	},
+	"Dolphis Wasser-abenteuer (Germany)": {
+		"languages": ["De"]
+	},
+	"Dora - Dora's Reparatie Avontuur (Netherlands) (V.Smile Motion)": {
+		"languages": ["Nl"]
+	},
+	"Dora - Dora's Reparatie Avontuur! (Netherlands)": {
+		"languages": ["Nl"]
 	},
 	"Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)": {
 		"languages": ["De"]
 	},
-	"Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)": {
+	"Dora - Doras Reparatur-Abenteuer (Germany)": {
+		"languages": ["De"]
+	},
+	"Dora l'Exploratrice - Les aventures de Dora Apprentie Mecano (France) (2005) (Alt)": {
 		"languages": ["Fr"]
 	},
-	"Dora the Explorer - Dora's Fix-It Adventure (Europe)": {
-		"languages": ["En-GB"]
+	"Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France) (2005)": {
+		"languages": ["Fr"]
 	},
-	"Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1)": {
+	"Dora l'Exploratrice - Les aventures de Dora Apprentie Mecano (France) (2007)": {
+		"languages": ["Fr"],
+		"localName": "Dora l'Exploratrice - Les aventures de Dora Apprentie Mécano"
+	},
+	"Dora l'Exploratrice - Les aventures de Dora Apprentie Mecano (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Dora La Exploradora - La Aventura Arregla-Todo de Dora (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
+	},
+	"Dora La Exploradora - La Aventura Arregla-Todo de Dora (Spain)": {
+		"languages": ["Es"]
+	},
+	"Dora the Explorer - Dora's Fix-it Adventure (United Kingdom) (2005)": {
 		"languages": ["En"]
 	},
-	"Dora the Explorer - Dora's Fix-It Adventure (USA)": {
+	"Dora the Explorer - Dora's Fix-it Adventure (United Kingdom) (2007)": {
 		"languages": ["En"]
 	},
-	"Dora's Fix-it Adventure (United Kingdom)": {
+	"Dora the Explorer - Dora's Fix-it Adventure (USA) (2007)": {
 		"languages": ["En"]
 	},
-	"Elmos grosses Abenteuer (Germany)": {
-		"languages": ["De"]
+	"Dora the Explorer - Dora's Fix-it Adventure (USA) (2008)": {
+		"languages": ["En"]
+	},
+	"Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 2) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Dora the Explorer - Dora's Fix-It Adventure (USA, United Kingdom) (2005)": {
+		"languages": ["En"]
+	},
+	"Dora the Explorer - Dora's Got a Puppy (USA) (Smartbook)": {
+		"languages": ["En"]
 	},
 	"Entdecke die Welt von Rotkaeppchen (Germany)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localName": "Entdecke die Welt von Rotkäppchen"
 	},
-	"Ernies & Berts Fantastisches Abenteuer (Germany)": {
-		"languages": ["De"]
+	"Flitzers Schlaue Stadtetour (Germany)": {
+		"languages": ["De"],
+		"localName": "Flitzers Schlaue Städtetour"
 	},
-	"Finding Nemo - De wonderwereld van Nemo (Netherlands)": {
-		"languages": ["Nl"]
+	"Football Challenge (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
 	},
-	"Finding Nemo - Nemo's Ocean Discoveries (USA)": {
-		"languages": ["En"]
+	"Football Challenge (France)": {
+		"languages": ["Fr"]
 	},
 	"Football Club (Italy)": {
 		"languages": ["It"]
@@ -233,28 +850,59 @@
 	"Freds Zahlen Rallye (Germany)": {
 		"languages": ["De"]
 	},
+	"Fur immer Shrek (Germany) (Rev 1) (V.Smile Motion)": {
+		"languages": ["De"],
+		"localName": "Für immer Shrek"
+	},
+	"Fussball Meisterschaft (Germany) (V.Smile Motion)": {
+		"languages": ["De"],
+		"localName": "Fußball Meisterschaft"
+	},
 	"Fussball Schule (Germany)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localName": "Fußball Schule"
 	},
-	"Go Diego Go! - Save the Animal Families! (United Kingdom)": {
+	"Gimnasio Interactivo V.Smile (Spain) (Jammin' Gym Class Exercise Mat)": {
+		"languages": ["Es"]
+	},
+	"Go Diego ! - A la rescousse des animaux ! (France)": {
+		"languages": ["Fr"],
+		"localName": "Go Diego ! - À la rescousse des animaux !"
+	},
+	"Go Diego Go! - Save the Animal Families! (United Kingdom) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Grandes decouvertes d'Elmo, Les (France)": {
-		"languages": ["Fr"]
-	},
-	"Handy Manny (USA)": {
+	"Handy Manny (USA) (Rev 1) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Kleine Einsteins (Germany) (Rev 3)": {
-		"languages": ["De"]
+	"Handy Manny (USA) (Rev 1)": {
+		"languages": ["En"]
 	},
 	"Kleine Einsteins (Germany) (V.Smile Motion)": {
 		"languages": ["De"]
 	},
+	"Kleine Einsteins (Germany)": {
+		"languages": ["De"]
+	},
+	"Kung Fu Panda - Aventura en el Valle de la Paz (Spain)": {
+		"languages": ["Es"]
+	},
 	"Kung Fu Panda - Der Weg des Panda (Germany) (V.Smile Motion)": {
 		"languages": ["De"]
 	},
-	"Kung Fu Panda - Path of the Panda (USA, Europe)": {
+	"Kung Fu Panda - Der Weg des Panda (Germany)": {
+		"languages": ["De"]
+	},
+	"Kung Fu Panda - La mission de Po (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Kung Fu Panda - La mission de Po (France)": {
+		"languages": ["Fr"]
+	},
+	"Kung Fu Panda - Path of the Panda (USA) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Kung Fu Panda - Path of the Panda (USA, United Kingdom)": {
 		"languages": ["En"]
 	},
 	"Laer och upptaeck (Sweden) (V.Smile Baby)": {
@@ -263,28 +911,56 @@
 	"Learnin' Wheels (USA)": {
 		"languages": ["En"]
 	},
-	"Lejonkungen - Simbas stora aeventyr (Sweden)": {
-		"languages": ["Sv"]
+	"Lil' Bratz - Au Top de la Mode - Complices, Cools et Class' (France)": {
+		"languages": ["Fr"]
 	},
-	"Lil' Bratz - Friends, Fashion and Fun (USA)": {
+	"Lil' Bratz - Dressed-Up - Friends, Fashion and Fun (USA)": {
 		"languages": ["En"]
 	},
-	"Lion King, The - Simba's Big Adventure (USA)": {
+	"Lil' Bratz - Estrellas De La Moda - Amigos, Moda y Diversion (Spain)": {
+		"languages": ["Es"],
+		"localName": "Lil' Bratz - Estrellas De La Moda - Amigos, Moda y Diversión"
+	},
+	"Little Einsteins (Spain)": {
+		"languages": ["Es"]
+	},
+	"Little Einsteins (USA) (Rev 1) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Little Mermaid, The - Ariel's Majestic Journey (USA, Europe) (En-GB)": {
-		"languages": ["En-GB"]
+	"Little Einsteins (USA) (V.Smile Motion)": {
+		"languages": ["En"]
 	},
-	"Lovernes Konge - Simbas store eventyr (Denmark)": {
-		"languages": ["Da"]
+	"Little Einsteins (USA)": {
+		"languages": ["En"]
+	},
+	"Maison Des Animaux, La (France) (V.Smile Baby)": {
+		"languages": ["Fr"]
+	},
+	"Manny et ses outils (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Manny et ses outils (France)": {
+		"languages": ["Fr"]
+	},
+	"Martin le Dauphin (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
 	},
 	"Mein erster Bauernhof (Germany) (V.Smile Baby)": {
+		"languages": ["De"]
+	},
+	"Mein erster Hund (Germany) (V.Smile Motion)": {
 		"languages": ["De"]
 	},
 	"Mein erster Hund (Germany)": {
 		"languages": ["De"]
 	},
+	"Mein erster Mausklick (Germany) (Smart Keyboard)": {
+		"languages": ["De"]
+	},
 	"Meine kleinen Tierfreunde (Germany) (V.Smile Baby)": {
+		"languages": ["De"]
+	},
+	"Meister Manny's Werkzeugkiste (Germany) (Rev 1) (V.Smile Motion)": {
 		"languages": ["De"]
 	},
 	"Meister Manny's Werkzeugkiste (Germany)": {
@@ -293,23 +969,23 @@
 	"Melodilous, Les - Les explorateurs vikings (France)": {
 		"languages": ["Fr"]
 	},
-	"Mickey Mouse - Mickey's Magical Adventure (United Kingdom)": {
-		"languages": ["En"]
+	"Mes premiers clics (France) (Smart Keyboard)": {
+		"languages": ["Fr"]
 	},
-	"Mickey Mouse Clubhouse (Netherlands) (Rev 3)": {
+	"Mijn Puppy! (Netherlands) (V.Smile Motion)": {
 		"languages": ["Nl"]
-	},
-	"Mickey Mouse Clubhouse (Sweden)": {
-		"languages": ["Sv"]
-	},
-	"Micky - Mickys magisches Abenteuer (Germany)": {
-		"languages": ["De"]
-	},
-	"Micky Maus Wunderhaus (Germany)": {
-		"languages": ["De"]
 	},
 	"Min hundvalp (Sweden)": {
 		"languages": ["Sv"]
+	},
+	"Mission Pilote (France)": {
+		"languages": ["Fr"]
+	},
+	"Mon Toutou tout fou ! (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
+	},
+	"Monsters vs. Aliens (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
 	},
 	"Monsters vs. Aliens (Germany)": {
 		"languages": ["De"]
@@ -317,83 +993,114 @@
 	"Monsters vs. Aliens (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Musse Pigg - Musses magiska aeventyr (Sweden)": {
-		"languages": ["Sv"]
+	"Monstres contre Aliens (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
 	},
-	"My Friends Tigger & Pooh - Die Honigjagd (Germany)": {
-		"languages": ["De"]
+	"Monstres contre Aliens (France)": {
+		"languages": ["Fr"]
 	},
-	"Nalle Puh - Honungsjakten (Sweden)": {
-		"languages": ["Sv"]
+	"Monstruos contra Alienigenas (Spain) (V.Smile Motion)": {
+		"languages": ["Es"],
+		"localName": "Monstruos contra Alienígenas"
 	},
-	"Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby)": {
-		"languages": ["Sv"]
+	"Monstruos contra Alienigenas (Spain)": {
+		"languages": ["Es"],
+		"localName": "Monstruos contra Alienígenas"
+	},
+	"Mother Goose (USA) (V.Smile Baby)": {
+		"languages": ["En"]
 	},
 	"NASCAR Academy - Race Car Superstar (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Noddy - Detective for a Day (Europe)": {
-		"languages": ["En-GB"]
+	"Ni Hao Kai Lan - Happy Chinese New Year! (USA) (V.Smile Motion)": {
+		"languages": ["En"]
 	},
-	"Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)": {
-		"languages": ["De"]
+	"Ni Hao Kai Lan - Joyeux nouvel an chinois ! (France) (V.Smile Motion)": {
+		"languages": ["Fr"]
 	},
-	"Oben (Germany)": {
-		"languages": ["De"]
+	"Noah's Ark - Animal Adventures (USA) (V.Smile Baby)": {
+		"languages": ["En"]
+	},
+	"Noddy - Detective for a Day (United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Noddy - Detective for a Day (USA)": {
+		"languages": ["En"]
+	},
+	"Noddy - Detective Por um Dia (Portugal)": {
+		"languages": ["Pt"]
+	},
+	"Noddy - Detektiv fuer einen Tag (Germany)": {
+		"languages": ["De"],
+		"localName": "Noddy - Detektiv für einen Tag"
 	},
 	"Osos Amorosos - Una Leccion de Amor (Spain)": {
 		"languages": ["Es"]
 	},
+	"Oui-Oui - Detective d'un jour (France) (Rev 1)": {
+		"languages": ["Fr"],
+		"localName": "Oui-Oui - Détective d'un jour"
+	},
+	"Oui-Oui - Detective d'un jour (France) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "Oui-Oui - Détective d'un jour"
+	},
 	"Oui-Oui - Detective d'un jour (France)": {
+		"languages": ["Fr"],
+		"localName": "Oui-Oui - Détective d'un jour"
+	},
+	"Petits Einsteins, Les - Le bal du soulier de verre (France)": {
 		"languages": ["Fr"]
 	},
-	"Partyland Park - A Carnival of Play-and-Learn Fun (USA)": {
+	"Princess and the Frog, The - Tiana's Big Dream (United Kingdom) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Peter Plys - Honningjagten (Denmark)": {
-		"languages": ["Da"]
-	},
-	"Petite Sirene, La - Ariel devient une princesse (France)": {
-		"languages": ["Fr"]
-	},
-	"Pooh's Hundred Acre Wood Adventure (USA) (V.Smile Baby)": {
+	"Princess and the Frog, The - Tiana's Big Dream (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Puuhs Hundert-Morgen-Wald (Germany) (V.Smile Baby)": {
-		"languages": ["De"]
+	"Princesse Et La Grenouille, La - Le grand reve de Tiana (France) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "La Princesse Et La Grenouille - Le grand rêve de Tiana"
 	},
-	"Ratatouille - Le nuove Ricette di Remy (Italy)": {
-		"languages": ["It"]
+	"Scooby-Doo - Panique a Funland (France) (Rev 1)": {
+		"languages": ["Fr"],
+		"localName": "Scooby-Doo - Panique à Funland"
 	},
-	"Ratatouille - Remy's New Recipes (USA)": {
-		"languages": ["En"]
-	},
-	"Ratatouille - Remys neue Rezepte (Germany)": {
-		"languages": ["De"]
-	},
-	"Re Leone, Il - La Grande Avventura di Simba (Italy)": {
-		"languages": ["It"]
-	},
-	"Roi Lion, Le - Simba decouvre la jungle (France)": {
-		"languages": ["Fr"]
+	"Scooby-Doo - Panique a Funland (France) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "Scooby-Doo - Panique à Funland"
 	},
 	"Scooby-Doo - Panique a Funland (France)": {
-		"languages": ["Fr"]
+		"languages": ["Fr"],
+		"localName": "Scooby-Doo - Panique à Funland"
+	},
+	"Scooby-Doo! - A Night of Fright is no Delight (USA) (Rev 1) (Smartbook)": {
+		"languages": ["En"]
 	},
 	"Scooby-Doo! - Avventura a Funland (Italy)": {
 		"languages": ["It"]
 	},
-	"Scooby-Doo! - Funland Frenzy (Europe) (Rev 1)": {
-		"languages": ["En-GB"]
+	"Scooby-Doo! - Funland Frenzy (United Kingdom) (Rev 2)": {
+		"languages": ["En"]
+	},
+	"Scooby-Doo! - Funland Frenzy (USA) (Rev 1) (V.Smile Motion)": {
+		"languages": ["En"]
 	},
 	"Scooby-Doo! - Funland Frenzy (USA) (Rev 3)": {
 		"languages": ["En"]
 	},
-	"Scooby-Doo! - Funland Frenzy (USA)": {
+	"Scooby-Doo! - Funland Frenzy (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1)": {
+	"Scooby-Doo! - Funland Frenzy (USA, United Kingdom) (Rev 1)": {
 		"languages": ["En"]
+	},
+	"Scooby-Doo! - Funland Frenzy (USA, United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Scooby-Doo! - Griezelen in het Pretpark (Netherlands)": {
+		"languages": ["Nl"]
 	},
 	"Scooby-Doo! - Im Lernpark (Germany)": {
 		"languages": ["De"]
@@ -404,20 +1111,47 @@
 	"Scooby-Doo! - Tivoli-tokerier (Sweden)": {
 		"languages": ["Sv"]
 	},
+	"Scooby-Doo!! - Misterio en el parque (Spain) (Rev 1)": {
+		"languages": ["Es"],
+		"localName": "¡¡Scooby-Doo!! - Misterio en el parque"
+	},
+	"Scooby-Doo!! - Misterio en el parque (Spain) (V.Smile Motion)": {
+		"languages": ["Es"],
+		"localName": "¡¡Scooby-Doo!! - Misterio en el parque"
+	},
+	"Scooby-Doo!! - Misterio en el parque (Spain)": {
+		"languages": ["Es"],
+		"localName": "¡¡Scooby-Doo!! - Misterio en el parque"
+	},
 	"Sesame Street - Bert & Ernie's Imagination Adventure (USA)": {
 		"languages": ["En"]
 	},
 	"Sesame Street - Elmo's World - Elmo's Big Discoveries (USA)": {
 		"languages": ["En"]
 	},
+	"Sesamstrasse - Elmos Welt - Elmos grosses Abenteuer (Germany)": {
+		"languages": ["De"],
+		"localName": "Sesamstraße - Elmos Welt - Elmos großes Abenteuer"
+	},
+	"Sesamstrasse - Ernies & Berts Fantastisches Abenteuer (Germany)": {
+		"languages": ["De"],
+		"localName": "Sesamstraße - Ernies & Berts Fantastisches Abenteuer"
+	},
+	"Shrek 4 - Il etait une fin (France) (Rev 1) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "Shrek 4 - Il était une fin"
+	},
 	"Shrek - Die Geschichte des Drachen (Germany)": {
 		"languages": ["De"]
 	},
-	"Shrek - Dragon's Tale (USA) (Alt)": {
+	"Shrek - Dragon's Tale (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Shrek - Dragon's Tale (USA)": {
+	"Shrek - Dragon's Tale (USA) (Rev 2)": {
 		"languages": ["En"]
+	},
+	"Shrek - El Cuento de la Dragona (Spain)": {
+		"languages": ["Es"]
 	},
 	"Shrek - Het verhaal van draakje (Netherlands)": {
 		"languages": ["Nl"]
@@ -428,20 +1162,40 @@
 	"Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)": {
 		"languages": ["Nl"]
 	},
+	"Shrek der Dritte - Ein Spannender Schultag (Germany) (Rev 1)": {
+		"languages": ["De"]
+	},
 	"Shrek Forever After (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Shrek the Third - Arthur's School Day Adventure (Europe)": {
+	"Shrek Le Troisieme - L'aventure d'Arthur (France) (Rev 1)": {
+		"languages": ["Fr"],
+		"localName": "Shrek Le Troisième - L'aventure d'Arthur"
+	},
+	"Shrek Le Troisieme - L'aventure d'Arthur (France)": {
+		"languages": ["Fr"],
+		"localName": "Shrek Le Troisième - L'aventure d'Arthur"
+	},
+	"Shrek the Third - Arthur's School Day Adventure (United Kingdom) (Rev 2)": {
 		"languages": ["En-GB"]
+	},
+	"Shrek the Third - Arthur's School Day Adventure (USA) (Rev 2)": {
+		"languages": ["En"]
 	},
 	"Shrek the Third - Arthur's School Day Adventure (USA)": {
 		"languages": ["En"]
 	},
-	"Sirenetta, La - Ariel e la Crociera Magica (Italy)": {
-		"languages": ["It"]
+	"Snow Park Challenge (USA) (V.Smile Motion)": {
+		"languages": ["En"]
 	},
-	"Sirenita, La - El Viaje Fantastico de Ariel (Spain)": {
-		"languages": ["Es"]
+	"Soccer Challenge (USA) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Spider-Man & Freunde - Geheime Missionen (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
+	"Spider-Man & Freunde - Geheime Missionen (Germany)": {
+		"languages": ["De"]
 	},
 	"Spider-Man & Freunde - Wettkampf im Space-Labor (Germany)": {
 		"languages": ["De"]
@@ -458,19 +1212,59 @@
 	"Spider-Man & Friends - Secret Missions (United Kingdom)": {
 		"languages": ["En"]
 	},
-	"Spider-Man & ses amis - Le Defi du Docteur Ock (France)": {
-		"languages": ["Fr-FR"]
+	"Spider-Man & Friends - Secret Missions (USA) (Rev 1)": {
+		"languages": ["En"]
 	},
-	"Spider-Man & ses amis - Missions secretes (France)": {
+	"Spider-Man & Friends - Secret Missions (USA) (V.Smile Motion)": {
+		"languages": ["En"]
+	},
+	"Spider-Man & ses amis - Le Defi du Docteur Ock (France)": {
 		"languages": ["Fr"]
 	},
-	"Spongebob - Un giorno da Spugna (Italy)": {
+	"Spider-Man & ses amis - Missions secretes (France) (2004)": {
+		"languages": ["Fr"]
+	},
+	"Spider-Man & ses amis - Missions secretes (France) (2005)": {
+		"languages": ["Fr"]
+	},
+	"Spider-Man & ses amis - Missions secretes (France) (2007)": {
+		"languages": ["Fr"]
+	},
+	"Spider-Man & ses amis - Missions secretes (France) (2009)": {
+		"languages": ["Fr"]
+	},
+	"Spider-Man & ses amis - Missions Secretes (France) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "Spider-Man & ses amis - Missions Secrètes"
+	},
+	"Spider-Man and Friends - Where is Hulk (USA) (Smartbook)": {
+		"languages": ["En"]
+	},
+	"Spider-Man en Vrienden - Geheime Missies (Netherlands) (2005)": {
+		"languages": ["Nl"]
+	},
+	"Spider-Man en Vrienden - Geheime Missies (Netherlands) (2008)": {
+		"languages": ["Nl"]
+	},
+	"Spider-Man y Amigos - La Aventura Del Doctor Octopus (Spain)": {
+		"languages": ["Es"]
+	},
+	"Spider-Man y Amigos - Misiones Secretas (Spain) (2005)": {
+		"languages": ["Es"]
+	},
+	"Spider-Man y Amigos - Misiones Secretas (Spain) (2008)": {
+		"languages": ["Es"]
+	},
+	"SpongeBob - Un giorno da Spugna (Italy)": {
 		"languages": ["It"]
 	},
-	"Spongebob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)": {
+	"SpongeBob Schwammkopf - Der Tag des Schwamms (Germany) (Rev 1)": {
 		"languages": ["De"]
 	},
-	"Spongebob Schwammkopf - Der Tag des Schwamms (Germany)": {
+	"SpongeBob Schwammkopf - Der Tag des Schwamms (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
+	"SpongeBob Schwammkopf - Der Tag des Schwamms (Germany)": {
 		"languages": ["De"]
 	},
 	"SpongeBob SquarePants - A Day in the Life of a Sponge (USA) (Rev 1)": {
@@ -479,23 +1273,59 @@
 	"Spongebob Squarepants - A Day in the Life of a Sponge (USA)": {
 		"languages": ["En"]
 	},
+	"SpongeBob SquarePants - Een Dag uit het Leven van een Spons (Netherlands)": {
+		"languages": ["Nl"]
+	},
+	"Sport Games (Netherlands) (V.Smile Motion)": {
+		"languages": ["Nl"]
+	},
+	"Sporti'Folies (France) (V.Smile Motion)": {
+		"languages": ["Fr"],
+		"localName": "SPORTI'FOLIES"
+	},
+	"Sportskanone (Germany) (V.Smile Motion)": {
+		"languages": ["De"]
+	},
 	"Super WHY! - The Beach Day Mystery (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
 	"Superman - A la rescousse ! (France)": {
-		"languages": ["Fr"]
+		"languages": ["Fr"],
+		"localName": "Superman - À la rescousse !"
+	},
+	"Superman - De Grootste Held (Netherlands)": {
+		"languages": ["Nl"]
 	},
 	"Superman - Der Superheld (Germany)": {
 		"languages": ["De"]
 	},
+	"Superman - El Hombre de Acero (Spain)": {
+		"languages": ["Es"]
+	},
 	"Superman - The Greatest Hero (USA)": {
 		"languages": ["En"]
 	},
-	"Thomas & Friends - Engines Working Together (Europe) (Rev 1)": {
-		"languages": ["En-GB"]
+	"Teclado Interactivo V.Smile (Spain) (Smart Keyboard)": {
+		"languages": ["Es"]
 	},
-	"Thomas & Friends - Engines Working Together (Europe)": {
-		"languages": ["En-GB"]
+	"Teletubbies - C'est l'heure des Teletubbies (France) (V.Smile Baby)": {
+		"languages": ["Fr"]
+	},
+	"Teletubbies - Es la hora de los Teletubbies! (Spain) (V.Smile Baby)": {
+		"languages": ["Es"],
+		"localName": "Teletubbies - ¡Es la hora de los Teletubbies!"
+	},
+	"Teletubbies - Time for Teletubbies (USA) (V.Smile Baby)": {
+		"languages": ["En"]
+	},
+	"Thomas & Friends - Engines Working Together (United Kingdom) (Rev 1)": {
+		"languages": ["En"]
+	},
+	"Thomas & Friends - Engines Working Together (United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Thomas & Friends - Engines Working Together (USA) (Alt)": {
+		"languages": ["En-US"]
 	},
 	"Thomas & Friends - Engines Working Together (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -509,104 +1339,126 @@
 	"Thomas & Friends - Tagen hjaelps at (Sweden)": {
 		"languages": ["Sv"]
 	},
+	"Thomas & seine Freunde - Freunde halten zusammen (Germany) (Alt)": {
+		"languages": ["De"]
+	},
+	"Thomas & seine Freunde - Freunde halten zusammen (Germany) (Rev 1) (Alt)": {
+		"languages": ["De"]
+	},
 	"Thomas & seine Freunde - Freunde halten zusammen (Germany) (Rev 1)": {
+		"languages": ["De"]
+	},
+	"Thomas & seine Freunde - Freunde halten zusammen (Germany) (V.Smile Motion)": {
 		"languages": ["De"]
 	},
 	"Thomas & seine Freunde - Freunde halten zusammen (Germany)": {
 		"languages": ["De"]
 	},
-	"Thomas et ses amis - Les locomotives s'entraident (France)": {
+	"Thomas et ses amis - Les locomotives s'entraident (France) (Rev 1)": {
 		"languages": ["Fr"]
 	},
-	"Tingeling (Sweden)": {
-		"languages": ["Sv"]
-	},
-	"TinkerBell (Germany) (V.Smile Motion)": {
-		"languages": ["De"]
-	},
-	"Topolino - Le Magiche Avventure di Topolino (Italy)": {
-		"languages": ["It"]
-	},
-	"Toy Story 2 - Operation - Raedda Woody! (Sweden)": {
-		"languages": ["Sv"]
-	},
-	"Toy Story 2 - Operation - Rescue Woody! (Europe)": {
-		"languages": ["En-GB"]
-	},
-	"Toy Story 2 - Operazione - Salvataggio di Woody (Italy)": {
-		"languages": ["It"]
-	},
-	"Toy Story 2 - Woodys spannende Rettung (Germany)": {
-		"languages": ["De"]
-	},
-	"Toy Story 3 (Italy) [b]": {
-		"languages": ["It"]
-	},
-	"Toy Story 3 (USA) (V.Smile Motion)": {
-		"languages": ["En"]
+	"Thomas et ses amis - Les locomotives s'entraident (France)": {
+		"languages": ["Fr"]
 	},
 	"Un Dia en la Granja (Spain) (V.Smile Baby)": {
 		"languages": ["Es"]
 	},
-	"Up (Europe)": {
+	"Un jour a la ferme (France) (V.Smile Baby)": {
+		"languages": ["Fr"],
+		"localName": "Un jour à la ferme"
+	},
+	"V.Smile - Art Studio (USA) (V.Smile Art Studio)": {
 		"languages": ["En"]
 	},
-	"Up (USA)": {
-		"languages": ["En"]
+	"V.Smile - Clavier Tip Tap (France) (Smart Keyboard)": {
+		"languages": ["Fr"]
 	},
-	"V.Smile - Art Studio (USA) [b]": {
+	"V.Smile - Defi Gym (France) (Jammin' Gym Class Exercise Mat)": {
+		"languages": ["Fr"],
+		"localName": "V.Smile - Défi Gym"
+	},
+	"V.Smile - Estudio De Arte (Spain) (V.Smile Art Studio)": {
+		"languages": ["Es"]
+	},
+	"V.Smile - Jammin' Gym Class (USA) (Jammin' Gym Class Exercise Mat)": {
 		"languages": ["En"]
 	},
 	"V.Smile - Lern- und Tanzmatte (Germany)": {
 		"languages": ["De"]
 	},
-	"V.Smile - Tecknarstudio (Sweden)": {
+	"V.Smile - PC (Spain) (Smart Keyboard)": {
+		"languages": ["Es"]
+	},
+	"V.Smile - PC Pal Island (USA) (Smart Keyboard)": {
+		"languages": ["En"]
+	},
+	"V.Smile - Schreibspass (Germany) (Smart Keyboard)": {
+		"languages": ["De"],
+		"localName": "V.Smile - Schreibspaß"
+	},
+	"V.Smile - Smart Keyboard (USA) (Smart Keyboard)": {
+		"languages": ["En"]
+	},
+	"V.Smile - Soccer Challenge (USA) (Rev 2)": {
+		"languages": ["En"]
+	},
+	"V.Smile - Studio de dessin (France) (V.Smile Art Studio)": {
+		"languages": ["Fr"]
+	},
+	"V.Smile - Tecknarstudio (Sweden) (V.Smile Art Studio)": {
 		"languages": ["Sv"]
 	},
-	"V.Smile - Zeichenatelier (Germany)": {
+	"V.Smile - Zeichenatelier (Germany) (V.Smile Art Studio)": {
 		"languages": ["De"]
-	},
-	"Wall-E (Germany)": {
-		"languages": ["De"]
-	},
-	"Wall-E (Italy)": {
-		"languages": ["It"]
-	},
-	"Wall-E (Sweden)": {
-		"languages": ["Sv"]
 	},
 	"Wiggles, The - It's Wiggle Time! (USA)": {
 		"languages": ["En"]
 	},
-	"Winnie l'Ourson - La Chasse au miel de Winnie (France) (Rev 2)": {
-		"languages": ["Fr"]
+	"Wild Waves (USA) (V.Smile Motion)": {
+		"languages": ["En"]
 	},
-	"Winnie l'Ourson - La Chasse au miel de Winnie (France)": {
-		"languages": ["Fr"]
+	"Winnie the Pooh - En busca de la miel (Spain) (V.Smile Motion)": {
+		"languages": ["Es"]
 	},
-	"Winnie Puuh - Die Honigjagd (Germany) (V.Smile Motion)": {
+	"Winnie the Pooh - En busca de la miel (Spain)": {
+		"languages": ["Es"]
+	},
+	"Wintersport (Germany) (V.Smile Motion)": {
 		"languages": ["De"]
 	},
-	"Winnie Puuh - Die Honigjagd (Germany)": {
-		"languages": ["De"]
-	},
-	"Winnie the Pooh - The Honey Hunt (United Kingdom)": {
+	"Wonder Pets! - Save the Animals! (United Kingdom) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Winnie the Pooh e la caccia al miele (Italy)": {
-		"languages": ["It"]
-	},
-	"Zayzoo - An Earth Adventure (USA)": {
+	"Wonder Pets! - Save the Animals! (USA) (V.Smile Motion)": {
 		"languages": ["En"]
 	},
-	"Zayzoo - An Earth Adventure (USA, Europe)": {
+	"Wow! Wow! Wubbzy! - Attack of the 50-foot Fleegle (World)": {
 		"languages": ["En"]
 	},
-	"Zayzoo My Alien Classmate (United Kingdom)": {
+	"Yingyu Yundongyuan (China) (V.Smile Motion)": {
+		"languages": ["Zh"],
+		"localName": "英语运动园"
+	},
+	"Zayzoo - An Earth Adventure (USA) (Rev 3)": {
+		"languages": ["En"]
+	},
+	"Zayzoo - An Earth Adventure (USA, United Kingdom) (Rev 4)": {
+		"languages": ["En"]
+	},
+	"Zayzoo - Mi Amiga del Espacio (Spain)": {
+		"languages": ["Es"]
+	},
+	"Zayzoo - My Alien Classmate (United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Zayzoo - My Alien Classmate (USA)": {
 		"languages": ["En"]
 	},
 	"Zayzoos Lernall (Germany)": {
 		"languages": ["De"]
+	},
+	"Zezou - Notre ami venu d'ailleurs (France) (Rev 1)": {
+		"languages": ["Fr"]
 	},
 	"Zezou - Notre ami venu d'ailleurs (France)": {
 		"languages": ["Fr"]

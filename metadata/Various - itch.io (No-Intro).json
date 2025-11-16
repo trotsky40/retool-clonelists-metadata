@@ -487,6 +487,21 @@
 	"ALL-STARS DUNGEONS AND DIAMONDS (Unknown)": {
 		"languages": ["En"]
 	},
+	"Alone in the Dark Remastered (World) (En) (Mac)": {
+		"languages": ["En"]
+	},
+	"Alone in the Dark Remastered (World) (En) (Windows)": {
+		"languages": ["En"]
+	},
+	"Alone in the Dark Remastered (World) (Fr) (Linux)": {
+		"languages": ["Fr"]
+	},
+	"Alone in the Dark Remastered (World) (Fr) (Mac)": {
+		"languages": ["Fr"]
+	},
+	"Alone in the Dark Remastered (World) (Fr) (Windows)": {
+		"languages": ["Fr"]
+	},
 	"Alone in the Grey (Unknown)": {
 		"languages": ["En"]
 	},
@@ -839,6 +854,9 @@
 	"At Least There Is Ceda Cedovic (Unknown) (v1.1.1) (Windows)": {
 		"languages": ["nolang"]
 	},
+	"Atlyss (World) (v3.4.8a) (Singleplayer Demo)": {
+		"languages": ["En"]
+	},
 	"Attentat 1942 (Unknown) (Linux)": {
 		"languages": ["En"]
 	},
@@ -903,6 +921,12 @@
 		"languages": ["En"]
 	},
 	"Awesome Mix Tape (Unknown)": {
+		"languages": ["En"]
+	},
+	"AWOL (Unknown) (Linux)": {
+		"languages": ["En"]
+	},
+	"AWOL (Unknown) (Windows)": {
 		"languages": ["En"]
 	},
 	"Aye Aye Captain (Unknown)": {
@@ -1290,6 +1314,27 @@
 		"languages": ["En"]
 	},
 	"BLOOD VOID MASS (Unknown)": {
+		"languages": ["En"]
+	},
+	"Bloodborne PSX (Unknown) (v0.01)": {
+		"languages": ["En"]
+	},
+	"Bloodborne PSX (Unknown) (v1.01)": {
+		"languages": ["En"]
+	},
+	"Bloodborne PSX (Unknown) (v1.02)": {
+		"languages": ["En"]
+	},
+	"Bloodborne PSX (Unknown) (v1.03)": {
+		"languages": ["En"]
+	},
+	"Bloodborne PSX (Unknown) (v1.04)": {
+		"languages": ["En"]
+	},
+	"Bloodborne PSX (Unknown) (v1.05)": {
+		"languages": ["En"]
+	},
+	"Bloodborne PSX (Unknown)": {
 		"languages": ["En"]
 	},
 	"Bloodborne PSX (World) (v0.01) (Proto) (Windows)": {
@@ -2678,6 +2723,9 @@
 	"Dawn of a Soul (Unknown) (v1.0.6) (Windows) (64-bit)": {
 		"languages": ["En"]
 	},
+	"Day Out (Unknown)": {
+		"languages": ["En"]
+	},
 	"Dayscream (Unknown) (v8) (Linux) (64-bit)": {
 		"languages": ["En"]
 	},
@@ -3040,6 +3088,9 @@
 		"languages": ["En"]
 	},
 	"Deviant Anomalies (Unknown)": {
+		"languages": ["En"]
+	},
+	"Dino Crisis Rebirth (Unknown)": {
 		"languages": ["En"]
 	},
 	"Dino Island - The Four Crystals (Unknown) (Windows) (32-bit)": {
@@ -4771,6 +4822,9 @@
 	"Hack Grid (Unknown) (v1.3.5) (Windows)": {
 		"languages": ["En"]
 	},
+	"hack.88 (Unknown)": {
+		"languages": ["En"]
+	},
 	"Hacknet (No Swearing) (Unknown)": {
 		"languages": ["En"]
 	},
@@ -6004,6 +6058,9 @@
 	"Kero-Go (Unknown)": {
 		"languages": ["En"]
 	},
+	"Kevin Costner's Waterworld (Unknown)": {
+		"languages": ["En"]
+	},
 	"Khronos-X (Unknown) (Source Code)": {
 		"languages": ["En"]
 	},
@@ -6665,6 +6722,15 @@
 	"Lovely Anemone (World) (Windows)": {
 		"languages": ["En"]
 	},
+	"LSD - Revamped (World) (v0.3.0) (Linux)": {
+		"languages": ["En"]
+	},
+	"LSD - Revamped (World) (v0.3.0) (Mac)": {
+		"languages": ["En"]
+	},
+	"LSD - Revamped (World) (v0.3.0) (Windows)": {
+		"languages": ["En"]
+	},
 	"Lucid - Parables of the Ubermensch (Unknown) (v1.1.1.2) (Windows) (exe)": {
 		"languages": ["En"]
 	},
@@ -6974,6 +7040,12 @@
 	"MENOS - PSI-SHATTER (Unknown)": {
 		"languages": ["En"]
 	},
+	"Mercurial Dreams (World) (v1.09) (LSD Jam 2023) (Linux)": {
+		"languages": ["En"]
+	},
+	"Mercurial Dreams (World) (v1.09) (LSD Jam 2023) (Windows)": {
+		"languages": ["En"]
+	},
 	"Mermaid Splash (World) (Mac)": {
 		"languages": ["En"]
 	},
@@ -7265,6 +7337,12 @@
 	"Mobile Suit Baba - Soundtrack (World) (OST)": {
 		"languages": ["nolang"]
 	},
+	"Modern Modern Chef (World) (v1.1) (Mac)": {
+		"languages": ["En"]
+	},
+	"Modern Modern Chef (World) (v1.1) (Windows)": {
+		"languages": ["En"]
+	},
 	"monad (Unknown) (Mac)": {
 		"languages": ["En"]
 	},
@@ -7281,6 +7359,9 @@
 		"languages": ["En"]
 	},
 	"Monospaced Lovers (Unknown)": {
+		"languages": ["En"]
+	},
+	"MonstaFish (Unknown)": {
 		"languages": ["En"]
 	},
 	"Monster Girl Farmer (Unknown)": {
@@ -7755,6 +7836,21 @@
 		"languages": ["En"]
 	},
 	"Night Fisherman, The (Unknown) (Windows)": {
+		"languages": ["En"]
+	},
+	"Nightmare Kart (World) (v1.00.1) (Windows)": {
+		"languages": ["En"]
+	},
+	"Nightmare Kart (World) (v1.00.21) (Windows)": {
+		"languages": ["En"]
+	},
+	"Nightmare Kart (World) (v1.03.1) (Windows)": {
+		"languages": ["En"]
+	},
+	"Nightmare Kart (World) (v1.11) (Windows)": {
+		"languages": ["En"]
+	},
+	"Nightmare Kart (World) (Windows)": {
 		"languages": ["En"]
 	},
 	"NIGHTMARE'S TRIP, A (Unknown) (v1.1.4) (Hotfix)": {
@@ -8504,6 +8600,9 @@
 	"Pigeon Ascent (Unknown) (Windows)": {
 		"languages": ["En"]
 	},
+	"Pika Game 64 (World) (v1.0.1) (Windows)": {
+		"languages": ["En"]
+	},
 	"Pikuniku (Unknown) (Linux)": {
 		"languages": ["En"]
 	},
@@ -8612,6 +8711,9 @@
 	"Pixross (Unknown) (v1.4.1) (Windows)": {
 		"languages": ["En"]
 	},
+	"Pizza Tower (Unknown) (Demo)": {
+		"languages": ["En"]
+	},
 	"Plain (World) (Linux)": {
 		"languages": ["En"]
 	},
@@ -8670,6 +8772,12 @@
 		"languages": ["En"]
 	},
 	"Pleroma (Unknown)": {
+		"languages": ["En"]
+	},
+	"Plinkett v. Milwaukee (Unknown)": {
+		"languages": ["En"]
+	},
+	"Plinkett's Little Adventure (Unknown)": {
 		"languages": ["En"]
 	},
 	"Plunge (Unknown) (v1.1.2) (Mac)": {
@@ -11260,6 +11368,24 @@
 	"SuperLuminauts (Unknown)": {
 		"languages": ["En"]
 	},
+	"SuperVHS (earlier) (Unknown) (Mac)": {
+		"languages": ["En"]
+	},
+	"SuperVHS (earlier) (Unknown) (Windows)": {
+		"languages": ["En"]
+	},
+	"SuperVHS (Unknown) (Linux)": {
+		"languages": ["En"]
+	},
+	"SuperVHS (Unknown) (Mac)": {
+		"languages": ["En"]
+	},
+	"SuperVHS (Unknown) (VR)": {
+		"languages": ["En"]
+	},
+	"SuperVHS (Unknown) (Windows)": {
+		"languages": ["En"]
+	},
 	"SuperWarm (Unknown) (Android)": {
 		"languages": ["En"]
 	},
@@ -12430,6 +12556,12 @@
 	"TRAINBOW (Unknown) (Windows)": {
 		"languages": ["En"]
 	},
+	"Transportal (World) (v0.2.8) (Windows)": {
+		"languages": ["En"]
+	},
+	"Transportal (World) (v0.3.4) (Windows)": {
+		"languages": ["En"]
+	},
 	"Traveler (Unknown)": {
 		"languages": ["En"]
 	},
@@ -12799,10 +12931,22 @@
 	"VIRTUES (Unknown)": {
 		"languages": ["En"]
 	},
+	"VNyan (World) (Example Plugin)": {
+		"languages": ["En"]
+	},
+	"VNyan (World) (v0.0.18) (SDK)": {
+		"languages": ["En"]
+	},
+	"VNyan (World) (v1.4.0) (Windows)": {
+		"languages": ["En"]
+	},
 	"Voices of the Void (World) (v0.6.3b) (Pre-Alpha) (Windows)": {
 		"languages": ["En"]
 	},
 	"Voices of the Void (World) (v0.7.0b3) (Pre-Alpha) (Windows)": {
+		"languages": ["En"]
+	},
+	"Voices of the Void (World) (v0.8.0e) (Pre-Alpha) (Windows)": {
 		"languages": ["En"]
 	},
 	"VOID (Unknown) (Windows)": {
@@ -13144,6 +13288,9 @@
 	"Who Killed My Father Academy (Unknown) (Windows)": {
 		"languages": ["En"]
 	},
+	"Whomp! Ronnie's Bubbles (Unknown)": {
+		"languages": ["En"]
+	},
 	"Why Do You Do This To Me (Android) (Unknown)": {
 		"languages": ["En"]
 	},
@@ -13461,6 +13608,12 @@
 	},
 	"Zelda II - The Adventure of Link Enhanced (World) (2023-11-22) (ZIP)": {
 		"languages": ["nolang"]
+	},
+	"Zelda's Adventure (World) (v1.3.0) (Analogue Pocket)": {
+		"languages": ["En"]
+	},
+	"Zelda's Adventure (World) (v1.3.0) (Game Boy)": {
+		"languages": ["En"]
 	},
 	"Zero Hour (Unknown)": {
 		"languages": ["En"]

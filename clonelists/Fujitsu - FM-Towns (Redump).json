@@ -1,11 +1,17 @@
 {
 	"description": {
 		"name": "Fujitsu - FM-Towns (Redump)",
-		"lastUpdated": "10 February 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
+		{
+			"group": "Euphony II",
+			"titles": [
+				{"searchTerm": "Euphony II & Score"},
+				{"searchTerm": "Euphony II & MTR", "priority": 2}
+			]
+		},
 		{
 			"group": "FM Series Software Taikenban CD-ROM",
 			"categories": ["Applications", "Demos"],

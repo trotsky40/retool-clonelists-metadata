@@ -2,11 +2,12 @@
 	"5 in One FunPak (USA)": {
 		"languages": ["En"]
 	},
-	"[BIOS] Sega Game Gear (USA) (Majesco)": {
+	"[BIOS] Sega Game Gear (USA)": {
 		"languages": ["En"]
 	},
 	"Aa Harimanada (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ああ播磨灘"
 	},
 	"Addams Family, The (World)": {
 		"languages": ["En"]
@@ -44,8 +45,9 @@
 	"Aerial Assault (World)": {
 		"languages": ["En"]
 	},
-	"Aladdin (Japan)": {
-		"languages": ["Ja"]
+	"Aladdin (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "アラジン"
 	},
 	"Aladdin (USA, Europe, Brazil) (En) (Beta) (1993-12-28)": {
 		"languages": ["En"]
@@ -59,8 +61,9 @@
 	"Aladdin (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Alien 3 (Japan)": {
-		"languages": ["Ja"]
+	"Alien 3 (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "エイリアン３"
 	},
 	"Alien 3 (USA, Europe)": {
 		"languages": ["En"]
@@ -68,8 +71,9 @@
 	"Alien Syndrome (Europe)": {
 		"languages": ["En"]
 	},
-	"Alien Syndrome (Japan)": {
-		"languages": ["Ja"]
+	"Alien Syndrome (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "エイリアンシンドローム"
 	},
 	"Andre Agassi Tennis (USA) (Beta)": {
 		"languages": ["En"]
@@ -93,7 +97,8 @@
 		"languages": ["En"]
 	},
 	"Arliel - Crystal Densetsu (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "アーリエル　クリスタル伝説"
 	},
 	"Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -126,10 +131,16 @@
 		"languages": ["En"]
 	},
 	"Ax Battler - Golden Axe Densetsu (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "アックスバトラー　ゴールデンアックス伝説"
+	},
+	"Ayrton Senna's Super Monaco GP II (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "アイルトン・セナ　スーパーモナコＧＰ"
 	},
 	"Ayrton Senna's Super Monaco GP II (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "アイルトン・セナ　スーパーモナコＧＰ　Ⅱ"
 	},
 	"Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En) (Beta)": {
 		"languages": ["En"]
@@ -144,7 +155,8 @@
 		"languages": ["En"]
 	},
 	"Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ばくばくアニマル世界飼育係選手権"
 	},
 	"Barbie Super Model (USA) (Proto) (1994-08-25)": {
 		"languages": ["En"]
@@ -162,7 +174,8 @@
 		"languages": ["En"]
 	},
 	"Battletoads (Japan, Europe) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "バトルトード"
 	},
 	"Battletoads (USA)": {
 		"languages": ["En"]
@@ -228,16 +241,21 @@
 		"languages": ["En"]
 	},
 	"Berlin no Kabe (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ベルリンの壁"
 	},
 	"Bishoujo Mahjong Puzzle (Japan) (Aftermarket) (Unl)": {
 		"languages": ["Ja"],
 		"localName": "美少女麻雀パズル"
 	},
 	"Bishoujo Senshi Sailor Moon S (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "美少女戦士セーラームーンＳ"
 	},
 	"Black Castle (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Black Castle (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31)": {
@@ -308,10 +326,12 @@
 		"languages": ["En"]
 	},
 	"Buster Ball (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "バスターボール"
 	},
-	"Buster Fight (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"]
+	"Buster Fight (Japan)": {
+		"languages": ["Ja"],
+		"localName": "バスターファイト"
 	},
 	"Caesars Palace (USA)": {
 		"languages": ["En"]
@@ -320,7 +340,8 @@
 		"languages": ["En"]
 	},
 	"Car Licence (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "カーライセンス"
 	},
 	"Casino FunPak (USA)": {
 		"languages": ["En"]
@@ -448,19 +469,18 @@
 	"Clutch Hitter (USA)": {
 		"languages": ["En"]
 	},
-	"Coca-Cola Kid (Japan)": {
-		"languages": ["Ja"]
-	},
 	"Colorlines (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Columns (Japan) (En) (Rev 1)": {
-		"languages": ["En"]
+	"Columns (Japan) (En) (Rev A)": {
+		"languages": ["En"],
+		"localName": "コラムス"
 	},
 	"Columns (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "コラムス"
 	},
-	"Columns (USA, Europe, Brazil) (En) (Rev 2)": {
+	"Columns (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Cool Spot (Europe)": {
@@ -473,7 +493,8 @@
 		"languages": ["En"]
 	},
 	"Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "クレヨンしんちゃん　対決！カンタムパニック！！"
 	},
 	"Crazy Faces (Europe) (Proto)": {
 		"languages": ["En"]
@@ -514,13 +535,17 @@
 	"Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Damojie Cun - Ghouls'n Ghosto (Taiwan) (En) (Unl)": {
+		"languages": ["En"],
+		"localName": "大魔界村　－　Ｇｈｏｕｌｓ＇ｎ　Ｇｈｏｓｔｏ"
+	},
 	"Dangerous Demolition (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"David Robinson's Supreme Court (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
-	"Deep Duck Trouble Starring Donald Duck (USA, Europe)": {
+	"Deep Duck Trouble Starring Donald Duck (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Defenders of Oasis (USA, Europe) (Beta)": {
@@ -547,8 +572,9 @@
 	"Devilish (Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Devilish (Japan)": {
-		"languages": ["Ja"]
+	"Devilish (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "デビリッシュ"
 	},
 	"Devilish (USA)": {
 		"languages": ["En"]
@@ -557,22 +583,27 @@
 		"languages": ["En"]
 	},
 	"Donald Duck no 4-Tsu no Hihou (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ドナルドダックの４つの秘宝"
 	},
 	"Donald Duck no Lucky Dime (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ドナルドダックのラッキーダイム"
 	},
 	"Donald no Magical World (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"]
+		"languages": ["En", "Ja"],
+		"localName": "ドナルドのマジカルワールド"
 	},
 	"Donkey.GG (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Doraemon - Noranosuke no Yabou (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ドラえもん　ノラのすけの野望"
 	},
 	"Doraemon - Waku Waku Pocket Paradise (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ドラえもん　ワクワクポケットパラダイス"
 	},
 	"Double Dragon (USA, Europe) (Beta)": {
 		"languages": ["En"]
@@ -606,19 +637,24 @@
 		"languages": ["En"]
 	},
 	"Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ドラゴンクリスタル　―ツラニの迷宮―"
 	},
 	"Dragon Crystal - Tsurani no Meikyuu (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ドラゴンクリスタル　―ツラニの迷宮―"
 	},
-	"Dunk Kids (Japan)": {
-		"languages": ["Ja"]
+	"Dunk Kids (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ダンクキッズ"
 	},
-	"Dynamite Headdy (Japan) (Beta)": {
-		"languages": ["Ja"]
+	"Dynamite Headdy (Japan) (En) (Beta)": {
+		"languages": ["En"],
+		"localName": "ダイナマイトヘッディー"
 	},
-	"Dynamite Headdy (Japan)": {
-		"languages": ["Ja"]
+	"Dynamite Headdy (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ダイナマイトヘッディー"
 	},
 	"Dynamite Headdy (USA, Europe) (Beta) (1994-06-15)": {
 		"languages": ["En"]
@@ -641,20 +677,22 @@
 	"Ecco - The Tides of Time (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Ecco The Dolphin (Japan)": {
-		"languages": ["Ja"]
+	"Ecco the Dolphin (Japan)": {
+		"languages": ["Ja"],
+		"localName": "エコー・ザ・ドルフィン"
 	},
-	"Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 1) (1993-06-14)": {
+	"Ecco the Dolphin (USA, Europe, Brazil) (En) (Beta) (1993-06-14)": {
 		"languages": ["En"]
 	},
-	"Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 2) (July, 1993)": {
+	"Ecco the Dolphin (USA, Europe, Brazil) (En) (Beta) (1993-07-xx)": {
 		"languages": ["En"]
 	},
-	"Ecco The Dolphin (USA, Europe, Brazil) (En)": {
+	"Ecco the Dolphin (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Ecco The Dolphin II (Japan)": {
-		"languages": ["Ja"]
+	"Ecco the Dolphin II (Japan)": {
+		"languages": ["Ja"],
+		"localName": "エコー・ザ・ドルフィン２"
 	},
 	"Empire Syndicate (USA) (Beta) (1995-03-20)": {
 		"languages": ["En"]
@@ -662,8 +700,9 @@
 	"Ernie Els Golf (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Eternal Legend - Eien no Densetsu (Japan)": {
-		"languages": ["Ja"]
+	"Eternal Legend (Japan)": {
+		"languages": ["Ja"],
+		"localName": "エターナル　レジェンド"
 	},
 	"Evander Holyfield's 'Real Deal' Boxing (USA, Europe)": {
 		"languages": ["En"]
@@ -680,8 +719,9 @@
 	"F-15 Strike Eagle (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Faceball 2000 (Japan)": {
-		"languages": ["Ja"]
+	"Faceball 2000 (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "フェイスボール２０００"
 	},
 	"Factory Panic (Europe, Brazil) (En)": {
 		"languages": ["En"]
@@ -702,7 +742,8 @@
 		"languages": ["En"]
 	},
 	"FIFA International Soccer (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＦＩＦＡ　インターナショナルサッカー"
 	},
 	"FIFA International Soccer (USA, Europe)": {
 		"languages": ["En"]
@@ -713,17 +754,23 @@
 	"Fire Track (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Foreman for Real (Japan, USA) (En)": {
+	"Flying Hamburgers (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Foreman for Real (Japan, USA) (En)": {
+		"languages": ["En"],
+		"localName": "フォアマン　フォーリアル"
 	},
 	"Frank Thomas Big Hurt Baseball (USA)": {
 		"languages": ["En"]
 	},
 	"Fray - Shugyou Hen (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "フレイ　～修行編～"
 	},
 	"Fred Couples Golf (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "フレッド　カプルスズ　ゴルフ"
 	},
 	"Fred Couples Golf (USA)": {
 		"languages": ["En"]
@@ -732,13 +779,16 @@
 		"languages": ["En"]
 	},
 	"From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "テレビアニメ　スラムダンク　勝利へのスターティング５"
 	},
 	"G-LOC - Air Battle (Japan) (Rev 1)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ジーロック"
 	},
 	"G-LOC - Air Battle (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ジーロック"
 	},
 	"G-LOC - Air Battle (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
@@ -746,32 +796,39 @@
 	"Galaga 2 (Europe)": {
 		"languages": ["En"]
 	},
-	"Galaga '91 (Japan)": {
-		"languages": ["Ja"]
+	"Galaga '91 (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ギャラガ’９１"
 	},
 	"Gamble Panic (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ぎゃんぶるぱにっく"
 	},
 	"Gambler Jiko Chuushinha (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ぎゅわんぶらあ自己中心派"
 	},
 	"Gamegear Button Test (World) (v0.3.0) (Program) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Ganbare Gorby! (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "がんばれゴルビー！"
 	},
 	"Garfield - Caught in the Act (USA, Europe)": {
 		"languages": ["En"]
 	},
 	"Garou Densetsu Special (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "餓狼伝説ＳＰＥＣＩＡＬ"
 	},
 	"Gear Stadium (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ギアスタジアム"
 	},
 	"Gear Stadium Heiseiban (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ギアスタジアム　平成版"
 	},
 	"Gear Works (USA)": {
 		"languages": ["En"]
@@ -780,13 +837,16 @@
 		"languages": ["En"]
 	},
 	"GG Aleste 3 (Japan) (En) (Aleste Collection)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ＧＧアレスタ３"
 	},
 	"GG Aleste (Japan) (En) (Aleste Collection)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ＧＧアレスタ"
 	},
 	"GG Aleste (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ＧＧアレスタ"
 	},
 	"GG Aleste II (Japan) (En) (Aleste Collection)": {
 		"languages": ["En"]
@@ -809,14 +869,17 @@
 	"GG Nibbles (World) (v1.3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"GG Portrait - Pai Chen (Japan)": {
-		"languages": ["Ja"]
+	"GG Portrait - Pai Chan (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＧＧポートレート　パイ・チェン"
 	},
 	"GG Portrait - Yuuki Akira (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＧＧポートレート　ゆうきあきら"
 	},
-	"GG Shinobi, The (Japan)": {
-		"languages": ["Ja"]
+	"GG Shinobi, The (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "Ｔｈｅ　ＧＧ忍"
 	},
 	"GG Turrican (World) (v0.9) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -831,10 +894,12 @@
 		"languages": ["En"]
 	},
 	"Gojira - Kaijuu Daishingeki (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ゴジラ　怪獣大進撃"
 	},
-	"GP Rider (Japan)": {
-		"languages": ["Ja"]
+	"GP Rider (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ＧＰライダー"
 	},
 	"GP Rider (World) (Beta) (1994-01-04)": {
 		"languages": ["En"]
@@ -845,14 +910,20 @@
 	"Greendog - The Beached Surfer Dude! (USA, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Griffin (Japan)": {
-		"languages": ["Ja"]
+	"Griffin (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "グリフォン"
+	},
+	"Gun Stream - Challenge Version (Japan) (En) (Aftermarket) (Unl) [b]": {
+		"languages": ["En"]
 	},
 	"Gunstar Heroes (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ガンスターヒーローズ"
 	},
-	"Halley Wars (Japan)": {
-		"languages": ["Ja"]
+	"Halley Wars (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ハレーウォーズ"
 	},
 	"Halley Wars (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
@@ -867,16 +938,22 @@
 		"languages": ["En"]
 	},
 	"Head Buster (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ヘッドバスター"
 	},
 	"Heavy Weight Champ (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ヘビーウェイトチャンプ"
+	},
+	"Hermano (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Home Alone (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Honoo no Toukyuuji - Dodge Danpei (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "炎の闘球児ドッジ弾平"
 	},
 	"Hook (Europe)": {
 		"languages": ["En"]
@@ -888,16 +965,20 @@
 		"languages": ["En"]
 	},
 	"Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ひょっこりひょうたん島　ひょうたん島の大航海"
 	},
 	"Hyper Pro Yakyuu '92 (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ハイパー・プロ野球＇９２"
 	},
 	"In the Wake of Vampire (Japan) (En) (Virtual Console)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "イン　ザ　ウエイク　オブ　バンパイア"
 	},
 	"In the Wake of Vampire (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "イン　ザ　ウエイク　オブ　バンパイア"
 	},
 	"Incredible Crash Dummies, The (World)": {
 		"languages": ["En"]
@@ -915,10 +996,15 @@
 		"languages": ["En"]
 	},
 	"J.League GG Pro-Striker '94 (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ｊリーグ　ＧＧ　プロストライカー’９４"
 	},
 	"J.League Soccer - Dream Eleven (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ｊリーグサッカードリームイレブン"
+	},
+	"James Bond 007 - The Duel (Europe) (Beta)": {
+		"languages": ["En"]
 	},
 	"James Bond 007 - The Duel (Europe)": {
 		"languages": ["En"]
@@ -935,16 +1021,27 @@
 	"Jang Pung II (Korea) (En) (Unl)": {
 		"languages": ["En"]
 	},
+	"Jeopardy! (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"Jeopardy! (USA)": {
 		"languages": ["En"]
 	},
 	"Jeopardy! - Sports Edition (USA)": {
 		"languages": ["En"]
 	},
+	"Jiansheng Chuanshuo - Kenseiden Story (Taiwan) (Unl)": {
+		"languages": ["Zh"],
+		"localName": "劍聖傳説　－　Ｋｅｎｓｅｉｄｅｎ　Ｓｔｏｒｙ"
+	},
 	"Joe Montana Football (Japan, Brazil) (En) (Rev 1)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ジョー・モンタナ　フットボール"
 	},
 	"Joe Montana Football (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Journey from Darkness - Strider Returns (USA, Europe) (Beta)": {
 		"languages": ["En"]
 	},
 	"Journey from Darkness - Strider Returns (USA, Europe)": {
@@ -954,7 +1051,8 @@
 		"languages": ["En"]
 	},
 	"Junction (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ジャンクション"
 	},
 	"Junction (USA)": {
 		"languages": ["En"]
@@ -969,7 +1067,8 @@
 		"languages": ["En"]
 	},
 	"Jurassic Park (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ジュラシック・パーク"
 	},
 	"Jurassic Park (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
@@ -977,8 +1076,12 @@
 	"Justin Harder Reel (World) (Auto Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Kaiju Feeder (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Kaitou Saint Tail (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "怪盗セイント・テール"
 	},
 	"Kawasaki Superbike Challenge (Europe)": {
 		"languages": ["En"]
@@ -987,16 +1090,20 @@
 		"languages": ["En"]
 	},
 	"Kenyuu Densetsu Yaiba (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "剣勇伝説ＹＡＩＢＡ"
 	},
 	"Kick & Rush (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "キック　アンド　ラッシュ"
 	},
-	"Kinetic Connection (Japan)": {
-		"languages": ["Ja"]
+	"Kinetic Connection (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "キネティック　コネクション"
 	},
 	"Kishin Douji Zenki (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "鬼神童子ＺＥＮＫＩ"
 	},
 	"KLAX (USA, Europe)": {
 		"languages": ["En"]
@@ -1005,10 +1112,12 @@
 		"languages": ["En"]
 	},
 	"Kuni-chan no Game Tengoku (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "クニちゃんのゲーム天国"
 	},
 	"Kuni-chan no Game Tengoku Part 2 (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "クニちゃんのゲーム天国ＰＡＲＴ２"
 	},
 	"Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
@@ -1050,36 +1159,40 @@
 		"languages": ["En"]
 	},
 	"Lion King, The (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ライオンキング"
 	},
-	"Lion King, The (USA) (Beta) (1994-08-03)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1993-04-25)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta) (1994-08-11)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-03)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta) (1994-08-12)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-11)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta) (1994-08-13)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-12)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta) (1994-08-14)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-13)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta) (1994-08-16)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-14)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta) (1994-08-17) (Alt)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-16)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta) (1994-08-17)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-17) (Alt)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta) (1994-08-20)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-17)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA)": {
+	"Lion King, The (USA, Brazil) (En) (Beta) (1994-08-20)": {
+		"languages": ["En"]
+	},
+	"Lion King, The (USA, Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Lost World, The - Jurassic Park (USA)": {
@@ -1089,7 +1202,8 @@
 		"languages": ["En"]
 	},
 	"Lunar - Sanposuru Gakuen (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ルナ　～さんぽする学園～"
 	},
 	"Madden 96 (USA, Europe)": {
 		"languages": ["En"]
@@ -1098,31 +1212,46 @@
 		"languages": ["En"]
 	},
 	"Madou Monogatari A - Dokidoki Vacation (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "魔導物語Ａ　－　ドキドキばけ～しょん"
 	},
-	"Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)": {
-		"languages": ["Ja"]
+	"Madou Monogatari I - 3tsu no Madoukyuu (Japan)": {
+		"languages": ["Ja"],
+		"localName": "魔導物語Ｉ　～３つの魔導球～"
 	},
 	"Madou Monogatari II - Arle 16-Sai (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "魔導物語ＩＩ　～アルル１６才～"
+	},
+	"Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Beta)": {
+		"languages": ["Ja"],
+		"localName": "魔導物語ＩＩＩ　～究極女王様～"
 	},
 	"Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev A)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "魔導物語ＩＩＩ　～究極女王様～"
 	},
 	"Madou Monogatari III - Kyuukyoku Joou-sama (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "魔導物語ＩＩＩ　～究極女王様～"
 	},
 	"Magic Knight Rayearth 2 - Making of Magic Knight (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "魔法騎士レイアース２　～ｍａｋｉｎｇ　ｏｆ　ｍａｇｉｃ　ｋｎｉｇｈｔ～"
 	},
 	"Magic Knight Rayearth (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "魔法騎士レイアース"
 	},
-	"Magical Puzzle Popils (World) (En,Ja)": {
-		"languages": ["En", "Ja"]
+	"Magical Puzzle Popils (World)": {
+		"languages": ["En"]
 	},
 	"Magical Taruruuto-kun (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "まじかる☆タルるートくん"
+	},
+	"Mai Nurse (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Majors, The - Pro Baseball (USA)": {
 		"languages": ["En"]
@@ -1131,7 +1260,8 @@
 		"languages": ["En"]
 	},
 	"Mappy (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "マッピー"
 	},
 	"Marble Madness (USA, Europe)": {
 		"languages": ["En"]
@@ -1149,19 +1279,24 @@
 		"languages": ["En"]
 	},
 	"Megami Tensei Gaiden - Last Bible (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "女神転生外伝　ラストバイブル"
 	},
 	"Megami Tensei Gaiden - Last Bible Special (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "女神転生外伝　ラストバイブル　スペシャル"
 	},
 	"Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ミッキーマウス　伝説の王国"
 	},
-	"Mickey Mouse no Castle Illusion (Japan)": {
-		"languages": ["Ja"]
+	"Mickey Mouse no Castle Illusion (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ミッキーマウスのキャッスルイリュージョン"
 	},
 	"Mickey Mouse no Mahou no Crystal (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ミッキーマウスの魔法のクリスタル"
 	},
 	"Mickey's Ultimate Challenge (USA)": {
 		"languages": ["En"]
@@ -1173,6 +1308,9 @@
 		"languages": ["En"]
 	},
 	"Micro Machines (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Mieyen Mini (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)": {
@@ -1188,7 +1326,8 @@
 		"languages": ["En"]
 	},
 	"Moldorian - Hikari to Yami no Sister (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "モルドリアン　～光と闇の姉妹～"
 	},
 	"Monaco Master (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -1197,7 +1336,8 @@
 		"languages": ["En"]
 	},
 	"Monster World II - Dragon no Wana (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "モンスターワールドＩＩ　ドラゴンの罠"
 	},
 	"Mortal Kombat 3 (Europe)": {
 		"languages": ["En"]
@@ -1208,8 +1348,9 @@
 	"Mortal Kombat (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Mortal Kombat - Shinken Kourin Densetsu (Japan)": {
-		"languages": ["Ja"]
+	"Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "モータルコンバット神拳降臨伝説"
 	},
 	"Mortal Kombat II (World)": {
 		"languages": ["En"]
@@ -1227,19 +1368,24 @@
 		"languages": ["En"]
 	},
 	"Nazo Puyo 2 (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "なぞぷよ２"
 	},
-	"Nazo Puyo (Japan) (Rev 1)": {
-		"languages": ["Ja"]
+	"Nazo Puyo (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "なぞぷよ"
 	},
 	"Nazo Puyo (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "なぞぷよ"
 	},
 	"Nazo Puyo - Arle no Roux (Japan) (Beta)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "なぞぷよ　アルルのルー"
 	},
 	"Nazo Puyo - Arle no Roux (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "なぞぷよ　アルルのルー"
 	},
 	"NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-11-28)": {
 		"languages": ["En"]
@@ -1334,10 +1480,11 @@
 	"NBA Action Starring David Robinson (USA, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"NBA Jam (Japan)": {
-		"languages": ["Ja"]
+	"NBA Jam (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ＮＢＡ　ジャム"
 	},
-	"NBA Jam (USA) (Rev 1)": {
+	"NBA Jam (USA) (Rev 1) (Putative Proto)": {
 		"languages": ["En"]
 	},
 	"NBA Jam (USA, Europe)": {
@@ -1353,7 +1500,8 @@
 		"languages": ["En"]
 	},
 	"Neko Daisuki! (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ねこ大好き！"
 	},
 	"NFL '95 (USA) (Beta) (1994-08-08)": {
 		"languages": ["En"]
@@ -1461,22 +1609,27 @@
 		"languages": ["En"]
 	},
 	"Ninja Gaiden (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "忍者外伝"
 	},
 	"Ninja Gaiden (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Ninku 2 - Tenkuuryuu e no Michi (Japan)": {
-		"languages": ["Ja"]
+	"Ninku 2 - Tenkuuryuu-e no Michi (Japan)": {
+		"languages": ["Ja"],
+		"localName": "忍空２　～天空龍への道～"
 	},
 	"Ninku (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "忍空"
 	},
 	"Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "忍空外伝　－　ヒロユキ大活劇"
 	},
 	"Nomo Hideo no World Series Baseball (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "野茂英雄のワールドシリーズベースボール"
 	},
 	"Off the Wall (USA) (Proto) (1992-06-28)": {
 		"languages": ["En"]
@@ -1496,8 +1649,9 @@
 	"OutRun (Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"OutRun (Japan, Europe, Korea) (Ja)": {
-		"languages": ["Ja"]
+	"OutRun (Japan, Korea) (En)": {
+		"languages": ["En"],
+		"localName": "アウトラン"
 	},
 	"OutRun Europa (Europe)": {
 		"languages": ["En"]
@@ -1512,13 +1666,18 @@
 		"languages": ["En"]
 	},
 	"Pac-Man (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "パックマン"
 	},
 	"Pac-Man (USA)": {
 		"languages": ["En"]
 	},
-	"Panzer Dragoon Mini (Japan)": {
-		"languages": ["Ja"]
+	"Pac-Man (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Panzer Dragoon Mini (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "パンツァードラグーン　ミニ"
 	},
 	"Paperboy 2 (USA) (Beta)": {
 		"languages": ["En"]
@@ -1533,12 +1692,17 @@
 		"languages": ["En"]
 	},
 	"Pengo (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ペンゴ"
 	},
 	"Pet Club - Inu Daisuki! (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ペット倶楽部　いぬ大好き！"
 	},
-	"Pete Sampras Tennis (USA, Europe)": {
+	"Pete Sampras Tennis (Europe)": {
+		"languages": ["En"]
+	},
+	"Pete Sampras Tennis (USA)": {
 		"languages": ["En"]
 	},
 	"Petris (World) (v1.1) (Proto) (Aftermarket) (Unl)": {
@@ -1547,7 +1711,7 @@
 	"PGA Tour 96 (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"PGA Tour Golf (USA) (Rev 1)": {
+	"PGA Tour Golf (USA) (Rev 1) (Putative Proto)": {
 		"languages": ["En"]
 	},
 	"PGA Tour Golf (USA, Europe)": {
@@ -1557,10 +1721,12 @@
 		"languages": ["En"]
 	},
 	"Phantasy Star Adventure (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ファンタシースターアドベンチャー"
 	},
 	"Phantasy Star Gaiden (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ファンタシースター外伝"
 	},
 	"Phantom 2040 (USA, Europe)": {
 		"languages": ["En"]
@@ -1569,7 +1735,8 @@
 		"languages": ["En"]
 	},
 	"Pocket Jansou (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ポケット雀荘"
 	},
 	"Poker Face Paul's Blackjack (USA)": {
 		"languages": ["En"]
@@ -1589,11 +1756,16 @@
 	"Poker Face Paul's Solitaire (USA)": {
 		"languages": ["En"]
 	},
-	"Pop Breaker (Japan)": {
-		"languages": ["Ja"]
+	"Polka Sheep (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pop Breaker (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ポップブレイカー"
 	},
 	"Popeye no Beach Volleyball (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ポパイ　ビーチバレー"
 	},
 	"Power Drive (Europe)": {
 		"languages": ["En"]
@@ -1618,43 +1790,54 @@
 		"localName": "プリンセスガーデニング"
 	},
 	"Pro Yakyuu '91, The (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＴＨＥプロ野球’９１"
 	},
 	"Pro Yakyuu GG League '94 (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "プロ野球ＧＧリーグ’９４"
 	},
 	"Pro Yakyuu GG League (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "プロ野球ＧＧリーグ"
 	},
 	"Psychic World (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "サイキック・ワールド"
 	},
 	"Psychic World (USA, Europe, Brazil) (En) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Putt & Putter (Japan, Korea) (Ja)": {
-		"languages": ["Ja"]
+	"Putt & Putter (Japan, Korea) (En)": {
+		"languages": ["En"],
+		"localName": "パット＆パター"
 	},
 	"Putt & Putter (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Puyo Puyo (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"]
+		"languages": ["En", "Ja"],
+		"localName": "ぷよぷよ"
 	},
 	"Puyo Puyo Tsuu (Japan) (Virtual Console)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ぷよぷよ通"
 	},
 	"Puyo Puyo Tsuu (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ぷよぷよ通"
 	},
 	"Puzzle & Action - Ichidanto-R (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ｐｕｚｚｌｅ　＆　Ａｃｔｉｏｎ　－　イチダントアール"
 	},
 	"Puzzle & Action - Tanto-R (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ｐｕｚｚｌｅ　＆　Ａｃｔｉｏｎ　－　タントア～ル"
 	},
 	"Puzzle Bobble (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "パズルボブル"
 	},
 	"Quest (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -1663,22 +1846,28 @@
 		"languages": ["En"]
 	},
 	"Quiz Gear Fight!!, The (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ザ・クイズギアファイト！！"
 	},
 	"R.B.I. Baseball '94 (USA)": {
+		"languages": ["En"]
+	},
+	"R.C. Grand Prix (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"R.C. Grand Prix (USA)": {
 		"languages": ["En"]
 	},
 	"Rastan Saga (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ラスタン・サーガ"
 	},
 	"Revenge of Drancon (USA, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Riddick Bowe Boxing (Japan)": {
-		"languages": ["Ja"]
+	"Riddick Bowe Boxing (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "リディック・ボウ　ボクシング"
 	},
 	"Riddick Bowe Boxing (USA)": {
 		"languages": ["En"]
@@ -1710,32 +1899,47 @@
 	"Road Rash (USA)": {
 		"languages": ["En"]
 	},
+	"Road Toad (World) (v0.19) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"RoboCop 3 (World)": {
 		"languages": ["En"]
 	},
-	"RoboCop versus The Terminator (USA, Europe)": {
+	"RoboCop Versus The Terminator (USA, Europe)": {
 		"languages": ["En"]
 	},
 	"Royal Stone - Hirakareshi Toki no Tobira (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ロイアル・ストーン　～開かれし時の扉～"
 	},
 	"Ryuukyuu (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "琉球"
 	},
 	"Samurai Shodown (USA)": {
 		"languages": ["En"]
 	},
 	"Samurai Spirits (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "サムライスピリッツ"
+	},
+	"Sassou Shounen Eiyuuden - Coca-Cola Kid (Japan)": {
+		"languages": ["Ja"],
+		"localName": "颯爽少年英雄伝コカ・コーラキッド"
+	},
+	"Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Scratch Golf (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "スクラッチ　ゴルフ"
 	},
 	"Scratch Golf (USA)": {
 		"languages": ["En"]
 	},
 	"SD Gundam - Winner's History (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＳＤガンダム　ウィナーズ　ヒストリー"
 	},
 	"Sega Game Pack 4 in 1 (Europe) (Beta)": {
 		"languages": ["En"]
@@ -1747,19 +1951,23 @@
 		"languages": ["En"]
 	},
 	"Shadam Crusader - Harukanaru Oukoku (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "シャダム・クルセイダー　～遙かなる王国～"
 	},
-	"Shanghai II (Japan) (Rev A)": {
-		"languages": ["Ja"]
+	"Shanghai II (Japan) (En) (Rev A)": {
+		"languages": ["En"],
+		"localName": "上海ＩＩ"
 	},
-	"Shanghai II (Japan)": {
-		"languages": ["Ja"]
+	"Shanghai II (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "上海ＩＩ"
 	},
 	"Shaq Fu (USA)": {
 		"languages": ["En"]
 	},
-	"Shikinjou (Japan)": {
-		"languages": ["Ja"]
+	"Shikinjou (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "紫禁城"
 	},
 	"Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)": {
 		"languages": ["En"]
@@ -1780,16 +1988,20 @@
 		"languages": ["En"]
 	},
 	"Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "シャイニング・フォース外伝　～遠征・邪神の国へ～"
 	},
 	"Shining Force Gaiden - Final Conflict (Japan) (Virtual Console)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "シャイニング・フォース外伝　ファイナルコンフリクト"
 	},
 	"Shining Force Gaiden - Final Conflict (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "シャイニング・フォース外伝　ファイナルコンフリクト"
 	},
 	"Shining Force Gaiden II - Jashin no Kakusei (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "シャイニング・フォース外伝ＩＩ　～邪神の覚醒～"
 	},
 	"Shinobi (World) (Rev A) (Virtual Console)": {
 		"languages": ["En"]
@@ -1798,6 +2010,9 @@
 		"languages": ["En"]
 	},
 	"Shinobi II - The Silent Fury (World)": {
+		"languages": ["En"]
+	},
+	"Shuriken (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Side Pocket (USA)": {
@@ -1813,16 +2028,15 @@
 		"languages": ["En"]
 	},
 	"Skweek (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "スクウィーク"
 	},
 	"Slider (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Smurfs Travel the World, The (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
-	},
 	"Smurfs, The (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
+		"languages": ["De", "En", "Es", "Fr"],
+		"localName": "Schtroumpfs, Les"
 	},
 	"Solitaire FunPak (USA)": {
 		"languages": ["En"]
@@ -1830,14 +2044,16 @@
 	"Solitaire Poker (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Sonic & Tails 2 (Japan)": {
-		"languages": ["Ja"]
+	"Sonic & Tails 2 (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ソニック＆テイルス２"
 	},
 	"Sonic & Tails (Japan) (En) (Sample)": {
 		"languages": ["En"]
 	},
 	"Sonic & Tails (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ソニック＆テイルス"
 	},
 	"Sonic Blast (World) (Beta) (1996-05-31)": {
 		"languages": ["En"]
@@ -1869,13 +2085,15 @@
 	"Sonic Drift 2 (World)": {
 		"languages": ["En"]
 	},
-	"Sonic Drift (Japan) (En) (Demo)": {
-		"languages": ["En"]
+	"Sonic Drift (Japan) (En) (Auto Demo)": {
+		"languages": ["En"],
+		"localName": "ソニックドリフト"
 	},
 	"Sonic Drift (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ソニックドリフト"
 	},
-	"Sonic Labyrinth (USA, Europe) (Virtual Console)": {
+	"Sonic Labyrinth (World) (Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Sonic Labyrinth (World)": {
@@ -1944,7 +2162,7 @@
 	"Sonic Spinball (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Sonic The Hedgehog 2 (World) (Auto Demo)": {
+	"Sonic The Hedgehog 2 (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog 2 (World) (Virtual Console)": {
@@ -1954,15 +2172,17 @@
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog (Japan, USA) (En) (Beta)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ソニック・ザ・ヘッジホッグ"
 	},
 	"Sonic The Hedgehog (Japan, USA) (En)": {
+		"languages": ["En"],
+		"localName": "ソニック・ザ・ヘッジホッグ"
+	},
+	"Sonic The Hedgehog (World) (Rev A) (Virtual Console)": {
 		"languages": ["En"]
 	},
-	"Sonic The Hedgehog (World) (Rev 1) (Virtual Console)": {
-		"languages": ["En"]
-	},
-	"Sonic The Hedgehog (World) (Rev 1)": {
+	"Sonic The Hedgehog (World) (Rev A)": {
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08)": {
@@ -1971,8 +2191,9 @@
 	"Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Soukoban (Japan)": {
-		"languages": ["Ja"]
+	"Soukoban (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "倉庫番"
 	},
 	"Space Harrier (World)": {
 		"languages": ["En"]
@@ -2112,13 +2333,16 @@
 	"Star Trek Generations - Beyond the Nexus (USA)": {
 		"languages": ["En"]
 	},
-	"Star Wars (USA, Europe) (Alt)": {
+	"Star Wars (USA, Europe) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Star Wars (USA, Europe)": {
 		"languages": ["En"]
 	},
 	"Stargate (World)": {
+		"languages": ["En"]
+	},
+	"Stinger (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Street Battle (USA) (Proto) (Unl)": {
@@ -2146,7 +2370,8 @@
 		"languages": ["En"]
 	},
 	"Super Columns (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "スーパーコラムス"
 	},
 	"Super Columns (USA, Europe) (Beta) (1994-11-11)": {
 		"languages": ["En"]
@@ -2172,8 +2397,9 @@
 	"Super Columns (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Super Golf (Japan)": {
-		"languages": ["Ja"]
+	"Super Golf (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "スーパーゴルフ"
 	},
 	"Super Golf (USA)": {
 		"languages": ["En"]
@@ -2182,10 +2408,12 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Sv"]
 	},
 	"Super Momotarou Dentetsu III (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ＳＵＰＥＲ桃太郎電鉄ＩＩＩ"
 	},
-	"Super Monaco GP (Japan, Korea) (Ja)": {
-		"languages": ["Ja"]
+	"Super Monaco GP (Japan, Korea) (En)": {
+		"languages": ["En"],
+		"localName": "スーパーモナコＧＰ"
 	},
 	"Super Monaco GP (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
@@ -2194,6 +2422,12 @@
 		"languages": ["En"]
 	},
 	"Super Off Road (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Super Princess' 2092 - Exodus (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Super Princess' 2092 - Exodus (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Super Smash T.V. (World)": {
@@ -2214,14 +2448,28 @@
 	"Surf Ninjas (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
+	"Sushi Nights (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Sushi Nights (World) (v1.01) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Sushi Nights (World) (v1.04) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Swabby (World) (v1.11) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Sword of Stone, The (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Sylvan Tale (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "シルヴァン　テイル"
 	},
 	"T2 - The Arcade Game (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "Ｔ２　ジ・アーケードゲーム"
 	},
 	"T2 - The Arcade Game (USA, Europe)": {
 		"languages": ["En"]
@@ -2232,35 +2480,43 @@
 	"Tails Adventure (World) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Tails no Skypatrol (Japan)": {
-		"languages": ["Ja"]
+	"Tails' Skypatrol (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "Ｔａｉｌｓ　ｎｏ　Ｓｋｙｐａｔｒｏｌ"
 	},
 	"Taisen Mahjong HaoPai 2 (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "対戦麻雀　好牌２"
 	},
 	"Taisen Mahjong HaoPai (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "対戦麻雀　好牌"
 	},
 	"Taisen-gata Daisenryaku G (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "対戦型大戦略Ｇ"
 	},
-	"Taito Chase H.Q. (Japan)": {
-		"languages": ["Ja"]
+	"Taito Chase H.Q. (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "タイトーチェイスＨ．Ｑ．"
 	},
 	"TaleSpin (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Tama & Friends - 3 Choume Kouen Tamalympic (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "タマ＆フレンズ　３丁目公園　タマリンピック"
 	},
 	"Tarot no Yakata (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "タロットの館"
 	},
 	"Tarzan - Lord of the Jungle (Europe)": {
 		"languages": ["En"]
 	},
 	"Tatakae! Pro Yakyuu Twin League (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "闘え！プロ野球ツインリーグ"
 	},
 	"Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-05-11)": {
 		"languages": ["En"]
@@ -2352,6 +2608,9 @@
 	"Terminator, The (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Tesserae (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"Tesserae (USA)": {
 		"languages": ["En"]
 	},
@@ -2359,22 +2618,29 @@
 		"languages": ["En"]
 	},
 	"Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)": {
-		"languages": ["De", "En", "Es", "Fr", "Nl", "Sv"]
+		"languages": ["De", "En", "Es", "Fr", "Nl", "Sv"],
+		"localName": "Tintin au Tibet"
 	},
-	"Tom and Jerry - The Movie (Japan, Brazil) (Ja)": {
-		"languages": ["Ja"]
+	"Tom and Jerry - The Movie (Japan, Brazil) (En,Ja)": {
+		"languages": ["En", "Ja"],
+		"localName": "トム＆ジェリー　ザ　ムービー"
 	},
-	"Tom and Jerry - The Movie (USA, Europe)": {
-		"languages": ["En"]
+	"Tom and Jerry - The Movie (USA, Europe) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"Torarete Tamaruka (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "とられて　たまるか！？"
+	},
+	"Trex (World) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"True Lies (World)": {
 		"languages": ["En"]
 	},
 	"Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "アルティメイト　サッカー"
 	},
 	"Urban Strike (USA)": {
 		"languages": ["En"]
@@ -2385,17 +2651,22 @@
 	"Vampire - Master of Darkness (USA)": {
 		"languages": ["En"]
 	},
+	"Vexed (World) (v1.15) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Virtua Fighter Animation (USA, Europe)": {
 		"languages": ["En"]
 	},
 	"Virtua Fighter Mini (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "バーチャファイターＭｉｎｉ"
 	},
 	"VR Troopers (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Wagyan Land (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ワギャンランド"
 	},
 	"Waternet (World) (Aftermarket) (Unl)": {
 		"languages": ["nolang"]
@@ -2419,7 +2690,8 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "No", "Pt", "Sv"]
+		"languages": ["De", "En", "Es", "Fr", "It", "No", "Pt", "Sv"],
+		"localName": "ウィンターオリンピック"
 	},
 	"Winter Olympics (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "No", "Pt", "Sv"]
@@ -2430,11 +2702,15 @@
 	"Wolfchild (Europe)": {
 		"languages": ["En"]
 	},
+	"Wolfenstein (World) (v1.16) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Wonder Boy (Europe)": {
 		"languages": ["En"]
 	},
-	"Wonder Boy (Japan)": {
-		"languages": ["Ja"]
+	"Wonder Boy (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ワンダーボーイ"
 	},
 	"Wonder Boy (USA) (Beta)": {
 		"languages": ["En"]
@@ -2446,7 +2722,8 @@
 		"languages": ["En"]
 	},
 	"Woody Pop (Japan) (En)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "ウッディポップ　新人類のブロックくずし"
 	},
 	"Woody Pop (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
@@ -2458,7 +2735,8 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Sv"]
 	},
 	"World Derby (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "ワールドダービー"
 	},
 	"World Series Baseball '95 (USA) (Beta) (1994-06-29)": {
 		"languages": ["En"]
@@ -2481,7 +2759,7 @@
 	"World Series Baseball '95 (USA)": {
 		"languages": ["En"]
 	},
-	"World Series Baseball (USA) (Rev 1)": {
+	"World Series Baseball (USA) (Rev A)": {
 		"languages": ["En"]
 	},
 	"World Series Baseball (USA)": {
@@ -2545,17 +2823,20 @@
 	"Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto)": {
 		"languages": ["En"]
 	},
-	"Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)": {
-		"languages": ["Ja"]
+	"Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "幽遊白書　－　滅びし者の逆襲"
 	},
 	"Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "幽遊白書ＩＩ　－　激闘！七強の戦い"
 	},
 	"Yum! (World) (v0.33) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Zan Gear (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "斬ギア"
 	},
 	"Zool - Ninja of the 'Nth' Dimension (Europe)": {
 		"languages": ["En"]
@@ -2563,8 +2844,9 @@
 	"Zool - Ninja of the 'Nth' Dimension (USA)": {
 		"languages": ["En"]
 	},
-	"Zool no Yume Bouken (Japan)": {
-		"languages": ["Ja"]
+	"Zool no Yume Bouken (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ズールのゆめぼうけん"
 	},
 	"Zoop (USA) (Beta) (1995-08-11)": {
 		"languages": ["En"]

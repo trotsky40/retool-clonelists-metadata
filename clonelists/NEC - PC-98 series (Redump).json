@@ -1,14 +1,9 @@
 {
 	"description": {
 		"name": "NEC - PC-98 series (Redump)",
-		"lastUpdated": "22 July 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
-	"mias": [
-		"Logicool Mouseware 8.2J (Japan) (En,Ja)"
-	],
-
 	"variants": [
 		{
 			"group": "Brandish",

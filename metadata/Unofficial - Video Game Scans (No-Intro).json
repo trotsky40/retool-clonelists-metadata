@@ -1,0 +1,667 @@
+{
+	"71213 Fun Pack - Bad Cop - Box (World) (En,Fr,De,Sv,No,Da,Fi) (Lego Dimensions)": {
+		"languages": ["Da", "De", "En", "Fi", "Fr", "No", "Sv"]
+	},
+	"71213 Fun Pack - Bad Cop - Instructions (World) (En,Fr,De,Es,Zh-Hans) (Lego Dimensions)": {
+		"languages": ["De", "En", "Es", "Fr", "Zh-Hans"]
+	},
+	"A-Team Fun Pack (World) (Lego Dimensions) (71251)": {
+		"languages": ["En"]
+	},
+	"Action1 Glosprogram (Sweden) (Naet-Skollicens) (TeleNova Compis) (24-33584)": {
+		"languages": ["Sv"]
+	},
+	"Alan Wake - Manual (Europe) (Microsoft Xbox 360) (X16-45650-01)": {
+		"languages": ["En"]
+	},
+	"Alpha Protocol - Manual (Scandinavia) (En,Sv,Fi) (Microsoft Xbox 360) (MA-XT206201-EX)": {
+		"languages": ["En", "Fi", "Sv"]
+	},
+	"Anpanman Pico - Waku Waku Pan Koujou (Japan) (Sega Pico)": {
+		"languages": ["Ja"]
+	},
+	"Anvaendbara procedurer i Pascal - Cover (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Användbara procedurer i Pascal - Cover"
+	},
+	"Anvaendbara procedurer i Pascal - Manual (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Användbara procedurer i Pascal - Manual"
+	},
+	"Anvaendbara procedurer i Pascal - Media (Sweden) (TeleNova Compis) (24-33601)": {
+		"languages": ["Sv"],
+		"localName": "Användbara procedurer i Pascal - Media"
+	},
+	"Ar Med Nalle Puh, Ett (Sweden) (Sega Pico)": {
+		"languages": ["Sv"]
+	},
+	"Assassin's Creed (Canada) (En-US,Fr-CA) (Platinum Hits) (Microsoft Xbox 360)": {
+		"languages": ["En-US", "Fr-CA"]
+	},
+	"Assassin's Creed III (Canada) (En-US,Fr-CA) (Microsoft Xbox 360)": {
+		"languages": ["En-US", "Fr-CA"]
+	},
+	"Balloon Fight (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Batman - Arkham Asylum (Europe) (Microsoft Xbox 360) (PBARKTEN04)": {
+		"languages": ["En"]
+	},
+	"Batman - Arkham Origin - Game Add-On (Europe) (En,Fr,De,Es,It) (Microsoft Xbox 360) (5000171470)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Bayonetta (Europe) (Microsoft Xbox 360) (MAN-XT206701-EX)": {
+		"languages": ["En"]
+	},
+	"Black Jack (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Borderlands - Game of the Year Edition (Europe) (Microsoft Xbox 360) (Manual) (5252645 MAN)": {
+		"languages": ["En"]
+	},
+	"Borderlands - Game of the Year Edition - Map (Europe) (Microsoft Xbox 360) (5252645 MAP)": {
+		"languages": ["En"]
+	},
+	"Brothers in Arms - Hell's Highway - Brother in Arms Art of War Advert (Europe) (Microsoft Xbox 360) (300010439)": {
+		"languages": ["En"]
+	},
+	"Brothers in Arms Hell's Highway - Manual (Europe) (Microsoft Xbox 360) (300013615)": {
+		"languages": ["En"]
+	},
+	"Call of Duty 4 - Modern Warfare (United Kingdom) (Microsoft Xbox 360) (83079.226.UK)": {
+		"languages": ["En"]
+	},
+	"Call of Duty - Black Ops - Manual (United Kingdom) (Microsoft Xbox 360) (84003226UK)": {
+		"languages": ["En"]
+	},
+	"Call of Duty - Black Ops II - Manual (United Kingdom) (Microsoft Xbox 360) (84385226UK)": {
+		"languages": ["En"]
+	},
+	"Call of Duty - Black Ops II - Season Pass Advert (United Kingdom) (Microsoft Xbox 360) (84385301UK)": {
+		"languages": ["En"]
+	},
+	"Call of Duty - Black Ops III (United Kingdom) (Sony PlayStation 3) (Manual) (87454226UK)": {
+		"languages": ["En"]
+	},
+	"Call of Duty - Modern Warfare 2 (United Kingdom) (Microsoft Xbox 360) (Manual) (83749226UK)": {
+		"languages": ["En"]
+	},
+	"Call of Duty - World at War - Manual (United Kingdom) (Microsoft Xbox 360) (83281.226.UK)": {
+		"languages": ["En"]
+	},
+	"Call of Duty MW3 (United Kingdom) (Microsoft Xbox 360) (Manual) (84206226UK)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E01-01 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E01-10 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E01-30 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E01-40 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E01-41 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E02-01 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E02-30 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E03-01 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E03-10 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E03-20 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E03-21 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E05-01 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E06-01 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E06-10 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E06-20 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-E24-01 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-Y11-01 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Cart PCB - AGB-Y11-02 (World) (Nintendo Gameboy Advance)": {
+		"languages": ["En"]
+	},
+	"Chronicles of Narnia, The - Prince Caspian (Europe) (Microsoft Xbox 360) (Manual)": {
+		"languages": ["En"]
+	},
+	"Climber (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Conflict Vietnam (United Kingdom) (Microsoft Xbox) (Manual) (X24-0620-30-01)": {
+		"languages": ["En"]
+	},
+	"Cooking Pico - Minna to Issho ni Hajimete Cooking! (Japan) (Sega Pico)": {
+		"languages": ["Ja"]
+	},
+	"Coulombs lag (Sweden) (Naet-Skollicens) (TeleNova Compis) (24-33772)": {
+		"languages": ["Sv"]
+	},
+	"Cyberman Fun Pack (World) (Lego Dimensions) (71238)": {
+		"languages": ["En"]
+	},
+	"Datorn i borjan - Cover (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Datorn i början - Cover"
+	},
+	"Datorn i borjan - Dongle (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Datorn i början - Dongle"
+	},
+	"Datorn i borjan - Manual (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Datorn i början - Manual"
+	},
+	"Datorn i borjan - Media (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Datorn i början - Media"
+	},
+	"Dead or Alive 2 (Europe) (Promo) (Sony PlayStation 2)": {
+		"languages": ["En"]
+	},
+	"Dead Space - Manual (Scandinavia) (En,Sv,No,Da,Fi) (Microsoft Xbox 360) (EANX7606251M)": {
+		"languages": ["Da", "En", "Fi", "No", "Sv"]
+	},
+	"Demo (Point Classics) (Europe) (Philips CD-i)": {
+		"languages": ["En"]
+	},
+	"Dirt Showdown (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru) (Microsoft Xbox 360) (DLC) (PSHOWX3EU09)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Ru"]
+	},
+	"Dirt Showdown (Scandinavia) (En,Es,Sv,Fi) (Microsoft Xbox 360) (Manual) (PSHOWX3SC05)": {
+		"languages": ["En", "Es", "Fi", "Sv"]
+	},
+	"Donkey Kong (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Doraemon - Nobita no Dou Butsu Land (Japan) (Sega Pico)": {
+		"languages": ["Ja"]
+	},
+	"Dragon Age II (Europe) (Microsoft Xbox 360) (EAE07607584M)": {
+		"languages": ["En"]
+	},
+	"EA Sports MMA (Europe) (Microsoft Xbox 360) (EAE07607283M)": {
+		"languages": ["En"]
+	},
+	"Elder Scrolls IV, The - Oblivion (Europe) (Microsoft Xbox 360) (5246545 MAP)": {
+		"languages": ["En"]
+	},
+	"Fable III - Manual (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox 360) (X16-88788-01)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Far dataregister skvallra (Sweden) (Enanvaendare) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Får dataregister skvallra"
+	},
+	"FIFA 15 - Manual (Europe) (Microsoft Xbox 360) (101346605001)": {
+		"languages": ["En"]
+	},
+	"FIFA 15 - Ultimate Team - Advert (United Kingdom) (Microsoft Xbox 360) (101346601702)": {
+		"languages": ["En"]
+	},
+	"FIFA Street 3 (Sweden) (Microsoft Xbox 360) (EAN07605905M)": {
+		"languages": ["Sv"]
+	},
+	"Fire (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Fire Attack (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Forza Motorsport 3 (Scandinavia) (En,Sv,Fi) (Microsoft Xbox 360) (DLC) (X16-00669-01 XG)": {
+		"languages": ["En", "Fi", "Sv"]
+	},
+	"Forza Motorsport 3 (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox 360) (Manual) (X16-00664-01)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Forza Motorsport 4 (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox 360) (Manual) (X18-34378-01)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Gekitou Pro Yakyuu Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev. C) (Namco-Sega-Nintendo Triforce)": {
+		"languages": ["Ja"],
+		"localName": "激闘プロ野球　水島新司オールスターズＶＳプロ野球"
+	},
+	"Grand Theft Auto - Episodes from Liberty City - Manual (Europe) (Microsoft Xbox 360) (5249362 MAN)": {
+		"languages": ["En"]
+	},
+	"Grand Theft Auto - Episodes from Liberty City - Map (Europe) (Microsoft Xbox 360) (5249362 MAP)": {
+		"languages": ["En"]
+	},
+	"Grand Touring (United Kingdom) (Microsoft Windows)": {
+		"languages": ["En"]
+	},
+	"GraphMaster (Sweden) (v2.0) (Naet-Skollicens) (TeleNova Compis) (24-33589)": {
+		"languages": ["Sv"]
+	},
+	"Green House (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Guitar Hero Aerosmith (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox 360) (Manual) (95341.226.SC)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Halo 2 (MS10003W) (Canada) (En-US,Fr-CA) (Platinum Hits) (Microsoft Xbox)": {
+		"languages": ["En-US", "Fr-CA"]
+	},
+	"Halo 2 (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox) (Manual) (X10-71880 XK)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Halo 2 - Strategy Evolved (Europe) (Microsoft Xbox) (Advert) (X10-97395 EN)": {
+		"languages": ["En"]
+	},
+	"Halo 3 - Manual (Europe) (Microsoft Xbox 360) (X13-93866-02 XZ)": {
+		"languages": ["En"]
+	},
+	"Halo 3 - Poster (Europe) (Microsoft Xbox 360) (X13-73196-01)": {
+		"languages": ["En"]
+	},
+	"Handla med Alfons (Sweden) (Microsoft Windows)": {
+		"languages": ["Sv"]
+	},
+	"Heroes of Might and Magic IV (Europe) (Microsoft Windows)": {
+		"languages": ["En"]
+	},
+	"Immortals Fenyx Rising (Scandinavia) (En) (Nintendo Switch) (TSA-HAC-AU84A-SCN)": {
+		"languages": ["En"]
+	},
+	"Internationella ord fraan latinet (Sweden) (Naet-Skollicens) (TeleNova Compis) (21-98004) (Alt)": {
+		"languages": ["Sv"],
+		"localName": "Internationella ord från latinet"
+	},
+	"Internationella ord fraan latinet (Sweden) (Naet-Skollicens) (TeleNova Compis) (21-98004)": {
+		"languages": ["Sv"],
+		"localName": "Internationella ord från latinet"
+	},
+	"Intresse fallenhet yrkesval (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"]
+	},
+	"Kemi 1 (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"]
+	},
+	"Kid Pix 2 - Box (USA) (Apple Macintosh)": {
+		"languages": ["En"]
+	},
+	"Kid Pix 2 - Fun Pack Advert (USA) (Apple Macintosh) (2950070)": {
+		"languages": ["En"]
+	},
+	"Kid Pix 2 - Installation Instruction (USA) (Apple Macintosh) (2940112)": {
+		"languages": ["En"]
+	},
+	"Kid Pix 2 - Manual (USA) (Apple Macintosh) (2940110)": {
+		"languages": ["En"]
+	},
+	"Kid Pix 2 - Media (Sweden) (En) (Apple Macintosh)": {
+		"languages": ["En"]
+	},
+	"Kid Pix 2 - Registration Card (USA) (Apple Macintosh) (0009915)": {
+		"languages": ["En"]
+	},
+	"Kinect Adventures! (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox 360) (Manual) (X16-96415-02)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Kinect for Xbox 360 - Discover More Games (Scandinavia) (En,Sv,Fi) (Microsoft Xbox 360) (X17-74032-01)": {
+		"languages": ["En", "Fi", "Sv"]
+	},
+	"Kinect for Xbox 360 - Discover More Games (USA) (Microsoft Xbox 360) (X17-07524-02)": {
+		"languages": ["En"]
+	},
+	"Kinect Joy Ride - Manual (USA) (Microsoft Xbox 360) (X16-95408-01)": {
+		"languages": ["En"]
+	},
+	"Kinect Sensor Calibration Card (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu,Ar,Sl) (Microsoft Xbox 360) (X17-09646-01)": {
+		"languages": ["Ar", "Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sl", "Sv"]
+	},
+	"Kinect Sensor Calibration Card (World) (En,Fr,Es,Pt) (Microsoft Xbox 360) (X17-09509-01)": {
+		"languages": ["En", "Es", "Fr", "Pt"]
+	},
+	"Kinetik (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"]
+	},
+	"Korokoro Puzzle - Happy Panecchu! (AGB-KHPJ-JPN) (Japan) (Nintendo Gameboy Advance)": {
+		"languages": ["Ja"],
+		"localName": "コロコロパズル　ハッピィパネッチュ！"
+	},
+	"Kortsats B (Sweden) (VTech Little Talking Scholar) (80-1333)": {
+		"languages": ["Sv"]
+	},
+	"Lego Super Mario - Advert (Sweden)": {
+		"languages": ["Sv"]
+	},
+	"Life Boat (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Lost Planet - Extreme Condition (Europe) (Microsoft Xbox 360) (Manual) (CJNX7605496M)": {
+		"languages": ["En"]
+	},
+	"Maet absorption (Sweden) (Naet-Skollicens) (TeleNova Compis) (24-33763)": {
+		"languages": ["Sv"],
+		"localName": "Mät absorption"
+	},
+	"Maet halveringstid (Sweden) (Naet-Skollicens) (TeleNova Compis) (24-34259)": {
+		"languages": ["Sv"],
+		"localName": "Mät halveringstid"
+	},
+	"MaetEtt (Sweden) (Enanvaendare) (TeleNova Compis) (24-33748)": {
+		"languages": ["Sv"],
+		"localName": "MätEtt"
+	},
+	"MaetEtt (Sweden) (Naet-Skollicens) (TeleNova Compis) (24-33751)": {
+		"languages": ["Sv"],
+		"localName": "MätEtt"
+	},
+	"Manhole (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Marvel Ultimate Alliance (United Kingdom) (Microsoft Xbox 360) (Manual) (81481.226.UK)": {
+		"languages": ["En"]
+	},
+	"Mat energi (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Mät energi"
+	},
+	"Medal of Honor (Europe) (Microsoft Xbox 360) (DWE07607412M)": {
+		"languages": ["En"]
+	},
+	"Medal of Honor Airborne - Manual (Sweden) (Microsoft Xbox 360) (DWN07605823M)": {
+		"languages": ["Sv"]
+	},
+	"Mercenaries 2 - World in Flames (Sweden) (Microsoft Xbox 360) (EAN07605820M)": {
+		"languages": ["Sv"]
+	},
+	"Metal Gear Solid V - Ground Zeroes - Phantom Pain DLC (United Kingdom) (Microsoft Xbox 360) (I38864X2UK1)": {
+		"languages": ["En"]
+	},
+	"Metal Gear Solid V - The Phantom Pain - Day 1 Additional Content (United Kingdom) (Microsoft Xbox 360) (I39410X2UK1)": {
+		"languages": ["En"]
+	},
+	"Metal Gear Solid V - The Phantom Pain - Metal Gear Online Additional Game Content (United Kingdom) (Microsoft Xbox 360) (IMGOX2UK1)": {
+		"languages": ["En"]
+	},
+	"Mickey and Donald (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Midtown Madness 3 (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox) (Manual) (X09-43342 XK)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Millikans forsok (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"],
+		"localName": "Millikans försök"
+	},
+	"MTX vs ATV Untamed - Manual (Europe) (Microsoft Xbox 360)": {
+		"languages": ["En"]
+	},
+	"NBA 2K18 (Unknown) (Nintendo Switch) (TSA-HAC-AB38A-UXP)": {
+		"languages": ["En"]
+	},
+	"Need for Speed (Europe) (Microsoft Xbox 360) (Manual) (EAE07608324LP)": {
+		"languages": ["En"]
+	},
+	"Need for Speed - Road Challenge (Sweden) (Microsoft Windows)": {
+		"languages": ["Sv"]
+	},
+	"NHL 2K10 - Manual (Scandinavia) (En,Sv,Fi) (Microsoft Xbox 360) (5249461 MAN)": {
+		"languages": ["En", "Fi", "Sv"]
+	},
+	"NHL 06 (Europe) (Demo) (Sony PlayStation 2)": {
+		"languages": ["En"]
+	},
+	"NHL 08 (Sweden) (Microsoft Xbox 360) (EAN07605581M)": {
+		"languages": ["Sv"]
+	},
+	"Nintendo Switch OLED (Europe) (HEG-S-KAAAA(EUR))": {
+		"languages": ["En"]
+	},
+	"Octopus (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Oil Panic (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Orange Box, The (Canada) (En-US,Fr-CA) (Microsoft Xbox 360)": {
+		"languages": ["En-US", "Fr-CA"]
+	},
+	"OutRun 2 (Japan) (En,Ja) (Sega Chihiro)": {
+		"languages": ["En", "Ja"]
+	},
+	"Pandora's Box (USA) (Microsoft Windows)": {
+		"languages": ["En"]
+	},
+	"Parachute (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Popeye (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Portal 2 - Insert (Canada) (En-US,Fr-CA) (Microsoft Xbox 360) (0E7A7EB3)": {
+		"languages": ["En-US", "Fr-CA"]
+	},
+	"Project Gotham Racing 2 (Europe) (En,Fr,De,Es,It) (Microsoft Xbox) (Manual) (X10-35916 XM)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Project Gotham Racing 2 (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox) (Manual) (X09-85431 XK)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Project Gotham Racing 3 (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox 360) (Manual) (X11-47332 XK)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Project Gotham Racing (Europe) (Microsoft Xbox) (Manual) (X08-51917)": {
+		"languages": ["En"]
+	},
+	"Quake 3 - Arena (USA) (Linux)": {
+		"languages": ["En"]
+	},
+	"Rain Shower (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Rakna latt rakna ratt (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"]
+	},
+	"Red Dead Redemption (Europe) (Microsoft Xbox 360) (Manual) (5248082 MAN)": {
+		"languages": ["En"]
+	},
+	"Red Dead Redemption - Limited Edition (Europe) (Microsoft Xbox 360) (DLC) (5251600 INS)": {
+		"languages": ["En"]
+	},
+	"Resa i Vasternorrland, En (Sweden) (Philips CD-i)": {
+		"languages": ["Sv"],
+		"localName": "Resa i Västernorrland, En"
+	},
+	"Resident Evil 6 - Manual (Scandinavia) (En,Sv,No,Da,Fi) (Microsoft Xbox 360) (M87043-06NOR)": {
+		"languages": ["Da", "En", "Fi", "No", "Sv"]
+	},
+	"Saboteur, The (Scandinavia) (En,Sv,No,Da,Fi) (Microsoft Xbox 360) (Manual) (EANX7606314M)": {
+		"languages": ["Da", "En", "Fi", "No", "Sv"]
+	},
+	"Safecracker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Apple Macintosh)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Sv"]
+	},
+	"Saints Row IV - Commander in Chief Edition - Game Add-On (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Microsoft Xbox 360) (E009176DLCIC)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
+	},
+	"Scandinavian PC Systems (Sweden) (Microsoft MS-DOS) (Registration Card) (890104211)": {
+		"languages": ["Sv"]
+	},
+	"SCi Games Product Catalogue (United Kingdom) (Microsoft Xbox) (P76-0000-30-01-v2)": {
+		"languages": ["En"]
+	},
+	"SCi Games Registration Card (United Kingdom) (C-170-0014)": {
+		"languages": ["En"]
+	},
+	"Shadowfax (Europe) (Commodore 64, Commodore VIC-20)": {
+		"languages": ["En"]
+	},
+	"Shift 2 - Unleashed - Limited Edition (USA) (Microsoft Windows)": {
+		"languages": ["En"]
+	},
+	"Shin Megami Tensei V (United Kingdom) (Nintendo Switch) (TRA-HAC-AM7NB-UKV)": {
+		"languages": ["En"]
+	},
+	"Silent Steel (World) (Microsoft Windows)": {
+		"languages": ["En"]
+	},
+	"Sky Cat - Box (Sweden) (Microsoft MS-DOS)": {
+		"languages": ["Sv"]
+	},
+	"Sky Cat - Manual (Sweden) (Microsoft MS-DOS)": {
+		"languages": ["Sv"]
+	},
+	"Sky Cat - Media (Sweden) (Microsoft MS-DOS)": {
+		"languages": ["Sv"]
+	},
+	"Sleeping Dogs (France) (Microsoft Xbox 360) (Manual) (PDOGSTFR04)": {
+		"languages": ["Fr"]
+	},
+	"Snoopy Tennis (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Soldier Fight (Casio) (CG-86) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Sonic Generations (Canada) (En-US,Fr-CA) (Microsoft Xbox 360)": {
+		"languages": ["En-US", "Fr-CA"]
+	},
+	"Soreike! Anpanman Onamae Na~ni (Japan) (Sega Pico)": {
+		"languages": ["Ja"]
+	},
+	"Space Rescue (Tronica) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Squish (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Stava raett paa nytt saett (Sweden) (v8481) (TeleNova Compis) (24-34298-X)": {
+		"languages": ["Sv"],
+		"localName": "Stava rätt på nytt sätt"
+	},
+	"Stil-Plus - Cover (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"]
+	},
+	"Stil-Plus - Manual (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"]
+	},
+	"Stil-Plus - Media (Sweden) (TeleNova Compis) (24-35456)": {
+		"languages": ["Sv"]
+	},
+	"Storage Container (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"]
+	},
+	"Street Fighter IV - Manual (Europe) (Microsoft Xbox 360) (M87016-01ENG)": {
+		"languages": ["En"]
+	},
+	"Super Mario Sunshine - Insert (Canada) (En-US,Fr-CA) (Nintendo GameCube) (DOL P GMSE)": {
+		"languages": ["En-US", "Fr-CA"]
+	},
+	"Super OsWALD (Denmark) (Commodore Amiga)": {
+		"languages": ["Da"]
+	},
+	"Superbike 2001 (USA) (Microsoft Windows)": {
+		"languages": ["En"]
+	},
+	"System och systemering (Sweden) (TeleNova Compis)": {
+		"languages": ["Sv"]
+	},
+	"Table Tennis (Europe) (Microsoft Xbox 360) (Manual) (5026555245715 MAN)": {
+		"languages": ["En"]
+	},
+	"TeleNova Compis Program - License (Sweden) (TeleNova Compis) (85 23-029)": {
+		"languages": ["Sv"]
+	},
+	"Terminator Salvation (Scandinavia) (En,Nl,Sv,No,Da,Fi) (Microsoft Xbox 360) (SCNY25633)": {
+		"languages": ["Da", "En", "Fi", "Nl", "No", "Sv"]
+	},
+	"Tom Clancy's HAWX 2 (Europe) (Microsoft Xbox 360) (Manual) (300032814)": {
+		"languages": ["En"]
+	},
+	"Tom Clancy's Splinter Cell Conviction - Ghost Recon Future Soldier Beta (Europe) (Microsoft Xbox 360) (300028014)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider Legend - Manual (Europe) (Microsoft Xbox 360) (PTOM7TEN04)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider Underworld - Manual (Europe) (Microsoft Xbox 360) (PTOM8TEN04)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider Underworld - Mobile Game Advert (Europe) (Microsoft Xbox 360) (PTOM8ZEN05)": {
+		"languages": ["En"]
+	},
+	"Tony Hawk's Project 8 - Manual (United Kingdom) (Microsoft Xbox 360) (81607.226.UK)": {
+		"languages": ["En"]
+	},
+	"Tropical Fish (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Turtle Bridge (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	},
+	"Ultima VI - The False Prophet (Unknown) (Commodore Amiga)": {
+		"languages": ["En"]
+	},
+	"Ultra Hero Touch (Japan) (Sega Pico)": {
+		"languages": ["Ja"]
+	},
+	"Using the Xbox 360 Console (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox 360) (EAX07600000M)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Using the Xbox 360 Console - Slim (Scandinavia) (Sv,No,Da,Fi) (Microsoft Xbox 360) (EAX07600000M)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Vain Dream (Japan) (Fujitsu FM Towns)": {
+		"languages": ["Ja"]
+	},
+	"Vain Dream II (Japan) (Fujitsu FM Towns)": {
+		"languages": ["Ja"]
+	},
+	"Warhammer 40000 Spacemarine - Manual (Netherlands) (En,Nl) (Microsoft Xbox 360) (M51139X2BNL1)": {
+		"languages": ["En", "Nl"]
+	},
+	"Was ist das von Richard Scarry (Germany) (Leapfrog LeapPad) (500-10632 UBL)": {
+		"languages": ["De"]
+	},
+	"Wolfenstein (United Kingdom) (Microsoft Xbox 360) (83355.226.UK)": {
+		"languages": ["En"]
+	},
+	"World War II (Scandinavia) (Sv,No,Da,Fi) (Microsoft Windows)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"WRC - FIA World Rally Championship 2 (Europe) (En,Fr) (Microsoft Xbox 360) (Manual)": {
+		"languages": ["En", "Fr"]
+	},
+	"WRC - FIA World Rally Championship (Europe) (Microsoft Xbox 360) (DLC)": {
+		"languages": ["En"]
+	},
+	"WRC - FIA World Rally Championship (Europe) (Microsoft Xbox 360) (Manual)": {
+		"languages": ["En"]
+	},
+	"Xbox Advert (World) (Microsoft Xbox) (X10-82287 EN)": {
+		"languages": ["En"]
+	},
+	"Xenoblade Chronicles - Definitive Edition (United Kingdom) (Nintendo Switch) (TRA-HAC-AUBQA-UK4)": {
+		"languages": ["En"]
+	},
+	"Zelda (Game and Watch) (Unknown)": {
+		"languages": ["En"]
+	}
+}

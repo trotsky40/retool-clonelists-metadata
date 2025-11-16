@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Wii U (Redump)",
-		"lastUpdated": "18 April 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:46",
+		"minimumVersion": "2.4.0"
 	},
 	"variants": [
 		{
@@ -56,10 +56,12 @@
 			]
 		},
 		{
-			"group": "Dragon Quest X - All in One Package-",
+			"group": "Dragon Quest X - All in One Package",
 			"titles": [
-				{"searchTerm": "Dragon Quest X - All in One Package-"},
-				{"searchTerm": "Dragon Quest X - All in One Package", "priority": 2}
+				{"searchTerm": "Dragon Quest X - All in One Package"}
+			],
+			"supersets": [
+				{"searchTerm": "Dragon Quest X - All in One Package Version 1-Version 4"}
 			]
 		},
 		{
@@ -126,7 +128,7 @@
 			"group": "Legend of Zelda, The - The Wind Waker HD",
 			"titles": [
 				{"searchTerm": "Legend of Zelda, The - The Wind Waker HD"},
-				{"searchTerm": "Zelda no Densetsu - Kaze no Takuto HD"}
+				{"searchTerm": "Zelda no Densetsu - Kaze no Takt HD"}
 			]
 		},
 		{
@@ -153,8 +155,8 @@
 		{
 			"group": "LEGO Movie, The - Videogame",
 			"titles": [
-				{"searchTerm": "LEGO Movie, The - Videogame"},
-				{"searchTerm": "LEGO Movie - The Game"}
+				{"searchTerm": "LEGO Movie - The Game"},
+				{"searchTerm": "LEGO Movie, The - Videogame"}
 			]
 		},
 		{
@@ -193,17 +195,10 @@
 			]
 		},
 		{
-			"group": "Need for Speed - Most Wanted U",
-			"titles": [
-				{"searchTerm": "Need for Speed - Most Wanted U"},
-				{"searchTerm": "Need for Speed - Most Wanted U - A Criterion Game"}
-			]
-		},
-		{
 			"group": "NES Remix Pack",
 			"titles": [
-				{"searchTerm": "NES Remix Pack"},
-				{"searchTerm": "Famicom Remix 1 + 2"}
+				{"searchTerm": "Famicom Remix 1 + 2"},
+				{"searchTerm": "NES Remix Pack"}
 			]
 		},
 		{
@@ -290,8 +285,8 @@
 		{
 			"group": "Watch_Dogs",
 			"titles": [
-				{"searchTerm": "Watch_Dogs"},
-				{"searchTerm": "Watch Dogs"}
+				{"searchTerm": "Watch Dogs"},
+				{"searchTerm": "Watch_Dogs"}
 			]
 		},
 		{
@@ -304,8 +299,8 @@
 		{
 			"group": "Yoshi's Woolly World",
 			"titles": [
-				{"searchTerm": "Yoshi's Woolly World"},
-				{"searchTerm": "Yoshi Wool World"}
+				{"searchTerm": "Yoshi Wool World"},
+				{"searchTerm": "Yoshi's Woolly World"}
 			]
 		}
 	]

@@ -1,4 +1,40 @@
 {
+	"3D Challenge (Japan) (2011-01-12) (Tech Demo)": {
+		"languages": ["Ja"]
+	},
+	"3D Challenge (World) (En,Ja) (2010-07-07T120933 Rev 9410) (E3 2010 Tech Demo)": {
+		"languages": ["En", "Ja"]
+	},
+	"3D Challenge (World) (En,Ja) (2010-07-12T083731 Rev 9543) (E3 2010 Tech Demo)": {
+		"languages": ["En", "Ja"]
+	},
+	"3DS Testing Tool (World)": {
+		"languages": ["En"]
+	},
+	"Big Hero 6 Battle in the Bay (USA) (Beta)": {
+		"languages": ["En"]
+	},
+	"Camera Demo (World) (2010-05-28) (E3 2010 Tech Demo)": {
+		"languages": ["En"]
+	},
+	"Paper Mario Preview (World) (Beta) (E3 2010 Trailer)": {
+		"languages": ["nolang"]
+	},
+	"Photo Dojo DX (World) (2010-06-07T103141) (E3 2010 Tech Demo)": {
+		"languages": ["En"]
+	},
+	"Tech Demo - 3D Hopper (World) (2010-06-07T113916) (E3 2010 Tech Demo)": {
+		"languages": ["En"]
+	},
+	"Tech Demo - 3D Paddleball (World) (2010-06-03T151914) (E3 2010 Tech Demo)": {
+		"languages": ["En"]
+	},
+	"Tech Demo - Face Ace (World) (2010-06-08T154314 Rev 8659) (E3 2010 Tech Demo)": {
+		"languages": ["En"]
+	},
+	"Tech Demo - Target Shooting (World) (2010-06-07T104900) (E3 2010 Tech Demo)": {
+		"languages": ["En"]
+	},
 	"Wan Nyan Pet Shop (Japan) (Beta)": {
 		"languages": ["Ja"]
 	}

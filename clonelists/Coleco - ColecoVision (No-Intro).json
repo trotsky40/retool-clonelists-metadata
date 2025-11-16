@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Coleco - ColecoVision (No-Intro)",
-		"lastUpdated": "26 December 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Amazing Bumpman",
@@ -16,7 +15,7 @@
 		{
 			"group": "ColecoVision Monitor Test",
 			"titles": [
-				{"searchTerm": "ColecoVision Monitor Test", "categories": ["Applications"]}
+				{"searchTerm": "ColecoVision Monitor Test", "categories": ["applications"]}
 			]
 		},
 		{
@@ -29,7 +28,7 @@
 		{
 			"group": "Final Test Cartridge",
 			"titles": [
-				{"searchTerm": "Final Test Cartridge", "categories": ["Applications"]}
+				{"searchTerm": "Final Test Cartridge", "categories": ["applications"]}
 			]
 		},
 		{
@@ -46,8 +45,12 @@
 					"searchTerm": "Super Action Football",
 					"filters": [
 						{
-							"conditions": {"matchRegions": ["Europe"]},
-							"results": {"group": "Super Action Football (Europe)"}
+							"conditions": {
+								"matchRegions": ["Europe"]
+							},
+							"results": {
+								"group": "Super Action Football (Europe)"
+							}
 						}
 					]
 				}
@@ -56,7 +59,7 @@
 		{
 			"group": "Super Controller Tester",
 			"titles": [
-				{"searchTerm": "Super Controller Tester", "categories": ["Applications"]}
+				{"searchTerm": "Super Controller Tester", "categories": ["applications"]}
 			]
 		}
 	]

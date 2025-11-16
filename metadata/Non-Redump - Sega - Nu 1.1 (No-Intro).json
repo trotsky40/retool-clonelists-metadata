@@ -1,0 +1,44 @@
+{
+	"Chunithm (Japan) (v1.00.02) (0003)": {
+		"languages": ["Ja"]
+	},
+	"Chunithm (Japan) (v1.05.00) (0003B)": {
+		"languages": ["Ja"],
+		"localName": "チュウニズム"
+	},
+	"Chunithm Air Plus (Japan) (v1.15.00) (0003E)": {
+		"languages": ["Ja"],
+		"localName": "チュウニズム　エアープラス"
+	},
+	"Chunithm Amazon (Japan) (v1.30.00) (0003H)": {
+		"languages": ["Ja"],
+		"localName": "チュウニズム　アマゾン"
+	},
+	"Chunithm Amazon Plus (Japan) (v1.35.00) (0003J)": {
+		"languages": ["Ja"],
+		"localName": "チュウニズム　アマゾンプラス"
+	},
+	"Chunithm Crystal (Japan) (v1.40.00) (0003K)": {
+		"languages": ["Ja"],
+		"localName": "チュウニズム　クリスタル"
+	},
+	"Chunithm Paradise (Japan) (v1.50.00) (0003N)": {
+		"languages": ["Ja"]
+	},
+	"Chunithm Star (Japan) (v1.20.00) (0003F)": {
+		"languages": ["Ja"],
+		"localName": "チュウニズム　スター"
+	},
+	"KanColle Arcade (Japan) (v3.40.00) (Disc 1) (0004AE)": {
+		"languages": ["Ja"],
+		"localName": "艦これアーケード"
+	},
+	"KanColle Arcade (Japan) (v6.00.00) (Disc 2) (0004BM)": {
+		"languages": ["Ja"],
+		"localName": "艦これアーケード"
+	},
+	"KanColle Arcade (Japan) (v6.00.00) (Disc 3) (0004BM)": {
+		"languages": ["Ja"],
+		"localName": "艦これアーケード"
+	}
+}

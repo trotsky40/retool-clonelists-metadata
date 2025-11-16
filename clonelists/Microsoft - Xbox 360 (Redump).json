@@ -1,39 +1,15 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox 360 (Redump)",
-		"lastUpdated": "19 April 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
-	"mias": [
-		"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)",
-		"BioShock Infinite (Japan)",
-		"Crysis 3 (Europe)",
-		"Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc) (Rev 1)",
-		"Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc) (Rev 1)",
-		"Guitar Hero III - Legends of Rock (USA) (En,Fr,De,Es,It)",
-		"Halo 3 (Asia) (En,Zh)",
-		"Halo 3 (USA)",
-		"Just Dance 4 (Europe) (Rev 1)",
-		"Kinect Adventures! (Asia) (En,Zh)",
-		"Mass Effect (France) (Bonus Content Disc)",
-		"Metal Gear Solid - HD Edition (Japan)",
-		"NBA 2K12 - Game of the Year Edition (USA)",
-		"NBA Live 06 (Asia) (En,Zh)",
-		"Red Dead Redemption - Complete Edition (Japan) (Disc 1) (Single Player)",
-		"Red Dead Redemption - Complete Edition (Japan) (Disc 2) (Red Dead Redemption - Undead Nightmare & Multiplayer)",
-		"Resident Evil 5 (World) (En,Ja,Fr,De,Es,It) (Beta) (2009-01-07)",
-		"Rock Band 3 (USA) (Rev 1)",
-		"Xbox 360 - The Experience Disc Version 5.0 (Taiwan)",
-		"Xbox 360 Hard Drive Transfer Disc (Taiwan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)",
-		"Your Shape - Fitness Evolved (Asia) (En,Zh)"
-	],
-
 	"variants": [
 		{
 			"group": "007 - Quantum of Solace",
 			"titles": [
 				{"searchTerm": "007 - Ein Quantum Trost"},
+				{"searchTerm": "007 - Kvant Miloserdiya"},
 				{"searchTerm": "007 - Nagusame no Houshuu"},
 				{"searchTerm": "007 - Quantum of Solace"}
 			]
@@ -57,6 +33,20 @@
 			"titles": [
 				{"searchTerm": "Ace Combat 6 - Fires of Liberation"},
 				{"searchTerm": "Ace Combat 6 - Kaihou e no Senka"}
+			]
+		},
+		{
+			"group": "Adventures of Tintin, The - The Game",
+			"titles": [
+				{"searchTerm": "Adventures of Tintin, The - The Game"},
+				{"searchTerm": "Adventures of Tintin, The - The Secret of the Unicorn"}
+			]
+		},
+		{
+			"group": "Amazing Spider-Man, The",
+			"titles": [
+				{"searchTerm": "Amazing Spider-Man, The"},
+				{"searchTerm": "Novyj Chelovek-Pauk"}
 			]
 		},
 		{
@@ -95,8 +85,8 @@
 		{
 			"group": "Assassin's Creed IV - Black Flag (Disc 2)",
 			"titles": [
-				{"searchTerm": "Assassin's Creed IV - Black Flag (Disc 2) (Multiplayer)"},
-				{"searchTerm": "Assassin's Creed IV - Black Flag (Disc 2)"}
+				{"searchTerm": "Assassin's Creed IV - Black Flag (Disc 2)"},
+				{"searchTerm": "Assassin's Creed IV - Black Flag (Disc 2) (Multiplayer)"}
 			]
 		},
 		{
@@ -118,6 +108,20 @@
 			]
 		},
 		{
+			"group": "Battlefield 3 (Disc 1) (Multiplayer-Co-Op)",
+			"titles": [
+				{"searchTerm": "Battlefield 3 (Disc 1) (Multiplay-COOP)"},
+				{"searchTerm": "Battlefield 3 (Disc 1) (Multiplayer-Co-Op)"}
+			]
+		},
+		{
+			"group": "Battlefield 3 (Disc 2) (Single-Player Campaign)",
+			"titles": [
+				{"searchTerm": "Battlefield 3 (Disc 2) (Single-Play)"},
+				{"searchTerm": "Battlefield 3 (Disc 2) (Single-Player Campaign)"}
+			]
+		},
+		{
 			"group": "Battlefield - Bad Company",
 			"titles": [
 				{"searchTerm": "Battlefield - Bad Company"}
@@ -133,20 +137,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Battlefield - Bad Company 2 (Limited Edition)"}
-			]
-		},
-		{
-			"group": "Battlefield 3 (Disc 1) (Multiplayer-Co-Op)",
-			"titles": [
-				{"searchTerm": "Battlefield 3 (Disc 1) (Multiplay-COOP)"},
-				{"searchTerm": "Battlefield 3 (Disc 1) (Multiplayer-Co-Op)"}
-			]
-		},
-		{
-			"group": "Battlefield 3 (Disc 2) (Single-Player Campaign)",
-			"titles": [
-				{"searchTerm": "Battlefield 3 (Disc 2) (Single-Play)"},
-				{"searchTerm": "Battlefield 3 (Disc 2) (Single-Player Campaign)"}
 			]
 		},
 		{
@@ -175,7 +165,7 @@
 			"titles": [
 				{"searchTerm": "Borderlands - Add-On Doppelpack"},
 				{"searchTerm": "Borderlands - Double Game Add-On Pack"},
-				{"searchTerm": "Borderlands - Add-On Installation Disc", "priority": 2},
+				{"searchTerm": "Borderlands (Add-On Installation Disc)", "priority": 2},
 				{"searchTerm": "Borderlands - Game of the Year Edition (Add-On Content Disc)", "priority": 2}
 			]
 		},
@@ -238,18 +228,18 @@
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc de Jeu)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc de Juego)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc di Gioco)"},
-				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Dysk Z Gra)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc do Jogo)"},
+				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Dysk Z Gra)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Game Disc)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Igrovoj)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Spieldisc)"}
 			]
 		},
 		{
-			"group": "Carnival Games - Monkey See, Monkey Do",
+			"group": "Castlevania - Lords of Shadow 2",
 			"titles": [
-				{"searchTerm": "Carnival Games - Monkey See, Monkey Do"},
-				{"searchTerm": "Carnival Games - Monkey See, Monkey Do ~ Carnival Games in Action!"}
+				{"searchTerm": "Akumajou Dracula - Lords of Shadow 2"},
+				{"searchTerm": "Castlevania - Lords of Shadow 2"}
 			]
 		},
 		{
@@ -260,18 +250,27 @@
 			]
 		},
 		{
-			"group": "Command & Conquer - Red Alert 3",
-			"titles": [
-				{"searchTerm": "Command & Conquer - Alarmstufe Rot 3"},
-				{"searchTerm": "Command & Conquer - Red Alert 3"}
-			]
-		},
-		{
 			"group": "Command & Conquer 3 - Kane's Wrath",
 			"titles": [
 				{"searchTerm": "Command & Conquer 3 - Kane's Wrath"},
 				{"searchTerm": "Command & Conquer 3 - Kanes Rache"},
-				{"searchTerm": "Command & Conquer 3 - L'Ira di Kane"}
+				{"searchTerm": "Command & Conquer 3 - L'Ira di Kane"},
+				{"searchTerm": "Command & Conquer 3 - La Fureur de Kane"}
+			]
+		},
+		{
+			"group": "Command & Conquer 3 - Tiberium Wars",
+			"titles": [
+				{"searchTerm": "Command & Conquer 3 - Les Guerres du Tiberium"},
+				{"searchTerm": "Command & Conquer 3 - Tiberium Wars"}
+			]
+		},
+		{
+			"group": "Command & Conquer - Red Alert 3",
+			"titles": [
+				{"searchTerm": "Command & Conquer - Alarmstufe Rot 3"},
+				{"searchTerm": "Command & Conquer - Alerte Rouge 3"},
+				{"searchTerm": "Command & Conquer - Red Alert 3"}
 			]
 		},
 		{
@@ -321,6 +320,13 @@
 			]
 		},
 		{
+			"group": "Darksiders",
+			"titles": [
+				{"searchTerm": "Darksiders"},
+				{"searchTerm": "Darksiders - Shinpan no Toki"}
+			]
+		},
+		{
 			"group": "Dead Island",
 			"titles": [
 				{"searchTerm": "Dead Island"}
@@ -328,6 +334,15 @@
 			"supersets": [
 				{"searchTerm": "Dead Island - Game of the Year Edition"},
 				{"searchTerm": "Dead Island - Zombie of the Year Edition"}
+			]
+		},
+		{
+			"group": "Dead Island - Riptide",
+			"titles": [
+				{"searchTerm": "Dead Island - Riptide"}
+			],
+			"supersets": [
+				{"searchTerm": "Dead Island - Riptide - Complete Edition"}
 			]
 		},
 		{
@@ -342,6 +357,13 @@
 			"categories": ["Bonus Discs", "Video"],
 			"titles": [
 				{"searchTerm": "Dead Rising 2 (Zombrex Edition Bonus Disc)"}
+			]
+		},
+		{
+			"group": "Deadly Premonition",
+			"titles": [
+				{"searchTerm": "Deadly Premonition"},
+				{"searchTerm": "Red Seeds Profile"}
 			]
 		},
 		{
@@ -396,8 +418,11 @@
 		{
 			"group": "Disney-Pixar Toy Story 3",
 			"titles": [
-				{"searchTerm": "Disney-Pixar Toy Story 3"},
-				{"searchTerm": "Disney-Pixar Istoriya igrushek - Bol'shoj pobeg"}
+				{"searchTerm": "Disney-Pixar Istoriya igrushek - Bol'shoj pobeg"},
+				{"searchTerm": "Disney-Pixar Toy Story 3"}
+			],
+			"supersets": [
+				{"searchTerm": "Disney-Pixar Toy Story 3 (Toy Box Special Edition)"}
 			]
 		},
 		{
@@ -427,17 +452,17 @@
 		{
 			"group": "Dragon Age - Origins",
 			"titles": [
+				{"searchTerm": "Dragon Age - Nachalo"},
 				{"searchTerm": "Dragon Age - Origins"},
-				{"searchTerm": "Dragon Age - Origins (Disc 1)"},
-				{"searchTerm": "Dragon Age - Nachalo"}
+				{"searchTerm": "Dragon Age - Origins (Disc 1)"}
 			]
 		},
 		{
 			"group": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Additional Content Packs Install Disc)",
 			"titles": [
+				{"searchTerm": "Dragon Age - Origins (Disc 2) (Tsuika Contents Disc)"},
 				{"searchTerm": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Additional Content Packs Install Disc)"},
-				{"searchTerm": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Zusaetzliche Inhaltspacks Installations-Disc)"},
-				{"searchTerm": "Dragon Age - Origins (Disc 2) (Tsuika Contents Disc)"}
+				{"searchTerm": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Zusaetzliche Inhaltspacks Installations-Disc)"}
 			]
 		},
 		{
@@ -459,6 +484,35 @@
 			"titles": [
 				{"searchTerm": "DreamWorks Shrek Terzo"},
 				{"searchTerm": "DreamWorks Shrek the Third"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 5 - Empires",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors 5 - Empires"},
+				{"searchTerm": "Shin Sangoku Musou 4 - Empires"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 6",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors 6"},
+				{"searchTerm": "Jin Samguk Mussang 5"},
+				{"searchTerm": "Shin Sangoku Musou 5"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 6 - Empires",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors 6 - Empires"},
+				{"searchTerm": "Jin Samguk Mussang 5 - Empires"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 8",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors 8"},
+				{"searchTerm": "Shin Sangoku Musou 7"}
 			]
 		},
 		{
@@ -488,28 +542,6 @@
 				{"searchTerm": "Dynasty Warriors - Strikeforce"},
 				{"searchTerm": "Jin Samguk Mussang - Multi Raid Special"},
 				{"searchTerm": "Shin Sangoku Musou - Multi Raid Special"}
-			]
-		},
-		{
-			"group": "Dynasty Warriors 5 - Empires",
-			"titles": [
-				{"searchTerm": "Dynasty Warriors 5 - Empires"},
-				{"searchTerm": "Shin Sangoku Musou 4 - Empires"}
-			]
-		},
-		{
-			"group": "Dynasty Warriors 6",
-			"titles": [
-				{"searchTerm": "Dynasty Warriors 6"},
-				{"searchTerm": "Jin Samguk Mussang 5"},
-				{"searchTerm": "Shin Sangoku Musou 5"}
-			]
-		},
-		{
-			"group": "Dynasty Warriors 8",
-			"titles": [
-				{"searchTerm": "Dynasty Warriors 8"},
-				{"searchTerm": "Shin Sangoku Musou 7"}
 			]
 		},
 		{
@@ -565,10 +597,10 @@
 			]
 		},
 		{
-			"group": "Family Games (Demo)",
+			"group": "Evil Within, The",
 			"titles": [
-				{"searchTerm": "Family Games (Demo)"},
-				{"searchTerm": "Family Games (Toys R Us) (Demo)", "priority": 2}
+				{"searchTerm": "Evil Within, The"},
+				{"searchTerm": "Psycho Break"}
 			]
 		},
 		{
@@ -588,6 +620,13 @@
 			"supersets": [
 				{"searchTerm": "Fable II - Game of the Year Edition"},
 				{"searchTerm": "Fable II - Gioco dell'Anno"}
+			]
+		},
+		{
+			"group": "Family Games (Demo)",
+			"titles": [
+				{"searchTerm": "Family Games (Demo)"},
+				{"searchTerm": "Family Games (Toys R Us) (Demo)", "priority": 2}
 			]
 		},
 		{
@@ -614,7 +653,6 @@
 		{
 			"group": "FIFA 19 - Legacy Edition",
 			"titles": [
-				{"searchTerm": "FIFA 19"},
 				{"searchTerm": "FIFA 19 - Edicao Legacy"},
 				{"searchTerm": "FIFA 19 - Izdanie Legacy"},
 				{"searchTerm": "FIFA 19 - Legacy Edition"}
@@ -677,6 +715,16 @@
 			]
 		},
 		{
+			"group": "Final Fantasy XI - All in One Pack 2006",
+			"titles": [
+				{"searchTerm": "Final Fantasy XI - All in One Pack 2006"}
+			],
+			"supersets": [
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
+			]
+		},
+		{
 			"group": "Final Fantasy XI - Online",
 			"titles": [
 				{"searchTerm": "Final Fantasy XI - Online"},
@@ -688,20 +736,10 @@
 			]
 		},
 		{
-			"group": "Final Fantasy XI - All in One Pack 2006",
-			"titles": [
-				{"searchTerm": "Final Fantasy XI - All in One Pack 2006"}
-			],
-			"supersets": [
-				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
-				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
-			]
-		},
-		{
 			"group": "Final Fantasy XI - Online - Vana'diel Collection 2008",
 			"titles": [
-				{"searchTerm": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
 				{"searchTerm": "Final Fantasy XI - Online - 2008 Edition"},
+				{"searchTerm": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
 				{"searchTerm": "Final Fantasy XI - Online - 2007 Edition", "priority": 2}
 			],
 			"supersets": [
@@ -712,8 +750,8 @@
 		{
 			"group": "Final Fantasy XI - Online - Wings of the Goddess Expansion Pack",
 			"titles": [
-				{"searchTerm": "Final Fantasy XI - Online - Wings of the Goddess Expansion Pack"},
-				{"searchTerm": "Final Fantasy XI - Altana no Shinpei"}
+				{"searchTerm": "Final Fantasy XI - Altana no Shinpei"},
+				{"searchTerm": "Final Fantasy XI - Online - Wings of the Goddess Expansion Pack"}
 			],
 			"supersets": [
 				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
@@ -790,14 +828,6 @@
 			]
 		},
 		{
-			"group": "Godfather, The",
-			"titles": [
-				{"searchTerm": "Godfather, The"},
-				{"searchTerm": "Padrino, El"},
-				{"searchTerm": "Padrino, Il"}
-			]
-		},
-		{
 			"group": "Godfather II, The",
 			"titles": [
 				{"searchTerm": "Godfather II, The"},
@@ -806,9 +836,19 @@
 			]
 		},
 		{
+			"group": "Godfather, The",
+			"titles": [
+				{"searchTerm": "Godfather, The"},
+				{"searchTerm": "Padrino, El"},
+				{"searchTerm": "Padrino, Il"}
+			]
+		},
+		{
 			"group": "Halo 3 - ODST (Disc 1) (Campaign)",
 			"titles": [
+				{"searchTerm": "Halo 3 - ODST (Campagne)"},
 				{"searchTerm": "Halo 3 - ODST (Campaign)"},
+				{"searchTerm": "Halo 3 - ODST (Disc 1)"},
 				{"searchTerm": "Halo 3 - ODST (Disc 1) (Campaign)"},
 				{"searchTerm": "Halo 3 - ODST (Disc 1) (Campanha)"}
 			]
@@ -817,14 +857,23 @@
 			"group": "Hard Drive Transfer Disc",
 			"titles": [
 				{"searchTerm": "Hard Drive Transfer Disc"},
-				{"searchTerm": "Xbox 360 Hard Disk Data Tensou-you Disc"}
+				{"searchTerm": "Xbox 360 Hard Disk Data Tensou-you Disc"},
+				{"searchTerm": "Xbox 360 Hard Drive Transfer Disc"}
+			]
+		},
+		{
+			"group": "Harry Potter and the Order of the Phoenix",
+			"titles": [
+				{"searchTerm": "Harry Potter and the Order of the Phoenix"},
+				{"searchTerm": "Harry Potter to Fushichou no Kishidan"}
 			]
 		},
 		{
 			"group": "Ice Age - Continental Drift - Arctic Games",
 			"titles": [
 				{"searchTerm": "Era Glaciale 4, L' - Continenti alla Deriva - Giochi Polari"},
-				{"searchTerm": "Ice Age - Continental Drift - Arctic Games"}
+				{"searchTerm": "Ice Age - Continental Drift - Arctic Games"},
+				{"searchTerm": "Lednikovyj period 4 - Kontinental'nyj drejf - Arkticheskie igry"}
 			]
 		},
 		{
@@ -842,6 +891,15 @@
 			]
 		},
 		{
+			"group": "Incredible Hulk, The",
+			"titles": [
+				{"searchTerm": "Incredible Hulk, The"}
+			],
+			"supersets": [
+				{"searchTerm": "Incredible Hulk, The (GameStop)"}
+			]
+		},
+		{
 			"group": "Injustice - Gods Among Us",
 			"titles": [
 				{"searchTerm": "Injustice - Gods Among Us"}
@@ -853,8 +911,8 @@
 		{
 			"group": "James Cameron's Avatar - The Game",
 			"titles": [
-				{"searchTerm": "James Cameron's Avatar - The Game"},
 				{"searchTerm": "James Cameron's Avatar - Gra Komputerowa"},
+				{"searchTerm": "James Cameron's Avatar - The Game"},
 				{"searchTerm": "James Cameron's Avatar The Game"}
 			]
 		},
@@ -868,7 +926,9 @@
 		{
 			"group": "Kengo - Legend of the 9",
 			"titles": [
+				{"searchTerm": "Geomho Zero"},
 				{"searchTerm": "Kengo - Legend of the 9"},
+				{"searchTerm": "Kengo Zero"},
 				{"searchTerm": "Kengou Zero"}
 			]
 		},
@@ -934,19 +994,33 @@
 			]
 		},
 		{
-			"group": "Magnacarta 2 (Disc 1)",
+			"group": "Madden NFL 08",
 			"titles": [
-				{"searchTerm": "Magna Carta II (Disc 1)"},
-				{"searchTerm": "Magnacarta 2 (Disc 1)"},
-				{"searchTerm": "Magnacarta II (Disc 1)"}
+				{"searchTerm": "Madden NFL 08"},
+				{"searchTerm": "Madden NFL 08 en Espanol"}
 			]
 		},
 		{
-			"group": "Magnacarta 2 (Disc 2)",
+			"group": "Madden NFL 09",
 			"titles": [
-				{"searchTerm": "Magna Carta II (Disc 2)"},
-				{"searchTerm": "Magnacarta 2 (Disc 2)"},
-				{"searchTerm": "Magnacarta II (Disc 2)"}
+				{"searchTerm": "Madden NFL 09"}
+			],
+			"supersets": [
+				{"searchTerm": "Madden NFL 09 (20th Anniversary Collector's Edition)"}
+			]
+		},
+		{
+			"group": "MagnaCarta 2 (Disc 1)",
+			"titles": [
+				{"searchTerm": "MagnaCarta 2 (Disc 1)"},
+				{"searchTerm": "MagnaCarta II (Disc 1)"}
+			]
+		},
+		{
+			"group": "MagnaCarta 2 (Disc 2)",
+			"titles": [
+				{"searchTerm": "MagnaCarta 2 (Disc 2)"},
+				{"searchTerm": "MagnaCarta II (Disc 2)"}
 			]
 		},
 		{
@@ -974,10 +1048,18 @@
 			]
 		},
 		{
-			"group": "Max Payne 3 (Disc 1) (Single Player Disc 1 and Multiplayer)",
+			"group": "Max Payne 3 (Disc 1)",
 			"titles": [
+				{"searchTerm": "Max Payne 3 (Disc 1)"},
 				{"searchTerm": "Max Payne 3 (Disc 1) (Single Player Disc 1 and Multiplayer)"},
 				{"searchTerm": "Max Payne 3 (Disc 1) (Single Player Disc 1 und Multiplayer)"}
+			]
+		},
+		{
+			"group": "Max Payne 3 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Max Payne 3 (Disc 2)"},
+				{"searchTerm": "Max Payne 3 (Disc 2) (Single Player Disc 2)"}
 			]
 		},
 		{
@@ -1088,10 +1170,10 @@
 			]
 		},
 		{
-			"group": "Need for Speed - The Run",
+			"group": "Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge",
 			"titles": [
-				{"searchTerm": "Need for Speed - The Run (651050A1)"},
-				{"searchTerm": "Need for Speed - The Run (264F3B05)", "priority": 2}
+				{"searchTerm": "Nickelodeon Gubka Bob Kvadratnye Shtany - Plankton - Mest' robotov"},
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge"}
 			]
 		},
 		{
@@ -1181,20 +1263,6 @@
 			]
 		},
 		{
-			"group": "Resident Evil 5 ~ Biohazard 5",
-			"titles": [
-				{"searchTerm": "Resident Evil 5 ~ Biohazard 5"},
-				{"searchTerm": "Resident Evil 5"}
-			]
-		},
-		{
-			"group": "Resident Evil 6 ~ Biohazard 6 (Disc 1) (Game)",
-			"titles": [
-				{"searchTerm": "Resident Evil 6 ~ Biohazard 6 (Disc 1) (Game)"},
-				{"searchTerm": "Resident Evil 6 (Disc 1) (Game Disc)"}
-			]
-		},
-		{
 			"group": "Red Dead Redemption",
 			"titles": [
 				{"searchTerm": "Red Dead Redemption"}
@@ -1212,6 +1280,49 @@
 			"supersets": [
 				{"searchTerm": "Red Dead Redemption - Complete Edition (Disc 2) (Red Dead Redemption - Undead Nightmare & Multiplayer)"},
 				{"searchTerm": "Red Dead Redemption - Game of the Year Edition (Disc 2) (Undead Nightmare and Multiplayer)"}
+			]
+		},
+		{
+			"group": "Resident Evil 5",
+			"titles": [
+				{
+					"searchTerm": "Resident Evil 5",
+					"localNames": {
+						"english": "Resident Evil 5",
+						"japanese": "バイオハザード5"
+					}
+				}
+			]
+		},
+		{
+			"group": "Resident Evil 6 (Disc 1)",
+			"titles": [
+				{
+					"searchTerm": "Resident Evil 6 (Disc 1) (Game Disc)",
+					"localNames": {
+						"english": "Resident Evil 6",
+						"japanese": "バイオハザー6"
+					}
+				},
+				{
+					"searchTerm": "Resident Evil 6 (Disc 1) (Game)",
+					"localNames": {
+						"english": "Resident Evil 6",
+						"japanese": "バイオハザー6"
+					}
+				}
+			]
+		},
+		{
+			"group": "Resident Evil 6 (Disc 2)",
+			"titles": [
+				{
+					"searchTerm": "Resident Evil 6 (Disc 2) (Voice Over Pack)",
+					"localNames": {
+						"english": "Resident Evil 6",
+						"japanese": "バイオハザー6"
+					}
+				}
 			]
 		},
 		{
@@ -1238,10 +1349,21 @@
 		{
 			"group": "Rocksmith",
 			"titles": [
-				{"searchTerm": "Rocksmith"}
+				{"searchTerm": "Rocksmith (Guitar and Bass)"},
+				{"searchTerm": "Rocksmith", "priority": 2}
 			],
 			"supersets": [
-				{"searchTerm": "Rocksmith - All-New 2014 Edition"}
+				{"searchTerm": "Rocksmith - All-New 2014 Edition"},
+				{"searchTerm": "Rocksmith (Best Buy Edition)", "priority": 2}
+			]
+		},
+		{
+			"group": "Rugby League Live 2",
+			"titles": [
+				{"searchTerm": "Rugby League Live 2"}
+			],
+			"supersets": [
+				{"searchTerm": "Rugby League Live 2 - World Cup Edition"}
 			]
 		},
 		{
@@ -1269,6 +1391,14 @@
 			]
 		},
 		{
+			"group": "Scene It Box Office Smash!",
+			"titles": [
+				{"searchTerm": "Scene It Box Office Smash!"},
+				{"searchTerm": "Scene It Grandes Exitos de Taquilla"},
+				{"searchTerm": "Scene It Kinohits"}
+			]
+		},
+		{
 			"group": "Scene It Bright Lights! Big Screen!",
 			"titles": [
 				{"searchTerm": "Scene It Bright Lights! Big Screen!"},
@@ -1282,15 +1412,8 @@
 			"titles": [
 				{"searchTerm": "Scene It Lights, Camera, Action"},
 				{"searchTerm": "Scene It Lights, Camera, Action!"},
-				{"searchTerm": "Scene It Luces, Camara, Accion!"}
-			]
-		},
-		{
-			"group": "Scene It Box Office Smash!",
-			"titles": [
-				{"searchTerm": "Scene It Box Office Smash!"},
-				{"searchTerm": "Scene It Grandes Exitos de Taquilla"},
-				{"searchTerm": "Scene It Kinohits"}
+				{"searchTerm": "Scene It Luces, Camara, Accion!"},
+				{"searchTerm": "Scene It Lumieres ! Action !"}
 			]
 		},
 		{
@@ -1305,9 +1428,9 @@
 		{
 			"group": "Simpsons Game, The",
 			"titles": [
+				{"searchTerm": "Simpson, Les - Le Jeu"},
 				{"searchTerm": "Simpsons Game, The"},
-				{"searchTerm": "Simpsons, Die - Das Spiel"},
-				{"searchTerm": "Simpson, Les - Le Jeu"}
+				{"searchTerm": "Simpsons, Die - Das Spiel"}
 			]
 		},
 		{
@@ -1320,19 +1443,12 @@
 			]
 		},
 		{
-			"group": "Sniper Elite",
+			"group": "Sniper Elite V2",
 			"titles": [
-				{"searchTerm": "Sniper Elite"}
+				{"searchTerm": "Sniper Elite V2"}
 			],
 			"supersets": [
-				{"searchTerm": "Sniper Elite - Silver Star Edition"}
-			]
-		},
-		{
-			"group": "Sonic's Ultimate Genesis Collection",
-			"titles": [
-				{"searchTerm": "Sega Mega Drive Ultimate Collection"},
-				{"searchTerm": "Sonic's Ultimate Genesis Collection"}
+				{"searchTerm": "Sniper Elite V2 - Silver Star Edition"}
 			]
 		},
 		{
@@ -1340,6 +1456,13 @@
 			"titles": [
 				{"searchTerm": "Sonic Unleashed"},
 				{"searchTerm": "Sonic World Adventure"}
+			]
+		},
+		{
+			"group": "Sonic's Ultimate Genesis Collection",
+			"titles": [
+				{"searchTerm": "Sega Mega Drive Ultimate Collection"},
+				{"searchTerm": "Sonic's Ultimate Genesis Collection"}
 			]
 		},
 		{
@@ -1384,8 +1507,8 @@
 		{
 			"group": "Summer Athletics - The Ultimate Challenge",
 			"titles": [
-				{"searchTerm": "Summer Athletics - The Ultimate Challenge"},
-				{"searchTerm": "Summer Athletics"}
+				{"searchTerm": "Summer Athletics"},
+				{"searchTerm": "Summer Athletics - The Ultimate Challenge"}
 			]
 		},
 		{
@@ -1402,6 +1525,24 @@
 			],
 			"supersets": [
 				{"searchTerm": "Tiger Woods PGA Tour 13 (Masters Collector's Edition)"}
+			]
+		},
+		{
+			"group": "Tiger Woods PGA Tour 14",
+			"titles": [
+				{"searchTerm": "Tiger Woods PGA Tour 14"}
+			],
+			"supersets": [
+				{"searchTerm": "Tiger Woods PGA Tour 14 - Masters Historic Edition"}
+			]
+		},
+		{
+			"group": "Tom Clancy's Rainbow Six - Vegas 2",
+			"titles": [
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2"}
+			],
+			"supersets": [
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition"}
 			]
 		},
 		{
@@ -1458,11 +1599,11 @@
 			]
 		},
 		{
-			"group": "Virtua Fighter 5 Online ~ Virtua Fighter 5",
+			"group": "Virtua Fighter 5 Online",
 			"titles": [
 				{"searchTerm": "Virtua Fighter 5"},
 				{"searchTerm": "Virtua Fighter 5 - Live Arena"},
-				{"searchTerm": "Virtua Fighter 5 Online ~ Virtua Fighter 5"}
+				{"searchTerm": "Virtua Fighter 5 Online"}
 			]
 		},
 		{
@@ -1472,6 +1613,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Walking Dead, The - A Telltale Games Series - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Warriors - Legends of Troy",
+			"titles": [
+				{"searchTerm": "Troy Musou"},
+				{"searchTerm": "Warriors - Legends of Troy"}
 			]
 		},
 		{
@@ -1489,13 +1637,6 @@
 			]
 		},
 		{
-			"group": "Warriors - Legends of Troy",
-			"titles": [
-				{"searchTerm": "Troy Musou"},
-				{"searchTerm": "Warriors - Legends of Troy"}
-			]
-		},
-		{
 			"group": "WarTech - Senko no Ronde",
 			"titles": [
 				{"searchTerm": "Senkou no Ronde Rev.X"},
@@ -1503,15 +1644,17 @@
 			]
 		},
 		{
-			"group": "Watch_Dogs (Disc 1) (Installation Disc)",
+			"group": "Watch Dogs (Disc 1)",
 			"titles": [
+				{"searchTerm": "Watch Dogs (Disc 1)"},
 				{"searchTerm": "Watch_Dogs (Disc 1)"},
 				{"searchTerm": "Watch_Dogs (Disc 1) (Installation Disc)"}
 			]
 		},
 		{
-			"group": "Watch_Dogs (Disc 2) (Game Disc)",
+			"group": "Watch Dogs (Disc 2)",
 			"titles": [
+				{"searchTerm": "Watch Dogs (Disc 2)"},
 				{"searchTerm": "Watch_Dogs (Disc 2)"},
 				{"searchTerm": "Watch_Dogs (Disc 2) (Game Disc)"}
 			]
@@ -1526,7 +1669,7 @@
 		{
 			"group": "Winning Eleven - Pro Evolution Soccer 2007",
 			"titles": [
-				{"searchTerm": "Pro Evolution Soccer 6"},
+				{"searchTerm": "PES 6 - Pro Evolution Soccer"},
 				{"searchTerm": "Winning Eleven - Pro Evolution Soccer 2007"},
 				{"searchTerm": "World Soccer Winning Eleven X"}
 			]
@@ -1549,17 +1692,17 @@
 			]
 		},
 		{
-			"group": "Zone of the Enders HD Collection",
-			"titles": [
-				{"searchTerm": "Zone of the Enders - HD Edition"},
-				{"searchTerm": "Zone of the Enders HD Collection"}
-			]
-		},
-		{
 			"group": "Zoids Assault",
 			"titles": [
 				{"searchTerm": "Zoids Alternative"},
 				{"searchTerm": "Zoids Assault"}
+			]
+		},
+		{
+			"group": "Zone of the Enders HD Collection",
+			"titles": [
+				{"searchTerm": "Zone of the Enders - HD Edition"},
+				{"searchTerm": "Zone of the Enders HD Collection"}
 			]
 		}
 	]

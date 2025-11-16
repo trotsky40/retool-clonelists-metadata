@@ -1,16 +1,22 @@
 {
 	"description": {
 		"name": "NEC - PC Engine - TurboGrafx-16 (No-Intro)",
-		"lastUpdated": "28 April 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2025-10-12 11:08:40",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Air Zonk",
 			"titles": [
 				{"searchTerm": "Air Zonk"},
 				{"searchTerm": "PC Denjin - Punkic Cyborgs"}
+			]
+		},
+		{
+			"group": "Billy's Bad Day",
+			"titles": [
+				{"searchTerm": "Billy's Bad Day"},
+				{"searchTerm": "Billy's Bad Day (Online Version)", "priority": 2}
 			]
 		},
 		{
@@ -74,7 +80,7 @@
 			"group": "Bravoman",
 			"titles": [
 				{"searchTerm": "Bravoman"},
-				{"searchTerm": "Chouzetsurinjin Bravoman"}
+				{"searchTerm": "Chou Zetsurinjin Bravoman"}
 			]
 		},
 		{
@@ -129,8 +135,8 @@
 		{
 			"group": "Devil's Crush",
 			"titles": [
-				{"searchTerm": "Devil's Crush"},
-				{"searchTerm": "Devil Crash - Naxat Pinball"}
+				{"searchTerm": "Devil Crash - Naxat Pinball"},
+				{"searchTerm": "Devil's Crush"}
 			]
 		},
 		{
@@ -178,8 +184,8 @@
 		{
 			"group": "Jack Nicklaus' Turbo Golf",
 			"titles": [
-				{"searchTerm": "Jack Nicklaus' Turbo Golf"},
-				{"searchTerm": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf"}
+				{"searchTerm": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf"},
+				{"searchTerm": "Jack Nicklaus' Turbo Golf"}
 			]
 		},
 		{
@@ -197,17 +203,17 @@
 			]
 		},
 		{
-			"group": "Legendary Axe, The",
-			"titles": [
-				{"searchTerm": "Legendary Axe, The"},
-				{"searchTerm": "Makyou Densetsu"}
-			]
-		},
-		{
 			"group": "Legendary Axe II",
 			"titles": [
 				{"searchTerm": "Ankoku Densetsu"},
 				{"searchTerm": "Legendary Axe II"}
+			]
+		},
+		{
+			"group": "Legendary Axe, The",
+			"titles": [
+				{"searchTerm": "Legendary Axe, The"},
+				{"searchTerm": "Makyou Densetsu"}
 			]
 		},
 		{
@@ -273,8 +279,8 @@
 		{
 			"group": "SideArms",
 			"titles": [
-				{"searchTerm": "SideArms"},
-				{"searchTerm": "SideArms - Hyper Dyne"}
+				{"searchTerm": "Hyper Dyne - SideArms"},
+				{"searchTerm": "SideArms"}
 			]
 		},
 		{

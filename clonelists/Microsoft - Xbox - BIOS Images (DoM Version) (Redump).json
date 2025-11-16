@@ -1,0 +1,15 @@
+{
+	"description": {
+		"name": "Microsoft - Xbox - BIOS Images (DoM Version) (Redump)",
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
+	},
+	"variants": [
+		{
+			"group": "All Titles",
+			"titles": [
+				{"searchTerm": ".+", "nameType": "regex", "categories": ["BIOS"]}
+			]
+		}
+	]
+}

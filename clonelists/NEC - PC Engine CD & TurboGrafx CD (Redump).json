@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "NEC - PC Engine CD & TurboGrafx CD (Redump)",
-		"lastUpdated": "11 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Bonk's Adventure",
@@ -79,8 +78,8 @@
 		{
 			"group": "Jack Nicklaus Turbo Golf",
 			"titles": [
-				{"searchTerm": "Jack Nicklaus' World Tour Golf - 162 Holes"},
-				{"searchTerm": "Jack Nicklaus Turbo Golf"}
+				{"searchTerm": "Jack Nicklaus Turbo Golf"},
+				{"searchTerm": "Jack Nicklaus' World Tour Golf - 162 Holes"}
 			]
 		},
 		{
@@ -133,13 +132,6 @@
 			]
 		},
 		{
-			"group": "Sherlock Holmes - Consulting Detective - Volume 2",
-			"titles": [
-				{"searchTerm": "Sherlock Holmes - Consulting Detective - Volume 2"},
-				{"searchTerm": "Sherlock Holmes - Consulting Detective Vol. II"}
-			]
-		},
-		{
 			"group": "Shape Shifter",
 			"titles": [
 				{"searchTerm": "Makai Eiyuuden - Shape Shifter"},
@@ -177,8 +169,8 @@
 		{
 			"group": "Ys III - Wanderers from Ys",
 			"titles": [
-				{"searchTerm": "Ys III - Wanderers from Ys"},
-				{"searchTerm": "Ys III"}
+				{"searchTerm": "Ys III"},
+				{"searchTerm": "Ys III - Wanderers from Ys"}
 			]
 		}
 	]

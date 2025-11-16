@@ -1,38 +1,16 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox (Redump)",
-		"lastUpdated": "05 April 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
-	"mias": [
-		"Colin McRae Rally 04 (Asia)",
-		"Combat Elite - WWII Paratroopers (USA) (Beta)",
-		"Fatal Frame - Zero (Asia)",
-		"Halo 2 (Korea) (En,Ko)",
-		"LEGO Super Soccer Adventure (Europe) (Proto)",
-		"Ninja Gaiden Black (Japan) (En,Ja)",
-		"Official Xbox Live Disc, The (UK)",
-		"Official Xbox Playable Cheats, The (UK)",
-		"Painkiller - Hell Wars (USA) (Beta) (2005-10-18)",
-		"Shin Sangoku Musou 4 (Japan) (En,Ja)",
-		"Sphinx and the Cursed Mummy (Korea)"
-	],
-
 	"variants": [
 		{
 			"group": "AirForce Delta Storm",
 			"titles": [
-				{"searchTerm": "AirForce Delta Storm"},
 				{"searchTerm": "AirForce Delta II"},
+				{"searchTerm": "AirForce Delta Storm"},
 				{"searchTerm": "Deadly Skies"}
-			]
-		},
-		{
-			"group": "Amped - Freestyle Snowboarding",
-			"titles": [
-				{"searchTerm": "Amped - Freestyle Snowboarding"},
-				{"searchTerm": "Tenku - Freestyle Snowboarding"}
 			]
 		},
 		{
@@ -40,6 +18,16 @@
 			"titles": [
 				{"searchTerm": "Amped 2"},
 				{"searchTerm": "Tenku 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Top Spin & Amped 2", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Amped - Freestyle Snowboarding",
+			"titles": [
+				{"searchTerm": "Amped - Freestyle Snowboarding"},
+				{"searchTerm": "Tenku - Freestyle Snowboarding"}
 			]
 		},
 		{
@@ -118,8 +106,8 @@
 		{
 			"group": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe",
 			"titles": [
-				{"searchTerm": "Chroniken von Narnia, Die - Der Koenig von Narnia"},
 				{"searchTerm": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe"},
+				{"searchTerm": "Chroniken von Narnia, Die - Der Koenig von Narnia"},
 				{"searchTerm": "Monde de Narnia, Le - Chapitre 1 - Le Lion, la Sorciere Blanche et l'Armoire Magique"}
 			]
 		},
@@ -138,17 +126,17 @@
 			]
 		},
 		{
+			"group": "Crash Bandicoot - The Wrath of Cortex",
+			"titles": [
+				{"searchTerm": "Crash Bandicoot 4 - Sakuretsu! Majin Power"},
+				{"searchTerm": "Crash Bandicoot - The Wrath of Cortex"}
+			]
+		},
+		{
 			"group": "Crazy Taxi 3 - High Roller",
 			"titles": [
 				{"searchTerm": "Crazy Taxi 3"},
 				{"searchTerm": "Crazy Taxi 3 - High Roller"}
-			]
-		},
-		{
-			"group": "Crash Bandicoot - The Wrath of Cortex",
-			"titles": [
-				{"searchTerm": "Crash Bandicoot - The Wrath of Cortex"},
-				{"searchTerm": "Crash Bandicoot 4 - Sakuretsu! Majin Power"}
 			]
 		},
 		{
@@ -208,8 +196,16 @@
 			]
 		},
 		{
+			"group": "Disney's Chicken Little",
+			"titles": [
+				{"searchTerm": "Disney's Chicken Little"},
+				{"searchTerm": "Disneys Himmel und Huhn"}
+			]
+		},
+		{
 			"group": "Disney-Pixar Finding Nemo",
 			"titles": [
+				{"searchTerm": "Disney-Pixar A Procura de Nemo"},
 				{"searchTerm": "Disney-Pixar Finding Nemo"},
 				{"searchTerm": "Disney-Pixar Nemo-reul Chajaseo"}
 			]
@@ -225,13 +221,6 @@
 			]
 		},
 		{
-			"group": "Disney's Chicken Little",
-			"titles": [
-				{"searchTerm": "Disney's Chicken Little"},
-				{"searchTerm": "Disneys Himmel und Huhn"}
-			]
-		},
-		{
 			"group": "Doom 3",
 			"titles": [
 				{"searchTerm": "Doom 3"}
@@ -241,17 +230,17 @@
 			]
 		},
 		{
-			"group": "DreamWorks Shark Tale",
-			"titles": [
-				{"searchTerm": "DreamWorks Shark Tale"},
-				{"searchTerm": "DreamWorks Shark Tale - Hajar som Hajar"}
-			]
-		},
-		{
 			"group": "Dr. Seuss' The Cat in the Hat",
 			"titles": [
 				{"searchTerm": "Cat in the Hat, The"},
 				{"searchTerm": "Dr. Seuss' The Cat in the Hat"}
+			]
+		},
+		{
+			"group": "DreamWorks Shark Tale",
+			"titles": [
+				{"searchTerm": "DreamWorks Shark Tale"},
+				{"searchTerm": "DreamWorks Shark Tale - Hajar som Hajar"}
 			]
 		},
 		{
@@ -307,15 +296,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Fable - The Lost Chapters"}
-			]
-		},
-		{
-			"group": "Indigo Prophecy",
-			"titles": [
-				{"searchTerm": "Indigo Prophecy"}
-			],
-			"supersets": [
-				{"searchTerm": "Fahrenheit"}
 			]
 		},
 		{
@@ -381,7 +361,7 @@
 			"group": "Forza Motorsport",
 			"titles": [
 				{"searchTerm": "Forza Motorsport"},
-				{"searchTerm": "Forza Motorsport + Xbox Live Arcade"}
+				{"searchTerm": "Forza Motorsport & Xbox Live Arcade"}
 			]
 		},
 		{
@@ -456,8 +436,17 @@
 		{
 			"group": "Hitman 2 - Silent Assassin",
 			"titles": [
-				{"searchTerm": "Hitman - Silent Assassin"},
-				{"searchTerm": "Hitman 2 - Silent Assassin"}
+				{"searchTerm": "Hitman 2 - Silent Assassin"},
+				{"searchTerm": "Hitman - Silent Assassin"}
+			]
+		},
+		{
+			"group": "Indigo Prophecy",
+			"titles": [
+				{"searchTerm": "Indigo Prophecy"}
+			],
+			"supersets": [
+				{"searchTerm": "Fahrenheit"}
 			]
 		},
 		{
@@ -473,7 +462,7 @@
 				{"searchTerm": "JSRF - Jet Set Radio Future"}
 			],
 			"compilations": [
-				{"searchTerm": "Sega GT 2002 + JSRF - Jet Set Radio Future", "titlePosition": 2}
+				{"searchTerm": "Sega GT 2002 & JSRF - Jet Set Radio Future", "titlePosition": 2}
 			]
 		},
 		{
@@ -494,8 +483,8 @@
 			"group": "Lemony Snicket's A Series of Unfortunate Events",
 			"titles": [
 				{"searchTerm": "Desastreuses Aventures des Orphelins Baudelaire, Les - D'Apres Lemony Snicket"},
-				{"searchTerm": "Lemony Snicket's A Series of Unfortunate Events"},
 				{"searchTerm": "Lemony Snicket - Raetselhafte Ereignisse"},
+				{"searchTerm": "Lemony Snicket's A Series of Unfortunate Events"},
 				{"searchTerm": "Una Serie de Catastroficas Desdichas de Lemony Snicket"}
 			]
 		},
@@ -638,7 +627,7 @@
 				{"searchTerm": "NCAA Football 2005"}
 			],
 			"compilations": [
-				{"searchTerm": "NCAA Football 2005 + Top Spin", "titlePosition": 1}
+				{"searchTerm": "NCAA Football 2005 & Top Spin", "titlePosition": 1}
 			]
 		},
 		{
@@ -651,17 +640,17 @@
 			]
 		},
 		{
-			"group": "Nickelodeon SpongeBob SquarePants - The Movie",
-			"titles": [
-				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Der Film"},
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - The Movie"}
-			]
-		},
-		{
 			"group": "Nickelodeon Tak - The Great Juju Challenge",
 			"titles": [
 				{"searchTerm": "Nickelodeon Tak - Die grosse Juju-Jagd"},
 				{"searchTerm": "Nickelodeon Tak - The Great Juju Challenge"}
+			]
+		},
+		{
+			"group": "Nickelodeon The SpongeBob SquarePants Movie",
+			"titles": [
+				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Der Film"},
+				{"searchTerm": "Nickelodeon The SpongeBob SquarePants Movie"}
 			]
 		},
 		{
@@ -689,17 +678,17 @@
 			]
 		},
 		{
+			"group": "Otogi 2 - Immortal Warriors",
+			"titles": [
+				{"searchTerm": "Otogi 2 - Immortal Warriors"},
+				{"searchTerm": "Otogi - Hyakki Toubatsu Emaki"}
+			]
+		},
+		{
 			"group": "Otogi - Myth of Demons",
 			"titles": [
 				{"searchTerm": "Otogi - Myth of Demons"},
 				{"searchTerm": "Otogi", "priority": 2}
-			]
-		},
-		{
-			"group": "Otogi 2 - Immortal Warriors",
-			"titles": [
-				{"searchTerm": "Otogi - Hyakki Toubatsu Emaki"},
-				{"searchTerm": "Otogi 2 - Immortal Warriors"}
 			]
 		},
 		{
@@ -729,7 +718,8 @@
 				{"searchTerm": "DTM Race Driver - Director's Cut"},
 				{"searchTerm": "Pro Race Driver"},
 				{"searchTerm": "TOCA Race Driver"},
-				{"searchTerm": "V8 Supercars Australia - Race Driver"}
+				{"searchTerm": "V8 Supercars Australia - Race Driver (Online Enabled)"},
+				{"searchTerm": "V8 Supercars Australia - Race Driver", "priority": 2}
 			]
 		},
 		{
@@ -762,17 +752,17 @@
 			]
 		},
 		{
-			"group": "RedCard 20-03",
-			"titles": [
-				{"searchTerm": "RedCard"},
-				{"searchTerm": "RedCard 20-03"}
-			]
-		},
-		{
 			"group": "Red Ninja - End of Honor",
 			"titles": [
 				{"searchTerm": "Red Ninja - End of Honor"},
 				{"searchTerm": "Red Ninja - End of Honour"}
+			]
+		},
+		{
+			"group": "RedCard 20-03",
+			"titles": [
+				{"searchTerm": "RedCard"},
+				{"searchTerm": "RedCard 20-03"}
 			]
 		},
 		{
@@ -788,7 +778,7 @@
 				{"searchTerm": "Sega GT 2002"}
 			],
 			"compilations": [
-				{"searchTerm": "Sega GT 2002 + JSRF - Jet Set Radio Future", "titlePosition": 1}
+				{"searchTerm": "Sega GT 2002 & JSRF - Jet Set Radio Future", "titlePosition": 1}
 			]
 		},
 		{
@@ -845,7 +835,7 @@
 				{"searchTerm": "Star Wars - The Clone Wars"}
 			],
 			"compilations": [
-				{"searchTerm": "Star Wars - The Clone Wars + Tetris Worlds", "titlePosition": 1}
+				{"searchTerm": "Star Wars - The Clone Wars & Tetris Worlds", "titlePosition": 1}
 			]
 		},
 		{
@@ -865,8 +855,8 @@
 		{
 			"group": "Tenchu - Return from Darkness",
 			"titles": [
-				{"searchTerm": "Tenchu - Return from Darkness"},
-				{"searchTerm": "Tenchu 3 - Kaiki no Shou"}
+				{"searchTerm": "Tenchu 3 - Kaiki no Shou"},
+				{"searchTerm": "Tenchu - Return from Darkness"}
 			]
 		},
 		{
@@ -890,14 +880,7 @@
 				{"searchTerm": "Tetris Worlds", "priority": 2}
 			],
 			"compilations": [
-				{"searchTerm": "Star Wars - The Clone Wars + Tetris Worlds", "titlePosition": 2}
-			]
-		},
-		{
-			"group": "TOCA Race Driver (Online Enabled)",
-			"titles": [
-				{"searchTerm": "TOCA Race Driver (Online Enabled)"},
-				{"searchTerm": "DTM Race Driver Live", "priority": 2}
+				{"searchTerm": "Star Wars - The Clone Wars & Tetris Worlds", "titlePosition": 2}
 			]
 		},
 		{
@@ -917,6 +900,13 @@
 			]
 		},
 		{
+			"group": "TOCA Race Driver (Online Enabled)",
+			"titles": [
+				{"searchTerm": "TOCA Race Driver (Online Enabled)"},
+				{"searchTerm": "DTM Race Driver Live", "priority": 2}
+			]
+		},
+		{
 			"group": "Top Gear - RPM Tuning",
 			"titles": [
 				{"searchTerm": "RPM Tuning"},
@@ -929,7 +919,8 @@
 				{"searchTerm": "Top Spin"}
 			],
 			"compilations": [
-				{"searchTerm": "NCAA Football 2005 + Top Spin", "titlePosition": 2}
+				{"searchTerm": "NCAA Football 2005 & Top Spin", "titlePosition": 2},
+				{"searchTerm": "Top Spin & Amped 2", "titlePosition": 1}
 			]
 		},
 		{
@@ -942,8 +933,8 @@
 		{
 			"group": "UFC - Ultimate Fighting Championship - Tapout 2",
 			"titles": [
-				{"searchTerm": "UFC - Ultimate Fighting Championship - Tapout 2"},
-				{"searchTerm": "UFC - Ultimate Fighting Championship 2 - Tapout"}
+				{"searchTerm": "UFC - Ultimate Fighting Championship 2 - Tapout"},
+				{"searchTerm": "UFC - Ultimate Fighting Championship - Tapout 2"}
 			]
 		},
 		{

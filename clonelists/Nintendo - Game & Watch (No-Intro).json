@@ -1,0 +1,37 @@
+{
+	"description": {
+		"name": "Nintendo - Game & Watch (No-Intro)",
+		"lastUpdated": "2025-10-12 12:47:13",
+		"minimumVersion": "2.4.0"
+	},
+	"variants": [
+		{
+			"group": "Fire",
+			"titles": [
+				{"searchTerm": "Fire (Wide Screen)"},
+				{"searchTerm": "Fire (Silver)", "priority": 2}
+			]
+		},
+		{
+			"group": "Manhole",
+			"titles": [
+				{"searchTerm": "Manhole (New Wide Screen)"},
+				{"searchTerm": "Manhole (Gold)", "priority": 2}
+			]
+		},
+		{
+			"group": "Mario's Cement Factory",
+			"titles": [
+				{"searchTerm": "Mario's Cement Factory (New Wide Screen)"},
+				{"searchTerm": "Mario's Cement Factory (Table Top)", "priority": 2}
+			]
+		},
+		{
+			"group": "Popeye",
+			"titles": [
+				{"searchTerm": "Popeye (Wide Screen)"},
+				{"searchTerm": "Popeye (Panorama Screen)", "priority": 2}
+			]
+		}
+	]
+}

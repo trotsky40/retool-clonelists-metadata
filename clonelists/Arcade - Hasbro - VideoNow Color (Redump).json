@@ -1,10 +1,9 @@
 {
 	"description": {
 		"name": "Arcade - Hasbro - VideoNow Color (Redump)",
-		"lastUpdated": "03 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2025-10-06 10:50:45",
+		"minimumVersion": "2.4.0"
 	},
-
 	"variants": [
 		{
 			"group": "Hilary Duff - A Day in My Life",
@@ -51,8 +50,8 @@
 		{
 			"group": "Totally Spies! I Want My Mommy",
 			"titles": [
-				{"searchTerm": "Totally Spies! (Ma Meilleure Momie)"},
-				{"searchTerm": "Totally Spies! (Disc 2) (Quiero a Mi Momia)"}
+				{"searchTerm": "Totally Spies! (Disc 2) (Quiero a Mi Momia)"},
+				{"searchTerm": "Totally Spies! (Ma Meilleure Momie)"}
 			]
 		},
 		{

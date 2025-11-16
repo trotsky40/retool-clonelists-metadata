@@ -5,6 +5,9 @@
 	"[BIOS] SNK NeoGeo Pocket (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
+	"[BIOS] SNK NeoGeo Pocket (Japan, Europe) (En,Ja) (Monochrome)": {
+		"languages": ["En", "Ja"]
+	},
 	"Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
