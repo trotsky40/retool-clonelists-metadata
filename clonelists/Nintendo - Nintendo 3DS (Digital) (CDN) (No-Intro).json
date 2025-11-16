@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (Digital) (CDN) (No-Intro)",
-		"lastUpdated": "2025-11-16 12:48:04",
+		"lastUpdated": "2025-11-16 13:07:43",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -1589,6 +1589,13 @@
 			"titles": [
 				{"searchTerm": "Nintendo presents New Style Boutique (Update)"},
 				{"searchTerm": "Style Savvy - Trendsetters (Update)"}
+			]
+		},
+		{
+			"group": "Super Smash Bros. for Nintendo 3DS",
+			"titles": [
+				{"searchTerm": "Dairantou Smash Brothers for Nintendo 3DS"},
+				{"searchTerm": "Super Smash Bros. for Nintendo 3DS"}
 			]
 		},
 		{
