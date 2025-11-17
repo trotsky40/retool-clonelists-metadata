@@ -65,6 +65,18 @@
 			"crc": "5f9959c5"
 		},
 		{
+			"name": "Animal Crossing - New Horizons (USA) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 4) (Initial Area).bin",
+			"crc": "80ed105f"
+		},
+		{
+			"name": "Animal Crossing - New Horizons (USA) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 4).xci",
+			"crc": "68b8f05f"
+		},
+		{
+			"name": "Animal Crossing - New Horizons (USA) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 4).xci",
+			"crc": "f6d6fa7b"
+		},
+		{
 			"name": "Arcade Game Zone (USA) (Rev 1).xci",
 			"crc": "2b7d5527"
 		},
@@ -291,6 +303,14 @@
 		{
 			"name": "Gone Home (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Ru).xci",
 			"crc": "ddaa7a8f"
+		},
+		{
+			"name": "Goosebumps - The Game (USA) (Initial Area).bin",
+			"crc": "f620c253"
+		},
+		{
+			"name": "Goosebumps - The Game (USA).xci",
+			"crc": "4653b88d"
 		},
 		{
 			"name": "Gorogoa (USA) (En,Ja,Fr,De,Es,It,Nl,Ru).xci",
@@ -927,10 +947,6 @@
 		{
 			"name": "Yoshi's Crafted World (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko,Ru).xci",
 			"crc": "0a47e61e"
-		},
-		{
-			"name": "Ys VIII - Lacrimosa of DANA (USA, Europe) (En,Fr).xci",
-			"crc": "07bdf792"
 		},
 		{
 			"name": "Zengeon (USA) (En,Ja,Zh-Hant,Zh-Hans,Ko).xci",

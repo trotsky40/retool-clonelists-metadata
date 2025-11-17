@@ -1,14 +1,6 @@
 {
 	"mias": [
 		{
-			"name": "100-in-1 (Asia) (En) (Pirate).nes",
-			"crc": "7a4f5f61"
-		},
-		{
-			"name": "100-in-1 (Asia) (En) (Pirate).unh",
-			"crc": "5a400077"
-		},
-		{
 			"name": "18-in-1 (Asia) (En) (Pirate).nes",
 			"crc": "be71f814"
 		},
@@ -161,14 +153,6 @@
 			"crc": "36d66731"
 		},
 		{
-			"name": "Jim & Dill - The Legend of Weed N' Stiff (World) (2024-06-19) (Aftermarket) (Unl).nes",
-			"crc": "710c7290"
-		},
-		{
-			"name": "Jim & Dill - The Legend of Weed N' Stiff (World) (2024-06-19) (Aftermarket) (Unl).unh",
-			"crc": "3dc09060"
-		},
-		{
 			"name": "KUBO 3 (USA) (En,Ja,Fr) (Limited Run Games) (Aftermarket) (Unl).nes",
 			"crc": "c3cc5e9e"
 		},
@@ -291,14 +275,6 @@
 		{
 			"name": "Spook-o'-tron (World) (Backer Edition) (Aftermarket) (Unl).unh",
 			"crc": "d5d1c2b5"
-		},
-		{
-			"name": "Super 72-in-1 (Asia) (En) (Pirate).nes",
-			"crc": "7e25ff54"
-		},
-		{
-			"name": "Super 72-in-1 (Asia) (En) (Pirate).unh",
-			"crc": "a6209f97"
 		},
 		{
 			"name": "Super Cambur Origins (World) (v1) (Aftermarket) (Unl).nes",
