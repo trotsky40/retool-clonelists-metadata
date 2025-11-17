@@ -63,7 +63,6 @@
 		["(Essentials)", "string"],
 		["(Incube8 Games)", "string"],
 		["(Presence of Mind '98)", "string"],
-		["\\s?\\(N?64brew Game Jam 202[0-9]\\)", "regex"],
 		["(Summer64)", "string"],
 		["\\s?\\(Made in.*?\\)", "regex"]
 	],
@@ -254,6 +253,7 @@
 		["(Micro Genius)", "string"],
 		["(Nanjing)", "string"],
 		["\\s?\\(Mini Jam.*?\\)", "regex"],
+		["\\s?\\(N?64brew Game Jam 202[0-9]\\)", "regex"],
 		["(No SRAM)", "string"],
 		["\\s?\\(NEO Coding Compo 20[0-9][0-9]\\)", "regex"],
 		["(NEO Compo 2012)", "string"],

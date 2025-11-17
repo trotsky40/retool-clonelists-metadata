@@ -26,12 +26,6 @@
 				{"searchTerm": "Ace Combat - Assault Horizon Legacy"}
 			],
 			"supersets": [
-				{"searchTerm": "Ace Combat - Assault Horizon Legacy+"}
-			]
-		},
-		{
-			"group": "Ace Combat - Assault Horizon Legacy+",
-			"titles": [
 				{"searchTerm": "Ace Combat 3D - Cross Rumble+"},
 				{"searchTerm": "Ace Combat - Assault Horizon Legacy+"}
 			]
@@ -80,21 +74,15 @@
 				{"searchTerm": "Twieonawayo Dongmul-ui Sup"}
 			],
 			"supersets": [
-				{"searchTerm": "Animal Crossing - New Leaf - Welcome Amiibo"}
-			]
-		},
-		{
-			"group": "Animal Crossing - New Leaf - Welcome Amiibo",
-			"titles": [
 				{"searchTerm": "Animal Crossing - New Leaf - Welcome Amiibo"},
 				{"searchTerm": "Tobidase Doubutsu no Mori - amiibo+"},
 				{"searchTerm": "Twieonawayo Dongmul-ui Sup amiibo+"}
 			]
 		},
 		{
-			"group": "Art Academy - Lessons for Everyone",
+			"group": "Art Academy - Lessons for Everyone!",
 			"titles": [
-				{"searchTerm": "Art Academy - Lessons for Everyone"},
+				{"searchTerm": "Art Academy - Lessons for Everyone!"},
 				{"searchTerm": "New Art Academy"},
 				{"searchTerm": "Shin Egokoro Kyoushitsu"}
 			]
@@ -121,9 +109,9 @@
 			]
 		},
 		{
-			"group": "Beyblade - Evolution",
+			"group": "Beyblade Evolution",
 			"titles": [
-				{"searchTerm": "Beyblade - Evolution"},
+				{"searchTerm": "Beyblade Evolution"},
 				{"searchTerm": "Metal Fight Beyblade 4D x ZEROG Ultimate Tournament"}
 			]
 		},
@@ -566,13 +554,6 @@
 			]
 		},
 		{
-			"group": "Gyro Sensor Calibration CTR",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Gyro Sensor Calibration CTR"}
-			]
-		},
-		{
 			"group": "Hakuoki - Memories of the Shinsengumi",
 			"titles": [
 				{"searchTerm": "Hakuoki - Memories of the Shinsengumi"},
@@ -774,13 +755,6 @@
 				{"searchTerm": "Keito no Kirby Plus"},
 				{"searchTerm": "Kirby's Extra Epic Yarn"},
 				{"searchTerm": "Teolsil Kirby Iyagi Plus"}
-			]
-		},
-		{
-			"group": "Langrisser Re - Incarnation -TENSEI-",
-			"titles": [
-				{"searchTerm": "Langrisser - Re - Incarnation Tensei"},
-				{"searchTerm": "Langrisser Re - Incarnation -TENSEI-"}
 			]
 		},
 		{
@@ -1709,13 +1683,6 @@
 			]
 		},
 		{
-			"group": "SystemUpdater",
-			"titles": [
-				{"searchTerm": "SystemUpdater (Ver. 0.17.19) (Program)"},
-				{"searchTerm": "SystemUpdater (Ver. 0.15.19) (Program)", "priority": 2}
-			]
-		},
-		{
 			"group": "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken",
 			"titles": [
 				{"searchTerm": "Taegoui Darin - Kungttak Kungttak Sigong Daemoheom"},
@@ -1732,10 +1699,10 @@
 			]
 		},
 		{
-			"group": "Tetris Axis",
+			"group": "Tetris - Axis",
 			"titles": [
 				{"searchTerm": "Tetris"},
-				{"searchTerm": "Tetris Axis"}
+				{"searchTerm": "Tetris - Axis"}
 			]
 		},
 		{

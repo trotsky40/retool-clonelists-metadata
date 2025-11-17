@@ -85,14 +85,6 @@
 			]
 		},
 		{
-			"group": "Blues Brothers 2000",
-			"titles": [
-				{"searchTerm": "Blues Brothers 2000"},
-				{"searchTerm": "Blues Brothers 2000 (#53)", "priority": 2},
-				{"searchTerm": "Blues Brothers 2000 (#20)", "priority": 3}
-			]
-		},
-		{
 			"group": "Bomberman 64",
 			"titles": [
 				{"searchTerm": "Baku Bomberman"},
