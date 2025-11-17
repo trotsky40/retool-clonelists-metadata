@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DS (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:45",
+		"lastUpdated": "2025-11-17 22:33:09",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -45,6 +45,13 @@
 			]
 		},
 		{
+			"group": "8BallAllstars",
+			"titles": [
+				{"searchTerm": "8BallAllstars"},
+				{"searchTerm": "Pool"}
+			]
+		},
+		{
 			"group": "18 Classic Card Games",
 			"titles": [
 				{"searchTerm": "18 Card Games"},
@@ -64,6 +71,14 @@
 			"titles": [
 				{"searchTerm": "100 All-Time Favorites"},
 				{"searchTerm": "Master All Classics"}
+			]
+		},
+		{
+			"group": "100 Classic Books",
+			"titles": [
+				{"searchTerm": "100 Classic Book Collection"},
+				{"searchTerm": "100 Classic Books"},
+				{"searchTerm": "100 Livres Classiques"}
 			]
 		},
 		{
@@ -177,7 +192,11 @@
 			"group": "American Dragon - Jake Long - Attack of the Dark Dragon",
 			"titles": [
 				{"searchTerm": "American Dragon - Jake Long"},
-				{"searchTerm": "American Dragon - Jake Long - Attack of the Dark Dragon"}
+				{"searchTerm": "American Dragon - Jake Long - Attack of the Dark Dragon"},
+				{"searchTerm": "American Dragon - Jake Long - Attack of the Dark Dragon (Stable)"},
+				{"searchTerm": "American Dragon - Jake Long - Attack of the Dark Dragon.*?\\(Build [A-Z]\\)", "nameType": "regex"},
+				{"searchTerm": "American Dragon - Jake Long - Attack of the Dark Dragon (Unstable)", "priority": 2},
+				{"searchTerm": "American Dragon - Jake Long - Attack of the Dark Dragon (Sound Test)", "priority": 3}
 			]
 		},
 		{
@@ -351,6 +370,13 @@
 			]
 		},
 		{
+			"group": "Barbie - Groom and Glam Pups",
+			"titles": [
+				{"searchTerm": "Barbie - Best in Show"},
+				{"searchTerm": "Barbie - Groom and Glam Pups"}
+			]
+		},
+		{
 			"group": "Battle of Giants - Dinosaurs",
 			"titles": [
 				{"searchTerm": "Battle of Giants - Dinosaurs"},
@@ -438,7 +464,7 @@
 			"group": "Beyblade - Metal Fusion",
 			"titles": [
 				{"searchTerm": "Beyblade - Metal Fusion"},
-				{"searchTerm": "Beyblade Metal Fusion - Cyber Pegasus"},
+				{"searchTerm": "Beyblade - Metal Fusion - Cyber Pegasus"},
 				{"searchTerm": "Metal Beyblade - Cyber Pegasis"},
 				{"searchTerm": "Metal Fight Beyblade - Bakutan! Cyber Pegasis"}
 			],
@@ -1215,7 +1241,6 @@
 		{
 			"group": "Deal or No Deal - The Official Nintendo DS Game",
 			"titles": [
-				{"searchTerm": "A Prendre ou a Laisser - Le Jeu Officiel"},
 				{"searchTerm": "Affari Tuoi"},
 				{
 					"searchTerm": "Deal or No Deal",
@@ -1230,7 +1255,8 @@
 						}
 					]
 				},
-				{"searchTerm": "Deal or No Deal - The Official Nintendo DS Game"}
+				{"searchTerm": "Deal or No Deal - The Official Nintendo DS Game"},
+				{"searchTerm": "Prendre ou a Laisser, A - Le Jeu Officiel"}
 			]
 		},
 		{
@@ -1496,7 +1522,8 @@
 			"group": "Dora Puppy",
 			"titles": [
 				{"searchTerm": "Dora Puppy"},
-				{"searchTerm": "Dora the Explorer - Dora Puppy"}
+				{"searchTerm": "Dora the Explorer - Dora Puppy"},
+				{"searchTerm": "Dora's Puppy Playtime"}
 			]
 		},
 		{
@@ -3351,6 +3378,13 @@
 			]
 		},
 		{
+			"group": "Knights",
+			"titles": [
+				{"searchTerm": "Knight - Hero of the Kingdom"},
+				{"searchTerm": "Knights"}
+			]
+		},
+		{
 			"group": "Konami Classics Series - Arcade Hits",
 			"titles": [
 				{"searchTerm": "Konami Arcade Classics"},
@@ -3494,6 +3528,13 @@
 			"titles": [
 				{"searchTerm": "Densetsu no Stafy - Taiketsu! Dile Kaizoku Dan"},
 				{"searchTerm": "Legendary Starfy, The"}
+			]
+		},
+		{
+			"group": "LEGO Battles",
+			"titles": [
+				{"searchTerm": "LEGO Battles"},
+				{"searchTerm": "LEGO Battles - Castle"}
 			]
 		},
 		{
@@ -4197,7 +4238,6 @@
 			"group": "Monster High - Ghoul Spirit (Little Orbit)",
 			"titles": [
 				{"searchTerm": "Monster High - Ghoul Spirit (Little Orbit)"},
-				{"searchTerm": "Monster High - Ghoul Spirit", "priority": 2},
 				{"searchTerm": "Monster High - Ghoul Spirit (THQ)", "priority": 2}
 			]
 		},
@@ -4755,13 +4795,6 @@
 			]
 		},
 		{
-			"group": "Nintendo Zone Wireless Distribution Box DS Card",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Nintendo Zone Wireless Distribution Box DS Card"}
-			]
-		},
-		{
 			"group": "Nintendogs - Chihuahua & Friends",
 			"titles": [
 				{"searchTerm": "Nintendogs - Chihuahua & Chingudeul"},
@@ -4786,14 +4819,34 @@
 			]
 		},
 		{
-			"group": "Nitro EVA",
+			"group": "Nitro EVA (Aging, 3DS DS mode)",
 			"titles": [
 				{"searchTerm": "Nitro EVA. (CTR) (Ver11.1) (Program)"},
-				{"searchTerm": "Nitro EVA. (CTR) (Ver11.0) (Program)", "priority": 2},
-				{"searchTerm": "Nitro EVA. (USG) (Ver10.0) (Program)", "priority": 3},
-				{"searchTerm": "Nitro EVA. (USG) (Ver9.0) (Program)", "priority": 4},
-				{"searchTerm": "Nitro EVA. (USG) (Ver8.0) (Program)", "priority": 5},
-				{"searchTerm": "Nitro EVA. (Ver5.1) (Program)", "priority": 6}
+				{"searchTerm": "Nitro EVA. (CTR) (Ver11.0) (Program)", "priority": 2}
+			]
+		},
+		{
+			"group": "Nitro EVA (Aging, DS Lite)",
+			"titles": [
+				{"searchTerm": "Nitro EVA. (USG) (Ver10.0) (Program)"},
+				{"searchTerm": "Nitro EVA. (USG) (Ver9.0) (Program)", "priority": 2},
+				{"searchTerm": "Nitro EVA. (USG) (Ver8.0) (Program)", "priority": 3}
+			]
+		},
+		{
+			"group": "Nitro EVA (Aging, DS Phat)",
+			"titles": [
+				{"searchTerm": "Nitro EVA. (USG) (Ver6.0) (Program)"},
+				{"searchTerm": "Nitro EVA. (Ver5.1) (Program)", "priority": 2},
+				{"searchTerm": "Nitro EVA. (Ver1.0) (Program)", "priority": 3},
+				{"searchTerm": "Nitro EVA. (Ver.0.0.3) (Program)", "priority": 4}
+			]
+		},
+		{
+			"group": "Nitro EVA. F-WRITER",
+			"titles": [
+				{"searchTerm": "Nitro EVA. F-WRITER Ver1.0K (USG) (Ver1.0) (Program)"},
+				{"searchTerm": "Nitro EVA. F-WRITER Ver3.0 (USG) (Ver1.0) (Program)", "priority": 2}
 			]
 		},
 		{
@@ -5323,6 +5376,13 @@
 			]
 		},
 		{
+			"group": "Pirates",
+			"titles": [
+				{"searchTerm": "Pirates"},
+				{"searchTerm": "Pirates - Boarding!"}
+			]
+		},
+		{
 			"group": "Pirates of the Caribbean - At World's End",
 			"titles": [
 				{"searchTerm": "Pirates of the Caribbean - At World's End"},
@@ -5343,20 +5403,6 @@
 				{"searchTerm": "Plants vs. Zombies"},
 				{"searchTerm": "Plants vs. Zombies (MSL)", "priority": 2},
 				{"searchTerm": "Plants vs. Zombies (Rondomedia)", "priority": 3}
-			]
-		},
-		{
-			"group": "Playmobil Interactive - Knights",
-			"titles": [
-				{"searchTerm": "Playmobil Interactive - Knight - Hero of the Kingdom"},
-				{"searchTerm": "Playmobil Interactive - Knights"}
-			]
-		},
-		{
-			"group": "Playmobil Interactive - Pirates",
-			"titles": [
-				{"searchTerm": "Pirates - Boarding!"},
-				{"searchTerm": "Playmobil Interactive - Pirates"}
 			]
 		},
 		{
@@ -5645,7 +5691,7 @@
 			"group": "Pro Evolution Soccer 2008",
 			"titles": [
 				{"searchTerm": "Pro Evolution Soccer 2008"},
-				{"searchTerm": "World Soccer Winning Eleven DS - Goal x Goal!"}
+				{"searchTerm": "World Soccer - Winning Eleven DS - Goal x Goal!"}
 			]
 		},
 		{
