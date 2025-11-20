@@ -345,7 +345,7 @@
 	},
 	"Azel - Panzer Dragoon RPG (Japan) (Demo)": {
 		"languages": ["Ja"],
-		"localName": "アゼル　～パンツァー・ドラグーンＲＰＧ～　【体験版】"
+		"localName": "アゼル　～パンツァー・ドラグーンＲＰＧ～"
 	},
 	"Azel - Panzer Dragoon RPG (Japan) (Disc 1) (1M)": {
 		"languages": ["Ja"],
@@ -4149,7 +4149,7 @@
 		"languages": ["Ja"],
 		"localName": "マスター・オブ・モンスターズ　～ネオ・ジェネレーションズ～"
 	},
-	"Masters - Harukanaru Augusta 3 (Japan) (2M)": {
+	"Masters - Harukanaru Augusta 3 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "マスターズ　～遙かなるオーガスタ３～"
 	},
@@ -8038,11 +8038,11 @@
 		"languages": ["Ja"],
 		"localName": "バーチャ・ファイター２"
 	},
-	"Virtua Fighter 2 (Japan) (Rev B) (32B, 37M)": {
+	"Virtua Fighter 2 (Japan) (Rev B) (31B, 34C)": {
 		"languages": ["Ja"],
 		"localName": "バーチャ・ファイター２"
 	},
-	"Virtua Fighter 2 (Japan) (Rev B) (34C)": {
+	"Virtua Fighter 2 (Japan) (Rev B) (32B, 37M)": {
 		"languages": ["Ja"],
 		"localName": "バーチャ・ファイター２"
 	},

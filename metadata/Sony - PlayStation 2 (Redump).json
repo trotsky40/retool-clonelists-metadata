@@ -80,6 +80,10 @@
 	"007 - Quantum of Solace (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"007 - Quantum of Solace (Korea)": {
+		"languages": ["En"],
+		"localName": "007 - 퀀텀 오브 솔러스"
+	},
 	"007 - Quantum of Solace (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
@@ -4499,7 +4503,7 @@
 	},
 	"Chou Aniki - Seinaru Protein Densetsu (Japan) (Fukkatsu Kinen Taikenban)": {
 		"languages": ["Ja"],
-		"localName": "超兄貴　聖なるプロテイン伝説　復活記念体験版"
+		"localName": "超兄貴　聖なるプロテイン伝説"
 	},
 	"Chou Battle Houshin (Japan)": {
 		"languages": ["Ja"],
@@ -10244,7 +10248,7 @@
 	"Final Fantasy XII (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Final Fantasy XII International - Zodiac Job System (Japan)": {
+	"Final Fantasy XII International - Zodiac Job System (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "ファイナルファンタジーⅫ　インターナショナル　ゾディアックジョブシステム"
 	},
@@ -11405,6 +11409,9 @@
 	"GameShark 2 - Video Game Enhancer - Version 3 (USA) (Unl)": {
 		"languages": ["En"]
 	},
+	"GameShark 2 - Video Game Enhancer - Version 4 (USA) (Unl)": {
+		"languages": ["En"]
+	},
 	"GameShark 2 Ultimate Cheats for Grand Theft Auto III (USA) (Unl)": {
 		"languages": []
 	},
@@ -12383,6 +12390,10 @@
 	"Grand Prix Challenge (Japan)": {
 		"languages": ["En"],
 		"localName": "グランプリチャレンジ"
+	},
+	"Grand Prix Challenge (Korea)": {
+		"languages": ["Ko"],
+		"localName": "그랑프리 챌린지"
 	},
 	"Grand Prix Challenge (USA)": {
 		"languages": []
@@ -15309,6 +15320,10 @@
 		"languages": ["Ko"],
 		"localName": "전국무쌍"
 	},
+	"Jeonguk Mussang 2 (Korea)": {
+		"languages": ["Ja"],
+		"localName": "전국무쌍 2"
+	},
 	"Jeonsin - Ikusagami (Korea)": {
 		"languages": ["Ko"],
 		"localName": "戦神・전신 ~이쿠사가미~"
@@ -15826,7 +15841,7 @@
 	"Jurassic - The Hunted (USA)": {
 		"languages": ["En"]
 	},
-	"Jurassic Park - Operation Genesis (Europe) (En,Fr,De,Es,It)": {
+	"Jurassic Park - Operation Genesis (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Jurassic Park - Operation Genesis (USA)": {
@@ -22066,6 +22081,10 @@
 		"languages": ["Ja"],
 		"localName": "ニード・フォー・スピード　プロストリート"
 	},
+	"Need for Speed - ProStreet (Korea)": {
+		"languages": ["En"],
+		"localName": "니드 포 스피드 - 프로스트리트"
+	},
 	"Need for Speed - ProStreet (Russia)": {
 		"languages": ["Ru"]
 	},
@@ -24249,7 +24268,7 @@
 	"Operation Air Assault (Europe)": {
 		"languages": ["En"]
 	},
-	"Operation Air Assault 2 (Europe)": {
+	"Operation Air Assault 2 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Operation WinBack (Europe) (En,Fr,De)": {
@@ -25840,10 +25859,10 @@
 		"languages": ["Ja"],
 		"localName": "ポンコツ浪漫大活劇　～バンピートロット～"
 	},
-	"Pool Master (Europe) (En,Fr,De)": {
+	"Pool Master (Europe) (En,Fr,De) (Rev 1)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Pool Master (Europe) (En,Fr,De) (Rev 1)": {
+	"Pool Master (Europe, Australia) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Pool Paradise (Europe) (En,Fr,De,Es,It)": {
@@ -27067,6 +27086,9 @@
 	"Ratchet & Clank 3 (Europe) (Demo)": {
 		"languages": ["En"]
 	},
+	"Ratchet & Clank 3 (Europe) (En,Fr,De,Es,It) (Beta) (2004-09-13)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Ratchet & Clank 3 (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -27731,7 +27753,7 @@
 	},
 	"Rockman X7 (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localName": "ロックマンＸ７　体験版"
+		"localName": "ロックマンＸ７"
 	},
 	"Rockman X7 (Korea)": {
 		"languages": ["Ko"],
@@ -29346,9 +29368,9 @@
 		"languages": ["Ja"],
 		"localName": "戦国ＢＡＳＡＲＡ２"
 	},
-	"Sengoku Basara 2 - Heroes (Japan)": {
+	"Sengoku Basara 2 - Heroes (Japan, Korea)": {
 		"languages": ["Ja"],
-		"localName": "戦国ＢＡＳＡＲＡ２　～英雄外伝～"
+		"localName": "戦国ＢＡＳＡＲＡ２ ～英雄外伝～"
 	},
 	"Sengoku Basara X (Japan, Korea)": {
 		"languages": ["Ja"],
@@ -29374,7 +29396,7 @@
 		"languages": ["Ja"],
 		"localName": "戦国無双２"
 	},
-	"Sengoku Musou 2 - Empires (Japan)": {
+	"Sengoku Musou 2 - Empires (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "戦国無双２　Ｅｍｐｉｒｅｓ"
 	},
@@ -29417,6 +29439,9 @@
 	"Separate Hearts (Japan)": {
 		"languages": ["Ja"],
 		"localName": "セパレイトハーツ"
+	},
+	"Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)": {
+		"languages": ["Es"]
 	},
 	"Serious Sam - Next Encounter (Europe, Australia) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -32171,6 +32196,9 @@
 	"Smash Court Tennis - Pro Tournament (USA)": {
 		"languages": ["En"]
 	},
+	"Smash Court Tennis - Pro Tournament 2 (Europe) (Beta) (2004-02-04)": {
+		"languages": []
+	},
 	"Smash Court Tennis - Pro Tournament 2 (Europe, Australia) (Demo)": {
 		"languages": ["En"]
 	},
@@ -32557,7 +32585,7 @@
 	"Space Invaders - Invasion Day (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Space Invaders Anniversary (Europe) (En,Fr,De,Es,It)": {
+	"Space Invaders Anniversary (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Space Invaders Anniversary (Japan)": {
@@ -33643,7 +33671,7 @@
 		"languages": ["Ja"],
 		"localName": "すもももももも　～地上最強のヨメ～　継承しましょ！？　恋の花ムコ争奪戦！！"
 	},
-	"Sunny Garcia Surfing (Europe) (En,Fr,De)": {
+	"Sunny Garcia Surfing (Europe, Australia) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Sunny Garcia Surfing (USA)": {
@@ -34547,7 +34575,7 @@
 	"Tale of Despereaux, The (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Tales of Destiny (Japan)": {
+	"Tales of Destiny (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "テイルズ・オブ・デスティニー"
 	},
@@ -35220,7 +35248,7 @@
 	"Test Drive Unlimited (USA) (Beta) (2006-06-30)": {
 		"languages": ["En"]
 	},
-	"Tetris Worlds (Europe) (En,Fr,De)": {
+	"Tetris Worlds (Europe, Australia) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Tetris Worlds (USA)": {
@@ -36862,9 +36890,6 @@
 		"languages": ["Ja"],
 		"localName": "ウミショー"
 	},
-	"Una Serie de Catastroficas Desdichas de Lemony Snicket (Spain)": {
-		"languages": ["Es"]
-	},
 	"Under the Moon - Crescent (Japan)": {
 		"languages": ["Ja"],
 		"localName": "アンダーザムーン　～クレセント～"
@@ -36952,6 +36977,10 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Urban Reign (Japan)": {
+		"languages": ["Ja"],
+		"localName": "アーバンレイン"
+	},
+	"Urban Reign (Japan) (Tentou Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "アーバンレイン"
 	},
@@ -37552,7 +37581,7 @@
 	"WWF SmackDown! Just Bring It (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"WWI - Aces of the Sky (Europe)": {
+	"WWI - Aces of the Sky (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"WWII - Battle over Europe (Europe)": {

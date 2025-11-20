@@ -60,6 +60,9 @@
 	"Alone in the Dark (USA) (Demo)": {
 		"languages": ["En"]
 	},
+	"Alone in the Dark 2 (Europe)": {
+		"languages": ["En"]
+	},
 	"Alone in the Dark 2 (France)": {
 		"languages": ["Fr"]
 	},
@@ -73,6 +76,9 @@
 	"Anno Mitsumasa Pepperon-mura no Shiki (Japan)": {
 		"languages": ["Ja"],
 		"localName": "安野光雅　ペペロン村の四季"
+	},
+	"Another World (Europe)": {
+		"languages": ["En"]
 	},
 	"Aqua World - Umi Monogatari (Japan)": {
 		"languages": ["Ja"],
@@ -237,6 +243,9 @@
 	"Casper (USA)": {
 		"languages": ["En"]
 	},
+	"Casper (USA) (Beta) (1995-12-15)": {
+		"languages": ["En"]
+	},
 	"Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "チキチキマシン猛レース　～ケンケンとブラック魔王のイジワル大作戦～"
@@ -295,6 +304,9 @@
 		"languages": ["En"]
 	},
 	"CyberDillo (USA)": {
+		"languages": ["En"]
+	},
+	"CyberDillo (USA) (Beta) (1996-02-14)": {
 		"languages": ["En"]
 	},
 	"Cyberia (Europe)": {
@@ -758,6 +770,9 @@
 	"Icebreaker II (USA) (Bonus Disk) (Unl)": {
 		"languages": ["En"]
 	},
+	"Icebreaker II (USA) (The Game) (Unl)": {
+		"languages": ["En"]
+	},
 	"Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)": {
 		"languages": ["Ja"],
 		"localName": "井出洋介名人の新実戦麻雀"
@@ -1095,6 +1110,9 @@
 	"Myst (USA)": {
 		"languages": ["En"]
 	},
+	"Myst (USA) (Beta) (1995-02-22)": {
+		"languages": ["En"]
+	},
 	"N.O.B. (Neo Organic Bioform) (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1232,7 +1250,7 @@
 	"Out of This World (USA)": {
 		"languages": ["En"]
 	},
-	"Out of This World (USA) (3DO Maniac Pack) (RE)": {
+	"Out of This World (USA) (RE)": {
 		"languages": ["En"]
 	},
 	"Outer World (Japan)": {

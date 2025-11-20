@@ -579,6 +579,18 @@
 	"Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4)": {
 		"languages": ["De"]
 	},
+	"Atlantis - Det foersvunna riket (Sweden) (Disc 1)": {
+		"languages": ["Sv"]
+	},
+	"Atlantis - Det foersvunna riket (Sweden) (Disc 2)": {
+		"languages": ["Sv"]
+	},
+	"Atlantis - Det foersvunna riket (Sweden) (Disc 3)": {
+		"languages": ["Sv"]
+	},
+	"Atlantis - Det foersvunna riket (Sweden) (Disc 4)": {
+		"languages": ["Sv"]
+	},
 	"Audition 2, The (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "ザ・オーディション２"
@@ -1005,6 +1017,9 @@
 	"CD-ROM MacLife No. 9 (Japan)": {
 		"languages": []
 	},
+	"CD4 - A CD to Explore (USA)": {
+		"languages": []
+	},
 	"CTR - Crash Team Racing - Hi-res Disc July 99 (Europe)": {
 		"languages": []
 	},
@@ -1071,7 +1086,7 @@
 	"Championship Manager - Season 99-00 - PKG (Europe) (Art Assets)": {
 		"languages": []
 	},
-	"Championship Manager 3 Adverts (Europe)": {
+	"Championship Manager 3 - Adverts (Europe)": {
 		"languages": []
 	},
 	"Cheerios - Play Time (USA)": {
@@ -1144,6 +1159,9 @@
 	},
 	"Corpse Killer (USA)": {
 		"languages": ["En"]
+	},
+	"Cosmic Osmo (USA)": {
+		"languages": []
 	},
 	"Counting on Frank - A Math Adventure Game (USA)": {
 		"languages": []
@@ -1249,10 +1267,10 @@
 		"languages": ["Ja"],
 		"localName": "ダービースタリオン"
 	},
-	"Descent (USA)": {
+	"Descent (USA) (OEM)": {
 		"languages": ["En"]
 	},
-	"Descent (USA) (OEM)": {
+	"Descent (USA, Europe)": {
 		"languages": ["En"]
 	},
 	"Descent - Levels of the World (USA)": {
@@ -1301,6 +1319,9 @@
 		"languages": []
 	},
 	"Disney's Aladdin - Activity Center (USA) (Alt)": {
+		"languages": []
+	},
+	"Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (USA)": {
 		"languages": []
 	},
 	"Disney's GameBreak! Timon & Pumbaa's Jungle Games (USA)": {
@@ -2533,7 +2554,7 @@
 		"languages": ["En"]
 	},
 	"Marathon 2 - Durandal (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Marathon Infinity (USA)": {
 		"languages": ["En"]
@@ -3020,6 +3041,9 @@
 	},
 	"Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount)": {
 		"languages": ["De", "En", "Fr", "Nl", "Sv"]
+	},
+	"Pro Pinball - The Web (Europe)": {
+		"languages": ["En"]
 	},
 	"Putt-Putt Joins the Parade (USA)": {
 		"languages": []
@@ -3820,6 +3844,9 @@
 		"localName": "ウキウキ釣り天国３　人魚島のボート釣り"
 	},
 	"Ultimate Doom, The (USA)": {
+		"languages": ["En"]
+	},
+	"Under a Killing Moon (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
 	"Unreal (USA)": {

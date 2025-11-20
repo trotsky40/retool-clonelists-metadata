@@ -60,7 +60,7 @@
 	},
 	"Aero Dancing F (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localName": "エアロダンシングＦ　体験版"
+		"localName": "エアロダンシングＦ"
 	},
 	"Aero Dancing F - Todoroki Tsubasa no Hatsu Hikou (Japan)": {
 		"languages": ["Ja"],
@@ -1519,9 +1519,6 @@
 	"F1 Racing Championship (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"F1 World Grand Prix (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
-	},
 	"F1 World Grand Prix (USA) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
@@ -1533,11 +1530,14 @@
 	},
 	"F1 World Grand Prix II for Dreamcast (Japan)": {
 		"languages": ["Ja"],
-		"localName": "Ｆ１　ワールド　グランプリ　ＩＩ　ｆｏｒ　Ｄｒｅａｍｃａｓｔ"
+		"localName": "Ｆ１　ワールド　グランプリ　Ⅱ　ｆｏｒ　Ｄｒｅａｍｃａｓｔ"
 	},
 	"F1 World Grand Prix II for Dreamcast (Japan) (Demo)": {
 		"languages": ["Ja"],
 		"localName": "Ｆ１ワールド　グランプリ　ＩＩ　ｆｏｒ　Ｄｒｅａｍｃａｓｔ"
+	},
+	"F1 World Grand Prix for Dreamcast (Europe) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"F1 World Grand Prix for Dreamcast (Japan)": {
 		"languages": ["Ja"],
@@ -1565,6 +1565,9 @@
 		"languages": ["En"]
 	},
 	"Fast Striker Ver. 1.5 (Europe) (Unl) (Rerelease)": {
+		"languages": ["En"]
+	},
+	"Fast Striker Ver. 1.5 (World) (Unl)": {
 		"languages": ["En"]
 	},
 	"Fatal Fury - Mark of the Wolves (USA)": {
@@ -2435,6 +2438,9 @@
 		"languages": ["Ja"],
 		"localName": "ラブひな　突然のエンゲージ・ハプニング"
 	},
+	"MDK2 (Europe) (Beta) (2000-03-05)": {
+		"languages": ["En"]
+	},
 	"MDK2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -2975,8 +2981,8 @@
 	"Nomad Soul, The (France) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Nomad Soul, The (Germany)": {
-		"languages": ["De"]
+	"Nomad Soul, The (Germany) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Non Casual Encounter - Prologue (USA, Europe) (Unl)": {
 		"languages": ["En"]
@@ -3163,6 +3169,9 @@
 		"languages": ["En"]
 	},
 	"Planet DC Cheats Band 3 fuer Dreamcast (Germany) (Unl)": {
+		"languages": ["En"]
+	},
+	"Planet DC Cheats Volume 1 (UK) (Unl)": {
 		"languages": ["En"]
 	},
 	"Planet DC Cheats Volume 2 (UK) (Unl)": {
@@ -3935,7 +3944,7 @@
 	},
 	"Sentimental Graffiti - Yakusoku (Japan)": {
 		"languages": ["Ja"],
-		"localName": "センチメンタルグラフティ　～約束～"
+		"localName": "センチメンタルグラフティ　～約束"
 	},
 	"Sentimental Graffiti 2 (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -4194,7 +4203,7 @@
 	},
 	"Sonic Adventure (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ソニックアドベンチャー"
+		"localName": "ソニック　アドベンチャー"
 	},
 	"Sonic Adventure (USA)": {
 		"languages": []
@@ -4580,7 +4589,7 @@
 		"languages": []
 	},
 	"Sydney 2000 (Germany)": {
-		"languages": []
+		"languages": ["De"]
 	},
 	"Sydney 2000 (Italy)": {
 		"languages": ["It"]
@@ -4848,8 +4857,8 @@
 	"UEFA Dream Soccer (Germany) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"UEFA Dream Soccer (Spain)": {
-		"languages": ["Es"]
+	"UEFA Dream Soccer (Spain) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"UEFA Striker (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]

@@ -5029,6 +5029,9 @@
 	"Senor de los Anillos, El - Las Dos Torres (Spain)": {
 		"languages": ["Es"]
 	},
+	"Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)": {
+		"languages": ["Es"]
+	},
 	"Serious Sam - Next Encounter (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
@@ -6110,9 +6113,6 @@
 	},
 	"Ultimate Spider-Man (USA)": {
 		"languages": ["En"]
-	},
-	"Una Serie de Catastroficas Desdichas de Lemony Snicket (Spain)": {
-		"languages": ["Es"]
 	},
 	"Universal Studios Japan Adventure (Japan)": {
 		"languages": ["Ja"],

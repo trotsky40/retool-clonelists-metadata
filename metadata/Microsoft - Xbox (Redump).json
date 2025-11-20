@@ -905,7 +905,7 @@
 	"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe)": {
 		"languages": ["En"]
 	},
-	"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)": {
+	"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Canada)": {
 		"languages": []
 	},
 	"Chronicles of Riddick, The - Escape from Butcher Bay (Australia)": {
@@ -1880,7 +1880,7 @@
 	"ESPN NHL 2K5 (Europe)": {
 		"languages": ["En"]
 	},
-	"ESPN NHL 2K5 (USA)": {
+	"ESPN NHL 2K5 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"ESPN NHL Hockey (Europe)": {
@@ -4055,7 +4055,7 @@
 	"Myst III - Exile (USA)": {
 		"languages": []
 	},
-	"Myst IV - Revelation (USA)": {
+	"Myst IV - Revelation (USA, Canada)": {
 		"languages": []
 	},
 	"N.U.D.E.@ - Natural Ultimate Digital Experiment (Japan)": {
@@ -4386,7 +4386,7 @@
 	"NHL 2K6 (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"NHL 2K6 (USA)": {
+	"NHL 2K6 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"NHL 2K7 (USA, Europe)": {
@@ -6147,6 +6147,9 @@
 		"languages": [],
 		"localName": "戦闘妖精雪風　～妖精の舞う空～"
 	},
+	"Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)": {
+		"languages": ["Es"]
+	},
 	"Serious Sam (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -7532,9 +7535,6 @@
 	"Umezawa Yukari no Igo Seminar (Japan)": {
 		"languages": [],
 		"localName": "梅沢由香里の囲碁セミナー"
-	},
-	"Una Serie de Catastroficas Desdichas de Lemony Snicket (Spain)": {
-		"languages": ["Es"]
 	},
 	"Unreal Championship (Japan, Korea)": {
 		"languages": ["En"],

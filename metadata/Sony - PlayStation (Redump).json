@@ -209,11 +209,11 @@
 	},
 	"3x3 Eyes - Kyuusei Koushu (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localName": "サザン　アイズ　～吸精公主～"
+		"localName": "サザン　アィズ　～吸精公主～"
 	},
 	"3x3 Eyes - Kyuusei Koushu (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localName": "サザン　アイズ　～吸精公主～"
+		"localName": "サザン　アィズ　～吸精公主～"
 	},
 	"3x3 Eyes - Tenrin'ou Genmu (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -1657,7 +1657,7 @@
 	"Armored Core (USA)": {
 		"languages": ["En"]
 	},
-	"Armored Core (USA) (Reprint)": {
+	"Armored Core (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
 	"Armored Core - Master of Arena (Japan) (Demo)": {
@@ -3465,6 +3465,10 @@
 		"languages": ["Ja"],
 		"localName": "ブレイブソード"
 	},
+	"Brave Sword (Japan) (Taikenban)": {
+		"languages": ["Ja"],
+		"localName": "ブレイブ・ソード"
+	},
 	"Bravo Air Race (USA)": {
 		"languages": ["En"]
 	},
@@ -3512,6 +3516,10 @@
 		"languages": ["Ja"],
 		"localName": "ブレス　オブ　ファイアⅢ"
 	},
+	"Breath of Fire III (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "ブレス　オブ　ファイアⅢ"
+	},
 	"Breath of Fire III (USA)": {
 		"languages": ["En"]
 	},
@@ -3526,7 +3534,11 @@
 	},
 	"Breath of Fire IV - Utsurowazaru Mono (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ブレスオブファイアⅣ　～うつろわざるもの～"
+		"localName": "ブレス　オブ　ファイアⅣ　うつろわざるもの"
+	},
+	"Breath of Fire IV - Utsurowazaru Mono (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "ブレス　オブ　ファイアⅣ　うつろわざるもの"
 	},
 	"Breed Master (Japan)": {
 		"languages": ["Ja"],
@@ -3783,7 +3795,7 @@
 	"Bust-A-Move 2 - Arcade Edition (Europe)": {
 		"languages": ["En"]
 	},
-	"Bust-A-Move 2 - Arcade Edition (Italy) (Reprint)": {
+	"Bust-A-Move 2 - Arcade Edition (Italy) (2 Games)": {
 		"languages": ["En"]
 	},
 	"Bust-A-Move 2 - Arcade Edition (USA)": {
@@ -3792,7 +3804,7 @@
 	"Bust-A-Move 3 DX (Europe)": {
 		"languages": ["En"]
 	},
-	"Bust-A-Move 3 DX (Italy) (Reprint)": {
+	"Bust-A-Move 3 DX (Italy) (2 Games)": {
 		"languages": ["En"]
 	},
 	"Bust-A-Move 4 (Europe)": {
@@ -5281,6 +5293,14 @@
 		"languages": ["Ja"],
 		"localName": "コンプリートサッカー　オンサイド"
 	},
+	"Concert, Le - ff - Fortissimo (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ル　コンチェルト　ｆｆ　フォルティシモ"
+	},
+	"Concert, Le - pp - Pianissimo (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ル　コンチェルト　ｐｐ　ピアニシモ"
+	},
 	"Constructor (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
@@ -5938,9 +5958,9 @@
 		"languages": ["Ja"],
 		"localName": "Ｄの食卓 コンプリートグラフィックス"
 	},
-	"D-1 Grand Prix (Japan) (Demo)": {
+	"D-1 Grand Prix (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localName": "ディーワングランプリ　体験版"
+		"localName": "ディーワングランプリ"
 	},
 	"DBZ - Dead Ball Zone (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6098,7 +6118,7 @@
 	},
 	"Dance Dance Revolution 2nd Remix (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ダンスダンスレボリューション　セカンドリミックス"
+		"localName": "ダンスダンスレボリューション セカンドリミックス"
 	},
 	"Dance Dance Revolution 2nd Remix - Append Club Version Vol. 1 (Japan, Asia)": {
 		"languages": ["Ja"],
@@ -6184,7 +6204,7 @@
 	},
 	"Dancing Stage featuring Dreams Come True (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ダンシングステージ　フィーチャリング　ドリームズ・カム・トゥルー"
+		"localName": "ダンシングステージ フィーチャリング ドリームズ・カム・トゥルー"
 	},
 	"Dancing Stage featuring True Kiss Destination (Japan)": {
 		"languages": ["Ja"],
@@ -6946,7 +6966,7 @@
 		"languages": ["En"],
 		"localName": "デストラクション・ダービー２"
 	},
-	"Destruction Derby 2 (USA)": {
+	"Destruction Derby 2 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Destruction Derby Raw (Europe) (En,Fr,De,Es,It)": {
@@ -8650,9 +8670,12 @@
 		"languages": ["En"]
 	},
 	"Duke Nukem (France)": {
-		"languages": ["Fr"]
+		"languages": []
 	},
 	"Duke Nukem (France) (Demo)": {
+		"languages": ["Fr"]
+	},
+	"Duke Nukem (France) (Rev 1)": {
 		"languages": ["Fr"]
 	},
 	"Duke Nukem - Land of the Babes (Europe) (En,Fr,De,Es,It)": {
@@ -9058,7 +9081,7 @@
 		"languages": ["Ja"],
 		"localName": "アイシア"
 	},
-	"Eithea (Japan) (Disc 1) (Rev 1)": {
+	"Eithea (Japan) (Disc 1) (Deluxe Pack)": {
 		"languages": ["Ja"],
 		"localName": "アイシア"
 	},
@@ -9066,16 +9089,13 @@
 		"languages": ["Ja"],
 		"localName": "アイシア"
 	},
-	"Eithea (Japan) (Disc 2) (Rev 1)": {
+	"Eithea (Japan) (Disc 2) (Deluxe Pack)": {
 		"languages": ["Ja"],
 		"localName": "アイシア"
 	},
 	"Eko Eko Azarak - Wizard of Darkness (Japan)": {
 		"languages": ["Ja"],
 		"localName": "エコエコアザラク　－ＷＩＺＡＲＤ　ＯＦ　ＤＡＲＫＮＥＳＳ－"
-	},
-	"El Tetris Un Magico Desafio (Spain)": {
-		"languages": ["Es"]
 	},
 	"Elan (Japan)": {
 		"languages": ["Ja"],
@@ -9692,13 +9712,13 @@
 	"Euro Demo 36 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 37 (Europe)": {
+	"Euro Demo 37 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 37 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 38 (Europe)": {
+	"Euro Demo 38 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 38 (France)": {
@@ -10547,10 +10567,10 @@
 		"languages": ["Ja"],
 		"localName": "ＦＩＦＡ　ＷＯＲＬＤ　ＣＵＰ　９８　～フランス９８総集編～"
 	},
-	"Fade to Black (Europe) (En,Fr,De,Es,It)": {
+	"Fade to Black (Europe) (En,Fr,De,Es,It) (En,De)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Fade to Black (Europe) (En,Fr,De,Es,It) (SLES-00339)": {
+	"Fade to Black (Europe) (En,Fr,De,Es,It) (En,Fr)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Fade to Black (Japan) (En,Ja)": {
@@ -11647,6 +11667,9 @@
 	"Formula One (Europe) (En,Fr,De,Es,It) (Demo)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Formula One 2000 (Europe) (Beta) (2000-08-17)": {
+		"languages": []
+	},
 	"Formula One 2000 (Europe) (En,Fi)": {
 		"languages": ["En", "Fi"]
 	},
@@ -12397,6 +12420,10 @@
 		"languages": ["Ja"],
 		"localName": "ＤＸ人生ゲームⅣ"
 	},
+	"Game of Life, The - DX Jinsei Game IV (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "ＤＸ人生ゲームⅣ"
+	},
 	"Game of Life, The - DX Jinsei Game V (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＤＸ人生ゲームⅤ"
@@ -12892,7 +12919,7 @@
 	},
 	"Goo-Cho de Park - Theme Park Monogatari (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ぐーちょＤＥパーク　テーマパークものがたり"
+		"localName": "ぐーちょＤＥパーク テーマパークものがたり"
 	},
 	"Goo-Cho de Park - Theme Park Monogatari (Japan) (Demo)": {
 		"languages": ["Ja"],
@@ -13318,7 +13345,7 @@
 		"languages": ["Ja"],
 		"localName": "ＧＵＮばれ！ゲーム天国　ＴＨＥ　ＧＡＭＥ　ＰＡＲＡＤＩＳＥ　２"
 	},
-	"Gunbarl (Japan) (PlayStation the Best)": {
+	"Gunbarl (Japan) (Rev 1)": {
 		"languages": ["Ja"],
 		"localName": "ガンバァール"
 	},
@@ -13617,7 +13644,7 @@
 	"Harry Potter and the Chamber of Secrets (Scandinavia) (En,Sv,No)": {
 		"languages": ["En", "No", "Sv"]
 	},
-	"Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)": {
+	"Harry Potter and the Chamber of Secrets (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Harry Potter and the Philosopher's Stone (Canada) (En,Fr,De)": {
@@ -13845,6 +13872,10 @@
 		"localName": "ヘリックス　フィアエフェクト"
 	},
 	"Helix - Fear Effect (Japan) (Disc 4)": {
+		"languages": ["Ja"],
+		"localName": "ヘリックス　フィアエフェクト"
+	},
+	"Helix - Fear Effect (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "ヘリックス　フィアエフェクト"
 	},
@@ -16055,7 +16086,11 @@
 	},
 	"Katou Hifumi Kudan - Shougi Club (Japan)": {
 		"languages": ["Ja"],
-		"localName": "加藤一二三九段　～将棋倶楽部～"
+		"localName": "加藤一二三九段　将棋倶楽部"
+	},
+	"Katou Hifumi Kudan - Shougi Club (Japan) (Honkakuha de 1300)": {
+		"languages": ["Ja"],
+		"localName": "加藤一二三九段　将棋倶楽部"
 	},
 	"Kattobi Tune (Japan)": {
 		"languages": ["Ja"],
@@ -17580,14 +17615,6 @@
 	"Lattice - 200EC7 (Japan)": {
 		"languages": ["En"],
 		"localName": "ラティス　－２００ＥＣ７－"
-	},
-	"Le Concert - ff - Fortissimo (Japan)": {
-		"languages": ["Ja"],
-		"localName": "ル　コンチェルト　ｆｆ　フォルティシモ"
-	},
-	"Le Concert - pp - Pianissimo (Japan)": {
-		"languages": ["Ja"],
-		"localName": "ル　コンチェルト　ｐｐ　ピアニシモ"
 	},
 	"Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
@@ -19988,7 +20015,7 @@
 	},
 	"MiruMiru PlayStation Vol. 31 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "見る見る　プレイステーション　ｖｏｌ．３１"
+		"localName": "見る見る　プレイステーション　Ｖｏｌ．３１"
 	},
 	"MiruMiru PlayStation Vol. 33 (Japan)": {
 		"languages": ["Ja"],
@@ -20650,6 +20677,9 @@
 	"Mouri Motonari - Chikai no Sanshi (Japan)": {
 		"languages": ["Ja"],
 		"localName": "毛利元就　～誓いの三矢～"
+	},
+	"Mr. Driller (Europe) (Beta) (2000-07-18)": {
+		"languages": []
 	},
 	"Mr. Driller (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -21558,7 +21588,7 @@
 	},
 	"Namco Museum Vol. 1 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ナムコミュージアム　ＶＯＬ．１"
+		"localName": "ナムコミュージアム　Ｖｏｌ．１"
 	},
 	"Namco Museum Vol. 1 (USA)": {
 		"languages": ["En"]
@@ -21571,11 +21601,11 @@
 	},
 	"Namco Museum Vol. 2 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ナムコミュージアム　ＶＯＬ．２"
+		"localName": "ナムコミュージアム　Ｖｏｌ．２"
 	},
 	"Namco Museum Vol. 2 (Japan) (Gentei Box)": {
 		"languages": ["Ja"],
-		"localName": "ナムコミュージアム　ＶＯＬ．２"
+		"localName": "ナムコミュージアム　Ｖｏｌ．２"
 	},
 	"Namco Museum Vol. 2 (USA)": {
 		"languages": ["En"]
@@ -21585,7 +21615,7 @@
 	},
 	"Namco Museum Vol. 3 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ナムコミュージアム　ＶＯＬ．３"
+		"localName": "ナムコミュージアム　Ｖｏｌ．３"
 	},
 	"Namco Museum Vol. 3 (USA)": {
 		"languages": ["En"]
@@ -22954,7 +22984,11 @@
 	},
 	"Ongaku Tkool - Kanadeeru 2 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "音楽ツクール　かなで～る２"
+		"localName": "音楽ツクール　かなでーる２"
+	},
+	"Ongaku Tkool - Kanadeeru 2 (Japan) (Rerelease)": {
+		"languages": ["Ja"],
+		"localName": "音楽ツクール　かなでーる２"
 	},
 	"Ongaku Tkool 3 (Japan)": {
 		"languages": ["Ja"],
@@ -23881,7 +23915,7 @@
 		"languages": ["Ja"],
 		"localName": "パーラーステーション"
 	},
-	"Parlor Station (Japan) (Reprint)": {
+	"Parlor Station (Japan) (Rerelease)": {
 		"languages": ["Ja"],
 		"localName": "パーラーステーション"
 	},
@@ -26899,6 +26933,10 @@
 		"languages": ["Ja"],
 		"localName": "リヴン　ザ　シークェル　トゥー　ミスト"
 	},
+	"Riven - The Sequel to Myst (Japan) (Otameshi Disc)": {
+		"languages": ["Ja"],
+		"localName": "リヴン　ザ　シークェル　トゥー　ミスト"
+	},
 	"Riven - The Sequel to Myst (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
@@ -27751,6 +27789,10 @@
 	"Saru! Get You! (Japan, Asia) (Demo 1)": {
 		"languages": ["Ja"],
 		"localName": "サルゲッチュ"
+	},
+	"SatelliTV & Doki Doki Shutter Chance - Koi no Puzzle o Kumitatete (Japan) (Taikenban)": {
+		"languages": ["Ja"],
+		"localName": "サテライティービー　／　どきどきシャッター・チャンス　～恋のパズルを組み立てて～"
 	},
 	"SatelliTV (Japan)": {
 		"languages": ["Ja"],
@@ -30947,6 +30989,10 @@
 		"languages": ["En"],
 		"localName": "ストリートファイターＺＥＲＯ２"
 	},
+	"Street Fighter Zero 2 (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "ストリートファイターＺＥＲＯ２"
+	},
 	"Street Fighter Zero 2' (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ストリートファイターＺＥＲＯ２＇"
@@ -31674,7 +31720,7 @@
 	},
 	"SuperLite 1500 Series - Oekaki Puzzle (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＳｕｐｅｒＬｉｔｅ　１５００　シリーズ　おえかきパズル"
+		"localName": "ＳｕｐｅｒＬｉｔｅ １５００ シリーズ おえかきパズル"
 	},
 	"SuperLite 1500 Series - Oekaki Puzzle 2 (Japan)": {
 		"languages": ["Ja"],
@@ -32660,8 +32706,8 @@
 	"Tekken 2 (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Tekken 2 + Fade to Black + F1 + V-CD (Germany)": {
-		"languages": ["De"]
+	"Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia)": {
+		"languages": ["En"]
 	},
 	"Tekken 2 + Fade to Black + V-CD (France)": {
 		"languages": ["En"]
@@ -32900,6 +32946,9 @@
 	},
 	"Tetris Plus (USA)": {
 		"languages": ["En"]
+	},
+	"Tetris Un Magico Desafio, El (Spain)": {
+		"languages": ["Es"]
 	},
 	"Tetris X (Japan)": {
 		"languages": ["Ja"],
@@ -33948,14 +33997,6 @@
 	"Tommi Maekinen Rally (Italy)": {
 		"languages": ["It"]
 	},
-	"Tomoyasu Hotei - Stolen Song (Japan) (Demo 1)": {
-		"languages": ["Ja"],
-		"localName": "布袋寅泰　～ストールンソング～"
-	},
-	"Tomoyasu Hotei - Stolen Song (Japan) (Demo 2)": {
-		"languages": ["Ja"],
-		"localName": "布袋寅泰　～ストールンソング～"
-	},
 	"Tomoyasu Hotei - Stolen Song (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "布袋寅泰　～ストールンソング～"
@@ -33969,6 +34010,14 @@
 		"localName": "布袋寅泰　～ストールンソング～"
 	},
 	"Tomoyasu Hotei - Stolen Song (Japan) (Disc 2) (VPick Included)": {
+		"languages": ["Ja"],
+		"localName": "布袋寅泰　～ストールンソング～"
+	},
+	"Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 1)": {
+		"languages": ["Ja"],
+		"localName": "布袋寅泰　～ストールンソング～"
+	},
+	"Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 2)": {
 		"languages": ["Ja"],
 		"localName": "布袋寅泰　～ストールンソング～"
 	},
@@ -34969,7 +35018,7 @@
 	"V2000 (Europe) (En,Fr,De,Es,It) (Demo)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"VIP Demo (Europe)": {
+	"VIP Demo (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"VIP Demo (Germany)": {
@@ -35243,8 +35292,11 @@
 		"languages": ["Ja"],
 		"localName": "ヴィクトリーゾーン２"
 	},
-	"Video IDU Demo 06E (Europe) (Demo)": {
+	"Video IDU Demo 06E (Europe)": {
 		"languages": ["En"]
+	},
+	"Video IDU Demo 1F (France)": {
+		"languages": ["Fr"]
 	},
 	"Video IDU Test v1.1 (Europe)": {
 		"languages": ["En"]
@@ -36814,6 +36866,10 @@
 	"Xevious 3D-G+ (USA)": {
 		"languages": ["En"]
 	},
+	"Xing Entertainment Winter Special '98 Premium Disc (Japan)": {
+		"languages": ["Ja"],
+		"localName": "Ｘｉｎｇ　Ｐｒｅｖｉｅｗ　＇９８　Ｗｉｎｔｅｒ"
+	},
 	"Xploder CD9000 Directors Cut (Germany) (Unl)": {
 		"languages": ["De"]
 	},
@@ -37072,7 +37128,7 @@
 	},
 	"Yu-Gi-Oh! Shin Duel Monsters - Fuuin Sareshi Kioku (Japan)": {
 		"languages": ["Ja"],
-		"localName": "遊★戯★王　真デュエルモンスターズ　～封印されし記憶～"
+		"localName": "遊★戯★王 真デュエルモンスターズ ～封印されし記憶～"
 	},
 	"Yu-Gi-Oh! Shin Duel Monsters - Fuuin Sareshi Kioku (Japan) (Genteiban)": {
 		"languages": ["Ja"],
@@ -37110,6 +37166,10 @@
 		"localName": "悠久幻想曲"
 	},
 	"Yuukyuu Gensoukyoku (Japan) (Genteiban)": {
+		"languages": ["Ja"],
+		"localName": "悠久幻想曲"
+	},
+	"Yuukyuu Gensoukyoku (Japan) (Tentou Jitsuenban)": {
 		"languages": ["Ja"],
 		"localName": "悠久幻想曲"
 	},

@@ -1605,9 +1605,6 @@
 	"Chicken Shoot (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Chiffres & Des Lettres, Des - Le Jeu Officiel (France)": {
-		"languages": ["Fr"]
-	},
 	"Chin Sports (Japan)": {
 		"languages": ["Ja"],
 		"localName": "珍スポーツ"
@@ -2229,6 +2226,9 @@
 		"languages": ["Ja"],
 		"localName": "電車でＧＯ！　新幹線ＥＸ　山陽新幹線編"
 	},
+	"Des Chiffres & Des Lettres - Le Jeu Officiel (France)": {
+		"languages": ["Fr"]
+	},
 	"Despicable Me - The Game (Europe, Australia) (En,Fr,De,Es,It,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "No", "Sv"]
 	},
@@ -2281,12 +2281,6 @@
 	},
 	"DiscUpdate Disc (WiiMenu 3.0U) (USA)": {
 		"languages": ["En"]
-	},
-	"Disney - Pixar Arabalar 2 (Turkey)": {
-		"languages": ["Tr"]
-	},
-	"Disney - Pixar Cars - Mater-National Championship (USA) (En,Es)": {
-		"languages": ["En", "Es"]
 	},
 	"Disney Alice in Wonderland (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -2613,6 +2607,9 @@
 	"Disney's Chicken Little - Ace in Action (USA)": {
 		"languages": ["En"]
 	},
+	"Disney-Pixar Arabalar 2 (Turkey)": {
+		"languages": ["Tr"]
+	},
 	"Disney-Pixar Brave (Australia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
@@ -2656,6 +2653,9 @@
 	},
 	"Disney-Pixar Cars - Mater-National Championship (USA) (Beta)": {
 		"languages": []
+	},
+	"Disney-Pixar Cars - Mater-National Championship (USA) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"Disney-Pixar Cars - Race-O-Rama (Europe) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
@@ -3210,9 +3210,6 @@
 	},
 	"DreamWorks Turbo - Super Stunt Squad (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
-	},
-	"Drei Fragezeichen, Die - Das Verfluchte Schloss (Germany) (Rev 1)": {
-		"languages": ["De"]
 	},
 	"Driver - Parallel Lines (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5150,19 +5147,19 @@
 	"Just Dance 3 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Just Dance 3 (USA) (En,Fr,Es) (Best Buy)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Just Dance 3 (USA) (En,Fr,Es) (Best Buy) (Rev 1)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"Just Dance 3 (USA) (En,Fr,Es) (Rev 1)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Just Dance 3 (USA) (En,Fr,Es) (SJDY)": {
+	"Just Dance 3 (USA) (En,Fr,Es) (Target)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Just Dance 3 (USA) (En,Fr,Es) (SJDY) (Rev 1)": {
-		"languages": ["En", "Es", "Fr"]
-	},
-	"Just Dance 3 (USA) (En,Fr,Es) (SJDZ)": {
-		"languages": ["En", "Es", "Fr"]
-	},
-	"Just Dance 3 (USA) (En,Fr,Es) (SJDZ) (Rev 1)": {
+	"Just Dance 3 (USA) (En,Fr,Es) (Target) (Rev 1)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Just Dance 4 (Europe) (En,Fr,De,Es,It)": {
@@ -11930,6 +11927,10 @@
 	},
 	"Zumba Kids (USA)": {
 		"languages": ["En"]
+	},
+	"drei Fragezeichen, Die - Das verfluchte Schloss (Germany) (Rev 1)": {
+		"languages": ["De"],
+		"localName": "Die drei --- - Das verfluchte Schloss"
 	},
 	"uDraw Studio (Europe) (En,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]

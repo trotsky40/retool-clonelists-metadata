@@ -3032,6 +3032,10 @@
 	"Disgaea 3 - Absence of Justice (USA)": {
 		"languages": ["En"]
 	},
+	"Disgaea 4 - A Promise Unforgotten (Asia)": {
+		"languages": ["Zh"],
+		"localName": "魔界戰記 4"
+	},
 	"Disgaea 4 - A Promise Unforgotten (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
@@ -3087,9 +3091,6 @@
 	},
 	"Dishonored - Game of the Year Edition (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
-	},
-	"Disney - Pixar Arabalar 2 (Turkey)": {
-		"languages": ["Tr"]
 	},
 	"Disney Bolt (Europe) (En,Es,It)": {
 		"languages": ["En", "Es", "It"]
@@ -3257,6 +3258,9 @@
 	"Disney Universe (USA, Korea) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Disney-Pixar Arabalar 2 (Turkey)": {
+		"languages": ["Tr"]
+	},
 	"Disney-Pixar Brave (Australia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
@@ -3355,6 +3359,9 @@
 	},
 	"Disney-Pixar Up (Italy)": {
 		"languages": ["It"]
+	},
+	"Disney-Pixar Up (Netherlands)": {
+		"languages": []
 	},
 	"Disney-Pixar Up (Poland)": {
 		"languages": ["Pl"],
@@ -4608,6 +4615,9 @@
 	"Fallout - New Vegas - Ultimate Edition (Japan)": {
 		"languages": []
 	},
+	"Fallout - New Vegas - Ultimate Edition (Latin America)": {
+		"languages": ["Es"]
+	},
 	"Fallout - New Vegas - Ultimate Edition (Spain)": {
 		"languages": ["Es"]
 	},
@@ -5060,7 +5070,7 @@
 	"Game of Thrones - A Telltale Games Series (USA) (En,Fr,De,Es,Pt,Zh,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "Pt", "Ru", "Zh"]
 	},
-	"Gekiatsu!! Pachige-Damashi - CR Evangelion - Hajimari no Fukuin (Japan)": {
+	"Gekiatsu!! Pachige-Damashi - CR Evangelion - Evangelical of the Beginnings (Japan)": {
 		"languages": ["Ja"],
 		"localName": "激アツ！！　パチゲー魂　「ＣＲヱヴァンゲリヲン～始まりの福音～」"
 	},
@@ -8007,7 +8017,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
 	"Mirror's Edge (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "ミラーズエッジ"
 	},
 	"Mirror's Edge (Korea)": {
@@ -13812,6 +13822,10 @@
 	},
 	"WWE SmackDown vs. Raw 2009 (Japan)": {
 		"languages": []
+	},
+	"WWE SmackDown vs. Raw 2009 (Korea)": {
+		"languages": [],
+		"localName": "WWE 스맥다운 대 로우 2009"
 	},
 	"WWE SmackDown vs. Raw 2009 (USA) (Demo)": {
 		"languages": []

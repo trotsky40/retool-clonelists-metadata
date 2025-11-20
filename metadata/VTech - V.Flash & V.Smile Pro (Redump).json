@@ -38,9 +38,6 @@
 	"Dingo Rallye - Fou ! Fou ! Fou ! (France)": {
 		"languages": []
 	},
-	"Disney - Pixar Cars - A Fond la Caisse ! (France)": {
-		"languages": []
-	},
 	"Disney Princess - Das Zauberhafte Maerchen-Abenteuer (Germany)": {
 		"languages": []
 	},
@@ -61,6 +58,10 @@
 	},
 	"Disney Princesses - L'Aventure Enchantee (France)": {
 		"languages": ["Fr"]
+	},
+	"Disney-Pixar Cars - A Fond la Caisse ! (France)": {
+		"languages": [],
+		"localName": "Disney · Pixar Cars - À Fond la Caisse !"
 	},
 	"Disney-Pixar Cars - In the Fast Lane (USA)": {
 		"languages": ["En"]
