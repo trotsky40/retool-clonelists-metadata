@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (Digital) (CDN) (No-Intro)",
-		"lastUpdated": "2025-11-16 13:07:43",
+		"lastUpdated": "2025-11-23 10:08:39",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -83,10 +83,24 @@
 			]
 		},
 		{
+			"group": "12-gatsu 20-nichi Do Zenkoku Roadshow Disney Eiga - Baymax - Yokoku",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "12-gatsu 20-nichi Do Zenkoku Roadshow Disney Eiga - Baymax - Yokoku"}
+			]
+		},
+		{
 			"group": "101 Pony Pets 3D",
 			"titles": [
 				{"searchTerm": "101 Pony Pets 3D"},
 				{"searchTerm": "Pony Pets 3D"}
+			]
+		},
+		{
+			"group": "Ace Combat 3D - Cross Rumble (Nintendo 3DS Conference 2011)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Ace Combat 3D - Cross Rumble (Nintendo 3DS Conference 2011)"}
 			]
 		},
 		{
@@ -126,18 +140,36 @@
 			]
 		},
 		{
+			"group": "Animal Crossing - Happy Home Designer",
+			"titles": [
+				{"searchTerm": "Animal Crossing - Happy Home Designer"},
+				{"searchTerm": "Doubutsu no Mori - Happy Home Designer"}
+			]
+		},
+		{
+			"group": "Animal Crossing - Happy Home Designer (Update)",
+			"titles": [
+				{"searchTerm": "Animal Crossing - Happy Home Designer (Update)"},
+				{"searchTerm": "Doubutsu no Mori - Happy Home Designer (Update)"}
+			]
+		},
+		{
 			"group": "Animal Crossing - New Leaf",
 			"titles": [
-				{"searchTerm": "Animal Crossing - New Leaf"}
+				{"searchTerm": "Animal Crossing - New Leaf"},
+				{"searchTerm": "Tobidase Doubutsu no Mori"},
+				{"searchTerm": "Twieonawayo Dongmul-ui Sup"}
 			],
 			"supersets": [
-				{"searchTerm": "Animal Crossing - New Leaf - Welcome Amiibo"}
+				{"searchTerm": "Animal Crossing - New Leaf - Welcome Amiibo"},
+				{"searchTerm": "Tobidase Doubutsu no Mori - amiibo+"}
 			]
 		},
 		{
 			"group": "Animal Crossing - New Leaf (Update)",
 			"titles": [
-				{"searchTerm": "Animal Crossing - New Leaf (Update)"}
+				{"searchTerm": "Animal Crossing - New Leaf (Update)"},
+				{"searchTerm": "Tobidase Doubutsu no Mori (Update)"}
 			],
 			"supersets": [
 				{"searchTerm": "Animal Crossing - New Leaf - Welcome Amiibo (Update)"}
@@ -155,6 +187,21 @@
 			"titles": [
 				{"searchTerm": "Arc Style - Fishing 3D"},
 				{"searchTerm": "Family Fishing"}
+			]
+		},
+		{
+			"group": "Art Academy - Lessons for Everyone!",
+			"titles": [
+				{"searchTerm": "Art Academy - Lessons for Everyone!"},
+				{"searchTerm": "New Art Academy"},
+				{"searchTerm": "Shin Egokoro Kyoushitsu"}
+			]
+		},
+		{
+			"group": "Art Academy - Lessons for Everyone! (DLC)",
+			"titles": [
+				{"searchTerm": "Art Academy - Lessons for Everyone! (DLC)"},
+				{"searchTerm": "New Art Academy (DLC)"}
 			]
 		},
 		{
@@ -259,6 +306,28 @@
 			]
 		},
 		{
+			"group": "Brain Age - Concentration Training",
+			"titles": [
+				{"searchTerm": "Brain Age - Concentration Training"},
+				{"searchTerm": "Tohoku Daigaku Karei Igaku Kenkyuusho - Kawashima Ryuuta Kyouju Kanshuu - Monosugoku Nou o Kitaeru 5-funkan no Oni Training"}
+			]
+		},
+		{
+			"group": "Bravely Default",
+			"titles": [
+				{"searchTerm": "Bravely Default"},
+				{"searchTerm": "Bravely Default - For the Sequel"},
+				{"searchTerm": "Bravely Default - Flying Fairy", "priority": 2}
+			]
+		},
+		{
+			"group": "Bravely Default (Update)",
+			"titles": [
+				{"searchTerm": "Bravely Default - For the Sequel (Update)"},
+				{"searchTerm": "Bravely Default - Flying Fairy (Update)", "priority": 2}
+			]
+		},
+		{
 			"group": "Bravely Second - End Layer",
 			"titles": [
 				{"searchTerm": "Bravely Second"},
@@ -322,6 +391,13 @@
 			]
 		},
 		{
+			"group": "Castlevania - Lords of Shadow - Mirror of Fate",
+			"titles": [
+				{"searchTerm": "Castlevania - Lords of Shadow - Mirror of Fate"},
+				{"searchTerm": "Castlevania - Lords of Shadow - Shukumei no Makyou"}
+			]
+		},
+		{
 			"group": "Chevrolet Camaro - Wild Ride 3D",
 			"titles": [
 				{"searchTerm": "Chevrolet Camaro - Wild Ride 3D"},
@@ -343,6 +419,13 @@
 			]
 		},
 		{
+			"group": "Chibi-Robo! Zip Lash",
+			"titles": [
+				{"searchTerm": "Chibi-Robo! Zip Lash"},
+				{"searchTerm": "Nagenawa Action! Guruguru! Chibi Robo!", "priority": 2}
+			]
+		},
+		{
 			"group": "Comic Workshop",
 			"categories": ["Applications"],
 			"titles": [
@@ -361,6 +444,49 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Comic Workshop 2 (Update)"}
+			]
+		},
+		{
+			"group": "Conception II - Children of the Seven Stars",
+			"titles": [
+				{"searchTerm": "Conception II - Children of the Seven Stars"},
+				{"searchTerm": "Conception II - Shichisei no Michibiki to Mazuru no Akumu"}
+			]
+		},
+		{
+			"group": "Conception II - Children of the Seven Stars (DLC)",
+			"titles": [
+				{"searchTerm": "Conception II - Children of the Seven Stars (DLC)"},
+				{"searchTerm": "Conception II - Shichisei no Michibiki to Mazuru no Akumu (DLC)"}
+			]
+		},
+		{
+			"group": "Cooking Mama 4 - Kitchen Magic",
+			"titles": [
+				{"searchTerm": "Cooking Mama 4"},
+				{"searchTerm": "Cooking Mama 4 - Kitchen Magic"}
+			]
+		},
+		{
+			"group": "Cooking Mama 5 - Bon Appetit!",
+			"titles": [
+				{"searchTerm": "Cooking Mama 5"},
+				{"searchTerm": "Cooking Mama 5 - Bon Appetit!"}
+			]
+		},
+		{
+			"group": "Cooking Mama - Sweet Shop",
+			"titles": [
+				{"searchTerm": "Cooking Mama - Sweet Shop"},
+				{"searchTerm": "Cooking Mama - Watashi no Sweets Shop"}
+			]
+		},
+		{
+			"group": "Corpse Party",
+			"titles": [
+				{"searchTerm": "Corpse Party"},
+				{"searchTerm": "Corpse Party Blood Cover - Repeated Fear"},
+				{"searchTerm": "Corpse Party BR"}
 			]
 		},
 		{
@@ -424,10 +550,10 @@
 			]
 		},
 		{
-			"group": "Dillon's Rolling Western",
+			"group": "Detective Pikachu",
 			"titles": [
-				{"searchTerm": "Dillon's Rolling Western"},
-				{"searchTerm": "Rolling Western, The (Nintendo Direct 2011-10-21)"}
+				{"searchTerm": "Detective Pikachu"},
+				{"searchTerm": "Meitantei Pikachu - Shin Combi Tanjou"}
 			]
 		},
 		{
@@ -445,6 +571,13 @@
 			]
 		},
 		{
+			"group": "Disney Epic Mickey - Power of Illusion",
+			"titles": [
+				{"searchTerm": "Disney Epic Mickey - Mickey no Fushigi na Bouken"},
+				{"searchTerm": "Disney Epic Mickey - Power of Illusion"}
+			]
+		},
+		{
 			"group": "Disney Frozen - Olaf's Quest",
 			"titles": [
 				{"searchTerm": "Disney Frozen - Olaf's Quest"}
@@ -455,6 +588,55 @@
 			]
 		},
 		{
+			"group": "Disney Magical World",
+			"titles": [
+				{"searchTerm": "Disney Magic Castle My Happy Life"},
+				{"searchTerm": "Disney Magical World"}
+			]
+		},
+		{
+			"group": "Disney Magical World 2",
+			"titles": [
+				{"searchTerm": "Disney Magic Castle - My Happy Life 2"},
+				{"searchTerm": "Disney Magical World 2"}
+			]
+		},
+		{
+			"group": "Disney Magical World 2 (DLC)",
+			"titles": [
+				{"searchTerm": "Disney Magic Castle 2 (DLC)"},
+				{"searchTerm": "Disney Magical World 2 (DLC)"}
+			]
+		},
+		{
+			"group": "Disney Magical World (DLC)",
+			"titles": [
+				{"searchTerm": "Disney Magic Castle My Happy Life (DLC)"},
+				{"searchTerm": "Disney Magical World (DLC)"}
+			]
+		},
+		{
+			"group": "Donkey Kong Returns 3D (Nintendo 3DS Direct 2013-02-14)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Donkey Kong Returns 3D (Nintendo 3DS Direct 2013-02-14)"}
+			]
+		},
+		{
+			"group": "Dragon Quest VII - Fragments of the Forgotten Past",
+			"titles": [
+				{"searchTerm": "Dragon Quest VII - Eden no Senshi-tachi"},
+				{"searchTerm": "Dragon Quest VII - Fragments of the Forgotten Past"}
+			]
+		},
+		{
+			"group": "Dragon Quest VIII - Journey of the Cursed King",
+			"titles": [
+				{"searchTerm": "Dragon Quest VIII"},
+				{"searchTerm": "Dragon Quest VIII - Journey of the Cursed King"}
+			]
+		},
+		{
 			"group": "Drawing Workshop Plus",
 			"categories": ["Applications"],
 			"titles": [
@@ -462,10 +644,109 @@
 			]
 		},
 		{
+			"group": "Etrian Mystery Dungeon",
+			"titles": [
+				{"searchTerm": "Etrian Mystery Dungeon"},
+				{"searchTerm": "Sekaiju to Fushigi no Dungeon"}
+			]
+		},
+		{
+			"group": "Etrian Mystery Dungeon (DLC)",
+			"titles": [
+				{"searchTerm": "Etrian Mystery Dungeon (DLC)"},
+				{"searchTerm": "Sekaiju to Fushigi no Dungeon (DLC)"}
+			]
+		},
+		{
+			"group": "Etrian Odyssey 2 Untold - The Fafnir Knight",
+			"titles": [
+				{"searchTerm": "Etrian Odyssey 2 Untold - The Fafnir Knight"},
+				{"searchTerm": "Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi"}
+			]
+		},
+		{
+			"group": "Etrian Odyssey 2 Untold - The Fafnir Knight (DLC)",
+			"titles": [
+				{"searchTerm": "Etrian Odyssey 2 Untold - The Fafnir Knight (DLC)"},
+				{"searchTerm": "Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi (DLC)"}
+			]
+		},
+		{
+			"group": "Etrian Odyssey 2 Untold - The Fafnir Knight (Update)",
+			"titles": [
+				{"searchTerm": "Etrian Odyssey 2 Untold - The Fafnir Knight (Update)"},
+				{"searchTerm": "Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi (Update)"}
+			]
+		},
+		{
+			"group": "Etrian Odyssey IV - Legends of the Titan",
+			"titles": [
+				{"searchTerm": "Etrian Odyssey IV - Legends of the Titan"},
+				{"searchTerm": "Sekaiju no Meikyuu IV - Denshou no Kyojin"}
+			]
+		},
+		{
+			"group": "Etrian Odyssey Nexus",
+			"titles": [
+				{"searchTerm": "Etrian Odyssey Nexus"},
+				{"searchTerm": "Sekaiju no Meikyuu X"}
+			]
+		},
+		{
+			"group": "Etrian Odyssey Untold - The Millennium Girl",
+			"titles": [
+				{"searchTerm": "Etrian Odyssey Untold - Maiden of Millennium"},
+				{"searchTerm": "Etrian Odyssey Untold - The Millennium Girl"},
+				{"searchTerm": "Shin Sekaiju no Meikyuu - Millennium no Shoujo"}
+			]
+		},
+		{
+			"group": "Etrian Odyssey V - Beyond the Myth",
+			"titles": [
+				{"searchTerm": "Etrian Odyssey V - Beyond the Myth"},
+				{"searchTerm": "Sekaiju no Meikyuu V - Nagaki Shinwa no Hate"}
+			]
+		},
+		{
+			"group": "Etrian Odyssey V - Beyond the Myth (DLC)",
+			"titles": [
+				{"searchTerm": "Etrian Odyssey V - Beyond the Myth (DLC)"},
+				{"searchTerm": "Sekaiju no Meikyuu V - Nagaki Shinwa no Hate (DLC)"}
+			]
+		},
+		{
+			"group": "Ever Oasis",
+			"titles": [
+				{"searchTerm": "Ever Oasis"},
+				{"searchTerm": "Ever Oasis - Seirei to Tanebito no Mirage"}
+			]
+		},
+		{
 			"group": "F-Zero - Maximum Velocity",
 			"titles": [
 				{"searchTerm": "F-Zero"},
 				{"searchTerm": "F-Zero - Maximum Velocity"}
+			]
+		},
+		{
+			"group": "Farming Simulator 14",
+			"titles": [
+				{"searchTerm": "Farming Simulator 14"},
+				{"searchTerm": "Farming Simulator 14 - Pocket Nouen 2"}
+			]
+		},
+		{
+			"group": "Farming Simulator 18",
+			"titles": [
+				{"searchTerm": "Farming Simulator 18"},
+				{"searchTerm": "Farming Simulator 18 - Pocket Nouen 4"}
+			]
+		},
+		{
+			"group": "Fire Emblem - Awakening (DLC)",
+			"titles": [
+				{"searchTerm": "Fire Emblem - Awakening (DLC)"},
+				{"searchTerm": "Fire Emblem - Kakusei (DLC)"}
 			]
 		},
 		{
@@ -518,6 +799,13 @@
 			"titles": [
 				{"searchTerm": "Fluidity - Spin Cycle"},
 				{"searchTerm": "Hydroventure - Spin Cycle"}
+			]
+		},
+		{
+			"group": "Fossil Fighters - Frontier",
+			"titles": [
+				{"searchTerm": "Fossil Fighters - Frontier"},
+				{"searchTerm": "Kaseki Horider Mugen Gear"}
 			]
 		},
 		{
@@ -598,8 +886,30 @@
 		{
 			"group": "Harvest Moon 3D - A New Beginning",
 			"titles": [
+				{"searchTerm": "Bokujou Monogatari - Hajimari no Daichi"},
 				{"searchTerm": "Harvest Moon 3D - A New Beginning"},
 				{"searchTerm": "Harvest Moon - A New Beginning"}
+			]
+		},
+		{
+			"group": "Harvest Moon 3D - The Lost Valley",
+			"titles": [
+				{"searchTerm": "Harvest Moon 3D - The Lost Valley"},
+				{"searchTerm": "Harvest Moon - The Lost Valley"}
+			]
+		},
+		{
+			"group": "Harvest Moon 3D - The Lost Valley (DLC)",
+			"titles": [
+				{"searchTerm": "Harvest Moon 3D - The Lost Valley (DLC)"},
+				{"searchTerm": "Harvest Moon - The Lost Valley (DLC)"}
+			]
+		},
+		{
+			"group": "Harvest Moon 3D - The Lost Valley (Update)",
+			"titles": [
+				{"searchTerm": "Harvest Moon 3D - The Lost Valley (Update)"},
+				{"searchTerm": "Harvest Moon - The Lost Valley (Update)"}
 			]
 		},
 		{
@@ -626,6 +936,20 @@
 			]
 		},
 		{
+			"group": "Hello Kitty & Friends - Rockin' World Tour",
+			"titles": [
+				{"searchTerm": "Hello Kitty & Friends - Rockin' World Tour"},
+				{"searchTerm": "Hello Kitty to Sanrio Characters World Rock Tour"}
+			]
+		},
+		{
+			"group": "Hello Kitty and Sanrio Friends 3D Racing",
+			"titles": [
+				{"searchTerm": "Hello Kitty 3D Racing"},
+				{"searchTerm": "Hello Kitty and Sanrio Friends 3D Racing"}
+			]
+		},
+		{
 			"group": "Hello Kitty's Magic Apron",
 			"titles": [
 				{"searchTerm": "Hello Kitty and the Apron of Magic - Rhythm Cooking"},
@@ -633,10 +957,59 @@
 			]
 		},
 		{
+			"group": "Hyrule Warriors Legends",
+			"titles": [
+				{"searchTerm": "Hyrule Warriors Legends"},
+				{"searchTerm": "Zelda Musou - Hyrule Warriors"}
+			]
+		},
+		{
+			"group": "Hyrule Warriors Legends (DLC)",
+			"titles": [
+				{"searchTerm": "Hyrule Warriors Legends (DLC)"},
+				{"searchTerm": "Zelda Musou - Hyrule Warriors (DLC)"}
+			]
+		},
+		{
+			"group": "Hyrule Warriors Legends (Update)",
+			"titles": [
+				{"searchTerm": "Hyrule Warriors Legends (Update)"},
+				{"searchTerm": "Zelda Musou - Hyrule All Stars (Update)"}
+			]
+		},
+		{
 			"group": "Imagine - Fashion Life (DLC)",
 			"titles": [
 				{"searchTerm": "Imagine - Fashion Life (DLC)"},
 				{"searchTerm": "Imagine - Fashion World 3D (DLC)"}
+			]
+		},
+		{
+			"group": "Inazuma Eleven GO - Chrono Stone - Thunderflash",
+			"titles": [
+				{"searchTerm": "Inazuma Eleven Go 2 - Chrono Stone Raimei"},
+				{"searchTerm": "Inazuma Eleven GO - Chrono Stone - Thunderflash"}
+			]
+		},
+		{
+			"group": "Inazuma Eleven GO - Chrono Stones - Wildfire",
+			"titles": [
+				{"searchTerm": "Inazuma Eleven Go 2 - Chrono Stone Neppuu"},
+				{"searchTerm": "Inazuma Eleven GO - Chrono Stones - Wildfire"}
+			]
+		},
+		{
+			"group": "Inazuma Eleven Go - Licht",
+			"titles": [
+				{"searchTerm": "Inazuma Eleven Go - Licht"},
+				{"searchTerm": "Inazuma Eleven Go - Shine"}
+			]
+		},
+		{
+			"group": "Inazuma Eleven Go - Shadow",
+			"titles": [
+				{"searchTerm": "Inazuma Eleven Go - Dark"},
+				{"searchTerm": "Inazuma Eleven Go - Shadow"}
 			]
 		},
 		{
@@ -696,10 +1069,24 @@
 			]
 		},
 		{
+			"group": "Jake Hunter Detective Story - Ghost of the Dusk",
+			"titles": [
+				{"searchTerm": "Jake Hunter Detective Story - Ghost of the Dusk"},
+				{"searchTerm": "Tantei Jinguuji Saburou - Ghost of the Dusk"}
+			]
+		},
+		{
 			"group": "Japanese Rail Sim 3D - Journey in Suburbs #1",
 			"titles": [
 				{"searchTerm": "Japanese Rail Sim 3D - Journey in Suburbs #1"},
 				{"searchTerm": "Tetsudou Nippon! Rosen Tabi - Nagaragawa Tetsudou-hen"}
+			]
+		},
+		{
+			"group": "Jewel Master - Atlantis 3D",
+			"titles": [
+				{"searchTerm": "Jewel Master"},
+				{"searchTerm": "Jewel Master - Atlantis 3D"}
 			]
 		},
 		{
