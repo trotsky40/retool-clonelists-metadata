@@ -22,7 +22,7 @@ def main() -> None:
         if sys.platform.startswith('win'):
             files = subprocess.run(['git', 'diff', 'HEAD~', 'HEAD', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
         else:
-            files = subprocess.run(['git', 'diff' 'HEAD^' 'HEAD', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+            files = subprocess.run(['git', 'diff', 'HEAD^', 'HEAD', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
 
     files = [x for x in files if 'clonelists' in x]
 
