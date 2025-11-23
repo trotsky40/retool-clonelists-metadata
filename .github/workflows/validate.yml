@@ -32,4 +32,5 @@ jobs:
       run: pip install hatch
     - name: Validate clone list
       run: |
-        hatch run python3 retool-clonelists-metadata/scripts/clone_list_validate.py
+        cd retool-clonelists-metadata/scripts
+        hatch run python3 clone_list_validate.py
