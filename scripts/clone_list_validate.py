@@ -4,15 +4,25 @@ import json
 import json_source_map # type: ignore
 import jsonpath_ng # type: ignore
 import jsonschema
+import os
 import pathlib
 import re
+import requests
 import subprocess
 import sys
 import traceback
 
 from typing import Any
 
+def add_comment():
+    add_new_comment: requests.post = ('https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/PULL_NUMBER/comments')
+
 def main() -> None:
+    # Get the pull request number
+    pr_number: int = os.getenv('PR_NUMBER')
+
+    print(f'PR number: {pr_number}')
+
     # Get uncommited Git changes
     files = subprocess.run(['git', 'diff', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
     files = [x for x in files if 'clonelists' in x]
@@ -25,6 +35,8 @@ def main() -> None:
             files = subprocess.run(['git', 'diff', 'HEAD^', 'HEAD', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
 
     files = [x for x in files if 'clonelists' in x]
+
+    test_succeeded: bool = True
 
     for file in files:
         if file != 'hash.json':
@@ -207,6 +219,11 @@ def main() -> None:
 
             if not error_messages and not group_dupes and not searchterm_dupes:
                 print('No problems found.')
+            else:
+                test_succeeded = False
+
+    if not test_succeeded:
+        sys.exit(1)
 
 
 if __name__ == '__main__':

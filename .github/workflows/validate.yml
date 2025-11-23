@@ -40,5 +40,7 @@ jobs:
     - name: Install Hatch
       run: pip install hatch
     - name: Validate clone list
+      env:
+        PR_NUMBER: ${{ github.event.number }}
       run: |
         hatch run python3 retool-clonelists-metadata/scripts/clone_list_validate.py
