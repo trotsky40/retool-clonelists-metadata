@@ -9,15 +9,6 @@ jobs:
       contents: read
       pull-requests: write # Required to post comments and reviews
     steps:
-    - name: Git checkout
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: '0'
-    - name: git
-      # Set up the Git username and email
-      run: |
-        git config user.name "GitHub Actions Bot"
-        git config user.email "<>"
     - name: Checkout clone lists repo
       uses: actions/checkout@v4
       with:
@@ -39,6 +30,11 @@ jobs:
         restore-keys: ${{ runner.os }}-pip-
     - name: Install Hatch
       run: pip install hatch
+    - name: Set up git
+      # Set up the Git username and email
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
     - name: Validate clone list
       run: |
         cd retool-clonelists-metadata/scripts
