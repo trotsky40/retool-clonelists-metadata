@@ -207,8 +207,8 @@ def main() -> None:
                 if 'comment' not in error_messages[e.lineno]:
                     error_messages[e.lineno]['comment'] = ''
 
-                # TODO GitHub should post this in some way
                 error_messages[e.lineno]['comment'] = (
+                    '`[Automated review comment]`\n\n'
                     f'Invalid JSON found on or before this line ({e.lineno}). Fix the error '
                     'to continue.\n\nThere might be more invalid JSON in this file, but only '
                     'one line can be checked for at a time. To speed up error checking, try '
