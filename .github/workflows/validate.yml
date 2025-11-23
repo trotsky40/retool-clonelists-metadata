@@ -9,7 +9,20 @@ jobs:
       contents: read
       pull-requests: write # Required to post comments and reviews
     steps:
-    - name: Checkout current repo
+    - name: Git checkout
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: '0'
+    - name: git
+      run: |
+        # setup the username and email
+        git --version
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
+        git status
+        git tag
+        git describe
+    - name: Checkout clone lists repo
       uses: actions/checkout@v4
       with:
         path: retool-clonelists-metadata
