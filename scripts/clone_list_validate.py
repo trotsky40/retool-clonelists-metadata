@@ -235,7 +235,7 @@ def main() -> None:
 
             # Load the JSON schema
             with open(
-                pathlib.Path('tests/clone-list-schema.json'), encoding='utf-8'
+                pathlib.Path('scripts/clone-list-schema.json'), encoding='utf-8'
             ) as schema_file:
                 schema = json.load(schema_file)
 
