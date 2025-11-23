@@ -208,7 +208,7 @@ def main() -> None:
                     error_messages[e.lineno]['comment'] = ''
 
                 error_messages[e.lineno]['comment'] = (
-                    '`[Automated review comment]`\n\n'
+                    '> ### :gear: Automated review comment\n\n'
                     f'Invalid JSON found on or before this line ({e.lineno}). Fix the error '
                     'to continue.\n\nThere might be more invalid JSON in this file, but only '
                     'one line can be checked for at a time. To speed up error checking, try '
