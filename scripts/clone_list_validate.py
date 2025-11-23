@@ -14,14 +14,31 @@ import traceback
 
 from typing import Any
 
-def add_comment():
-    add_new_comment: requests.post = ('https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/PULL_NUMBER/comments')
+def add_comment(personal_access_token, pr_number, commit_id, filepath, pr_comment, line_number):
+    headers: dict[str, str] = {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': f'Bearer {personal_access_token}',
+        'X-GitHub-Api-Version': '2022-11-28',
+    }
+
+    data: dict[str, int|str] = {
+        'body': f'{pr_comment}',
+        'commit_id': f'{commit_id}',
+        'line': line_number,
+        'path': f'{filepath}',
+        'side': 'RIGHT',
+        'subject_type': 'line',
+    }
+
+    post_comment = requests.post(f'https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/{pr_number}/comments', headers=headers, json=data)
+
+    # TODO: Deal with rate limiting
 
 def main() -> None:
     # Get the pull request number
     pr_number: int = os.getenv('PR_NUMBER')
-
-    print(f'PR number: {pr_number}')
+    commit_id: str = os.getenv('COMMIT_ID')
+    personal_access_token: str = os.getenv('CLONELISTS_PAT')
 
     # Get uncommited Git changes
     files = subprocess.run(['git', 'diff', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
@@ -70,10 +87,12 @@ def main() -> None:
                     'to find errors before updating your PR.')
                 print(error_messages)
 
-                sys.exit()
+                add_comment(personal_access_token, pr_number, commit_id, file, pr_comment=error_messages[e.lineno]['comment'], line_number=e.lineno)
+
+                sys.exit(1)
             except Exception as e:
                 print(f'Unexpected error reading JSON file: {e}')
-                sys.exit()
+                sys.exit(1)
 
             # Load the JSON schema
             with open(pathlib.Path('tests/clone-list-schema.json'), 'r', encoding='utf-8') as schema_file:
