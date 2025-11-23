@@ -14,15 +14,15 @@ from typing import Any
 
 def main() -> None:
     # Get uncommited Git changes
-    files = subprocess.run('git diff --name-only', stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+    files = subprocess.run(['git', 'diff', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
     files = [x for x in files if 'clonelists' in x]
 
     if not files:
         # Compare current commit and previous commit to get files that have changed
         if sys.platform.startswith('win'):
-            files = subprocess.run('git diff HEAD~ HEAD --name-only', stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+            files = subprocess.run(['git', 'diff', 'HEAD~', 'HEAD', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
         else:
-            files = subprocess.run('git diff HEAD^ HEAD --name-only', stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+            files = subprocess.run(['git', 'diff' 'HEAD^' 'HEAD', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
 
     files = [x for x in files if 'clonelists' in x]
 
