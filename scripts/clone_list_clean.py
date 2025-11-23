@@ -6,29 +6,45 @@ import subprocess
 import sys
 import traceback
 import uuid
-
 from datetime import datetime
 from typing import Any
 
 from natsort import natsorted
 
+
 def main() -> None:
-    # Get uncommited Git changes
-    files = subprocess.run(['git', 'diff', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+    # Get uncommitted Git changes
+    files = (
+        subprocess.run(['git', 'diff', '--name-only'], stdout=subprocess.PIPE)
+        .stdout.decode('utf-8')
+        .split('\n')
+    )
     files = [x for x in files if 'clonelists' in x]
 
     if not files:
         # Compare current commit and previous commit to get files that have changed
         if sys.platform.startswith('win'):
-            files = subprocess.run(['git', 'diff', 'HEAD~', 'HEAD', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+            files = (
+                subprocess.run(
+                    ['git', 'diff', 'HEAD~', 'HEAD', '--name-only'], stdout=subprocess.PIPE
+                )
+                .stdout.decode('utf-8')
+                .split('\n')
+            )
         else:
-            files = subprocess.run(['git', 'diff', 'HEAD^', 'HEAD', '--name-only'], stdout=subprocess.PIPE).stdout.decode('utf-8').split('\n')
+            files = (
+                subprocess.run(
+                    ['git', 'diff', 'HEAD^', 'HEAD', '--name-only'], stdout=subprocess.PIPE
+                )
+                .stdout.decode('utf-8')
+                .split('\n')
+            )
 
     files = [x for x in files if 'clonelists' in x]
 
     for file in files:
         if file != 'hash.json':
-            with open(pathlib.Path(file), 'r', encoding='utf-8') as clone_list_file:
+            with open(pathlib.Path(file), encoding='utf-8') as clone_list_file:
                 clonelist = json.load(clone_list_file)
 
             # Order description
@@ -46,7 +62,9 @@ def main() -> None:
             # Set current datetime
             # TODO: This changes all the dates even if nothing else in the file has changed... that's not the greatest
             if 'lastUpdated' in clonelist['description']:
-                clonelist['description']['lastUpdated'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                clonelist['description']['lastUpdated'] = datetime.now().strftime(  # noqa: DTZ005
+                    '%Y-%m-%d %H:%M:%S'
+                )
 
             # Set minimum version of Retool required for a clone list, baseline = 2.4.0
             if 'minimumVersion' in clonelist['description']:
@@ -54,11 +72,15 @@ def main() -> None:
                     clonelist['description']['minimumVersion'] = '2.4.0'
 
             # Sort variants by group name
-            clonelist['variants'] = natsorted(clonelist['variants'], key=lambda d: d.get('group', '').lower())
+            clonelist['variants'] = natsorted(
+                clonelist['variants'], key=lambda d: d.get('group', '').lower()
+            )
 
             # Sort titles by priority, then by searchTerm. Enforce top-level key order, and sort
             # keys and lists in substructures.
-            def order_variant_keys(variant: dict[str, list[dict[str, Any]]], variant_type: str) -> list[dict[str, Any]]:
+            def order_variant_keys(
+                variant: dict[str, list[dict[str, Any]]], variant_type: str
+            ) -> list[dict[str, Any]]:
                 """
                 Orders and sorts the keys in objects in titles, supersets, or compilations arrays.
 
@@ -71,7 +93,18 @@ def main() -> None:
                     list[dict[str, Any]]: An ordered and sorted set of titles, supersets, or
                     compilations.
                 """
-                key_order: list[str] = ['searchTerm', 'nameType', 'priority', 'titlePosition', 'categories', 'englishFriendly', 'isOldest', 'superset', 'localNames', 'filters']
+                key_order: list[str] = [
+                    'searchTerm',
+                    'nameType',
+                    'priority',
+                    'titlePosition',
+                    'categories',
+                    'englishFriendly',
+                    'isOldest',
+                    'superset',
+                    'localNames',
+                    'filters',
+                ]
                 temp_variant = []
 
                 for title in variant[variant_type]:
@@ -89,28 +122,44 @@ def main() -> None:
                         for filter in title['filters']:
                             if 'conditions' in filter:
                                 if 'matchLanguages' in filter['conditions']:
-                                    filter['conditions']['matchLanguages'] = sorted(filter['conditions']['matchLanguages'])
+                                    filter['conditions']['matchLanguages'] = sorted(
+                                        filter['conditions']['matchLanguages']
+                                    )
 
                                 if 'matchRegions' in filter['conditions']:
-                                    filter['conditions']['matchRegions'] = sorted(filter['conditions']['matchRegions'])
+                                    filter['conditions']['matchRegions'] = sorted(
+                                        filter['conditions']['matchRegions']
+                                    )
 
                                 if 'regionOrder' in filter['conditions']:
                                     if 'higherRegions' in filter['conditions']['regionOrder']:
-                                        filter['conditions']['regionOrder']['higherRegions'] = sorted(filter['conditions']['regionOrder']['higherRegions'])
+                                        filter['conditions']['regionOrder']['higherRegions'] = (
+                                            sorted(
+                                                filter['conditions']['regionOrder']['higherRegions']
+                                            )
+                                        )
                                     if 'lowerRegions' in filter['conditions']['regionOrder']:
-                                        filter['conditions']['regionOrder']['lowerRegions'] = sorted(filter['conditions']['regionOrder']['lowerRegions'])
+                                        filter['conditions']['regionOrder']['lowerRegions'] = (
+                                            sorted(
+                                                filter['conditions']['regionOrder']['lowerRegions']
+                                            )
+                                        )
 
-                                    filter['conditions']['regionOrder'] = {k: v for k, v in sorted(filter['conditions']['regionOrder'].items())}
+                                    filter['conditions']['regionOrder'] = dict(
+                                        sorted(filter['conditions']['regionOrder'].items())
+                                    )
 
-                                filter['conditions'] = {k: v for k, v in sorted(filter['conditions'].items())}
+                                filter['conditions'] = dict(sorted(filter['conditions'].items()))
 
                             if 'results' in filter:
                                 if 'categories' in filter['results']:
-                                    filter['results']['categories'] = sorted(filter['results']['categories'])
+                                    filter['results']['categories'] = sorted(
+                                        filter['results']['categories']
+                                    )
 
-                                filter['results'] = {k: v for k, v in sorted(filter['results'].items())}
+                                filter['results'] = dict(sorted(filter['results'].items()))
 
-                            temp_list.append({k: v for k, v in sorted(filter.items())})
+                            temp_list.append(dict(sorted(filter.items())))
 
                         title['filters'] = temp_list
 
@@ -124,15 +173,24 @@ def main() -> None:
 
             for variant in clonelist['variants']:
                 if 'titles' in variant:
-                    variant['titles'] = natsorted(variant['titles'], key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()))
+                    variant['titles'] = natsorted(
+                        variant['titles'],
+                        key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()),
+                    )
                     variant['titles'] = order_variant_keys(variant, 'titles')
 
                 if 'supersets' in variant:
-                    variant['supersets'] = natsorted(variant['supersets'], key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()))
+                    variant['supersets'] = natsorted(
+                        variant['supersets'],
+                        key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()),
+                    )
                     variant['supersets'] = order_variant_keys(variant, 'supersets')
 
                 if 'compilations' in variant:
-                    variant['compilations'] = natsorted(variant['compilations'], key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()))
+                    variant['compilations'] = natsorted(
+                        variant['compilations'],
+                        key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()),
+                    )
                     variant['compilations'] = order_variant_keys(variant, 'compilations')
 
             clonelist, replacements = single_line(clonelist)
@@ -157,7 +215,6 @@ def single_line(o: Any) -> Any:
     Returns:
         Any: The formatted JSON object and its replacements.
     """
-
     if isinstance(o, dict):
         if 'searchTerm' in o and 'localNames' not in o and 'filters' not in o:
             replacement = uuid.uuid4().hex
@@ -170,7 +227,7 @@ def single_line(o: Any) -> Any:
             replacements.extend(value_replacements)
         return result_dict, replacements
     elif isinstance(o, list):
-        if all([isinstance(x, str) for x in o]):
+        if all([isinstance(x, str) for x in o]):  # noqa: C419
             replacement = uuid.uuid4().hex
             return replacement, [(f'"{replacement}"', json.dumps(o, ensure_ascii=False))]
         replacements = []
@@ -182,6 +239,7 @@ def single_line(o: Any) -> Any:
         return result_list, replacements
     else:
         return o, []
+
 
 # TODO: Generate hash.json for all the files in the dir
 
