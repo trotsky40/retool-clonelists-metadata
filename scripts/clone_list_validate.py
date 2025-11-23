@@ -30,7 +30,11 @@ def add_comment(personal_access_token, pr_number, commit_id, filepath, pr_commen
         'subject_type': 'line',
     }
 
+    print(f'This should be running the post request. Here are the values:\n* PR: {pr_number}\n* Commit: {commit_id}\n* File: {filepath}\n* Line: {line_number}')
+
     post_comment = requests.post(f'https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/{pr_number}/comments', headers=headers, json=data)
+
+    print(post_comment)
 
     # TODO: Deal with rate limiting
 
