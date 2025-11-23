@@ -14,14 +14,10 @@ jobs:
       with:
         fetch-depth: '0'
     - name: git
+      # Set up the Git username and email
       run: |
-        # setup the username and email
-        git --version
         git config user.name "GitHub Actions Bot"
         git config user.email "<>"
-        git status
-        git tag
-        git describe
     - name: Checkout clone lists repo
       uses: actions/checkout@v4
       with:
