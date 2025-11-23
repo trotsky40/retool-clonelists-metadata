@@ -42,7 +42,7 @@ jobs:
     - name: Validate clone list
       env:
         PR_NUMBER: ${{ github.event.number }}
-        COMMIT_ID: ${{ github.sha }}
-        CLONELISTS_PAT: "${{secrets.CLONELISTS_PAT}}"
+        COMMIT_ID: ${{ github.event.pull_request.head.sha || github.sha }}
+        CLONELISTS_PAT: ${{secrets.CLONELISTS_PAT}}
       run: |
         hatch run python3 retool-clonelists-metadata/scripts/clone_list_validate.py
