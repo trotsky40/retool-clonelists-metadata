@@ -339,16 +339,16 @@ def main() -> None:
                 error_messages[error_line]['errors'].append(error.message)
 
             if error_messages:
-                for line_number, error in error_messages.items():
-                    print(error_messages)
+                print(error_messages)
 
+                for line_number, error in error_messages.items():
                     validation_comment: str = (
                         '### :gear: Automated review comment\n\n'
                         'This line doesn\'t follow the '
                         '[clone list schema](https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/refs/heads/main/scripts/clone-list-schema.json).\n\n'
                         'Here\'s the validation error:\n\n'
                         f'> {error["errors"]}'
-                        '\n\nHere\'s the comment from that part of the schema: '
+                        '\n\nHere\'s the comment from that part of the schema:\n\n'
                         f'> {error["comment"]}'
                     )
 
