@@ -385,11 +385,26 @@ def main() -> None:
                         searchterm_dupes[dupe].append(i)
 
             for searchterm_name, searchterm_lines in searchterm_dupes.items():
-                # comment_line: int = searchterm_lines[0]
-                # TODO GitHub should post this in some way, using comment_line
                 print(
                     f'Found the search term `{searchterm_name}` multiple times on the following lines:\n\n{'\n'.join(str(x) for x in searchterm_lines)}\n\nSearch terms for `titles` should only be associated with one `group`, and not be repeated within that `group`.'
                 )
+
+                duplicate_comment: str = (
+                     f'Found the search term `{searchterm_name}` multiple times on the following lines:'
+                     f'\n\n{'\n'.join(str(x) for x in searchterm_lines)}\n\nSearch terms for `titles` '
+                     'should only be associated with one `group`, and not be repeated within that `group`.'
+                )
+
+                add_comment(
+                        timeout=0,
+                        personal_access_token=personal_access_token,
+                        pr_number=pr_number,
+                        commit_id=commit_id,
+                        filepath=file,
+                        pr_comment=duplicate_comment,
+                        line_number=searchterm_lines[0],
+                    )
+
 
             # Check that groups aren't listed more than once
             jsonpath_expr = jsonpath_ng.parse('$..variants[*].group')
