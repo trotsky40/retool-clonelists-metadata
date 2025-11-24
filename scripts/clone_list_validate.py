@@ -182,10 +182,6 @@ def main() -> None:
     test_succeeded: bool = True
 
     for file in files:
-        print(
-        f'Here are the values needed for posting the comment:\n* PR: {pr_number}\n* Commit: {commit_id}\n* File: {file}\n* Line: {line_number}'
-    )
-
         if file != 'hash.json':
             print(f'\n\nValidating {file}\n{'-----------'}{'-'*len(file)}\n')
 
