@@ -349,7 +349,7 @@ def main() -> None:
                         'Here\'s the validation error:\n\n'
                         f'> {error["errors"]}'
                         '\n\nHere\'s the comment from that part of the schema:\n\n'
-                        f'> {error["comment"].replace('\n\n', '>\n\n>')}'
+                        f'> {error["comment"].replace('\n\n', '\n>\n>')}'
                     )
 
                     add_comment(
