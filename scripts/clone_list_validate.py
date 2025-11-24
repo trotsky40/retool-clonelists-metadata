@@ -189,6 +189,7 @@ def main() -> None:
         if file != 'hash.json':
             print(f'\n\nValidating {file}\n{'-----------'}{'-'*len(file)}\n')
 
+            # Check for valid JSON
             error_messages: dict[int, dict[str, Any]] = {}
             clonelist: Any
             cloneliststr: str = ''
@@ -196,8 +197,8 @@ def main() -> None:
             try:
                 with open(pathlib.Path(file), encoding='utf-8') as clone_list_file:
                     clonelist = json.load(clone_list_file)
-                    # Read the clone list as a string. This is required to find the line number later
-                    # for JSON schema validation errors.
+                    # Read the clone list as a string. This is required to find the line
+                    # number later for JSON schema validation errors.
                     clone_list_file.seek(0)
                     cloneliststr = clone_list_file.read()
             except json.decoder.JSONDecodeError as e:
@@ -297,7 +298,8 @@ def main() -> None:
                             'comment'
                         ] = f'{error_messages[error_line]["comment"]}\n\n{comment}'
 
-                # Pull languages out of the appropriate $ref if localNames is being queried
+                # Pull languages out of the appropriate $ref if localNames is being
+                # queried
                 if 'localNames' in error.json_path:
                     local_names_expr = jsonpath_ng.parse('$..languages..properties')
                     local_names = [match.value for match in local_names_expr.find(schema)]
@@ -312,7 +314,8 @@ def main() -> None:
                         'comment'
                     ] = f'{error_messages[error_line]["comment"]}\n\nThe valid languages are as follows:\n\n`{local_names_str}`'
 
-                # Pull regions out of the appropriate $ref if matchRegions is being queried
+                # Pull regions out of the appropriate $ref if matchRegions is being
+                # queried
                 if (
                     'matchRegions' in error.json_path
                     or 'higherRegions' in error.json_path
@@ -335,9 +338,29 @@ def main() -> None:
 
                 error_messages[error_line]['errors'].append(error.message)
 
-            # TODO GitHub should post this in some way
             if error_messages:
-                print(error_messages)
+                for line_number, error in error_messages.items():
+                    print(error_messages)
+
+                    validation_comment: str = (
+                        '### :gear: Automated review comment\n\n'
+                        'This line doesn\'t follow the '
+                        '[clone list schema](https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/refs/heads/main/scripts/clone-list-schema.json).\n\n'
+                        'Here\'s the validation error:\n\n'
+                        f'> {error["errors"]}'
+                        '\n\nHere\'s the comment from that part of the schema: '
+                        f'> {error["comment"]}'
+                    )
+
+                    add_comment(
+                        timeout=0,
+                        personal_access_token=personal_access_token,
+                        pr_number=pr_number,
+                        commit_id=commit_id,
+                        filepath=file,
+                        pr_comment=validation_comment,
+                        line_number=line_number,
+                    )
 
             # Check for duplicate titles.searchTerm values
             jsonpath_expr = jsonpath_ng.parse('$..titles..searchTerm')
