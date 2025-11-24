@@ -382,12 +382,12 @@ def main() -> None:
 
             for searchterm_name, searchterm_lines in searchterm_dupes.items():
                 print(
-                    f'Found the search term `{searchterm_name}` multiple times on the following lines:\n\n{'\n* '.join(str(x) for x in searchterm_lines)}\n\nSearch terms for `titles` should only be associated with one `group`, and not be repeated within that `group`.'
+                    f'Found the search term `{searchterm_name}` multiple times on the following lines:\n\n{"\n".join(str(f"* {x}") for x in searchterm_lines)}\n\nSearch terms for `titles` should only be associated with one `group`, and not be repeated within that `group`.'
                 )
 
                 duplicate_searchterm_comment: str = (
                     f'Found the search term `{searchterm_name}` multiple times on the following lines:'
-                    f'\n\n{'\n* '.join(str(x) for x in searchterm_lines)}\n\nSearch terms for `titles` '
+                    f'\n\n{"\n".join(str(f"* {x}") for x in searchterm_lines)}\n\nSearch terms for `titles` '
                     'should only be associated with one `group`, and not be repeated within that `group`.'
                 )
 
@@ -426,12 +426,12 @@ def main() -> None:
 
             for group_name, group_lines in group_dupes.items():
                 print(
-                    f'Found the group `{group_name}` multiple times on the following lines:\n\n{'\n* '.join(str(x) for x in group_lines)}\n\nThere should only be one instance of a `group` name in a `variants` array.'
+                    f'Found the group `{group_name}` multiple times on the following lines:\n\n{"\n".join(str(f"* {x}") for x in group_lines)}\n\nThere should only be one instance of a `group` name in a `variants` array.'
                 )
 
                 duplicate_group_comment: str = (
                     f'Found the group `{group_name}` multiple times on the following lines:\n\n'
-                    f'{'\n* '.join(str(x) for x in group_lines)}\n\nThere should only be one instance '
+                    f'{"\n".join(str(f"* {x}") for x in group_lines)}\n\nThere should only be one instance '
                     'of a `group` name in a `variants` array.'
                 )
 
