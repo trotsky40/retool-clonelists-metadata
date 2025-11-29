@@ -118,7 +118,6 @@ def add_comment(
                 pr_comment=pr_comment,
                 line_number=0,
             )
-            sys.exit(1)
         elif e.response.status_code == 429:
             print(f'Rate limited (429): {e}')
             request_retry(
