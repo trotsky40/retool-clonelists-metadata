@@ -23,7 +23,9 @@ def add_comment(
     commit_id: str | None,
     filepath: str,
     pr_comment: str,
-    line_number: int,
+    line_number: int = 0,
+    dupe_check: bool = False,
+    file_comment: bool = False,
 ) -> int:
     headers: dict[str, str] = {
         'Accept': 'application/vnd.github+json',
@@ -31,13 +33,22 @@ def add_comment(
         'X-GitHub-Api-Version': '2022-11-28',
     }
 
-    data: dict[str, int | str] = {
-        'body': f'{pr_comment}',
-        'commit_id': f'{commit_id}',
-        'line': line_number,
-        'path': f'{filepath}',
-        'side': 'RIGHT',
-    }
+    if file_comment:
+        data: dict[str, int | str] = {
+            'body': f'{pr_comment}',
+            'commit_id': f'{commit_id}',
+            'path': f'{filepath}',
+            'side': 'RIGHT',
+            'subject_type': 'file',
+        }
+    else:
+        data = {
+            'body': f'{pr_comment}',
+            'commit_id': f'{commit_id}',
+            'line': line_number,
+            'path': f'{filepath}',
+            'side': 'RIGHT',
+        }
 
     try:
         comment_post = requests.post(
@@ -46,14 +57,28 @@ def add_comment(
             json=data,
         )
 
-        print(data)
-        print(f'{comment_post.status_code} | {comment_post.reason}')
-        print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
+        # Catch when a comment fails to get added due to being on an unchanged line
+        if comment_post.status_code == 422 and not dupe_check:
+            request_retry(
+                add_comment,
+                timeout=timeout,
+                personal_access_token=personal_access_token,
+                pr_number=pr_number,
+                commit_id=commit_id,
+                filepath=filepath,
+                pr_comment=pr_comment,
+                dupe_check=False,
+                subject_type=True,
+            )
 
-        print('=========== END ATTEMPT COMMENT ===========')
-
-        return comment_post.status_code
-
+        if comment_post.status_code != 201:
+            print(
+                'Something went wrong posting a comment. Most likely it tried to post on an unchanged line, which GitHub doesn\'t allow.'
+            )
+            print(data)
+            print(f'{comment_post.status_code} | {comment_post.reason}')
+            print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
+            print('=========== END ATTEMPT COMMENT ===========')
     except requests.exceptions.Timeout:
         request_retry(
             add_comment,
@@ -114,6 +139,8 @@ def add_comment(
         print(e)
         sys.exit(1)
 
+    return comment_post.status_code  # type: ignore
+
 
 def request_retry(func: Any, **kwargs: Any) -> None:
     """
@@ -158,6 +185,7 @@ def main() -> None:
     pr_number: str | None = os.getenv('PR_NUMBER')
     commit_id: str | None = os.getenv('COMMIT_ID')
     personal_access_token: str | None = os.getenv('CLONELISTS_PAT')
+    response: int = 0
 
     # Get uncommitted Git changes
     files = (
@@ -215,8 +243,8 @@ def main() -> None:
 
                 error_messages[e.lineno]['comment'] = (
                     '### :gear: Automated review comment\n\n'
-                    f'Invalid JSON found on or before this line ({e.lineno}). Fix the error '
-                    'to continue.\n\nThere might be more invalid JSON in this file, but only '
+                    f'Invalid JSON found on or before line ({e.lineno}). Fix the error to '
+                    'continue.\n\nThere might be more invalid JSON in this file, but only '
                     'one line can be checked for at a time. To speed up error checking, try '
                     'an [online JSON validator](https://jsonlint.com/), or use an IDE that '
                     'can lint JSON like [Visual Studio code](https://code.visualstudio.com/) '
@@ -401,7 +429,9 @@ def main() -> None:
                     'should only be associated with one `group`, and not be repeated within that `group`.'
                 )
 
-                print(f'I should post a comment about the searchTerm {searchterm_name} on line {searchterm_lines[0]}')
+                print(
+                    f'I should post a comment about the searchTerm {searchterm_name} on line {searchterm_lines[0]}'
+                )
 
                 # GitHub doesn't allow comments on unchanged lines in a PR. Cycle through until we find a changed line.
                 response = 0
@@ -415,6 +445,7 @@ def main() -> None:
                         filepath=file,
                         pr_comment=duplicate_searchterm_comment,
                         line_number=searchterm_line,
+                        dupe_check=True,
                     )
 
                     if response == 422:
@@ -457,7 +488,9 @@ def main() -> None:
                     'of a `group` name in a `variants` array.'
                 )
 
-                print(f'I should post a comment about the group {group_name} on line {group_lines[0]}')
+                print(
+                    f'I should post a comment about the group {group_name} on line {group_lines[0]}'
+                )
 
                 # GitHub doesn't allow comments on unchanged lines in a PR. Cycle through until we find a changed line.
                 response = 0
@@ -471,6 +504,7 @@ def main() -> None:
                         filepath=file,
                         pr_comment=duplicate_group_comment,
                         line_number=group_line,
+                        dupe_check=True,
                     )
 
                     if response == 422:
