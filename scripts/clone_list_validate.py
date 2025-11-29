@@ -24,7 +24,7 @@ def add_comment(
     filepath: str,
     pr_comment: str,
     line_number: int,
-) -> None:
+) -> int:
     headers: dict[str, str] = {
         'Accept': 'application/vnd.github+json',
         'Authorization': f'Bearer {personal_access_token}',
@@ -51,6 +51,8 @@ def add_comment(
         print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
 
         print('=========== END ATTEMPT COMMENT ===========')
+
+        return comment_post.status_code
 
     except requests.exceptions.Timeout:
         request_retry(
@@ -401,15 +403,24 @@ def main() -> None:
 
                 print(f'I should post a comment about the searchTerm {searchterm_name} on line {searchterm_lines[0]}')
 
-                add_comment(
-                    timeout=0,
-                    personal_access_token=personal_access_token,
-                    pr_number=pr_number,
-                    commit_id=commit_id,
-                    filepath=file,
-                    pr_comment=duplicate_searchterm_comment,
-                    line_number=searchterm_lines[0],
-                )
+                # GitHub doesn't allow comments on unchanged lines in a PR. Cycle through until we find a changed line.
+                response = 0
+
+                for searchterm_line in searchterm_lines:
+                    response = add_comment(
+                        timeout=0,
+                        personal_access_token=personal_access_token,
+                        pr_number=pr_number,
+                        commit_id=commit_id,
+                        filepath=file,
+                        pr_comment=duplicate_searchterm_comment,
+                        line_number=searchterm_line,
+                    )
+
+                    if response == 422:
+                        continue
+                    else:
+                        break
 
             # Check that groups aren't listed more than once
             jsonpath_expr = jsonpath_ng.parse('$..variants[*].group')
@@ -448,15 +459,24 @@ def main() -> None:
 
                 print(f'I should post a comment about the group {group_name} on line {group_lines[0]}')
 
-                add_comment(
-                    timeout=0,
-                    personal_access_token=personal_access_token,
-                    pr_number=pr_number,
-                    commit_id=commit_id,
-                    filepath=file,
-                    pr_comment=duplicate_group_comment,
-                    line_number=group_lines[0],
-                )
+                # GitHub doesn't allow comments on unchanged lines in a PR. Cycle through until we find a changed line.
+                response = 0
+
+                for group_line in group_lines:
+                    add_comment(
+                        timeout=0,
+                        personal_access_token=personal_access_token,
+                        pr_number=pr_number,
+                        commit_id=commit_id,
+                        filepath=file,
+                        pr_comment=duplicate_group_comment,
+                        line_number=group_line,
+                    )
+
+                    if response == 422:
+                        continue
+                    else:
+                        break
 
             if not error_messages and not group_dupes and not searchterm_dupes:
                 print('No problems found.')
