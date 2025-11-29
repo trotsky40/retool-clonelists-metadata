@@ -66,8 +66,8 @@ def add_comment(
 
         # Catch checks for duplicate searchTerms or groups, which have to iterate through
         # multiple lines
-        # if dupe_check:
-        #     return comment_post.status_code # type: ignore
+        if dupe_check:
+            return comment_post.status_code # type: ignore
 
         comment_post.raise_for_status()
     except requests.exceptions.Timeout:
@@ -533,7 +533,6 @@ def main() -> None:
 
 if __name__ == '__main__':
     try:
-        print('Starting validation...')
         main()
     except Exception:
         print('\n• Unexpected error:\n\n')
