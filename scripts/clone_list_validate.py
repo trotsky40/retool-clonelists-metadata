@@ -51,13 +51,14 @@ def add_comment(
         }
 
     try:
+        print(data)
+
         comment_post = requests.post(
             f'https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/{pr_number}/comments',
             headers=headers,
             json=data,
         )
 
-        print(data)
         print(f'{comment_post.status_code} | {comment_post.reason}')
         print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
         print('=========== END COMMENT ===========')
