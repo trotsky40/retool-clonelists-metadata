@@ -25,7 +25,6 @@ def add_comment(
     pr_comment: str,
     line_number: int = 0,
     dupe_check: bool = False,
-    comment_on_file: bool = False,
 ) -> int:
     headers: dict[str, str] = {
         'Accept': 'application/vnd.github+json',
@@ -35,7 +34,7 @@ def add_comment(
 
     data: dict[str, int | str] = {}
 
-    if comment_on_file:
+    if line_number == 0:
         data = {
             'body': f'{pr_comment}',
             'commit_id': f'{commit_id}',
@@ -106,7 +105,7 @@ def add_comment(
             print(f'Unprocessable content (422): {e}')
             # Most likely this error is caused by trying to post to an unchanged line.
             # Attach the comment to the file instead.
-            if comment_on_file:
+            if line_number == 0:
                 # Already attempted to comment on file
                 print('Commenting on file failed.')
             else:
@@ -119,7 +118,7 @@ def add_comment(
                     commit_id=commit_id,
                     filepath=filepath,
                     pr_comment=pr_comment,
-                    comment_on_file=True,
+                    line_number=0,
                 )
         elif e.response.status_code == 429:
             print(f'Rate limited (429): {e}')
@@ -506,7 +505,7 @@ def main() -> None:
                 response = 0
 
                 for group_line in group_lines:
-                    add_comment(
+                    response = add_comment(
                         timeout=0,
                         personal_access_token=personal_access_token,
                         pr_number=pr_number,
