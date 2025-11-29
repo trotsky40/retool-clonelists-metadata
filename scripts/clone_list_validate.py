@@ -57,6 +57,15 @@ def add_comment(
             json=data,
         )
 
+        if comment_post.status_code != 201:
+            print(
+                'Something went wrong posting a comment. Most likely it tried to post on an unchanged line, which GitHub doesn\'t allow.'
+            )
+            print(data)
+            print(f'{comment_post.status_code} | {comment_post.reason}')
+            print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
+            print('=========== END ATTEMPT COMMENT ===========')
+
         # Catch when a comment fails to get added due to being on an unchanged line
         if comment_post.status_code == 422 and not dupe_check:
             request_retry(
@@ -70,15 +79,6 @@ def add_comment(
                 dupe_check=False,
                 file_comment=True,
             )
-
-        if comment_post.status_code != 201:
-            print(
-                'Something went wrong posting a comment. Most likely it tried to post on an unchanged line, which GitHub doesn\'t allow.'
-            )
-            print(data)
-            print(f'{comment_post.status_code} | {comment_post.reason}')
-            print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
-            print('=========== END ATTEMPT COMMENT ===========')
     except requests.exceptions.Timeout:
         request_retry(
             add_comment,
