@@ -386,10 +386,13 @@ def main() -> None:
                 )
 
                 duplicate_searchterm_comment: str = (
+                    '### :gear: Automated review comment\n\n'
                     f'Found the search term `{searchterm_name}` multiple times on the following lines:'
                     f'\n\n{"\n".join(str(f"* {x}") for x in searchterm_lines)}\n\nSearch terms for `titles` '
                     'should only be associated with one `group`, and not be repeated within that `group`.'
                 )
+
+                print(f'I should post a comment about the searchTerm {searchterm_name} on line {searchterm_lines[0]}')
 
                 add_comment(
                     timeout=0,
@@ -430,10 +433,13 @@ def main() -> None:
                 )
 
                 duplicate_group_comment: str = (
+                    '### :gear: Automated review comment\n\n'
                     f'Found the group `{group_name}` multiple times on the following lines:\n\n'
                     f'{"\n".join(str(f"* {x}") for x in group_lines)}\n\nThere should only be one instance '
                     'of a `group` name in a `variants` array.'
                 )
+
+                print(f'I should post a comment about the group {group_name} on line {group_lines[0]}')
 
                 add_comment(
                     timeout=0,
