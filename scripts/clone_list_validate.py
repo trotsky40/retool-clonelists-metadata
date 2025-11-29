@@ -68,7 +68,7 @@ def add_comment(
                 filepath=filepath,
                 pr_comment=pr_comment,
                 dupe_check=False,
-                subject_type=True,
+                file_comment=True,
             )
 
         if comment_post.status_code != 201:
