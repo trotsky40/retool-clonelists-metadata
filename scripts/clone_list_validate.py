@@ -24,7 +24,6 @@ def add_comment(
     filepath: str,
     pr_comment: str,
     line_number: int = 0,
-    dupe_check: bool = False,
     file_comment: bool = False,
 ) -> int:
     headers: dict[str, str] = {
@@ -57,28 +56,10 @@ def add_comment(
             json=data,
         )
 
-        if comment_post.status_code != 201:
-            print(
-                'Something went wrong posting a comment. Most likely it tried to post on an unchanged line, which GitHub doesn\'t allow.'
-            )
-            print(data)
-            print(f'{comment_post.status_code} | {comment_post.reason}')
-            print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
-            print('=========== END ATTEMPT COMMENT ===========')
-
-        # Catch when a comment fails to get added due to being on an unchanged line
-        if comment_post.status_code == 422 and not dupe_check:
-            request_retry(
-                add_comment,
-                timeout=timeout,
-                personal_access_token=personal_access_token,
-                pr_number=pr_number,
-                commit_id=commit_id,
-                filepath=filepath,
-                pr_comment=pr_comment,
-                dupe_check=False,
-                file_comment=True,
-            )
+        print(data)
+        print(f'{comment_post.status_code} | {comment_post.reason}')
+        print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
+        print('=========== END COMMENT ===========')
     except requests.exceptions.Timeout:
         request_retry(
             add_comment,
@@ -102,6 +83,8 @@ def add_comment(
             line_number=line_number,
         )
     except requests.exceptions.HTTPError as e:
+        print('HTTP error triggered')
+
         if e.response.status_code == 401:
             print(f'Unauthorized access (401): {e}')
             sys.exit(1)
