@@ -60,6 +60,8 @@ def add_comment(
         print(f'{comment_post.status_code} | {comment_post.reason}')
         print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
         print('=========== END COMMENT ===========')
+
+        comment_post.raise_for_status()
     except requests.exceptions.Timeout:
         request_retry(
             add_comment,
@@ -510,3 +512,4 @@ if __name__ == '__main__':
     except Exception:
         print('\n• Unexpected error:\n\n')
         traceback.print_exc()
+        sys.exit(1)
