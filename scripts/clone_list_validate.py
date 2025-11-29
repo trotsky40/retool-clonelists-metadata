@@ -442,7 +442,7 @@ def main() -> None:
                     commit_id=commit_id,
                     filepath=file,
                     pr_comment=duplicate_group_comment,
-                    line_number=searchterm_lines[0],
+                    line_number=group_lines[0],
                 )
 
             if not error_messages and not group_dupes and not searchterm_dupes:
