@@ -33,8 +33,10 @@ def add_comment(
         'X-GitHub-Api-Version': '2022-11-28',
     }
 
+    data: dict[str, int | str] = {}
+
     if comment_on_file:
-        data: dict[str, int | str] = {
+        data = {
             'body': f'{pr_comment}',
             'commit_id': f'{commit_id}',
             'path': f'{filepath}',
@@ -108,6 +110,7 @@ def add_comment(
                 # Already attempted to comment on file
                 print('Commenting on file failed.')
             else:
+                print('Attempting to comment on file...')
                 request_retry(
                     add_comment,
                     timeout=timeout,
@@ -530,6 +533,7 @@ def main() -> None:
 
 if __name__ == '__main__':
     try:
+        print('Starting validation...')
         main()
     except Exception:
         print('\n• Unexpected error:\n\n')
