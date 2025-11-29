@@ -40,11 +40,17 @@ def add_comment(
     }
 
     try:
-        requests.post(
+        comment_post = requests.post(
             f'https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/{pr_number}/comments',
             headers=headers,
             json=data,
         )
+
+        print('Comment response:')
+        print(comment_post.status_code)
+        print(comment_post.content)
+        print(comment_post.reason)
+        print(comment_post.raw)
     except requests.exceptions.Timeout:
         request_retry(
             add_comment,
@@ -394,9 +400,6 @@ def main() -> None:
 
                 print(f'I should post a comment about the searchTerm {searchterm_name} on line {searchterm_lines[0]}')
 
-                # Looks like GitHub just drops comments that are too fast?
-                sleep(2)
-
                 add_comment(
                     timeout=0,
                     personal_access_token=personal_access_token,
@@ -443,9 +446,6 @@ def main() -> None:
                 )
 
                 print(f'I should post a comment about the group {group_name} on line {group_lines[0]}')
-
-                # Looks like GitHub just drops comments that are too fast?
-                sleep(2)
 
                 add_comment(
                     timeout=0,
