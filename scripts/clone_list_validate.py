@@ -51,9 +51,9 @@ def add_comment(
             'side': 'RIGHT',
         }
 
-    try:
-        print(data)
+    print(data)
 
+    try:
         comment_post = requests.post(
             f'https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/{pr_number}/comments',
             headers=headers,
@@ -66,8 +66,8 @@ def add_comment(
 
         # Catch checks for duplicate searchTerms or groups, which have to iterate through
         # multiple lines
-        if dupe_check:
-            return comment_post.status_code # type: ignore
+        # if dupe_check:
+        #     return comment_post.status_code # type: ignore
 
         comment_post.raise_for_status()
     except requests.exceptions.Timeout:
@@ -105,21 +105,22 @@ def add_comment(
             print(f'Unprocessable content (422): {e}')
             # Most likely this error is caused by trying to post to an unchanged line.
             # Attach the comment to the file instead.
-            if line_number == 0:
-                # Already attempted to comment on file
-                print('Commenting on file failed.')
-            else:
-                print('Attempting to comment on file...')
-                request_retry(
-                    add_comment,
-                    timeout=timeout,
-                    personal_access_token=personal_access_token,
-                    pr_number=pr_number,
-                    commit_id=commit_id,
-                    filepath=filepath,
-                    pr_comment=pr_comment,
-                    line_number=0,
-                )
+            # if line_number == 0:
+            #     # Already attempted to comment on file
+            #     print('Commenting on file failed.')
+            # else:
+            #     print('Attempting to comment on file...')
+            #     request_retry(
+            #         add_comment,
+            #         timeout=timeout,
+            #         personal_access_token=personal_access_token,
+            #         pr_number=pr_number,
+            #         commit_id=commit_id,
+            #         filepath=filepath,
+            #         pr_comment=pr_comment,
+            #         line_number=0,
+            #     )
+            sys.exit(1)
         elif e.response.status_code == 429:
             print(f'Rate limited (429): {e}')
             request_retry(
