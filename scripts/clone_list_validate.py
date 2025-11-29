@@ -93,8 +93,6 @@ def add_comment(
             line_number=line_number,
         )
     except requests.exceptions.HTTPError as e:
-        print('HTTP error triggered')
-
         if e.response.status_code == 401:
             print(f'Unauthorized access (401): {e}')
             sys.exit(1)
@@ -109,17 +107,17 @@ def add_comment(
             #     # Already attempted to comment on file
             #     print('Commenting on file failed.')
             # else:
-            #     print('Attempting to comment on file...')
-            #     request_retry(
-            #         add_comment,
-            #         timeout=timeout,
-            #         personal_access_token=personal_access_token,
-            #         pr_number=pr_number,
-            #         commit_id=commit_id,
-            #         filepath=filepath,
-            #         pr_comment=pr_comment,
-            #         line_number=0,
-            #     )
+            print('Attempting to comment on file...')
+            request_retry(
+                add_comment,
+                timeout=timeout,
+                personal_access_token=personal_access_token,
+                pr_number=pr_number,
+                commit_id=commit_id,
+                filepath=filepath,
+                pr_comment=pr_comment,
+                line_number=0,
+            )
             sys.exit(1)
         elif e.response.status_code == 429:
             print(f'Rate limited (429): {e}')
@@ -171,7 +169,7 @@ def request_retry(func: Any, **kwargs: Any) -> None:
     response: requests.models.Response = requests.models.Response()
     response.status_code = 418
 
-    while response.status_code != 200:
+    while not str(response.status_code).startswith('2'):
         if progressive_timeout[kwargs['timeout']] == -1:
             print('Too many retries, exiting...')
             sys.exit(1)
