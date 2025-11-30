@@ -108,6 +108,9 @@ def add_comment(
                 print('Commenting on file failed.')
             else:
                 print('Attempting to comment on file...')
+
+                pr_comment = '\n\n'.join('> [!CAUTION]\n> The quoted line number might be incorrect, or the error might relate to a problem on an unchanged line_', pr_comment)
+
                 add_comment(
                     timeout=timeout,
                     personal_access_token=personal_access_token,
@@ -383,7 +386,7 @@ def main() -> None:
                 for line_number, error in error_messages.items():
                     validation_comment: str = (
                         '### :gear: Automated review comment\n\n'
-                        'This line doesn\'t follow the '
+                        f'Line {line_number} doesn\'t follow the '
                         '[clone list schema](https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/refs/heads/main/scripts/clone-list-schema.json).'
                         '\n\nHere\'s the comment from that part of the schema:\n\n'
                         f'> {error["comment"].replace('\n\n', '\n>\n>')}'
