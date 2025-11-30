@@ -109,7 +109,7 @@ def add_comment(
             else:
                 print('Attempting to comment on file...')
 
-                pr_comment = '\n\n'.join('> [!CAUTION]\n> The quoted line number might be incorrect, or the error might relate to a problem on an unchanged line_', pr_comment)
+                pr_comment = '\n\n'.join(['> [!CAUTION]\n> The quoted line number might be incorrect, or the error might relate to a problem on an unchanged line_', pr_comment])
 
                 add_comment(
                     timeout=timeout,
