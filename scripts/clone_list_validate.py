@@ -103,21 +103,20 @@ def add_comment(
             print(f'Unprocessable content (422): {e}')
             # Most likely this error is caused by trying to post to an unchanged line.
             # Attach the comment to the file instead.
-            # if line_number == 0:
-            #     # Already attempted to comment on file
-            #     print('Commenting on file failed.')
-            # else:
-            print('Attempting to comment on file...')
-            request_retry(
-                add_comment,
-                timeout=timeout,
-                personal_access_token=personal_access_token,
-                pr_number=pr_number,
-                commit_id=commit_id,
-                filepath=filepath,
-                pr_comment=pr_comment,
-                line_number=0,
-            )
+            if line_number == 0:
+                # Already attempted to comment on file
+                print('Commenting on file failed.')
+            else:
+                print('Attempting to comment on file...')
+                add_comment(
+                    timeout=timeout,
+                    personal_access_token=personal_access_token,
+                    pr_number=pr_number,
+                    commit_id=commit_id,
+                    filepath=filepath,
+                    pr_comment=pr_comment,
+                    line_number=0,
+                )
         elif e.response.status_code == 429:
             print(f'Rate limited (429): {e}')
             request_retry(
