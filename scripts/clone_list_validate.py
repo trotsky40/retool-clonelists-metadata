@@ -298,7 +298,23 @@ def main() -> None:
     # Get existing comments
     print('=========== START EXISTING COMMENTS ===========')
     comments = get_comments(personal_access_token, pr_number)
-    print(json.dumps(comments.content.decode('utf-8'), indent=2))
+    # print(json.dumps(comments.content.decode('utf-8'), indent=2))
+
+
+    # Get the comments response down to something more manageable
+    existing_comments: dict[str, str] = {}
+
+    for comment in comments:
+        existing_comments[comment.path] = {}
+        existing_comments[comment.path]['body'] = comment.body
+        existing_comments[comment.path]['line'] = comment.original_line
+
+        if comment.subject_type == 'line':
+            existing_comments[comment.path]['subject_type'] = 'line'
+        else:
+            existing_comments[comment.path]['subject_type'] = 'file'
+
+    print(json.dumps(existing_comments, indent=2))
     print('=========== END EXISTING COMMENTS ===========')
 
 
