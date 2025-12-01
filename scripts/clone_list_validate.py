@@ -80,6 +80,7 @@ def add_comment(
             json=data,
         )
 
+        print('=========== START COMMENT ===========')
         print(f'{comment_post.status_code} | {comment_post.reason}')
         print(json.dumps(comment_post.content.decode('utf-8'), indent=2))
         print('=========== END COMMENT ===========')
@@ -186,6 +187,8 @@ def get_comments(
     Returns:
         requests.models.Response: The response from the GitHub API.
     """
+    print('Getting comments...')
+
     headers: dict[str, str] = {
         'Accept': 'application/vnd.github+json',
         'Authorization': f'Bearer {personal_access_token}',
@@ -293,9 +296,12 @@ def main() -> None:
     response: int = 0
 
     # Get existing comments
+    print('=========== START EXISTING COMMENTS ===========')
     comments = get_comments(personal_access_token, pr_number)
+    print(json.dumps(comments.content.decode('utf-8'), indent=2))
+    print('=========== END EXISTING COMMENTS ===========')
 
-    print(comments)
+
 
     # Get uncommitted Git changes
     files = (
