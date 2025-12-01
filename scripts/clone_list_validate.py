@@ -305,16 +305,17 @@ def main() -> None:
     refined_comments: dict[str, str] = {}
 
     for comment in existing_comments:
+        print(comment)
         refined_comments[comment['path']] = {}
         refined_comments[comment['path']]['body'] = comment['body']
         refined_comments[comment['path']]['line'] = comment['original_line']
 
         if comment['subject_type'] == 'line':
-            existing_comments[comment['path']]['subject_type'] = 'line'
+            refined_comments[comment['path']]['subject_type'] = 'line'
         else:
-            existing_comments[comment['path']]['subject_type'] = 'file'
+            refined_comments[comment['path']]['subject_type'] = 'file'
 
-    print(json.dumps(existing_comments, indent=2))
+    print(json.dumps(refined_comments, indent=2))
     print('=========== END EXISTING COMMENTS ===========')
 
     # Get uncommitted Git changes
