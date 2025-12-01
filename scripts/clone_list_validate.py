@@ -303,21 +303,22 @@ def main() -> None:
 
     # Get the comments response down to something more manageable
     comments = json.loads(json.dumps(comments.content.decode('utf-8'), indent=2))
-    existing_comments: dict[str, str] = {}
-
     print(comments)
+    print(type(comments))
+
+    existing_comments: dict[str, str] = {}
 
     for comment in comments:
         print(comment)
 
-        existing_comments[comments[comment['path']]] = {}
-        existing_comments[comments[comment['path']['body']]] = comment.body
-        existing_comments[comments[comment['path']['line']]] = comment.original_line
+        # existing_comments[comments[comment['path']]] = {}
+        # existing_comments[comments[comment['path']['body']]] = comment.body
+        # existing_comments[comments[comment['path']['line']]] = comment.original_line
 
-        if comment.subject_type == 'line':
-            existing_comments[comment['path']]['subject_type'] = 'line'
-        else:
-            existing_comments[comment['path']]['subject_type'] = 'file'
+        # if comment.subject_type == 'line':
+        #     existing_comments[comment['path']]['subject_type'] = 'line'
+        # else:
+        #     existing_comments[comment['path']]['subject_type'] = 'file'
 
     print(json.dumps(existing_comments, indent=2))
     print('=========== END EXISTING COMMENTS ===========')
