@@ -304,7 +304,7 @@ def main() -> None:
     # Get the comments response down to something more manageable
     existing_comments: dict[str, str] = {}
 
-    for comment in comments:
+    for comment in json.dumps(comments.content.decode('utf-8'), indent=2):
         existing_comments[comment.path] = {}
         existing_comments[comment.path]['body'] = comment.body
         existing_comments[comment.path]['line'] = comment.original_line
