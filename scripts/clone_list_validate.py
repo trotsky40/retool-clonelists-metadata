@@ -327,7 +327,7 @@ def main() -> None:
     refined_comments: dict[str, str] = {}
 
     for comment in existing_comments:
-        if [comment['path']] not in refined_comments:
+        if comment['path'] not in refined_comments:
             refined_comments[comment['path']] = {}
 
         if comment['original_line'] not in refined_comments[comment['path']]:
