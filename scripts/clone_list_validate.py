@@ -81,7 +81,7 @@ def add_comment(
             for line in refined_comments[filepath]:
                 if (
                     line == line_number
-                    or (line == 0 and line_number == 1)
+                    or (line_number == 0 and line == 1)
                 ):
                     for body in refined_comments[filepath][line]:
                         if pr_comment == body:
