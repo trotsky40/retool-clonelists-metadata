@@ -302,6 +302,8 @@ def main() -> None:
 
     # Get the comments response down to something more manageable
     existing_comments: dict[str, str] = {}
+    print(type(comments))
+    print(comments)
 
     for comment in comments.content:
         print(comment)
@@ -315,7 +317,7 @@ def main() -> None:
         # else:
         #     existing_comments[comment['path']]['subject_type'] = 'file'
 
-    print(json.dumps(existing_comments, indent=2))
+    # print(json.dumps(existing_comments, indent=2))
     print('=========== END EXISTING COMMENTS ===========')
 
     # Get uncommitted Git changes
