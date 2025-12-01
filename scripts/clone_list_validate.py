@@ -302,11 +302,12 @@ def main() -> None:
 
     # Get the comments response down to something more manageable
     existing_comments: dict[str, str] = {}
-    print(type(comments))
-    print(comments)
+    print(type(comments.content))
+    print(comments.content)
 
     for comment in comments.content:
-        print(comment)
+        pass
+        # print(comment
 
         # existing_comments[comments[comment['path']]] = {}
         # existing_comments[comments[comment['path']['body']]] = comment.body
