@@ -17,6 +17,7 @@ import requests  # type: ignore
 
 
 def add_comment(
+    existing_comments: dict[str, Any],
     personal_access_token: str | None,
     pr_number: str | None,
     commit_id: str | None,
@@ -30,6 +31,7 @@ def add_comment(
     Adds a comment to a file in a GitHub PR.
 
     Args:
+        existing_comments (dict[str, Any]): Existing comments in the PR.
         personal_access_token (str | None): A GitHub personal access token.
         pr_number (str | None): A PR number to operate on.
         commit_id (str | None): A commit ID to operate on.
@@ -73,6 +75,15 @@ def add_comment(
 
     print(data)
 
+    if existing_comments:
+        if data['filepath'] in existing_comments:
+            if (
+                data['line'] == existing_comments['filepath']['line']
+                and data['body'] == existing_comments['filepath']['body']
+            ):
+                print(f'Found a match on line {data["line"]}, not posting new comment.')
+                return 201
+
     try:
         comment_post = requests.post(
             f'https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/{pr_number}/comments',
@@ -94,6 +105,7 @@ def add_comment(
     except requests.exceptions.Timeout:
         request_retry(
             add_comment,
+            existing_comments=existing_comments,
             personal_access_token=personal_access_token,
             pr_number=pr_number,
             commit_id=commit_id,
@@ -105,6 +117,7 @@ def add_comment(
     except requests.ConnectionError:
         request_retry(
             add_comment,
+            existing_comments=existing_comments,
             personal_access_token=personal_access_token,
             pr_number=pr_number,
             commit_id=commit_id,
@@ -133,6 +146,7 @@ def add_comment(
                 pr_comment = f'> [!WARNING]\n> _This comment can\'t be added to the correct line number. The error might found on an unchanged line, or the line number might be incorrect_\n\n{pr_comment}'
 
                 comment_post.status_code = add_comment(
+                    existing_comments=existing_comments,
                     personal_access_token=personal_access_token,
                     pr_number=pr_number,
                     commit_id=commit_id,
@@ -145,6 +159,7 @@ def add_comment(
             print(f'Rate limited (429): {e}')
             request_retry(
                 add_comment,
+                existing_comments=existing_comments,
                 personal_access_token=personal_access_token,
                 pr_number=pr_number,
                 commit_id=commit_id,
@@ -157,6 +172,7 @@ def add_comment(
             print(f'Server side error ({e.response.status_code}): {e}')
             request_retry(
                 add_comment,
+                existing_comments=existing_comments,
                 personal_access_token=personal_access_token,
                 pr_number=pr_number,
                 commit_id=commit_id,
@@ -298,14 +314,12 @@ def main() -> None:
     # Get existing comments
     print('=========== START EXISTING COMMENTS ===========')
     comments = get_comments(personal_access_token, pr_number)
-    # print(json.dumps(comments.content.decode('utf-8'), indent=2))
 
     # Get the comments response down to something more manageable
     existing_comments: list[str, Any] = json.loads(comments.content)
     refined_comments: dict[str, str] = {}
 
     for comment in existing_comments:
-        print(comment)
         refined_comments[comment['path']] = {}
         refined_comments[comment['path']]['body'] = comment['body']
         refined_comments[comment['path']]['line'] = comment['original_line']
@@ -384,6 +398,7 @@ def main() -> None:
                 print(error_messages)
 
                 add_comment(
+                    existing_comments=existing_comments,
                     personal_access_token=personal_access_token,
                     pr_number=pr_number,
                     commit_id=commit_id,
@@ -516,6 +531,7 @@ def main() -> None:
                     )
 
                     add_comment(
+                        existing_comments=existing_comments,
                         personal_access_token=personal_access_token,
                         pr_number=pr_number,
                         commit_id=commit_id,
@@ -567,6 +583,7 @@ def main() -> None:
 
                 for searchterm_line in searchterm_lines:
                     response = add_comment(
+                        existing_comments=existing_comments,
                         personal_access_token=personal_access_token,
                         pr_number=pr_number,
                         commit_id=commit_id,
@@ -625,6 +642,7 @@ def main() -> None:
 
                 for group_line in group_lines:
                     response = add_comment(
+                        existing_comments=existing_comments,
                         personal_access_token=personal_access_token,
                         pr_number=pr_number,
                         commit_id=commit_id,
