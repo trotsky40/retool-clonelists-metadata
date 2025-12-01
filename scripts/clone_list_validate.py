@@ -305,7 +305,7 @@ def main() -> None:
     # print(type(comments.content))
     # print(comments.content)
 
-    better_comments = json.loads(json.dumps(comments.content.decode('utf-8'), indent=2))
+    better_comments = json.loads(comments.content)
     print(type(better_comments))
     print(better_comments)
 
