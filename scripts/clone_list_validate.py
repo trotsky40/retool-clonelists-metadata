@@ -325,10 +325,9 @@ def main() -> None:
     # Get the comments response down to something more manageable
     existing_comments: list[str, Any] = json.loads(comments.content)
     refined_comments: dict[str, str] = {}
+    refined_comments[comment['path']] = {}
 
     for comment in existing_comments:
-        refined_comments[comment['path']] = {}
-
         if comment['original_line'] not in refined_comments[comment['path']]:
             refined_comments[comment['path']][comment['original_line']] = []
 
