@@ -76,19 +76,16 @@ def add_comment(
     print(data)
 
     if refined_comments:
-        print('Found refined_comments')
         if filepath in refined_comments:
             print('filepath is in refined_comments')
-            print(f'Line number: {line_number}')
-            print(f'Comment body: {pr_comment}')
             for line in refined_comments[filepath]:
-                if line == line_number:
-                    print(f'Found a line number ({line}) in existing comments that might be a duplicate.')
+                if (
+                    line == line_number
+                    or (line == 0 and line_number == 1)
+                ):
                     for body in refined_comments[filepath][line]:
-                        print(body)
-
                         if pr_comment == body:
-                            print('Looks like the body matches, not printing a new comment.')
+                            print('Looks like the body matches an existing comment on this line, not printing a new comment.')
                             return 201
 
     try:
