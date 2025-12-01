@@ -76,10 +76,10 @@ def add_comment(
     print(data)
 
     if existing_comments:
-        if data['filepath'] in existing_comments:
+        if data['path'] in existing_comments:
             if (
-                data['line'] == existing_comments['filepath']['line']
-                and data['body'] == existing_comments['filepath']['body']
+                data['line'] == existing_comments[data['path']]['line']
+                and data['body'] == existing_comments[data['path']]['body']
             ):
                 print(f'Found a match on line {data["line"]}, not posting new comment.')
                 return 201
