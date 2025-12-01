@@ -300,15 +300,10 @@ def main() -> None:
     comments = get_comments(personal_access_token, pr_number)
     # print(json.dumps(comments.content.decode('utf-8'), indent=2))
 
-
     # Get the comments response down to something more manageable
-    comments = json.loads(json.dumps(comments.content.decode('utf-8'), indent=2))
-    print(comments)
-    print(type(comments))
-
     existing_comments: dict[str, str] = {}
 
-    for comment in comments:
+    for comment in comments.content:
         print(comment)
 
         # existing_comments[comments[comment['path']]] = {}
