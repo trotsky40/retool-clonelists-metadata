@@ -305,8 +305,10 @@ def main() -> None:
     comments = json.loads(json.dumps(comments.content.decode('utf-8'), indent=2))
     existing_comments: dict[str, str] = {}
 
+    print(comments)
+
     for comment in comments:
-        print(comment['path'])
+        print(comment)
 
         existing_comments[comments[comment['path']]] = {}
         existing_comments[comments[comment['path']['body']]] = comment.body
