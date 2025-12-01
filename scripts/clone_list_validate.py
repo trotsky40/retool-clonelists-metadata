@@ -131,7 +131,7 @@ def add_comment(
 
                 pr_comment = f'> [!WARNING]\n> _This comment can\'t be added to the correct line number. The error might found on an unchanged line, or the line number might be incorrect_\n\n{pr_comment}'
 
-                comment_post = add_comment(
+                comment_post.status_code = add_comment(
                     personal_access_token=personal_access_token,
                     pr_number=pr_number,
                     commit_id=commit_id,
