@@ -17,15 +17,35 @@ import requests  # type: ignore
 
 
 def add_comment(
-    timeout: int,
     personal_access_token: str | None,
     pr_number: str | None,
     commit_id: str | None,
     filepath: str,
     pr_comment: str,
     line_number: int = 0,
+    timeout: int = 0,
     dupe_check: bool = False,
 ) -> int:
+    """
+    Adds a comment to a file in a GitHub PR.
+
+    Args:
+        personal_access_token (str | None): A GitHub personal access token.
+        pr_number (str | None): A PR number to operate on.
+        commit_id (str | None): A commit ID to operate on.
+        filepath (str): The filepath to add the comment to.
+        pr_comment (str): The comment to make on the PR.
+        line_number (int, optional): The line to make the comment on. Defaults to `0`. If
+            set to 0, the comment is made at file level.
+        timeout (int): The position in `request_retry` in the `progressive_timeout` list
+            to pull the timeout value from. Defaults to `0`.
+        dupe_check (bool, optional): If the comment is reporting on duplicate entries in
+            the clone list. If so, the code iterates through the line numbers the
+            duplicates are on until it finds the first changed line. Defaults to `False`.
+
+    Returns:
+        int: The request response code.
+    """
     headers: dict[str, str] = {
         'Accept': 'application/vnd.github+json',
         'Authorization': f'Bearer {personal_access_token}',
@@ -67,30 +87,30 @@ def add_comment(
         # Catch checks for duplicate searchTerms or groups, which have to iterate through
         # multiple lines
         if dupe_check:
-            return comment_post.status_code # type: ignore
+            return comment_post.status_code  # type: ignore
 
         comment_post.raise_for_status()
     except requests.exceptions.Timeout:
         request_retry(
             add_comment,
-            timeout=timeout,
             personal_access_token=personal_access_token,
             pr_number=pr_number,
             commit_id=commit_id,
             filepath=filepath,
             pr_comment=pr_comment,
             line_number=line_number,
+            timeout=timeout,
         )
     except requests.ConnectionError:
         request_retry(
             add_comment,
-            timeout=timeout,
             personal_access_token=personal_access_token,
             pr_number=pr_number,
             commit_id=commit_id,
             filepath=filepath,
             pr_comment=pr_comment,
             line_number=line_number,
+            timeout=timeout,
         )
     except requests.exceptions.HTTPError as e:
         if e.response.status_code == 401:
@@ -109,46 +129,122 @@ def add_comment(
             else:
                 print('Attempting to comment on file...')
 
-                pr_comment = '\n\n'.join(['> [!CAUTION]\n> The quoted line number might be incorrect, or the error might relate to a problem on an unchanged line_', pr_comment])
+                pr_comment = f'> [!WARNING]\n> _This comment can\'t be added to the correct line number. The error might found on an unchanged line, or the line number might be incorrect_\n\n{pr_comment}'
 
-                add_comment(
-                    timeout=timeout,
+                comment_post = add_comment(
                     personal_access_token=personal_access_token,
                     pr_number=pr_number,
                     commit_id=commit_id,
                     filepath=filepath,
                     pr_comment=pr_comment,
                     line_number=0,
+                    timeout=timeout,
                 )
         elif e.response.status_code == 429:
             print(f'Rate limited (429): {e}')
             request_retry(
                 add_comment,
-                timeout=timeout,
                 personal_access_token=personal_access_token,
                 pr_number=pr_number,
                 commit_id=commit_id,
                 filepath=filepath,
                 pr_comment=pr_comment,
                 line_number=line_number,
+                timeout=timeout,
             )
         elif str(e.response.status_code).startswith('5'):
             print(f'Server side error ({e.response.status_code}): {e}')
             request_retry(
                 add_comment,
-                timeout=timeout,
                 personal_access_token=personal_access_token,
                 pr_number=pr_number,
                 commit_id=commit_id,
                 filepath=filepath,
                 pr_comment=pr_comment,
                 line_number=line_number,
+                timeout=timeout,
             )
     except Exception as e:
         print(e)
         sys.exit(1)
 
     return comment_post.status_code  # type: ignore
+
+
+def get_comments(
+    personal_access_token: str | None, pr_number: int | None, timeout: int = 0
+) -> requests.models.Response:
+    """
+    Gets the comments from a GitHub PR.
+
+    Args:
+        personal_access_token (str | None): A GitHub personal access token.
+        pr_number (int | None): A PR number to operate on.
+        timeout (int): The position in `request_retry` in the `progressive_timeout` list
+            to pull the timeout value from. Defaults to `0`.
+
+    Returns:
+        requests.models.Response: The response from the GitHub API.
+    """
+    headers: dict[str, str] = {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': f'Bearer {personal_access_token}',
+        'X-GitHub-Api-Version': '2022-11-28',
+    }
+
+    data: dict[str, int | str] = {}
+
+    try:
+        comments = requests.get(
+            f'https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/{pr_number}/comments',
+            headers=headers,
+            json=data,
+        )
+    except requests.exceptions.Timeout:
+        request_retry(
+            get_comments,
+            timeout=timeout,
+            personal_access_token=personal_access_token,
+            pr_number=pr_number,
+        )
+    except requests.ConnectionError:
+        request_retry(
+            get_comments,
+            timeout=timeout,
+            personal_access_token=personal_access_token,
+            pr_number=pr_number,
+        )
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code == 401:
+            print(f'Unauthorized access (401): {e}')
+            sys.exit(1)
+        elif e.response.status_code == 404:
+            print(f'URL not found (404): {e}')
+            sys.exit(1)
+        elif e.response.status_code == 422:
+            print(f'Unprocessable content (422): {e}')
+            sys.exit(1)
+        elif e.response.status_code == 429:
+            print(f'Rate limited (429): {e}')
+            request_retry(
+                get_comments,
+                timeout=timeout,
+                personal_access_token=personal_access_token,
+                pr_number=pr_number,
+            )
+        elif str(e.response.status_code).startswith('5'):
+            print(f'Server side error ({e.response.status_code}): {e}')
+            request_retry(
+                get_comments,
+                timeout=timeout,
+                personal_access_token=personal_access_token,
+                pr_number=pr_number,
+            )
+    except Exception as e:
+        print(e)
+        sys.exit(1)
+
+    return comments
 
 
 def request_retry(func: Any, **kwargs: Any) -> None:
@@ -163,7 +259,7 @@ def request_retry(func: Any, **kwargs: Any) -> None:
     Returns:
         requests.models.Response: The response from the MobyGames API.
     """
-    # Progressively increase the timeout with each retry
+    # Progressively increase the timeout (in seconds) with each retry
     progressive_timeout: list[int] = [0, 60, 300, -1]
 
     # Set an empty response with a mock error code
@@ -195,6 +291,11 @@ def main() -> None:
     commit_id: str | None = os.getenv('COMMIT_ID')
     personal_access_token: str | None = os.getenv('CLONELISTS_PAT')
     response: int = 0
+
+    # Get existing comments
+    comments = get_comments(personal_access_token, pr_number)
+
+    print(comments)
 
     # Get uncommitted Git changes
     files = (
@@ -262,7 +363,6 @@ def main() -> None:
                 print(error_messages)
 
                 add_comment(
-                    timeout=0,
                     personal_access_token=personal_access_token,
                     pr_number=pr_number,
                     commit_id=commit_id,
@@ -395,7 +495,6 @@ def main() -> None:
                     )
 
                     add_comment(
-                        timeout=0,
                         personal_access_token=personal_access_token,
                         pr_number=pr_number,
                         commit_id=commit_id,
@@ -447,7 +546,6 @@ def main() -> None:
 
                 for searchterm_line in searchterm_lines:
                     response = add_comment(
-                        timeout=0,
                         personal_access_token=personal_access_token,
                         pr_number=pr_number,
                         commit_id=commit_id,
@@ -506,7 +604,6 @@ def main() -> None:
 
                 for group_line in group_lines:
                     response = add_comment(
-                        timeout=0,
                         personal_access_token=personal_access_token,
                         pr_number=pr_number,
                         commit_id=commit_id,
