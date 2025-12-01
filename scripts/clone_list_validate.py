@@ -305,8 +305,12 @@ def main() -> None:
     print(type(comments.content))
     print(comments.content)
 
-    for comment in comments.content:
-        pass
+    better_comments = json.dumps(comments.content.decode('utf-8'), indent=2)
+    print(type(better_comments))
+    print(better_comments)
+
+    # for comment in comments.content:
+    #     pass
         # print(comment
 
         # existing_comments[comments[comment['path']]] = {}
