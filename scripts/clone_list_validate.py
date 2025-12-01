@@ -302,10 +302,10 @@ def main() -> None:
 
     # Get the comments response down to something more manageable
     existing_comments: dict[str, str] = {}
-    print(type(comments.content))
-    print(comments.content)
+    # print(type(comments.content))
+    # print(comments.content)
 
-    better_comments = json.dumps(comments.content.decode('utf-8'), indent=2)
+    better_comments = json.loads(json.dumps(comments.content.decode('utf-8'), indent=2))
     print(type(better_comments))
     print(better_comments)
 
