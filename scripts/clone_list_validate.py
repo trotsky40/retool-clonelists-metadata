@@ -301,28 +301,20 @@ def main() -> None:
     # print(json.dumps(comments.content.decode('utf-8'), indent=2))
 
     # Get the comments response down to something more manageable
-    existing_comments: dict[str, str] = {}
-    # print(type(comments.content))
-    # print(comments.content)
+    existing_comments: list[str, Any] = json.loads(comments.content)
+    refined_comments: dict[str, str] = {}
 
-    better_comments = json.loads(comments.content)
-    print(type(better_comments))
-    print(better_comments)
+    for comment in existing_comments:
+        refined_comments[comment['path']] = {}
+        refined_comments[comment['path']]['body'] = comment['body']
+        refined_comments[comment['path']]['line'] = comment['original_line']
 
-    # for comment in comments.content:
-    #     pass
-        # print(comment
+        if comment['subject_type'] == 'line':
+            existing_comments[comment['path']]['subject_type'] = 'line'
+        else:
+            existing_comments[comment['path']]['subject_type'] = 'file'
 
-        # existing_comments[comments[comment['path']]] = {}
-        # existing_comments[comments[comment['path']['body']]] = comment.body
-        # existing_comments[comments[comment['path']['line']]] = comment.original_line
-
-        # if comment.subject_type == 'line':
-        #     existing_comments[comment['path']]['subject_type'] = 'line'
-        # else:
-        #     existing_comments[comment['path']]['subject_type'] = 'file'
-
-    # print(json.dumps(existing_comments, indent=2))
+    print(json.dumps(existing_comments, indent=2))
     print('=========== END EXISTING COMMENTS ===========')
 
     # Get uncommitted Git changes
