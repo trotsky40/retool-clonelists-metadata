@@ -3727,6 +3727,18 @@
             "sha1": "75ef3bcdbd8aba5fc35ba0fd67e98a6db8b95924"
         },
         {
+            "name": "Metroid - Zero Mission - Super Metroid GBA Edition (v3.0) (The Brothers Crafters) (Hack)",
+            "crc": "b4e1da85",
+            "md5": "ae340ff5e044ccca4b3efbb61c154c1c",
+            "sha1": "730e1c76e798b7801f504da63504a4790817a734"
+        },
+        {
+            "name": "Metroid - Zero Mission - Super Metroid GBA Edition (v4.0) (The Brothers Crafters) (Hack)",
+            "crc": "0511c66d",
+            "md5": "0c0450cf5556ddac9de85f04cbee4c00",
+            "sha1": "e030dab11af83097f137764148685f5af4774e75"
+        },
+        {
             "name": "Metroid Fusion (Europe) (En,Fr,De,Es,It)",
             "crc": "974e46ab",
             "md5": "eb462f708c715309d08fd7968825ae9e",
@@ -6061,34 +6073,22 @@
             "sha1": "7352d2bd064d9ebaec579e264228aa21c7345b80"
         },
         {
+            "name": "Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e)",
+            "crc": "d4c13ac3",
+            "md5": "e7a2792c5913a8420a419f2d01358487",
+            "sha1": "dd2879329ec52bd5372f26b75297a67f1a81215a"
+        },
+        {
             "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Switches - RetroAchievements Edition)",
             "crc": "ce860480",
             "md5": "d904485be937fb3e30e4da5019e34a71",
             "sha1": "a726c7db3f177fffe963f5aeb047c8f7151f3de3"
         },
         {
-            "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)",
-            "crc": "d4c13ac3",
-            "md5": "e7a2792c5913a8420a419f2d01358487",
-            "sha1": "dd2879329ec52bd5372f26b75297a67f1a81215a"
-        },
-        {
             "name": "Super Mario Ball (Europe)",
             "crc": "3b035681",
             "md5": "cdd0d1bc1b95577662dbf561c8e77f34",
             "sha1": "d53fbc63e08c15bfdc045b5664fe24e8e2718469"
-        },
-        {
-            "name": "Super Metroid - GBA Edition (v3.0) (Hack)",
-            "crc": "b4e1da85",
-            "md5": "ae340ff5e044ccca4b3efbb61c154c1c",
-            "sha1": "730e1c76e798b7801f504da63504a4790817a734"
-        },
-        {
-            "name": "Super Metroid - GBA Edition (v4.0) (Hack)",
-            "crc": "0511c66d",
-            "md5": "0c0450cf5556ddac9de85f04cbee4c00",
-            "sha1": "e030dab11af83097f137764148685f5af4774e75"
         },
         {
             "name": "Super Monkey Ball Jr. (Europe) (En,Fr,De,Es,It)",
