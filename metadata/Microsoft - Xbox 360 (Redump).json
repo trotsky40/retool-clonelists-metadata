@@ -1123,7 +1123,7 @@
 	"Borderlands - The Pre-Sequel! Add-On Installation Disc (USA)": {
 		"languages": []
 	},
-	"Borderlands 2 (USA) (Add-On Installation Disc)": {
+	"Borderlands 2 (USA, Europe) (Add-On Installation Disc)": {
 		"languages": []
 	},
 	"Borderlands 2 (World) (En,Ja,Fr,De,Es,It)": {
@@ -7273,8 +7273,8 @@
 	"Need for Speed - Carbono (Spain)": {
 		"languages": ["Es"]
 	},
-	"Need for Speed - Hot Pursuit (Europe) (En,Ja,Fr,De,Es,It,Nl,Ru)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Ru"]
+	"Need for Speed - Hot Pursuit (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Need for Speed - Hot Pursuit (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -10840,7 +10840,7 @@
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Pl", "Ru"]
 	},
 	"X-Blades (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "Ｘブレード"
 	},
 	"X-Blades (USA)": {
