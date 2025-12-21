@@ -2074,12 +2074,10 @@
 		"languages": ["En"]
 	},
 	"De Blob (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
-		"localName": "de Blob"
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"De Blob (Scandinavia) (En,Sv,No,Da,Fi)": {
-		"languages": ["Da", "En", "Fi", "No", "Sv"],
-		"localName": "de Blob"
+		"languages": ["Da", "En", "Fi", "No", "Sv"]
 	},
 	"De Blob (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2089,8 +2087,7 @@
 		"localName": "더 블랍 - 컬러 레볼루션"
 	},
 	"De Blob 2 (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
-		"localName": "de Blob 2"
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"De Blob 2 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -3371,8 +3368,7 @@
 		"localName": "アイシールド２１　フィールド最強の戦士たち"
 	},
 	"F1 2009 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Formula 1 2009"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2009 (Japan)": {
 		"languages": []

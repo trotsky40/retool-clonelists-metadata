@@ -237,8 +237,7 @@
 		"languages": ["En"]
 	},
 	"40 Winks (Italy)": {
-		"languages": ["It"],
-		"localName": "40 Winks - Con Ruff e Tumble"
+		"languages": ["It"]
 	},
 	"40 Winks (Spain)": {
 		"languages": ["Es"]
@@ -4207,8 +4206,7 @@
 		"languages": ["En"]
 	},
 	"Cha Cha Special 04-99 Demo (Belgium, Netherlands) (En,Fr,Nl)": {
-		"languages": ["En", "Fr", "Nl"],
-		"localName": "cha cha special 04-99 demo"
+		"languages": ["En", "Fr", "Nl"]
 	},
 	"Chakushin Melody da mon (Japan)": {
 		"languages": ["Ja"],
@@ -11670,8 +11668,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Formula One 2000 (Europe) (Beta) (2000-08-17)": {
-		"languages": [],
-		"localName": "Formula 1 2000"
+		"languages": []
 	},
 	"Formula One 2000 (Europe) (En,Fi)": {
 		"languages": ["En", "Fi"]
@@ -11707,8 +11704,7 @@
 		"languages": ["De", "En", "Fr", "It"]
 	},
 	"Formula One 99 (Europe) (En,Fr,De,It) (Beta) (1999-09-09)": {
-		"languages": ["De", "En", "Fr", "It"],
-		"localName": "Formula One '99"
+		"languages": ["De", "En", "Fr", "It"]
 	},
 	"Formula One 99 (Japan)": {
 		"languages": ["Ja"],
@@ -15002,12 +14998,10 @@
 		"localName": "インターナショナルエキサイトステージ２０００"
 	},
 	"International Superstar Soccer (Europe) (En,De)": {
-		"languages": ["De", "En"],
-		"localName": "International Superstar Soccer 2000"
+		"languages": ["De", "En"]
 	},
 	"International Superstar Soccer (Europe) (Fr,Es,It)": {
-		"languages": ["Es", "Fr", "It"],
-		"localName": "International Superstar Soccer 2000"
+		"languages": ["Es", "Fr", "It"]
 	},
 	"International Superstar Soccer Deluxe (Europe)": {
 		"languages": ["En"]
@@ -15997,7 +15991,7 @@
 		"languages": ["Ja"],
 		"localName": "仮面ライダー"
 	},
-	"Kamen Rider Agito & Hyakujuu Sentai GaoRanger (Japan) (Demo)": {
+	"Kamen Rider Agito & Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "仮面ライダーアギト　＆　百獣戦隊　ガオレンジャー"
 	},
@@ -22910,8 +22904,7 @@
 		"localName": "オリンピア・山佐　バーチャパチスロⅡ　～実戦！美少女攻略法～"
 	},
 	"Olympic Games (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Olympic Games - Atlanta 1996"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Olympic Soccer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -35791,8 +35784,7 @@
 		"languages": ["En"]
 	},
 	"Warm Up! (Europe) (En,Fr,De,Es,It,Pt)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Pt"],
-		"localName": "Warm-Up! GP 2001"
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Warpath - Jurassic Park (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -36200,8 +36192,7 @@
 		"languages": ["En"]
 	},
 	"Winter Releases (Europe, Australia) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Summer Releases '99"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Winter Releases - '97 Demo 01 (Europe)": {
 		"languages": ["En"]

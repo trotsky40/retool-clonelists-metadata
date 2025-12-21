@@ -3555,7 +3555,10 @@
 		"languages": ["Ja"],
 		"localName": "魔牙霊"
 	},
-	"Magazine Officiel Xbox, Le - Hors-Serie Solutions Numero 08 (France)": {
+	"Magazine Officiel Xbox, Le - Hors-serie Numero 10 (France)": {
+		"languages": ["Fr"]
+	},
+	"Magazine Officiel Xbox, Le - Hors-serie Solutions Numero 08 (France)": {
 		"languages": ["Fr"]
 	},
 	"Magazine Officiel Xbox, Le - Le DVD Numero 22 (France) (En,Fr,De,Es,It,Pt)": {
@@ -5091,7 +5094,7 @@
 	"Official Xbox Magazine Game Disc 54 (Australia)": {
 		"languages": ["En"]
 	},
-	"Official Xbox Magazine Game Disc 54 (UK) (En,Fr,De,It,Pt)": {
+	"Official Xbox Magazine Game Disc 54 (Europe) (En,Fr,De,It,Pt)": {
 		"languages": ["De", "En", "Fr", "It", "Pt"]
 	},
 	"Official Xbox Magazine Game Disc 54 (USA)": {
@@ -8030,6 +8033,9 @@
 	"Xbox Demo Disc Version 4.2 (USA) (ESRB RP-M)": {
 		"languages": []
 	},
+	"Xbox Demo Disc Version 4.2 (USA) (Rev 1)": {
+		"languages": []
+	},
 	"Xbox Demo Disc Version 4.3 (USA)": {
 		"languages": []
 	},
@@ -8169,7 +8175,7 @@
 	"Xbox Live Starter Kit Disc (World) (En,Ja,Fr,De,Es,It) (Rev 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Xbox Magazine Ufficiale Game Disc 49 - Dicembre 2005 (Italy) (En,Fr,De,Es,It,Pt)": {
+	"Xbox Magazine Ufficiale Game Disc 49 (Italy) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Xbox Music Mixer (Europe, Australia) (En,Fr,De)": {

@@ -2833,12 +2833,10 @@
 		"localName": "アイシールド　２１　ポータブルエディション"
 	},
 	"F1 2009 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Formula 1 2009"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2009 (Japan)": {
-		"languages": ["Ja"],
-		"localName": "Ｆｏｒｍｕｌａ　１　２００９"
+		"languages": ["Ja"]
 	},
 	"F1 2009 (USA)": {
 		"languages": []

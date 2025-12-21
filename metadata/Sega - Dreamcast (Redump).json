@@ -630,8 +630,8 @@
 		"languages": ["En"],
 		"localName": "コズミックスマッシュ"
 	},
-	"Crazy Taxi (Europe)": {
-		"languages": ["En"]
+	"Crazy Taxi (Europe) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"Crazy Taxi (Japan)": {
 		"languages": ["Ja"],
@@ -1500,7 +1500,7 @@
 		"languages": ["En"]
 	},
 	"Evolution 2 - Far Off Promise (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Evolution 2 - Far Off Promise (USA)": {
 		"languages": ["En"]
@@ -3176,8 +3176,8 @@
 	"Planet DC Cheats Volume 2 (UK) (Unl)": {
 		"languages": ["En"]
 	},
-	"Planet Ring (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
+	"Planet Ring (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Plasma Sword - Nightmare of Bilstein (Europe)": {
 		"languages": ["En"]
@@ -4191,8 +4191,8 @@
 	"Snow Surfers (Europe)": {
 		"languages": ["En"]
 	},
-	"Soldier of Fortune (Europe)": {
-		"languages": ["En"]
+	"Soldier of Fortune (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Soldier of Fortune (USA)": {
 		"languages": ["En"]
@@ -4557,7 +4557,7 @@
 		"localName": "スーパーストリートファイターⅡＸ　フォー　マッチング　サービス"
 	},
 	"Surf Rocket Racers (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Surf Rocket Racers (USA)": {
 		"languages": ["En"]
@@ -4695,7 +4695,7 @@
 		"languages": ["En"]
 	},
 	"Tokyo Highway Challenge 2 (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Tokyo Xtreme Racer (USA)": {
 		"languages": ["En"]

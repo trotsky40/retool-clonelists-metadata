@@ -138,8 +138,7 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"1945 I & II (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "1945 I & II - The Arcade Games"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"2000-2001 Winter Lineup (Japan)": {
 		"languages": ["Ja"],
@@ -483,6 +482,10 @@
 		"languages": ["Ja"],
 		"localName": "ああっ女神さまっ"
 	},
+	"Aa Megami-sama (Japan) (Shokai Gentei Seisanban)": {
+		"languages": ["Ja"],
+		"localName": "ああっ女神さまっ"
+	},
 	"Abarenbou Princess (Japan)": {
 		"languages": ["Ja"],
 		"localName": "暴れん坊プリンセス"
@@ -603,6 +606,9 @@
 		"languages": ["En"]
 	},
 	"Action Replay Max (USA) (Unl) (v3.10)": {
+		"languages": ["En"]
+	},
+	"Action Replay Max (USA) (Unl) (v3.30)": {
 		"languages": ["En"]
 	},
 	"Action Replay Max (USA) (Unl) (v3.34)": {
@@ -856,6 +862,10 @@
 		"localName": "エアロビクスレボリューション"
 	},
 	"After... Wasureenu Kizuna (Japan)": {
+		"languages": ["Ja"],
+		"localName": "Ａｆｔｅｒ．．．～　忘れえぬ絆～"
+	},
+	"After... Wasureenu Kizuna (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "Ａｆｔｅｒ．．．～　忘れえぬ絆～"
 	},
@@ -1781,7 +1791,7 @@
 	},
 	"Armored Core 3 (Korea)": {
 		"languages": ["Ko"],
-		"localName": "아머드 코어　３"
+		"localName": "아머드 코어 3"
 	},
 	"Armored Core 3 (USA)": {
 		"languages": ["En"]
@@ -1792,7 +1802,7 @@
 	},
 	"Armored Core 3 - Silent Line (Korea)": {
 		"languages": ["Ko"],
-		"localName": "아머드 코어　３　사일런트 라인"
+		"localName": "아머드 코어 3 사일런트 라인"
 	},
 	"Army Men - Air Attack - Blade's Revenge (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -2712,7 +2722,8 @@
 		"localName": "バイオハザード４"
 	},
 	"Biohazard 4 (Korea)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "바이오하자드 4"
 	},
 	"Bionicle (Europe) (En,Fr,De,Es,It,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
@@ -3058,8 +3069,7 @@
 		"languages": []
 	},
 	"Bonus Demo 10 (You) (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "bonus demo 10 (you)"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Bonus Demo 11 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3068,8 +3078,7 @@
 		"languages": []
 	},
 	"Bonus Demo 11m (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Bonus Demo 11 (Old)"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Bonus Demo 12 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3078,8 +3087,7 @@
 		"languages": []
 	},
 	"Bonus Demo 12m (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Bonus Demo 12 (Old)"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Bonus Demo 4 (Europe)": {
 		"languages": ["En"]
@@ -6359,11 +6367,11 @@
 	"Dengeki PlayStation D40 - Konami Fan Book (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Dennou Senki - Virtual-On Marz (Japan)": {
+	"Dennou Senki - Virtual-On Marz (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "電脳戦機バーチャロン　マーズ"
 	},
-	"Dennou Senki - Virtual-On Marz (Japan) (Taikenban)": {
+	"Dennou Senki - Virtual-On Marz (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "電脳戦機バーチャロン　マーズ"
 	},
@@ -6400,6 +6408,10 @@
 		"localName": "電車でＧＯ！　旅情編"
 	},
 	"Densha de Go! Shinkansen - San'you Shinkansen-hen (Japan) (Taikenban)": {
+		"languages": ["Ja"],
+		"localName": "電車でＧＯ！　新幹線　山陽新幹線編"
+	},
+	"Densha de Go! Shinkansen - San'you Shinkansen-hen (Japan) (v1.06)": {
 		"languages": ["Ja"],
 		"localName": "電車でＧＯ！　新幹線　山陽新幹線編"
 	},
@@ -15530,6 +15542,10 @@
 	"Jim Henson's Muppets Party Cruise (USA)": {
 		"languages": []
 	},
+	"Jin Hondura (Korea) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "真魂斗羅"
+	},
 	"Jin Samguk Mussang (Korea)": {
 		"languages": ["Ko"],
 		"localName": "진・삼국무쌍"
@@ -16913,6 +16929,10 @@
 		"languages": ["En"]
 	},
 	"King of Fighters 2003, The (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ザ・キング・オブ・ファイターズ　２００３"
+	},
+	"King of Fighters 2003, The (Japan) (SNK Best Collection)": {
 		"languages": ["Ja"],
 		"localName": "ザ・キング・オブ・ファイターズ　２００３"
 	},
@@ -20626,8 +20646,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
 	},
 	"Moorhuhn Fun Kart 2008 (Europe) (En,Fr,De,It)": {
-		"languages": ["De", "En", "Fr", "It"],
-		"localName": "Crazy Chicken Fun Kart 2008"
+		"languages": ["De", "En", "Fr", "It"]
 	},
 	"Morita Shougi (Japan)": {
 		"languages": ["Ja"],
@@ -21945,6 +21964,10 @@
 		"localName": "夏夢夜話"
 	},
 	"Natsuiro - Hoshikuzu no Memory (Japan)": {
+		"languages": ["Ja"],
+		"localName": "なついろ　～星屑のメモリー～"
+	},
+	"Natsuiro - Hoshikuzu no Memory (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "なついろ　～星屑のメモリー～"
 	},
@@ -24703,16 +24726,13 @@
 		"languages": ["Es"]
 	},
 	"PS Mania 2.0 Spaccacodici - SOCOM II - U.S. Navy SEALs (Italy) (Unl)": {
-		"languages": [],
-		"localName": "Paragon Play 116"
+		"languages": []
 	},
 	"PS Mania 2.0 Spaccacodici - Soulcalibur II (Italy) (Unl)": {
-		"languages": [],
-		"localName": "Paragon Play 110"
+		"languages": []
 	},
 	"PS Mania 2.0 Spaccacodici - Spider-Man 2 (Italy) (Unl)": {
-		"languages": [],
-		"localName": "Paragon Play 119"
+		"languages": []
 	},
 	"PS2 Bonus Demo 03 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -24737,6 +24757,9 @@
 		"localName": "-'ＰＳ２-'　製造検査　ＤＩＳＣ３　ＣＤ－ＲＯＭ　Ｖｅｒ．　５．４０　（ＥＵ版）"
 	},
 	"PSi2 15 (Germany) (Unl)": {
+		"languages": []
+	},
+	"PSi2 15 (UK)": {
 		"languages": []
 	},
 	"PSi2 19 (UK) (Unl)": {
@@ -25431,8 +25454,7 @@
 		"languages": []
 	},
 	"Play Cheats Vol. 03 (Europe) (Unl)": {
-		"languages": [],
-		"localName": "Paragon Play 101"
+		"languages": []
 	},
 	"Play Cheats Vol. 04 (UK) (Unl)": {
 		"languages": ["En"]
@@ -26929,9 +26951,9 @@
 	"Raging Blades (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Raging Bless - Gouma Mokushiroku (Asia)": {
+	"Raging Bless - Gouma Mokushiroku (Japan, Asia)": {
 		"languages": ["Ja"],
-		"localName": "レイジング・ブレス　～降魔黙示録～"
+		"localName": "レイジングブレス　～降魔黙示録～"
 	},
 	"Raging Bless - Hangma Muksirok (Korea)": {
 		"languages": ["Ko"],
@@ -29819,10 +29841,6 @@
 	},
 	"Shin Contra (Japan)": {
 		"languages": ["Ja"],
-		"localName": "真魂斗羅"
-	},
-	"Shin Contra (Korea) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
 		"localName": "真魂斗羅"
 	},
 	"Shin Gouketsuji Ichizoku - Bonnou Kaihou (Japan)": {
@@ -34134,6 +34152,10 @@
 		"languages": ["Ja"],
 		"localName": "サーヴィランス　監視者"
 	},
+	"Suwanggi - Project Altered Beast (Korea)": {
+		"languages": ["Ko"],
+		"localName": "수왕기 - Project Altered Beast"
+	},
 	"Suzuki Super-Bikes II - Riding Challenge (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
@@ -34672,16 +34694,13 @@
 		"localName": "魂響　～御霊送りの詩～"
 	},
 	"Tango - Game On Demo Disc 1 (Europe)": {
-		"languages": [],
-		"localName": "tango - demo 01"
+		"languages": []
 	},
 	"Tango - Game On Demo Disc 2 (Europe)": {
-		"languages": [],
-		"localName": "tango promo 2003 demo 2"
+		"languages": []
 	},
 	"Tango - Game On Demo Disc 3 (Europe)": {
-		"languages": [],
-		"localName": "tango promo 2003 demo 3"
+		"languages": []
 	},
 	"Tank Elite (Europe)": {
 		"languages": ["En"]
@@ -35220,12 +35239,12 @@
 	"Terminator 3 - Rebellion der Maschinen (Germany)": {
 		"languages": ["De"]
 	},
-	"Terminator 3 - Rise of the Machines (Asia)": {
-		"languages": ["Ja"],
-		"localName": "ターミネーター３　－Ｒｉｓｅ　Ｏｆ　Ｔｈｅ　Ｍａｃｈｉｎｅｓ－"
-	},
 	"Terminator 3 - Rise of the Machines (Europe)": {
 		"languages": ["En"]
+	},
+	"Terminator 3 - Rise of the Machines (Japan, Asia)": {
+		"languages": ["Ja"],
+		"localName": "ターミネーター３　－Ｒｉｓｅ　Ｏｆ　Ｔｈｅ　Ｍａｃｈｉｎｅｓ－"
 	},
 	"Terminator 3 - Rise of the Machines (USA)": {
 		"languages": []
@@ -35334,8 +35353,7 @@
 		"localName": "Ｔｈｉｓ　Ｉｓ　Ｆｏｏｔｂａｌｌ　サッカー世界戦記２００３"
 	},
 	"This Is Football 2002 (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
-		"localName": "This Is Soccer 2002"
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"This Is Football 2002 (Europe) (En,Fr,De,Es,It,Nl) (Demo)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -36238,8 +36256,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Tour de France, Le - 1903-2003 - Centenary Edition (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Tour de France - Centenary Edition"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Tourist Trophy (USA)": {
 		"languages": ["En"]
@@ -37987,8 +38004,7 @@
 		"languages": ["En"]
 	},
 	"Wild Arms 5 (Europe) (En,Fr,It)": {
-		"languages": ["En", "Fr", "It"],
-		"localName": "Wild Arms 5 - 10th Anniversary Edition"
+		"languages": ["En", "Fr", "It"]
 	},
 	"Wild Arms 5 (USA)": {
 		"languages": ["En"]

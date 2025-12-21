@@ -381,8 +381,8 @@
 	"Army of Two - The Devil's Cartel (Germany) (En,De)": {
 		"languages": ["De", "En"]
 	},
-	"Army of Two - The Devil's Cartel (Japan)": {
-		"languages": ["Ja"],
+	"Army of Two - The Devil's Cartel (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "ＡＲＭＹ　ＯＦ　ＴＷＯ　ザ・デビルズカーテル"
 	},
 	"Army of Two - The Devil's Cartel (USA) (Beta) (2013-01-31)": {
@@ -761,7 +761,7 @@
 	"Battlefield Hardline (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs) (Disc 2) (Single Player)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Pt", "Ru", "Zh"]
 	},
-	"Battleship (USA, Europe) (En,Fr,De,Es,It)": {
+	"Battleship (World) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Battlestations - Midway (Japan)": {
@@ -1388,10 +1388,10 @@
 	"Call of Duty - Advanced Warfare (Spain) (Disco de Juego)": {
 		"languages": ["Es"]
 	},
-	"Call of Duty - Advanced Warfare (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru) (Install Disc)": {
+	"Call of Duty - Advanced Warfare (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (Install Disc)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
-	"Call of Duty - Advanced Warfare (USA, Europe) (Game Disc)": {
+	"Call of Duty - Advanced Warfare (World) (Game Disc)": {
 		"languages": ["En"]
 	},
 	"Call of Duty - Black Ops (France)": {
@@ -1949,8 +1949,8 @@
 	"Crash of the Titans (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Create (USA, Europe)": {
-		"languages": []
+	"Create (USA, Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Crew, The (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Pl,Ru) (Disc 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
@@ -1984,11 +1984,11 @@
 	"Crysis 3 (Europe)": {
 		"languages": ["En"]
 	},
+	"Crysis 3 (Europe) (De,Tr)": {
+		"languages": ["De", "Tr"]
+	},
 	"Crysis 3 (Europe) (Es,It)": {
 		"languages": ["Es", "It"]
-	},
-	"Crysis 3 (Germany) (De,Tr)": {
-		"languages": ["De", "Tr"]
 	},
 	"Crysis 3 (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
@@ -2034,7 +2034,7 @@
 	"Dance Central (Japan)": {
 		"languages": []
 	},
-	"Dance Central (USA, Europe)": {
+	"Dance Central (World)": {
 		"languages": []
 	},
 	"Dance Central 2 (World)": {
@@ -2081,7 +2081,7 @@
 	"Dante's Inferno (Europe) (En,De,It)": {
 		"languages": ["De", "En", "It"]
 	},
-	"Dante's Inferno (USA) (En,Fr,Es)": {
+	"Dante's Inferno (USA, Europe) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Dante's Inferno - Shinkyoku Jigoku-hen (Japan)": {
@@ -2617,8 +2617,8 @@
 		"languages": ["Ru"],
 		"localName": "Disney Миссия Дарвина"
 	},
-	"Disney G-Force (USA)": {
-		"languages": []
+	"Disney G-Force (USA, Europe) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Disney High School Musical 3 - Senior Year Dance! (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -2939,8 +2939,8 @@
 		"languages": ["Ja"],
 		"localName": "ドラゴンエイジ　ＩＩ"
 	},
-	"Dragon Age II (USA)": {
-		"languages": []
+	"Dragon Age II (USA) (En,Fr,De,Es,It,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
 	"Dragon Ball - Raging Blast (Europe)": {
 		"languages": []
@@ -3078,7 +3078,7 @@
 	"DreamWorks Puss in Boots (USA, Europe)": {
 		"languages": []
 	},
-	"DreamWorks Rise of the Guardians (USA)": {
+	"DreamWorks Rise of the Guardians (USA, Europe)": {
 		"languages": []
 	},
 	"DreamWorks Shrek Forever After (Europe) (En,Fr,De,Es,Nl,Sv)": {
@@ -3099,8 +3099,8 @@
 	"DreamWorks Shrek the Third (USA)": {
 		"languages": []
 	},
-	"DreamWorks Super Star Kartz (USA)": {
-		"languages": []
+	"DreamWorks Super Star Kartz (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Sv"]
 	},
 	"DreamWorks The Penguins of Madagascar - Dr. Blowhole Returns - Again! (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -3199,11 +3199,11 @@
 	"Dynasty Warriors 8 (USA)": {
 		"languages": []
 	},
-	"EA Sports Active 2 - Personal Trainer (Europe)": {
-		"languages": []
+	"EA Sports Active 2 - Personal Trainer (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"EA Sports Active 2 - Personal Trainer (USA)": {
-		"languages": []
+	"EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"EA Sports MMA (USA, Europe) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
@@ -3323,7 +3323,7 @@
 	"Elder Scrolls V, The - Skyrim (Spain)": {
 		"languages": ["Es"]
 	},
-	"Elder Scrolls V, The - Skyrim (USA, Europe)": {
+	"Elder Scrolls V, The - Skyrim (World)": {
 		"languages": ["En"]
 	},
 	"Elder Scrolls V, The - Skyrim - Legendary Edition (France) (Disque 2)": {
@@ -3564,34 +3564,28 @@
 		"languages": ["En", "Es", "Fr", "It"]
 	},
 	"F1 2010 (Japan)": {
-		"languages": ["Ja"],
-		"localName": "Ｆｏｒｍｕｌａ　１　２０１０"
+		"languages": ["Ja"]
 	},
 	"F1 2010 (Russia) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"],
-		"localName": "Formula 1 2010"
+		"languages": ["Pl", "Ru"]
 	},
 	"F1 2010 (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2011 (Brazil) (En,Es,Pt)": {
-		"languages": ["En", "Es", "Pt"],
-		"localName": "Formula 1 2011"
+		"languages": ["En", "Es", "Pt"]
 	},
 	"F1 2011 (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"],
-		"localName": "Ｆｏｒｍｕｌａ　１　２０１１"
+		"languages": ["En", "Ja"]
 	},
 	"F1 2011 (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2012 (Brazil) (En,Fr,Es,Pt)": {
-		"languages": ["En", "Es", "Fr", "Pt"],
-		"localName": "Formula 1 2012"
+		"languages": ["En", "Es", "Fr", "Pt"]
 	},
 	"F1 2012 (Russia) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"],
-		"localName": "Formula 1 2012"
+		"languages": ["Pl", "Ru"]
 	},
 	"F1 2012 (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3600,8 +3594,7 @@
 		"languages": ["En", "Pt"]
 	},
 	"F1 2013 (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"],
-		"localName": "Ｆｏｒｍｕｌａ　１　２０１３"
+		"languages": ["En", "Ja"]
 	},
 	"F1 2013 (USA, Europe) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
@@ -3613,8 +3606,7 @@
 		"languages": ["En", "Pt"]
 	},
 	"F1 2014 (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"],
-		"localName": "Ｆｏｒｍｕｌａ　１　２０１４"
+		"languages": ["En", "Ja"]
 	},
 	"F1 2014 (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3953,10 +3945,22 @@
 	"Fable II (Europe, Canada)": {
 		"languages": ["Fr"]
 	},
-	"Fable II (Germany)": {
+	"Fable II (France) (Rev 2)": {
+		"languages": ["Fr"]
+	},
+	"Fable II (Germany) (Rev 1)": {
+		"languages": ["De"]
+	},
+	"Fable II (Germany) (Rev 2)": {
 		"languages": ["De"]
 	},
 	"Fable II (Italy)": {
+		"languages": ["It"]
+	},
+	"Fable II (Italy) (Rev 1)": {
+		"languages": ["It"]
+	},
+	"Fable II (Italy) (Rev 2)": {
 		"languages": ["It"]
 	},
 	"Fable II (Japan)": {
@@ -3982,26 +3986,20 @@
 	"Fable II (Spain) (Rev 1)": {
 		"languages": ["Es"]
 	},
+	"Fable II (Spain) (Rev 2)": {
+		"languages": ["Es"]
+	},
 	"Fable II (USA, Asia) (En,Zh,Ko,Pl,Cs,Hu,Sk) (Rev 1)": {
 		"languages": ["Cs", "En", "Hu", "Ko", "Pl", "Sk", "Zh"]
 	},
 	"Fable II (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu,Sk) (Bonus Disc)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Pl", "Ru", "Sk", "Zh"]
 	},
+	"Fable II (USA, Europe) (En,Zh,Ko,Pl,Cs,Hu,Sk) (Rev 2)": {
+		"languages": ["Cs", "En", "Hu", "Ko", "Pl", "Sk", "Zh"]
+	},
 	"Fable II (World) (En,Zh,Ko,Pl,Cs,Hu,Sk)": {
 		"languages": ["Cs", "En", "Hu", "Ko", "Pl", "Sk", "Zh"]
-	},
-	"Fable II - Game of the Year Edition (Germany)": {
-		"languages": ["De"]
-	},
-	"Fable II - Game of the Year Edition (Spain)": {
-		"languages": ["Es"]
-	},
-	"Fable II - Game of the Year Edition (USA, Europe) (En,Zh,Ko,Pl,Cs,Hu,Sk)": {
-		"languages": ["Cs", "En", "Hu", "Ko", "Pl", "Sk", "Zh"]
-	},
-	"Fable II - Gioco dell'Anno (Italy)": {
-		"languages": ["It"]
 	},
 	"Fable III (France)": {
 		"languages": ["Fr"]
@@ -4161,6 +4159,12 @@
 		"languages": ["Es"]
 	},
 	"Family Feud - 2012 Edition (USA)": {
+		"languages": []
+	},
+	"Family Game Night 4 - The Game Show (Europe)": {
+		"languages": ["En"]
+	},
+	"Family Game Night 4 - The Game Show (USA)": {
 		"languages": []
 	},
 	"Family Games (USA)": {
@@ -4518,8 +4522,8 @@
 	"Full Auto (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Fuse (USA, Europe)": {
-		"languages": ["En"]
+	"Fuse (USA, Europe) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Fuzion Frenzy 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
@@ -4534,10 +4538,10 @@
 		"languages": ["Ja"],
 		"localName": "ぎゃる☆がん"
 	},
-	"Game Demos - Just for Fun! (World) (MS-2572)": {
+	"Game Demos - Just for Fun! (World) (Kinect Rush Bundle)": {
 		"languages": []
 	},
-	"Game Demos - Just for Fun! (World) (MS-2588)": {
+	"Game Demos - Just for Fun! (World) (Kinect Star Wars Bundle)": {
 		"languages": []
 	},
 	"Game Party - In Motion (USA, Europe)": {
@@ -4934,6 +4938,10 @@
 	"Halo 3 - ODST (Canada) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Campagne)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
 	},
+	"Halo 3 - ODST (Europe, Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 2) (Multiplayer)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"],
+		"localName": "ヘイロー3： ODST"
+	},
 	"Halo 3 - ODST (Europe, Australia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1) (Campaign)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
 	},
@@ -4962,9 +4970,6 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
 	},
 	"Halo 3 - ODST (USA, Brazil) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 2) (Multiplayer)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
-	},
-	"Halo 3 - ODST (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 2) (Multiplayer)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
 	},
 	"Halo 4 (Brazil) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh,Ko,Pl,Ru) (Disco 1)": {
@@ -5055,7 +5060,7 @@
 		"languages": ["Pl", "Ru"],
 		"localName": "Гарри Поттер и Дары Смерти - Часть Вторая"
 	},
-	"Harry Potter and the Deathly Hallows - Part 2 (USA) (En,Fr,De,Es,It)": {
+	"Harry Potter and the Deathly Hallows - Part 2 (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Harry Potter and the Half-Blood Prince (Europe) (En,Fr,De,Es,It,Nl,Sv,Ru)": {
@@ -5081,19 +5086,13 @@
 		"languages": []
 	},
 	"Hasbro Family Game Night (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
-	"Hasbro Family Game Night 3 (USA, Europe)": {
-		"languages": []
-	},
-	"Hasbro Family Game Night 4 - The Game Show (Europe)": {
-		"languages": []
-	},
-	"Hasbro Family Game Night 4 - The Game Show (USA)": {
-		"languages": []
+	"Hasbro Family Game Night 3 (USA, Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Hasbro Family Game Night Fun Pack (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Heavy Fire - Shattered Spear (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -5232,11 +5231,11 @@
 	"IL-2 Sturmovik - Birds of Prey (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Ice Age - Continental Drift - Arctic Games (USA)": {
+	"Ice Age - Continental Drift - Arctic Games (USA, Europe)": {
 		"languages": []
 	},
-	"Ice Age - Dawn of the Dinosaurs (USA) (En,Fr,De)": {
-		"languages": ["De", "En", "Fr"]
+	"Ice Age - Dawn of the Dinosaurs (USA, Europe) (En,Fr,De,Es,Nl,Sv)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl", "Sv"]
 	},
 	"Idolm@ster 2, The (Japan)": {
 		"languages": ["Ja"],
@@ -5553,7 +5552,7 @@
 	"Killer Is Dead (USA)": {
 		"languages": []
 	},
-	"Kinect Adventures! (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru)": {
+	"Kinect Adventures! (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"],
 		"localName": "ＫＩＮＥＣＴ　大冒險！"
 	},
@@ -5561,13 +5560,14 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"],
 		"localName": "ＫＩＮＥＣＴアドベンチャー！"
 	},
-	"Kinect Adventures! (Europe, Asia) (Rev 3)": {
-		"languages": []
+	"Kinect Adventures! (Europe, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"],
+		"localName": "ＫＩＮＥＣＴ　어드벤처!"
 	},
-	"Kinect Adventures! (USA) (Rev 2)": {
-		"languages": []
+	"Kinect Adventures! (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
-	"Kinect Adventures! (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 1)": {
+	"Kinect Adventures! (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
 	"Kinect Demo v1.3 (Europe) (Es,It,Pl,Ru)": {
@@ -5644,8 +5644,8 @@
 	"Kingdom Under Fire - Circle of Doom (World) (En,Ja,Fr,De,Es,It,Zh,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
 	},
-	"Kingdoms of Amalur - Reckoning (Japan)": {
-		"languages": [],
+	"Kingdoms of Amalur - Reckoning (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "キングダムズ　オブ　アマラー：レコニング"
 	},
 	"Kingdoms of Amalur - Reckoning (World) (En,Fr,De,Es,It)": {
@@ -5756,7 +5756,7 @@
 	"LEGO Marvel Avengers (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
 	},
-	"LEGO Marvel Super Heroes (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
+	"LEGO Marvel Super Heroes (World) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
 	},
 	"LEGO Movie, The - Videogame (USA) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru) (Rev 1)": {
@@ -5799,7 +5799,7 @@
 	"LEGO The Hobbit (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
 	},
-	"LEGO The Lord of the Rings (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
+	"LEGO The Lord of the Rings (World) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
 	},
 	"LMA Manager 2007 (Europe) (En,Fr,De,Es,It)": {
@@ -6070,7 +6070,10 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"MLB 2K13 (USA)": {
-		"languages": []
+		"languages": ["En"]
+	},
+	"MLB 2K13 (USA) (Rev 1)": {
+		"languages": ["En"]
 	},
 	"MLB Front Office Manager (USA)": {
 		"languages": []
@@ -6157,7 +6160,7 @@
 	"Madden NFL 11 (World)": {
 		"languages": ["En"]
 	},
-	"Madden NFL 12 (USA, Europe)": {
+	"Madden NFL 12 (World)": {
 		"languages": ["En"]
 	},
 	"Madden NFL 13 (USA, Europe)": {
@@ -6243,30 +6246,30 @@
 		"languages": ["En"]
 	},
 	"Major League Baseball 2K11 (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Major League Baseball 2K11 (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Major League Baseball 2K12 (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Major League Baseball 2K6 (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "メジャーリーグベースボール　２Ｋ６"
 	},
 	"Major League Baseball 2K6 (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Major League Baseball 2K6 (USA) (Rev 1)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Major League Baseball 2K7 (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "メジャーリーグベースボール　２Ｋ７"
 	},
 	"Major League Baseball 2K7 (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Major League Baseball 2K8 (Japan)": {
 		"languages": [],
@@ -6276,7 +6279,7 @@
 		"languages": []
 	},
 	"Major League Baseball 2K9 (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Mamoru-kun wa Norowarete Shimatta! (Japan)": {
 		"languages": ["Ja"],
@@ -6285,11 +6288,11 @@
 	"Man vs. Wild with Bear Grylls (USA)": {
 		"languages": []
 	},
-	"Marvel - Ultimate Alliance (USA, Europe)": {
-		"languages": ["En"]
+	"Marvel - Ultimate Alliance (USA) (En,It) (Gold Edition)": {
+		"languages": ["En", "It"]
 	},
-	"Marvel - Ultimate Alliance - Special Edition (USA)": {
-		"languages": []
+	"Marvel - Ultimate Alliance (USA, Europe) (En,It)": {
+		"languages": ["En", "It"]
 	},
 	"Marvel - Ultimate Alliance 2 (USA)": {
 		"languages": ["En"]
@@ -6309,43 +6312,43 @@
 	"Mass Effect (Europe, Canada)": {
 		"languages": ["Fr"]
 	},
-	"Mass Effect (France) (Bonus Content Disc)": {
-		"languages": ["En"]
+	"Mass Effect (France) (En,Fr,De,Es,It,Pl) (Bonus Content Disc)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
 	},
 	"Mass Effect (Germany)": {
 		"languages": ["De"]
 	},
-	"Mass Effect (Germany) (Bonus DVD)": {
-		"languages": ["En"]
+	"Mass Effect (Germany) (En,Fr,De,Es,It,Pl) (Bonus DVD)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
 	},
 	"Mass Effect (Italy)": {
 		"languages": ["It"]
 	},
-	"Mass Effect (Italy) (En,Fr,De,Es,It) (Bonus Content Disc)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Mass Effect (Italy) (En,Fr,De,Es,It,Pl) (Bonus Content Disc)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
 	},
 	"Mass Effect (Japan)": {
 		"languages": ["Ja"],
 		"localName": "マスエフェクト"
 	},
-	"Mass Effect (Japan) (En,Ja,Fr,De,Es,It,Pt,Pl) (Bonus Disc)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Pt"],
+	"Mass Effect (Japan) (En,Ja,Fr,De,Es,It,Pl) (Bonus Disc)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl"],
 		"localName": "マスエフェクト　ボーナス　ディスク"
 	},
-	"Mass Effect (USA) (En,Es) (Rev 1)": {
-		"languages": ["En", "Es"]
+	"Mass Effect (USA) (En,Es,Pl) (Rev 1)": {
+		"languages": ["En", "Es", "Pl"]
 	},
-	"Mass Effect (USA) (En,Fr,De,Es,It,Pt,Pl) (Bonus Content Disc)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt"]
+	"Mass Effect (USA) (En,Fr,De,Es,It,Pl) (Bonus Content Disc) (Pre-Order Bonus)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
 	},
-	"Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pt,Pl) (Bonus Content Disc)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt"]
+	"Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pl) (Bonus Content Disc)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
 	},
-	"Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pt,Pl) (Bonus Content Disc) (Rerelease)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt"]
+	"Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pl) (Bonus Content Disc) (Limited Collector's Edition)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
 	},
-	"Mass Effect (World) (En,Es)": {
-		"languages": ["En", "Es"]
+	"Mass Effect (World) (En,Es,Pl)": {
+		"languages": ["En", "Es", "Pl"]
 	},
 	"Mass Effect 2 (Canada) (Disque 1)": {
 		"languages": ["Fr"]
@@ -6391,17 +6394,17 @@
 	"Mass Effect 2 (USA, Europe) (En,Es) (Disc 2)": {
 		"languages": ["En", "Es"]
 	},
-	"Mass Effect 3 (France) (Disc 1)": {
-		"languages": []
+	"Mass Effect 3 (France) (En,Ja,Fr,De,Es,It,Pl,Ru) (Disc 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Ru"]
 	},
-	"Mass Effect 3 (France) (Disc 2)": {
-		"languages": []
+	"Mass Effect 3 (France) (En,Ja,Fr,De,Es,It,Pl,Ru) (Disc 2)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Ru"]
 	},
-	"Mass Effect 3 (Germany) (En,Fr,De,Es,It) (Disc 1)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Mass Effect 3 (Germany) (En,Ja,Fr,De,Es,It,Pl,Ru) (Disc 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Ru"]
 	},
-	"Mass Effect 3 (Germany) (En,Fr,De,Es,It) (Disc 2)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Mass Effect 3 (Germany) (En,Ja,Fr,De,Es,It,Pl,Ru) (Disc 2)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Ru"]
 	},
 	"Mass Effect 3 (Italy) (En,Ja,Fr,De,Es,It,Pl,Ru) (Disco 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Ru"]
@@ -6671,7 +6674,7 @@
 	"Minute to Win It (USA)": {
 		"languages": []
 	},
-	"Mirror's Edge (Europe) (En,Fr,De,Es,It,Ru)": {
+	"Mirror's Edge (Europe, Australia) (En,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
 	"Mirror's Edge (Japan)": {
@@ -6750,7 +6753,7 @@
 	"Motionsports - Play for Real (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Motionsports - Play for Real (USA, Europe) (En,Fr,De,Es,It,Nl) (Rev 1)": {
+	"Motionsports - Play for Real (World) (En,Fr,De,Es,It,Nl) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Motionsports Adrenaline (USA, Europe)": {
@@ -6925,7 +6928,7 @@
 	"NBA 2K16 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
-	"NBA 2K17 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh)": {
+	"NBA 2K17 (World) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
 	"NBA 2K18 (USA, Europe) (En,Ja,Fr,De,Es,It,Zh)": {
@@ -6964,11 +6967,11 @@
 	"NBA Ballers - Chosen One (USA, Europe)": {
 		"languages": []
 	},
-	"NBA Elite 11 (USA) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
+	"NBA Elite 11 (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"NBA Jam (USA, Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"NBA Live 06 (Asia) (En,Zh)": {
 		"languages": ["En", "Zh"],
@@ -7111,17 +7114,17 @@
 	"NHL 10 (USA)": {
 		"languages": []
 	},
-	"NHL 11 (Europe)": {
-		"languages": []
+	"NHL 11 (Europe) (En,Fr,De,Sv,Fi,Ru,Cs)": {
+		"languages": ["Cs", "De", "En", "Fi", "Fr", "Ru", "Sv"]
 	},
 	"NHL 11 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"NHL 12 (USA)": {
-		"languages": []
+	"NHL 12 (USA) (En,Fr,De,Sv,Fi,Ru,Cs)": {
+		"languages": ["Cs", "De", "En", "Fi", "Fr", "Ru", "Sv"]
 	},
-	"NHL 13 (USA, Europe)": {
-		"languages": ["En"]
+	"NHL 13 (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs)": {
+		"languages": ["Cs", "De", "En", "Fi", "Fr", "Ru", "Sv"]
 	},
 	"NHL 14 (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs)": {
 		"languages": ["Cs", "De", "En", "Fi", "Fr", "Ru", "Sv"]
@@ -7153,8 +7156,8 @@
 	"NHL 2K9 (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"NHL Legacy Edition (USA, Europe) (En,Fr,De,Ru)": {
-		"languages": ["De", "En", "Fr", "Ru"]
+	"NHL Legacy Edition (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs)": {
+		"languages": ["Cs", "De", "En", "Fi", "Fr", "Ru", "Sv"]
 	},
 	"NPPL Championship Paintball 2009 (USA)": {
 		"languages": []
@@ -7400,7 +7403,7 @@
 	"Nickelodeon Nicktoons MLB (USA)": {
 		"languages": []
 	},
-	"Nickelodeon SpongeBob HeroPants (USA)": {
+	"Nickelodeon SpongeBob HeroPants (USA, Europe)": {
 		"languages": []
 	},
 	"Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)": {
@@ -8119,8 +8122,8 @@
 	"Plants vs. Zombies (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Plants vs. Zombies - Garden Warfare (USA, Europe)": {
-		"languages": []
+	"Plants vs. Zombies - Garden Warfare (USA, Europe) (En,Ja,Fr,De,Es,It,Pt)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt"]
 	},
 	"PopCap Arcade - Tanoshisa, Ippai. Action & Puzzle 7 Pack (Japan) (Disc 1)": {
 		"languages": [],
@@ -8420,14 +8423,14 @@
 	"Rayman - Raving Rabbids (USA) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Rayman Legends (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Fi)": {
-		"languages": ["De", "En", "Es", "Fi", "Fr", "It", "Nl", "Pt"]
-	},
-	"Rayman Origins (Europe)": {
-		"languages": []
+	"Rayman Legends (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)": {
+		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Sv"]
 	},
 	"Rayman Origins (Russia) (Pl,Ru)": {
 		"languages": ["Pl", "Ru"]
+	},
+	"Rayman Origins (UK)": {
+		"languages": ["En"]
 	},
 	"Rayman Origins (USA, Europe) (En,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
@@ -8695,8 +8698,8 @@
 		"languages": ["Ja"],
 		"localName": "ルートダブル　ビフォー　クライム　アフター　デイズ"
 	},
-	"Royaumes D'Amalur, Les - Reckoning (France)": {
-		"languages": []
+	"Royaumes D'Amalur, Les - Reckoning (France) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Rugby 15 (Europe)": {
 		"languages": []
@@ -8882,7 +8885,7 @@
 	"Samurai Warriors 2 (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Samurai Warriors 2 - Empires (USA)": {
+	"Samurai Warriors 2 - Empires (USA, Europe)": {
 		"languages": []
 	},
 	"Saw (Europe)": {
@@ -9074,10 +9077,6 @@
 		"languages": ["Ja"],
 		"localName": "真・三國無双　ＭＵＬＴＩ　ＲＡＩＤ　Ｓｐｅｃｉａｌ"
 	},
-	"Shin Sangoku Musou - Multi Raid Special (Taiwan)": {
-		"languages": ["Zh"],
-		"localName": "真・三國無双　ＭＵＬＴＩ　ＲＡＩＤ　Ｓｐｅｃｉａｌ"
-	},
 	"Shin Sangoku Musou 4 - Empires (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "真・三國無双４ Ｅｍｐｉｒｅｓ"
@@ -9094,10 +9093,6 @@
 		"languages": ["Ja"],
 		"localName": "真・三國無双５"
 	},
-	"Shin Sangoku Musou 5 (Taiwan)": {
-		"languages": ["Zh"],
-		"localName": "真‧三國無雙５"
-	},
 	"Shin Sangoku Musou 5 - Empires (Japan)": {
 		"languages": ["Ja"],
 		"localName": "真・三國無双５　Ｅｍｐｉｒｅｓ"
@@ -9105,10 +9100,6 @@
 	"Shin Sangoku Musou 5 - Empires (Taiwan)": {
 		"languages": ["Zh"],
 		"localName": "真・三國無雙５　Ｅｍｐｉｒｅｓ"
-	},
-	"Shin Sangoku Musou 7 (Taiwan) (En,Zh)": {
-		"languages": ["En", "Zh"],
-		"localName": "真‧三國無雙7"
 	},
 	"Shodai Xbox Game Gokansei Update Disc - 2007-nen 7-gatsuban (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Pt", "Ru", "Zh"],
@@ -9166,7 +9157,7 @@
 	"Simpsons Game, The (USA)": {
 		"languages": ["En"]
 	},
-	"Simpsons Game, The (USA) (Beta)": {
+	"Simpsons Game, The (USA) (Beta) (2007-09-26)": {
 		"languages": []
 	},
 	"Simpsons, Die - Das Spiel (Germany)": {
@@ -9175,14 +9166,14 @@
 	"Sims 3, The (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Sims 3, The - Pets (World)": {
-		"languages": []
-	},
 	"Sims 3, The - Pets (World) (Beta) (2011-05-17)": {
 		"languages": []
 	},
 	"Sims 3, The - Pets (World) (Beta) (2011-05-31)": {
 		"languages": []
+	},
+	"Sims 3, The - Pets (World) (En,Ja,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl"]
 	},
 	"Singularity (Germany)": {
 		"languages": []
@@ -9515,7 +9506,7 @@
 	"Star Trek (USA) (En,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
-	"Star Trek - Legacy (USA) (En,De)": {
+	"Star Trek - Legacy (USA, Europe) (En,De)": {
 		"languages": ["De", "En"]
 	},
 	"Star Wars - The Clone Wars - Republic Heroes (USA) (En,Fr,De,Es,It)": {
@@ -9581,7 +9572,7 @@
 	"Street Fighter IV (World) (En,Ja,Fr,De,Es,It,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko"]
 	},
-	"Street Fighter IV - The Ties That Bind (USA) (En,Fr,De,Es,It) (Bonus Disc) (Xbox 360 Game Bundle)": {
+	"Street Fighter IV - The Ties That Bind (USA) (En,Fr,De,Es,It) (Bonus Disc)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Street Fighter X Tekken (World) (Beta) (2012-01-15)": {
@@ -10159,7 +10150,7 @@
 	"Transformers - Revenge of the Fallen (USA, Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Transformers - Rise of the Dark Spark (USA) (En,Fr,De,Es,It)": {
+	"Transformers - Rise of the Dark Spark (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Transformers - The Game (Europe) (De,It)": {
@@ -10593,7 +10584,7 @@
 	"Warriors Orochi (USA, Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Warriors Orochi 2 (USA) (En,Fr,De)": {
+	"Warriors Orochi 2 (USA, Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Warriors Orochi 3 (Europe)": {
@@ -11378,6 +11369,18 @@
 		"languages": ["Ja"],
 		"localName": "ゼーガペイン　ＸＯＲ"
 	},
+	"Zhen Sanguo Wushuang - Multi Raid Special (Taiwan)": {
+		"languages": ["Zh"],
+		"localName": "真・三國無雙　ＭＵＬＴＩ　ＲＡＩＤ　Ｓｐｅｃｉａｌ"
+	},
+	"Zhen Sanguo Wushuang 5 (Taiwan)": {
+		"languages": ["Zh"],
+		"localName": "真‧三國無雙５"
+	},
+	"Zhen Sanguo Wushuang 7 (Taiwan) (En,Zh)": {
+		"languages": ["En", "Zh"],
+		"localName": "真‧三國無雙7"
+	},
 	"Zoids Alternative (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ゾイドオルタナティブ"
@@ -11401,8 +11404,8 @@
 	"Zoo Tycoon (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru", "Sv"]
 	},
-	"Zuma's Revenge! (USA)": {
-		"languages": []
+	"Zuma's Revenge! (USA) (En,Fr,De,Es,It,Pt)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Zumba Fitness (USA)": {
 		"languages": ["En"]

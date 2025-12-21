@@ -414,6 +414,10 @@
 	"Ape Escape (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
 	},
+	"Ape Escape - On the Move! (Asia)": {
+		"languages": [],
+		"localName": "揮一揮! 捉猴啦"
+	},
 	"April 2009 IDU 2.60 (USA)": {
 		"languages": []
 	},
@@ -1139,6 +1143,9 @@
 	"Beyond - Two Souls (Brazil) (En,Es,Pt)": {
 		"languages": ["En", "Es", "Pt"]
 	},
+	"Beyond - Two Souls (Europe)": {
+		"languages": ["En"]
+	},
 	"Beyond - Two Souls (Europe) (En,Es,Pt,Ru,El)": {
 		"languages": ["El", "En", "Es", "Pt", "Ru"]
 	},
@@ -1153,9 +1160,6 @@
 	},
 	"Beyond - Two Souls (Korea) (En,Zh,Ko)": {
 		"languages": ["En", "Ko", "Zh"]
-	},
-	"Beyond - Two Souls (UK)": {
-		"languages": ["En"]
 	},
 	"Beyond - Two Souls (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -2665,8 +2669,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"De Blob 2 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "de Blob 2"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"De Blob 2 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -2939,7 +2942,7 @@
 	"Devil May Cry - HD Collection (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Devil May Cry - HD Collection (Japan) (En,Ja,Fr,De,Es,It)": {
+	"Devil May Cry - HD Collection (Japan, Asia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "デビル　メイ　クライ　ＨＤ　コレクション"
 	},
@@ -4264,12 +4267,10 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Pt", "Ru"]
 	},
 	"F1 2010 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Formula 1 2010"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2010 (Europe) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"],
-		"localName": "Formula 1 2010"
+		"languages": ["Pl", "Ru"]
 	},
 	"F1 2010 (Japan)": {
 		"languages": []
@@ -4278,27 +4279,22 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2011 (Europe, Asia) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Formula 1 2011"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2011 (Japan)": {
-		"languages": [],
-		"localName": "Ｆｏｒｍｕｌａ　１　２０１１"
+		"languages": []
 	},
 	"F1 2011 (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
 	"F1 2012 (Europe) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"],
-		"localName": "Formula 1 2012"
+		"languages": ["Pl", "Ru"]
 	},
 	"F1 2012 (Europe, Asia) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Formula 1 2012"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2012 (Japan)": {
-		"languages": [],
-		"localName": "Ｆｏｒｍｕｌａ　１　２０１２"
+		"languages": []
 	},
 	"F1 2012 (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
@@ -4306,7 +4302,7 @@
 	"F1 2013 (Brazil) (En,Pt)": {
 		"languages": ["En", "Pt"]
 	},
-	"F1 2013 (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
+	"F1 2013 (Europe, Asia) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
 	"F1 2013 (Japan)": {
@@ -4829,12 +4825,19 @@
 	"Fight Night Champion (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"Fight Night Round 3 (Asia)": {
+		"languages": ["En"]
+	},
 	"Fight Night Round 3 (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
 	"Fight Night Round 3 (Japan)": {
 		"languages": [],
 		"localName": "ファイトナイト　ラウンド３"
+	},
+	"Fight Night Round 3 (Korea)": {
+		"languages": ["En"],
+		"localName": "파이트 나이트 라운드 3"
 	},
 	"Fight Night Round 3 (USA)": {
 		"languages": ["En"]
@@ -5599,7 +5602,7 @@
 	"Guitar Hero World Tour IDU 2.43 (USA)": {
 		"languages": []
 	},
-	"Gundam Breaker (Japan)": {
+	"Gundam Breaker (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "ガンダムブレイカー"
 	},
@@ -5610,7 +5613,7 @@
 		"languages": [],
 		"localName": "ガンダムブレイカー２"
 	},
-	"Gundam Musou (Japan)": {
+	"Gundam Musou (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "ガンダム無双"
 	},
@@ -6497,7 +6500,7 @@
 		"languages": ["Ja"],
 		"localName": "けいおん！　放課後ライブ！！　ＨＤ　Ｖｅｒ．"
 	},
-	"Kagero - Darkside Princess (Japan)": {
+	"Kagero - Darkside Princess (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "影牢　～ダークサイド　プリンセス～"
 	},
@@ -6584,7 +6587,7 @@
 	"Karaoke Revolution Presents - American Idol Encore 2 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Katamari Damacy Tribute (Japan)": {
+	"Katamari Damacy Tribute (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "塊魂ＴＲＩＢＵＴＥ"
 	},
@@ -6694,7 +6697,7 @@
 	"King of Fighters XII, The (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"King of Fighters XII, The (Japan)": {
+	"King of Fighters XII, The (Japan, Asia)": {
 		"languages": [],
 		"localName": "ザ・キング・オブ・ファイターズ　ⅩⅠⅠ"
 	},
@@ -7559,7 +7562,7 @@
 	"Majin and the Forsaken Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Ru"]
 	},
-	"Majin and the Forsaken Kingdom (USA, Korea) (En,Fr,Es,Ko)": {
+	"Majin and the Forsaken Kingdom (USA, Asia) (En,Fr,Es,Ko)": {
 		"languages": ["En", "Es", "Fr", "Ko"]
 	},
 	"Majin to Ushinawareta Oukoku (Japan)": {
@@ -8065,7 +8068,7 @@
 	"Mirror's Edge (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Mist of Chaos (Japan)": {
+	"Mist of Chaos (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "ミスト　オブ　カオス"
 	},
@@ -8220,6 +8223,10 @@
 		"languages": [],
 		"localName": "モーターストーム"
 	},
+	"MotorStorm (Japan) (Beta) (2007-01-17)": {
+		"languages": [],
+		"localName": "モーターストーム"
+	},
 	"MotorStorm (Korea)": {
 		"languages": [],
 		"localName": "모터스톰"
@@ -8329,7 +8336,7 @@
 	"Murdered - Soul Suspect (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
-	"Murdered - Soul Suspect (USA, Korea) (En,Fr,Es)": {
+	"Murdered - Soul Suspect (USA, Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Murdered - Tamashii no Yobu Koe (Japan)": {
@@ -8344,7 +8351,7 @@
 		"languages": ["Zh"],
 		"localName": "無雙 Orochi 蛇魔 2 Ultimate"
 	},
-	"Musou Orochi 2 Ultimate (Japan)": {
+	"Musou Orochi 2 Ultimate (Japan, Asia)": {
 		"languages": [],
 		"localName": "無双ＯＲＯＣＨＩ２　Ｕｌｔｉｍａｔｅ"
 	},
@@ -8764,6 +8771,9 @@
 	},
 	"Naruto - Ultimate Ninja Storm (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
+	},
+	"Naruto Shippuden - Ultimate Ninja Storm 2 (Asia)": {
+		"languages": []
 	},
 	"Naruto Shippuden - Ultimate Ninja Storm 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -9584,6 +9594,9 @@
 	"PES 2014 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
+	"PES 2014 - Pro Evolution Soccer (United Arab Emirates) (En,Ar)": {
+		"languages": ["Ar", "En"]
+	},
 	"PES 2015 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Ru,El,Tr)": {
 		"languages": ["De", "El", "En", "Es", "Fr", "It", "Nl", "Pt", "Ru", "Sv", "Tr"]
 	},
@@ -9809,6 +9822,9 @@
 	},
 	"PlayStation 3 System Software Update (Version 2.0) (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
+	},
+	"PlayStation All-Stars Battle Royale (Asia)": {
+		"languages": []
 	},
 	"PlayStation All-Stars Battle Royale (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
@@ -10783,7 +10799,7 @@
 		"languages": [],
 		"localName": "龍が如く０　誓いの場所"
 	},
-	"Ryuu ga Gotoku 1 & 2 HD Edition (Japan)": {
+	"Ryuu ga Gotoku 1 & 2 HD Edition (Japan, Asia)": {
 		"languages": [],
 		"localName": "龍が如く　１＆２　ＨＤ　ＥＤＩＴＩＯＮ"
 	},
@@ -10938,7 +10954,7 @@
 	"Saint Seiya - Soldiers' Soul - Knights of the Zodiac (Europe) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
 	},
-	"Saint Seiya Senki (Japan)": {
+	"Saint Seiya Senki (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "聖闘士星矢戦記"
 	},
@@ -11169,7 +11185,7 @@
 		"languages": ["Ja"],
 		"localName": "戦国ＢＡＳＡＲＡ３"
 	},
-	"Sengoku Basara 3 - Utage (Japan)": {
+	"Sengoku Basara 3 - Utage (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "戦国ＢＡＳＡＲＡ３　宴"
 	},
@@ -11307,6 +11323,10 @@
 	"Shift 2 - Unleashed (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Shin Gundam Musou (Asia)": {
+		"languages": [],
+		"localName": "真・鋼彈無雙"
+	},
 	"Shin Gundam Musou (Japan)": {
 		"languages": [],
 		"localName": "真・ガンダム無双"
@@ -11403,7 +11423,7 @@
 		"languages": ["Ja"],
 		"localName": "真・三國無双７　Ｅｍｐｉｒｅｓ"
 	},
-	"Shin Sangoku Musou 7 - Moushouden (Japan)": {
+	"Shin Sangoku Musou 7 - Moushouden (Japan, Asia)": {
 		"languages": [],
 		"localName": "真・三國無双７　猛将伝"
 	},
@@ -11770,10 +11790,10 @@
 	"SingStar Svenska Stjaernor (Sweden) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (v02.00)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pt", "Ru", "Sv"]
 	},
-	"SingStar Take That (Europe) (Beta) (2009-08-24)": {
-		"languages": []
-	},
 	"SingStar Take That (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
+		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
+	},
+	"SingStar Take That (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru) (Beta) (2009-08-24)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"SingStar The Wiggles (Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
@@ -12520,7 +12540,7 @@
 		"languages": [],
 		"localName": "スーパーストリートファイターⅣ　アーケードエディション"
 	},
-	"Super Street Fighter IV - Arcade Edition (USA) (En,Ja,Fr,De,Es,It,Ko)": {
+	"Super Street Fighter IV - Arcade Edition (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko"]
 	},
 	"Supercar Challenge (Europe) (En,Fr,De,Es,It)": {
@@ -12896,7 +12916,7 @@
 	"Time Crisis - Razing Storm (Europe, Australia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Time Crisis - Razing Storm (USA) (En,Ja,Fr,De,Es,It)": {
+	"Time Crisis - Razing Storm (USA, Asia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Time Crisis 4 (Europe, Australia) (En,Fr,De,Es,It)": {
@@ -13128,10 +13148,10 @@
 		"languages": ["Ja"],
 		"localName": "トゥームレイダー：アンダーワールド"
 	},
-	"Tomb Raider - Underworld (USA) (En,Fr,De,Es,It,Nl) (FW2.42)": {
+	"Tomb Raider - Underworld (USA) (En,Fr,De,Es,It,Nl) (FW3.50)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Tomb Raider - Underworld (USA) (En,Fr,De,Es,It,Nl) (FW3.50)": {
+	"Tomb Raider - Underworld (USA, Asia) (En,Fr,De,Es,It,Nl) (FW2.42)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Tomb Raider Trilogy, The (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -13256,8 +13276,7 @@
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Tour de France, Le (Europe) (En,Fr,De,Es,It,Nl,Da)": {
-		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"],
-		"localName": "Le Tour de France 2011"
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Tour de France, Le - Season 2015 (Europe) (En,Fr,De,Es,It,Nl,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
@@ -14374,7 +14393,7 @@
 	"Worms Collection (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"X Edge (Japan)": {
+	"X Edge (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "クロス・エッジ"
 	},

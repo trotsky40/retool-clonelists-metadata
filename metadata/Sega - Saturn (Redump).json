@@ -189,7 +189,7 @@
 	},
 	"Angel Graffiti S - Anata e no Profile (Japan)": {
 		"languages": ["Ja"],
-		"localName": "エンジェル・グラフィティＳ　～あなたへのプロフィール～"
+		"localName": "エンジェル　グラフィティＳ　あなたへのプロフィール"
 	},
 	"Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (Japan)": {
 		"languages": ["Ja"],
@@ -409,11 +409,11 @@
 	"Baku Baku Animal - World Zookeeper Contest (USA)": {
 		"languages": ["En"]
 	},
-	"Bakuretsu Hunter (Japan) (Disc 1)": {
+	"Bakuretsu Hunter (Japan)": {
 		"languages": ["Ja"],
 		"localName": "爆れつハンター"
 	},
-	"Bakuretsu Hunter (Japan) (Disc 2) (Omake CD)": {
+	"Bakuretsu Hunter (Japan) (Omake CD)": {
 		"languages": ["Ja"],
 		"localName": "爆れつハンター"
 	},
@@ -654,7 +654,7 @@
 	},
 	"BrainDead 13 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ブレイン・デッド１３"
+		"localName": "ブレインデッド１３"
 	},
 	"BrainDead 13 (USA)": {
 		"languages": []
@@ -1764,7 +1764,7 @@
 	},
 	"Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan)": {
 		"languages": ["Ja"],
-		"localName": "首都高バトル’９７"
+		"localName": "首都高バトル＇９７"
 	},
 	"Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) (Demo)": {
 		"languages": ["Ja"],
@@ -2085,11 +2085,11 @@
 	},
 	"Falcom Classics (Japan) (Disc 1) (Game Disc)": {
 		"languages": ["Ja"],
-		"localName": "ファルコム・クラシックス"
+		"localName": "ファルコム　クラシックス"
 	},
 	"Falcom Classics (Japan) (Disc 2) (Special CD)": {
 		"languages": ["Ja"],
-		"localName": "ファルコム・クラシックス"
+		"localName": "ファルコム　クラシックス"
 	},
 	"Falcom Classics II (Japan)": {
 		"languages": ["Ja"],
@@ -3168,7 +3168,7 @@
 	},
 	"Idol Mahjong - Final Romance 2 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "アイドル麻雀　ファイナル・ロマンス２"
+		"localName": "アイドル麻雀　ファイナルロマンス２"
 	},
 	"Idol Mahjong - Final Romance 4 (Japan)": {
 		"languages": ["Ja"],
@@ -3245,6 +3245,10 @@
 		"languages": ["En"]
 	},
 	"Ishin no Arashi (Japan)": {
+		"languages": ["Ja"],
+		"localName": "維新の嵐"
+	},
+	"Ishin no Arashi (Japan) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "維新の嵐"
 	},
@@ -4855,7 +4859,7 @@
 		"languages": ["De"]
 	},
 	"Olympic Soccer (Japan)": {
-		"languages": ["Ja"],
+		"languages": ["En"],
 		"localName": "オリンピックサッカー"
 	},
 	"Olympic Soccer (USA)": {
@@ -5147,7 +5151,7 @@
 	},
 	"Pocket Fighter (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ポケット・ファイター"
+		"localName": "ポケットファイター"
 	},
 	"Policenauts (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -5518,35 +5522,35 @@
 	},
 	"Real Sound - Kaze no Regret (Japan) (Disc 1) (2M, 3M)": {
 		"languages": ["Ja"],
-		"localName": "リアル・サウンド　～風のリグレット～"
+		"localName": "リアルサウンド　～風のリグレット～"
 	},
 	"Real Sound - Kaze no Regret (Japan) (Disc 1) (4M)": {
 		"languages": ["Ja"],
-		"localName": "リアル・サウンド　～風のリグレット～"
+		"localName": "リアルサウンド　～風のリグレット～"
 	},
 	"Real Sound - Kaze no Regret (Japan) (Disc 2) (1M)": {
 		"languages": ["Ja"],
-		"localName": "リアル・サウンド　～風のリグレット～"
+		"localName": "リアルサウンド　～風のリグレット～"
 	},
 	"Real Sound - Kaze no Regret (Japan) (Disc 2) (2M)": {
 		"languages": ["Ja"],
-		"localName": "リアル・サウンド　～風のリグレット～"
+		"localName": "リアルサウンド　～風のリグレット～"
 	},
 	"Real Sound - Kaze no Regret (Japan) (Disc 3) (1M)": {
 		"languages": ["Ja"],
-		"localName": "リアル・サウンド　～風のリグレット～"
+		"localName": "リアルサウンド　～風のリグレット～"
 	},
 	"Real Sound - Kaze no Regret (Japan) (Disc 3) (2M)": {
 		"languages": ["Ja"],
-		"localName": "リアル・サウンド　～風のリグレット～"
+		"localName": "リアルサウンド　～風のリグレット～"
 	},
 	"Real Sound - Kaze no Regret (Japan) (Disc 4) (2M)": {
 		"languages": ["Ja"],
-		"localName": "リアル・サウンド　～風のリグレット～"
+		"localName": "リアルサウンド　～風のリグレット～"
 	},
 	"Real Sound - Kaze no Regret (Japan) (Disc 4) (3M)": {
 		"languages": ["Ja"],
-		"localName": "リアル・サウンド　～風のリグレット～"
+		"localName": "リアルサウンド　～風のリグレット～"
 	},
 	"Refrain Love - Anata ni Aitai (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -5892,6 +5896,10 @@
 		"languages": ["Ja"],
 		"localName": "サクラ大戦２　～君、死にたもうことなかれ～"
 	},
+	"Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban) (1M)": {
+		"languages": ["Ja"],
+		"localName": "サクラ大戦２　～君、死にたもうことなかれ～"
+	},
 	"Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban) (2M)": {
 		"languages": ["Ja"],
 		"localName": "サクラ大戦２　～君、死にたもうことなかれ～"
@@ -6145,7 +6153,7 @@
 	},
 	"Sega Ages - Power Drift (Japan)": {
 		"languages": ["Ja"],
-		"localName": "セガエイジス　パワー・ドリフト"
+		"localName": "セガエイジス　パワードリフト"
 	},
 	"Sega Ages - Rouka ni Ichidanto R (Japan)": {
 		"languages": ["Ja"],
@@ -7516,11 +7524,11 @@
 	},
 	"Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localName": "天外魔境　第四の黙示録"
+		"localName": "天外魔境　第四の黙示録　Ｔｈｅ　Ａｐｏｃａｌｙｐｓｅ　Ⅳ"
 	},
 	"Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localName": "天外魔境　第四の黙示録"
+		"localName": "天外魔境　第四の黙示録　Ｔｈｅ　Ａｐｏｃａｌｙｐｓｅ　Ⅳ"
 	},
 	"Tennis Arena (Japan)": {
 		"languages": ["En"],
@@ -7657,15 +7665,15 @@
 	},
 	"Tokimeki Memorial - Forever with You (Japan) (1M)": {
 		"languages": ["Ja"],
-		"localName": "ときめきメモリアル　－ｆｏｒｅｖｅｒ　ｗｉｔｈ　ｙｏｕ－"
+		"localName": "ときめき　メモリアル　～ｆｏｒｅｖｅｒ　ｗｉｔｈ　ｙｏｕ～"
 	},
 	"Tokimeki Memorial - Forever with You (Japan) (2M)": {
 		"languages": ["Ja"],
-		"localName": "ときめきメモリアル　－ｆｏｒｅｖｅｒ　ｗｉｔｈ　ｙｏｕ－"
+		"localName": "ときめき　メモリアル　～ｆｏｒｅｖｅｒ　ｗｉｔｈ　ｙｏｕ～"
 	},
 	"Tokimeki Memorial - Forever with You (Japan) (Special-ban) (2M)": {
 		"languages": ["Ja"],
-		"localName": "ときめきメモリアル　－ｆｏｒｅｖｅｒ　ｗｉｔｈ　ｙｏｕ－"
+		"localName": "ときめき　メモリアル　～ｆｏｒｅｖｅｒ　ｗｉｔｈ　ｙｏｕ～"
 	},
 	"Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan)": {
 		"languages": ["Ja"],
@@ -7915,7 +7923,7 @@
 	},
 	"Vampire Savior - The Lord of Vampire (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ヴァンパイア・セイヴァー"
+		"localName": "ヴァンパイア　セイヴァー"
 	},
 	"Vampire Savior - The Lord of Vampire (Japan) (Demo)": {
 		"languages": ["Ja"]
@@ -8520,7 +8528,7 @@
 	},
 	"Wizard's Harmony (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ウィザーズ・ハーモニー"
+		"localName": "ウィザーズハーモニー"
 	},
 	"Wizard's Harmony 2 (Japan) (1M)": {
 		"languages": ["Ja"],
@@ -8806,7 +8814,7 @@
 	},
 	"Zero4 Champ DooZy-J Type-R (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ゼロヨン・チャンプ　ドゥーヅィージェイ　タイプ−アール"
+		"localName": "ゼロヨンチャンプ　ドゥーヅィージェイ　タイプ−アール"
 	},
 	"Zoku Gussun Oyoyo (Japan) (2M)": {
 		"languages": ["Ja"],
