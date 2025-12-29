@@ -185,6 +185,10 @@
             "sha1": "f7caf06e263578d78a435152dc2d9d1cc3322a5f"
         },
         {
+            "name": "Garou - Mark of the Wolves (Japan)",
+            "sha1": "b7c5b34925870f2a171e8a65cd028a9428af37b5"
+        },
+        {
             "name": "Gauntlet Legends (USA)",
             "sha1": "946edea9196f8acf3938a819712b98e1d29abd24"
         },
@@ -553,8 +557,8 @@
         {
             "name": "Skies of Arcadia (Europe) (Ru) (v6.0) (Vector)",
             "crc": "b07ea2b0",
-            "md5": "db0787179cf68f5861a6a573b13f5316065e952a",
-            "sha1": "6886becb2fe0dfeeb92aa47378c9239b"
+            "md5": "6886becb2fe0dfeeb92aa47378c9239b",
+            "sha1": "db0787179cf68f5861a6a573b13f5316065e952a"
         },
         {
             "name": "Sonic Adventure (Subset - Chao Garden)",

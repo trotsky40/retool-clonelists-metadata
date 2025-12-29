@@ -147,6 +147,10 @@
             "sha1": "a378ffc94f3c27623350e03f500fd75dbb538289"
         },
         {
+            "name": "Bomberman (USA) (PSP) (PSN)",
+            "sha1": "3604230831c1b6b6a338b08ebbd30f8cdb678e4b"
+        },
+        {
             "name": "Brandish - The Dark Revenant (USA) (PSP) (PSN)",
             "sha1": "f0e867f5e527fd4a61cff9730fe65c9c852bb9ad"
         },
@@ -413,6 +417,14 @@
         {
             "name": "Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Subset - NG Nightmare)",
             "sha1": "d7b4e0f7d5dc804478e5be83d7bc4c43f4ff73c1"
+        },
+        {
+            "name": "Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (Geofront Port) (WanderingHeiho)",
+            "sha1": "5bdb41ccbc0758f06e7179617fc22e107151bc79"
+        },
+        {
+            "name": "Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (Subset - NG Nightmare)",
+            "sha1": "15860be8b479b65ffa65bdb4801194c2fbc02384"
         },
         {
             "name": "Elder Scrolls Travels, The - Oblivion (USA) (Proto) (2007-02-01)",
@@ -755,6 +767,14 @@
         {
             "name": "I Must Run! (USA) (minis) (PSN)",
             "sha1": "8df4ad4656a379911d19cb1ebc40aa841bb3400d"
+        },
+        {
+            "name": "Idolmaster Shiny Festa, The - Funky Note (Japan)",
+            "sha1": "d3f997350b78fdf8888492f373f48ca89bb6e2b2"
+        },
+        {
+            "name": "Idolmaster Shiny Festa, The - Honey Sound (Japan)",
+            "sha1": "0ec73b450b3acbee95a27de69c965717fcc753d0"
         },
         {
             "name": "Impossible Game, The (Europe) (minis) (PSN)",
@@ -1315,6 +1335,14 @@
         {
             "name": "Sneezies (Europe) (minis) (PSN)",
             "sha1": "24c7a499a60cd41f27b9f9e1eb5c7244273e6967"
+        },
+        {
+            "name": "Snowy - The Bear's Adventures (Europe) (minis) (PSN)",
+            "sha1": "230f943b95244fc0bfc6e0515da3accbc49615be"
+        },
+        {
+            "name": "Snowy - The Bear's Adventures (USA) (minis) (PSN)",
+            "sha1": "a33eebcc792b1a74f11336b04e03c382f7bc9f32"
         },
         {
             "name": "Sonic Rivals (Europe) (En,Fr,De,Es,It)",

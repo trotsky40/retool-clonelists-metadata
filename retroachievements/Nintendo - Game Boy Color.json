@@ -2659,12 +2659,6 @@
             "sha1": "d3bea58987c9904056587242bf3ad26f91b4ef34"
         },
         {
-            "name": "Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz)",
-            "crc": "c459ff56",
-            "md5": "e1ed3ef70534299d4f1be45eb1b9b360",
-            "sha1": "e24c24812cb7ca5af0dfdd11dcbec82a0459c433"
-        },
-        {
             "name": "Star Ocean - Blue Sphere (Japan) (En) (v1.0a) (4l3j4ndr0)",
             "crc": "19d2fc31",
             "md5": "70bcee3fd3813fe23646e0c79fd0e0f5",
@@ -2921,6 +2915,12 @@
             "crc": "2c27c61f",
             "md5": "0454b25266d645990b63b5b406672dc2",
             "sha1": "300fe89f98711853bee86ccd81481d55b5097b2d"
+        },
+        {
+            "name": "Tootuff (Europe) (En,Fr,De,Es,It,Nl)",
+            "crc": "1972cbf7",
+            "md5": "4639d79e2e02a687a44d19d9c9c3c28a",
+            "sha1": "e38c16213c6bb0c1511ade138e3e8eeabd7b8898"
         },
         {
             "name": "Top Gear Pocket 2 (Japan) (Rumble Version)",

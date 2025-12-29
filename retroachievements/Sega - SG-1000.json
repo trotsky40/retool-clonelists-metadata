@@ -647,6 +647,12 @@
             "crc": "bcf441a5",
             "md5": "16856425e0bcc3ab475f46f7cfd00402",
             "sha1": "f6926d0c3c654a038cd5eec9aaa6876bce86fdaa"
+        },
+        {
+            "name": "Zoom 909 (Japan)",
+            "crc": "093830d8",
+            "md5": "4e457a6c5b4b613f2aac3472f6827a89",
+            "sha1": "09552aaa7140f9fc780b5f7d541478b534320075"
         }
     ]
 }

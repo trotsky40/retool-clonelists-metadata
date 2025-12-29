@@ -583,6 +583,12 @@
             "sha1": "89c39f00745f2a8798fe985ad8ce28411b977f9e"
         },
         {
+            "name": "Bugs Bunny in Double Trouble (USA)",
+            "crc": "365305a2",
+            "md5": "3d6dc43a998301c6a9ed2fc1a7e8db40",
+            "sha1": "50b18d9f9935a46854641c9cfc5b3d3b230edd5e"
+        },
+        {
             "name": "Burning Force (USA)",
             "crc": "bdc8f02c",
             "md5": "da536d20ac0f0e3a62d9709078690032",
@@ -913,6 +919,12 @@
             "sha1": "353f7d136a2c464ee976402b4620b0a42b8b7267"
         },
         {
+            "name": "Cyberball (World)",
+            "crc": "76120e96",
+            "md5": "e19be4bcb50e4908c5b9af3bd69caa39",
+            "sha1": "4e459751ced8956326602c581b8b169f8e716545"
+        },
+        {
             "name": "Cyborg Justice (USA, Europe)",
             "crc": "ab0d1269",
             "md5": "d2d8c19c67e14a0d509a454bd880bbdd",
@@ -929,6 +941,12 @@
             "crc": "dc9f02db",
             "md5": "6aef0333e2b1a495c867577ccf037493",
             "sha1": "981f0eeffa28210cc55702413305244aaf36d71c"
+        },
+        {
+            "name": "Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",
+            "crc": "1fdc66b0",
+            "md5": "ad08cffbc0c443086dff8ab4414f18c3",
+            "sha1": "67cc61b724d4ccb94dc2b59cc8ea1b0eb9a8cf4e"
         },
         {
             "name": "Dahna - Megami Tanjou (Japan)",
@@ -1309,6 +1327,12 @@
             "sha1": "fd47e4f8c2d6cc82860ae281faad50e3dee2d033"
         },
         {
+            "name": "Eliminate Down (Japan)",
+            "crc": "48467542",
+            "md5": "06aa841b8773de52cd7ccc9d4f907468",
+            "sha1": "53b418bde065011e161e703dd7c175aa48a04fe5"
+        },
+        {
             "name": "Eternal Champions (USA)",
             "crc": "48f1a42e",
             "md5": "bde8b2396241aa27463ca875e604b8d3",
@@ -1397,6 +1421,12 @@
             "crc": "731fa4a1",
             "md5": "0cbb16c044d7c8e7366d954b5e844d1a",
             "sha1": "e891e5c89fa13e3f9813d5a45feeed0cb7710acb"
+        },
+        {
+            "name": "Fire Mustang (Japan)",
+            "crc": "eb7e36c3",
+            "md5": "93bf1aeebf5ab3c1a6ff204208d4518b",
+            "sha1": "6daa07738b8f62659f2a3be01d3adc8557b879c5"
         },
         {
             "name": "Fire Shark (USA)",
@@ -1655,6 +1685,18 @@
             "crc": "2c9a4f65",
             "md5": "17ae73b8bd1f9bbf2413b15deff83c01",
             "sha1": "40642275cae3fd9d3e7cc7e78f2067c0947c5cca"
+        },
+        {
+            "name": "Gouketsuji Ichizoku (Japan)",
+            "crc": "abe9c415",
+            "md5": "18ff626a183c188f789d71f17dd739d5",
+            "sha1": "db6b2046e8b6373f141e8c5db68450f2db377dd8"
+        },
+        {
+            "name": "Gouketsuji Ichizoku (Japan) (Color Hack) (v1.0) (Dolsilwa)",
+            "crc": "019b11f2",
+            "md5": "bfa46f13c36688373e504584a3a8d09e",
+            "sha1": "debdd3193dd67a233698fbf9ddc47692ddea46bd"
         },
         {
             "name": "Granada (Japan, USA) (En)",
@@ -4009,18 +4051,6 @@
             "sha1": "25080255c86af08db67ebdcb4c3cbf91f3aa8533"
         },
         {
-            "name": "Sonic 1 - Metal Sonic Hyperdrive (v2.0) (LoneDevil) (Hack)",
-            "crc": "e3648f29",
-            "md5": "c8d561b39ec6e48976f15e07d4284e74",
-            "sha1": "e0d4c116f07bd2cf30732e9cd9bb09c091f24023"
-        },
-        {
-            "name": "Sonic 1 - Metal Sonic Hyperdrive (v4.1) (LoneDevil) (Hack)",
-            "crc": "ec55a939",
-            "md5": "e1c6af705103ae61998dcf7b01e52159",
-            "sha1": "3695b2b275be8e4c6ad799722919d03d91dc4d2c"
-        },
-        {
             "name": "Sonic 1 - Mobius Evolution (Abyssal Leopard) (Hack)",
             "crc": "f2a974f4",
             "md5": "3ed411311889a793ef00b6862633e2a1",
@@ -4115,6 +4145,12 @@
             "crc": "f8294d70",
             "md5": "e83e387387bba16afd576001a0861aed",
             "sha1": "69ae8a8a3831b762b5e1f7a0ef49a9489f4c4d4e"
+        },
+        {
+            "name": "Sonic 1 - Yeth (Release 3) (Banoon) (Hack)",
+            "crc": "b031680a",
+            "md5": "7e2639e6608c709d32f337ff38846686",
+            "sha1": "a00d401d273cb567eeb98ff7740fb47968acb9fe"
         },
         {
             "name": "Sonic 2 - Amy Rose in Sonic the Hedgehog 2 (v1.7) (E-122-Psi) (Hack)",

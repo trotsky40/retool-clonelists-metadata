@@ -157,6 +157,12 @@
             "sha1": "68b052b56137ed9fec41223c1012daa1ab626fb2"
         },
         {
+            "name": "Advanced Dungeons & Dragons - DragonStrike (USA)",
+            "crc": "af14702d",
+            "md5": "0cb2acfd3b7d6c8daab5bc25fd6714fe",
+            "sha1": "3080e471a96dd362ebd30778e438086284776706"
+        },
+        {
             "name": "Advanced Dungeons & Dragons - Hillsfar (USA)",
             "crc": "127e8c11",
             "md5": "b4af1b68fefb05b30d8f3552c55001cb",
@@ -7135,18 +7141,6 @@
             "sha1": "001b2772e2f6a060015743cd98365abe3f62f795"
         },
         {
-            "name": "Micro Machines (USA) (Aladdin Compact Cartridge) (Pl) (Unl)",
-            "crc": "d6193b76",
-            "md5": "0cd908ba7381560c773e63093ef73a9d",
-            "sha1": "1ed57400fb3d99b7e6cd36b5ec0542110877c5f6"
-        },
-        {
-            "name": "Micro Machines (USA) (Aladdin Compact Cartridge) (Unl)",
-            "crc": "c91b11dc",
-            "md5": "3f3bc88b26c46f45b31928f51f458ce7",
-            "sha1": "2b435acb07cee52a520eda9d57935e5824e92dc1"
-        },
-        {
             "name": "Micro Machines (USA) (Unl)",
             "crc": "2d39fd7b",
             "md5": "a445dc768c74834a163cfdddf2be6890",
@@ -9259,6 +9253,12 @@
             "sha1": "8d391be262a6586e90e89c646c380cce84fa47c8"
         },
         {
+            "name": "SMB1 - Final Strikyu (v1.0) (DASTARD) (Hack)",
+            "crc": "6bf03ab6",
+            "md5": "a4842dee7e70d16eccd15e3b5430d38c",
+            "sha1": "c897131e79e8f2c2ca830ca46113f9ed29dc8b7a"
+        },
+        {
             "name": "SMB1 - Letty9 (v1.0) (DASTARD) (Hack)",
             "crc": "98f951b3",
             "md5": "761f698d8cced4abdcd24cccc4f83647",
@@ -9293,6 +9293,12 @@
             "crc": "3800de83",
             "md5": "54783483ffc95192e517eb41aeda9845",
             "sha1": "5948159fec36b5c1ea310f79fd166cb094ea7646"
+        },
+        {
+            "name": "SMB1 - Super Ale Bros. Redux (v1.0c) (AleFunky) (Hack)",
+            "crc": "c4350e51",
+            "md5": "e4d6b418755754782779edbe293280b8",
+            "sha1": "b668b3b2b30fe7e0370a8c50b772e569a50c2529"
         },
         {
             "name": "SMB1 - Super Diego Bros. 1 (v1.3) (JonnyManjiro) (Hack)",
@@ -9341,6 +9347,12 @@
             "crc": "c099052c",
             "md5": "de1655b227713cd67a81e31904a00b64",
             "sha1": "95a27bc76c107d233b167674a6bb94b449a933ce"
+        },
+        {
+            "name": "SMB1 - Virtual Boy Mario (v1.1.1) (Green Jerry) (Hack)",
+            "crc": "85fc41c2",
+            "md5": "c3564c3434b7f473cb31622b067a933c",
+            "sha1": "aea4aebafaddfb48dcdca621c7b3a2b2b233a717"
         },
         {
             "name": "SMB2 - Beatles, The - Adventures in Pepperland (v1.2) (NesDraug) (Hack)",
@@ -9509,6 +9521,12 @@
             "crc": "1d73fa9a",
             "md5": "afacac2a010fc69124a4c043a48fdb47",
             "sha1": "219cfc1ddc931f03e5289bf704fed7c6a3af6a92"
+        },
+        {
+            "name": "Sesame Street - 123 (USA)",
+            "crc": "7f72fd74",
+            "md5": "a60555b4d0eaf3f4c68f45afb644028c",
+            "sha1": "0a80e8f913145ff9f8cd877a644c07548024a7f3"
         },
         {
             "name": "Sesame Street - Big Bird's Hide & Speak (USA)",
@@ -9965,6 +9983,18 @@
             "crc": "e3bb8ed1",
             "md5": "4ff59739cb14f70a0cf4fe69f7dbae90",
             "sha1": "21c641914ab54a0a50792b6da77e7e51deafce36"
+        },
+        {
+            "name": "Spelunker II - Yuusha e no Chousen (Japan)",
+            "crc": "67b12eb4",
+            "md5": "e6f3debd3638beba235c0e68fc82663d",
+            "sha1": "622c57e2354599adb0b070600468364a32886488"
+        },
+        {
+            "name": "Spelunker II - Yuusha e no Chousen (Japan) (En) (v1.01b) (Cabal Translations)",
+            "crc": "872a3111",
+            "md5": "87b44a3a0ca9b5c6d2d9251e6fda3328",
+            "sha1": "bdda57d280a5952e1114359291cf3b40bba406a6"
         },
         {
             "name": "Spider-Man - Return of the Sinister Six (USA)",
@@ -10541,6 +10571,12 @@
             "crc": "7c34c910",
             "md5": "211dcc5024df960433f204cc00a5b288",
             "sha1": "e0b312e4ffae1700339f2f9b3954654596b29201"
+        },
+        {
+            "name": "Target - Renegade (USA)",
+            "crc": "6f2d5e04",
+            "md5": "772a08465bd10363e7d23e9344da5718",
+            "sha1": "257d4a88c03ea3ed373c7e188cdae981a26ed00b"
         },
         {
             "name": "Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)",
@@ -11591,12 +11627,6 @@
             "crc": "8e7f174e",
             "md5": "0f4ec45a2e1989dae2c852dae8acc472",
             "sha1": "ceb24c9f023864488c0057ac9b827c19a5e16799"
-        },
-        {
-            "name": "Yousei Monogatari - Rod Land (Japan)",
-            "crc": "aa6479fd",
-            "md5": "2bc1c371780210733471eff3c04b20ca",
-            "sha1": "5c2977be8206a7abcec0f81ec15cd2d71896502b"
         },
         {
             "name": "Ys (Japan)",
