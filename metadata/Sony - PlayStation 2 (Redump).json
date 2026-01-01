@@ -659,6 +659,9 @@
 	"Action Replay Ultimate Cheats for True Crime - Streets of LA (UK) (Unl)": {
 		"languages": []
 	},
+	"Action Replay Ultimate Cheats for Use with Driver 3 (UK)": {
+		"languages": ["En"]
+	},
 	"Action Replay Ultimate Cheats for Use with Final Fantasy X-2 (UK) (Unl)": {
 		"languages": ["En"]
 	},
@@ -3858,23 +3861,14 @@
 	"CART Fury - Championship Racing (USA)": {
 		"languages": ["En"]
 	},
-	"CD avec les Codes Exclusifs et inedits de Grand Theft Auto - Vice City (France) (Unl)": {
-		"languages": ["Fr"]
-	},
-	"CD avec les Codes Exclusifs et inedits de Harry Potter et la Chambre des Secrets (France) (Unl)": {
-		"languages": []
-	},
-	"CD avec les Codes Exclusifs et inedits de le Seigneur des Anneaux - Les Deux Tours (France) (Unl)": {
-		"languages": []
-	},
-	"CD avec les codes Action Replay exclusivement pour le Jeu Gran Turismo 4 (France) (Unl)": {
-		"languages": []
-	},
 	"CD avec les codes Action Replay exclusivement pour le jeu Driver 3 (France) (Unl)": {
 		"languages": ["Fr"]
 	},
 	"CD avec les codes Action Replay exclusivement pour le jeu Enter the Matrix (France) (Unl)": {
 		"languages": ["Fr"]
+	},
+	"CD avec les codes Action Replay exclusivement pour le jeu Gran Turismo 4 (France) (Unl)": {
+		"languages": []
 	},
 	"CD avec les codes Action Replay exclusivement pour le jeu Grand Theft Auto - San Andreas (France) (Unl)": {
 		"languages": []
@@ -3896,6 +3890,15 @@
 	},
 	"CD avec les codes exclusifs et inedits de Dragon Ball Z - Budokai (France) (Unl)": {
 		"languages": ["Fr"]
+	},
+	"CD avec les codes exclusifs et inedits de Grand Theft Auto - Vice City (France) (Unl)": {
+		"languages": ["Fr"]
+	},
+	"CD avec les codes exclusifs et inedits de Harry Potter et la Chambre des Secrets (France) (Unl)": {
+		"languages": []
+	},
+	"CD avec les codes exclusifs et inedits de le Seigneur des Anneaux - Les Deux Tours (France) (Unl)": {
+		"languages": []
 	},
 	"CID the Dummy (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4326,10 +4329,10 @@
 	"Champions of Norrath (USA)": {
 		"languages": ["En"]
 	},
-	"Champions of Norrath - Realms of EverQuest (USA) (Demo)": {
+	"Champions of Norrath - Realms of EverQuest (USA) (Beta) (2003-10-29)": {
 		"languages": ["En"]
 	},
-	"Champions of Norrath - Realms of Everquest (USA) (Beta) (2003-10-29)": {
+	"Champions of Norrath - Realms of EverQuest (USA) (Demo)": {
 		"languages": ["En"]
 	},
 	"Championship Manager 2006 (Europe) (En,Fr,Es,It,Pt)": {
@@ -7917,14 +7920,14 @@
 	"DreamWorks & Aardman Flushed Away (USA) (Demo)": {
 		"languages": ["En"]
 	},
+	"DreamWorks Bee Movie Game (Canada) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
 	"DreamWorks Bee Movie Game (Europe, Australia) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"DreamWorks Bee Movie Game (USA)": {
 		"languages": ["En"]
-	},
-	"DreamWorks Bee Movie Game (USA, Canada) (En,Fr)": {
-		"languages": ["En", "Fr"]
 	},
 	"DreamWorks Kung Fu Panda (Europe) (De,Es)": {
 		"languages": ["De", "Es"]
@@ -9905,8 +9908,11 @@
 	"Fast and the Furious, The (Europe)": {
 		"languages": ["En"]
 	},
-	"Fast and the Furious, The (USA)": {
+	"Fast and the Furious, The (USA) (v1.01)": {
 		"languages": ["En"]
+	},
+	"Fast and the Furious, The (USA) (v3.00)": {
+		"languages": []
 	},
 	"Fatal Frame (Asia)": {
 		"languages": ["En"]
@@ -12459,6 +12465,9 @@
 		"languages": ["En"]
 	},
 	"Grand Theft Auto - San Andreas (USA) (v3.00)": {
+		"languages": ["En"]
+	},
+	"Grand Theft Auto - San Andreas (USA) (v3.00) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Grand Theft Auto - Vice City (Australia)": {
@@ -19781,6 +19790,9 @@
 	"Mercenaries 2 - Inferno di Fuoco (Italy)": {
 		"languages": ["It"]
 	},
+	"Mercenaries 2 - L'enfer des Favelas (Canada)": {
+		"languages": ["Fr"]
+	},
 	"Mercenaries 2 - L'enfer des Favelas (France)": {
 		"languages": ["Fr"]
 	},
@@ -22130,10 +22142,10 @@
 	"Need for Speed - ProStreet (Russia)": {
 		"languages": ["Ru"]
 	},
-	"Need for Speed - ProStreet (USA)": {
+	"Need for Speed - ProStreet (USA) (Beta) (2007-10-04)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - ProStreet (USA) (Beta) (2007-10-04)": {
+	"Need for Speed - ProStreet (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Undercover (Europe) (En,Nl,Pl,Ru,Cs,Hu)": {
@@ -24906,7 +24918,11 @@
 		"languages": ["Ja"],
 		"localName": "パチパラ１３　～スーパー海とパチプロ風雲録～"
 	},
-	"Pachi Para 14 - Kaze to Kumo to Super Umi in Okinawa (Japan)": {
+	"Pachi Para 14 - Kaze to Kumo to Super Umi in Okinawa (Japan) (v1.02)": {
+		"languages": ["Ja"],
+		"localName": "パチパラ１４　～風と雲とスーパー海ＩＮ沖縄～"
+	},
+	"Pachi Para 14 - Kaze to Kumo to Super Umi in Okinawa (Japan) (v2.00)": {
 		"languages": ["Ja"],
 		"localName": "パチパラ１４　～風と雲とスーパー海ＩＮ沖縄～"
 	},
@@ -25618,7 +25634,13 @@
 	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (NTT-BB)": {
 		"languages": ["Ja"]
 	},
+	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (OCN)": {
+		"languages": ["Ja"]
+	},
 	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (So-net)": {
+		"languages": ["Ja"]
+	},
+	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (Yahoo! BB)": {
 		"languages": ["Ja"]
 	},
 	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (isao.net)": {
@@ -29276,6 +29298,9 @@
 	"Sega Bass Fishing Duel (USA)": {
 		"languages": ["En"]
 	},
+	"Sega Classics Collection (Europe) (Beta) (2005-06-29)": {
+		"languages": []
+	},
 	"Sega Classics Collection (Europe, Australia)": {
 		"languages": ["En"]
 	},
@@ -32425,6 +32450,9 @@
 	"Sonic Riders - Zero Gravity (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Sonic Riders - Zero Gravity (USA) (Beta) (2007-09-01)": {
+		"languages": []
+	},
 	"Sonic Riders - Zero Gravity (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
@@ -33392,7 +33420,7 @@
 	"Stolen (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Strawberry Panic! (Japan)": {
+	"Strawberry Panic! (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "ストロベリー・パニック！"
 	},
@@ -37098,10 +37126,10 @@
 	"V-Rally 3 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It) (v1.02)": {
+	"V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It) (v2.00)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It) (v2.00)": {
+	"V-Rally 3 (Japan, Asia) (En,Ja,Fr,De,Es,It) (v1.02)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"V-Rally 3 (USA)": {

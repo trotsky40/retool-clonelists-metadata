@@ -741,10 +741,10 @@
 	"Butt-Ugly Martians - Zoom or Doom! (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"CD avec les Codes Exclusifs et inedits pour le Jeu Metroid Prime (France) (Unl)": {
+	"CD avec les codes Action Replay exclusivement pour le jeu The Legend of Zelda - The Wind Waker (France) (Unl)": {
 		"languages": ["Fr"]
 	},
-	"CD avec les codes Action Replay exclusivement pour le jeu The Legend of Zelda - The Wind Waker (France) (Unl)": {
+	"CD avec les codes exclusifs et inedits pour le jeu Metroid Prime (France) (Unl)": {
 		"languages": ["Fr"]
 	},
 	"CD exclusif avec les codes pour les jeux Resident Evil et Resident Evil Zero (France) (Unl)": {
@@ -849,7 +849,7 @@
 		"languages": ["Ja"],
 		"localName": "チャリンコヒーロー"
 	},
-	"Charlie and the Chocolate Factory (Europe) (En,Fr,Es,Nl)": {
+	"Charlie and the Chocolate Factory (Europe, Australia) (En,Fr,Es,Nl)": {
 		"languages": ["En", "Es", "Fr", "Nl"]
 	},
 	"Charlie and the Chocolate Factory (USA)": {
@@ -2997,11 +2997,11 @@
 		"languages": ["Ja"],
 		"localName": "ＫＡＲＡＴ　（ＧＣ用）　プロアクションリプレイ　ＰＡＲ　（ＧＣ用）"
 	},
-	"Kelly Slater's Pro Surfer (Europe)": {
-		"languages": ["En"]
-	},
 	"Kelly Slater's Pro Surfer (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Kelly Slater's Pro Surfer (Europe, Australia)": {
+		"languages": ["En"]
 	},
 	"Kelly Slater's Pro Surfer (USA)": {
 		"languages": ["En"]
@@ -3370,7 +3370,7 @@
 		"languages": ["Ja"],
 		"localName": "マリオゴルフ　ファミリーツアー"
 	},
-	"Mario Golf - Toadstool Tour (Europe) (En,Fr,De,Es,It)": {
+	"Mario Golf - Toadstool Tour (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Golf - Toadstool Tour (Korea)": {
@@ -3380,7 +3380,7 @@
 	"Mario Golf - Toadstool Tour (USA)": {
 		"languages": ["En"]
 	},
-	"Mario Kart - Double Dash!! (Europe) (En,Fr,De,Es,It)": {
+	"Mario Kart - Double Dash!! (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Kart - Double Dash!! (Japan)": {
@@ -3427,7 +3427,7 @@
 		"languages": ["Ja"],
 		"localName": "マリオパーティ４　イベント用ディスク"
 	},
-	"Mario Party 5 (Europe) (En,Fr,De,Es,It)": {
+	"Mario Party 5 (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Party 5 (Japan)": {
@@ -4121,7 +4121,7 @@
 	"Need for Speed - Underground (USA)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Underground 2 (Europe)": {
+	"Need for Speed - Underground 2 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Underground 2 (France)": {
@@ -5038,6 +5038,9 @@
 	"Serious Sam - Next Encounter (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
+	"Shadow the Hedgehog (Europe) (Beta) (2005-09-22)": {
+		"languages": []
+	},
 	"Shadow the Hedgehog (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
@@ -5523,7 +5526,7 @@
 	"Super Mario Strikers (USA)": {
 		"languages": ["En"]
 	},
-	"Super Mario Sunshine (Europe) (En,Fr,De,Es,It)": {
+	"Super Mario Sunshine (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Super Mario Sunshine (Japan)": {
@@ -5583,7 +5586,7 @@
 		"languages": ["Ja"],
 		"localName": "スーパーロボット大戦ＧＣ"
 	},
-	"Super Smash Bros. Melee (Europe) (En,Fr,De,Es,It)": {
+	"Super Smash Bros. Melee (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Super Smash Bros. Melee (Korea) (En,Ja)": {
@@ -6347,7 +6350,7 @@
 	"Worms Blast (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Wreckless - The Yakuza Missions (Europe) (En,Fr,De)": {
+	"Wreckless - The Yakuza Missions (Europe, Australia) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Wreckless - The Yakuza Missions (USA)": {

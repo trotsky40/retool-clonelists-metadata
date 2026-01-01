@@ -6184,6 +6184,9 @@
 	"Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
+	"Shadow the Hedgehog (World) (Beta) (2005-09-15)": {
+		"languages": []
+	},
 	"Shattered Union (Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
 	},
@@ -6381,6 +6384,9 @@
 	"Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
+	"Sonic Mega Collection Plus (World) (Beta) (2004-08-17)": {
+		"languages": []
+	},
 	"Sonic Mega Collection Plus (World) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
@@ -6393,6 +6399,9 @@
 	},
 	"Sonic Riders (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
+	},
+	"Sonic Riders (World) (Beta) (2005-12-12)": {
+		"languages": []
 	},
 	"Soulcalibur II (Asia)": {
 		"languages": ["Ja"],
@@ -6430,6 +6439,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Spawn - Armageddon (USA)": {
+		"languages": []
+	},
+	"Spawn - Armageddon (USA) (Beta) (2003-08-19)": {
 		"languages": []
 	},
 	"Speed Kings (Europe, Australia) (En,Fr,De,Es,It)": {

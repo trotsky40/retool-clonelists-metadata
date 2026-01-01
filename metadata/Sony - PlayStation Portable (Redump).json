@@ -708,7 +708,7 @@
 	},
 	"Black Rock Shooter - The Game (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ブラック★ロック　シューター　ＴＨＥ　ＧＡＭＥ"
+		"localName": "ブラック★ロック シューター ＴＨＥ ＧＡＭＥ"
 	},
 	"Black Wolves Saga - Last Hope (Japan)": {
 		"languages": ["Ja"],
@@ -1599,7 +1599,7 @@
 	"Crash - Mind over Mutant (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Crash Bandicoot - Gacchanko World (Japan)": {
+	"Crash Bandicoot - Gatchanko World (Japan)": {
 		"languages": ["Ja"],
 		"localName": "クラッシュ・バンディクー　がっちゃんこワールド"
 	},
@@ -2401,7 +2401,7 @@
 	},
 	"Dora-Slot - Shuyaku wa Zenigata (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ドラスロット　主役は銭形"
+		"localName": "ドラスロット 主役は銭形"
 	},
 	"Dot Hack Link (Japan)": {
 		"languages": ["Ja"],
@@ -2720,7 +2720,7 @@
 	},
 	"Enkeltbillet (Japan)": {
 		"languages": ["Ja"],
-		"localName": "Ｅｎｋｅｌｔｂｉｌｌｅｔ　（エンケルトビレット）　限定版"
+		"localName": "エンケルトビレット"
 	},
 	"Entraineur 2006, L' - Championship Manager (France)": {
 		"languages": ["Fr"]
@@ -2796,7 +2796,7 @@
 	"Exit (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Exit (Japan)": {
+	"Exit (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "イグジット"
 	},

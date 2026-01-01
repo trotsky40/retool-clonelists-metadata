@@ -3197,7 +3197,7 @@
 	},
 	"Blue Breaker Burst - Hohoemi o Anata to (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ブルー・ブレイカー・バースト　～微笑みを貴方と～"
+		"localName": "ブルーブレイカーバースト　～微笑みを貴方と～"
 	},
 	"Blue Breaker Burst - Hohoemi o Anata to (Japan) (Major Wave)": {
 		"languages": ["Ja"],
@@ -8000,11 +8000,11 @@
 	"Divide, The - Enemies Within (USA)": {
 		"languages": ["En"]
 	},
-	"DoDonPachi (Japan) (Demo)": {
+	"DoDonPachi (Japan)": {
 		"languages": ["Ja"],
 		"localName": "怒首領蜂"
 	},
-	"DoDonPachi (Japan) (Rev 1)": {
+	"DoDonPachi (Japan) (Demo)": {
 		"languages": ["Ja"],
 		"localName": "怒首領蜂"
 	},
@@ -8217,6 +8217,10 @@
 		"languages": ["Ja"],
 		"localName": "撞球ｒｅ－ｍｉｘ　ビリヤードマルチプル"
 	},
+	"Doukyuu Re-mix - Billiards Multiple (Japan) (PSone Books)": {
+		"languages": ["Ja"],
+		"localName": "撞球　ｒｅ・ｍｉｘ　ビリヤード　マルチプル"
+	},
 	"Doukyuusei 2 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "同級生２"
@@ -8383,6 +8387,10 @@
 		"languages": ["En"]
 	},
 	"Dragon Drive - Tactics Break (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンドライブ　タクティクスブレイク"
+	},
+	"Dragon Drive - Tactics Break (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "ドラゴンドライブ　タクティクスブレイク"
 	},
@@ -14815,7 +14823,7 @@
 	},
 	"Impact Racing (Japan)": {
 		"languages": ["En"],
-		"localName": "インパクト・レーシング"
+		"localName": "インパクトレーシング"
 	},
 	"Impact Racing (USA)": {
 		"languages": ["En"]
@@ -15764,10 +15772,6 @@
 	"Jumping Flash! (Europe)": {
 		"languages": ["En"]
 	},
-	"Jumping Flash! (Japan) (Demo)": {
-		"languages": ["Ja"],
-		"localName": "ジャンピングフラッシュ！"
-	},
 	"Jumping Flash! (Japan) (Europe-ban)": {
 		"languages": ["En"]
 	},
@@ -15785,6 +15789,10 @@
 		"localName": "ジャンピングフラッシュ！２　アロハ男爵大弱りの巻"
 	},
 	"Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ジャンピングフラッシュ！　アロハ男爵ファンキー大作戦の巻"
+	},
+	"Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "ジャンピングフラッシュ！　アロハ男爵ファンキー大作戦の巻"
 	},
@@ -23380,9 +23388,6 @@
 	"PSi - PlayStation Interactive Magazine - WWF SmackDown! (UK) (Unl)": {
 		"languages": ["En"]
 	},
-	"PSi-2 Magazine 8-2001 Power Cheats (Germany) (Unl)": {
-		"languages": ["De"]
-	},
 	"PSi2 Disc Eight (UK) (Unl)": {
 		"languages": []
 	},
@@ -24429,7 +24434,7 @@
 		"languages": ["Ja"],
 		"localName": "プレイで覚える英単語でるでる１７００　センター試験レベル対応"
 	},
-	"Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Rerelease)": {
+	"Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "プレイで覚えるシリーズ　日本史キーワードでるでる１８００"
 	},
@@ -25247,6 +25252,9 @@
 	},
 	"Pour l'Or et la Gloire - La Route d'Eldorado (France)": {
 		"languages": ["Fr"]
+	},
+	"Power Cheats (Germany) (Unl)": {
+		"languages": ["De"]
 	},
 	"Power Cheats (UK) (Unl)": {
 		"languages": ["En"]
@@ -32632,6 +32640,9 @@
 	"TechnoMage - Die Rueckkehr der Ewigkeit (Germany)": {
 		"languages": ["De"]
 	},
+	"TechnoMage - El Retorno de la Eternidad (Spain)": {
+		"languages": ["Es"]
+	},
 	"TechnoMage - En Quete de L'Eternite (France)": {
 		"languages": ["Fr"]
 	},
@@ -32640,9 +32651,6 @@
 	},
 	"TechnoMage - Ritorno all'Eternita (Italy)": {
 		"languages": ["It"]
-	},
-	"Technomage - El Retorno de la Eternidad (Spain)": {
-		"languages": ["Es"]
 	},
 	"Tecmo Stackers (USA)": {
 		"languages": ["En"]

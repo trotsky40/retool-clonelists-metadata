@@ -6,13 +6,6 @@
 	},
 	"variants": [
 		{
-			"group": "Lunch Time",
-			"titles": [
-				{"searchTerm": "Lunch Time"},
-				{"searchTerm": "Snorlax's Lunch Time"}
-			]
-		},
-		{
 			"group": "Pokemon Party Mini - Rocket Start",
 			"titles": [
 				{"searchTerm": "Pokemon Party Mini - Pikachu's Rocket Start"},

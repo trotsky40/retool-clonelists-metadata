@@ -4423,8 +4423,8 @@
 		"languages": [],
 		"localName": "ＦＩＦＡ　１３　ワールドクラス　サッカー"
 	},
-	"FIFA 14 (Brazil)": {
-		"languages": []
+	"FIFA 14 (Brazil) (En,Pt)": {
+		"languages": ["En", "Pt"]
 	},
 	"FIFA 14 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
@@ -4436,8 +4436,8 @@
 		"languages": [],
 		"localName": "ＦＩＦＡ　１４　ワールドクラス　サッカー"
 	},
-	"FIFA 15 (Brazil)": {
-		"languages": []
+	"FIFA 15 (Brazil) (En,Pt)": {
+		"languages": ["En", "Pt"]
 	},
 	"FIFA 15 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
@@ -4448,8 +4448,8 @@
 	"FIFA 15 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"FIFA 16 (Brazil)": {
-		"languages": []
+	"FIFA 16 (Brazil) (En,Pt)": {
+		"languages": ["En", "Pt"]
 	},
 	"FIFA 16 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
@@ -4460,8 +4460,8 @@
 	"FIFA 16 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"FIFA 17 (Brazil)": {
-		"languages": []
+	"FIFA 17 (Brazil) (En,Pt)": {
+		"languages": ["En", "Pt"]
 	},
 	"FIFA 17 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
@@ -8017,8 +8017,8 @@
 	"Minecraft - PlayStation 3 Edition (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr", "Zh"]
 	},
-	"Minecraft - PlayStation 3 Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Ru,Tr)": {
-		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
+	"Minecraft - PlayStation 3 Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr)": {
+		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr", "Zh"]
 	},
 	"Minecraft - Story Mode - A Telltale Games Series (Europe) (En,Fr,De,Es,Pt,Zh,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "Pt", "Ru", "Zh"]
@@ -8457,8 +8457,8 @@
 	"NBA 2K10 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"NBA 2K10 (Japan)": {
-		"languages": []
+	"NBA 2K10 (Japan) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"NBA 2K10 (USA, Korea) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -8466,11 +8466,11 @@
 	"NBA 2K11 (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"NBA 2K11 (Japan)": {
-		"languages": []
+	"NBA 2K11 (Japan) (En,Ja,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"NBA 2K11 (USA) (3D Compatible)": {
-		"languages": []
+	"NBA 2K11 (USA) (En,Ja,Fr,De,Es,It) (3D Compatible)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"NBA 2K11 (USA, Asia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -8478,8 +8478,8 @@
 	"NBA 2K12 (Europe, Australia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"NBA 2K12 (Japan)": {
-		"languages": ["Ja"]
+	"NBA 2K12 (Japan) (En,Ja,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"NBA 2K12 (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -8487,14 +8487,14 @@
 	"NBA 2K12 (USA, Asia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"NBA 2K12 - Game of the Year Edition (USA)": {
-		"languages": []
+	"NBA 2K12 - Game of the Year Edition (USA) (En,Ja,Fr,De,Es,It,Zh)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
 	"NBA 2K13 (Europe, Australia) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
-	"NBA 2K13 (Japan)": {
-		"languages": []
+	"NBA 2K13 (Japan) (En,Ja,Fr,De,Es,It,Zh)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
 	"NBA 2K13 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
@@ -8502,8 +8502,8 @@
 	"NBA 2K14 (Europe) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
-	"NBA 2K14 (Japan)": {
-		"languages": []
+	"NBA 2K14 (Japan) (En,Ja,Fr,De,Es,It,Zh)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
 	"NBA 2K14 (World) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
@@ -8511,8 +8511,8 @@
 	"NBA 2K15 (Europe) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
-	"NBA 2K15 (Japan)": {
-		"languages": []
+	"NBA 2K15 (Japan) (En,Ja,Fr,De,Es,It,Zh)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
 	"NBA 2K15 (USA) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
@@ -8520,8 +8520,8 @@
 	"NBA 2K16 (Europe) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
-	"NBA 2K16 (Japan)": {
-		"languages": []
+	"NBA 2K16 (Japan) (En,Ja,Fr,De,Es,It,Zh)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
 	"NBA 2K16 (USA) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
@@ -8548,7 +8548,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"NBA 2K8 (Japan)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"NBA 2K8 (USA)": {
 		"languages": ["En"]
@@ -8556,8 +8556,8 @@
 	"NBA 2K9 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"NBA 2K9 (Japan)": {
-		"languages": []
+	"NBA 2K9 (Japan) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"NBA 2K9 (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -8671,10 +8671,10 @@
 	"NHL 09 (Europe) (En,Fr,De,Sv,Fi,Ru,Cs)": {
 		"languages": ["Cs", "De", "En", "Fi", "Fr", "Ru", "Sv"]
 	},
-	"NHL 09 (USA) (Beta) (2008-07-30)": {
-		"languages": []
-	},
 	"NHL 09 (USA) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
+	"NHL 09 (USA) (En,Fr) (Beta) (2008-07-30)": {
 		"languages": ["En", "Fr"]
 	},
 	"NHL 10 (Europe) (En,Fr,De,Sv,Fi,Ru,Cs)": {
@@ -8911,10 +8911,10 @@
 	"Need for Speed - Most Wanted - A Criterion Game (UK)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Most Wanted - A Criterion Game (USA) (Beta) (2012-09-26)": {
-		"languages": []
-	},
 	"Need for Speed - Most Wanted - A Criterion Game (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Need for Speed - Most Wanted - A Criterion Game (USA) (En,Fr,Es) (Beta) (2012-09-26)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Need for Speed - ProStreet (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)": {
@@ -9738,13 +9738,13 @@
 		"languages": ["En", "Ja"],
 		"localName": "ペルソナ４　ジ・アルティメット　イン　マヨナカアリーナ"
 	},
-	"Persona 4 - The Ultimax - Ultra Suplex Hold (Korea)": {
-		"languages": [],
-		"localName": "여신전생 페르소나 4 The ULTIMAX ULTRA SUPLEX HOLD"
-	},
 	"Persona 4 - The Ultimax Ultra Suplex Hold (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ペルソナ４　ジ・アルティマックス　ウルトラスープレックスホールド"
+	},
+	"Persona 4 - The Ultimax Ultra Suplex Hold (Korea)": {
+		"languages": [],
+		"localName": "여신전생 페르소나 4 The ULTIMAX ULTRA SUPLEX HOLD"
 	},
 	"Persona 4 Arena (Europe) (En,Ja)": {
 		"languages": ["En", "Ja"]
@@ -10670,11 +10670,11 @@
 	"Rock Band 3 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Rock Band 3 (USA)": {
-		"languages": []
+	"Rock Band 3 (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Rock Band Track Pack - Classic Rock (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Rock Revolution (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "No", "Sv"]
@@ -10692,10 +10692,10 @@
 		"languages": ["Ja"],
 		"localName": "ロックスミス"
 	},
-	"Rocksmith (USA) (Best Buy Edition)": {
-		"languages": []
-	},
 	"Rocksmith (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Rocksmith (USA) (En,Fr,Es) (Best Buy Edition)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Rocksmith (USA) (En,Fr,Es) (Guitar and Bass)": {
@@ -10967,8 +10967,8 @@
 	"Saints Row - Gat out of Hell (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
-	"Saints Row - Gat out of Hell (USA) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Saints Row - Gat out of Hell (USA) (En,Fr,De,Es,It,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
 	"Saints Row - The Third (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Ru"]
@@ -11523,8 +11523,8 @@
 	"Silent Hill - Downpour (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Silent Hill - Downpour (USA) (Beta) (2012-01-31)": {
-		"languages": []
+	"Silent Hill - Downpour (USA) (En,Fr,De,Es,It,Pt) (Beta) (2012-01-31)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
@@ -11966,8 +11966,8 @@
 	"Sleeping Dogs (Germany) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Sleeping Dogs (USA) (Beta) (2012-06-24)": {
-		"languages": []
+	"Sleeping Dogs (USA) (En,Ja,Fr,De,Es,It,Pl,Ru) (Beta) (2012-06-24)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Ru"]
 	},
 	"Sleeping Dogs (USA, Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -12583,8 +12583,8 @@
 		"languages": [],
 		"localName": "ソードアート・オンライン　－ロスト・ソングー"
 	},
-	"Syberia Collection (Brazil)": {
-		"languages": []
+	"Syberia Collection (Brazil) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Syberia Collection (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -12887,7 +12887,7 @@
 		"languages": ["En"]
 	},
 	"Tiger Woods PGA Tour 12 (USA) (Collector's Edition)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Tiger Woods PGA Tour 13 (Europe)": {
 		"languages": ["En"]
@@ -12911,7 +12911,7 @@
 		"languages": ["En"]
 	},
 	"Tiger Woods PGA Tour 14 (USA) (Masters Historic Edition)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Time Crisis - Razing Storm (Europe, Australia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -13912,7 +13912,7 @@
 		"localName": "WWE 스맥다운 대 로우 2009"
 	},
 	"WWE SmackDown vs. Raw 2009 (USA) (Demo)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"WWE SmackDown vs. Raw 2009 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -13942,7 +13942,7 @@
 		"languages": []
 	},
 	"Walking Dead, The - A Telltale Games Series (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Walking Dead, The - A Telltale Games Series - Game of the Year Edition (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]

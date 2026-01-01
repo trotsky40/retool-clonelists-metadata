@@ -760,6 +760,10 @@
 		"languages": ["Ja"],
 		"localName": "きゃんきゃんバニー　プルミエール"
 	},
+	"Can Can Bunny Premiere (Japan) (2M)": {
+		"languages": ["Ja"],
+		"localName": "きゃんきゃんバニー　プルミエール"
+	},
 	"Can Can Bunny Premiere 2 (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "きゃんきゃんバニー　プルミエール２"
@@ -1512,6 +1516,10 @@
 	"Deroon Dero Dero (Japan) (1M)": {
 		"languages": ["Ja"],
 		"localName": "でろ～んでろでろ"
+	},
+	"Desire (Japan) (Demo)": {
+		"languages": ["Ja"],
+		"localName": "デザイア"
 	},
 	"Desire (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -3304,6 +3312,10 @@
 		"languages": ["Ja"],
 		"localName": "Ｊリーグ・プロ・サッカー・クラブ　をつくろう！２"
 	},
+	"J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "Ｊリーグ・プロ・サッカー・クラブ　をつくろう！２"
+	},
 	"J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev B)": {
 		"languages": ["Ja"],
 		"localName": "Ｊリーグ・プロ・サッカー・クラブ　をつくろう！２"
@@ -3321,6 +3333,10 @@
 		"localName": "Ｊリーグ・ビクトリー・ゴール’９６"
 	},
 	"J.League Victory Goal '96 (Japan) (2M)": {
+		"languages": ["Ja"],
+		"localName": "Ｊリーグ・ビクトリー・ゴール’９６"
+	},
+	"J.League Victory Goal '96 (Japan) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "Ｊリーグ・ビクトリー・ゴール’９６"
 	},
@@ -5095,6 +5111,10 @@
 		"languages": ["Ja"],
 		"localName": "犯行写真　～縛られた少女たちの見たモノは？～"
 	},
+	"Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (1M)": {
+		"languages": ["Ja"],
+		"localName": "Ｐｉａキャロットへようこそ！！２"
+	},
 	"Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)": {
 		"languages": ["Ja"],
 		"localName": "Ｐｉａキャロットへようこそ！！２"
@@ -6073,6 +6093,9 @@
 		"languages": ["Ja"]
 	},
 	"Saturn Super Vol. 6 (Japan) (2M)": {
+		"languages": ["Ja"]
+	},
+	"Saturn Super Vol. 7 (Japan) (1M)": {
 		"languages": ["Ja"]
 	},
 	"Saturn Super Vol. 7 (Japan) (2M)": {
@@ -7288,11 +7311,15 @@
 	},
 	"Super Robot Taisen F - Kanketsu-hen (Japan) (2M, 3M)": {
 		"languages": ["Ja"],
-		"localName": "スーパー・ロボット大戦Ｆ　完結編"
+		"localName": "スーパーロボット大戦Ｆ　完結編"
+	},
+	"Super Robot Taisen F - Kanketsu-hen (Japan) (4M)": {
+		"languages": ["Ja"],
+		"localName": "スーパーロボット大戦Ｆ　完結編"
 	},
 	"Super Robot Taisen F - Kanketsu-hen (Japan) (5M)": {
 		"languages": ["Ja"],
-		"localName": "スーパー・ロボット大戦Ｆ　完結編"
+		"localName": "スーパーロボット大戦Ｆ　完結編"
 	},
 	"Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (10M)": {
 		"languages": ["Ja"],
@@ -8466,6 +8493,10 @@
 		"localName": "ウイニングポスト２　ファイナル＇９７"
 	},
 	"Winning Post 2 - Program '96 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ウイニング・ポスト２　～プログラム’９６～"
+	},
+	"Winning Post 2 - Program '96 (Japan) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "ウイニング・ポスト２　～プログラム’９６～"
 	},
