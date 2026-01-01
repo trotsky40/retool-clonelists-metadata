@@ -355,6 +355,12 @@
             "sha1": "de871501d86c48fdc4b86cbd215e7be4ec047631"
         },
         {
+            "name": "Danan - The Jungle Fighter (Europe, Brazil) (En)",
+            "crc": "ae4a28d7",
+            "md5": "6b0fc60aa886c060bf1a16ea97b4f441",
+            "sha1": "c99f2562117a2bf7100a3992608e9a2bcb50df35"
+        },
+        {
             "name": "Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)",
             "crc": "42fc3a6e",
             "md5": "05e3071aad9c36b6e18f1656592eeb3d",
@@ -527,6 +533,12 @@
             "crc": "8d23587f",
             "md5": "c52e496c497d427747769aaedfbb8dab",
             "sha1": "89f86869b90af986bee2acff44defe420e405a1e"
+        },
+        {
+            "name": "Janggun-ui Adeul (Korea) (Unl)",
+            "crc": "192949d5",
+            "md5": "2db7aaabca7f62d69df466797c0d63d9",
+            "sha1": "a290e41e0218dd54c7774229a7bf77c0e6b037f9"
         },
         {
             "name": "Jurassic Park (Europe, Brazil) (En)",

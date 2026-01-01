@@ -6679,6 +6679,12 @@
             "sha1": "07baf0370f1d5b2457e6afff2c256eadc142ab96"
         },
         {
+            "name": "Romance of the Three Kingdoms II (USA)",
+            "crc": "8033574a",
+            "md5": "014e13bbf8de8b987dd2a8d597424a90",
+            "sha1": "2ded7b6ea4d10200106e514decc10bd3c9f86e2f"
+        },
+        {
             "name": "Rudra no Hihou (Japan)",
             "crc": "5d8cb7ac",
             "md5": "e5ffb8ca8331076037a32db94627518c",
@@ -7235,6 +7241,12 @@
             "crc": "8ff9f789",
             "md5": "5d78e41bb0995e0e3cb9184331295986",
             "sha1": "f9afdd38f7d107ee7fe6ad1ca54e29e148fae267"
+        },
+        {
+            "name": "SMW - Easyland 3 (v1.0) (RicardoDeMelo) (Hack)",
+            "crc": "6423fd7b",
+            "md5": "7c6f10e15c6323fbb3bf2557580650f8",
+            "sha1": "c9d254d44ade76781e4dd377ae9f4f6b01862732"
         },
         {
             "name": "SMW - Eikro - The Children of Darloum (Jordan) (Hack)",
@@ -7891,6 +7903,12 @@
             "sha1": "6817e07a7a8d02ba5fec3022a457e8e7bace99cf"
         },
         {
+            "name": "SMW - Play to Win (v1.6.0) (Mr. MS) (Hack)",
+            "crc": "c748ae59",
+            "md5": "667819d594e310afdc9a42a8fce65cc6",
+            "sha1": "27e7761e71b1bd6d758f90750555b3e8f5fd5866"
+        },
+        {
             "name": "SMW - Polyphony (v1.1.1) (TomatoPhalanges) (Hack)",
             "crc": "8f64b6cd",
             "md5": "4054ef350628ab9743425c0f3bd499a9",
@@ -8441,6 +8459,12 @@
             "crc": "95c399f5",
             "md5": "4b5413c34774f92e7d44e8f1c199daf4",
             "sha1": "1144d76dd921c3aacfcf571269c7e58760e0b410"
+        },
+        {
+            "name": "SMW - The First Annual RetroAchievements Vanilla Level Design Contest (v1.0) (SubliminalSiren) (Hack)",
+            "crc": "908c2916",
+            "md5": "cb272886fee9794b37ed3f9b95f4dfef",
+            "sha1": "fcf0b7d3721b4102b71153c502109a41b2fb17c7"
         },
         {
             "name": "SMW - The Great Sixth (2021-01-12) (Drakel Community) (Hack)",
@@ -10771,6 +10795,12 @@
             "sha1": "17af571251def6c98f02be61a1b3f02f8ce0f957"
         },
         {
+            "name": "Theme Park (Europe) (En,Fr,De)",
+            "crc": "ca0e041c",
+            "md5": "b1a4a4696e579168d5b1b6e2c8ba8440",
+            "sha1": "1470c5f9d3d2078c55e0822b3219189120fd3f7b"
+        },
+        {
             "name": "Thomas the Tank Engine & Friends (USA)",
             "crc": "bb4cd5a4",
             "md5": "923ec0c22b5083b6e3a32e54f822f4fb",
@@ -11537,6 +11567,12 @@
             "crc": "d218147c",
             "md5": "7f44a65cf20b213502314fc118b5a6f4",
             "sha1": "917b2c381e0ed77b8c3f196171d7285fce21a090"
+        },
+        {
+            "name": "Zoop (USA)",
+            "crc": "06f0e94c",
+            "md5": "0b7a524e5470eca3ed29b75e427a7cf4",
+            "sha1": "051c767b843fc4112e0b06c2f81b65abbac9e7fc"
         }
     ]
 }

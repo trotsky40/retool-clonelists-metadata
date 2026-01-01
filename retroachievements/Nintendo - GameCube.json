@@ -805,6 +805,12 @@
             "sha1": "f95bdab79a5308e0398c1a7d6c222d0e492fe6b5"
         },
         {
+            "name": "Metroid Prime - Double Trouble (v1.15) (Fantaselion) (Hack)",
+            "crc": "75dc9dce",
+            "md5": "480532b0b4c5ca5b1a9adf71c45892a5",
+            "sha1": "b6d744261ad3ab25aa109211ec91a33e7b1612cb"
+        },
+        {
             "name": "Metroid Prime - Samus Goes to the Fridge to Get a Glass of Milk 3D (v1.00) (kkzero) (Hack)",
             "crc": "b24744f6",
             "md5": "d0fd289dffd09ba7ff6b01661f34328f",
@@ -937,6 +943,12 @@
             "sha1": "8c2dbbd27253af7fea7eb0c9d7e334f354f15429"
         },
         {
+            "name": "Paper Mario TTYD - The Tower of Trials (v3.13 r60) (Jdaster64) (Hack)",
+            "crc": "eae9c182",
+            "md5": "643fbb6f30a07c6e6412b359ef0028e4",
+            "sha1": "c34e7d66ab4c7f45b980876dcac2af1afb4ca5b5"
+        },
+        {
             "name": "Phantasy Star Online Episode I & II Plus (Subset - Grind)",
             "crc": "f9bf46f3",
             "md5": "7a35d44842265c93c604528a4b161e3e",
@@ -1015,16 +1027,10 @@
             "sha1": "77aa192f7526036d32eea0a24747f086abcdc0e5"
         },
         {
-            "name": "Pikmin 2 - Regrown (Hack)",
-            "crc": "ce0b5ee1",
-            "md5": "074606bb6d470524c21440012df7ec6e",
-            "sha1": "6bde3f5b191ad62521fb490b7f1bcf47f0247569"
-        },
-        {
             "name": "Pikmin 2 - Regrown (v2.1) (Ochrehorns) (Hack)",
-            "crc": "ce0b5ee1",
-            "md5": "074606bb6d470524c21440012df7ec6e",
-            "sha1": "6bde3f5b191ad62521fb490b7f1bcf47f0247569"
+            "crc": "7cf6fee0",
+            "md5": "653ec986768710eb8d2ecbb68086b379",
+            "sha1": "1834eecaa37ee34f26ca4427b88c11a050aebae4"
         },
         {
             "name": "Pitfall - The Lost Expedition (USA)",
@@ -1715,6 +1721,12 @@
             "crc": "2cca33c8",
             "md5": "27afa2ba52e28b8d5fcf3015ba49ebb9",
             "sha1": "6486f37c61b7cb276264f23021737bf937544939"
+        },
+        {
+            "name": "Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player) (Subset - Very Hard Runs)",
+            "crc": "16cdeca8",
+            "md5": "92408767b9ed4c55b03ce9fc7c5492ba",
+            "sha1": "9c279b016c46f0e3089a4e154ebaf416346f44f0"
         },
         {
             "name": "Swingerz Golf (USA)",

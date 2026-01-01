@@ -127,6 +127,12 @@
             "sha1": "4a50afdc7a96d903f3bd8d5a9ff45b9405cd647d"
         },
         {
+            "name": "BK - Santa's Village (v1.1) (Kurko Mods) (Hack)",
+            "crc": "044fd4f5",
+            "md5": "57a0fc74c9a052415d9e44740b3923dc",
+            "sha1": "c04a77a45dce8689b29eff08efab9cf06536d540"
+        },
+        {
             "name": "BK - Snow Glow Village Redone (v1.2.2) (Kurko Mods) (Hack)",
             "crc": "4927e376",
             "md5": "b79594de34304e41ad53968c078fc7b5",
@@ -1981,12 +1987,6 @@
             "sha1": "ef3df4e1496260d44c44ab7dd145751141f11c60"
         },
         {
-            "name": "Mortal Kombat Trilogy (USA)",
-            "crc": "50a99d60",
-            "md5": "9b7f29aab911d6753f2011c48da752bf",
-            "sha1": "39b3cb20417c503f1c047d5037df814d1ccf90dd"
-        },
-        {
             "name": "Mortal Kombat Trilogy (USA) (Rev 2)",
             "crc": "0f323d00",
             "md5": "3dcb15043063bd656a0223c519218cfb",
@@ -2225,12 +2225,6 @@
             "crc": "9514da0a",
             "md5": "2991bb68eca54813d6b834adbbbacc4c",
             "sha1": "88e2032997cb884af31a7380fabac0d0a5360892"
-        },
-        {
-            "name": "Puyo Puyo Sun 64 (Japan)",
-            "crc": "355ff9de",
-            "md5": "faaa2094b04dca4c287af9334d22529d",
-            "sha1": "cf79ec32e7e78b2cad15b5b7dd763f578648b6c6"
         },
         {
             "name": "Puyo Puyo Sun 64 (Japan) (En) (v1.1) (Zoinkity)",
@@ -2497,6 +2491,12 @@
             "sha1": "49502c4d69aacd757675ba4717b902a0a98ffbdc"
         },
         {
+            "name": "SM64 - Bounce Tales 64 (v1.0 fix) (AloXado320) (Hack)",
+            "crc": "15256e35",
+            "md5": "f91effec4a48252d69c51e1ac3efa272",
+            "sha1": "5a6d708a867088cc1f44ca4520eb5993c4d8f04b"
+        },
+        {
             "name": "SM64 - Box World (v1.1) (MorningStorm64) (Hack)",
             "crc": "99074d0c",
             "md5": "3df1173b3792f0c9d52ade95a43b02c7",
@@ -2639,6 +2639,12 @@
             "crc": "a2dadd77",
             "md5": "afa33c0d2b9ef1c5b28df2f0290d412d",
             "sha1": "9c125abb6a8eddf0b693692e66b333c86cb3c3db"
+        },
+        {
+            "name": "SM64 - Despair Mario's Gambit 64 (v1.1 Final) (GMDDoesDMG) (Hack)",
+            "crc": "f8d46ea7",
+            "md5": "d6dfc46c0cd78a658e04ebcb0fce54ff",
+            "sha1": "d5ce0514d8b1723f4071181ea4761e8f920ef72c"
         },
         {
             "name": "SM64 - Disaster Quest Tree (v1.2) (Hoppiper26) (Hack)",
@@ -3541,6 +3547,12 @@
             "sha1": "d270b6d7c6c19b6a66c49677997eec5febef569d"
         },
         {
+            "name": "SM64 - Sooper Wooper 64 (v2021-05-17) (MishuK9) (Hack)",
+            "crc": "1c8f4849",
+            "md5": "be02352320c563c250bc3c65bfc95440",
+            "sha1": "0d91ee3b2a3029b0eac789fe6e0782ec9c32ce60"
+        },
+        {
             "name": "SM64 - Speed Star Adventure (v1.1) (jesusyoshi54) (Hack)",
             "crc": "0416369b",
             "md5": "06d86eb307223a1fb4466d36a26f89fb",
@@ -4115,6 +4127,18 @@
             "crc": "f211a146",
             "md5": "b7ed4a99548ed70b68ef9c7ab8268bd4",
             "sha1": "dc0aab9f84c79f9b9b533b661b71bb96aaae94f9"
+        },
+        {
+            "name": "SM64 - The Phantom's Call (English) (v2.0) (PhantomPhire) (Hack)",
+            "crc": "4f6baa2d",
+            "md5": "e0c18949c34e86576405944fa616f56c",
+            "sha1": "7109b28c6e2165c63e95333dc8bb72fdff446946"
+        },
+        {
+            "name": "SM64 - The Phantom's Call (German) (v2.0) (PhantomPhire) (Hack)",
+            "crc": "3e8e5c0b",
+            "md5": "05efe824339137d3716a0530c78ae4b1",
+            "sha1": "4831b84db6c43a53a79fe1dbea287dee3f0cfc34"
         },
         {
             "name": "SM64 - The Picture of Bob-Omb Battlefield (Hack)",

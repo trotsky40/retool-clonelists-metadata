@@ -13,6 +13,12 @@
             "sha1": "a8629fac962cc20b263a60bb2d2386d605713387"
         },
         {
+            "name": "Asteroids (USA)",
+            "crc": "dfb93f40",
+            "md5": "07342c78619ba6ffcc61c10e907e3b50",
+            "sha1": "d96ec4e043fcdacab367d8a69d29904b3b2896f1"
+        },
+        {
             "name": "Ballblazer (USA)",
             "crc": "a4c4808b",
             "md5": "8fc3a695eaea3984912d98ed4a543376",
@@ -233,6 +239,12 @@
             "crc": "4407ba04",
             "md5": "8d64763db3100aadc552db5e6868506a",
             "sha1": "53976013986e0ad3694ab9c021420b8172465de7"
+        },
+        {
+            "name": "Waffle Painter (USA) (v1.2) (Vivian Video) (Aftermarket)",
+            "crc": "4ce5f3ad",
+            "md5": "184eb963a9cee8b41c9dadf4d2e6aeb9",
+            "sha1": "875ce127e24803e4c27afce276eb02381c479a4d"
         },
         {
             "name": "Wordle (World) (v1.07) (Aftermarket)",

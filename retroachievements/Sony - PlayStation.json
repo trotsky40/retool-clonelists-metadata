@@ -215,6 +215,10 @@
             "sha1": "084cc48a5ee2485de7b8e81c7852c13d4239778c"
         },
         {
+            "name": "Arthur! Ready to Race (USA)",
+            "sha1": "2288f894ca5f9452ec0c6289ff453f9d527cce79"
+        },
+        {
             "name": "Asterix (Europe) (De,Es,It) (Rev 1)",
             "sha1": "6d087d292f2394a587a62c40f12a4e1efd245fd9"
         },
@@ -233,6 +237,10 @@
         {
             "name": "Atlantis - The Lost Continent (Europe) (En,Fr,De)",
             "sha1": "d24195e62b71f8b063b0165a5074803bdbb4ad8c"
+        },
+        {
+            "name": "Azumanga Donjara Daiou (Japan)",
+            "sha1": "79f388b653bc0d6ff8dd68dbc15fb71fad557353"
         },
         {
             "name": "Azure Dreams (USA)",
@@ -275,6 +283,10 @@
         {
             "name": "Beat Mania - The Sound of Tokyo (Japan)",
             "sha1": "699a9022503cbb1a49c46e44d165ed6929355d62"
+        },
+        {
+            "name": "Beatmania (Europe)",
+            "sha1": "c517b30a53c6f2a00bd811cae6d929b665ac7b11"
         },
         {
             "name": "Beatmania featuring Dreams Come True (Japan)",
@@ -475,6 +487,10 @@
         {
             "name": "Captain Commando (Japan)",
             "sha1": "ddac55d801e2a44c672e6991d40b52f064ec536e"
+        },
+        {
+            "name": "Car and Driver Presents - Grand Tour Racing '98 (USA)",
+            "sha1": "b9a63fc191ada5d5942c50fbfcee8befc10c6b5d"
         },
         {
             "name": "Cardinal Syn (USA)",
@@ -705,10 +721,6 @@
         {
             "name": "Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE)",
             "sha1": "f522f9b90f9e51b5d36421d10eb5e158b01952ba"
-        },
-        {
-            "name": "Crash Team Racing - Retro-Fueled (TheRedhotbr) (Hack)",
-            "sha1": "70ecf2c040b3267be4512379efeb77bbb46622a1"
         },
         {
             "name": "Crisis Beat (Europe)",
@@ -1143,6 +1155,10 @@
             "sha1": "f3d1f85f9c952aa73b905f369e5bc3cb30c0679d"
         },
         {
+            "name": "Dragon Seeds (USA)",
+            "sha1": "e2f9062a3e442ecea041b7fdf2e93440f7dce5cc"
+        },
+        {
             "name": "Dragon Tales - Dragonseek (USA)",
             "sha1": "0c363d02201e317a6f6ef1f72fb42bec6c693420"
         },
@@ -1327,6 +1343,12 @@
             "sha1": "1e561529e9494b3cacdbd41f9156c2e3d7050331"
         },
         {
+            "name": "Final Fantasy IX - Alternate Fantasy (v3.2) (Tirlititi) (Hack)",
+            "crc": "c28d46cf",
+            "md5": "bd3a7cf0312189034dce182857ccfc59",
+            "sha1": "c8946c2e5833c2d4e33f2be26821c4153bb40a6d"
+        },
+        {
             "name": "Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack)",
             "sha1": "85d4a976fb63a56ae6e802812bf1e020d96d62cb"
         },
@@ -1427,6 +1449,10 @@
         {
             "name": "Floating Runner - Quest for the 7 Crystals (USA)",
             "sha1": "d0ee182930a464d278c791dbeb817d3916dd5907"
+        },
+        {
+            "name": "Fluid (Europe)",
+            "sha1": "580608999b20356d045c1a97616a83b63728504f"
         },
         {
             "name": "Friday Night Wumpin' Vs. Crash (Lord Scout) (Aftermarket)",
@@ -1821,6 +1847,10 @@
             "sha1": "05884ce5c5e08c6056445dc2233c7839d510b647"
         },
         {
+            "name": "Kahen Soukou Gunbike - Speed Power Gunbike (Japan)",
+            "sha1": "33b8842368432f3a287230d2acda73edb0c306c9"
+        },
+        {
             "name": "Kamen Rider (Japan)",
             "sha1": "47fb05b38c2892a3c044289e384f755144bed46a"
         },
@@ -2133,6 +2163,10 @@
             "sha1": "e4e71e460de78f5a571f46fb2e1f5b940c9477c3"
         },
         {
+            "name": "Mega Man 8 (USA) (Undub) (v1.4) (Acediez)",
+            "sha1": "dd2616fa83dd6f386118865d119ec93ec0516792"
+        },
+        {
             "name": "Mega Man Legends (Subset - Bonus)",
             "sha1": "11fa1e63751b9cb183c117360e97ecffa00a49ae"
         },
@@ -2405,6 +2439,10 @@
         {
             "name": "Moto Racer 2 (USA)",
             "sha1": "9774c61b8408da3acfa3f241aa4f0945ab949094"
+        },
+        {
+            "name": "Mr. Driller (USA)",
+            "sha1": "ee77aba33f567946e8c6992e78effc3eb3dbd9f1"
         },
         {
             "name": "Mr. Prospector - Horiate-kun (Japan)",
@@ -3201,6 +3239,10 @@
             "sha1": "832af23de1526358765b30687cb89d4d8b7155cb"
         },
         {
+            "name": "Sheep (USA)",
+            "sha1": "41e434c0349691bbd4c2e3c09b4cc42df0d44b3e"
+        },
+        {
             "name": "Shin Megami Tensei (Japan)",
             "sha1": "4a9b8679528d51c3e1c8a4a30d3199da752101b8"
         },
@@ -3943,6 +3985,10 @@
         {
             "name": "Toys (Europe) (En,Fr,De)",
             "sha1": "d10d0d48b6e24dcb7f5b1d0f45f7e0bbf566c5c8"
+        },
+        {
+            "name": "Transformers - Beast Wars Transmetals (USA)",
+            "sha1": "a630d36316591d55479e7fb3575b0fa48a0f6ae8"
         },
         {
             "name": "Transport Tycoon (Europe) (En,Fr,De,Es,It)",

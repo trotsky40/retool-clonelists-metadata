@@ -41,6 +41,10 @@
             "sha1": "00fff1a24fcf0d1ab2ad79dd990e57b09d417b5e"
         },
         {
+            "name": "10 Pin - Champions Alley (Europe) (En,Fr,De,Es,It,Nl)",
+            "sha1": "e8907c617089a0f95bcb24a49208ffd0f4b0c250"
+        },
+        {
             "name": "25 to Life (USA)",
             "sha1": "a563c06c4ba80fe529bd2c9fe0e32c51b1c83060"
         },
@@ -93,6 +97,26 @@
             "sha1": "1f44171d047dbf17787db39e4887c4ea2eefea92"
         },
         {
+            "name": "Agent Hugo - Hula Holiday (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+            "sha1": "a5ae3834fa643b236d1c0e8a39bcc73eda556ee9"
+        },
+        {
+            "name": "Agent Hugo - Hula Holiday (Scandinavia) (En,Sv,No,Da,Fi)",
+            "sha1": "1fc6c55a3d0a595d56abf0ec635cccc3528e402b"
+        },
+        {
+            "name": "Agent Hugo - Lemoon Twist (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+            "sha1": "a5695d2125451d2c1c8a0790e9278d9a33ad2fab"
+        },
+        {
+            "name": "Agent Hugo - Lemoon Twist (Russia)",
+            "sha1": "3c41783d44333f93a6f380e01d0ca05188175753"
+        },
+        {
+            "name": "Agent Hugo - Lemoon Twist (Scandinavia) (En,Sv,No,Da,Fi)",
+            "sha1": "75560a6adfd54e2fbe577437e33111c072da9a41"
+        },
+        {
             "name": "Air Ranger - Rescue Helicopter (Europe)",
             "sha1": "fa385241cceae40e2edfeb3db57e4a40f01e80ab"
         },
@@ -113,8 +137,8 @@
             "sha1": "47a62e6ab4f6f194c4458c67f1f611e1d45a0326"
         },
         {
-            "name": "Air Ranger 2 Plus - Rescue Helicopter (Japan) (Anti-Blur) (v1.0) (Souzooka)",
-            "sha1": "a0a2ead572bd784f756c44a99bd75022b167776d"
+            "name": "AirBlade (USA)",
+            "sha1": "7cd29c1fa0c432a70fed01af9d7dc92339337f1b"
         },
         {
             "name": "Amplitude (USA)",
@@ -159,6 +183,10 @@
         {
             "name": "Arctic Thunder (USA)",
             "sha1": "de2099f86d74f0f890bf83422573cb6a61936471"
+        },
+        {
+            "name": "Are You Smarter than a 5th Grader Make the Grade (USA)",
+            "sha1": "a813bd25269a81dd0b70550bd3b61ea03ec2154d"
         },
         {
             "name": "Armored Core 2 (USA)",
@@ -453,6 +481,10 @@
             "sha1": "bfda072eb36b1f2724a57749d860c1f6c5138958"
         },
         {
+            "name": "Cocoto Fishing Master (USA) (En,Fr,Es)",
+            "sha1": "dea1a9c4ce8766a451865d58d90798a5f3625475"
+        },
+        {
             "name": "Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)",
             "sha1": "15f5071b729db7fa41bda2896e40129883a7038d"
         },
@@ -559,6 +591,10 @@
         {
             "name": "Dance Dance Revolution SuperNova 2 (Japan)",
             "sha1": "f787b89cc60ca470381e8b012437bd28cce39d7c"
+        },
+        {
+            "name": "Dancing Stage Fever (Europe) (En,Fr,De,Es,It)",
+            "sha1": "70df1427bbe7b07e1e159c4339576d1912df556b"
         },
         {
             "name": "Dancing Stage MegaMix (Europe) (En,Fr,De,Es,It)",
@@ -1137,6 +1173,14 @@
             "sha1": "fb60a673edf8a9db70f6ff5bae070de99dc8da3d"
         },
         {
+            "name": "Dynasty Warriors 6 (Subset - Max Level)",
+            "sha1": "4aec874813b638d6eb120d31bd3b83f7bf6c31c9"
+        },
+        {
+            "name": "Dynasty Warriors 6 (USA)",
+            "sha1": "22204f3c96a93f599c309ce68fe574d588cacfa3"
+        },
+        {
             "name": "Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es,It)",
             "sha1": "47ccd3704c210860ef51d6aad933646b8f3ff47f"
         },
@@ -1277,6 +1321,10 @@
             "sha1": "dc17460c8da534fa7a533268562e94250b569f2e"
         },
         {
+            "name": "Final Fantasy XII (USA)",
+            "sha1": "92382c04e25949df0cf010748b1b1112251f1828"
+        },
+        {
             "name": "Final Fantasy XII (USA) (Demo)",
             "sha1": "f9197ac2b60bda8aec8612573c310949ccb4d0ca"
         },
@@ -1321,6 +1369,10 @@
             "sha1": "d21c21f4c5216a99bc47fade41ef97c900bddfc8"
         },
         {
+            "name": "Flipnic - Ultimate Pinball (USA)",
+            "sha1": "1e630067e4d999b8a7c71ce5f752072c116b4056"
+        },
+        {
             "name": "Flucht von Monkey Island (Germany)",
             "sha1": "6519a3983f8cf0148758511527d3ca80b4b343c6"
         },
@@ -1347,6 +1399,10 @@
         {
             "name": "Fuga de Monkey Island, La (Spain)",
             "sha1": "ba58121d98b8cb1bd111e50fea31a986d7fee0ee"
+        },
+        {
+            "name": "Fugitive Hunter - War on Terror (USA)",
+            "sha1": "4b24fb89b23f9f6b84dee7205323079fe3a189c7"
         },
         {
             "name": "Fullmetal Alchemist and the Broken Angel (USA)",
@@ -1383,6 +1439,10 @@
         {
             "name": "Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy (USA)",
             "sha1": "8a2d2c11adc8a5f0153e7c5d502f4b24b006dc62"
+        },
+        {
+            "name": "Garfield (Europe) (En,Fr,De,Es,It,Nl)",
+            "sha1": "0e129900503971240340317c70b8aad63174953d"
         },
         {
             "name": "Garfield - Lasagna World Tour (USA)",
@@ -1687,6 +1747,10 @@
         {
             "name": "Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (RA Hash Fix) (Hack)",
             "sha1": "2ab197d264de581ed07088c1f0a97e9dc20deddf"
+        },
+        {
+            "name": "Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (Subset - Expert Full Combos)",
+            "sha1": "d9fc9170b8fdce262806db94104f23af9436820d"
         },
         {
             "name": "Guitar Hero III - Legends of Rock (Subset - Expert Full Combos)",
@@ -2033,6 +2097,10 @@
             "sha1": "7e533d1182def8dbe5dee48dbea63fc7f59ffd02"
         },
         {
+            "name": "Kill.switch (USA)",
+            "sha1": "c5374655266cf18aafb95c306587da7935f3de94"
+        },
+        {
             "name": "Killzone (USA)",
             "sha1": "120e8159676edf33584542048bc069c54ddbefbe"
         },
@@ -2325,6 +2393,10 @@
             "sha1": "d5da3828182991892743381edd9069503135866f"
         },
         {
+            "name": "Mana Khemia - Alchemists of Al-Revis (USA)",
+            "sha1": "cf5e4a1116f6f02279e71c5515142a564e3a7a1f"
+        },
+        {
             "name": "Manhunt (USA)",
             "sha1": "4dceef029803d42dc8fdb663a83ecc109a6b9c8a"
         },
@@ -2527,6 +2599,10 @@
         {
             "name": "Monster Hunter 2 (Japan) (En) (v1.03) (Break Arts) (MH2 Plus) (v1.3) (GReinoso96)",
             "sha1": "7beac3c2274f9d56f8c0b37399afc1b75143ae33"
+        },
+        {
+            "name": "Moorhuhn Fun Kart 2008 (Europe) (En,Fr,De,It)",
+            "sha1": "6b98ef6d272b7964d6a36f4b5e6b4a2121a52baf"
         },
         {
             "name": "Mortal Kombat - Armageddon (USA) (Premium Edition)",
@@ -3193,6 +3269,14 @@
             "sha1": "65a3a4aafe71e024e4543150205e62eaf5870026"
         },
         {
+            "name": "Rock Band (Europe, Australia) (En,Fr,De,Es,It)",
+            "sha1": "4be9c653edeff2170a994d9ed0197941304c2ac5"
+        },
+        {
+            "name": "Rock Band (Subset - Expert Full Combos)",
+            "sha1": "8930ae5d4cc3a986abd0f9169cee3195cc761b1b"
+        },
+        {
             "name": "Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan) (Hack)",
             "sha1": "2e41b3c67c012a89e88b47a959477e68bf0406e1"
         },
@@ -3299,6 +3383,10 @@
         {
             "name": "Scooby-Doo! First Frights (USA) (En,Fr,Es)",
             "sha1": "4e64727422f93a5841c40b8204d0488c4ef3c2dc"
+        },
+        {
+            "name": "Scooby-Doo! Mystery Mayhem (USA) (En,Fr)",
+            "sha1": "081e7e32ff289507aa17d06d64b2c50e05d65bea"
         },
         {
             "name": "Scooby-Doo! Night of 100 Frights (USA)",
@@ -3661,6 +3749,18 @@
             "sha1": "4aa7291e9ec9b02d74d3d6439a2d925e63997748"
         },
         {
+            "name": "Sky Odyssey (Europe) (En,Fr,De,Es,It)",
+            "sha1": "b238765a7dae66deb88dac371dceca45ee2c7179"
+        },
+        {
+            "name": "Sky Odyssey (USA)",
+            "sha1": "1bfc76c850389e24dd65beac7d77d0af9751b1b5"
+        },
+        {
+            "name": "Sky Odyssey, The (Japan)",
+            "sha1": "b4ae0e3ed30fc3380112f3fbcc6928c0d0de6c2d"
+        },
+        {
             "name": "Sly 2 - Band of Thieves (USA)",
             "sha1": "fc90a9c9b849a3f805e5673906a8bfd24b2b49ca"
         },
@@ -3679,6 +3779,10 @@
         {
             "name": "Snoopy vs. the Red Baron (USA)",
             "sha1": "a459531e0c404ebba636a1b33e184d76b26df67a"
+        },
+        {
+            "name": "Snow White & the 7 Clever Boys (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)",
+            "sha1": "5510f3cf907546ca3dbe8cdbfaef457405fca8b0"
         },
         {
             "name": "Sonic Heroes (Europe, Australia) (En,Fr,De,Es,It)",
@@ -4165,8 +4269,16 @@
             "sha1": "9aa589c28d62b4821ed7ee958eac267922eb57a2"
         },
         {
+            "name": "Trapt (USA)",
+            "sha1": "d444b0d520f03c271599dedb932f2c30ba6efc55"
+        },
+        {
             "name": "Triggerheart Exelica Enhanced (Japan)",
             "sha1": "be59f26a082b450fe9541718d0f951c2128b6b5e"
+        },
+        {
+            "name": "True Crime - New York City (USA)",
+            "sha1": "e4285cfa0e569773456dec362dfd7c97db7ba508"
         },
         {
             "name": "True Crime - Streets of LA (USA)",

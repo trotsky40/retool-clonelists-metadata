@@ -79,6 +79,12 @@
             "sha1": "740105dd2f9719d88b73053bc1638681e6ae9042"
         },
         {
+            "name": "Actionloop (Europe) (En,Fr,De,Es,It)",
+            "crc": "c4f612f6",
+            "md5": "27bb2fce6fe0cf4258e97afe4421ce12",
+            "sha1": "3a03c103b00767f079cb2e0dfae57e9dc0f56546"
+        },
+        {
             "name": "Advance Wars - Days of Ruin (USA) (En,Fr,Es)",
             "crc": "eac313f3",
             "md5": "b92cd828815becba6eda4c715c433ab0",
@@ -299,6 +305,12 @@
             "crc": "686075f1",
             "md5": "20a6e0264675c8e403f7ab746ba1bc40",
             "sha1": "481d234e9b3b2386342e30f768c3f4d16a7eb67a"
+        },
+        {
+            "name": "Better Call Saul DS (World) (v1.0) (Unl) (William278) (Aftermarket)",
+            "crc": "5f3bd811",
+            "md5": "ef6981e20072b9e1736b000d8152f00b",
+            "sha1": "d2919182455aed641ad474e5a74cf195291c76cd"
         },
         {
             "name": "Beyblade Metal Fusion - Cyber Pegasus (Europe)",
@@ -775,6 +787,12 @@
             "sha1": "e9cf7eef82f201938691a1a901675d7765c3e529"
         },
         {
+            "name": "Crash Landed (USA) (Proto) (2009-07-31T111550)",
+            "crc": "5841acba",
+            "md5": "1db7d9222af21259f26ecc8da7cfb430",
+            "sha1": "9f6fc48367cc092d49e9734666f09affabf087d8"
+        },
+        {
             "name": "Crash of the Titans (USA)",
             "crc": "ed0b8be6",
             "md5": "515a9f6d9d59e0ae25b9d2785a629e32",
@@ -973,6 +991,18 @@
             "sha1": "9602be2072a526893dd2037ccb764893d65a9a2b"
         },
         {
+            "name": "Dora the Explorer - Dora Saves the Mermaids (Europe) (En,Fr,De,Nl)",
+            "crc": "791b87ff",
+            "md5": "4f3aa9be18d7b608827a239bebcf10d4",
+            "sha1": "52b3f79799327b8cac39a26ff1040e806f109cf9"
+        },
+        {
+            "name": "Dora the Explorer - Dora Saves the Mermaids (Europe) (Sv,No,Da,Fi)",
+            "crc": "150aee09",
+            "md5": "f29eb44669025d07e70f291adac6fae6",
+            "sha1": "320d65f635a757d591495d8a2853ff1d527582a3"
+        },
+        {
             "name": "Dora's Cooking Club (Europe) (En,Fr,Es,Nl)",
             "crc": "e9e0cb99",
             "md5": "c970e145725c711d6d825951072b58af",
@@ -1027,10 +1057,40 @@
             "sha1": "fe43bcd55d81c1f42b41023ebac13379a2680e80"
         },
         {
+            "name": "Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es)",
+            "crc": "c433db29",
+            "md5": "a850803f31d480290902f51e70c11922",
+            "sha1": "b9132b77597bfeb8f4162b4ee51d87b4f92edc41"
+        },
+        {
+            "name": "Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es) (Party Chat) (v1.2) (AustNerevar)",
+            "crc": "670f3da5",
+            "md5": "6b8264964265c2ed22ae656f71f57f9d",
+            "sha1": "5388f282243ddca868484a70e0e3af713eab2605"
+        },
+        {
             "name": "Dragon Quest IV - The Chapters of the Chosen (Europe) (En,Fr,De,Es,It)",
             "crc": "ac5b7bd9",
             "md5": "2aeba340c3727410b5cbf5708329c59f",
             "sha1": "a9842d8d21df070e620779f461ed7cee4ca88b52"
+        },
+        {
+            "name": "Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker)",
+            "crc": "fdc2c18d",
+            "md5": "060b3980c28262d0b5e334aeb6cadb66",
+            "sha1": "b386cb20703c1134ac411c02370911fb8956fc96"
+        },
+        {
+            "name": "Dragon Quest IV - The Chapters of the Chosen (USA) (Party Chat) (Subset - Title Tracker)",
+            "crc": "369687f1",
+            "md5": "129d6975541618cc14676c31bef5141e",
+            "sha1": "a85a7a4d128ad036cd3959186766000494c7a498"
+        },
+        {
+            "name": "Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)",
+            "crc": "95aa617d",
+            "md5": "a9ac48f43cdaa9838000131a9d93854b",
+            "sha1": "779a319baae92be57ff03b3e7340484dcb8fbcb5"
         },
         {
             "name": "Dragon Quest IX - Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It)",
@@ -1373,6 +1433,12 @@
             "crc": "cc50cf7e",
             "md5": "f2d6fd3ca935e82ae7599026a6ba47b4",
             "sha1": "c490e1e9aabd09aad89f1eb836f4327dd74f9fd2"
+        },
+        {
+            "name": "Guilty Gear - Dust Strikers (Europe) (En,Fr,De,Es,It)",
+            "crc": "02239155",
+            "md5": "d42d124f5ed489808d98d33ff0d1e799",
+            "sha1": "c6522e0f7a0a0e60021e692192e8a4e7b672b3d5"
         },
         {
             "name": "Guitar Hero - On Tour (Control)",
@@ -2423,6 +2489,18 @@
             "crc": "f443f9bf",
             "md5": "9b40c229313a024f5125513eaf73c084",
             "sha1": "b0f7886720e842ed922569e1bb5c39c0fa090331"
+        },
+        {
+            "name": "New Zealand Story Revolution (Europe) (En,Fr,De,Es,It)",
+            "crc": "0f038f8b",
+            "md5": "484e2545c74c72ed3fb2009abcb3f3eb",
+            "sha1": "1bee729b09471bbce1b4abd93f2ab9c0d90d2ecd"
+        },
+        {
+            "name": "New Zealand Story Revolution (USA) (En,Fr,Es)",
+            "crc": "0f979955",
+            "md5": "e2d26334ad35f749c4b2ba01689fd2dd",
+            "sha1": "569ec56da8e924bdff318b155f7c9c7ddf8a1a0d"
         },
         {
             "name": "New Zelda (World) (Aftermarket)",

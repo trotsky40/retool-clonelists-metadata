@@ -109,6 +109,18 @@
             "sha1": "08e70b98918df5e5cf2fe057908ce5e8a69e05fe"
         },
         {
+            "name": "Final Fantasy II (Japan)",
+            "crc": "f09e752f",
+            "md5": "e03e666452651e82eb5734a9d684802a",
+            "sha1": "959321e3b971516e38a4cbf95b0fc3efc0b0a825"
+        },
+        {
+            "name": "Final Fantasy II (Japan) (En) (v0.97) (RPGONE)",
+            "crc": "15ec0525",
+            "md5": "ac5e0c9be878c8c287e92dd821969e9d",
+            "sha1": "18f8fd447ff10e2c43b0a649dcd039b7d0f53f0d"
+        },
+        {
             "name": "Final Fantasy IV (Japan)",
             "crc": "f699d6d1",
             "md5": "47d83279cbdbd91c51cb7b0063d5d3e5",
@@ -223,7 +235,7 @@
             "sha1": "5eaeab859e5f647fac354dad285a311387ea126b"
         },
         {
-            "name": "Mazy (World) (v20230618) (Aftermarket)",
+            "name": "Mazy Mini (World) (v20230618) (Aftermarket)",
             "crc": "2620c258",
             "md5": "4ea83a19867a3e32749b1c9d898583ca",
             "sha1": "d7dd04a77d8c0edee79df61a3cd7f308fdde611d"
@@ -259,7 +271,7 @@
             "sha1": "fb8d0f4e58a4192989ec71eb6e392d182aaa3eec"
         },
         {
-            "name": "RUN=DIM - Return to Earth (Japan).",
+            "name": "RUN=DIM - Return to Earth (Japan)",
             "crc": "15c4552e",
             "md5": "5898c0dfee65ff9b47ce6ec1be2014d5",
             "sha1": "3a41a3b8fc126da07e2a82c21056a45c15efbc98"

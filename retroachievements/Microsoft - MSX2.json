@@ -19,6 +19,12 @@
             "sha1": "da397e783d677d1a78fff222d9d6cb48b915dada"
         },
         {
+            "name": "Adventure of Randar (Japan) (En) (v2003) (Sargon)",
+            "crc": "9797ce48",
+            "md5": "0164108447e64616dac9b082256dd941",
+            "sha1": "4f35370c32bafd3c3e812c2ce9a80b50077c45c1"
+        },
+        {
             "name": "Aleste (Japan)",
             "crc": "c29edd84",
             "md5": "7087b51f3ccfdf314ce60d5d8aaf644a",
@@ -293,6 +299,12 @@
             "crc": "909121ff",
             "md5": "8d5579c594f69858514f8b8d9fc793fc",
             "sha1": "67ebadcc59684b936a6627a9caad24b5b41e6a22"
+        },
+        {
+            "name": "Find It! (2020) (v1.1) (Fabf) (Aftermarket)",
+            "crc": "28ffe6c0",
+            "md5": "9e7d36c4bf2bf721ef5bfde4e11a5316",
+            "sha1": "86eafcb009d5733b75b47a54c80310f1f6d92147"
         },
         {
             "name": "Fire Rescue (Japan)",
@@ -887,6 +899,12 @@
             "crc": "a0014e7f",
             "md5": "b34b756e16f07e26c2052823bab93592",
             "sha1": "0c62591033aa4e5e6b9eeb21eb2e5e60dcd8ee8e"
+        },
+        {
+            "name": "Randar (1989) (Compile) (Japan)",
+            "crc": "4baea838",
+            "md5": "227a4a048c676ed602d2bcd2f7a2954f",
+            "sha1": "f01ea5b68a82ec06435520055c2f57562b66f053"
         },
         {
             "name": "Rastan Saga (Japan)",

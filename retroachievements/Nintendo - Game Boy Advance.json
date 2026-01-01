@@ -475,6 +475,24 @@
             "sha1": "314eced054604866153883ee20e0966e1443e0d9"
         },
         {
+            "name": "Brother Bear (Europe)",
+            "crc": "6220a4b8",
+            "md5": "80112ba773c8b8072502f46c1781561f",
+            "sha1": "0bd142c546d13c2adf21a48b48fe09f7633ad6f3"
+        },
+        {
+            "name": "Brother Bear (Europe) (Fr,De,Es,It,Nl,Sv,Da)",
+            "crc": "fd814097",
+            "md5": "b8b752c5659e94c0474fe6050df498f2",
+            "sha1": "7e217e5f644b0333c51f3827df5fd64023ac7c0e"
+        },
+        {
+            "name": "Brother Bear (USA)",
+            "crc": "342de1d6",
+            "md5": "1bdadffe311ef9fa231c799806ad5ca3",
+            "sha1": "89e6903500f62e11483402b76c1454af788646c0"
+        },
+        {
             "name": "Bubble Bobble - Old & New (Europe) (En,Fr,De,Es,It)",
             "crc": "dfa1a201",
             "md5": "2d9d80520480dbc4872b774a80f02f07",
@@ -1111,6 +1129,12 @@
             "sha1": "ae95edab3eda11409b0646e7e03c5166e6e76002"
         },
         {
+            "name": "Daredevil (Europe) (En,Fr,Es,It)",
+            "crc": "41a9b849",
+            "md5": "f8d9503c529e3608ed4d91fc7315deb3",
+            "sha1": "0445b1d035b287023a94c45d1d77bc091f874acb"
+        },
+        {
             "name": "Dark Eden (Unknown) (Proto)",
             "crc": "9cf479d2",
             "md5": "50e9dbc3731383d6452584bfad42297d",
@@ -1225,10 +1249,10 @@
             "sha1": "37c0bc3c8fc1b79efd18121fec6f2df97ddb3bdf"
         },
         {
-            "name": "Discrete Orange (World) (Aftermarket)",
-            "crc": "8515069c",
-            "md5": "0f424c61285bfee9a940bc9aa47c61bf",
-            "sha1": "d2546be26c1e902e09cbb288ff9e4f654ae5194b"
+            "name": "Discrete Orange (World) (v1.0) (Aftermarket)",
+            "crc": "e3128528",
+            "md5": "0b05bbe610ecf21530aade82f4246fc0",
+            "sha1": "c0b61d210e53ef57de9a813bc11b869c64de3ab6"
         },
         {
             "name": "Disney Princesas (Spain)",
@@ -1661,6 +1685,18 @@
             "crc": "bd5e9798",
             "md5": "55c14323547aa4f83e5eede98d0417f3",
             "sha1": "8a08e29ec987f9cbdde21c34d5f7657aa7ba0be6"
+        },
+        {
+            "name": "FE8 - A Star Wars Story (v1.0) (Augenis) (Hack)",
+            "crc": "ea05e5ce",
+            "md5": "bc92054bf11d9ac87257741ea466a291",
+            "sha1": "70cfab2b1c9a0640327966a56f015bff1541e3b6"
+        },
+        {
+            "name": "FE8 - Fire Emblem - Sacred Echoes (En) (v1.1.2) (HyperGammaSpaces) (Hack)",
+            "crc": "13f15f23",
+            "md5": "e1ffc6bf135b30dc07cf3ffa7193f4f2",
+            "sha1": "57b8adbdeae1eeef61d54c6715a55182d50d8a1b"
         },
         {
             "name": "FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl)",
@@ -2159,6 +2195,18 @@
             "crc": "2fb5b819",
             "md5": "cdde24e4b71ac0cb1cf32bab1374f64a",
             "sha1": "ba690c0857ac235a3e3a8342e2aec41c6e48ed94"
+        },
+        {
+            "name": "Gensou Suikoden - Card Stories (Japan)",
+            "crc": "5e67aab4",
+            "md5": "0a3523db5fe9a0329d766d9d1ff5e654",
+            "sha1": "c01772cd0416ddca38dcd1ef63e53a4ebda90bbc"
+        },
+        {
+            "name": "Gensou Suikoden - Card Stories (Japan) (En) (v1.0) (Pokeytax)",
+            "crc": "dafac900",
+            "md5": "1e2ed077d1db255c44cd6c653067750c",
+            "sha1": "343b4dc9e897133f26dc8f04a70c1ea752d26cdd"
         },
         {
             "name": "Getting Around It with Pheasant Birdy (World) (Aftermarket)",
@@ -4561,6 +4609,12 @@
             "sha1": "22b15310616c36af5d7fff11198d2abe4759151d"
         },
         {
+            "name": "Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack)",
+            "crc": "6c5ee1b2",
+            "md5": "c1a19efc331c0489912e70178bda1004",
+            "sha1": "8745ddbdbfadf6abaf66de4e9055923b62eb4668"
+        },
+        {
             "name": "Pokemon - Orange Islands (Hack)",
             "crc": "de228cd3",
             "md5": "a9ab32e8aa66acf206fb19c3764f29ce",
@@ -4637,6 +4691,12 @@
             "crc": "ceffa1f8",
             "md5": "9d54170472e5a37fc92602b838fe754e",
             "sha1": "be5033598e91d0e80fa93e551406f02a7876d7c2"
+        },
+        {
+            "name": "Pokemon - Recharged Yellow (v1.9.0) (Jaizu) (Hack)",
+            "crc": "e79d5999",
+            "md5": "3d26111c90fc3041abe5b1ac4c8257b3",
+            "sha1": "ac30d1ed80e75104a3fb92f71e2b9a51c26e80c8"
         },
         {
             "name": "Pokemon - Rocket Edition (v1.0) (Hack)",
@@ -4789,6 +4849,12 @@
             "sha1": "c27a4094cc3a7bcc8bbaee298afdbd635ca237b4"
         },
         {
+            "name": "Pokemon - Too Many Types (v1.6) (Kobazco) (Hack)",
+            "crc": "e91fef2d",
+            "md5": "e7ec28748911cf3895f930d59d6d0120",
+            "sha1": "e634cdcada0d589918da658307eddb1db0eb2752"
+        },
+        {
             "name": "Pokemon - Ultra Violet Version (Hack)",
             "crc": "ee742896",
             "md5": "48f5c9500f409dd2e14e297e81aa764c",
@@ -4811,6 +4877,12 @@
             "crc": "4b3d4957",
             "md5": "9cad8e771940e7f7094d13911552cef0",
             "sha1": "b4776b82a4c7915d0fadeaa27e013523f99dfd94"
+        },
+        {
+            "name": "Pokemon - Uncanny Version (v1.0) (RetroNC) (Hack)",
+            "crc": "ca2875b5",
+            "md5": "6b83016bbf8eaf6fc9846cab02a5f838",
+            "sha1": "ea3fd3afe3e4412a1678e84f60aa02ac38d195fa"
         },
         {
             "name": "Pokemon - VR Missions (Hack)",
@@ -5171,6 +5243,12 @@
             "crc": "1ae3eb16",
             "md5": "f4326bde4b5e9f53f5fc58ce24d7b137",
             "sha1": "5ec86056ccef168b57be8e609aada2b1da11f733"
+        },
+        {
+            "name": "SMA2 - The Return to Dinosaurland (v1.1) (Oquendo) (Hack)",
+            "crc": "d5ad5e3a",
+            "md5": "df01d18578247c6bd8b7c651793268bc",
+            "sha1": "ac7399aab89696dee3a82dbdc3b33817f9e52ebb"
         },
         {
             "name": "SMA2 - Yet Another Vanilla SMA2 Hack (v1.1) (Gamer Hedgehog) (Hack)",
@@ -6211,6 +6289,12 @@
             "sha1": "4c4852ecdf5a31fb8c72e552575335267fdd1296"
         },
         {
+            "name": "Teen Titans 2 (USA) (En,Fr)",
+            "crc": "ccacd823",
+            "md5": "c9ce90b98c6cc2f60847d6f39ecf11c5",
+            "sha1": "1cfca926300db1719aa671404386a19b55316054"
+        },
+        {
             "name": "Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)",
             "crc": "15bdf0ad",
             "md5": "dc4ea1eb92d51b8c18b58611ad652ccc",
@@ -6425,6 +6509,18 @@
             "crc": "3f127891",
             "md5": "42d90bcebc174ad8ce7553071a881079",
             "sha1": "cc7e45a680f9a8701fe35a64c764d5e106bd9096"
+        },
+        {
+            "name": "Virtua Tennis (Europe) (En,Fr,De,Es,It)",
+            "crc": "e52a3ab8",
+            "md5": "820a03dcd47b4d8aec4b09b6d0f95d56",
+            "sha1": "d200653b31c7fc150e9e84b53370ce4f40a10d43"
+        },
+        {
+            "name": "Virtua Tennis (USA)",
+            "crc": "e0bd3b75",
+            "md5": "bfb5a63fde75becb342f5d0e9a8e0da2",
+            "sha1": "2bf5363d24c4ec6de8aafae1bffc84113eaed0a2"
         },
         {
             "name": "Virtual Kasparov (USA) (En,Fr,De,Es,It)",
