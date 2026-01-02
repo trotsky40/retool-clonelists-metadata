@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-02 11:07:19",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -561,10 +561,10 @@
 			]
 		},
 		{
-			"group": "Beat-Em-Up Special (Demo)",
+			"group": "Beat-Em-Up Special",
 			"titles": [
-				{"searchTerm": "Beat-Em-Up Special (Demo)"},
-				{"searchTerm": "Beat-Em-Up Speziale (Demo)"}
+				{"searchTerm": "Beat-Em-Up Special"},
+				{"searchTerm": "Beat-Em-Up Speziale"}
 			]
 		},
 		{
@@ -1161,10 +1161,10 @@
 			]
 		},
 		{
-			"group": "Codemasters Demo CD (Demo)",
+			"group": "Codemasters Demo CD",
 			"titles": [
-				{"searchTerm": "Codemasters Demo CD (Demo)"},
-				{"searchTerm": "Codemasters Demo Disk (Demo)"}
+				{"searchTerm": "Codemasters Demo CD"},
+				{"searchTerm": "Codemasters Demo Disk"}
 			]
 		},
 		{
@@ -1489,7 +1489,7 @@
 			"group": "Demo One",
 			"titles": [
 				{
-					"searchTerm": "Demo One (Demo)",
+					"searchTerm": "Demo One",
 					"filters": [
 						{
 							"conditions": {

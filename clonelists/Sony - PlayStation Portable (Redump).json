@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-02 11:07:20",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -677,7 +677,7 @@
 				{"searchTerm": "Frontier Gate"}
 			],
 			"supersets": [
-				{"searchTerm": "Frontier Gate Boost +"}
+				{"searchTerm": "Frontier Gate Boost+"}
 			]
 		},
 		{
@@ -1683,10 +1683,10 @@
 			]
 		},
 		{
-			"group": "Stealth feat. WipEout Pure Stealth Edition (Demo)",
+			"group": "Stealth feat. WipEout Pure Stealth Edition",
 			"titles": [
-				{"searchTerm": "Furtif + WipEout Pure (Demo)"},
-				{"searchTerm": "Stealth feat. WipEout Pure Stealth Edition (Demo)"}
+				{"searchTerm": "Furtif + WipEout Pure"},
+				{"searchTerm": "Stealth feat. WipEout Pure Stealth Edition"}
 			]
 		},
 		{

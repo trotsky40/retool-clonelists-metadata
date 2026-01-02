@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (Digital) (CDN) (No-Intro)",
-		"lastUpdated": "2025-12-21 15:27:36",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-02 11:07:19",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -2735,13 +2735,6 @@
 			]
 		},
 		{
-			"group": "Yo-Kai Watch (Update)",
-			"titles": [
-				{"searchTerm": "Yo-Kai Watch (Update)"},
-				{"searchTerm": "Youkai Watch (Update)"}
-			]
-		},
-		{
 			"group": "Yo-Kai Watch 2 - Bony Spirits",
 			"titles": [
 				{"searchTerm": "Yo-Kai Watch 2 - Bony Spirits"},
@@ -2753,6 +2746,13 @@
 			"titles": [
 				{"searchTerm": "Yo-Kai Watch 2 - Bony Spirits (Update)"},
 				{"searchTerm": "Youkai Watch 2 - Ganso (Update)"}
+			]
+		},
+		{
+			"group": "Yo-Kai Watch (Update)",
+			"titles": [
+				{"searchTerm": "Yo-Kai Watch (Update)"},
+				{"searchTerm": "Youkai Watch (Update)"}
 			]
 		},
 		{

@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-02 11:07:19",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -1124,7 +1124,7 @@
 			"titles": [
 				{"searchTerm": "King Arthur's World"},
 				{"searchTerm": "Royal Conquest"},
-				{"searchTerm": "Havoc (Demo)", "priority": 2}
+				{"searchTerm": "Havoc", "priority": 2}
 			]
 		},
 		{

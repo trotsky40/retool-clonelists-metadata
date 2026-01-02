@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox 360 (Redump)",
-		"lastUpdated": "2025-10-06 10:50:45",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-02 11:07:19",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -623,10 +623,10 @@
 			]
 		},
 		{
-			"group": "Family Games (Demo)",
+			"group": "Family Games",
 			"titles": [
-				{"searchTerm": "Family Games (Demo)"},
-				{"searchTerm": "Family Games (Toys R Us) (Demo)", "priority": 2}
+				{"searchTerm": "Family Games"},
+				{"searchTerm": "Family Games (Toys R Us)", "priority": 2}
 			]
 		},
 		{
