@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "2026-01-10 14:23:34",
+		"lastUpdated": "2026-01-11 06:52:46",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -730,6 +730,13 @@
 				{"searchTerm": "Classic Collection"},
 				{"searchTerm": "Game no Kanzume Otokuyou"},
 				{"searchTerm": "Sega Top Five"}
+			]
+		},
+		{
+			"group": "Flintstones, The",
+			"titles": [
+				{"searchTerm": "Flintstones, The"},
+				{"searchTerm": "Flintstones, The (Taito)"}
 			]
 		},
 		{

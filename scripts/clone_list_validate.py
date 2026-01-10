@@ -367,7 +367,7 @@ def main() -> None:
     test_succeeded: bool = True
 
     for file in files:
-        if file != 'hash.json':
+        if 'hash.json' not in file:
             print(f'\n\nValidating {file}\n{'-----------'}{'-'*len(file)}\n')
 
             # Check for valid JSON

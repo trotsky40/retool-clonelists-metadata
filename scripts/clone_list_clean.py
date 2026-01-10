@@ -43,7 +43,7 @@ def main() -> None:
     files = [x for x in files if 'clonelists' in x]
 
     for file in files:
-        if file != 'hash.json':
+        if 'hash.json' not in file:
             with open(pathlib.Path(file), encoding='utf-8') as clone_list_file:
                 clonelist = json.load(clone_list_file)
 
