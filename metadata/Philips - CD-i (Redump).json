@@ -5461,6 +5461,10 @@
 	"Pavarotti - O Sole Mio (France)": {
 		"languages": ["Fr"]
 	},
+	"Pavarotti - O Sole Mio (Japan)": {
+		"languages": [],
+		"localName": "Ｏ Ｓｏｌｅ Ｍｉｏ パバロッティ"
+	},
 	"Pavarotti - O Sole Mio (USA)": {
 		"languages": []
 	},
@@ -5800,6 +5804,9 @@
 	},
 	"Rembrandt - His Art and the Music of His Era (Europe)": {
 		"languages": ["En"]
+	},
+	"Rembrandt - His Art and the Music of His Era (Japan)": {
+		"languages": []
 	},
 	"Rembrandt - His Art and the Music of His Era (USA)": {
 		"languages": []
@@ -6507,6 +6514,14 @@
 	},
 	"Test Reglamentacion Especifico C-C1 (Spain) (Proto) (1999-06-25)": {
 		"languages": []
+	},
+	"Tetris (Japan)": {
+		"languages": [],
+		"localName": "テトリス"
+	},
+	"Tetris (Japan) (Alt)": {
+		"languages": [],
+		"localName": "テトリス"
 	},
 	"Tetris (USA) (Beta) (1992-06-22)": {
 		"languages": []

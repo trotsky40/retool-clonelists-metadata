@@ -1775,7 +1775,11 @@
 	},
 	"FIFA 2002 - Road to FIFA World Cup (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localName": "ＦＩＦＡ　２００２：ロード　トゥ　ＦＩＦＡ　ワールドカップ"
+		"localName": "ＦＩＦＡ　２００２　ロード・トゥ・ＦＩＦＡワールドカップ"
+	},
+	"FIFA 2002 - Road to FIFA World Cup (Japan) (Jitsuen-you Sample)": {
+		"languages": ["Ja"],
+		"localName": "ＦＩＦＡ　２００２　ロード・トゥ・ＦＩＦＡワールドカップ"
 	},
 	"FIFA 2003 - European Football (Japan)": {
 		"languages": ["Ja"],
@@ -4883,7 +4887,7 @@
 		"localName": "ＳＤメディアランチャー　Ｗｉｉ用／ＧＣ用"
 	},
 	"SD Media Launcher for GameCube & Wii (USA) (Unl)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5038,10 +5042,10 @@
 	"Serious Sam - Next Encounter (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Shadow the Hedgehog (Europe) (Beta) (2005-09-22)": {
-		"languages": []
-	},
 	"Shadow the Hedgehog (Europe) (En,Ja,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
+	},
+	"Shadow the Hedgehog (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2005-09-22)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Shadow the Hedgehog (Japan) (En,Ja,Fr,De,Es,It)": {

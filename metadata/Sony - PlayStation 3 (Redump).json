@@ -421,8 +421,8 @@
 	"April 2009 IDU 2.60 (USA)": {
 		"languages": []
 	},
-	"Aquanaut's Holiday - Hidden Memories (Asia) (En,Zh)": {
-		"languages": ["En", "Zh"],
+	"Aquanaut's Holiday - Hidden Memories (Asia) (En,Zh,Ko)": {
+		"languages": ["En", "Ko", "Zh"],
 		"localName": "AQUANAUT'S HOLIDAY ～堡礁秘辛～"
 	},
 	"Aquanaut's Holiday - Kakusareta Kiroku (Japan)": {
@@ -520,7 +520,7 @@
 	"Armored Core 4 (Europe) (En,Fr,It)": {
 		"languages": ["En", "Fr", "It"]
 	},
-	"Armored Core 4 (Japan)": {
+	"Armored Core 4 (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "アーマード・コア４"
 	},
@@ -1250,7 +1250,7 @@
 	"BioShock Infinite - The Complete Edition (USA)": {
 		"languages": []
 	},
-	"Biohazard - Chronicles HD Selection (Japan)": {
+	"Biohazard - Chronicles HD Selection (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "バイオハザード　クロニクルズ　ＨＤセレクション"
 	},
@@ -7089,6 +7089,10 @@
 	"Little League World Series Baseball 2010 (USA)": {
 		"languages": ["En"]
 	},
+	"LittleBigPlanet (Asia)": {
+		"languages": [],
+		"localName": "리틀 빅 플래닛"
+	},
 	"LittleBigPlanet (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko) (v01.00)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pt", "Sv", "Zh"]
 	},
@@ -7098,10 +7102,6 @@
 	"LittleBigPlanet (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Nl", "No", "Pt", "Sv"],
 		"localName": "リトルビッグプラネット"
-	},
-	"LittleBigPlanet (Korea)": {
-		"languages": [],
-		"localName": "리틀 빅 플래닛"
 	},
 	"LittleBigPlanet (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v01.00)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pt", "Sv"]
@@ -9053,7 +9053,7 @@
 	"Ninja Gaiden 3 - Razor's Edge (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Ninja Gaiden 3 - Razor's Edge (Japan)": {
+	"Ninja Gaiden 3 - Razor's Edge (Japan, Asia)": {
 		"languages": []
 	},
 	"Ninja Gaiden 3 - Razor's Edge (USA) (En,Ja,Fr,De,Es,It)": {
@@ -10934,7 +10934,7 @@
 		"languages": [],
 		"localName": "最強将棋　激指１３"
 	},
-	"Saint Seiya - Brave Soldiers (Japan)": {
+	"Saint Seiya - Brave Soldiers (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "聖闘士星矢　ブレイブ・ソルジャーズ"
 	},
@@ -11371,7 +11371,7 @@
 		"languages": ["Zh"],
 		"localName": "真・三國無雙５"
 	},
-	"Shin Sangoku Musou 5 (Japan)": {
+	"Shin Sangoku Musou 5 (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "真・三國無双５"
 	},
@@ -12289,15 +12289,15 @@
 	"Sports Champions (USA) (En,Fr,Es,Pt) (FW3.50)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
+	"Sports Champions 2 (Asia)": {
+		"languages": []
+	},
 	"Sports Champions 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"Sports Champions 2 (Japan)": {
 		"languages": [],
 		"localName": "スポーツチャンピオン２"
-	},
-	"Sports Champions 2 (Korea)": {
-		"languages": []
 	},
 	"Sports Champions 2 (UK)": {
 		"languages": ["En"]
@@ -14400,6 +14400,9 @@
 	"X Edge (Korea)": {
 		"languages": ["Ko"],
 		"localName": "크로스 엣지"
+	},
+	"X Factor (France) (En,Fr,De,It,Nl)": {
+		"languages": ["De", "En", "Fr", "It", "Nl"]
 	},
 	"X Factor, The (Europe) (En,Fr,De,It,Nl)": {
 		"languages": ["De", "En", "Fr", "It", "Nl"]

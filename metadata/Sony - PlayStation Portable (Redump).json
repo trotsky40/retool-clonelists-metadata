@@ -576,6 +576,10 @@
 	"B-Boy (USA)": {
 		"languages": []
 	},
+	"Baito Hell 2000 (Asia)": {
+		"languages": ["Ja"],
+		"localName": "バイトヘル２０００"
+	},
 	"Baka to Test to Shoukanjuu Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "バカとテストと召喚獣　ポータブル"
@@ -643,10 +647,6 @@
 	},
 	"Beaterator (USA)": {
 		"languages": ["En"]
-	},
-	"Beit Hell 2000 (Asia)": {
-		"languages": ["Ja"],
-		"localName": "バイトヘル２０００"
 	},
 	"Ben 10 - Alien Force (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6169,7 +6169,7 @@
 	},
 	"Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan)": {
 		"languages": ["Ja"],
-		"localName": "マル合格　資格奪取！　ケアマネジャー試験　ポータブル"
+		"localName": "マル合格資格奪取！　ケアマネジャー試験　ポータブル"
 	},
 	"Maru Goukaku Shikaku Dasshu! Chuushou Kigyou Shindanshi Shiken 2 Portable (Japan)": {
 		"languages": ["Ja"],
@@ -10411,11 +10411,11 @@
 		"languages": ["En", "Ja", "Ko", "Zh"],
 		"localName": "토크맨"
 	},
-	"TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It) (Microphone Doukonban)": {
+	"TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "ＴａｌｋＭａｎ　ＥＵＲＯ！　トークマン　ヨーロッパ言語版"
 	},
-	"TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (En,Ja,Fr,De,Es,It)": {
+	"TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It) (Microphone Doukonban)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "ＴａｌｋＭａｎ　ＥＵＲＯ！　トークマン　ヨーロッパ言語版"
 	},
@@ -10423,13 +10423,17 @@
 		"languages": ["Ja"],
 		"localName": "トークマン・トラベル　韓国／台湾／中国（上海）／編"
 	},
-	"TalkMan-shiki - Shabelingual Eikaiwa (Japan) (Microphone Doukonban)": {
-		"languages": ["Ja"],
-		"localName": "ＴａｌｋＭａｎ式　しゃべリンガル　英会話"
+	"TalkMan Yeongeohoehwa Sudajaeng English (Korea)": {
+		"languages": ["Ko"],
+		"localName": "ＴＡＬＫＭＡＮ 영어회화 수다쟁이 잉글리쉬"
 	},
 	"TalkMan-shiki Shabelingual Eikaiwa (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＴａｌｋＭａｎ式　しゃべリンガル英会話"
+	},
+	"TalkMan-shiki Shabelingual Eikaiwa (Japan) (Microphone Doukonban)": {
+		"languages": ["Ja"],
+		"localName": "ＴａｌｋＭａｎ式　しゃべリンガル　英会話"
 	},
 	"TalkMan-shiki Shabelingual Eikaiwa for Kids! (Japan)": {
 		"languages": ["Ja"],
@@ -10438,10 +10442,6 @@
 	"TalkMan-shiki Shabelingual Eikaiwa for Kids! (Japan) (En,Ja) (Microphone Doukonban)": {
 		"languages": ["En", "Ja"],
 		"localName": "ＴａｌｋＭａｎ式　しゃべリンガル英会話　ｆｏｒ　Ｋｉｄｓ！"
-	},
-	"Talkman Yeongeohoehwa Sudajaeng English (Korea)": {
-		"languages": ["Ko"],
-		"localName": "ＴＡＬＫＭＡＮ 영어회화 수다쟁이 잉글리쉬"
 	},
 	"Tantei Jinguuji Saburou - Hai to Diamond (Japan)": {
 		"languages": ["Ja"],

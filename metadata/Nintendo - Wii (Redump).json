@@ -6619,7 +6619,7 @@
 		"languages": ["Ja"],
 		"localName": "モノポリー"
 	},
-	"Monopoly (USA) (En,Fr,Es)": {
+	"Monopoly (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Monopoly Collection (Europe) (En,Fr)": {
@@ -6938,7 +6938,7 @@
 	"MySims (USA) (Beta) (2007-07-29)": {
 		"languages": []
 	},
-	"MySims (USA) (En,Fr,Es)": {
+	"MySims (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"MySims Agents (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)": {
@@ -7275,7 +7275,7 @@
 	"Need for Speed - ProStreet (USA) (Beta) (2007-10-03)": {
 		"languages": []
 	},
-	"Need for Speed - ProStreet (USA) (Rev 1)": {
+	"Need for Speed - ProStreet (USA, Canada) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - The Run (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -9487,7 +9487,7 @@
 		"languages": ["Ja"],
 		"localName": "シムシティ　クリエイター"
 	},
-	"SimCity Creator (USA) (En,Fr,Es)": {
+	"SimCity Creator (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"SimCity Namanui Dosi (Korea)": {
@@ -9620,7 +9620,7 @@
 	"Ski-Doo Snowmobile Challenge (USA) (Beta)": {
 		"languages": []
 	},
-	"Ski-Doo Snowmobile Challenge (USA) (En,Fr)": {
+	"Ski-Doo Snowmobile Challenge (USA, Canada) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
 	"Sky Crawlers - Innocent Aces (Japan)": {

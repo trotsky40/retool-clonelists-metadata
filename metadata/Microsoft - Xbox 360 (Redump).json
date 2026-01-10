@@ -126,7 +126,7 @@
 	"Ace Combat 6 - Fires of Liberation (USA, Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Ace Combat 6 - Kaihou e no Senka (Japan, Asia) (En,Ja,Fr,De,Es,It)": {
+	"Ace Combat 6 - Kaihou e no Senka (Japan, Asia) (En,Ja,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "エースコンバット６　解放への戦火"
 	},
@@ -451,8 +451,8 @@
 	"Assassin's Creed II (Europe) (It,Pl,Ru)": {
 		"languages": ["It", "Pl", "Ru"]
 	},
-	"Assassin's Creed II (Japan) (Ja,It)": {
-		"languages": ["It", "Ja"],
+	"Assassin's Creed II (Japan) (En,Ja,It)": {
+		"languages": ["En", "It", "Ja"],
 		"localName": "アサシン　クリードＩＩ"
 	},
 	"Assassin's Creed II (Korea) (It,Ko)": {
@@ -468,14 +468,14 @@
 	"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
-	"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)": {
-		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
-	},
 	"Assassin's Creed II - Game of the Year Edition (Europe) (It,Pl,Ru)": {
 		"languages": ["It", "Pl", "Ru"]
 	},
-	"Assassin's Creed II - Special Edition (Japan)": {
-		"languages": [],
+	"Assassin's Creed II - Game of the Year Edition (UK) (En,It)": {
+		"languages": ["En", "It"]
+	},
+	"Assassin's Creed II - Special Edition (Japan) (En,Ja,It)": {
+		"languages": ["En", "It", "Ja"],
 		"localName": "アサシン　クリードⅡ　スペシャル　エディション"
 	},
 	"Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Disc 1)": {
@@ -840,6 +840,9 @@
 		"languages": []
 	},
 	"Biggest Loser, The - Ultimate Workout (USA, Europe)": {
+		"languages": []
+	},
+	"Bigs 2 - Baseball, The (Europe)": {
 		"languages": []
 	},
 	"Bigs 2, The (USA)": {
@@ -1283,11 +1286,11 @@
 	"Burnout Revenge (USA)": {
 		"languages": ["En"]
 	},
-	"CSI - Crime Scene Investigation - Deadly Intent (USA, Europe)": {
-		"languages": []
+	"CSI - Crime Scene Investigation - Deadly Intent (USA, Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"CSI - Crime Scene Investigation - Fatal Conspiracy (USA, Europe)": {
-		"languages": []
+	"CSI - Crime Scene Investigation - Fatal Conspiracy (USA, Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"CSI - Crime Scene Investigation - Hard Evidence (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1749,8 +1752,8 @@
 		"languages": ["Ja"],
 		"localName": "地球防衛軍４"
 	},
-	"Child of Eden (USA, Europe)": {
-		"languages": []
+	"Child of Eden (USA, Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Chromehounds (Japan)": {
 		"languages": ["Ja"],
@@ -1878,7 +1881,7 @@
 	"Command & Conquer 3 - Tiberium Wars (USA)": {
 		"languages": ["En"]
 	},
-	"Compilation Disc - DJ Hero & Band Hero & Guitar Hero 5 & Guitar Hero - Greatest Hits (Europe)": {
+	"Compilation Disc - DJ Hero & Band Hero & Guitar Hero 5 & Guitar Hero - Greatest Hits (Italy)": {
 		"languages": []
 	},
 	"Conan (Germany)": {
@@ -3522,6 +3525,9 @@
 	"Experience Disc Version 6.1G, The (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"Experience Disc Version 6.3, The (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"Experience Disc Version 6.4, The (USA)": {
 		"languages": []
 	},
@@ -4192,8 +4198,8 @@
 	"Fantastic Pets (USA, Europe)": {
 		"languages": []
 	},
-	"Far Cry 2 (Japan)": {
-		"languages": [],
+	"Far Cry 2 (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "ファー　クライ　２"
 	},
 	"Far Cry 2 (USA, Europe) (En,Fr,De,Es,It)": {
@@ -5050,8 +5056,8 @@
 	"Hard Drive Transfer Disc (USA)": {
 		"languages": []
 	},
-	"Hard Drive Transfer Disc (USA) (En,Ja,Fr,De,Es,It,Zh,Ko) (Rev 1)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
+	"Hard Drive Transfer Disc (USA) (Rev 1)": {
+		"languages": []
 	},
 	"Harley Pasternak's Hollywood Workout (USA)": {
 		"languages": []
@@ -5110,8 +5116,8 @@
 	"Hellboy - The Science of Evil (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Heroes over Europe (USA, Europe)": {
-		"languages": []
+	"Heroes over Europe (USA, Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Hip Hop Dance Experience, The (USA, Europe)": {
 		"languages": []
@@ -5346,8 +5352,8 @@
 	"James Cameron's Avatar - The Game (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"James Cameron's Avatar The Game (Japan)": {
-		"languages": [],
+	"James Cameron's Avatar The Game (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "アバター　ＴＨＥ　ＧＡＭＥ"
 	},
 	"Janline (Japan)": {
@@ -5794,10 +5800,10 @@
 	"LEGO Star Wars - The Force Awakens (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
 	},
-	"LEGO Star Wars II - The Original Trilogy (USA) (En,Fr,De,Es,It) (Rev 1)": {
+	"LEGO Star Wars II - The Original Trilogy (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"LEGO Star Wars II - The Original Trilogy (USA, Europe) (En,Fr,De,Es,It)": {
+	"LEGO Star Wars II - The Original Trilogy (USA, Europe) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"LEGO Star Wars III - The Clone Wars (USA, Europe) (En,Fr,De,Es,It,Da)": {
@@ -6623,12 +6629,12 @@
 	"Metro 2033 (USA, Europe) (En,Fr,Es,It,Nl)": {
 		"languages": ["En", "Es", "Fr", "It", "Nl"]
 	},
-	"Michael Jackson - The Experience (Japan)": {
-		"languages": ["Ja"],
+	"Michael Jackson - The Experience (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "マイケル・ジャクソン　ザ・エクスペリエンス"
 	},
-	"Michael Jackson - The Experience (USA, Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Michael Jackson - The Experience (USA, Europe) (En,Fr,De,Es,It,Nl,Pl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl"]
 	},
 	"Michael Phelps - Push the Limit (USA, Europe)": {
 		"languages": []
@@ -8490,6 +8496,9 @@
 	"Red Faction - Armageddon (World) (En,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
+	"Red Faction - Guerrilla (Austria, Switzerland)": {
+		"languages": []
+	},
 	"Red Faction - Guerrilla (Europe) (En,Fr,Es,It,Nl) (Demo)": {
 		"languages": ["En", "Es", "Fr", "It", "Nl"]
 	},
@@ -9042,8 +9051,8 @@
 	"Shaun White Skateboarding (UK)": {
 		"languages": ["En"]
 	},
-	"Shaun White Skateboarding (USA, Europe) (En,Fr,De,Es,It,Pl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
+	"Shaun White Skateboarding (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Pl)": {
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Sv"]
 	},
 	"Shaun White Snowboarding (Europe) (Beta)": {
 		"languages": []
@@ -9051,8 +9060,8 @@
 	"Shaun White Snowboarding (Poland)": {
 		"languages": ["Pl"]
 	},
-	"Shaun White Snowboarding (USA) (Target)": {
-		"languages": ["En"]
+	"Shaun White Snowboarding (USA) (En,Fr,De,Es,It) (Target)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Shaun White Snowboarding (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -9924,28 +9933,28 @@
 		"localName": "톰 클랜시의 고스트 리콘 퓨처 솔저"
 	},
 	"Tom Clancy's Ghost Recon - Future Soldier (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "ゴーストリコン　フューチャーソルジャー"
 	},
 	"Tom Clancy's Ghost Recon - Future Soldier (USA, Europe) (En,Fr,Es,Nl,Pt,Sv,No,Da)": {
 		"languages": ["Da", "En", "Es", "Fr", "Nl", "No", "Pt", "Sv"]
 	},
-	"Tom Clancy's H.A.W.X (Japan)": {
-		"languages": [],
+	"Tom Clancy's H.A.W.X (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "ホークス"
 	},
 	"Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tom Clancy's H.A.W.X. 2 (Japan)": {
-		"languages": [],
+	"Tom Clancy's H.A.W.X. 2 (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "ホークス２"
 	},
 	"Tom Clancy's H.A.W.X. 2 (UK)": {
 		"languages": ["En"]
 	},
-	"Tom Clancy's H.A.W.X. 2 (USA, Europe)": {
-		"languages": []
+	"Tom Clancy's H.A.W.X. 2 (USA, Europe) (En,Fr,De,Es,It,Pl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
 	},
 	"Tom Clancy's Rainbow Six - Vegas (Japan)": {
 		"languages": [],
@@ -9999,11 +10008,11 @@
 	"Tom Clancy's Splinter Cell - Blacklist (USA, Europe) (En,Fr,Es,Nl,Sv,No,Da) (Disc 2) (Campaign Part 2 & HD Texture Pack)": {
 		"languages": ["Da", "En", "Es", "Fr", "Nl", "No", "Sv"]
 	},
-	"Tom Clancy's Splinter Cell - Conviction (Europe) (Demo)": {
-		"languages": []
+	"Tom Clancy's Splinter Cell - Conviction (Europe) (En,Ja,Fr,De,Es,It) (Demo)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Tom Clancy's Splinter Cell - Conviction (Japan)": {
-		"languages": [],
+	"Tom Clancy's Splinter Cell - Conviction (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "スプリンターセル　コンヴィクション"
 	},
 	"Tom Clancy's Splinter Cell - Conviction (Korea)": {
@@ -11285,9 +11294,9 @@
 		"languages": [],
 		"localName": "Ｘｂｏｘ　３６０　ハードディスクデータ転送用ディスク"
 	},
-	"Xbox 360 Hard Drive Transfer Disc (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"],
-		"localName": "Ｘｂｏｘ　３６０　硬碟轉移軟體光碟／하드 드라이브 전송 디스크"
+	"Xbox 360 Hard Drive Transfer Disc (Asia)": {
+		"languages": [],
+		"localName": "Ｘｂｏｘ　３６０　硬碟轉移軟體光碟"
 	},
 	"Xbox 360 Trial Disk (USA) (En,Es)": {
 		"languages": ["En", "Es"]

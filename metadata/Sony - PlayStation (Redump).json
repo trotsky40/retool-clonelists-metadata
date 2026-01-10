@@ -3203,6 +3203,10 @@
 		"languages": ["Ja"],
 		"localName": "ブルーブレイカーバースト　～微笑みを貴方と～"
 	},
+	"Blue Breaker Burst - Hohoemi o Anata to (Japan) (Shokai Genteiban)": {
+		"languages": ["Ja"],
+		"localName": "ブルーブレイカーバースト　～微笑みを貴方と～"
+	},
 	"Blue Marlin, The (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ザ・ブルー・マーリン"
@@ -23389,7 +23393,7 @@
 		"languages": ["En"]
 	},
 	"PSi2 Disc Eight (UK) (Unl)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"PSi2 Disc Five (UK) (Unl)": {
 		"languages": ["En"]

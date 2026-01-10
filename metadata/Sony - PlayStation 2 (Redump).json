@@ -463,9 +463,6 @@
 	"ATV Offroad Fury 4 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,El)": {
 		"languages": ["De", "El", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
-	"ATV Offroad Fury 4 (USA)": {
-		"languages": ["En"]
-	},
 	"ATV Offroad Fury 4 (USA) (Demo 1)": {
 		"languages": ["En"]
 	},
@@ -476,6 +473,9 @@
 		"languages": ["En"]
 	},
 	"ATV Offroad Fury 4 (USA) (Layer 1) (Beta) (2006-10-02)": {
+		"languages": ["En"]
+	},
+	"ATV Offroad Fury 4 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Aa Megami-sama (Japan)": {
@@ -1498,7 +1498,7 @@
 	"Aqua Teen Hunger Force - Zombie Ninja Pro-Am (Europe)": {
 		"languages": ["En"]
 	},
-	"Aqua Teen Hunger Force - Zombie Ninja Pro-Am (USA)": {
+	"Aqua Teen Hunger Force - Zombie Ninja Pro-Am (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Aquaqua (Japan)": {
@@ -3161,7 +3161,7 @@
 		"languages": ["Ja"],
 		"localName": "バウンサー"
 	},
-	"Bouncer, The (USA) (En,Ja)": {
+	"Bouncer, The (USA, Canada) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
 	"Bowling Xciting (Europe)": {
@@ -3460,10 +3460,10 @@
 		"languages": ["En"],
 		"localName": "번아웃3 테이크다운"
 	},
-	"Burnout 3 - Takedown (USA)": {
+	"Burnout 3 - Takedown (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Burnout 3 - Takedown (USA) (Demo)": {
+	"Burnout 3 - Takedown (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Burnout Dominator (Asia)": {
@@ -3484,7 +3484,7 @@
 		"languages": ["En"],
 		"localName": "번아웃 도미네이터"
 	},
-	"Burnout Dominator (USA)": {
+	"Burnout Dominator (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Burnout Revenge (Asia)": {
@@ -3511,10 +3511,10 @@
 		"languages": ["Ko"],
 		"localName": "번아웃 리벤지"
 	},
-	"Burnout Revenge (USA)": {
+	"Burnout Revenge (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Burnout Revenge (USA) (Demo)": {
+	"Burnout Revenge (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Busin - Wizardry Alternative (Japan)": {
@@ -4031,7 +4031,7 @@
 		"languages": ["En", "Fr"],
 		"localName": "콜 오브 듀티 - 월드 앳 워　파이널 프론트"
 	},
-	"Call of Duty - World at War - Final Fronts (USA) (En,Fr)": {
+	"Call of Duty - World at War - Final Fronts (USA, Canada) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
 	"Call of Duty 2 - Big Red One (Europe)": {
@@ -5133,7 +5133,7 @@
 	"Corvette (USA)": {
 		"languages": ["En"]
 	},
-	"Corvette Evolution GT (USA)": {
+	"Corvette Evolution GT (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Counter Terrorist Special Forces - Fire for Effect (Europe) (En,Fr,De,Es,It)": {
@@ -5437,6 +5437,10 @@
 		"languages": ["Ja"],
 		"localName": "カルドセプト　セカンド　エキスパンション"
 	},
+	"Culdcept II Expansion (Korea)": {
+		"languages": ["Ko"],
+		"localName": "컬드셉트 세컨드 익스팬션"
+	},
 	"Curious George (Asia)": {
 		"languages": ["En"]
 	},
@@ -5652,7 +5656,7 @@
 	"DT Racer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"DT Racer (USA)": {
+	"DT Racer (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"DTM Race Driver (Europe) (En,Fr,De) (v1.01)": {
@@ -5878,10 +5882,10 @@
 	"Dance Factory (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Dance Factory (USA)": {
+	"Dance Factory (USA) (Trade Demo)": {
 		"languages": ["En"]
 	},
-	"Dance Factory (USA) (Trade Demo)": {
+	"Dance Factory (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Dance Fest (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -7159,13 +7163,13 @@
 	"Disney-Pixar Cars - Mater-National Championship (Scandinavia) (En,Sv,No,Da)": {
 		"languages": ["Da", "En", "No", "Sv"]
 	},
-	"Disney-Pixar Cars - Mater-National Championship (USA)": {
+	"Disney-Pixar Cars - Mater-National Championship (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Disney-Pixar Cars - Race-O-Rama (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Disney-Pixar Cars - Race-O-Rama (USA)": {
+	"Disney-Pixar Cars - Race-O-Rama (USA, Canada)": {
 		"languages": []
 	},
 	"Disney-Pixar Die Monster AG - Schreckens-Insel (Germany)": {
@@ -8096,7 +8100,7 @@
 		"languages": ["En", "Ko"],
 		"localName": "드라이버 3"
 	},
-	"Driv3r (USA) (En,Fr,Es)": {
+	"Driv3r (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Drive to Survive (USA)": {
@@ -8128,13 +8132,13 @@
 		"languages": ["En", "Ko"],
 		"localName": "드라이버 - 패럴렐 라인즈"
 	},
-	"Driver - Parallel Lines (USA)": {
-		"languages": []
-	},
 	"Driver - Parallel Lines (USA) (Demo)": {
 		"languages": []
 	},
 	"Driver - Parallel Lines (USA) (Limited Edition)": {
+		"languages": []
+	},
+	"Driver - Parallel Lines (USA, Canada)": {
 		"languages": []
 	},
 	"Driving Emotion Type-S (Europe) (En,Fr,De,Es,It)": {
@@ -10499,7 +10503,7 @@
 	"Ford Mustang - The Legend Lives (USA)": {
 		"languages": ["En"]
 	},
-	"Ford Racing - Off Road (USA)": {
+	"Ford Racing - Off Road (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Ford Racing 2 (Europe) (En,Fr,De,Es,It)": {
@@ -12335,10 +12339,10 @@
 	"Gran Turismo 4 (USA) (Beta) (2006-06-06)": {
 		"languages": ["En"]
 	},
-	"Gran Turismo 4 (USA) (v1.01)": {
+	"Gran Turismo 4 (USA) (v2.00)": {
 		"languages": ["En"]
 	},
-	"Gran Turismo 4 (USA) (v2.00)": {
+	"Gran Turismo 4 (USA, Canada) (v1.01)": {
 		"languages": ["En"]
 	},
 	"Gran Turismo 4 - First Preview (Japan) (En,Ja) (Taikenban)": {
@@ -12464,10 +12468,10 @@
 	"Grand Theft Auto - San Andreas (USA) (v1.03)": {
 		"languages": ["En"]
 	},
-	"Grand Theft Auto - San Andreas (USA) (v3.00)": {
+	"Grand Theft Auto - San Andreas (USA) (v3.00) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Grand Theft Auto - San Andreas (USA) (v3.00) (Rev 1)": {
+	"Grand Theft Auto - San Andreas (USA, Canada) (v3.00)": {
 		"languages": ["En"]
 	},
 	"Grand Theft Auto - Vice City (Australia)": {
@@ -12499,10 +12503,10 @@
 	"Grand Theft Auto - Vice City (USA) (v2.01)": {
 		"languages": ["En"]
 	},
-	"Grand Theft Auto - Vice City (USA) (v3.00)": {
+	"Grand Theft Auto - Vice City (USA) (v4.00)": {
 		"languages": ["En"]
 	},
-	"Grand Theft Auto - Vice City (USA) (v4.00)": {
+	"Grand Theft Auto - Vice City (USA, Canada) (v3.00)": {
 		"languages": ["En"]
 	},
 	"Grand Theft Auto - Vice City Stories (Europe, Australia) (En,Fr,De,Es,It)": {
@@ -12535,7 +12539,7 @@
 		"languages": ["Ja"],
 		"localName": "グランド・セフト・オートⅢ"
 	},
-	"Grand Theft Auto III (USA)": {
+	"Grand Theft Auto III (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Grande quiz sul calcio italiano, Il (Italy)": {
@@ -15229,7 +15233,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"],
 		"localName": "Jak & Daxter - 구세계의 유산"
 	},
-	"Jak and Daxter - The Precursor Legacy (USA) (Cingular Wirel": {
+	"Jak and Daxter - The Precursor Legacy (USA) (Cingular Wireless Demo)": {
 		"languages": ["En"]
 	},
 	"Jak and Daxter - The Precursor Legacy (USA) (Demo)": {
@@ -15834,7 +15838,7 @@
 	"Juiced 2 - Hot Import Nights (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Juiced 2 - Hot Import Nights (USA)": {
+	"Juiced 2 - Hot Import Nights (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Jumanji (Australia)": {
@@ -22200,6 +22204,10 @@
 	},
 	"Need for Speed - Underground (USA) (Demo)": {
 		"languages": ["En"]
+	},
+	"Need for Speed - Underground 2 (Asia)": {
+		"languages": [],
+		"localName": "極速快感 飆風再起 2"
 	},
 	"Need for Speed - Underground 2 (Europe) (Demo)": {
 		"languages": ["En"]
@@ -34184,13 +34192,13 @@
 		"languages": ["Ko"],
 		"localName": "수왕기 - Project Altered Beast"
 	},
-	"Suzuki Super-Bikes II - Riding Challenge (USA) (En,Fr,Es)": {
+	"Suzuki Super-Bikes II - Riding Challenge (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Suzuki TT Superbikes - Real Road Racing (USA)": {
 		"languages": ["En"]
 	},
-	"Suzuki TT Superbikes - Real Road Racing Championship (USA)": {
+	"Suzuki TT Superbikes - Real Road Racing Championship (USA, Canada)": {
 		"languages": []
 	},
 	"Suzumiya Haruhi no Tomadoi (Japan)": {
@@ -35430,6 +35438,9 @@
 	},
 	"This Is Football 2005 (Europe) (Beta) (2004-07-27)": {
 		"languages": ["En"]
+	},
+	"This Is Football 2005 (Europe) (Demo)": {
+		"languages": []
 	},
 	"This Is Football 2005 (Europe) (En,Es,Pt,Ar)": {
 		"languages": ["Ar", "En", "Es", "Pt"]
