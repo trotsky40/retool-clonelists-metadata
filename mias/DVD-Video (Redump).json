@@ -49,14 +49,6 @@
 			"crc": "236562c0"
 		},
 		{
-			"name": "Beatnation Summit Beatmania IIDX Premium Live (Japan) (Disc 1).iso",
-			"crc": "b2e4f95c"
-		},
-		{
-			"name": "Beatnation Summit Beatmania IIDX Premium Live (Japan) (Disc 2).iso",
-			"crc": "a59efd4c"
-		},
-		{
 			"name": "Beit Hell 2000 - Famitsu Wave DVD - Tentou Houei-you (Japan).iso",
 			"crc": "f358e817"
 		},
@@ -99,6 +91,18 @@
 		{
 			"name": "Choose Your Own Adventure - The Abominable Snowman (USA).iso",
 			"crc": "1071cf44"
+		},
+		{
+			"name": "Chuuni Hime no Teikoku (Japan) (Disc A).iso",
+			"crc": "5877e383"
+		},
+		{
+			"name": "Chuuni Hime no Teikoku (Japan) (Disc B).iso",
+			"crc": "cd4f38a7"
+		},
+		{
+			"name": "Chuuni Hime no Teikoku (Japan) (Disc C).iso",
+			"crc": "7328132b"
 		},
 		{
 			"name": "Ciel nosurge Offline - Ushinawareta Hoshi e Sasagu Uta & Ar nosurge Plus - Umareizuru Hoshi e Inoru Uta - Tentou Promotion Video (Japan).iso",
@@ -275,6 +279,14 @@
 		{
 			"name": "Ice Age 2 - Jetzt Taut's (Austria) (En,De).iso",
 			"crc": "7983eecb"
+		},
+		{
+			"name": "Imouto Paradise! 2 - Onii-chan to 5-nin no Imouto no Motto! Ecchi Shimakuri na Mainichi (Japan) (Disc 1).iso",
+			"crc": "4c3461bc"
+		},
+		{
+			"name": "Imouto Paradise! 2 - Onii-chan to 5-nin no Imouto no Motto! Ecchi Shimakuri na Mainichi (Japan) (Disc 2).iso",
+			"crc": "b3d7b96d"
 		},
 		{
 			"name": "Imouto Paradise! 3 - Onii-chan to 5-nin no Imouto no Sugooku! Ecchi Shimakuri na Mainichi (Japan) (Disc 1).iso",
@@ -547,6 +559,10 @@
 		{
 			"name": "PSM2 Volume 49 (UK).iso",
 			"crc": "ff2bf6ed"
+		},
+		{
+			"name": "PSWorld Volume 90 (UK).iso",
+			"crc": "637ed474"
 		},
 		{
 			"name": "Persona 4 - The Golden Tentou Houei-you DVD (Japan).iso",

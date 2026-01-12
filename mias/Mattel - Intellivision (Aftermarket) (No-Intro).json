@@ -1,20 +1,12 @@
 {
 	"mias": [
 		{
-			"name": "Buck Rogers - Planet of Zoom (World) (Aftermarket) (Unl).bin",
-			"crc": "d6d9b548"
-		},
-		{
 			"name": "Buck Rogers - Planet of Zoom (World) (Aftermarket) (Unl).rom",
 			"crc": "6e98c7a1"
 		},
 		{
 			"name": "Donkey Kong Junior (World) (Aftermarket) (Unl).bin",
 			"crc": "57b2545b"
-		},
-		{
-			"name": "Donkey Kong Junior (World) (Aftermarket) (Unl).rom",
-			"crc": "f62f1451"
 		},
 		{
 			"name": "Dragon Quest (World) (v1.1) (Aftermarket) (Unl).bin",
@@ -49,10 +41,6 @@
 			"crc": "be70300b"
 		},
 		{
-			"name": "Lode Runner (World) (Aftermarket) (Unl).bin",
-			"crc": "56336ce7"
-		},
-		{
 			"name": "Lode Runner (World) (Aftermarket) (Unl).rom",
 			"crc": "18ec189d"
 		},
@@ -73,20 +61,8 @@
 			"crc": "88426823"
 		},
 		{
-			"name": "Parsec (World) (Aftermarket) (Unl).bin",
-			"crc": "8cff3602"
-		},
-		{
 			"name": "Parsec (World) (Aftermarket) (Unl).rom",
 			"crc": "9c592813"
-		},
-		{
-			"name": "Penguin Land (World) (Aftermarket) (Unl).bin",
-			"crc": "d7bba156"
-		},
-		{
-			"name": "Penguin Land (World) (Aftermarket) (Unl).rom",
-			"crc": "1a7aac88"
 		},
 		{
 			"name": "Pitfall II - Lost Caverns (World) (Aftermarket) (Unl).bin",
@@ -103,22 +79,6 @@
 		{
 			"name": "Pitfall III - Return to the Caverns (World) (Aftermarket) (Unl).rom",
 			"crc": "1045e742"
-		},
-		{
-			"name": "Poker Risque (World) (Aftermarket) (Unl).bin",
-			"crc": "53f852a5"
-		},
-		{
-			"name": "Poker Risque (World) (Aftermarket) (Unl).rom",
-			"crc": "0cf06519"
-		},
-		{
-			"name": "Pyramid Warp (World) (Aftermarket) (Unl).bin",
-			"crc": "69ef7202"
-		},
-		{
-			"name": "Pyramid Warp (World) (Aftermarket) (Unl).rom",
-			"crc": "07293ba8"
 		},
 		{
 			"name": "Quarteto Brasileiro (World) (Aftermarket) (Unl) (English Version).bin",
@@ -155,14 +115,6 @@
 		{
 			"name": "Space Bandits (World) (Aftermarket) (Unl).rom",
 			"crc": "600b38d3"
-		},
-		{
-			"name": "Space Panic (World) (Aftermarket) (Unl).bin",
-			"crc": "191b74b9"
-		},
-		{
-			"name": "Space Panic (World) (Aftermarket) (Unl).rom",
-			"crc": "cf39471a"
 		},
 		{
 			"name": "Ultimate Pong (World) (Aftermarket) (Unl).bin",
