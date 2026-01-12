@@ -8,7 +8,7 @@
 	"SNK - NeoGeo Pocket.json": "454089a11ced2372c5a06cbb3e9897b8be3fc24fef9babff4f1131de9a8bc304",
 	"NEC - PC-FX & PC-FXGA.json": "df4c32784e14ce79ac72ed8970f0d6deee933623b2a85b5f3e424c5109486307",
 	"Bandai - WonderSwan.json": "2b85f0e0528b2e2565bd1211eb28604ad78f5272df7b29a05087fec3868a4209",
-	"Nintendo - Nintendo DS.json": "0ffb066e06e24b647fa273e0c3f07ce1ff87f1fe1bb2c1781126d1e59bb0e60d",
+	"Nintendo - Nintendo DS.json": "ca6c60539e96732e8ddc62f948083023f22ad416419aec154d1ad6c3a0290d03",
 	"Welback - Mega Duck.json": "e4b48f355df70ec7ef8c28a4e1e959a6ad7056ee044913cffe0fb254fcee4a1c",
 	"Sega - Game Gear.json": "d31e133bdb169226c82b7e59cee3befe3a859c6ffc036314875278f9ab8fcf2b",
 	"Nintendo - Game Boy Advance.json": "637a8c17ae17af84f95340e2b86fb9625da887ed12b77abf84f763b80c1592e9",
@@ -48,5 +48,5 @@
 	"Nintendo - Game Boy.json": "02cbe1768ea60bc9582ae15e481e3c735936fcac504e787d6661bbde30781286",
 	"Sony - PlayStation Portable.json": "40da06e6f093b0be53e10e8cb99737e93e0d1b9db30ae92e906e4edc959ac0a0",
 	"Sony - PlayStation 2.json": "c10a1c4fdb8abf1dcc68e89551619349e25077a14e2261d6cbc8122c942ea03a",
-	"Arduboy Inc - Arduboy.json": "0e1a78fa49b28f222af1ed4aef683fc48d15da5716c07418c1c4be8983e4aa94"
+	"Arduboy Inc - Arduboy.json": "875bf2fc313b7cc68703478edc9e94a6c935e6c2ec4936cdfdb31a54ad4088ff"
 }
