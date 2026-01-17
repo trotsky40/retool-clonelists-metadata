@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Vita (PSN) (Content) (No-Intro)",
-		"lastUpdated": "2026-01-17 17:04:42",
+		"lastUpdated": "2026-01-17 22:06:01",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -980,7 +980,7 @@
 			"titles": [
 				{"searchTerm": "Everybody's Golf 6 - Big Magnum Club Lv4 (DLC)"},
 				{"searchTerm": "Everybody's Golf - Club Big Magnum Level 4 (DLC)"},
-				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Big Magnum Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Big Magnum - Level 4 (DLC)"},
 				{"searchTerm": "Minna no Golf 6 - Big Magnum Club Lv4 (DLC)"}
 			]
 		},
