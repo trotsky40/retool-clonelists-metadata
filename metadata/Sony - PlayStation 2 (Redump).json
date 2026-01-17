@@ -10494,6 +10494,9 @@
 	"Forbidden Siren 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Forbidden Siren 2 (Europe) (En,Fr,De,Es,It) (Demo)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Ford Bold Moves Street Racing (USA)": {
 		"languages": ["En"]
 	},
@@ -12315,13 +12318,13 @@
 		"languages": ["Zh"],
 		"localName": "跑车浪漫旅 4"
 	},
-	"Gran Turismo 4 (Europe) (BMW 1 Series Virtual Drive)": {
-		"languages": []
-	},
 	"Gran Turismo 4 (Europe) (Beta) (2005-01-18)": {
 		"languages": []
 	},
 	"Gran Turismo 4 (Europe) (En,Fr,De,Es,It) (BMW 1 Series Virtual Drive Dealership)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Gran Turismo 4 (Europe) (En,Fr,De,Es,It) (BMW 1 Series Virtual Drive)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It)": {
@@ -17671,6 +17674,9 @@
 	"Langrisser III (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ラングリッサーⅢ"
+	},
+	"Lara Croft Tomb Raider - Anniversary (Australia) (Beta) (2007-04-10)": {
+		"languages": ["En"]
 	},
 	"Lara Croft Tomb Raider - Anniversary (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -31488,7 +31494,10 @@
 	"SingStar '90s (USA)": {
 		"languages": []
 	},
-	"SingStar (Europe) (Demo)": {
+	"SingStar (Europe) (Demo) (2004-02-22)": {
+		"languages": ["En"]
+	},
+	"SingStar (Europe) (Demo) (2004-04-16)": {
 		"languages": ["En"]
 	},
 	"SingStar (Europe, Australia)": {
@@ -32694,11 +32703,11 @@
 		"languages": ["Ja"],
 		"localName": "スパルタン　古代ギリシャ英雄伝"
 	},
-	"Spartan - Total Warrior (Australia) (Demo)": {
-		"languages": ["En"]
-	},
 	"Spartan - Total Warrior (Europe) (En,Pl,Cs)": {
 		"languages": ["Cs", "En", "Pl"]
+	},
+	"Spartan - Total Warrior (Europe, Australia) (Demo)": {
+		"languages": ["En"]
 	},
 	"Spartan - Total Warrior (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -35439,9 +35448,6 @@
 	"This Is Football 2005 (Europe) (Beta) (2004-07-27)": {
 		"languages": ["En"]
 	},
-	"This Is Football 2005 (Europe) (Demo)": {
-		"languages": []
-	},
 	"This Is Football 2005 (Europe) (En,Es,Pt,Ar)": {
 		"languages": ["Ar", "En", "Es", "Pt"]
 	},
@@ -35449,6 +35455,9 @@
 		"languages": ["De", "Fr", "It", "Nl"]
 	},
 	"This Is Football 2005 (Scandinavia) (Sv,No,Da,Fi)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"This Is Football 2005 (Scandinavia) (Sv,No,Da,Fi) (Demo)": {
 		"languages": ["Da", "Fi", "No", "Sv"]
 	},
 	"This Is Soccer 2004 (Australia)": {
@@ -38641,6 +38650,9 @@
 	},
 	"X-Games Winter SnoCross + ESPN International Winter Sports 2002 + Winter X Games Snowboarding 2002 (USA) (Demo)": {
 		"languages": ["En"]
+	},
+	"X-Mem - Logiciel d'Expansion de Memoire (France) (Unl)": {
+		"languages": []
 	},
 	"X-Men - Next Dimension (Europe)": {
 		"languages": ["En"]

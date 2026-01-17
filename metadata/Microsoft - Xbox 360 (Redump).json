@@ -843,7 +843,7 @@
 		"languages": []
 	},
 	"Bigs 2 - Baseball, The (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Bigs 2, The (USA)": {
 		"languages": ["En"]
@@ -1020,8 +1020,8 @@
 	"Blazing Angels 2 - Secret Missions of WWII (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Blitz - The League (USA)": {
-		"languages": []
+	"Blitz - The League (USA, Europe)": {
+		"languages": ["En"]
 	},
 	"Blitz - The League II (USA, Europe)": {
 		"languages": ["En"]
@@ -2802,6 +2802,9 @@
 	},
 	"Disney-Pixar WALL-E (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Disney-Pixar WALL-E (United Arab Emirates) (En,Ar)": {
+		"languages": ["Ar", "En"]
 	},
 	"Disney-Pixar WALL-E - Batallon de Limpieza (Spain) (En,Es)": {
 		"languages": ["En", "Es"]
@@ -5238,8 +5241,8 @@
 		"languages": ["Pl", "Ru"],
 		"localName": "Ил-2 Штурмовик - Крылатые хищники"
 	},
-	"IL-2 Sturmovik - Birds of Prey (Germany)": {
-		"languages": []
+	"IL-2 Sturmovik - Birds of Prey (Germany) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"IL-2 Sturmovik - Birds of Prey (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6749,7 +6752,7 @@
 	"Monster Jam - Path of Destruction (USA)": {
 		"languages": []
 	},
-	"Monster Madness - Battle for Suburbia (USA) (En,Fr,De,Es,It)": {
+	"Monster Madness - Battle for Suburbia (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"MorphX (USA, Europe)": {
@@ -7137,7 +7140,7 @@
 	"NHL 11 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"NHL 12 (USA) (En,Fr,De,Sv,Fi,Ru,Cs)": {
+	"NHL 12 (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs)": {
 		"languages": ["Cs", "De", "En", "Fi", "Fr", "Ru", "Sv"]
 	},
 	"NHL 13 (USA, Europe) (En,Fr,De,Sv,Fi,Ru,Cs)": {
@@ -7253,7 +7256,7 @@
 	"National Geographic - Challenge! (USA)": {
 		"languages": []
 	},
-	"Naughty Bear (USA) (En,Fr,De,Es,It)": {
+	"Naughty Bear (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Naughty Bear - Gold Edition (USA) (En,Fr,De,Es,It)": {
@@ -8496,20 +8499,20 @@
 	"Red Faction - Armageddon (World) (En,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
-	"Red Faction - Guerrilla (Austria, Switzerland)": {
-		"languages": []
+	"Red Faction - Guerrilla (Austria, Switzerland) (Fr,De)": {
+		"languages": ["De", "Fr"]
 	},
 	"Red Faction - Guerrilla (Europe) (En,Fr,Es,It,Nl) (Demo)": {
 		"languages": ["En", "Es", "Fr", "It", "Nl"]
 	},
+	"Red Faction - Guerrilla (Europe) (En,Pl,Ru,Cs,Ar)": {
+		"languages": ["Ar", "Cs", "En", "Pl", "Ru"]
+	},
 	"Red Faction - Guerrilla (Europe) (Es,It)": {
 		"languages": ["Es", "It"]
 	},
-	"Red Faction - Guerrilla (Europe) (Pl,Ru,Cs)": {
-		"languages": ["Cs", "Pl", "Ru"]
-	},
 	"Red Faction - Guerrilla (Germany)": {
-		"languages": []
+		"languages": ["De"]
 	},
 	"Red Faction - Guerrilla (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],

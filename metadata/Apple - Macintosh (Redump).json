@@ -1804,6 +1804,10 @@
 	"Iron Helix (USA)": {
 		"languages": ["En"]
 	},
+	"Ishar 3 (Canada)": {
+		"languages": ["En"],
+		"localName": "Ishar 3 - The Seven Gates of Infinity"
+	},
 	"Ishido - The Way of Stones (USA)": {
 		"languages": ["En"]
 	},
@@ -3240,6 +3244,9 @@
 		"languages": ["En"]
 	},
 	"Return to Zork (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Riddle of the Maze, The (USA)": {
 		"languages": ["En"]
 	},
 	"Rise of Nations - Gold Edition (USA)": {

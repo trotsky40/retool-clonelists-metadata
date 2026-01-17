@@ -36,8 +36,9 @@
 		{
 			"group": "Evolution - Eternal Dungeons",
 			"titles": [
-				{"searchTerm": "Evolution - Eternal Dungeons"},
-				{"searchTerm": "Shinki Sekai Evolution - Hateshinai Dungeon"}
+				{"searchTerm": "Evolution - Eternal Dungeons (vA1)"},
+				{"searchTerm": "Shinki Sekai Evolution - Hateshinai Dungeon"},
+				{"searchTerm": "Evolution - Eternal Dungeons", "priority": 2}
 			]
 		},
 		{
@@ -52,6 +53,13 @@
 			"titles": [
 				{"searchTerm": "Oekaki Puzzle"},
 				{"searchTerm": "Picture Puzzle"}
+			]
+		},
+		{
+			"group": "Pocket Reversi",
+			"titles": [
+				{"searchTerm": "Pocket Reversi (vA1)"},
+				{"searchTerm": "Pocket Reversi", "priority": 2}
 			]
 		},
 		{

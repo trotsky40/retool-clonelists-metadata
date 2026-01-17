@@ -4415,6 +4415,10 @@
 	"Chi Vuol Essere Milionario Seconda Edizione (Italy)": {
 		"languages": ["It"]
 	},
+	"Chibi Chara Game - Ginga Eiyuu Densetsu (Japan) (Disc 1) (Go! Go! Casino)": {
+		"languages": ["Ja"],
+		"localName": "ちびキャラゲーム　銀河英雄伝説"
+	},
 	"Chibi Chara Game - Ginga Eiyuu Densetsu (Japan) (Disc 1) (Go! Go! Casino) (Shokai Tokuten Reinhart Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "ちびキャラゲーム　銀河英雄伝説"
@@ -4424,6 +4428,10 @@
 		"localName": "ちびキャラゲーム　銀河英雄伝説"
 	},
 	"Chibi Chara Game - Ginga Eiyuu Densetsu (Japan) (Disc 2) (Let's Sugoroku) (Shokai Tokuten Reinhart Genteiban)": {
+		"languages": ["Ja"],
+		"localName": "ちびキャラゲーム　銀河英雄伝説"
+	},
+	"Chibi Chara Game - Ginga Eiyuu Densetsu (Japan) (Disc 2) (Let's Surogoku)": {
 		"languages": ["Ja"],
 		"localName": "ちびキャラゲーム　銀河英雄伝説"
 	},
@@ -12216,6 +12224,10 @@
 		"languages": ["Ja"],
 		"localName": "学校のコワイうわさ　花子さんがきた！！"
 	},
+	"Gakkou o Tsukurou!! (Japan)": {
+		"languages": ["Ja"],
+		"localName": "学校をつくろう！！"
+	},
 	"Gakkou o Tsukurou!! 2 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "学校を作ろう！！２"
@@ -12223,10 +12235,6 @@
 	"Gakkou o Tsukurou!! Kouchou Sensei Monogatari (Japan)": {
 		"languages": ["Ja"],
 		"localName": "学校をつくろう！！ 校長先生物語"
-	},
-	"Gakkou o Tsukurou!! Let's Make a School!! (Japan)": {
-		"languages": ["Ja"],
-		"localName": "学校をつくろう！！"
 	},
 	"Gakuen Sentai Solblast (Japan)": {
 		"languages": ["Ja"],
@@ -19850,6 +19858,10 @@
 	"Mike Tyson Boxing (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Milano no Arbeit Collection (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ミラノのアルバイトこれくしょん"
+	},
 	"Milky Season (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ミルキィシーズン"
@@ -19964,10 +19976,6 @@
 	"Miracle World - Fushigi no Kuni no IQ Meiro (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ミラクルワールド　不思議の国のＩＱ迷路"
-	},
-	"Mirano no Arbeit Collection (Japan)": {
-		"languages": ["Ja"],
-		"localName": "ミラノのアルバイトこれくしょん"
 	},
 	"MiruMiru PlayStation Vol. 1 (Japan) (Disc 2)": {
 		"languages": ["Ja"],
@@ -27647,6 +27655,10 @@
 		"localName": "サムライスピリッツ　剣客指南パック"
 	},
 	"Samurai Spirits - Zankurou Musouken (Japan)": {
+		"languages": ["Ja"],
+		"localName": "サムライスピリッツ　斬紅郎無双剣"
+	},
+	"Samurai Spirits - Zankurou Musouken (Japan) (PlayStation the Best)": {
 		"languages": ["Ja"],
 		"localName": "サムライスピリッツ　斬紅郎無双剣"
 	},
