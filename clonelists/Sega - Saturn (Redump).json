@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Saturn (Redump)",
-		"lastUpdated": "2026-01-02 11:07:19",
+		"lastUpdated": "2026-01-18 16:42:41",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -1049,15 +1049,10 @@
 		{
 			"group": "Virtual On - Cyber Troopers",
 			"titles": [
-				{"searchTerm": "Dennou Senki - Virtual On - Cyber Troopers"},
-				{"searchTerm": "Virtual On - Cyber Troopers"}
-			]
-		},
-		{
-			"group": "Virtual On - Cyber Troopers Net Link Edition",
-			"titles": [
 				{"searchTerm": "Dennou Senki - Virtual On - Cyber Troopers for SegaNet"},
-				{"searchTerm": "Virtual On - Cyber Troopers Net Link Edition"}
+				{"searchTerm": "Virtual On - Cyber Troopers Net Link Edition"},
+				{"searchTerm": "Dennou Senki - Virtual On - Cyber Troopers", "priority": 2},
+				{"searchTerm": "Virtual On - Cyber Troopers", "priority": 2}
 			]
 		},
 		{

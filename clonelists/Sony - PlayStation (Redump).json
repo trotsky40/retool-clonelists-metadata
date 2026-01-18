@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "2026-01-02 11:07:19",
+		"lastUpdated": "2026-01-18 16:35:08",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -845,6 +845,7 @@
 			"group": "Bust-A-Move 2 - Arcade Edition",
 			"titles": [
 				{"searchTerm": "Bust-A-Move 2 - Arcade Edition"},
+				{"searchTerm": "Bust-A-Move 2 - Arcade Edition (2 Games)"},
 				{"searchTerm": "Puzzle Bobble 2"}
 			]
 		},
@@ -860,6 +861,7 @@
 			"group": "Bust-A-Move '99",
 			"titles": [
 				{"searchTerm": "Bust-A-Move 3 DX"},
+				{"searchTerm": "Bust-A-Move 3 DX (2 Games)"},
 				{"searchTerm": "Bust-A-Move '99"},
 				{"searchTerm": "Puzzle Bobble 3DX"}
 			]
@@ -2242,6 +2244,20 @@
 				{"searchTerm": "Egypt II - La Profezia di Heliopolis"},
 				{"searchTerm": "Egypt II - La Prophetie d'Heliopolis"},
 				{"searchTerm": "Egypt II - The Heliopolis Prophecy"}
+			]
+		},
+		{
+			"group": "Eithea (Disc 1)",
+			"titles": [
+				{"searchTerm": "Eithea (Disc 1)"},
+				{"searchTerm": "Eithea (Disc 1) (Deluxe Pack)"}
+			]
+		},
+		{
+			"group": "Eithea (Disc 2)",
+			"titles": [
+				{"searchTerm": "Eithea (Disc 2)"},
+				{"searchTerm": "Eithea (Disc 2) (Deluxe Pack)"}
 			]
 		},
 		{
@@ -3907,12 +3923,12 @@
 			"group": "Magical Tetris Challenge",
 			"titles": [
 				{"searchTerm": "Defi au Tetris Magique"},
-				{"searchTerm": "El Tetris Un Magico Desafio"},
 				{"searchTerm": "Magical Tetris Challenge"},
 				{"searchTerm": "Magical Tetris Challenge featuring Mickey"},
 				{"searchTerm": "Magische Tetris Uitdaging"},
 				{"searchTerm": "Sfida al Tetris Magico"},
-				{"searchTerm": "Tetris Magiska Utmaning"}
+				{"searchTerm": "Tetris Magiska Utmaning"},
+				{"searchTerm": "Tetris Un Magico Desafio, El"}
 			]
 		},
 		{
@@ -5219,10 +5235,30 @@
 			]
 		},
 		{
-			"group": "Rayman Brain Games",
+			"group": "Rayman Junior - Level 1",
 			"titles": [
-				{"searchTerm": "Rayman Brain Games"},
 				{"searchTerm": "Rayman Junior - Level 1"}
+			],
+			"compilations": [
+				{"searchTerm": "Rayman Brain Games"}
+			]
+		},
+		{
+			"group": "Rayman Junior - Level 2",
+			"titles": [
+				{"searchTerm": "Rayman Junior - Level 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Rayman Brain Games"}
+			]
+		},
+		{
+			"group": "Rayman Junior - Level 3",
+			"titles": [
+				{"searchTerm": "Rayman Junior - Level 3"}
+			],
+			"compilations": [
+				{"searchTerm": "Rayman Brain Games"}
 			]
 		},
 		{
@@ -5502,13 +5538,6 @@
 			"titles": [
 				{"searchTerm": "Saiyuki - Journey West"},
 				{"searchTerm": "Saiyuuki"}
-			]
-		},
-		{
-			"group": "Samurai Deeper Kyou",
-			"titles": [
-				{"searchTerm": "Samurai Deeper Kyo"},
-				{"searchTerm": "Samurai Deeper Kyou"}
 			]
 		},
 		{
@@ -7156,7 +7185,7 @@
 				{"searchTerm": "Millionen Show, Die"},
 				{"searchTerm": "Qui Veut Gagner des Millions"},
 				{"searchTerm": "Quiz$Millionaire"},
-				{"searchTerm": "Vem Vill Bli Miljonaer"},
+				{"searchTerm": "Vem vill bli Miljonaer"},
 				{"searchTerm": "Vil du bli millionaer"},
 				{"searchTerm": "Wer wird Millionaer"},
 				{"searchTerm": "Who Wants to Be a Millionaire"}

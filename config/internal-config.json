@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "17 January 2026",
+		"lastUpdated": "18 January 2026",
 		"minimumVersion": "2.4.0"
 	},
 
@@ -72,6 +72,7 @@
 		"(Disc 0": "(Disc ",
 		"(Disco ": "(Disc ",
 		"(Disk ": "(Disc ",
+		"(Dysk ": "(Disc ",
 		"(CD ": "(Disc ",
 		"(Disque ": "(Disc ",
 		"(Lato ": "(Disc ",
@@ -476,7 +477,8 @@
 		["(V.Smile Motion)", "string"],
 		["(Vivendi)", "string"],
 		["\\s?\\((?:(?!\\(|Gentei.*?)[\\s\\S])*Gentei.*?\\)", "regex"],
-		["\\s?\\((?:(?!\\(|Tokubetsu-ban.*?)[\\s\\S])*Tokubetsu-ban.*?\\)", "regex"],
+		["\\s?\\((?:(?!\\(|Shoten.*?)[\\s\\S])*Shoten.*?\\)", "regex"],
+		["\\s?\\((?:(?!\\(|Tokubetsu.*?)[\\s\\S])*Tokubetsu.*?\\)", "regex"],
 		["(Controller Set)", "string"],
 		["(Disk Writer)", "string"],
 		["(English Logo)", "string"],
