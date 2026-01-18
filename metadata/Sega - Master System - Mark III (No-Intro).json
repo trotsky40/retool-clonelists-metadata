@@ -125,9 +125,6 @@
 	"[BIOS] Sonic The Hedgehog (Europe)": {
 		"languages": ["En"]
 	},
-	"[BIOS] TecToy Master System Evolution Menu (Brazil)": {
-		"languages": ["Pt-BR"]
-	},
 	"A-Team Music, The (Europe) (Proto) (1992-11-09) (Sound Data)": {
 		"languages": ["En"]
 	},
@@ -259,6 +256,9 @@
 	"Alien 3 (Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
+	"Alien Cat 2 (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Alien Cat 2 (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -385,6 +385,9 @@
 		"languages": ["En"],
 		"localName": "宇宙大冒險"
 	},
+	"Astro Climber (World) (v1.2.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Astro Flash (Japan) (En)": {
 		"languages": ["En"],
 		"localName": "アストロフラッシュ"
@@ -477,10 +480,13 @@
 	"Batman Returns (Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Battle City (World) (v1.0) (Aftermarket) (Unl)": {
+	"Battle City (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Battle City (World) (v2.0) (Aftermarket) (Unl)": {
+	"Battle City (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Battle City (World) (v1.2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Battle Out Run (Europe, Brazil) (En) (Beta)": {
@@ -529,7 +535,7 @@
 	"Black Belt (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Black Castle (World) (2024-05-24) (Aftermarket) (Unl)": {
+	"Black Castle (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Blade Eagle 3-D (World)": {
@@ -560,6 +566,9 @@
 		"languages": ["En"]
 	},
 	"Bloki (World) (v1.03) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Bloktris (World) (v1.03) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"BMX Trial - Alex Kidd (Japan) (En)": {
@@ -597,6 +606,12 @@
 	},
 	"Bolhas (Brazil) (Mega Drive 4)": {
 		"languages": ["Pt-BR"]
+	},
+	"Bomb Jack (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Bomb Jack (World) (SRAM) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Bombeiros (Brazil) (Mega Drive 4)": {
 		"languages": ["Pt-BR"]
@@ -737,6 +752,12 @@
 	"Castelo Ra-Tim-Bum (Brazil)": {
 		"languages": ["Pt"]
 	},
+	"Castle Escape (World) (v2.0.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Castle Escape (World) (v2.1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo)": {
 		"languages": ["En"]
 	},
@@ -744,6 +765,9 @@
 		"languages": ["En"]
 	},
 	"Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)": {
+		"languages": ["En"]
+	},
+	"Castlevania II (World) (v0.8) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Cava-Cava (Brazil) (Mega Drive 4)": {
@@ -841,6 +865,9 @@
 	"Color Check (World) (Demo) (Program) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Color Lines (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Colossal Cave Adventure - SAM Edition (World) (v0.1) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -869,6 +896,9 @@
 		"languages": ["En"],
 		"localName": "콘돌이"
 	},
+	"Contra PSG (World) (v0.2) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Cool Spot (Europe)": {
 		"languages": ["En"]
 	},
@@ -881,6 +911,12 @@
 	"Cracky (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Crazy Pinball (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Crazy Pinball (World) (SRAM) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Creature Capture (Brazil) (Mega Drive 4)": {
 		"languages": ["Pt-BR"]
 	},
@@ -888,6 +924,9 @@
 		"languages": ["En"]
 	},
 	"Cross Bomber (World) (v1.01) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cross Bomber (World) (v1.02) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Cross Chase (World) (v1.00) (Aftermarket) (Unl)": {
@@ -908,10 +947,22 @@
 	"Cross Shoot (World) (v1.01) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Cross Shuriken (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Cross Snake (World) (v1.00) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Cross Snake (World) (v1.01) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cross Stinger (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cross TREX (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cross Verbix (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"CWP (World) (v1.2) (Aftermarket) (Unl)": {
@@ -937,6 +988,9 @@
 		"languages": ["En"]
 	},
 	"Cye (World) (v1.3) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cye (World) (v1.3f) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"D.A.R.C. (World) (Demo) (Aftermarket) (Unl)": {
@@ -1277,6 +1331,15 @@
 		"languages": ["Ja"],
 		"localName": "ファイナルバブルボブル"
 	},
+	"Find the Wordy Gems (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Find the Wordy Gems (World) (v1.1) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Find the Wordy Gems (World) (v1.2) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Fire & Forget II (Europe)": {
 		"languages": ["En"]
 	},
@@ -1319,6 +1382,12 @@
 	"Forest Escape - A Knight's Quest (World) (v1.0.1) (Demo) (Aftermarket) (Pirate)": {
 		"languages": ["En"]
 	},
+	"Forest Escape - A Knight's Quest (World) (v1.2.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Forest Escape - A Knight's Quest (World) (v1.2.1) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Forgotten Worlds (Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
@@ -1327,6 +1396,9 @@
 		"localName": "世界の末日"
 	},
 	"Freeway '86 (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Frogger (World) (v0.5) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Frontier Force (World) (v0.1.2.3) (Demo) (Aftermarket) (Unl)": {
@@ -1530,10 +1602,19 @@
 	"GP Rider (Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
+	"Grail Legacy, The (World) (v0.2) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Grail of the Gods (World) (v0.99) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Gravity Beam - Master Gaiden (World) (v1.00) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Gravity Beam - Master Gaiden (World) (v1.01) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Grazers (World) (v0.2) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Great Baseball (Japan) (En)": {
@@ -1605,6 +1686,9 @@
 	"Guntus (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Guy's Panic (World) (v0.92) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Haja no Fuuin (Japan)": {
 		"languages": ["Ja"],
 		"localName": "覇邪の封印"
@@ -1634,6 +1718,9 @@
 		"languages": ["En"]
 	},
 	"Heavyweight Champ (Europe, Brazil) (En)": {
+		"languages": ["En"]
+	},
+	"Hermano (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Heroes Against Demons (World) (v1.04b) (Aftermarket) (Unl)": {
@@ -1679,6 +1766,9 @@
 	"Impetus (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Impetus+ (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Impossible Mission (Europe, Brazil) (En) (Beta)": {
 		"languages": ["En"]
 	},
@@ -1698,6 +1788,9 @@
 		"languages": ["En"]
 	},
 	"Io (World) (v0.13) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Io (World) (v0.15) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Iron Man (World) (Aftermarket) (Unl)": {
@@ -1740,6 +1833,9 @@
 		"languages": ["En"]
 	},
 	"Jogos de Verao II (Brazil) (En)": {
+		"languages": ["En"]
+	},
+	"Joust (World) (v0.05) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Jumping Jack'son (World) (v0.5) (Proto) (Aftermarket) (Unl)": {
@@ -1792,6 +1888,12 @@
 	"Klondike Solitaire (World) (v1.03) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Klondike Solitaire (World) (v1.04) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Knight Shift (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Knightmare II (Korea) (En) (Unl)": {
 		"languages": ["En"],
 		"localName": "Ｍａｓｅｏｎｇ　Ｊｅｏｎｓｅｏｌ　Ⅱ　（마성전설　Ⅱ）"
@@ -1830,7 +1932,13 @@
 	"Lambo (World) (Auto Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Lance Village (World) (v0.6) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)": {
+		"languages": ["En"]
+	},
+	"Land on My Base (and Tell Me That You Love Me) (World) (v1.05) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Lander1 (World) (v1.2) (Aftermarket) (Unl)": {
@@ -1882,6 +1990,9 @@
 		"languages": ["En"]
 	},
 	"Line of Fire (Europe, Brazil) (En)": {
+		"languages": ["En"]
+	},
+	"Line Runner (World) (v1.3.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Lion King, The (Europe, Brazil) (En)": {
@@ -1947,6 +2058,9 @@
 	"Mahjong Solitaire (World) (v1.05) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Mai Nurse (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -1998,6 +2112,9 @@
 		"languages": ["En"],
 		"localName": "メイズウォーカー"
 	},
+	"Mazy 2 (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Mazy (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -2006,6 +2123,12 @@
 	},
 	"Mega Man II (World) (v0.55) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Mega Mode Super Game 30 (Korea) (Unl)": {
+		"languages": ["Ko"]
+	},
+	"Mega Mode Super Game 138 (Korea) (Unl)": {
+		"languages": ["Ko"]
 	},
 	"Megumi Rescue (Japan) (En)": {
 		"languages": ["En"],
@@ -2047,6 +2170,9 @@
 	},
 	"Minerador (Brazil) (Mega Drive 4)": {
 		"languages": ["Pt-BR"]
+	},
+	"Minesweeper (World) (v1.03) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Mini MSX (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -2169,6 +2295,9 @@
 		"languages": ["En"],
 		"localName": "뉴　보글　보글　２"
 	},
+	"New Duel (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"NewZealand Story, The (Europe)": {
 		"languages": ["En"]
 	},
@@ -2211,6 +2340,9 @@
 	"Nyle in SokobanLand (World) (v0.83) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Nyle in SokobanLand (World) (v0.85) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Sv"]
 	},
@@ -2228,6 +2360,9 @@
 		"localName": "オパオパ"
 	},
 	"Operation Wolf (Europe, Brazil) (En)": {
+		"languages": ["En"]
+	},
+	"Osotos (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It)": {
@@ -2252,6 +2387,12 @@
 		"languages": ["En"]
 	},
 	"Pac-Man Master Museum (World) (v2.20) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pac-Man Master Museum (World) (v3.00) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pac-Man Master Museum (World) (v3.10) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Pac-Mania (Europe)": {
@@ -2283,6 +2424,9 @@
 		"languages": ["En"]
 	},
 	"Pegged (World) (v1.02) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pegged (World) (v1.02b) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Penguin Adventure (Korea) (En) (Unl)": {
@@ -2346,6 +2490,9 @@
 	"Pitman (World) (v1.03) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Pixner II (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Platform Explorer (World) (v1.0) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -2353,6 +2500,9 @@
 		"languages": ["En"]
 	},
 	"Platform Explorer (World) (v3.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pong (World) (v1.3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Pong Kombat (World) (v0.2) (Proto) (Aftermarket) (Unl)": {
@@ -2439,6 +2589,12 @@
 		"languages": ["En"],
 		"localName": "퍼즐게임"
 	},
+	"Pyramid Escape (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Pyramid Escape (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Quartet (Taiwan) (En) (Unl)": {
 		"languages": ["En"],
 		"localName": "䧳雄雙俠"
@@ -2501,6 +2657,9 @@
 	"Rampart (Europe)": {
 		"languages": ["En"]
 	},
+	"Raposa do Sol (World) (v0.20) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Rassak's Retribution (World) (v0.4) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -2526,6 +2685,15 @@
 		"languages": ["En"]
 	},
 	"Resident Evil (World) (v0.1) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Ring Dash SMS (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Ring Dash SMS (World) (v1.01) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Ring Dash SMS (World) (v1.02) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"River Strike (World) (v0.04) (Proto) (Aftermarket) (Unl)": {
@@ -2593,6 +2761,9 @@
 		"localName": "サテライト７"
 	},
 	"Schlange CV (World) (v1.1) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Schlange CV (World) (v1.1f) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12)": {
@@ -2826,19 +2997,19 @@
 	"Snail II (World) (Auto Demo) (PAL) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Snake (World) (Aftermarket) (Unl)": {
+	"Snake (World) (C.Allard) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Snake (World) (v1.00) (Aftermarket) (Unl)": {
+	"Snake (World) (v1.00) (under4mhz) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Snake (World) (v1.01) (Aftermarket) (Unl)": {
+	"Snake (World) (v1.01) (under4mhz) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Snake (World) (v1.02) (Aftermarket) (Unl)": {
+	"Snake (World) (v1.02) (under4mhz) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Snake (World) (v1.04) (Aftermarket) (Unl)": {
+	"Snake (World) (v1.04) (under4mhz) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Snepzhen Solitaire (World) (Proto) (Aftermarket) (Unl)": {
@@ -2905,6 +3076,9 @@
 		"languages": ["En"]
 	},
 	"Space Tonbow (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Spaghetti Numbers (World) (v1.2) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Speccies 2 (World) (Aftermarket) (Unl)": {
@@ -2982,7 +3156,13 @@
 		"languages": ["En"],
 		"localName": "突撃飛龍"
 	},
+	"Stygian Quest (World) (En,Fr) (v1.9) (Aftermarket) (Unl)": {
+		"languages": ["En", "Fr"]
+	},
 	"Sub Rescue (World) (v0.3) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Sub-Assault (World) (v1.4.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Submarine Attack (Europe, Brazil) (En)": {
@@ -3150,6 +3330,15 @@
 	"Sushi Nights (World) (v1.04) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Sushi Nights (World) (v1.05) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Sutoroku (World) (v0.2) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Svellas (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Sword Strike (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -3196,7 +3385,7 @@
 	"Teddy Boy (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Teddy Boy Blues (Japan) (En) (Proto) (Ep-MyCard)": {
+	"Teddy Boy Blues (Japan) (En) (Beta) (Ep-MyCard)": {
 		"languages": ["En"]
 	},
 	"Teddy Boy Blues (Japan) (En)": {
@@ -3276,10 +3465,16 @@
 	"Tower of Sorrow (World) (v1.5) (Digital) (Hard) (Color Blind) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Toy Pop (World) (v0.1) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"TransBot (USA, Europe, Brazil) (En) (Beta)": {
 		"languages": ["En"]
 	},
 	"TransBot (USA, Europe, Brazil) (En)": {
+		"languages": ["En"]
+	},
+	"Triangle Puzzle (World) (v1.4) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es)": {
@@ -3306,6 +3501,9 @@
 	"Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Undertale - The Ruins (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Vampire (Europe, Brazil) (En) (Beta)": {
 		"languages": ["En"]
 	},
@@ -3328,6 +3526,9 @@
 		"languages": ["En"]
 	},
 	"Vexed (World) (v1.03) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Vexed (World) (v1.15) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"VG Fighter (World) (Proto) (Aftermarket) (Unl)": {
@@ -3364,6 +3565,9 @@
 		"languages": ["En"]
 	},
 	"Weka Invaders (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Whack 'Em Smack 'Em Byrons Remarked (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Where in the World is Carmen Sandiego (Brazil)": {
@@ -3411,6 +3615,9 @@
 	"Wolfchild (Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
+	"Wolfenstein (World) (v1.16) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Wonder Boy (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
@@ -3433,6 +3640,9 @@
 		"languages": ["En"]
 	},
 	"Wonder Boy in Monster World (Europe)": {
+		"languages": ["En"]
+	},
+	"Wonder Kid (Korea) (En) (Unl)": {
 		"languages": ["En"]
 	},
 	"Wonsiin (Korea) (En) (Unl)": {

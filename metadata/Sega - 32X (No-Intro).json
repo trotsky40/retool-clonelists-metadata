@@ -1,5 +1,5 @@
 {
-	"32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)": {
+	"32X Sample Program - PWM Sound Demo (USA) (Demo)": {
 		"languages": ["En"]
 	},
 	"240p Test Suite (World) (Program) (Aftermarket) (Unl)": {
@@ -20,6 +20,9 @@
 	"After Burner Complete (Japan, USA) (En)": {
 		"languages": ["En"]
 	},
+	"Amazing Spider-Man, The - Web of Fire (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"Amazing Spider-Man, The - Web of Fire (USA)": {
 		"languages": ["En"]
 	},
@@ -32,34 +35,37 @@
 	"Brutal - Above the Claw (USA)": {
 		"languages": ["En"]
 	},
-	"ClayFighter 2 (USA) (Proto) (1995-04-28)": {
+	"ClayFighter 2 (USA) (Proto)": {
+		"languages": ["En"]
+	},
+	"CMD Download Cartridge (USA) (Proto) (Program)": {
 		"languages": ["En"]
 	},
 	"Cosmic Carnage (Europe)": {
 		"languages": ["En"]
 	},
-	"Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06)": {
+	"Cosmic Carnage (Japan, USA) (En) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21)": {
+	"Cosmic Carnage (Japan, USA) (En) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26)": {
+	"Cosmic Carnage (Japan, USA) (En) (Beta 3)": {
 		"languages": ["En"]
 	},
-	"Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28)": {
+	"Cosmic Carnage (Japan, USA) (En) (Beta 4)": {
 		"languages": ["En"]
 	},
-	"Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04)": {
+	"Cosmic Carnage (Japan, USA) (En) (Beta 5)": {
 		"languages": ["En"]
 	},
-	"Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05)": {
+	"Cosmic Carnage (Japan, USA) (En) (Beta 6)": {
 		"languages": ["En"]
 	},
-	"Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07)": {
+	"Cosmic Carnage (Japan, USA) (En) (Beta 7)": {
 		"languages": ["En"]
 	},
-	"Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11)": {
+	"Cosmic Carnage (Japan, USA) (En) (Beta 8)": {
 		"languages": ["En"]
 	},
 	"Cosmic Carnage (Japan, USA) (En)": {
@@ -113,7 +119,7 @@
 	"Doom RR (Japan, USA) (En) (Beta) (1995-03-07)": {
 		"languages": ["En"]
 	},
-	"Ecco the Dolphin (USA) (Demo) (Developer Cart)": {
+	"Ecco the Dolphin (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
 	"FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)": {
@@ -272,22 +278,22 @@
 	"Kolibri (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)": {
+	"Mars Check Program (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
-	"Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)": {
+	"Mars Check Program (USA) (Program)": {
 		"languages": ["En"]
 	},
-	"Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)": {
+	"Mars Sample Program - Gnu Sierra (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
-	"Mars Sample Program - Pharaoh (Unknown) (SDK Build)": {
+	"Mars Sample Program - Pharaoh (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
-	"Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)": {
+	"Mars Sample Program - Runlength Mode Test (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
-	"Mars Sample Program - Texture Test (Unknown) (SDK Build)": {
+	"Mars Sample Program - Texture Test (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
 	"Metal Head (Europe) (En,Ja)": {
@@ -518,6 +524,9 @@
 	"Stellar Assault (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Sword of the Apocalypse (World) (En,De,Es,Pt) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["De", "En", "Es", "Pt"]
+	},
 	"T-MEK (USA, Europe)": {
 		"languages": ["En"]
 	},
@@ -548,34 +557,31 @@
 	"Tempo (Japan, USA) (En)": {
 		"languages": ["En"]
 	},
-	"Time Warner 32X CMD Download Cartridge (USA) (Program)": {
-		"languages": ["En"]
-	},
 	"Toughman Contest (USA, Europe)": {
 		"languages": ["En"]
 	},
 	"Virtua Fighter (Europe)": {
 		"languages": ["En"]
 	},
-	"Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30)": {
+	"Virtua Fighter (Japan, USA) (En) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15)": {
+	"Virtua Fighter (Japan, USA) (En) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30)": {
+	"Virtua Fighter (Japan, USA) (En) (Beta 3)": {
 		"languages": ["En"]
 	},
-	"Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17)": {
+	"Virtua Fighter (Japan, USA) (En) (Beta 4)": {
 		"languages": ["En"]
 	},
-	"Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21)": {
+	"Virtua Fighter (Japan, USA) (En) (Beta 5)": {
 		"languages": ["En"]
 	},
-	"Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24)": {
+	"Virtua Fighter (Japan, USA) (En) (Beta 6)": {
 		"languages": ["En"]
 	},
-	"Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25)": {
+	"Virtua Fighter (Japan, USA) (En) (Beta 7)": {
 		"languages": ["En"]
 	},
 	"Virtua Fighter (Japan, USA) (En)": {
@@ -602,6 +608,9 @@
 	"Virtua Racing Deluxe (USA)": {
 		"languages": ["En"]
 	},
+	"Wolfenstein 3D Shareware (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"World Series Baseball Starring Deion Sanders (USA)": {
 		"languages": ["En"]
 	},
@@ -612,6 +621,18 @@
 		"languages": ["En"]
 	},
 	"X-Men (USA) (Proto)": {
+		"languages": ["En"]
+	},
+	"xRick (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"xRick (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yeti3D (World) (Demo 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Yeti3D (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Zaxxon's Motherbase 2000 (Japan, USA) (En)": {

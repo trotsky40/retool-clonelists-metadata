@@ -198,11 +198,11 @@
 		"languages": ["Ja"],
 		"localName": "あつまれ！ぐるぐる温泉"
 	},
-	"Atsumare! Guru Guru Onsen (Japan) (Demo 1)": {
+	"Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)": {
 		"languages": ["Ja"],
 		"localName": "あつまれ！ぐるぐる温泉"
 	},
-	"Atsumare! Guru Guru Onsen (Japan) (Demo 2)": {
+	"Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)": {
 		"languages": ["Ja"],
 		"localName": "あつまれ！ぐるぐる温泉"
 	},
@@ -523,9 +523,9 @@
 		"languages": ["Ja"],
 		"localName": "ショコラ　～ｍａｉｄ　ｃａｆｅ　“ｃｕｒｉｏ”～"
 	},
-	"Chocolat - Maid Cafe Curio (Japan) (Demo)": {
+	"Chocolat - Maid Cafe Curio (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localName": "ショコラ　－ｍａｉｄ　ｃａｆｅ　“ｃｕｒｉｏ”－"
+		"localName": "ショコラ　ｍａｉｄ　ｃａｆｅ　“ｃｕｒｉｏ”"
 	},
 	"Chou Hatsumei Boy Kanipan - Bousou Robot no Nazo! (Japan)": {
 		"languages": ["Ja"],
@@ -3514,7 +3514,7 @@
 		"localName": "ロードス島戦記　邪神降臨"
 	},
 	"Record of Lodoss War - The Advent of Cardice (Japan) (Taikenban)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "ロードス島戦記　邪神降臨"
 	},
 	"Red Dog - Superior Firepower (Europe) (En,Fr,De,Es)": {
@@ -3657,9 +3657,6 @@
 		"languages": ["Ja"],
 		"localName": "ルーンジェイド"
 	},
-	"Rush 2049 (Europe) (En,De,Es,It,Nl,Fi) (Beta) (2000-08-07)": {
-		"languages": ["De", "En", "Es", "Fi", "It", "Nl"]
-	},
 	"Rush Rush Rally Racing (Europe) (Unl)": {
 		"languages": ["En"]
 	},
@@ -3700,6 +3697,10 @@
 		"localName": "さくらももこ劇場　コジコジ"
 	},
 	"Sakura Taisen (Japan) (Disc 1)": {
+		"languages": ["Ja"],
+		"localName": "サクラ大戦"
+	},
+	"Sakura Taisen (Japan) (Disc 1) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "サクラ大戦"
 	},
@@ -3813,6 +3814,9 @@
 		"languages": ["Ja"]
 	},
 	"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-08-07)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"San Francisco Rush 2049 (USA) (En,Fr,De,Es,It,Nl)": {
@@ -4382,8 +4386,8 @@
 		"localName": "スターグラディエイター２　～ナイトメアオブビルシュタイン～"
 	},
 	"Star Gladiator 2 - Nightmare of Bilstein (Japan) (Tentou Taikenban)": {
-		"languages": ["Ja"],
-		"localName": "スターグラディエイター２　～ナイトメアオブビルシュタイン～"
+		"languages": ["En"],
+		"localName": "スターグラディエイター２　ナイトメア　オブ　ビルシュタイン"
 	},
 	"Star Wars - Demolition (Europe)": {
 		"languages": ["En"]
@@ -5172,7 +5176,7 @@
 	},
 	"Yoshia no Oka de Nekoronde... (Japan)": {
 		"languages": ["Ja"],
-		"localName": "吉亜の丘で寝ころんで・・・"
+		"localName": "吉亜の丘で寝ころんで…"
 	},
 	"Yu Suzuki Game Works Vol. 1 (Japan)": {
 		"languages": ["Ja"],
@@ -5195,7 +5199,7 @@
 		"localName": "夢のつばさ　Ｆａｔｅ　ｏｆ　Ｈｅａｒｔ"
 	},
 	"Yuukyuu Gensoukyoku 3 - Perpetual Blue (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "悠久幻想曲３　パーペチュアルブルー"
 	},
 	"Zero Gunner 2 (Japan)": {

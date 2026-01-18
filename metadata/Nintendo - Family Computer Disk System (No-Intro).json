@@ -5,7 +5,7 @@
 	"[BIOS] Family Computer Disk System (Japan) (En) (Rev 1) (3DS Virtual Console)": {
 		"languages": ["En"]
 	},
-	"[BIOS] Family Computer Disk System (Japan) (En) (Rev 1) (GameCube Edition)": {
+	"[BIOS] Family Computer Disk System (Japan) (En) (Rev 1) (GameCube, Wii Virtual Console)": {
 		"languages": ["En"]
 	},
 	"[BIOS] Family Computer Disk System (Japan) (En) (Rev 1)": {
@@ -587,8 +587,8 @@
 	"I Am a Teacher - Teami no Kiso (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Ice Climber (Japan) (Disk Writer)": {
-		"languages": ["Ja"]
+	"Ice Climber (Japan) (En) (Disk Writer)": {
+		"languages": ["En"]
 	},
 	"Ice Hockey (Japan)": {
 		"languages": ["Ja"]
@@ -1151,8 +1151,8 @@
 	"Transformers - The Headmasters (Japan)": {
 		"languages": ["Ja"]
 	},
-	"TwinBee (Japan) (Disk Writer)": {
-		"languages": ["Ja"]
+	"TwinBee (Japan) (En) (Disk Writer)": {
+		"languages": ["En"]
 	},
 	"Ultraman 2 - Shutsugeki Katokutai (Japan)": {
 		"languages": ["Ja"]

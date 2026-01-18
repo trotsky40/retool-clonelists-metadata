@@ -1658,7 +1658,7 @@
 	},
 	"Cream Stew mo Minagara Iroiro Gochagocha Ittemasu Kedo... Warai no Tamago L Size - Ohitorisama Nankai Demo (Japan)": {
 		"languages": ["Ja"],
-		"localName": "くりぃむしちゅーも観ながらいろいろゴチャゴチャ言ってますけど・・・　笑いのタマゴＬサイズ　（おひとり様何回でも）"
+		"localName": "くりぃむしちゅーも観ながらいろいろゴチャゴチャ言ってますけど…　笑いのタマゴＬサイズ　（おひとり様何回でも）"
 	},
 	"Criminal Girls (Japan)": {
 		"languages": ["Ja"],
@@ -8370,6 +8370,9 @@
 		"languages": ["Ko"],
 		"localName": "펌프 잇 업 - 제로 포터블"
 	},
+	"Pursuit Force (Europe) (Beta) (2005-08-22)": {
+		"languages": []
+	},
 	"Pursuit Force (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -10395,6 +10398,9 @@
 	"Tales of the World - Radiant Mythology 3 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "テイルズ　オブ　ザ　ワールド　レディアント　マイソロジー３"
+	},
+	"TalkMan (Europe) (Beta) (2006-03-13)": {
+		"languages": []
 	},
 	"TalkMan (Europe, Australia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]

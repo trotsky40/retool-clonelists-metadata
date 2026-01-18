@@ -1194,6 +1194,12 @@
 	"Croc 2 (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Croc (USA, Europe) (Beta 1)": {
+		"languages": ["En"]
+	},
+	"Croc (USA, Europe) (Beta 2)": {
+		"languages": ["En"]
+	},
 	"Croc (USA, Europe)": {
 		"languages": ["En"]
 	},
@@ -2414,7 +2420,7 @@
 	"Get Chuu Club - Minna no Konchuu Daizukan (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
-	"Get!! Loto Club (Japan) (Proto)": {
+	"Get!! Loto Club (Japan) (Proto) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
 	"Gex 3 - Deep Cover Gecko (Europe) (En,Fr,De,Es,It)": {
@@ -2492,13 +2498,13 @@
 	"Golden Goal (Germany) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Sv"]
 	},
-	"Golf Daisuki! (Japan) (SGB Enhanced) (GB Compatible)": {
-		"languages": ["Ja"]
+	"Golf Daisuki! (Japan) (En) (SGB Enhanced) (GB Compatible)": {
+		"languages": ["En"]
 	},
 	"Golf de Ohasuta (Japan) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
-	"Golf King (Europe) (En,Fr,De) (Proto)": {
+	"Golf King (Europe) (En,Fr,De) (Proto) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Golf Ou - The King of Golf (Japan) (SGB Enhanced) (GB Compatible)": {
@@ -2958,10 +2964,10 @@
 	"Ide Yousuke no Mahjong Kyoushitsu GB (Japan)": {
 		"languages": ["Ja"]
 	},
-	"In The Dark 2 (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+	"In the Dark 2 (World) (ModRetro Chromatic) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"In The Dark 2 (World) (Rev 1) (ModRetro Chromatic) (Aftermarket) (Unl)": {
+	"In the Dark 2 (World) (v1.1) (ModRetro Chromatic) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"In the Dark (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)": {
@@ -4822,8 +4828,8 @@
 	"Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
-	"Pocket Bowling (Japan) (GB Compatible)": {
-		"languages": ["Ja"]
+	"Pocket Bowling (Japan) (En) (GB Compatible)": {
+		"languages": ["En"]
 	},
 	"Pocket Bowling (USA) (GB Compatible)": {
 		"languages": ["En"]
@@ -4831,8 +4837,8 @@
 	"Pocket Color Billiards (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Pocket Color Block (Japan) (SGB Enhanced) (GB Compatible)": {
-		"languages": ["Ja"]
+	"Pocket Color Block (Japan) (En) (SGB Enhanced) (GB Compatible)": {
+		"languages": ["En"]
 	},
 	"Pocket Color Mahjong (Japan) (GB Compatible)": {
 		"languages": ["Ja"]
@@ -5053,7 +5059,7 @@
 	"Pokemon Pearl (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
-	"Pokemon Picross (Japan) (Proto)": {
+	"Pokemon Picross (Japan) (Proto) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
 	"Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible)": {
@@ -5254,8 +5260,8 @@
 	"Prince Naseem Boxing (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Prince of Persia (Japan) (Proto)": {
-		"languages": ["Ja"]
+	"Prince of Persia (Japan) (En,Ja) (Proto) (GB Compatible)": {
+		"languages": ["En", "Ja"]
 	},
 	"Prince of Persia (USA, Europe) (En,Fr,De,Es,It) (GB Compatible)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5612,7 +5618,7 @@
 	"RoboCop (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Robopon - Star Version (USA) (Proto)": {
+	"Robopon - Star Version (USA) (Proto) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
 	"Robopon - Sun Version (USA) (Beta) (SGB Enhanced) (GB Compatible)": {
@@ -5782,6 +5788,9 @@
 		"languages": ["De", "En", "Fr"]
 	},
 	"Sabrina - The Animated Series - Zapped! (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Sabrina - The Animated Series - Zapped! (World) (ModRetro Chromatic)": {
 		"languages": ["En"]
 	},
 	"Sakata Gorou Kudan no Renju Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible)": {
@@ -6563,16 +6572,16 @@
 	"Superman - Battle for Metropolis (Europe) (Proto) (2001-01-12) (GB Compatible)": {
 		"languages": ["En"]
 	},
-	"Supershot Golf Robot (USA) (Proto)": {
+	"Supershot Golf Robot (USA) (Proto) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["En"]
 	},
 	"Supreme Snowboarding (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (Rev 1) (Possible Proto) (SGB Enhanced, GB Compatible) (NP)": {
+	"Survival Kids 2 - Dasshutsu!! Futago-jima! (Japan) (Rev 1) (Possible Proto) (SGB Enhanced, GB Compatible) (NP)": {
 		"languages": ["Ja"]
 	},
-	"Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible)": {
+	"Survival Kids 2 - Dasshutsu!! Futago-jima! (Japan) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
 	"Survival Kids (USA) (SGB Enhanced) (GB Compatible)": {
@@ -6587,7 +6596,7 @@
 	"Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl) (Beta 2)": {
 		"languages": ["Fr", "Nl"]
 	},
-	"Sutte Hakkun GB (Japan) (Proto)": {
+	"Sutte Hakkun GB (Japan) (Proto) (SGB Enhanced) (GB Compatible)": {
 		"languages": ["Ja"]
 	},
 	"Suzuki Alstare Extreme Racing (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -7174,9 +7183,6 @@
 	"Tyrannosaurus Tex (USA) (Proto)": {
 		"languages": ["En"]
 	},
-	"Tyrannosaurus Tex (World) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
 	"Tyrannosaurus Tex (World) (Piko Interactive)": {
 		"languages": ["En"]
 	},
@@ -7483,14 +7489,14 @@
 	"Wizardry Empire - Fukkatsu no Tsue (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Wizardry I - Proving Grounds of the Mad Overlord (Japan)": {
-		"languages": ["Ja"]
+	"Wizardry I - Proving Grounds of the Mad Overlord (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
-	"Wizardry II - Llylgamyn no Isan (Japan)": {
-		"languages": ["Ja"]
+	"Wizardry II - Llylgamyn no Isan (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
-	"Wizardry III - Diamond no Kishi (Japan)": {
-		"languages": ["Ja"]
+	"Wizardry III - Diamond no Kishi (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"Wizkid and The Tower (World) (GB Compatible) (Aftermarket) (Unl)": {
 		"languages": ["En"]

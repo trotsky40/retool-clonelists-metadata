@@ -256,11 +256,17 @@
 	"Batman of the Future - Return of the Joker (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
+	"BattleTanx (USA) (Limited Run Games) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"BattleTanx (USA)": {
 		"languages": ["En"]
 	},
 	"BattleTanx - Global Assault (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"BattleTanx - Global Assault (USA) (Limited Run Games) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"BattleTanx - Global Assault (USA)": {
 		"languages": ["En"]
@@ -1524,16 +1530,16 @@
 	"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"Legend of Zelda, The - Majora's Mask (Europe) (GameCube)": {
+	"Legend of Zelda, The - Majora's Mask (Europe) (Zelda Collection)": {
 		"languages": ["En"]
 	},
 	"Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
-	"Legend of Zelda, The - Majora's Mask (USA) (GameCube)": {
+	"Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
-	"Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)": {
+	"Legend of Zelda, The - Majora's Mask (USA) (Zelda Collection)": {
 		"languages": ["En"]
 	},
 	"Legend of Zelda, The - Majora's Mask (USA)": {
@@ -1572,7 +1578,7 @@
 	"Legend of Zelda, The - Ocarina of Time (USA)": {
 		"languages": ["En"]
 	},
-	"Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (GameCube)": {
+	"Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (Zelda Collection)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)": {
@@ -2145,6 +2151,12 @@
 	"Nintendo 64 Modem (Japan) (Add-on)": {
 		"languages": ["Ja"]
 	},
+	"Nintendo 64 Test Cartridge (USA) (v1.x) (Reflash) (Test Program)": {
+		"languages": ["En"]
+	},
+	"Nintendo 64 Test Cartridge (USA) (v1.x) (Runtime) (Test Program)": {
+		"languages": ["En"]
+	},
 	"Nintendo All-Star! Dairantou Smash Brothers (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ニンテンドウオールスター！　大乱闘スマッシュブラザーズ"
@@ -2413,10 +2425,13 @@
 	"Polaris SnoCross (USA)": {
 		"languages": ["En"]
 	},
-	"Portal 64 (World) (v0.14) (Proto) (Aftermarket) (Unl)": {
+	"Portal 64 (World) (Proto 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Portal 64 (World) (v0.15) (Proto) (Aftermarket) (Unl)": {
+	"Portal 64 (World) (Proto 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Portal 64 (World) (Proto 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Power League 64 (Japan)": {
@@ -2487,6 +2502,9 @@
 	},
 	"Racing Simulation 2 (Germany)": {
 		"languages": ["De"]
+	},
+	"Rakugakids (Europe) (Beta) (1998-06-19)": {
+		"languages": ["En"]
 	},
 	"Rakugakids (Europe) (Beta) (1998-09-16)": {
 		"languages": ["En"]
@@ -2721,6 +2739,9 @@
 	},
 	"Shadow Man (Brazil)": {
 		"languages": ["Pt"]
+	},
+	"Shadow Man (Europe) (En,Es,It) (Beta)": {
+		"languages": ["En", "Es", "It"]
 	},
 	"Shadow Man (Europe) (En,Es,It)": {
 		"languages": ["En", "Es", "It"]
@@ -3422,7 +3443,10 @@
 	"V-Rally Edition 99 (USA)": {
 		"languages": ["En"]
 	},
-	"Viewpoint 2064 (Japan) (Proto)": {
+	"Viewpoint 2064 (Japan) (Proto) (1999-12-17)": {
+		"languages": ["Ja"]
+	},
+	"Viewpoint 2064 (Japan) (Proto) (2000-04-13)": {
 		"languages": ["Ja"]
 	},
 	"Vigilante 8 (Europe)": {
