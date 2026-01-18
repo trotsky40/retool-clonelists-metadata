@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "2026-01-02 11:07:20",
+		"lastUpdated": "2026-01-18 17:34:33",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -97,6 +97,13 @@
 			"titles": [
 				{"searchTerm": "Action Replay Ultimate Cheats for Final Fantasy X"},
 				{"searchTerm": "Action Replay Ultimate Cheats pour Final Fantasy X"}
+			]
+		},
+		{
+			"group": "Action Replay Ultimate Cheats for Use with Driver 3",
+			"titles": [
+				{"searchTerm": "Action Replay Ultimate Cheats for Use with Driver 3"},
+				{"searchTerm": "CD avec les codes Action Replay exclusivement pour le jeu Driver 3"}
 			]
 		},
 		{
@@ -279,7 +286,8 @@
 			"titles": [
 				{"searchTerm": "Altered Beast"},
 				{"searchTerm": "Juuouki - Project Altered Beast"},
-				{"searchTerm": "Shouwangji - Project Altered Beast"}
+				{"searchTerm": "Shouwangji - Project Altered Beast"},
+				{"searchTerm": "Suwanggi - Project Altered Beast"}
 			]
 		},
 		{
@@ -545,13 +553,6 @@
 			"titles": [
 				{"searchTerm": "Bad Boys - Miami Takedown"},
 				{"searchTerm": "Bad Boys II"}
-			]
-		},
-		{
-			"group": "Bakufuu Slash! Kizuna Arashi (EyeToy Camera Doukonban)",
-			"titles": [
-				{"searchTerm": "Bakufuu Slash! Kizuna Arashi (EyeToy Camera Doukonban)"},
-				{"searchTerm": "Bakufuu Slash! Kizuna Arashi", "priority": 2}
 			]
 		},
 		{
@@ -1158,6 +1159,7 @@
 			"group": "Contra - Shattered Soldier",
 			"titles": [
 				{"searchTerm": "Contra - Shattered Soldier"},
+				{"searchTerm": "Jin Hondura"},
 				{"searchTerm": "Shin Contra"}
 			]
 		},
@@ -1468,7 +1470,7 @@
 			"group": "Di Gi Charat Fantasy Excellent (Premium-ban)",
 			"titles": [
 				{"searchTerm": "Di Gi Charat Fantasy Excellent (Premium-ban)"},
-				{"searchTerm": "Di Gi Charat Fantasy Excellent (Standard-ban)", "priority": 2}
+				{"searchTerm": "Di Gi Charat Fantasy Excellent", "priority": 2}
 			]
 		},
 		{
@@ -1997,8 +1999,8 @@
 			"titles": [
 				{"searchTerm": "Dynasty Tactics"},
 				{"searchTerm": "Samgukji Jeongi"},
-				{"searchTerm": "San Guo Zhi Zhan Ji"},
-				{"searchTerm": "Sangokushi Senki"}
+				{"searchTerm": "Sangokushi Senki"},
+				{"searchTerm": "Sanguozhi Zhanji"}
 			]
 		},
 		{
@@ -2238,6 +2240,13 @@
 			]
 		},
 		{
+			"group": "European Game Collection",
+			"titles": [
+				{"searchTerm": "European Game Collection"},
+				{"searchTerm": "Simple 2000 Series Vol. 69 - The Board Game Collection"}
+			]
+		},
+		{
 			"group": "Eve - Burst Error Plus (Premium DVD-Box)",
 			"titles": [
 				{"searchTerm": "Eve - Burst Error Plus (Premium DVD-Box)"},
@@ -2249,6 +2258,7 @@
 			"titles": [
 				{"searchTerm": "Ever 17 - The Out of Infinity - Premium Edition"},
 				{"searchTerm": "SuperLite 2000 Vol. 24 - Ever 17 - The Out of Infinity - Premium Edition", "priority": 2},
+				{"searchTerm": "Ever 17 - The Out of Infinity (Ren'ai Game Selection)", "priority": 3},
 				{"searchTerm": "Ever 17 - The Out of Infinity", "priority": 4}
 			]
 		},
@@ -2269,14 +2279,14 @@
 		{
 			"group": "EyeToy - Groove",
 			"titles": [
-				{"searchTerm": "EyeToy - Furi Furi Dance Tengoku (EyeToy Camera Doukonban)"},
-				{"searchTerm": "EyeToy - Groove"},
-				{"searchTerm": "EyeToy - Furi Furi Dance Tengoku", "priority": 2}
+				{"searchTerm": "EyeToy - Furi Furi Dance Tengoku"},
+				{"searchTerm": "EyeToy - Groove"}
 			]
 		},
 		{
 			"group": "EyeToy - Monkey Mania",
 			"titles": [
+				{"searchTerm": "EyeToy - Gen Houzi Wan Ba! Shouwu Zuta Nao Fantian!!"},
 				{"searchTerm": "EyeToy - Monkey Mania"},
 				{"searchTerm": "EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!!"}
 			]
@@ -3538,9 +3548,8 @@
 		{
 			"group": "Harukanaru Toki no Naka de 3",
 			"titles": [
-				{"searchTerm": "Harukanaru Toki no Naka de 3 (History Box)"},
-				{"searchTerm": "Harukanaru Toki no Naka de 3 (Premium Box)", "priority": 2},
-				{"searchTerm": "Harukanaru Toki no Naka de 3", "priority": 3}
+				{"searchTerm": "Harukanaru Toki no Naka de 3 (Premium Box)"},
+				{"searchTerm": "Harukanaru Toki no Naka de 3", "priority": 2}
 			]
 		},
 		{
@@ -3548,7 +3557,7 @@
 			"titles": [
 				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)"},
 				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki", "priority": 2},
-				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Triple Pack)", "priority": 2}
+				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Twin Pack)", "priority": 2}
 			]
 		},
 		{
@@ -4142,9 +4151,8 @@
 		{
 			"group": "King of Fighters 2002, The - Challenge to Ultimate Battle",
 			"titles": [
-				{"searchTerm": "King of Fighters 2002, The (SNK Best Collection)"},
-				{"searchTerm": "King of Fighters 2002, The - Challenge to Ultimate Battle"},
-				{"searchTerm": "King of Fighters 2002, The", "priority": 2}
+				{"searchTerm": "King of Fighters 2002, The"},
+				{"searchTerm": "King of Fighters 2002, The - Challenge to Ultimate Battle"}
 			]
 		},
 		{
@@ -4318,7 +4326,7 @@
 				{"searchTerm": "Lemony Snicket - Raetselhafte Ereignisse"},
 				{"searchTerm": "Lemony Snicket Una Serie di Sfortunati Eventi"},
 				{"searchTerm": "Lemony Snicket's A Series of Unfortunate Events"},
-				{"searchTerm": "Una Serie de Catastroficas Desdichas de Lemony Snicket"}
+				{"searchTerm": "Serie de Catastroficas Desdichas de Lemony Snicket, Una"}
 			]
 		},
 		{
@@ -5599,13 +5607,6 @@
 			]
 		},
 		{
-			"group": "Onmyou Taisenki - Byakko Enbu (EyeToy Camera Doukonban)",
-			"titles": [
-				{"searchTerm": "Onmyou Taisenki - Byakko Enbu (EyeToy Camera Doukonban)"},
-				{"searchTerm": "Onmyou Taisenki - Byakko Enbu", "priority": 2}
-			]
-		},
-		{
 			"group": "Orphen - Scion of Sorcery",
 			"titles": [
 				{"searchTerm": "Orphen - Scion of Sorcery"},
@@ -5789,13 +5790,6 @@
 			]
 		},
 		{
-			"group": "Piposaru 2001",
-			"titles": [
-				{"searchTerm": "Gen Houzi Wan Ba! Shouwu Zuta Nao Fantian!!"},
-				{"searchTerm": "Piposaru 2001"}
-			]
-		},
-		{
 			"group": "Pirates - Legend of the Black Buccaneer",
 			"titles": [
 				{"searchTerm": "Black Buccaneer"},
@@ -5838,24 +5832,6 @@
 			"titles": [
 				{"searchTerm": "PlayOnline Viewer - Tetra Master & Janhourou"},
 				{"searchTerm": "PlayOnline Viewer and Tetra Master"}
-			]
-		},
-		{
-			"group": "PlayStation BB Navigator (Disc 1)",
-			"titles": [
-				{"searchTerm": "PlayStation BB Navigator (Disc 1)"}
-			],
-			"supersets": [
-				{"searchTerm": "PlayStation BB Navigator"}
-			]
-		},
-		{
-			"group": "PlayStation BB Navigator (Disc 2)",
-			"titles": [
-				{"searchTerm": "PlayStation BB Navigator (Disc 2)"}
-			],
-			"supersets": [
-				{"searchTerm": "PlayStation BB Navigator"}
 			]
 		},
 		{
@@ -6551,6 +6527,7 @@
 		{
 			"group": "Samurai Warriors 2",
 			"titles": [
+				{"searchTerm": "Jeonguk Mussang 2"},
 				{"searchTerm": "Samurai Warriors 2"},
 				{"searchTerm": "Sengoku Musou 2"}
 			]
