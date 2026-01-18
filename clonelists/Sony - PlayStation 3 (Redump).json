@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "2026-01-02 11:07:20",
+		"lastUpdated": "2026-01-18 17:50:32",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -418,8 +418,7 @@
 				{"searchTerm": "Buzz! Il Quizzone Nazionale"},
 				{"searchTerm": "Buzz! Le Plus Malin des Francais"},
 				{"searchTerm": "Buzz! Polskie Lamiglowki"},
-				{"searchTerm": "Buzz! Que Sabes de tu Pais"},
-				{"searchTerm": "Buzz! Quem e o Genio Portugues"}
+				{"searchTerm": "Buzz! Que Sabes de tu Pais"}
 			]
 		},
 		{
@@ -631,7 +630,7 @@
 		{
 			"group": "Disney-Pixar Cars 2",
 			"titles": [
-				{"searchTerm": "Disney - Pixar Arabalar 2"},
+				{"searchTerm": "Disney-Pixar Arabalar 2"},
 				{"searchTerm": "Disney-Pixar Cars 2"}
 			]
 		},
@@ -1174,8 +1173,7 @@
 				{"searchTerm": "Gran Turismo 5", "priority": 2}
 			],
 			"supersets": [
-				{"searchTerm": "Gran Turismo 5 - 2013 Edition"},
-				{"searchTerm": "Gran Turismo 5 - XL Edition", "priority": 2}
+				{"searchTerm": "Gran Turismo 5 - XL Edition"}
 			]
 		},
 		{
@@ -1506,7 +1504,7 @@
 		{
 			"group": "LEGO Harry Potter - Years 1-4",
 			"titles": [
-				{"searchTerm": "LEGO Harry Potter - Dai-1 Shou - Dai-4 Shou"},
+				{"searchTerm": "LEGO Harry Potter - Dai-1-shou - Dai-4-shou"},
 				{"searchTerm": "LEGO Harry Potter - Years 1-4"}
 			]
 		},
@@ -1929,7 +1927,6 @@
 		{
 			"group": "Persona 4 Arena Ultimax",
 			"titles": [
-				{"searchTerm": "Persona 4 - The Ultimax - Ultra Suplex Hold"},
 				{"searchTerm": "Persona 4 - The Ultimax Ultra Suplex Hold"},
 				{"searchTerm": "Persona 4 Arena Ultimax"}
 			]
@@ -2293,6 +2290,13 @@
 			"titles": [
 				{"searchTerm": "Rune Factory - Oceans"},
 				{"searchTerm": "Rune Factory - Tides of Destiny"}
+			]
+		},
+		{
+			"group": "Ryuu ga Gotoku 0 - Chikai no Basho",
+			"titles": [
+				{"searchTerm": "Renzhong zhi Long 0 - Shiyue de Changsuo"},
+				{"searchTerm": "Ryuu ga Gotoku 0 - Chikai no Basho"}
 			]
 		},
 		{
@@ -2984,6 +2988,13 @@
 			"titles": [
 				{"searchTerm": "Wizardry - Perfect Pack"},
 				{"searchTerm": "Wizardry - Twin Pack", "priority": 2}
+			]
+		},
+		{
+			"group": "X Factor, The",
+			"titles": [
+				{"searchTerm": "X Factor"},
+				{"searchTerm": "X Factor, The"}
 			]
 		},
 		{
