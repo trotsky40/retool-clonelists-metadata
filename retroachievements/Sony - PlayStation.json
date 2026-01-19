@@ -165,7 +165,7 @@
             "sha1": "f45395bd7750001bf6fc4b31f04615e61f1750b7"
         },
         {
-            "name": "Arc the Lad Collection - Arc Arena - Monster Tournament (USA)",
+            "name": "Arc the Lad Collection - Arc Arena - Monster Tournament (USA) (Exclusive Subset)",
             "sha1": "939abf4d10a46e99992ea8131e46e4ea45962c26"
         },
         {
@@ -713,10 +713,6 @@
         {
             "name": "Crash Bandicoot 2 - Cortex Strikes Back (USA)",
             "sha1": "3ff7ccb1b38a9f172f0a96b7c780913401c28b03"
-        },
-        {
-            "name": "Crash Bandicoot 3 Warped (Subset - Developer Times)",
-            "sha1": "2f8a80ec3837e236f3c224960545c7c44eace0ef"
         },
         {
             "name": "Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE)",
@@ -1353,40 +1349,12 @@
             "sha1": "85d4a976fb63a56ae6e802812bf1e020d96d62cb"
         },
         {
-            "name": "Final Fantasy Origins (Subset - Solo Class)",
-            "sha1": "ddc9a155871229066284d07106d1aa64c4a1625c"
-        },
-        {
             "name": "Final Fantasy Origins (USA) (Rev 1)",
             "sha1": "833a6bf605ab741b2258312874c9955de2086586"
         },
         {
             "name": "Final Fantasy Tactics (USA)",
             "sha1": "f44672cbf59ac08e0ce5f7473ee9a0e352c6f061"
-        },
-        {
-            "name": "Final Fantasy VII (Subset - Bonus)",
-            "crc": "bb8188b8",
-            "md5": "955c06863b62dbdbdb74786425d9843a",
-            "sha1": "4e2116f861d9f7733e684e8f96a703dfb8ca0ba1"
-        },
-        {
-            "name": "Final Fantasy VII (Subset - Bonus) (Spirit Bug Fix)",
-            "crc": "4130f709",
-            "md5": "1ca265c4091041081d5c19f3ba14f26d",
-            "sha1": "cdddcd88a2692d482070503632dba3e9f63fbb57"
-        },
-        {
-            "name": "Final Fantasy VII (Subset - LLNIIENACMO)",
-            "crc": "f3b80abd",
-            "md5": "c455bc197ecc32649f5cf27c9c8e33c2",
-            "sha1": "7a810c3a0aa09ececb0f01b4f37d8bdd1de95ef5"
-        },
-        {
-            "name": "Final Fantasy VII (Subset - Solo Lowest Level Party)",
-            "crc": "e782865c",
-            "md5": "a8f0c8db6b62bafd5e5019def269bb1a",
-            "sha1": "7568f51104780b052f2a52a7bfaa63a034e2e6a9"
         },
         {
             "name": "Final Fantasy VII (USA)",
@@ -1405,12 +1373,6 @@
             "crc": "aaac962e",
             "md5": "edd91817dffc8b5cf9e7bcb1b2d23c5e",
             "sha1": "85978177d0ba554f048e81d0ee75f0b0b6cd5e99"
-        },
-        {
-            "name": "Final Fantasy VIII (Subset - NJNLU)",
-            "crc": "d55737aa",
-            "md5": "0cbb9127c346b0e80f0a9457f3da6d54",
-            "sha1": "d5ae2234e056cf45d01363253ccc0cd6bc09e1f0"
         },
         {
             "name": "Final Fantasy VIII (USA)",
@@ -1781,10 +1743,6 @@
         {
             "name": "Inuyasha - A Feudal Fairy Tale (USA) (Rev 1)",
             "sha1": "6704613ca38695588379319b113a1443771d2b30"
-        },
-        {
-            "name": "Irritating Stick (Subset - IrRAtating Custom Courses)",
-            "sha1": "5f503b45ef14a67d483cac3e08f03cb1d9a6985f"
         },
         {
             "name": "Irritating Stick (USA)",
@@ -2165,10 +2123,6 @@
         {
             "name": "Mega Man 8 (USA) (Undub) (v1.4) (Acediez)",
             "sha1": "dd2616fa83dd6f386118865d119ec93ec0516792"
-        },
-        {
-            "name": "Mega Man Legends (Subset - Bonus)",
-            "sha1": "11fa1e63751b9cb183c117360e97ecffa00a49ae"
         },
         {
             "name": "Mega Man Legends (USA)",
@@ -2877,10 +2831,6 @@
             "sha1": "dae6d470d77c04a79de53f14e9c9f27c36d9d825"
         },
         {
-            "name": "Racing Lagoon (Subset - Gearhead)",
-            "sha1": "fd9e57c5944f93c8c0cf7a7063e9aa0a84e9577f"
-        },
-        {
             "name": "Rage Racer (USA)",
             "sha1": "f36c24f9970ba71790e317771dfa318969981eb6"
         },
@@ -3515,10 +3465,6 @@
             "sha1": "71cfeb60718ee0251bd2257763262766b07ed2a7"
         },
         {
-            "name": "Street Fighter EX2 Plus (Subset - Maniac Mode)",
-            "sha1": "e17c3e68b840700ed02df54c0fffcd4e720075ff"
-        },
-        {
             "name": "Street Fighter EX2 Plus (USA)",
             "sha1": "7412bc70b906f05e50994ff80899dfb18073771b"
         },
@@ -3959,16 +3905,8 @@
             "sha1": "76ca2e86180f977c596a53c7257914f338e6a0de"
         },
         {
-            "name": "Tony Hawk's Pro Skater 3 (Subset - Single Run)",
-            "sha1": "52213afd10966cbac4d3a097784c3ee18964fd65"
-        },
-        {
             "name": "Tony Hawk's Pro Skater 3 (USA)",
             "sha1": "5f685223e55e26407c2b8d3aabff546860a3d21b"
-        },
-        {
-            "name": "Tony Hawk's Pro Skater 4 (Subset - One Combo)",
-            "sha1": "cc18bf21a1640f53d7b2be023c7c44469202f458"
         },
         {
             "name": "Tony Hawk's Pro Skater 4 (USA)",
@@ -4117,10 +4055,6 @@
         {
             "name": "Walt Disney World Quest - Magical Racing Tour (USA)",
             "sha1": "64d32a3428f0b08374fa83d83a56fe127563a8ff"
-        },
-        {
-            "name": "Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)",
-            "sha1": "7d0ca70f35b794144bc8773ba1d8169e58c4594c"
         },
         {
             "name": "Walt Disney's The Jungle Book - Rhythm n' Groove (USA)",

@@ -4015,12 +4015,6 @@
             "sha1": "5803f20e9a5d0ac10abb22d9aa29d35c2f775b52"
         },
         {
-            "name": "Sonic 1 - Knuckles the Echidna in Sonic the Hedgehog (Subset - Hold Right to Lose) (Hack)",
-            "crc": "1f199b1a",
-            "md5": "69bc17615456437905b56a703f134084",
-            "sha1": "1cd4795fa607b70c4726965f2feb6f6913d0b059"
-        },
-        {
             "name": "Sonic 1 - Knuckles the Echidna in Sonic the Hedgehog (v1.1) (Stealth) (Hack)",
             "crc": "57a6ddb3",
             "md5": "6af2ffd9d06b0aa2125e3438c28c7c83",
@@ -5513,12 +5507,6 @@
             "crc": "179a1aa2",
             "md5": "f34c4d65295980bbf7c1c0dde433b154",
             "sha1": "f0b447196d648b282050a52bdfdd9bf0d8f3d57e"
-        },
-        {
-            "name": "Zombies Ate My Neighbors (Subset - Save All Victims)",
-            "crc": "f62b93ee",
-            "md5": "0fd84fc5e02751cdc5ff1ad0697b13b0",
-            "sha1": "d9f0304b274daa58486d631172bb06581303b392"
         },
         {
             "name": "Zombies Ate My Neighbors (USA)",

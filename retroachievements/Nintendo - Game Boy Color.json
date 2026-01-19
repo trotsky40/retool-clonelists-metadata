@@ -367,12 +367,6 @@
             "sha1": "05d553049a1ba1999e5891097471bff1b882cee7"
         },
         {
-            "name": "Caterpillar Construction Zone (Subset - Speedrun)",
-            "crc": "a50af6e6",
-            "md5": "8c82887c5462f642b8283c0fde55f314",
-            "sha1": "250a65032bc711fbcd4515e09305c2ddd0cea83a"
-        },
-        {
             "name": "Caterpillar Construction Zone (USA, Europe) (GB Compatible)",
             "crc": "d20dc670",
             "md5": "046af13647ed4777510aa86fcb753bf9",
@@ -605,12 +599,6 @@
             "crc": "71d693da",
             "md5": "c3987a4d734c37b7d8324f654a45de70",
             "sha1": "01c4e2145365a12560d162116378f1991807ef95"
-        },
-        {
-            "name": "Dragon Warrior III (Subset - Gold Medals)",
-            "crc": "aa7454c5",
-            "md5": "498e4e521efe5539290ca6c4425d34cd",
-            "sha1": "7076f7dfc8b207ab48dc16c67f9edd28dfa9cbaa"
         },
         {
             "name": "Dragon Warrior III (USA)",
@@ -1183,12 +1171,6 @@
             "sha1": "9f2dff3c46406839f839a8d535353dfc1e3e8670"
         },
         {
-            "name": "Legend of Zelda, The - Oracle of Ages (Subset - Bonus)",
-            "crc": "c5fc0dba",
-            "md5": "293d91d53e2c6ce32d55696add7ab8e1",
-            "sha1": "2a6e9908072de77d4f225607ff6d3760f01e7ef1"
-        },
-        {
             "name": "Legend of Zelda, The - Oracle of Ages (USA) (Force GBA) (DuoDreamer) (v0.2)",
             "crc": "a842ef65",
             "md5": "a0c1a41e2c3de54705036a1b3f71d79a",
@@ -1205,12 +1187,6 @@
             "crc": "dbac1357",
             "md5": "4ca44cbdd4e05c9b3c22da96d3de6338",
             "sha1": "360b9408e569ba826212eac1ebea1b09573cb48c"
-        },
-        {
-            "name": "Legend of Zelda, The - Oracle of Seasons (Subset - Bonus)",
-            "crc": "b98dad89",
-            "md5": "adb108b1872c8701b4cf571665d80cb8",
-            "sha1": "990eb0147ab0d0db6283431a79bbc21fd38304cb"
         },
         {
             "name": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",

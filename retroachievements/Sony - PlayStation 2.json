@@ -609,14 +609,6 @@
             "sha1": "650f79c444217ce02d6df69ac9338cabafc98dea"
         },
         {
-            "name": "Dark Cloud 2 (Subset - Monster Transformation)",
-            "sha1": "8424535ec45526a7c8d6db39f92df971f895491b"
-        },
-        {
-            "name": "Dark Cloud 2 (Subset - Spheda Master)",
-            "sha1": "46a06b0264ca03918ab9b35eb7c8814acc5b6152"
-        },
-        {
             "name": "Dark Cloud 2 (USA) (v2.00)",
             "sha1": "ce5b7a07a14ac20d41f7d96e3f46da94b5433e2a"
         },
@@ -641,10 +633,6 @@
             "sha1": "97fd228de6cd22127dc8c7e882ac5af25d0566f2"
         },
         {
-            "name": "Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)",
-            "sha1": "a5ad12b1f036be93d464d03c982bb23b388284a8"
-        },
-        {
             "name": "Darkwatch (USA)",
             "sha1": "ec12587fbff7e64ffb5ec4360088275d20230714"
         },
@@ -659,10 +647,6 @@
         {
             "name": "Darkwatch (USA) (Widescreen, 60FPS) (v1.0) (ASolidSnack)",
             "sha1": "bdc28da40278bbb66058b1271465b8cae94a74f7"
-        },
-        {
-            "name": "Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)",
-            "sha1": "a069b05094f41fb41fa05e9722c87b4e7399c0fa"
         },
         {
             "name": "Dave Mirra Freestyle BMX 2 (USA)",
@@ -771,10 +755,6 @@
         {
             "name": "Dinosaur Adventure (Europe) (En,Fr,De)",
             "sha1": "afb891901681337a0f855841fc4f78cedbbd8817"
-        },
-        {
-            "name": "Dirge of Cerberus - Final Fantasy VII (Subset - Lv1 Hard S Rank)",
-            "sha1": "1470969ca06498315e378055817dfd55c7144171"
         },
         {
             "name": "Dirge of Cerberus - Final Fantasy VII (USA)",
@@ -961,7 +941,7 @@
             "sha1": "cc48aec82d8329fd6b14c720db1bb161969cfdc6"
         },
         {
-            "name": "Dot Hack--Part 1 - Infection (Subset - Book of 1000)",
+            "name": "Dot Hack--Part 1 - Infection (Specialty Subset - Book of 1000)",
             "sha1": "c64b23aea45098e74addd986e129425909b51782"
         },
         {
@@ -969,7 +949,7 @@
             "sha1": "a7d8288365d9e847cb1889040ac664e1fc6b0911"
         },
         {
-            "name": "Dot Hack--Part 2 - Mutation (Subset - Book of 1000)",
+            "name": "Dot Hack--Part 2 - Mutation (Specialty Subset - Book of 1000)",
             "sha1": "ce64747c0d97951b69ceac99d6a50cb334f9eb86"
         },
         {
@@ -977,7 +957,7 @@
             "sha1": "19f2f2b22c36455832d1ae191d1c9c5c80622d27"
         },
         {
-            "name": "Dot Hack--Part 3 - Outbreak (Subset - Book of 1000)",
+            "name": "Dot Hack--Part 3 - Outbreak (Specialty Subset - Book of 1000)",
             "sha1": "55d73e225dd175a6349d07de6585dd164c681640"
         },
         {
@@ -985,7 +965,7 @@
             "sha1": "0f0dc92a3f9ab0f8a17d38e91cbcd7d9cb3612e9"
         },
         {
-            "name": "Dot Hack--Part 4 - Quarantine (Subset - Book of 1000)",
+            "name": "Dot Hack--Part 4 - Quarantine (Specialty Subset - Book of 1000)",
             "sha1": "a3843cb86c1d4aac5f085626b59d6ce05bc376b0"
         },
         {
@@ -1003,10 +983,6 @@
         {
             "name": "Dragon Ball Z - Budokai (USA)",
             "sha1": "73636d7d77c322320223c9613a4e6be462778a0f"
-        },
-        {
-            "name": "Dragon Ball Z - Budokai 2 (Subset - Other World Tournament)",
-            "sha1": "b37e60b11e29430fc87cdbda86d3f15fadb49bfd"
         },
         {
             "name": "Dragon Ball Z - Budokai 2 (USA) (Skill Cheat Patch)",
@@ -1047,14 +1023,6 @@
         {
             "name": "Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations)",
             "sha1": "d972f459c00386e60bd83ce0c0161c0d4fe847e8"
-        },
-        {
-            "name": "Dragon Quest VIII - Journey of the Cursed King (Subset - Monster Loot Ledger)",
-            "sha1": "f333b2873e98385c02a50651682dd4738856b22a"
-        },
-        {
-            "name": "Dragon Quest VIII - Journey of the Cursed King (Subset - Party and Records Chat)",
-            "sha1": "24f9106d5f8eb521f11fabac083ac7ad64bc11e2"
         },
         {
             "name": "Dragon Quest VIII - Journey of the Cursed King (USA)",
@@ -1109,10 +1077,6 @@
             "sha1": "24c621bcf9acbef787e9331706abb19b4bb5847e"
         },
         {
-            "name": "Dynasty Warriors - Gundam 2 (Subset - Max Characters)",
-            "sha1": "728d831256ad6f8daf7a67d6ef78b9624a574a45"
-        },
-        {
             "name": "Dynasty Warriors - Gundam 2 (USA)",
             "sha1": "4bd925f959538106f7a06a1a2e4f5ba9a1f854f1"
         },
@@ -1131,10 +1095,6 @@
         {
             "name": "Dynasty Warriors 3 (USA)",
             "sha1": "7fd5f99b6eba44e6850d83c1ea68ff4592084774"
-        },
-        {
-            "name": "Dynasty Warriors 3 - Xtreme Legends (Subset - Max Item Break)",
-            "sha1": "2828463e6bee8a75380b6d1e5b5898d66dce689e"
         },
         {
             "name": "Dynasty Warriors 3 - Xtreme Legends (USA)",
@@ -1171,10 +1131,6 @@
         {
             "name": "Dynasty Warriors 5 - Xtreme Legends (USA)",
             "sha1": "fb60a673edf8a9db70f6ff5bae070de99dc8da3d"
-        },
-        {
-            "name": "Dynasty Warriors 6 (Subset - Max Level)",
-            "sha1": "4aec874813b638d6eb120d31bd3b83f7bf6c31c9"
         },
         {
             "name": "Dynasty Warriors 6 (USA)",
@@ -1307,10 +1263,6 @@
         {
             "name": "Fighting Fury (Europe)",
             "sha1": "9c1e260de5a2240ec6fd33f3873cf334dc95f070"
-        },
-        {
-            "name": "Final Fantasy X - International (Subset - No Sphere Grid)",
-            "sha1": "87a029518f013d0b3ad4575d5c2933ab1a277275"
         },
         {
             "name": "Final Fantasy X International (Japan) (En,Ja)",
@@ -1509,10 +1461,6 @@
             "sha1": "532d5995f2a9ce4e59ee46e15a5574d56013c300"
         },
         {
-            "name": "God Hand (Subset - Hard Kick Me Sign Run)",
-            "sha1": "c553d04a5f83dad3701f710966ecf5a2b3948a55"
-        },
-        {
             "name": "God Hand (USA)",
             "sha1": "cb9563a5cfd6f86c2b4f6c9c2674f2bfdf18a0c9"
         },
@@ -1553,10 +1501,6 @@
             "sha1": "2173be07cba890782fccd1c50e5cdd0bf23dda9f"
         },
         {
-            "name": "Gradius V (Subset - Bonus)",
-            "sha1": "f832d59f19e419d70d328065b023216231cfe772"
-        },
-        {
             "name": "Gradius V (USA)",
             "sha1": "f378ef259ebf6faeac5cd920d9dad732d8d1e1e5"
         },
@@ -1585,16 +1529,8 @@
             "sha1": "38ecd44ab01a1d349c3cf506933e2198f4c81f36"
         },
         {
-            "name": "Gran Turismo 4 (Europe, Australia) (Subset - Bonus)",
-            "sha1": "31575bc6a42cf89b8e097fc2f9a330bff4dd4861"
-        },
-        {
             "name": "Gran Turismo 4 (USA) (v1.01)",
             "sha1": "7719d419b97fe15db3af82f62e758c79f9233cf2"
-        },
-        {
-            "name": "Gran Turismo 4 (USA) (v2.00) (Subset - Bonus)",
-            "sha1": "f8e256ef040cdf361b876699e1dc490d968bb420"
         },
         {
             "name": "Gran Turismo 4 - Prologue (Europe) (En,Fr,De,Es,It)",
@@ -1641,14 +1577,6 @@
             "sha1": "6f54c67e2d7f35d3025afe039966a822443acf5d"
         },
         {
-            "name": "Grand Theft Auto - San Andreas (Subset - Vehicle Enthusiast)",
-            "sha1": "e471262f52d39e5f9bbcedec64339baa884c69b7"
-        },
-        {
-            "name": "Grand Theft Auto - San Andreas (Subset - Viva Las Venturas)",
-            "sha1": "778e5029ac2e56ce56175d4d638e4bb622f165e9"
-        },
-        {
             "name": "Grand Theft Auto - San Andreas (USA) (v1.03)",
             "sha1": "652643836af5344178e4fc9046aa4371991bcb9b"
         },
@@ -1659,10 +1587,6 @@
         {
             "name": "Grand Theft Auto - Vice City (USA) (v3.00)",
             "sha1": "cdd981a3c80d992dda7e3f69ffb73bdd13970588"
-        },
-        {
-            "name": "Grand Theft Auto - Vice City Stories (Subset - Chained Missions)",
-            "sha1": "e8bd1106c9f20199cde3893bb25ead1a96400610"
         },
         {
             "name": "Grand Theft Auto - Vice City Stories (USA)",
@@ -1717,10 +1641,6 @@
             "sha1": "41ce4d17542d465dd7139c44874249dce8b289f5"
         },
         {
-            "name": "Guitar Hero Encore - Rocks the '80s (Subset - Expert Full Combos)",
-            "sha1": "d4ab693607df22004859763017609931c7ecc6b7"
-        },
-        {
             "name": "Guitar Hero Encore - Rocks the 80s (USA)",
             "sha1": "021983f58b01f5b24e6308dcaa5bceee21c0ec2a"
         },
@@ -1731,10 +1651,6 @@
         {
             "name": "Guitar Hero II (Subset - Expert Full Combos) (PAL)",
             "sha1": "f7096f8c1a98b5b58b9e75e0c93dd4a650f5f983"
-        },
-        {
-            "name": "Guitar Hero II (Subset - Multi)",
-            "sha1": "3ddc94f4b44dbcd5cffdb4e1f35459ee56884292"
         },
         {
             "name": "Guitar Hero II (USA)",
@@ -1807,14 +1723,6 @@
         {
             "name": "Harry Potter and the Chamber of Secrets (Europe)",
             "sha1": "f3f571fef9a47c0082f2387b8ae53c1311ebfb04"
-        },
-        {
-            "name": "Harry Potter and the Chamber of Secrets (Subset - Bonus) (30FPS)",
-            "sha1": "07622a5278acf16580c7ed05dd09b73beace6702"
-        },
-        {
-            "name": "Harry Potter and the Chamber of Secrets (Subset - Bonus) (60FPS)",
-            "sha1": "2e27210aad69f9b579a1f95305e7eefc1f16c799"
         },
         {
             "name": "Harry Potter and the Chamber of Secrets (USA)",
@@ -2161,10 +2069,6 @@
             "sha1": "58af543c7d93b01f46c0af6e45e23ef27270c994"
         },
         {
-            "name": "Kingdom Hearts - Final Mix (En) (v2.001) (Subset - Level 100 on Destiny Islands)",
-            "sha1": "ab7c9d8606d1bb99d8a710f91709423bd4e2257c"
-        },
-        {
             "name": "Kingdom Hearts - Final Mix (Japan) (En) (2025-05-09) (Crazycatz00)",
             "sha1": "824af20d37da31c71a4d8283d7f411797433517b"
         },
@@ -2177,15 +2081,11 @@
             "sha1": "0c4c634c363c87a33a1117937bf1bc83f8ab639f"
         },
         {
-            "name": "Kingdom Hearts - Final Mix (Subset - Proud Level 1)",
+            "name": "Kingdom Hearts - Final Mix (Specialty Subset - Proud Level 1)",
             "sha1": "0df1e335ada1c0aee949fbb25ad4abc81e763c86"
         },
         {
-            "name": "Kingdom Hearts - Re-Chain of Memories (Subset - Extreme Difficulty)",
-            "sha1": "2d19b25bbbde1b415a2b24305293ba1b68a3d3d6"
-        },
-        {
-            "name": "Kingdom Hearts - Re-Chain of Memories (Subset - Proud Level 1)",
+            "name": "Kingdom Hearts - Re-Chain of Memories (Specialty Subset - Proud Level 1)",
             "sha1": "909db22a6f8dbcec1c23ca8ea4ca85a76418f42a"
         },
         {
@@ -2505,10 +2405,6 @@
             "sha1": "3c0500e626e3458dc25c05b8170dc79cbe35c906"
         },
         {
-            "name": "Metal Gear Solid 2 - Substance (Subset - Missions + Skateboarding)",
-            "sha1": "29adfbcc53017682ff367c8157d9df56d6a22bd6"
-        },
-        {
             "name": "Metal Gear Solid 2 - Substance (USA)",
             "sha1": "af352b574646cb1f43636f1dfd0d427bc73af0cc"
         },
@@ -2539,10 +2435,6 @@
         {
             "name": "Metal Slug 4 (USA)",
             "sha1": "08ec61588e3b0885953680eebcab26075884362d"
-        },
-        {
-            "name": "Metal Slug 5 (Subset - 1002 Soldiers)",
-            "sha1": "9323bd802ee4988896ba63fc9b1b6948b38eb3df"
         },
         {
             "name": "Metal Slug 5 (USA)",
@@ -2577,12 +2469,12 @@
             "sha1": "24868e8200f39a2b135087e459312df27fcc0141"
         },
         {
-            "name": "Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Subset - Online Quests)",
-            "sha1": "10410193318dfe252db8ae83eaf24ca515c7dd60"
+            "name": "Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests)",
+            "sha1": "8ed982a84435913e9f94bb19384d069b784f9ec6"
         },
         {
-            "name": "Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Subset - Online Quests)",
-            "sha1": "8ed982a84435913e9f94bb19384d069b784f9ec6"
+            "name": "Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Exclusive Subset - Online Quests)",
+            "sha1": "10410193318dfe252db8ae83eaf24ca515c7dd60"
         },
         {
             "name": "Monster Hunter (USA)",
@@ -2829,10 +2721,6 @@
             "sha1": "21621e6b9aaa4996f2f629fe2ca25a61267eb4f7"
         },
         {
-            "name": "Nightmare of Druaga, The - Fushigino Dungeon (Subset - Alchemy)",
-            "sha1": "1a6aab99049e1f5c1305e31baff9c3e35019afd0"
-        },
-        {
             "name": "Nightmare of Druaga, The - Fushigino Dungeon (USA)",
             "sha1": "442115b33f6ef3113aad009d40a7946381cb98bb"
         },
@@ -2949,11 +2837,7 @@
             "sha1": "70f66810a3b32e1aeb6f567db6f5aa6b8a9e4911"
         },
         {
-            "name": "Pac-Man World 2 (USA) (v1.00) (Subset - Sue's Arcade)",
-            "sha1": "609777c793e9842edf7c01105e4ac64e2a62d071"
-        },
-        {
-            "name": "Pac-Man World 2 (USA) (v2.00) (Subset - Bonus)",
+            "name": "Pac-Man World 2 (USA) (v2.00) (Exclusive Subset - Bonus)",
             "sha1": "ce707e9389ee07c5797016f9d6761df3489ffe31"
         },
         {
@@ -3093,10 +2977,6 @@
             "sha1": "9c1b636a96e9bb887442d36dc577c16e60fb79bf"
         },
         {
-            "name": "Radiata Stories (Subset - Fireworks Festival Dates)",
-            "sha1": "68af2b15756c2cc97e1cdd1d558a53f8d90c3253"
-        },
-        {
             "name": "Radiata Stories (USA)",
             "sha1": "4e3417ae86f254be552e0e541f947744d1ebe6ca"
         },
@@ -3189,11 +3069,11 @@
             "sha1": "0fb78c2f8c6e68eef9561311e8c80b5f4e5aa0c4"
         },
         {
-            "name": "Resident Evil - Outbreak (En) (v2.1) (REfan988 & Silent Hell) (Subset - Online Multiplayer)",
+            "name": "Resident Evil - Outbreak (En) (v2.1) (REfan988 & Silent Hell) (Exclusive Subset - Online Multiplayer)",
             "sha1": "54ccaf488134fadd41a8ecf2620d54fa8b4ba81a"
         },
         {
-            "name": "Resident Evil - Outbreak (Japan) (Subset - Online Multiplayer)",
+            "name": "Resident Evil - Outbreak (Japan) (Exclusive Subset - Online Multiplayer)",
             "sha1": "f6b504dff93e134c00ec57cc6f91a5a16f22d50e"
         },
         {
@@ -3201,20 +3081,12 @@
             "sha1": "d81d5604be1fe830f74dc52fee361863ff8efb51"
         },
         {
-            "name": "Resident Evil - Outbreak (USA) (v2.00) (Subset - Very Hard Challenges)",
-            "sha1": "e4bc0dcdea0a55e2e32a2abc513dd183926c43c1"
-        },
-        {
-            "name": "Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 & Silent Hell) (Subset - Online Multiplayer)",
+            "name": "Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 & Silent Hell) (Exclusive Subset - Online Multiplayer)",
             "sha1": "e1948aad2a7b239c9ebe95f5326ec8948179eab7"
         },
         {
-            "name": "Resident Evil - Outbreak - File 2 (Japan) (Subset - Online Multiplayer)",
+            "name": "Resident Evil - Outbreak - File 2 (Japan) (Exclusive Subset - Online Multiplayer)",
             "sha1": "ded01741b840d4bead2d250bf1fa67c0215b9f77"
-        },
-        {
-            "name": "Resident Evil - Outbreak - File 2 (Subset - Very Hard Challenges)",
-            "sha1": "abfa73f8dd60c7ee71e2995eade0b7b680f1dd9d"
         },
         {
             "name": "Resident Evil - Outbreak - File 2 (USA)",
@@ -3271,10 +3143,6 @@
         {
             "name": "Rock Band (Europe, Australia) (En,Fr,De,Es,It)",
             "sha1": "4be9c653edeff2170a994d9ed0197941304c2ac5"
-        },
-        {
-            "name": "Rock Band (Subset - Expert Full Combos)",
-            "sha1": "8930ae5d4cc3a986abd0f9169cee3195cc761b1b"
         },
         {
             "name": "Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan) (Hack)",
@@ -3481,10 +3349,6 @@
             "sha1": "8c71d6cd15670420ab8fe2a1d61fb42c9b6d90c4"
         },
         {
-            "name": "Shadow the Hedgehog (Subset - 326 Endings)",
-            "sha1": "1127b964cf4b51aa2eb4ca72528d4223489083bf"
-        },
-        {
             "name": "Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)",
             "sha1": "169d6ad514db71e9dbcb7b63f1e9726a3a6afc79"
         },
@@ -3541,14 +3405,6 @@
             "sha1": "c3e7f64f5c6016cef23f94c5398029fde8cd4573"
         },
         {
-            "name": "Shin Megami Tensei - Persona 4 (Subset - Izanagi Only)",
-            "sha1": "8edd5dc409cc79ab9efdbdf19621857d7acd862d"
-        },
-        {
-            "name": "Shin Megami Tensei - Persona 4 (Subset - Yu Solo)",
-            "sha1": "000fa4c7b1174f4665342e78b266c250aae66c10"
-        },
-        {
             "name": "Shin Megami Tensei - Persona 4 (USA)",
             "sha1": "070695455013d99789f8d8fc7f046f742a9ddeda"
         },
@@ -3557,20 +3413,12 @@
             "sha1": "6728193b44dad4f7ed1b7aad65322f79f6dc9c2c"
         },
         {
-            "name": "Shin Megami Tensei - Persona 4 (USA) (Undub) (Subset - Izanagi Only)",
-            "sha1": "1a43b10a4a55b88ee062af9745784ded7254252c"
-        },
-        {
             "name": "Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Subset - Solo+Raidou)",
             "sha1": "3a6975ee3b34b3020d8df44d47047d88f55c79ef"
         },
         {
             "name": "Shinobi (USA)",
             "sha1": "34d93b6e553d8bccde4aa4bf20839ae50c97041c"
-        },
-        {
-            "name": "Shinobi (USA) (En,Ja) (Subset - Akujiki's Wrath)",
-            "sha1": "f373c38929ea8ae4ea04a66f358e3bab5357e0d7"
         },
         {
             "name": "Shinobido - Way of the Ninja (Europe) (En,Fr,De,Es,It)",
@@ -3929,10 +3777,6 @@
             "sha1": "bf295e24b56ec73143fb4e9232d1d0f010a10ede"
         },
         {
-            "name": "Street Fighter EX3 (Subset - Bonus)",
-            "sha1": "27d31c3b46bba794072078c3b9014c55e32195a5"
-        },
-        {
             "name": "Street Fighter EX3 (USA)",
             "sha1": "f95b61d087e944774e71f2b426998df3e4da9b34"
         },
@@ -4213,10 +4057,6 @@
             "sha1": "817d26b86cb92170dcccefe55b94c029887d43a8"
         },
         {
-            "name": "Tony Hawk's Pro Skater 3 (Subset - Alternate Modes)",
-            "sha1": "377b338ef1576655a34328577f3a6a09d1966a25"
-        },
-        {
             "name": "Tony Hawk's Pro Skater 3 (USA)",
             "sha1": "c025f39ed7ae928dbdbc06f2b5f965f6ab8cf087"
         },
@@ -4225,20 +4065,12 @@
             "sha1": "9c35f687f3156914d7b87c23b089bb0975d12075"
         },
         {
-            "name": "Tony Hawk's Pro Skater 4 (USA) (v2.01) (Subset - Zero Stats)",
+            "name": "Tony Hawk's Pro Skater 4 (USA) (v2.01) (Specialty Subset - Zero Stats)",
             "sha1": "3caa5a64104a5d6f09598343e76fbfcb2a38949b"
-        },
-        {
-            "name": "Tony Hawk's Project 8 (Subset - Single Run Classic Goals)",
-            "sha1": "9c3364f00c1466b87485b2be3b0bac0c0bc9e8e1"
         },
         {
             "name": "Tony Hawk's Project 8 (USA)",
             "sha1": "187248a8dc5d58da48ff2f970e560554091b7008"
-        },
-        {
-            "name": "Tony Hawk's Underground (Subset - RAdical Custom Goals & Gaps)",
-            "sha1": "4845d1420ce91d18110ae1aa369735d13ccdd20b"
         },
         {
             "name": "Tony Hawk's Underground (Subset - Zero Stats)",
@@ -4327,10 +4159,6 @@
         {
             "name": "Victorious Boxers 2 - Fighting Spirit (USA)",
             "sha1": "26f11b9c6665bd077667642339837ac4ddaec16f"
-        },
-        {
-            "name": "Viewtiful Joe (Subset - Rainbow V Ranks)",
-            "sha1": "b4de8c130646ca8b2f33700b8ec5146838791de4"
         },
         {
             "name": "Viewtiful Joe (USA)",
@@ -4477,11 +4305,11 @@
             "sha1": "28ca5a2beb6439b583fc48d54747ffdd79582e5e"
         },
         {
-            "name": "Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1)",
+            "name": "Xenosaga Episode III - Also sprach Zarathustra (Specialty Subset - No Level Up) (Disc 1)",
             "sha1": "4def0f5f88841b96f5eeaab7c29bec7918386ec8"
         },
         {
-            "name": "Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2)",
+            "name": "Xenosaga Episode III - Also sprach Zarathustra (Specialty Subset - No Level Up) (Disc 2)",
             "sha1": "172196a902603f47c48a0a76ab2a7355a0295a28"
         },
         {
@@ -4499,10 +4327,6 @@
         {
             "name": "Yakuza (Europe) (En,Fr,De,Es,It)",
             "sha1": "f80020dcadd0f3a9a89a5d36917d1cb97ab36d94"
-        },
-        {
-            "name": "Yakuza 2 (Subset - Dragon of Dojima)",
-            "sha1": "678fcc06238324f8ed892eb3a184a267e6b1aa3a"
         },
         {
             "name": "Yakuza 2 (USA)",

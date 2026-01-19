@@ -421,12 +421,6 @@
             "sha1": "1348bfeae9c4d82a577edc76b8fa81f8a8a8c2b2"
         },
         {
-            "name": "Boulder Dash EX (Subset - Classic Mode)",
-            "crc": "277b1adb",
-            "md5": "56f7536a139cd78c460119ad88955fd5",
-            "sha1": "83a18ab2d1e6d3d322956ca2eca46221dcc2c5db"
-        },
-        {
             "name": "Boulder Dash EX (USA)",
             "crc": "b355365a",
             "md5": "8653d5731f4effd21e435b9a274023a4",
@@ -1759,12 +1753,6 @@
             "sha1": "cca6eb41ea8edc8115994fad2a0b329af44bb659"
         },
         {
-            "name": "Final Fantasy I & II - Dawn of Souls (Subset - FF1 Solo Class)",
-            "crc": "baac365e",
-            "md5": "a6d4a70a0039d2fdfcef7f389b90e6fa",
-            "sha1": "b58b3efd7c1ec43312b9f68293e94412ecf2329d"
-        },
-        {
             "name": "Final Fantasy I & II - Dawn of Souls (USA)",
             "crc": "1b39cdab",
             "md5": "5d29999685413c4d2bec10d3160f6ee6",
@@ -1787,18 +1775,6 @@
             "crc": "ba5de047",
             "md5": "6ea5fc0e4b56a232ac3cbdab4b4a6bcd",
             "sha1": "9efaf328cbbcbc830be14940e42e4b92d90dfb58"
-        },
-        {
-            "name": "Final Fantasy V Advance (Subset - Four Job Fiesta)",
-            "crc": "11d090ef",
-            "md5": "6e55af37087298c4b68115381a2686a2",
-            "sha1": "cc97b19066444e269850954229375172ba6128bb"
-        },
-        {
-            "name": "Final Fantasy V Advance (Subset - Low Level Game)",
-            "crc": "4b6dc374",
-            "md5": "ed9178bb3b620b27521dd9ea947e2923",
-            "sha1": "a6e0306815678218ca3e182544ffa792b6089cbc"
         },
         {
             "name": "Final Fantasy V Advance (USA)",
@@ -2995,12 +2971,6 @@
             "sha1": "4bce80310b43882f57c7bb5b202e09ce23687473"
         },
         {
-            "name": "Legend of Zelda, The - A Link To The Past & Four Swords (Subset - Bonus)",
-            "crc": "fb1fe24a",
-            "md5": "52fb89bb89b83611912afd8e2f4c8d89",
-            "sha1": "52e6468447c7d8a82d90b6d3ee8aadfa2ae897d2"
-        },
-        {
             "name": "Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It)",
             "crc": "5a164321",
             "md5": "9edf4f6e19d901d470aa1117cb0372b3",
@@ -3409,28 +3379,10 @@
             "sha1": "3e4d6d897e3b30b7074912efab8f6a767289495d"
         },
         {
-            "name": "Mega Man Zero (Subset - Bonus)",
-            "crc": "e000e237",
-            "md5": "24a768b22948c1da155d02692c2f11c5",
-            "sha1": "01f9b6cd6657daf8b69976654df6ad9bd6ef54c2"
-        },
-        {
-            "name": "Mega Man Zero 2 (Subset - Bonus)",
-            "crc": "b0292b66",
-            "md5": "5056b22c06c4603eda874530e6ebbf11",
-            "sha1": "99e7fc030035320237652dd8eb6f26921a38f64b"
-        },
-        {
             "name": "Mega Man Zero 2 (USA) (Restoration) (SCD)",
             "crc": "b9a173f1",
             "md5": "5b5275c132cc69cabff9276611804256",
             "sha1": "8682b6f2f69c89b62bd1f2f2dbeba04a83631b42"
-        },
-        {
-            "name": "Mega Man Zero 4 (Subset - Bonus)",
-            "crc": "d14c22a7",
-            "md5": "b2ae4210be66d2d44a7dfceb43922140",
-            "sha1": "39948b9bba939ec8d9b86ddc80dcaff33052211b"
         },
         {
             "name": "Megaman & Bass (USA)",
@@ -3473,18 +3425,6 @@
             "crc": "c0c780f9",
             "md5": "6fe31df0144759b34ad666badaacc442",
             "sha1": "3d21905b6e860d39a00ba643779776de4c73c411"
-        },
-        {
-            "name": "Megaman - Battle Network 3 - White Version (Subset - Omega S-Ranks)",
-            "crc": "89495fb8",
-            "md5": "8af23a6ed5cdb68f63cd042fa80d1348",
-            "sha1": "cb37706ebf7ffc8ec6ddd3302633d7ad012420a4"
-        },
-        {
-            "name": "Megaman - Battle Network 3 - White Version (Subset - Powerless)",
-            "crc": "a47b885e",
-            "md5": "f3b067321f7c8ab61c7aef24a498afcf",
-            "sha1": "fc4c8f4537ca65014253e4aac24204c7bfd6dec1"
         },
         {
             "name": "Megaman - Battle Network 3 - White Version (USA)",
@@ -3611,12 +3551,6 @@
             "crc": "5061446a",
             "md5": "912fc18dff2d5e27fce96665cf563b89",
             "sha1": "d4165399273719dfde47a23f3034567657d1dbd7"
-        },
-        {
-            "name": "Megaman Zero 3 (Subset - Bonus)",
-            "crc": "d9c8d1d8",
-            "md5": "0c61660b2f37d9ea241db0e3dfb7de15",
-            "sha1": "0cff6ffb27f0b02cb6842cfd0666945e47e691fb"
         },
         {
             "name": "Megaman Zero 3 (USA)",
@@ -3793,7 +3727,7 @@
             "sha1": "cc46d54b70c1ee38c856ee6e58ec712136763389"
         },
         {
-            "name": "Metroid Fusion (Japan) (Subset - Japanese Content)",
+            "name": "Metroid Fusion (Japan) (Exclusive Subset - Japanese Content)",
             "crc": "817a7e9e",
             "md5": "e535a6ec2eb86d183453037289527a63",
             "sha1": "5d21c668baa84da4a5b745be56809bb277f947a3"
@@ -3971,12 +3905,6 @@
             "crc": "8a3bc5a8",
             "md5": "78852690de6ef51af56883c3823ea0e1",
             "sha1": "306fb8874533b0fd0796208faa8bed2db4ae77fb"
-        },
-        {
-            "name": "Mother 3 (Subset - Melody Master)",
-            "crc": "b6c2b0cc",
-            "md5": "f01db3072a398e16091c4a0cc7ed3411",
-            "sha1": "1b78b66553f59b894bd88754f3c3c301d25544e7"
         },
         {
             "name": "Mr. Driller 2 (Europe)",
@@ -4363,12 +4291,6 @@
             "sha1": "9b638028939260a8d93e5f2bd464c0e93b7e49d9"
         },
         {
-            "name": "Pokemon - Emerald Rogue V2 (Subset - Bonus)",
-            "crc": "e698e547",
-            "md5": "c544bd31b7b7f81622ed0c516d788f6d",
-            "sha1": "cc5df5a412de5c14bcc855b1fe14dfa7c166ce0b"
-        },
-        {
             "name": "Pokemon - Emerald Rogue V2 (v2.0) (Hack)",
             "crc": "4d54980f",
             "md5": "d433c84e2a0d267cd2e30bb15fdbfcce",
@@ -4393,13 +4315,13 @@
             "sha1": "b9f4d332d30fc88c379f9e037f9eae3b2755ead4"
         },
         {
-            "name": "Pokemon - Emerald Version (Subset - Mudkip vs. The World (ft. Castform))",
+            "name": "Pokemon - Emerald Version (Specialty Subset - Mudkip vs. The World (ft. Castform))",
             "crc": "640971a1",
             "md5": "f82d897b10ec0729d515637b0e009dd8",
             "sha1": "d08fdfc36cae03ce007b7c1c5b0945c20a3f9f5f"
         },
         {
-            "name": "Pokemon - Emerald Version (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Emerald Version (Specialty Subset - Professor Oak Challenge)",
             "crc": "3c3c927f",
             "md5": "31446456df04356cb9f2145bada42ed2",
             "sha1": "3eaf785d11c5766e2f34e6d82aded5d1cb2f1953"
@@ -4757,12 +4679,6 @@
             "crc": "b0c40c7c",
             "md5": "9d816b369343d39b94af9a8b0ce7f63b",
             "sha1": "7e6e034f9cdca6d2c4a270fdb50a94def5883d17"
-        },
-        {
-            "name": "Pokemon - Sapphire Version (Subset - Professor Oak Challenge)",
-            "crc": "091e4f4a",
-            "md5": "bec888af544cd36872e422c4cfb1dc74",
-            "sha1": "7f08f92315265049da0742db275681c2f3d9ba84"
         },
         {
             "name": "Pokemon - Sapphire Version (USA) (Moemon Gen 3) (v2.0)",
@@ -5521,12 +5437,6 @@
             "sha1": "cbe41fbe05e3212c301487a87f6a654c2814196e"
         },
         {
-            "name": "Shining Force - Resurrection of the Dark Dragon (Subset - NG+)",
-            "crc": "3549b812",
-            "md5": "d3248986bdd108067cf61014f994f820",
-            "sha1": "eb2303c1cd8fbfd597bc467d85aa83da8a12dc09"
-        },
-        {
             "name": "Shining Soul (Europe) (En,Fr,De,Es,It)",
             "crc": "74b5d069",
             "md5": "5931b0b58d9da9b9aa1f82d28643e2f2",
@@ -6151,12 +6061,6 @@
             "sha1": "7352d2bd064d9ebaec579e264228aa21c7345b80"
         },
         {
-            "name": "Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e)",
-            "crc": "d4c13ac3",
-            "md5": "e7a2792c5913a8420a419f2d01358487",
-            "sha1": "dd2879329ec52bd5372f26b75297a67f1a81215a"
-        },
-        {
             "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Switches - RetroAchievements Edition)",
             "crc": "ce860480",
             "md5": "d904485be937fb3e30e4da5019e34a71",
@@ -6251,12 +6155,6 @@
             "crc": "6f019a88",
             "md5": "b01251955731bf7509cb09af8f49ad1d",
             "sha1": "f6d523a073c21639e15d615947167bba3871c67a"
-        },
-        {
-            "name": "Sword of Mana (Subset - Black Enemy Variants)",
-            "crc": "13b87e19",
-            "md5": "a5e8c0c8d4ecf07babf784e6afae382d",
-            "sha1": "433f173cdafa5fc846039bf01fc781014ca0f76c"
         },
         {
             "name": "Sword of Mana (USA, Australia)",
