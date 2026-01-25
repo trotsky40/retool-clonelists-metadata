@@ -373,12 +373,6 @@
             "sha1": "d87cc49fe4670806bcd8c4f8286675f5fba30f12"
         },
         {
-            "name": "Akumajou Special - Boku Dracula-kun (Subset - Bonus)",
-            "crc": "d3e1d003",
-            "md5": "a78c5bb4ef2fc3b72d06115cc421f4f4",
-            "sha1": "2dde0b968409400022c937c36092a5a93804d0a1"
-        },
-        {
             "name": "Aladdin (Asia) (En) (A-N7) (Unl)",
             "crc": "f575c539",
             "md5": "e3213dcb745f45ef0e28e9460c7caaad",
@@ -863,24 +857,6 @@
             "crc": "1f71c34e",
             "md5": "55acde7321b2a8c87ff591124ea52fd3",
             "sha1": "f9d57e5d8393971e788fdc38090946a9b2a87f4c"
-        },
-        {
-            "name": "Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack)",
-            "crc": "16274fbb",
-            "md5": "153f25bf6dd8c6107b0cca5615e3a3a8",
-            "sha1": "e54aaba234347ce926efa956622f9519c0b7ea14"
-        },
-        {
-            "name": "Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack)",
-            "crc": "2296829e",
-            "md5": "53561c417317761eb6770f430c57b3a0",
-            "sha1": "bfac3aee55d9af3147239ff6ebb80d569b1d8a5c"
-        },
-        {
-            "name": "Battle of Olympus, The (Subset - Bonus)",
-            "crc": "e7958a33",
-            "md5": "286b1f1e7f43d22c1dca8526a9a43c20",
-            "sha1": "941543a427163a77e26da9c597e90199b14602c8"
         },
         {
             "name": "Battle of Olympus, The (USA)",
@@ -1483,12 +1459,6 @@
             "sha1": "98fab5593abbe7c8e17269a3ee4f1dc39f2eb31f"
         },
         {
-            "name": "Castlevania II - Simon's Quest (Subset - Bonus)",
-            "crc": "21890cfc",
-            "md5": "902d2f454700ea682d1904596fd9bb8d",
-            "sha1": "c370523b884603b5602207aea7d430e7f812e940"
-        },
-        {
             "name": "Castlevania II - Simon's Quest (Subset - Full Game Damageless)",
             "crc": "6fd9458c",
             "md5": "dc874b35aeccef000901448a4c7494b2",
@@ -2023,12 +1993,6 @@
             "sha1": "3cfe935a21e0d2ced24c4d5bf6c517c7c36e0c39"
         },
         {
-            "name": "Darkwing Duck (Subset - Bonus)",
-            "crc": "1904b02f",
-            "md5": "f76917080d535692882bf9c3b936e8e2",
-            "sha1": "ae8efb89e69d56f8bfbd8046a7445b3a0b286651"
-        },
-        {
             "name": "Darkwing Duck (USA)",
             "crc": "a157e56c",
             "md5": "da86da29043284e236b5ece1c293c5ee",
@@ -2303,12 +2267,6 @@
             "crc": "94bf4495",
             "md5": "8eae33e63259ce4922d032a19b70e463",
             "sha1": "90b2ce459ef45cc80e852a09da8b61be7e0084f5"
-        },
-        {
-            "name": "Doki! Doki! Yuuenchi - Crazyland Daisakusen (Subset - Bonus)",
-            "crc": "ddf028eb",
-            "md5": "f76689ef855fa685707def38fb8d9d19",
-            "sha1": "547408bf45c50fc355df4e0b66d2341cee058704"
         },
         {
             "name": "Don Doko Don 2 (En) (v1.0) (MrRichard999)",
@@ -3271,19 +3229,7 @@
             "sha1": "c8a2ee105571d0dcc3099f9a96db93f41b31bf5a"
         },
         {
-            "name": "Final Fantasy (Subset - 126 Combination Challenge)",
-            "crc": "78be7871",
-            "md5": "13c49921f8a34e2a5d87d23fc30ee07e",
-            "sha1": "9d26c2a697fd59eadcd90aa24753a60cec1aec2f"
-        },
-        {
-            "name": "Final Fantasy (Subset - Low Level Game)",
-            "crc": "f7aabbc5",
-            "md5": "2e6c5dde72dc7f84a2d684a6555c4c85",
-            "sha1": "339c50e91253f3f484a907e1b98eef80a31b5ad9"
-        },
-        {
-            "name": "Final Fantasy (Subset - Solo Class)",
+            "name": "Final Fantasy (Exclusive Subset - Solo Class)",
             "crc": "bcc570a3",
             "md5": "a0576faf1edc9deba0df869690b2d5fb",
             "sha1": "2d3916c65c19df92a97b87d409a0e876b8e14c01"
@@ -5521,12 +5467,6 @@
             "sha1": "9933ecd3c0a8185d19c43d4c576535dc19575944"
         },
         {
-            "name": "Kyatto Ninden Teyandee (Subset - Bonus)",
-            "crc": "ee056063",
-            "md5": "d7524d6d4ff26356b6eb6cd9f340e5ff",
-            "sha1": "499fa30f3882ddace7c2b52757627e8a792feee7"
-        },
-        {
             "name": "Kyouryuu Sentai Juuranger (Japan) (En) (DankTrans) (v0.99)",
             "crc": "7a272f4c",
             "md5": "f54bb4a830d220ee1cb5bdfd71b52bf6",
@@ -5651,12 +5591,6 @@
             "crc": "1a149167",
             "md5": "cc518693f458be0cb4e66bce8d2d8ac5",
             "sha1": "318788bbd2b6aceaa2b09a8281a89021a88ecaad"
-        },
-        {
-            "name": "Legend of Zelda, The (Subset - Low%)",
-            "crc": "ab4c4617",
-            "md5": "eae3dfdedc50d7cbafac8f40dd26e7f7",
-            "sha1": "20d22befc4041cb33661c5c3c60524492e8289b2"
         },
         {
             "name": "Legend of Zelda, The (USA)",
@@ -6787,12 +6721,6 @@
             "sha1": "061d59d52e816600db1bceec0321a3a9ab9f0cfa"
         },
         {
-            "name": "Mega Man (Subset - Bonus)",
-            "crc": "7a14ad11",
-            "md5": "fce9a048be159f7f76f870bb5af4d9eb",
-            "sha1": "070a3fdeaff66392483a96fb30195b3fdaa75081"
-        },
-        {
             "name": "Mega Man (USA)",
             "crc": "ca2ab7e2",
             "md5": "8cfaa33b1ec522ce89ab82af2dd17da7",
@@ -6823,22 +6751,10 @@
             "sha1": "89bef00ad1c7beb94c072be644d715a233cb3a30"
         },
         {
-            "name": "Mega Man 3 Revamped (v1.1) (Alt) (Subset - Bonus) (Hack)",
-            "crc": "384dc00c",
-            "md5": "59bd4cb68efd7e7496033e6b5dc55537",
-            "sha1": "fd68f8c6ad239b3b4ee0171bad825128c0f56aac"
-        },
-        {
             "name": "Mega Man 3 Revamped (v1.1) (Classic Energy Meter) (TheSkipper1995) (Hack)",
             "crc": "a0858e49",
             "md5": "a692592e9949d716e8d4d66467aa8458",
             "sha1": "2215a25f9b27f4c312a374f3203291c908c8f33c"
-        },
-        {
-            "name": "Mega Man 3 Revamped (v1.1) (Subset - Bonus) (Hack)",
-            "crc": "5ab183ac",
-            "md5": "8b7b8e5646225a369665d3db4f792820",
-            "sha1": "1c8c90e52a7375f57a6957090c456e1e3cab19fa"
         },
         {
             "name": "Mega Man 3 Revamped (v1.1) (TheSkipper1995) (Hack)",
@@ -7061,12 +6977,6 @@
             "crc": "a4ac9b5e",
             "md5": "170e467bb3e49422bfd136edb1b50b0e",
             "sha1": "7ca6a75cedc1e74b9d307b09669e29289d7291a2"
-        },
-        {
-            "name": "Metroid (Subset - Bonus)",
-            "crc": "c262e8b0",
-            "md5": "54e530848e0d3e0641c780f2c2a2e0db",
-            "sha1": "943bc77499f2dc0f8dc3465c7c748e628b5cf622"
         },
         {
             "name": "Metroid (USA)",
@@ -10249,12 +10159,6 @@
             "sha1": "383ad8e3890a95de9595f0a6087648f51177da13"
         },
         {
-            "name": "Super Mario Bros. (Subset - Bonus)",
-            "crc": "39122303",
-            "md5": "ba1dc899f6c5237438a9aeb6b88fc97f",
-            "sha1": "6c9a7f7cba856c1c1ecc1a05f81b7b50a1eda67e"
-        },
-        {
             "name": "Super Mario Bros. (World)",
             "crc": "393a432f",
             "md5": "f94bb9bb55f325d9af8a0fff80b9376d",
@@ -10715,12 +10619,6 @@
             "crc": "c99b0fca",
             "md5": "041cdfcddc52de80da480b0a71065d19",
             "sha1": "ad03f42ea1cb0673f2cb1c23d6b579ad392647f0"
-        },
-        {
-            "name": "Tetris (Nintendo) (Subset - Master)",
-            "crc": "337ee448",
-            "md5": "91f573dbb29278523e776957288bfd55",
-            "sha1": "87ba54804ee8ff2545a97344056f4df1ccc9409f"
         },
         {
             "name": "Tetris (USA)",
@@ -11425,13 +11323,7 @@
             "sha1": "dc7d577131bb3148a672344bc95bb8a7b66d64d0"
         },
         {
-            "name": "Wizardry - Proving Grounds of the Mad Overlord (Subset - Item Drops)",
-            "crc": "b26aba89",
-            "md5": "8a005fad7251d9581c5ba4dd7a9ae8db",
-            "sha1": "f70e3c3ffe53162b2b8f8514a2c29372a0cd65de"
-        },
-        {
-            "name": "Wizardry - Proving Grounds of the Mad Overlord (Subset - Solo Class)",
+            "name": "Wizardry - Proving Grounds of the Mad Overlord (Specialty Subset - Solo Class)",
             "crc": "6dcad88d",
             "md5": "9dcdefae8aff800c152e2692c5896472",
             "sha1": "f50a41c8aecbb9b51e3217cc2d1a647b9c787211"
@@ -11669,12 +11561,6 @@
             "crc": "df92c173",
             "md5": "6184d97f0c6fe443d3acc9e4e056d00e",
             "sha1": "460a0d42dbf1ed1433eb63f06f7b78b9580ade17"
-        },
-        {
-            "name": "Yume Penguin Monogatari (Subset - Bonus)",
-            "crc": "a3356a90",
-            "md5": "567cafedc9c0a3ffa0c640253933cb43",
-            "sha1": "af755bc217cef0046541bedc8628098e0bf0d33d"
         },
         {
             "name": "Yun (World) (v5) (Aftermarket)",

@@ -1747,12 +1747,6 @@
             "sha1": "62a5beea93d48445a0f16f5582fc4fc61ba9fc1b"
         },
         {
-            "name": "Little Mermaid, The (Subset - Bonus)",
-            "crc": "5a063787",
-            "md5": "7a3757ce00ed456890f953a8accb3e2a",
-            "sha1": "13b69ada058e5ef8cdff60ae92777f14f6acc17d"
-        },
-        {
             "name": "Little Mermaid, The (USA)",
             "crc": "d7c517e5",
             "md5": "a4dee5de1b4c3d9083f307d910fa0c3f",
@@ -2677,19 +2671,13 @@
             "sha1": "12a2c76ec96cc94a4c7eead6536eddd5f3f9998f"
         },
         {
-            "name": "Pocket Monsters - Ao (Subset - Speedrun)",
-            "crc": "9341bd82",
-            "md5": "6c01085701b6fa219792acb64fc18a6d",
-            "sha1": "460634aec55a55d8c3088b0618d21fb2ad5189f6"
-        },
-        {
             "name": "Pocket Monsters - Midori (Japan) (SGB Enhanced)",
             "crc": "baeacd2b",
             "md5": "e30ffbab1f239f09b226477d84db1368",
             "sha1": "82c0eef40a5e2423699d9fd8ba15dfaa8b51d196"
         },
         {
-            "name": "Pocket Monsters Ao (Subset - Professor Oak Challenge)",
+            "name": "Pocket Monsters Ao (Exclusive Subset - Professor Oak Challenge)",
             "crc": "b8fec709",
             "md5": "fa37cdb33108b88ade1a3d4a53a039e8",
             "sha1": "11d60e08b6aadf56e7ac4ef0d72f33e085f127f7"
@@ -2741,18 +2729,6 @@
             "crc": "ff2492d2",
             "md5": "ef5d2d297c1262dc353ac766a2a67f27",
             "sha1": "b1ccc135a4eb24536288048cc87cf4113a10ea62"
-        },
-        {
-            "name": "Pokemon - Blue Version (Subset - Bonus)",
-            "crc": "1e5e8a21",
-            "md5": "b309021c135c9967bfb2f16911061699",
-            "sha1": "a2604af5ba346aca96f4ac52d6f292b48d911b1a"
-        },
-        {
-            "name": "Pokemon - Blue Version (Subset - Bonus) (Fast Red)",
-            "crc": "b1b52369",
-            "md5": "6e36ce35a35942e17bf9a2544481d8ce",
-            "sha1": "8f9f3868670b0721b872e8a95f2876dc2cf0928a"
         },
         {
             "name": "Pokemon - Blue Version (USA, Europe) (Fast Red)",
@@ -2851,16 +2827,10 @@
             "sha1": "e758448695d16675baac59a33bf616e022899661"
         },
         {
-            "name": "Pokemon - Red Version (Subset - Bonus)",
-            "crc": "6d20fe91",
-            "md5": "25da61b495309bfb4d45ab54918d6135",
-            "sha1": "4c533292bfb3b603a86c2f4f5238263bb89ed6e3"
-        },
-        {
-            "name": "Pokemon - Red Version (Subset - Bonus) (Fast Red)",
-            "crc": "bc6c208b",
-            "md5": "b7711b4c6d3d77567951f4689675918b",
-            "sha1": "7b1b3094990105a110ce7b880d9a460100bab9f4"
+            "name": "Pokemon - Red Version (Specialty Subset - Professor Oak Challenge)",
+            "crc": "346814a7",
+            "md5": "72ff69e125ac889dafe8043a7111f92e",
+            "sha1": "51c940df109474fcd01344b954ddc23da26329b9"
         },
         {
             "name": "Pokemon - Red Version (USA, Europe) (Fast Red)",
@@ -2963,18 +2933,6 @@
             "crc": "7d527d62",
             "md5": "d9290db87b1f0a23b89f99ee4469e34b",
             "sha1": "cc7d03262ebfaf2f06772c1a480c7d9d5f4a38e1"
-        },
-        {
-            "name": "Pokemon Blue Version (Subset - Professor Oak Challenge)",
-            "crc": "c5cf6e82",
-            "md5": "4af8f86a951858ead007e4c6f0202f56",
-            "sha1": "6fbdd2d94226333f0e53e43d5be92bea40f8326b"
-        },
-        {
-            "name": "Pokemon Red Version (Subset - Professor Oak Challenge)",
-            "crc": "346814a7",
-            "md5": "72ff69e125ac889dafe8043a7111f92e",
-            "sha1": "51c940df109474fcd01344b954ddc23da26329b9"
         },
         {
             "name": "Pokemon Yellow Version - Special Pikachu Edition (Subset - Shiny Pokemon)",
@@ -3193,13 +3151,13 @@
             "sha1": "659921b620887eb4ad303a40aed362028c65e04e"
         },
         {
-            "name": "SaGa 2 - A Haniwas Contingency (Subset - Insane Mode)",
+            "name": "SaGa 2 - A Haniwas Contingency (Specialty Subset - Insane Mode)",
             "crc": "c8274f94",
             "md5": "470ba1b4ac04fc2e52f874230c024911",
             "sha1": "4becd745e8a0cb1783cc54e26e1978ccd151d552"
         },
         {
-            "name": "SaGa 2 - A Haniwas Contingency (Subset - Monotype Party)",
+            "name": "SaGa 2 - A Haniwas Contingency (Specialty Subset - Monotype Party)",
             "crc": "643f3e9d",
             "md5": "a823a2677138ddef0e13eea955a393ce",
             "sha1": "baa21c68e8d7397dac4b3ec25cd087191f700547"
@@ -4121,24 +4079,6 @@
             "crc": "90cb60c1",
             "md5": "2e8d69bd73c3deee6c076c0a2da25617",
             "sha1": "a4db4509382d8a65e8ba4b799add6f98dbd9bc01"
-        },
-        {
-            "name": "Yakuman (Subset - Yakumaster) (En) (Marvo) (v1.2)",
-            "crc": "68e5a8e6",
-            "md5": "99faa610157c2771a0ce43dbc6e134d6",
-            "sha1": "278734cb857814e8e48245690b497962c1ea2e73"
-        },
-        {
-            "name": "Yakuman (Subset - Yakumaster) (Japan)",
-            "crc": "4bbe9095",
-            "md5": "9bed09b0e79f10907d014671a64ca6b9",
-            "sha1": "d413f138009f92332609e89e56eec15c2c5ab5cc"
-        },
-        {
-            "name": "Yakuman (Subset - Yakumaster) (Japan) (Rev 1)",
-            "crc": "e0af0933",
-            "md5": "fca62b15796f06348621aca99d08c6a7",
-            "sha1": "9b3d0aa81f4add1ba325413bc1f81bb62061f510"
         },
         {
             "name": "Yakuza GB (World) (Aftermarket)",

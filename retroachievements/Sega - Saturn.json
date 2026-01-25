@@ -29,14 +29,6 @@
             "sha1": "9acb4aa73af2b9bc9bd39931a95db86739f51edb"
         },
         {
-            "name": "Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Bonus)",
-            "sha1": "45dbc8a0bb114cc0e752c58146d4812d4ebba09d"
-        },
-        {
-            "name": "Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Multi)",
-            "sha1": "704bc4b109d67f03b633864b7c83a5f431b20026"
-        },
-        {
             "name": "Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan)",
             "sha1": "f8230a92af8b328dcb9070fe99cba64496f54f90"
         },
@@ -125,10 +117,6 @@
             "sha1": "7265e47d2ec62d5e8d8a6fdd2eaee8ff3107d679"
         },
         {
-            "name": "Cotton 2 - Magical Night Dreams (Subset - Multi)",
-            "sha1": "648c2f23152285f2ba8b5da0000c28ffb1fb84bf"
-        },
-        {
             "name": "Croc - Legend of the Gobbos (Europe)",
             "sha1": "01d9e75441892ede74d74bf0bed8b0cc1efb854c"
         },
@@ -157,10 +145,6 @@
         {
             "name": "Dark Savior (USA)",
             "sha1": "4c331f8360bd23a4117f14ace761aeac51c00f2c"
-        },
-        {
-            "name": "Daytona USA (Subset - Maniac Mode)",
-            "sha1": "000b1ee9c1adb9483b507d1de28129e238d8d037"
         },
         {
             "name": "Daytona USA (USA)",
@@ -261,12 +245,6 @@
             "sha1": "b7a260bcb36e99f146b0bb069d8920230091a994"
         },
         {
-            "name": "Dungeons & Dragons Collection (Subset - Multi)",
-            "crc": "a1090386",
-            "md5": "965f4c79df02e844ae507b852f5322a6",
-            "sha1": "0eb8cecd5637d151c43580938f77526398ec16c5"
-        },
-        {
             "name": "Earthworm Jim 2 (Japan) (2M)",
             "sha1": "54201f9169fecf32d6dd289f342251571e159196"
         },
@@ -347,10 +325,6 @@
             "sha1": "ebcc4e5955fcb86e0bf5bfaab3b0cc55d023f2c2"
         },
         {
-            "name": "In the Hunt (Subset - Multi)",
-            "sha1": "7758638af56b1ab7a67651e15bf441fc0db3eb9b"
-        },
-        {
             "name": "In the Hunt (USA)",
             "sha1": "1505c7e2a787c7bb8b938ad22dbc745eef0d8fbd"
         },
@@ -393,10 +367,6 @@
         {
             "name": "Lode Runner - The Legend Returns (Japan)",
             "sha1": "c7a051df6a72b928f326b5d2ce43e642d84c2ac7"
-        },
-        {
-            "name": "Lode Runner - The Legend Returns (Subset - Multi)",
-            "sha1": "01d738294a05041720b5796fdf5483f768b77596"
         },
         {
             "name": "Lunacy (USA)",
@@ -729,10 +699,6 @@
         {
             "name": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan)",
             "sha1": "ee36727e0523a45635ba181deb707d98d7e23d53"
-        },
-        {
-            "name": "Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi)",
-            "sha1": "102c9e923fd398fb5595f6133051bdfd4a706923"
         },
         {
             "name": "Three Dirty Dwarves (USA) (RE)",

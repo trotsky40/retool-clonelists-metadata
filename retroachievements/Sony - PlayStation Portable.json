@@ -231,10 +231,6 @@
             "sha1": "73d45a3589bbb0730d789b29ede4fe03f7a2aabc"
         },
         {
-            "name": "Crisis Core - Final Fantasy VII (Subset - Cursed Lv. 6)",
-            "sha1": "37a198a152a448d154e18ec780b4dbc8e809362b"
-        },
-        {
             "name": "Crisis Core - Final Fantasy VII (USA)",
             "sha1": "97cd1c88170638773e6cc70dc95946af7808664e"
         },
@@ -479,10 +475,6 @@
             "sha1": "410af269459a56932ad9440ea6a2e5d4a7a1dc3a"
         },
         {
-            "name": "Final Fantasy - 20th Anniversary Edition (Subset - Solo Class) (Europe) (En,Ja)",
-            "sha1": "9aa46b48c25888e66878b707c8bb7e143a99fe98"
-        },
-        {
             "name": "Final Fantasy - 20th Anniversary Edition (USA) (En,Ja) (FW6.00)",
             "sha1": "b807989238f2524a6689875952e3eae64c4d650c"
         },
@@ -493,10 +485,6 @@
         {
             "name": "Final Fantasy II - 20th Anniversary Edition (USA, Canada) (En,Ja)",
             "sha1": "d5dbec827500ff6108eb1220acc311ba37fe52ac"
-        },
-        {
-            "name": "Final Fantasy III (Subset - Max Jobs)",
-            "sha1": "f3912024b3ae13ecd0e961a272587e01019c3c96"
         },
         {
             "name": "Final Fantasy III (USA) (En,Fr,Es) (PSN)",
@@ -637,10 +625,6 @@
             "sha1": "c201da1fb24c81c414661bfe1b6e62bff6225f24"
         },
         {
-            "name": "Hatsune Miku - Project DIVA (Subset - Full Combo Songs) (60FPS, DPad Patch)",
-            "sha1": "26900627647983894fa041b145280bbafd96aaf5"
-        },
-        {
             "name": "Hatsune Miku - Project Diva (Japan) (En) (v1.01) (DIVA Fan Project) (60FPS)",
             "sha1": "21ef8fa480800ac080edd336a7a8b5891f9b2b3f"
         },
@@ -651,10 +635,6 @@
         {
             "name": "Hatsune Miku - Project Diva (Japan, Asia) (60FPS)",
             "sha1": "cc3ec38f65b856f9bcf21d7d86d0e930899e1005"
-        },
-        {
-            "name": "Hatsune Miku - Project Diva (Subset - Full Combo Songs)",
-            "sha1": "142f8680ce4f73a0e2f9a7a2fb826602348c25ba"
         },
         {
             "name": "Hatsune Miku - Project Diva 2nd (Japan) (60FPS)",
@@ -679,14 +659,6 @@
         {
             "name": "Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)",
             "sha1": "456d9a8d3908ef3450d8436430465ed8125f714e"
-        },
-        {
-            "name": "Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs)",
-            "sha1": "b05924e2e158e4bc1720898657269eac1bf4fc93"
-        },
-        {
-            "name": "Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs) (60FPS)",
-            "sha1": "1d3a49f7389d4266e5746486b36781b960c83223"
         },
         {
             "name": "Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2)",
@@ -715,14 +687,6 @@
         {
             "name": "Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn) (60FPS)",
             "sha1": "042f311a87506950fa15fd3a588610fbdd895fcc"
-        },
-        {
-            "name": "Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs)",
-            "sha1": "5141d828b58d5a040125ad880d592dd1ad24703d"
-        },
-        {
-            "name": "Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs) (60FPS)",
-            "sha1": "f0bab652dd449d33d8edb1426944498a315bfadf"
         },
         {
             "name": "Haunted Zone, The (Japan) (En) (v1.0) (Mugi)",
@@ -985,28 +949,12 @@
             "sha1": "77de6af4c4c9ee1f20d86fd1c636647b6983aab1"
         },
         {
-            "name": "Mega Man - Powered Up (Subset - 468 Stages)",
-            "sha1": "9581f8d91fb7a03921c9dd75a318024a48a0a9b7"
-        },
-        {
-            "name": "Mega Man - Powered Up (Subset - Bonus)",
-            "sha1": "7e2fdb845d7fe39b6dc8800b33a8277d3f0b904d"
-        },
-        {
             "name": "Mega Man - Powered Up (USA)",
             "sha1": "0be9efb1a1a338c195e3a71763729b7934887226"
         },
         {
             "name": "Megpoid the Music Sharp (Japan) (v1.04)",
             "sha1": "3688f7ace7890468a8c733fcfc016ca28ac98313"
-        },
-        {
-            "name": "Megpoid the Music Sharp (Subset - Full Combo Songs)",
-            "sha1": "17bfcbcfd04b59e06a1d1eac3e7eef809b862bd4"
-        },
-        {
-            "name": "Metal Gear Ac!d (Europe) (En,Fr,De,Es,It) (v1.01) (Subset - NG Extreme)",
-            "sha1": "57d7a447df21dbcdb601183243189a40eb64a5c0"
         },
         {
             "name": "Metal Gear Acid (Europe) (En,Fr,De,Es,It)",
@@ -1487,10 +1435,6 @@
         {
             "name": "Tekken 6 (Europe) (En,Ja,Fr,De,Es,It,Ko,Ru)",
             "sha1": "49c5ceb7de29696b2df0f682e504b2b9aced0639"
-        },
-        {
-            "name": "Tekken 6 (Subset - Tekken God)",
-            "sha1": "9422fceac6fa2e05e408cc22a9c779cb35225254"
         },
         {
             "name": "Telegraph Sudoku & Kakuro (USA) (minis) (PSN)",

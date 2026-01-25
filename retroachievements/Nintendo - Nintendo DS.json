@@ -139,12 +139,6 @@
             "sha1": "cc6a531acf0e325e242827673241ae2d6333391e"
         },
         {
-            "name": "All Kamen Rider - Rider Generation (Subset - Max Level)",
-            "crc": "a3f9037e",
-            "md5": "d31359a10388059d58998d626fea2041",
-            "sha1": "f4d51f5a057f2451fed8b535823a20111304b7f5"
-        },
-        {
             "name": "Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket)",
             "crc": "9fbfa267",
             "md5": "eed03ce2c75ac65a720fa7c4150118fe",
@@ -173,12 +167,6 @@
             "crc": "5f7aaf47",
             "md5": "fc81cfa5581d8148f641ade208ab8d04",
             "sha1": "ce66d66b68be90c385a80613fa4097cf5cdceb66"
-        },
-        {
-            "name": "Animal Crossing - Wild World (Subset - Villager Pictures)",
-            "crc": "f1d0853e",
-            "md5": "0ceb1b430332fab2f50e0592a03bfae4",
-            "sha1": "9f85cdf2ce8c62e09dfebef204dd814883ba1f83"
         },
         {
             "name": "Another Code - Two Memories (Europe) (En,Fr,De,Es,It)",
@@ -673,12 +661,6 @@
             "sha1": "a6c69d789a6f2e31b27fba950423bea3c2f30a37"
         },
         {
-            "name": "Chrono Trigger (Subset - No Level Up)",
-            "crc": "567ad3bb",
-            "md5": "74ac2614427efbc82baab49220b0e42b",
-            "sha1": "c1de31be9124c88c482f83a64881ebfff0cb9c41"
-        },
-        {
             "name": "Chrono Trigger (USA) (En,Fr)",
             "crc": "b3836946",
             "md5": "cb379392a800e236f80b55c84f123e99",
@@ -725,12 +707,6 @@
             "crc": "6c1b1ede",
             "md5": "170f7650a7218904110203b999c6f632",
             "sha1": "aa279385e66405ec33926fb1ef571eff3f66f45b"
-        },
-        {
-            "name": "Contra 4 (Subset - Classic Contra)",
-            "crc": "b4f7e151",
-            "md5": "d4c325e6fc9810bbd749941e621be5d4",
-            "sha1": "3e5fed92410bc8969f7078e68eff6bbdd5418d97"
         },
         {
             "name": "Contra 4 (USA)",
@@ -1051,12 +1027,6 @@
             "sha1": "a59119f8d3d91ab440ef6f2ba249934575f3ffa9"
         },
         {
-            "name": "Dragon Quest IV - Chapters of the Chosen (Subset - Plentiful Plunder)",
-            "crc": "788ffeca",
-            "md5": "df04f62f199981185087ffd80b12a67f",
-            "sha1": "fe43bcd55d81c1f42b41023ebac13379a2680e80"
-        },
-        {
             "name": "Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es)",
             "crc": "c433db29",
             "md5": "a850803f31d480290902f51e70c11922",
@@ -1075,46 +1045,10 @@
             "sha1": "a9842d8d21df070e620779f461ed7cee4ca88b52"
         },
         {
-            "name": "Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker)",
-            "crc": "fdc2c18d",
-            "md5": "060b3980c28262d0b5e334aeb6cadb66",
-            "sha1": "b386cb20703c1134ac411c02370911fb8956fc96"
-        },
-        {
-            "name": "Dragon Quest IV - The Chapters of the Chosen (USA) (Party Chat) (Subset - Title Tracker)",
-            "crc": "369687f1",
-            "md5": "129d6975541618cc14676c31bef5141e",
-            "sha1": "a85a7a4d128ad036cd3959186766000494c7a498"
-        },
-        {
-            "name": "Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)",
-            "crc": "95aa617d",
-            "md5": "a9ac48f43cdaa9838000131a9d93854b",
-            "sha1": "779a319baae92be57ff03b3e7340484dcb8fbcb5"
-        },
-        {
             "name": "Dragon Quest IX - Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It)",
             "crc": "fe8ec0e8",
             "md5": "3a63438fff7db282fa3133e8fd020e85",
             "sha1": "ff761d349709f329c8ac4bd0023fdce21861e8a1"
-        },
-        {
-            "name": "Dragon Quest IX - Sentinels of the Starry Skies (Subset - Accolade Acquirer)",
-            "crc": "f35b973e",
-            "md5": "4aa5506ebee9e8eb3ab9a6834b9dfde1",
-            "sha1": "3c7d059cb973f67101c970856e3b2a1468b72933"
-        },
-        {
-            "name": "Dragon Quest IX - Sentinels of the Starry Skies (Subset - Item Inquisitor)",
-            "crc": "023f1be9",
-            "md5": "7963bd2526dc956acf46d8c5250422f6",
-            "sha1": "563c24fc9c49e811f9aa923cdf9e4719904b1df6"
-        },
-        {
-            "name": "Dragon Quest IX - Sentinels of the Starry Skies (Subset - Level 99 Legacy Lunacy)",
-            "crc": "6408cb2c",
-            "md5": "3756835c98ebde3350fed9dedf0b6b0c",
-            "sha1": "7081af89fae4801b34aefcdea0dd029772311582"
         },
         {
             "name": "Dragon Quest Monsters - Joker (Europe) (En,Fr,De,Es,It)",
@@ -1133,24 +1067,6 @@
             "crc": "214c3931",
             "md5": "87215d7ddf71304f80afbbfd7b8a8455",
             "sha1": "2b9c82283776026d931075de8b87994cd0ee948e"
-        },
-        {
-            "name": "Dragon Quest V - The Hand of the Heavenly Bride (Subset - Goodies Globetrotter)",
-            "crc": "54239728",
-            "md5": "01df7039bd68fd58edf5965fab3e94d1",
-            "sha1": "30bf09ba444f060336f713487c94a30ae3055368"
-        },
-        {
-            "name": "Dragon Quest V - The Hand of the Heavenly Bride (Subset - Treasures n' Trapdoors)",
-            "crc": "5df14f69",
-            "md5": "64b5752457c0d98ce6229ff27965d7eb",
-            "sha1": "bb902d2285d965ce8de2e65653a1d0d211e11586"
-        },
-        {
-            "name": "Dragon Quest VI - Realms of Revelation (Subset - Rarity Run)",
-            "crc": "a1dcd909",
-            "md5": "6881dc08515d5cd1cee2ded866aea3f6",
-            "sha1": "cb0839f709d334e9c25c22dd602fb3c2fe145865"
         },
         {
             "name": "Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es)",
@@ -1573,22 +1489,10 @@
             "sha1": "7fd6dfbd3821b17e0f8dbbf0bcea151c659d2b52"
         },
         {
-            "name": "Inazuma Eleven (France) (Subset - 100% Player Recruitment)",
-            "crc": "5590258a",
-            "md5": "17d46b3dc3a7d89955635f5c7202adbd",
-            "sha1": "3f1cd2b1d60d67b92db098317f663e6c1d7ec6cc"
-        },
-        {
             "name": "Inazuma Eleven (Germany)",
             "crc": "2df24109",
             "md5": "aaff7bdf752373616a820d607cb9a194",
             "sha1": "d3764abd90a5b69fd375e8d190e8e83a9e329e69"
-        },
-        {
-            "name": "Inazuma Eleven (Germany) (Subset - 100% Player Recruitment)",
-            "crc": "62d1ff49",
-            "md5": "221d4d2d4d9bc6999afde4c55a009e37",
-            "sha1": "dac35c30a24541a8789dfdfc805bfdb840f33f48"
         },
         {
             "name": "Inazuma Eleven (Italy)",
@@ -1597,28 +1501,10 @@
             "sha1": "c9208e3548a690bf74a481c4eaad61277fe862e5"
         },
         {
-            "name": "Inazuma Eleven (Italy) (Subset - 100% Player Recruitment)",
-            "crc": "0f50f706",
-            "md5": "62eb27476dfcb6fe2f74068479bda3a6",
-            "sha1": "0582d206f8f9446b534cb09522f6015810d2941c"
-        },
-        {
             "name": "Inazuma Eleven (Spain)",
             "crc": "fb0ffbdc",
             "md5": "b39549e42df905a8fd631d8a76c1dd37",
             "sha1": "bd19705d83b1ccaf512ee873ff6ff574d8e211de"
-        },
-        {
-            "name": "Inazuma Eleven (Spain) (Subset - 100% Player Recruitment)",
-            "crc": "b42c459c",
-            "md5": "dec2ccc5053cc4a93b4cdf0c1e889b39",
-            "sha1": "4d345105f382a8bae6ddd315fe4dc1d17a8ca1a0"
-        },
-        {
-            "name": "Inazuma Eleven (Subset - 100% Player Recruitment)",
-            "crc": "7ef233d6",
-            "md5": "873ce1dbd20673bdafc1c58ae6bd5c5b",
-            "sha1": "29dc9fb6a3acd23994ce1520c44ed38a20b1ab40"
         },
         {
             "name": "Inazuma Eleven Origins (Es) (v1.0) (AdriSylver23) (Hack)",
@@ -1643,12 +1529,6 @@
             "crc": "223e136f",
             "md5": "3bd5e6bf753202a4ee11ff98b8d795ee",
             "sha1": "2d49b6cb16b2f7bd57682f5538eeb2aae4abb058"
-        },
-        {
-            "name": "Izuna 2 - The Unemployed Ninja Returns (Subset - Ninja Photographer)",
-            "crc": "01f69876",
-            "md5": "7cee3d0c5fd9f9b8d0943cc117e693a9",
-            "sha1": "3e40096089d97239b7afcc21c1ebb8ccde0779a0"
         },
         {
             "name": "Izuna 2 - The Unemployed Ninja Returns (USA)",
@@ -2069,12 +1949,6 @@
             "crc": "3184fbc4",
             "md5": "f9e031c8d3aacea6306bbac41bf577f5",
             "sha1": "ba4ec2f99b4f2e0047601552bccf00aa73e28701"
-        },
-        {
-            "name": "Mario & Luigi - Partners in Time (Subset - Perfect Dodges)",
-            "crc": "274fc3e6",
-            "md5": "0de34bf829c5bb00c2d3482abee94878",
-            "sha1": "22fd0c383391b32e66b6ef21e66b455cc15e8a23"
         },
         {
             "name": "Mario & Sonic at the Olympic Games (Europe) (En,Fr,De,Es,It)",
@@ -2881,7 +2755,7 @@
             "sha1": "237cc2e34e51dc291eb61238b8e75f9e78ba1285"
         },
         {
-            "name": "Pokemon - Edicion Oro HeartGold (Spain) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge)",
             "crc": "cf64070f",
             "md5": "1fff18fec71255503c636dde96daaf34",
             "sha1": "150732ecc042a49268588b90598681a3c72fc92c"
@@ -2923,7 +2797,7 @@
             "sha1": "13b6853aa93121069df1d17446d3ecb36872aecf"
         },
         {
-            "name": "Pokemon - Goldene Edition HeartGold (Germany) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge)",
             "crc": "cba656a1",
             "md5": "568efd4d5772e036c6a5432f5763229e",
             "sha1": "cba0f089add4834cfc20a49172e9aec4c239269e"
@@ -2935,7 +2809,7 @@
             "sha1": "eb47ab4ba0326ae842135f62c7ec68cf85c9785f"
         },
         {
-            "name": "Pokemon - HeartGold Version (Europe) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge)",
             "crc": "2c131e38",
             "md5": "69e34e7c5a3b46e88a2f30ab0f0b9dc0",
             "sha1": "f084897f4e3e3d2732b52f7faaabe7784ecb8e97"
@@ -2947,7 +2821,7 @@
             "sha1": "4fcded0e2713dc03929845de631d0932ea2b5a37"
         },
         {
-            "name": "Pokemon - HeartGold Version (USA) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - HeartGold Version (USA) (Specialty Subset - Professor Oak Challenge)",
             "crc": "ed783999",
             "md5": "724a6564d97a50489c5e471f5b40e9e0",
             "sha1": "8e5f186f5831bc209641a319e8b15901f40c02fd"
@@ -2959,7 +2833,7 @@
             "sha1": "2c4f173b317dc88602fc7ffd6eac0f0b9f02d6f4"
         },
         {
-            "name": "Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)",
             "crc": "ea13253d",
             "md5": "b4b0fe88fbc2b36e206ee510bd8c757a",
             "sha1": "26c4a3144a957a046b16bce84768766e8d76f6f7"
@@ -2977,19 +2851,13 @@
             "sha1": "6f01887356268de39085df01490347bbcc3aa330"
         },
         {
-            "name": "Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus)",
-            "crc": "03097324",
-            "md5": "3850fd37c45770fafb64d30c271a4b6a",
-            "sha1": "06034397ee5d7d12fc6d79a59e04687f13d1e543"
-        },
-        {
             "name": "Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)",
             "crc": "5d2537e9",
             "md5": "6735749e060e002efd88e61560e45567",
             "sha1": "c838a5adf1ed32d2da8454976e5b1a1aa189c139"
         },
         {
-            "name": "Pokemon - Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)",
+            "name": "Pokemon - Mystery Dungeon - Explorers of Sky (Exclusive Subset - Zero Isle South Runs)",
             "crc": "d05ab3d5",
             "md5": "5d7808689b8b5389669244090c69f220",
             "sha1": "27ac888800cf76daf9d9531c10bd3c9c34b6d6c3"
@@ -2999,18 +2867,6 @@
             "crc": "ba6d0397",
             "md5": "a80caf9df272106fd36c56efefb3eb98",
             "sha1": "b5652db288c75417de159d93d297689c885dbbd1"
-        },
-        {
-            "name": "Pokemon - Pearl Version (Subset - League Stars)",
-            "crc": "e8235eda",
-            "md5": "5159f69c60a5699022203502d454a6ba",
-            "sha1": "f80892d9eceadf2627e9723b5dd90da294d3c605"
-        },
-        {
-            "name": "Pokemon - Pearl Version (Subset - Professor Oak Challenge)",
-            "crc": "255b60b6",
-            "md5": "9e57f170bddea0b243fa6d4ea1dcdf24",
-            "sha1": "8bfa537f1ff27eaec3f9f88328bcaae071d16d91"
         },
         {
             "name": "Pokemon - Pearl Version (USA) (Rev 5)",
@@ -3085,7 +2941,7 @@
             "sha1": "576cdb7eec728c49aed85b9dd7e1e084ba1f08f9"
         },
         {
-            "name": "Pokemon - Silberne Edition SoulSilver (Germany) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge)",
             "crc": "9c774ab2",
             "md5": "7bb1a1fa06d7e9bcacb19d704f9e9395",
             "sha1": "2d0883d2d0c82589e430473d34c8b11cfdf4f9a5"
@@ -3097,19 +2953,19 @@
             "sha1": "27a25c23aa1c0ecabe48a30a004b96c9dbc97730"
         },
         {
-            "name": "Pokemon - SoulSilver Version (Europe) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge)",
             "crc": "9e1f310f",
             "md5": "5b9454267c031a4d393c3f771ae68c09",
             "sha1": "cb5766425d8a14c87162d711ac22d5cfa5f22f43"
         },
         {
-            "name": "Pokemon - SoulSilver Version (USA) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - SoulSilver Version (USA) (Specialty Subset - Professor Oak Challenge)",
             "crc": "d0798f97",
             "md5": "324b371ff78b76829d1100cb1eab5cae",
             "sha1": "a9a5e3448ce191aa807c4c0964d4a9f83ba76daa"
         },
         {
-            "name": "Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)",
             "crc": "37c384cf",
             "md5": "9b1dcd60a6e8c288d26c2a153e8a9217",
             "sha1": "05dcb69f22e8b53ca7d8ca6f7c57f0cb3133e2ae"
@@ -3133,7 +2989,7 @@
             "sha1": "ba78f6fff3fc1e32aff8fcc4707a2da1ec996f7c"
         },
         {
-            "name": "Pokemon - Version Argent SoulSilver (France) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge)",
             "crc": "3e434a3e",
             "md5": "6fc8d08fd2e636b31e060bfb9d615268",
             "sha1": "68cdd858c4e26078067e38579882461b0f0b77e2"
@@ -3157,7 +3013,7 @@
             "sha1": "f09016569ee5dbac9dd0098d04927987c47645b9"
         },
         {
-            "name": "Pokemon - Version Or HeartGold (France) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge)",
             "crc": "bfb659cf",
             "md5": "ca49d4f07191214f298e0cdb299ea201",
             "sha1": "0fbecea61b458d5e9365644442b7eece2d049bcd"
@@ -3175,7 +3031,7 @@
             "sha1": "e137acf711e0b14c297abf0254e5b4a9263338e7"
         },
         {
-            "name": "Pokemon - Versione Argento SoulSilver (Italy) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge)",
             "crc": "08d24161",
             "md5": "05e355af2d57b79c1218cbbb7069ec85",
             "sha1": "8084bc0a94563cb331ab9f20e6f99dafb5013b20"
@@ -3199,7 +3055,7 @@
             "sha1": "6b7f9bff57eb58bc8d6e48e9e5c370719458c721"
         },
         {
-            "name": "Pokemon - Versione Oro HeartGold (Italy) (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge)",
             "crc": "bc3b359f",
             "md5": "fc69bcfb6804dc42c70023c5bb3ac4fe",
             "sha1": "8fa5218528d0a2ad7e99b2ab73562619fb656f2c"
@@ -3211,28 +3067,16 @@
             "sha1": "23c5695662e906d9d57ff6e0b3e7842b9e7a1b84"
         },
         {
-            "name": "Pokemon - White Version (Subset - Professor Oak Challenge)",
-            "crc": "71013194",
-            "md5": "77a7a2f384fed8274674d2005d65e38d",
-            "sha1": "a49d101f4355f6bb73d91511c3a6185fdb6c8dd7"
-        },
-        {
             "name": "Pokemon - White Version (USA, Europe) (NDSi Enhanced)",
             "crc": "b552501c",
             "md5": "77c34ba77f8fa44e7caf04f695db0560",
             "sha1": "bc696a0dfb448c7b3a8a206f0f8214411a039208"
         },
         {
-            "name": "Pokemon - White Version 2 (Subset - Challenge Mode)",
+            "name": "Pokemon - White Version 2 (Exclusive Subset - Challenge Mode)",
             "crc": "f9f75eb0",
             "md5": "77c8fbc95be622fdaae168c8bdbf9941",
             "sha1": "c06f7d2f31b13d188249d2c646df0b5e4cdd7375"
-        },
-        {
-            "name": "Pokemon - White Version 2 (Subset - Completionist)",
-            "crc": "9f68a6ba",
-            "md5": "2d8adf3f2b648f178ebb62d26bfec30e",
-            "sha1": "5b7d0100db67ae815ed91ed87356e5be06c16039"
         },
         {
             "name": "Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced)",
@@ -3247,7 +3091,7 @@
             "sha1": "cfcc7d7c585c41191d2aeaeb08288d816af4760c"
         },
         {
-            "name": "Pokemon Black Version (Subset - Professor Oak Challenge)",
+            "name": "Pokemon Black Version (Specialty Subset - Professor Oak Challenge)",
             "crc": "f756a6f1",
             "md5": "83a81b938e9a3037dd686a1accf1d8ad",
             "sha1": "41699c35fbf42d3d49d1dc54dae27e5698df0b69"
@@ -3347,12 +3191,6 @@
             "crc": "e752bba0",
             "md5": "bb24e378d581d1a5a38178fe26f71b9e",
             "sha1": "08c8dd4a5c9705369f981a4e152fd02b9304d367"
-        },
-        {
-            "name": "Pokemon White Version 2 (Subset - Professor Oak Challenge)",
-            "crc": "8839bb28",
-            "md5": "344ca6525537d716276d3229752baa60",
-            "sha1": "039292c47baae790733a002cb8e944f1857de017"
         },
         {
             "name": "Polar Bowler (USA)",
@@ -3461,42 +3299,6 @@
             "crc": "ae4a3fd5",
             "md5": "e855e5d78ecd534fcb46065728c9ed1e",
             "sha1": "892b1441c06e412ae38277e7eca83fe4ac3bd8bd"
-        },
-        {
-            "name": "Professor Layton and the Spectre's Call (France) (Subset - Mouse Alley)",
-            "crc": "d17007ac",
-            "md5": "2a7a6dd36671532b890235ed8a888ac5",
-            "sha1": "9a08fffe17a279757733455cb0dc12b3bbf8285b"
-        },
-        {
-            "name": "Professor Layton and the Spectre's Call (Germany) (Subset - Mouse Alley)",
-            "crc": "dfe47bc4",
-            "md5": "50cc2607649827ed351e0ccece7a55ca",
-            "sha1": "d1b19249bc40f95726f9cfd6c3dbfe723c62f6a3"
-        },
-        {
-            "name": "Professor Layton and the Spectre's Call (Italy) (Subset - Mouse Alley)",
-            "crc": "134b3dde",
-            "md5": "9f8fe34a8dfae1abac4369009b50ac65",
-            "sha1": "3f402228de678759e50b26b2daed0c580183263c"
-        },
-        {
-            "name": "Professor Layton and the Spectre's Call (Netherlands) (Subset - Mouse Alley)",
-            "crc": "66152240",
-            "md5": "2d45aae132f630d7a9e68655598016b0",
-            "sha1": "cf70959902c29436c9211caafbebd2943394c132"
-        },
-        {
-            "name": "Professor Layton and the Spectre's Call (Spain) (Subset - Mouse Alley)",
-            "crc": "d5393633",
-            "md5": "62217ef28f8a492b03dab03d8a966963",
-            "sha1": "b0cba97838e19bede40fa57b7284d464ed6ec82a"
-        },
-        {
-            "name": "Professor Layton and the Spectre's Call (Subset - Mouse Alley)",
-            "crc": "634bc6b1",
-            "md5": "261e5656ad4807cd542896da02011fb4",
-            "sha1": "6fc5588745a23ae819e4c6db53182d88c81d3bd0"
         },
         {
             "name": "Professor Layton e il Futuro Perduto, Il (Italy)",
@@ -3685,7 +3487,7 @@
             "sha1": "9a0b4183c1b63f5f0ae8c9ef206b0ea9279fbe95"
         },
         {
-            "name": "Retro Game Challenge 2 (Subset - Daily Challenge)",
+            "name": "Retro Game Challenge 2 (Specialty Subset - Daily Challenge)",
             "crc": "c78cc2fe",
             "md5": "3be06c70ddb67dc1d7c99b52855a531b",
             "sha1": "55b795ff20b918bffe95667bfba0ccd4f39a93d4"
@@ -4565,18 +4367,6 @@
             "crc": "8d818387",
             "md5": "8dad688cd785b93374f36cfc940b672e",
             "sha1": "9572fc4727f8ed6c65900c11e6d9b3f67243bfc5"
-        },
-        {
-            "name": "Trauma Center - Under the Knife (Subset - S-Ranks)",
-            "crc": "ca08e324",
-            "md5": "22adf34307e78030626a85ea98979f32",
-            "sha1": "d8bbd91054fee898764d29f75279bdf51dc1450a"
-        },
-        {
-            "name": "Trauma Center - Under the Knife 2 (Subset - XS-Ranks)",
-            "crc": "fcfd3be3",
-            "md5": "bb8b2cd4ffabd4ec5199bfa56e4e5f15",
-            "sha1": "f26ccf2238c202d88348b114569895e1edb421bd"
         },
         {
             "name": "Trauma Center - Under the Knife 2 (USA)",

@@ -451,12 +451,6 @@
             "sha1": "a2c0799e13566d1b723299592cfcac9387f25fa7"
         },
         {
-            "name": "Diddy Kong Racing (Subset - Unorthodox Racing)",
-            "crc": "1b059105",
-            "md5": "8dd8a709f8c7eb756fede77829720977",
-            "sha1": "0efa9da0c263de4ecbcdd0c61a433e702cd5594b"
-        },
-        {
             "name": "Diddy Kong Racing (USA) (En,Fr)",
             "crc": "eb759206",
             "md5": "4f0e07f0eeac7e5d7ce3a75461888d03",
@@ -479,12 +473,6 @@
             "crc": "8e46655d",
             "md5": "226cfdb297116f29bfb01bd4dec9f064",
             "sha1": "5b4766f08649bc0e2c6c90f3702c3959a398954b"
-        },
-        {
-            "name": "Donkey Kong 64 (Subset - Glitch Showcase)",
-            "crc": "a34c7f50",
-            "md5": "7a04cedce4946034a2889e0d5d432baa",
-            "sha1": "8faba701c25ec1331330d8f7cf8674c2697ff8f6"
         },
         {
             "name": "Donkey Kong 64 (USA)",
@@ -707,12 +695,6 @@
             "crc": "98acd777",
             "md5": "61c5d9cce563bee460c97d67fd813f67",
             "sha1": "14863b5fee1d0ac30fa62e62572fde58462f1286"
-        },
-        {
-            "name": "Goldeneye 007 (Subset - Dark License to Kill)",
-            "crc": "d17e66cd",
-            "md5": "eadc063b796c86ecfcd29bea4c0c1f6b",
-            "sha1": "23ac32f872b9c0e6f886ef0952e66f92ce33dd7a"
         },
         {
             "name": "HSV Adventure Racing! (Australia)",
@@ -1465,18 +1447,6 @@
             "sha1": "e2c4e7a905b29529b49a1619a401fe699224829b"
         },
         {
-            "name": "Mario Kart 64 (Subset - Multi)",
-            "crc": "57ff687c",
-            "md5": "212522a9af262b9a26b5afd045a6b3d5",
-            "sha1": "84539239cdef919a97be1f6572a6507c13cfc027"
-        },
-        {
-            "name": "Mario Kart 64 (Subset - Shortcuts)",
-            "crc": "fefe7bdd",
-            "md5": "4d7a2bb8a2a33a7d5f634d979f6e601f",
-            "sha1": "6c05b5375a4facb24ff51db40a1a37176020c502"
-        },
-        {
             "name": "Mario Kart 64 (USA)",
             "crc": "434389c1",
             "md5": "3a67d9986f54eb282924fca4cd5f6dff",
@@ -2047,12 +2017,6 @@
             "sha1": "6f792aa7902a59a1297e813d2c476372c1e1ba61"
         },
         {
-            "name": "Paper Mario (Subset - Multiplayer) (Hack)",
-            "crc": "a9ebbd52",
-            "md5": "6a7dda1f30560242fd341c9156a5612f",
-            "sha1": "133058a5288155f645b85737ba2b902f3e7df1c2"
-        },
-        {
             "name": "Paper Mario (USA)",
             "crc": "a7f5cd7e",
             "md5": "a722f8161ff489943191330bf8416496",
@@ -2111,6 +2075,12 @@
             "crc": "e6eeae0a",
             "md5": "9bfbcff19f368b4c5b81186d7ff9e2fd",
             "sha1": "0d5bafa1e67c2b62d6841c6c4a52b946376a2ac7"
+        },
+        {
+            "name": "Paper Mario - Multiplayer (Hack)",
+            "crc": "a9ebbd52",
+            "md5": "6a7dda1f30560242fd341c9156a5612f",
+            "sha1": "133058a5288155f645b85737ba2b902f3e7df1c2"
         },
         {
             "name": "Paper Mario - Pro Mode (v0.1.6) (Clover) (Hack)",
@@ -2173,12 +2143,6 @@
             "sha1": "8173866fc8c7652abd44c48efcab85441c6806a1"
         },
         {
-            "name": "Pokemon Snap (Subset - Perfect Picture)",
-            "crc": "f1a1a7c0",
-            "md5": "c700d31347e1a7b487a3b500e0f8df4a",
-            "sha1": "b6e08ea939151c35bb1cb6143c789bb21420828a"
-        },
-        {
             "name": "Pokemon Snap (USA)",
             "crc": "86a69756",
             "md5": "fc3c9329b7cdd67cf7650abf63b9a580",
@@ -2233,12 +2197,6 @@
             "sha1": "cd4aaaaad29c6766dfc4f639326cea0a0a4d9a24"
         },
         {
-            "name": "Pyoro 64 (Subset - Bonus)",
-            "crc": "e863db9a",
-            "md5": "c6eb5357874444fbd832cb63999d6708",
-            "sha1": "4a04c89dc0d206ddff21b94e49b65e429296e344"
-        },
-        {
             "name": "Pyoro 64 (Unknown) (NTSC) (Aftermarket)",
             "crc": "b7ebddc6",
             "md5": "2ac0f88bea02d67896ffeae9e8ec72e7",
@@ -2255,12 +2213,6 @@
             "crc": "e6b34387",
             "md5": "cc93c30c633ff461c29b54ceabefd701",
             "sha1": "2edb00e602e7c2813a5d6a04dfec80487627237a"
-        },
-        {
-            "name": "Quest 64 (Subset - Barbarian)",
-            "crc": "1f2036f8",
-            "md5": "1229386cc33531643ce5568c3b047042",
-            "sha1": "dcab83ddf70decd1fa796a9568481b894200aedc"
         },
         {
             "name": "Quest 64 (USA)",
@@ -4483,12 +4435,6 @@
             "sha1": "9bd71afbecf4d0a43146e4e7a893395e19bf3220"
         },
         {
-            "name": "Star Fox 64 (Subset - Bonus)",
-            "crc": "d199121a",
-            "md5": "7420d9a92c03dfcf224a1f56d71727d1",
-            "sha1": "30f79b3bc9f01102827995e34d6fd25f543945ed"
-        },
-        {
             "name": "Star Fox 64 (USA)",
             "crc": "b1fcaa9c",
             "md5": "caf9a78db13ee00002ff63a3c0c5eabb",
@@ -4555,43 +4501,19 @@
             "sha1": "7def46651f55745d5bbd633c9002bdbffc53a5e0"
         },
         {
-            "name": "Super Mario 64 (Subset - A Button Challenge)",
+            "name": "Super Mario 64 (Specialty Subset - A Button Challenge)",
             "crc": "4be1379f",
             "md5": "50dab78045aa04b95adb97f4648d61b0",
             "sha1": "e8848c53498569132026c5862e368ae08f718513"
         },
         {
-            "name": "Super Mario 64 (Subset - Bonus)",
-            "crc": "02b8f782",
-            "md5": "f1aa46df1b3409b4fae7c4e704331d95",
-            "sha1": "affb6ccb083345c3d693c182726f946a29b63863"
-        },
-        {
-            "name": "Super Mario 64 (Subset - Bonus) (Analog Camera)",
-            "crc": "97995644",
-            "md5": "9ddbda208606d97962806efca056f3df",
-            "sha1": "a934f2969ff24ae7f4ff8065c44c07de0ab4fbb5"
-        },
-        {
-            "name": "Super Mario 64 (Subset - Coin Collector)",
-            "crc": "5210c700",
-            "md5": "7b3285c7f6aee1f9a3891fd75abe0a39",
-            "sha1": "c7ca7616d3c2fd4e0bcf48dabec176644b283de2"
-        },
-        {
-            "name": "Super Mario 64 (Subset - Coin Collector) (Analog Camera)",
-            "crc": "c73166c6",
-            "md5": "808205d0fe0db0647ac7998556936337",
-            "sha1": "ed8cd00faf548714446fb27326d5675e6677c761"
-        },
-        {
-            "name": "Super Mario 64 (Subset - Lazy Lakitu)",
+            "name": "Super Mario 64 (Specialty Subset - Lazy Lakitu)",
             "crc": "805b8504",
             "md5": "069a376fc94aef0e5fef2197956e9f3e",
             "sha1": "8f49b68054cb9a4773f62c1165a7d0ad6a0ddf2b"
         },
         {
-            "name": "Super Mario 64 (Subset - Speedrun Showcase)",
+            "name": "Super Mario 64 (Specialty Subset - Speedrun Showcase)",
             "crc": "6a0dab6e",
             "md5": "039c3361ae8556e3151cb49b2ed18114",
             "sha1": "ac939e67656a64714a6911fb5a6537734c7633a6"
@@ -4883,12 +4805,6 @@
             "crc": "5e4acbfa",
             "md5": "7c567a5bb1ad4cbe414fb6bbff66e336",
             "sha1": "93227776f59b42e9fb1c942eba9d5b465eeb3979"
-        },
-        {
-            "name": "Yoshi's Story (Subset - Brutal Scores)",
-            "crc": "c3d81322",
-            "md5": "defb190a6cd011bf052b3a2681403276",
-            "sha1": "6e560892f3aeaa26984e3f8aed8e8da74ab3286b"
         },
         {
             "name": "Yoshi's Story (USA) (En,Ja)",
