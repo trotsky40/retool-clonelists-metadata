@@ -1408,6 +1408,9 @@
 		"languages": ["Ja"],
 		"localName": "エリュシオン　～永遠のサンクチュアリ～"
 	},
+	"Equalizer Xtreme (France) (Unl)": {
+		"languages": ["Fr"]
+	},
 	"Erde - Nezu no Ki no Shita de (Japan)": {
 		"languages": ["Ja"],
 		"localName": "Ｅｒｄｅ　～ネズの樹の下で～"
@@ -2051,7 +2054,7 @@
 	"Hydro Thunder (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Idol Janshi o Tsukucchaou (Japan)": {
+	"Idol Janshi o Tsukutchaou (Japan)": {
 		"languages": ["Ja"],
 		"localName": "アイドル雀士をつくっちゃおう♡"
 	},
@@ -4208,11 +4211,11 @@
 		"languages": ["Ja"],
 		"localName": "ソニック　アドベンチャー"
 	},
-	"Sonic Adventure (USA)": {
-		"languages": []
-	},
 	"Sonic Adventure (USA) (Demo)": {
 		"languages": ["En"]
+	},
+	"Sonic Adventure (USA) (En,Ja,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
@@ -5016,8 +5019,8 @@
 	"Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es) (Beta) (2000-07-14)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
+	"Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Ja,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Visual Park (Japan)": {
 		"languages": ["Ja"],

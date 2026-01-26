@@ -14,6 +14,9 @@
 	"1996 Awards - International CD-i Association (USA)": {
 		"languages": ["En"]
 	},
+	"1996 ICDIA Summit - CD-i; A Bridge to the Future - Philips CD-i Strategy (Europe) (Proto)": {
+		"languages": []
+	},
 	"2 Unlimited - Beyond Limits (Europe)": {
 		"languages": ["En"]
 	},
@@ -1275,6 +1278,9 @@
 		"languages": ["En"]
 	},
 	"CD-i 700 - English Version - Schindler (Europe)": {
+		"languages": []
+	},
+	"CD-i Authoring Overview Presentation (Europe) (Proto)": {
 		"languages": []
 	},
 	"CD-i Clickshow (Netherlands)": {
@@ -6776,6 +6782,9 @@
 		"languages": ["En"]
 	},
 	"Universal CD-ROM - New Age Interactive 10.6 (Italy) (En,It)": {
+		"languages": ["En", "It"]
+	},
+	"Universal CD-ROM - New Age Interactive 11.7 (Italy) (En,It)": {
 		"languages": ["En", "It"]
 	},
 	"Universal CD-ROM - New Age Interactive 12.8 (Italy) (En,It)": {

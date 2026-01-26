@@ -16590,6 +16590,10 @@
 		"languages": ["Ja"],
 		"localName": "キッズステーション　動くトミカ図鑑"
 	},
+	"Kids Station - Ugoku Tomica Zukan (Japan) (Controller Set)": {
+		"languages": ["Ja"],
+		"localName": "キッズステーション　動くトミカ図鑑"
+	},
 	"Kids Station - Ultraman Cosmos - Yuusha no Chikai (Japan)": {
 		"languages": ["Ja"],
 		"localName": "キッズステーション　ウルトラマンコスモス　勇者の誓い"
@@ -28766,11 +28770,11 @@
 		"languages": ["Ja"],
 		"localName": "ＳＩＭＰＬＥ１５００実用シリーズ　Ｖｏｌ．１４　暮らしのマナー　～冠婚葬祭編～"
 	},
-	"Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kai-kata - Sekai no Inu Catalog (Japan)": {
+	"Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kaikata - Sekai no Inu Catalog (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＳＩＭＰＬＥ１５００実用シリーズ　Ｖｏｌ．１５　犬の飼い方　～世界の犬カタログ～"
 	},
-	"Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kai-kata - Sekai no Neko Catalog (Japan)": {
+	"Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kaikata - Sekai no Neko Catalog (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＳＩＭＰＬＥ１５００実用シリーズ　Ｖｏｌ．１６　猫の飼い方　～世界の猫カタログ～"
 	},

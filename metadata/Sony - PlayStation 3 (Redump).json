@@ -4317,6 +4317,9 @@
 	"F1 2013 - Complete Edition (Japan)": {
 		"languages": []
 	},
+	"F1 2014 (Asia)": {
+		"languages": []
+	},
 	"F1 2014 (Brazil) (En,Pt)": {
 		"languages": ["En", "Pt"]
 	},
@@ -6292,6 +6295,9 @@
 	},
 	"Jackbox Party Pack, The (USA)": {
 		"languages": []
+	},
+	"Jak and Daxter Collection (Korea) (En,Ko)": {
+		"languages": ["En", "Ko"]
 	},
 	"Jak and Daxter Collection (USA, Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -10617,6 +10623,9 @@
 	"Risen 2 - Dark Waters (USA) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
+	"Risen 3 - Titan Lords (Asia)": {
+		"languages": []
+	},
 	"Risen 3 - Titan Lords (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -10815,7 +10824,7 @@
 		"languages": ["Ja"],
 		"localName": "龍が如く４　～伝説を継ぐもの～"
 	},
-	"Ryuu ga Gotoku 4 - Densetsu o Tsugu Mono (Japan, Korea)": {
+	"Ryuu ga Gotoku 4 - Densetsu o Tsugu Mono (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "龍が如く４　～伝説を継ぐもの～"
 	},
@@ -11635,6 +11644,9 @@
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"SingStar Chartbreaker (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
+		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
+	},
+	"SingStar Dance (Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"SingStar Dance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
@@ -13543,7 +13555,7 @@
 		"languages": [],
 		"localName": "ウルトラストリートファイターⅣ"
 	},
-	"Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko)": {
+	"Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko"]
 	},
 	"Umineko no Naku Koro ni - Majo to Suiri no Rondo (Japan)": {

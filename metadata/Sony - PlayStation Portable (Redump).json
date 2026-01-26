@@ -8370,10 +8370,10 @@
 		"languages": ["Ko"],
 		"localName": "펌프 잇 업 - 제로 포터블"
 	},
-	"Pursuit Force (Europe) (Beta) (2005-08-22)": {
-		"languages": []
-	},
 	"Pursuit Force (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Pursuit Force (Europe) (En,Fr,De,Es,It) (Beta) (2005-08-22)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pursuit Force (Europe) (En,Fr,De,Es,It) (Demo)": {
@@ -8584,7 +8584,7 @@
 		"languages": ["Ja"],
 		"localName": "零・超兄貴"
 	},
-	"Remember11 - The Age of Infinity (Japan)": {
+	"Remember 11 - The Age of Infinity (Japan)": {
 		"languages": ["Ja"],
 		"localName": "リメンバー　イレブン　ＴＨＥ　ＡＧＥ　ＯＦ　ＩＮＦＩＮＩＴＹ"
 	},
@@ -10399,8 +10399,8 @@
 		"languages": ["Ja"],
 		"localName": "テイルズ　オブ　ザ　ワールド　レディアント　マイソロジー３"
 	},
-	"TalkMan (Europe) (Beta) (2006-03-13)": {
-		"languages": []
+	"TalkMan (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2006-03-13)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"TalkMan (Europe, Australia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -11671,6 +11671,9 @@
 		"localName": "월드사커 위닝일레븐 9 - 유비쿼터스 에볼루션"
 	},
 	"World Tour Soccer (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"World Tour Soccer (Europe) (En,Fr,De,Es,It) (Beta) (2005-01-20)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"World Tour Soccer (USA) (En,Fr,De,Es)": {

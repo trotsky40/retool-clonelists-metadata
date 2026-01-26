@@ -784,8 +784,8 @@
 		"languages": ["Ja"],
 		"localName": "ＦＩＦＡ　インターナショナルサッカー"
 	},
-	"FIFA International Soccer (USA, Europe)": {
-		"languages": ["En"]
+	"FIFA International Soccer (USA, Europe) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -1763,8 +1763,8 @@
 	"Pengo (Europe)": {
 		"languages": ["En"]
 	},
-	"Pengo (Japan)": {
-		"languages": ["Ja"],
+	"Pengo (Japan) (En)": {
+		"languages": ["En"],
 		"localName": "ペンゴ"
 	},
 	"Pet Club - Inu Daisuki! (Japan)": {
@@ -1882,8 +1882,8 @@
 		"languages": ["Ja"],
 		"localName": "プロ野球ＧＧリーグ"
 	},
-	"Psychic World (Japan) (En)": {
-		"languages": ["En"],
+	"Psychic World (Japan)": {
+		"languages": ["Ja"],
 		"localName": "サイキック・ワールド"
 	},
 	"Psychic World (USA, Europe, Brazil) (En) (Rev 1)": {
@@ -1939,8 +1939,8 @@
 	"R.C. Grand Prix (USA)": {
 		"languages": ["En"]
 	},
-	"Rastan Saga (Japan)": {
-		"languages": ["Ja"],
+	"Rastan Saga (Japan) (En)": {
+		"languages": ["En"],
 		"localName": "ラスタン・サーガ"
 	},
 	"Revenge of Drancon (USA, Brazil) (En)": {

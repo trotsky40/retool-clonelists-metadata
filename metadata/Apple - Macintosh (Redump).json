@@ -1074,6 +1074,9 @@
 	"Casino Action (USA)": {
 		"languages": ["En"]
 	},
+	"Castles - Siege & Conquest (USA)": {
+		"languages": ["En"]
+	},
 	"Cat in the Hat, The (USA)": {
 		"languages": ["En"]
 	},
@@ -2758,6 +2761,15 @@
 	"Mummy - Tomb of the Pharaoh (USA)": {
 		"languages": []
 	},
+	"Muppet Treasure Island (USA) (Disc 1)": {
+		"languages": ["En"]
+	},
+	"Muppet Treasure Island (USA) (Disc 2)": {
+		"languages": ["En"]
+	},
+	"Muppet Treasure Island (USA) (Disc 3)": {
+		"languages": ["En"]
+	},
 	"Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
 		"localName": "マーフィーだよ　全員集合！！"
@@ -2988,6 +3000,9 @@
 		"languages": []
 	},
 	"Operative, The - No One Lives Forever (USA) (Disc 1) (Game Disc)": {
+		"languages": ["En"]
+	},
+	"Orion Burger (USA)": {
 		"languages": ["En"]
 	},
 	"Out of the Sun (USA)": {

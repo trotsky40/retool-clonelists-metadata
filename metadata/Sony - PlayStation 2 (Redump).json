@@ -16218,7 +16218,7 @@
 	"Kao the Kangaroo - Round 2 (USA)": {
 		"languages": []
 	},
-	"Kappa no Kai-kata - How to Breed Kappas (Japan)": {
+	"Kappa no Kaikata - How to Breed Kappas (Japan)": {
 		"languages": ["Ja"],
 		"localName": "カッパの飼い方　Ｈｏｗ　ｔｏ　ｂｒｅｅｄ　ｋａｐｐａｓ"
 	},
@@ -19361,8 +19361,11 @@
 	"Max Drive (Europe) (Unl)": {
 		"languages": ["En"]
 	},
-	"Max Drive (USA) (Unl)": {
+	"Max Drive (USA) (Unl) (v1.33)": {
 		"languages": ["En"]
+	},
+	"Max Drive (USA) (Unl) (v1.36)": {
+		"languages": []
 	},
 	"Max Media Manager (USA) (Unl)": {
 		"languages": ["En"]
@@ -27469,15 +27472,15 @@
 		"languages": ["Ja"],
 		"localName": "零式艦上戦闘記　弐"
 	},
-	"Remember11 - The Age of Infinity (Japan)": {
+	"Remember 11 - The Age of Infinity (Japan)": {
 		"languages": ["Ja"],
 		"localName": "リメンバー　イレブン　ＴＨＥ　ＡＧＥ　ＯＦ　ＩＮＦＩＮＩＴＹ"
 	},
-	"Remember11 - The Age of Infinity (Japan) (Infinity Plus)": {
+	"Remember 11 - The Age of Infinity (Japan) (Infinity Plus)": {
 		"languages": ["Ja"],
 		"localName": "リメンバー　イレブン　ＴＨＥ　ＡＧＥ　ＯＦ　ＩＮＦＩＮＩＴＹ"
 	},
-	"Remember11 - The Age of Infinity (Japan) (Shokai Genteiban)": {
+	"Remember 11 - The Age of Infinity (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "リメンバー　イレブン　ＴＨＥ　ＡＧＥ　ＯＦ　ＩＮＦＩＮＩＴＹ"
 	},
@@ -33635,7 +33638,7 @@
 		"languages": ["Ja"],
 		"localName": "すっごい！アルカナハート２"
 	},
-	"Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan)": {
+	"Sui Sui Sweet - Amai Koi no Mitsukekata (Japan)": {
 		"languages": ["Ja"],
 		"localName": "すいすいＳｗｅｅｔ　～あまい恋のみつけ方～"
 	},
@@ -34035,7 +34038,7 @@
 		"languages": ["Ja"],
 		"localName": "ＳｕｐｅｒＬｉｔｅ　２０００　ｖｏｌ．３０　吉野家"
 	},
-	"SuperLite 2000 Vol. 31 - Remember11 - The Age of Infinity (Japan)": {
+	"SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＳｕｐｅｒＬｉｔｅ　２０００　ｖｏｌ．３１　リメンバー　イレブン　－ｔｈｅ　ａｇｅ　ｏｆ　ｉｎｆｉｎｉｔｙ－"
 	},
@@ -38027,6 +38030,9 @@
 	"Wild Arms - The 4th Detonator (Japan) (Shokai Seisanban)": {
 		"languages": ["Ja"],
 		"localName": "ワイルドアームズ　ザ　フォースデトネイター"
+	},
+	"Wild Arms - The 4th Detonator (Japan) (Tentou Senkou Taikenban)": {
+		"languages": ["Ja"]
 	},
 	"Wild Arms - The Vth Vanguard (Japan)": {
 		"languages": ["Ja"],

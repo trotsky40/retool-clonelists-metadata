@@ -5453,9 +5453,6 @@
 	"Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Demo)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
 	"Star Wars - Rogue Squadron III - Rebel Strike (France) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
@@ -5468,7 +5465,10 @@
 	"Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)": {
+	"Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (USA)": {
 		"languages": ["En"]
 	},
 	"Star Wars - The Clone Wars (Europe)": {
@@ -6161,11 +6161,11 @@
 	"Vexx (USA)": {
 		"languages": ["En"]
 	},
+	"Viewtiful Joe (Europe) (Demo)": {
+		"languages": ["En"]
+	},
 	"Viewtiful Joe (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"Viewtiful Joe (Europe) (Promo)": {
-		"languages": ["En"]
 	},
 	"Viewtiful Joe (Japan)": {
 		"languages": ["Ja"],

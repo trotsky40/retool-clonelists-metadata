@@ -1148,7 +1148,7 @@
 	"Bound by Flame (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Brave - A Warrior's Tale (USA)": {
+	"Brave - A Warrior's Tale (USA, Europe)": {
 		"languages": []
 	},
 	"Brian Lara International Cricket 2007 (Europe)": {
@@ -2695,6 +2695,9 @@
 	"Disney Tron - Evolution (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Disney Universe (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Pl,Ru) (Demo)": {
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Ru", "Sv"]
+	},
 	"Disney Universe (Russia) (Pl,Ru)": {
 		"languages": ["Pl", "Ru"],
 		"localName": "Disney Мир Героев"
@@ -3396,8 +3399,8 @@
 	"Eragon (USA)": {
 		"languages": []
 	},
-	"Escape Dead Island (USA, Europe)": {
-		"languages": []
+	"Escape Dead Island (USA, Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Eschatos (Japan)": {
 		"languages": ["Ja"],
@@ -3925,6 +3928,10 @@
 	"FIFA World Cup Germany 2006 (Europe) (Es,It)": {
 		"languages": ["Es", "It"]
 	},
+	"FIFA World Cup Germany 2006 (Europe) (Fr,De)": {
+		"languages": ["De", "Fr"],
+		"localName": "Coupe du Monde de la FIFA 2006"
+	},
 	"FIFA World Cup Germany 2006 (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
 		"localName": "２００６　ＦＩＦＡ　ワールドカップ　ドイツ大会"
@@ -4328,6 +4335,9 @@
 	},
 	"Final Fantasy XI - Online - Wings of the Goddess Expansion Pack (USA)": {
 		"languages": []
+	},
+	"Final Fantasy XI - Seekers of Adoulin (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Final Fantasy XI - Seekers of Adoulin (USA)": {
 		"languages": []
@@ -5794,10 +5804,10 @@
 	"LEGO Rock Band (USA, Europe)": {
 		"languages": []
 	},
-	"LEGO Star Wars - The Complete Saga (USA) (En,Fr,De,Es,It,Da) (Rev 1)": {
+	"LEGO Star Wars - The Complete Saga (USA, Europe) (En,Fr,De,Es,It,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
 	},
-	"LEGO Star Wars - The Complete Saga (USA, Europe) (En,Fr,De,Es,It,Da)": {
+	"LEGO Star Wars - The Complete Saga (USA, Europe) (En,Fr,De,Es,It,Da) (Rev 1)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
 	},
 	"LEGO Star Wars - The Force Awakens (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
@@ -6007,10 +6017,6 @@
 		"languages": ["En", "Ja", "Ko", "Zh"],
 		"localName": "失落的奧德賽"
 	},
-	"Lost Odyssey (Japan) (Demo)": {
-		"languages": ["Ja"],
-		"localName": "ロストオデッセイ"
-	},
 	"Lost Odyssey (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "ロストオデッセイ"
@@ -6024,6 +6030,10 @@
 		"localName": "ロストオデッセイ"
 	},
 	"Lost Odyssey (Japan) (Disc 4)": {
+		"languages": ["Ja"],
+		"localName": "ロストオデッセイ"
+	},
+	"Lost Odyssey (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "ロストオデッセイ"
 	},
@@ -6977,6 +6987,9 @@
 	},
 	"NBA 2K8 (USA)": {
 		"languages": ["En"]
+	},
+	"NBA 2K8 (USA) (Demo)": {
+		"languages": []
 	},
 	"NBA 2K9 (USA, Europe)": {
 		"languages": []
@@ -8443,6 +8456,9 @@
 	"Rayman - Raving Rabbids (USA) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Rayman Legends (Russia) (En,Ru)": {
+		"languages": ["En", "Ru"]
+	},
 	"Rayman Legends (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Sv"]
 	},
@@ -8923,7 +8939,7 @@
 	"Saw II - Flesh & Blood (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Saw II - Flesh & Blood (World) (En,Fr,De,Es,It)": {
+	"Saw II - Flesh & Blood (World) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Scene It Box Office Smash! (Europe)": {

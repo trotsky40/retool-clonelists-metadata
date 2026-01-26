@@ -3241,6 +3241,9 @@
 	"Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Retro Room Games) (Aftermarket) (Unl)": {
 		"languages": ["En", "Es", "Fr", "Ja"]
 	},
+	"Escape 2049 (World) (En,Fr) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En", "Fr"]
+	},
 	"Escape from Mars Starring Taz (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
@@ -5810,6 +5813,9 @@
 	"Mega Net (Brazil) (Program)": {
 		"languages": ["Pt"]
 	},
+	"Mega Pang (World) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Mega Platform Countdown (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -6184,10 +6190,10 @@
 		"languages": ["Ja"],
 		"localName": "モンスターワールドＩＶ"
 	},
-	"Monster World IV (USA) (En,Ja) (Genesis Mini)": {
+	"Monster World IV (USA, Europe) (En,Ja) (Virtual Console)": {
 		"languages": ["En", "Ja"]
 	},
-	"Monster World IV (USA, Europe) (En,Ja) (Virtual Console)": {
+	"Monster World IV (World) (En,Ja) (Genesis Mini, Mega Drive Mini)": {
 		"languages": ["En", "Ja"]
 	},
 	"Mortal Kombat 3 (China) (En) (Pirate)": {
@@ -7406,13 +7412,13 @@
 	"Pit-Fighter (China) (En) (Pirate)": {
 		"languages": ["En"]
 	},
-	"Pit-Fighter (World) (En,Ja) (Beta 1)": {
-		"languages": ["En", "Ja"]
-	},
 	"Pit-Fighter (World) (En,Ja) (Beta 2)": {
 		"languages": ["En", "Ja"]
 	},
 	"Pit-Fighter (World) (En,Ja)": {
+		"languages": ["En", "Ja"]
+	},
+	"Pit-Fighter II (World) (En,Ja) (Proto)": {
 		"languages": ["En", "Ja"]
 	},
 	"Pitfall - The Mayan Adventure (Europe)": {
@@ -8301,9 +8307,8 @@
 		"languages": ["Zh"],
 		"localName": "三国志Ｖ"
 	},
-	"Sanrin San-chan - Spatter (Japan, USA) (En) (Mega Drive Mini 2, Genesis Mini 2)": {
-		"languages": ["En"],
-		"localName": "三輪サンちゃん　－　Ｓｐａｔｔｅｒ"
+	"Sanrin San-chan - Spatter (World) (Mega Drive Mini 2, Genesis Mini 2)": {
+		"languages": ["En"]
 	},
 	"Sansan (Japan)": {
 		"languages": ["Ja"],
@@ -8723,6 +8728,15 @@
 		"languages": ["En"]
 	},
 	"Skitchin' (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Skull & Crossbones (USA) (Demo 1)": {
+		"languages": ["En"]
+	},
+	"Skull & Crossbones (USA) (Demo 2)": {
+		"languages": ["En"]
+	},
+	"Skull & Crossbones (USA) (Demo 3)": {
 		"languages": ["En"]
 	},
 	"Slam - Shaq vs. the Legends (USA) (Proto)": {

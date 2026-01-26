@@ -5148,7 +5148,7 @@
 	"Official Xbox Magazine Game Disc 64 (USA)": {
 		"languages": ["En"]
 	},
-	"Official Xbox Playable Cheats, The (UK)": {
+	"Official Xbox Playable Cheats, The (Europe)": {
 		"languages": ["En"]
 	},
 	"Official Xbox Starter Pack 2004, The (UK)": {
@@ -6321,6 +6321,10 @@
 	},
 	"Sims 2, The (USA)": {
 		"languages": []
+	},
+	"Sims, The (Asia)": {
+		"languages": ["En"],
+		"localName": "模擬市民"
 	},
 	"Sims, The (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -7581,6 +7585,10 @@
 	},
 	"Urban Freestyle Soccer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Urbz, The - Sims in the City (Asia)": {
+		"languages": ["En"],
+		"localName": "模擬市民 上流社會"
 	},
 	"Urbz, The - Sims in the City (Europe) (En,Fr,De,Es,It,Nl,Sv)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Sv"]
