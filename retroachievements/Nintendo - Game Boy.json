@@ -2671,12 +2671,6 @@
             "sha1": "12a2c76ec96cc94a4c7eead6536eddd5f3f9998f"
         },
         {
-            "name": "Pocket Monsters - Midori (Japan) (SGB Enhanced)",
-            "crc": "baeacd2b",
-            "md5": "e30ffbab1f239f09b226477d84db1368",
-            "sha1": "82c0eef40a5e2423699d9fd8ba15dfaa8b51d196"
-        },
-        {
             "name": "Pocket Monsters Ao (Exclusive Subset - Professor Oak Challenge)",
             "crc": "b8fec709",
             "md5": "fa37cdb33108b88ade1a3d4a53a039e8",
@@ -2695,7 +2689,7 @@
             "sha1": "5a0cb44a053c00e7c37f6aa0d0bd8da4e3a3a185"
         },
         {
-            "name": "Pocket Monsters Midori (Subset - Monotype Challenge) (Japan) (En) (LandaR) (v1.0)",
+            "name": "Pocket Monsters Midori (Exclusive Subset - Monotype Challenge) (Japan) (En) (LandaR) (v1.0)",
             "crc": "5b4cdebb",
             "md5": "1af955dc4d4d7e02c3b5a051a54bd43a",
             "sha1": "a2fcbaeaeac0ca6ef13776147aeedba301775028"
@@ -2827,12 +2821,6 @@
             "sha1": "e758448695d16675baac59a33bf616e022899661"
         },
         {
-            "name": "Pokemon - Red Version (Specialty Subset - Professor Oak Challenge)",
-            "crc": "346814a7",
-            "md5": "72ff69e125ac889dafe8043a7111f92e",
-            "sha1": "51c940df109474fcd01344b954ddc23da26329b9"
-        },
-        {
             "name": "Pokemon - Red Version (USA, Europe) (Fast Red)",
             "crc": "7943aea8",
             "md5": "3132056c8f17e4088b95e4264ca59575",
@@ -2923,22 +2911,10 @@
             "sha1": "b2211c76f59481b30bc163fd19d380d11396cfc8"
         },
         {
-            "name": "Pokemon - Yellow Version (Subset - Professor Oak's Challenge)",
-            "crc": "3e4c08cc",
-            "md5": "40a092bba9fc23b42781718ea5143b39",
-            "sha1": "ed8f30a337ac4a347325ec1a622c316aa4a41234"
-        },
-        {
             "name": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)",
             "crc": "7d527d62",
             "md5": "d9290db87b1f0a23b89f99ee4469e34b",
             "sha1": "cc7d03262ebfaf2f06772c1a480c7d9d5f4a38e1"
-        },
-        {
-            "name": "Pokemon Yellow Version - Special Pikachu Edition (Subset - Shiny Pokemon)",
-            "crc": "5f47853f",
-            "md5": "a12f78a4c7842b82f42a2512add7373d",
-            "sha1": "8f8d939f43e5b2c82b4e9c13d7385bff3299b69b"
         },
         {
             "name": "Porklike (World) (v1.05) (SGB Enhanced) (Aftermarket)",

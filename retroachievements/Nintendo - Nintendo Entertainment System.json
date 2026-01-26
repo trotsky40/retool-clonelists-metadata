@@ -2767,7 +2767,7 @@
             "sha1": "b449e43a5986e975b2d4f28be9b5befeaec268e2"
         },
         {
-            "name": "Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Subset - Bonus) (Hack)",
+            "name": "Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Specialty Subset - Bonus) (Hack)",
             "crc": "f1c1fdf1",
             "md5": "9cdbe666cad0bb777ecb42c24032eb0b",
             "sha1": "7125915c634a9db38dea75b2384f9a2be587a867"
@@ -5977,12 +5977,6 @@
             "sha1": "a909bce959766dea0f9d52beae2e255bb4876cc3"
         },
         {
-            "name": "LoZ2 - The Adventure of Link (Subset - Level-1 Runs)",
-            "crc": "090a7b28",
-            "md5": "8b2bbac0e3074c876497e08117dea147",
-            "sha1": "3732b4ce637d4b420bd23be4816bdd229f6e8d63"
-        },
-        {
             "name": "LoZ2 - The Nightmare of Ganon (v1.5) (HollowShadow) (Hack)",
             "crc": "4d290082",
             "md5": "3568bbbf6b9e21ec4fb2a5ac5914e0e2",
@@ -7693,24 +7687,6 @@
             "sha1": "7a8c79b269c32da77befd455797864136a39e7fb"
         },
         {
-            "name": "Ninja Gaiden (Subset - Bonus) (Japan) (Wii U Virtual Console)",
-            "crc": "0e52ee0a",
-            "md5": "5c8c4864778ff8da56381fa1d8c87e37",
-            "sha1": "3514a3e252dae4a8ab6aa1dc474b391d4e9063d3"
-        },
-        {
-            "name": "Ninja Gaiden (Subset - Bonus) (USA)",
-            "crc": "0da7498b",
-            "md5": "1498daee1d8c99a0ac06ba2b3042811c",
-            "sha1": "4b44985b3c9d3bde103c9623115ea2a8c52ea9ae"
-        },
-        {
-            "name": "Ninja Gaiden (Subset - Full Game Damageless)",
-            "crc": "f8a15019",
-            "md5": "e31f04a4901407973acf9a6fab4458dd",
-            "sha1": "334903042bf611050de3993a5212b3d723b22884"
-        },
-        {
             "name": "Ninja Gaiden (USA)",
             "crc": "80d3b95e",
             "md5": "15c46b30c216086d1f215977a1019691",
@@ -7895,18 +7871,6 @@
             "crc": "2b52f209",
             "md5": "026592190eb40035a3dd03e6d47aa702",
             "sha1": "fcd14af737d32eb33081262b91c609bea861aa77"
-        },
-        {
-            "name": "Ninja Ryuuken Den (Subset - Bonus) (Japan)",
-            "crc": "a62602dc",
-            "md5": "c83f75b1cc78300847591a7ea0d08ed9",
-            "sha1": "2292e80bcbd94cb24dfcaa3e2df05baeac6cd324"
-        },
-        {
-            "name": "Ninja Ryuuken Den (Subset - Bonus) (Japan) (Wii Virtual Console)",
-            "crc": "7106d02a",
-            "md5": "740ddd108edd78579a725dbd2c3c1ab4",
-            "sha1": "837e5fb378cac29c160fa470bdd3387129c6bc53"
         },
         {
             "name": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)",
@@ -9146,9 +9110,9 @@
         },
         {
             "name": "SMB1 - Celeste Mario's Zap & Dash! (v1.0) (w7N) (Patch) (Hack)",
-            "crc": "7e6f59ed",
-            "md5": "d51340329d59fb20eb2039227b590e2e",
-            "sha1": "f0c80dcef2f9e4a46a7bbaade4f18203d3f2114e"
+            "crc": "abc3bc39",
+            "md5": "7960ded91bfb74573366f26603d0261b",
+            "sha1": "841c96888bf36a431a5dce3913df564f5b5cb16a"
         },
         {
             "name": "SMB1 - Extra Mario Bros (1.0) (ATA) (Hack)",

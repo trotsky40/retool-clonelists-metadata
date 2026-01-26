@@ -3193,12 +3193,6 @@
             "sha1": "d32d04af49d2c533ffd5cf166be11a6cc0b3644d"
         },
         {
-            "name": "Mario & Luigi - Superstar Saga (Subset - Perfect Dodges)",
-            "crc": "17b8c7c0",
-            "md5": "4e0fa9ae471d3d3033ecf7e08a4d5b1a",
-            "sha1": "5b60b1500bdeac6c6c0e598b67ba091d815034f9"
-        },
-        {
             "name": "Mario & Luigi - Superstar Saga (USA)",
             "crc": "e718d850",
             "md5": "4b1a5897d89d9e74ec7f630eefdfd435",
@@ -4405,16 +4399,16 @@
             "sha1": "e5dc486094453c214d379b2d23c22a762baf01fd"
         },
         {
+            "name": "Pokemon - FireRed Version (Specialty Subset - Shinies & Stuff)",
+            "crc": "01a3dbfd",
+            "md5": "0f75499bd326e95b40d4880955157660",
+            "sha1": "f9e9233142229bb4144e45be3c6fa1a1378a5806"
+        },
+        {
             "name": "Pokemon - FireRed Version (Subset - Professor Oak Challenge)",
             "crc": "5a9dca60",
             "md5": "074c2b4a321ae345d9f42cff9a2531ab",
             "sha1": "68346a34246403b355c1b3d3e7209b12f5b32a46"
-        },
-        {
-            "name": "Pokemon - FireRed Version (Subset - Shinies & Stuff)",
-            "crc": "01a3dbfd",
-            "md5": "0f75499bd326e95b40d4880955157660",
-            "sha1": "f9e9233142229bb4144e45be3c6fa1a1378a5806"
         },
         {
             "name": "Pokemon - FireRed Version (USA, Europe)",
@@ -4459,13 +4453,7 @@
             "sha1": "88405cd0d43d25c7f7e08c45bb8f4b259a79be82"
         },
         {
-            "name": "Pokemon - LeafGreen Version (Subset - Professor Oak Challenge) (Rev 1)",
-            "crc": "dc20f380",
-            "md5": "223ac5717907037ef91778c354935902",
-            "sha1": "05fc29090a4de46a61320259c08ca1b73bb48dd6"
-        },
-        {
-            "name": "Pokemon - LeafGreen Version (Subset - Shinies & Stuff)",
+            "name": "Pokemon - LeafGreen Version (Specialty Subset - Shinies & Stuff)",
             "crc": "0ab73b2d",
             "md5": "b3b8da81bbf9fe06ba40bf15c3beaffd",
             "sha1": "cac8432a08858828f063042c1eb5c1b8e3470233"
@@ -4549,12 +4537,6 @@
             "sha1": "55f48d02a46d389b168440f8f955c0e237f95f85"
         },
         {
-            "name": "Pokemon - Party Randomizer Plus (Hack) (Subset - Battle Frontier)",
-            "crc": "019164cd",
-            "md5": "fa6e5e03d041501c72db930474754305",
-            "sha1": "28b9f9d4db2226b09b2bde629ff42f4b19ebf597"
-        },
-        {
             "name": "Pokemon - Pit of 100 Trials (Hack)",
             "crc": "a03780df",
             "md5": "63af39f8aca4b554de5ab19a9be82b85",
@@ -4633,13 +4615,13 @@
             "sha1": "033d05374ae34eb84fae62c693ca8f3da23dd1bd"
         },
         {
-            "name": "Pokemon - Ruby Version (Subset - Professor Oak Challenge) (Rev 0)",
+            "name": "Pokemon - Ruby Version (Specialty Subset - Professor Oak Challenge) (Rev 0)",
             "crc": "50c6dfb3",
             "md5": "5eea818df4dc59b2991d57b77844b884",
             "sha1": "4170e571ce4e2d37649fc215b9e26bdc2876a4ca"
         },
         {
-            "name": "Pokemon - Ruby Version (Subset - Professor Oak Challenge) (Rev 1)",
+            "name": "Pokemon - Ruby Version (Specialty Subset - Professor Oak Challenge) (Rev 1)",
             "crc": "c1239422",
             "md5": "c62c3386c3c49dcde7a678dce2b2d0e8",
             "sha1": "03616b03ffabade1bd357f092e4797e6135b30bf"
@@ -5479,12 +5461,6 @@
             "sha1": "df03668a3f18e7f77fb18c5b8620a4cba4b06734"
         },
         {
-            "name": "Shrek - Swamp Kart Speedway (Subset - 36 Endings)",
-            "crc": "bc150115",
-            "md5": "44fa6447cdbdf9663502c46279f03395",
-            "sha1": "30d86c231f6576c57e3281481dd5972d3a368378"
-        },
-        {
             "name": "Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl)",
             "crc": "91483d87",
             "md5": "be807a4d9dfe2f283760cee1ecd28a5b",
@@ -5669,12 +5645,6 @@
             "crc": "7305ac30",
             "md5": "1c694783acdfd013bdd980a4d8f8f546",
             "sha1": "ec68166a437895953bbbce256ebefaebb77c0156"
-        },
-        {
-            "name": "Sonic Battle (Subset - Bonus)",
-            "crc": "6d3f25a1",
-            "md5": "5245cfb20d8e2f9c2e5a189c776b8d52",
-            "sha1": "81972588038cca942992ed32fee2b05d13b9a439"
         },
         {
             "name": "Sonic Battle (USA) (En,Ja,Fr,De,Es,It)",
@@ -6047,12 +6017,6 @@
             "crc": "639e9d3b",
             "md5": "5a0bd0ec784823f2c45fdaa5dd914bea",
             "sha1": "bd52eb4b4ebe438e9b9ecaac792bd389725cde41"
-        },
-        {
-            "name": "Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)",
-            "crc": "ddaf36d3",
-            "md5": "0c7e58ddb31ba4880873974553dd01e5",
-            "sha1": "6b58b604cc88b5cf30563336be58842dbf1aa2a6"
         },
         {
             "name": "Super Mario Advance 3 - Yoshi's Island (USA)",

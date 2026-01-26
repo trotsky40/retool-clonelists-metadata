@@ -245,7 +245,7 @@
             "sha1": "6b2f067e9035e6bf913dca023b89842346b99cd6"
         },
         {
-            "name": "Battlefield 2 - Modern Combat (Subset - Online Multiplayer)",
+            "name": "Battlefield 2 - Modern Combat (Exclusive Subset - Online Multiplayer)",
             "sha1": "e6de131739c8b9251645586dfa88b529948c51e8"
         },
         {
@@ -977,10 +977,6 @@
             "sha1": "2bf9a599c627264d05dd6eada9cf6c80b0b2e46c"
         },
         {
-            "name": "Dragon Ball Z - Budokai (Subset - Martial Arts Tournament)",
-            "sha1": "3afdf86b72846e0b3a392ef090c849388b79b71f"
-        },
-        {
             "name": "Dragon Ball Z - Budokai (USA)",
             "sha1": "73636d7d77c322320223c9613a4e6be462778a0f"
         },
@@ -1015,10 +1011,6 @@
         {
             "name": "Dragon Ball Z - Infinite World (USA)",
             "sha1": "8d59f67686ce8af745660b93accc6ea21f1bfe1c"
-        },
-        {
-            "name": "Dragon Quest V (Subset - Items and Inductees)",
-            "sha1": "ee84198b56a8bdcf417be93d26ea7ecd2c2c5ac7"
         },
         {
             "name": "Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations)",
@@ -1143,10 +1135,6 @@
         {
             "name": "Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)",
             "sha1": "6a25ef6934848b3d15df62a0481a5e1cf716de9f"
-        },
-        {
-            "name": "Egg Mania - Eggstreme Madness (Subset - Bonus)",
-            "sha1": "1d6c544077a1d239305a73124c077769209c360a"
         },
         {
             "name": "Egg Mania - Eggstreme Madness (USA)",
@@ -1285,11 +1273,11 @@
             "sha1": "e237691e74806c65a8ee7aba829091c36ab11775"
         },
         {
-            "name": "Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - New Game Minus)",
+            "name": "Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - New Game Minus)",
             "sha1": "1ab41da2e9e7be65fe4db84c96d9689287f6f5e4"
         },
         {
-            "name": "Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - Single Job)",
+            "name": "Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - Single Job)",
             "sha1": "825cf9955f61ce630af817df46798f24a5d3725b"
         },
         {
@@ -1481,10 +1469,6 @@
             "sha1": "e7f2f67dcc7dbc26449e7a7a05127720ec563468"
         },
         {
-            "name": "God of War II (Subset - Bonus)",
-            "sha1": "7936d5d6dc9347165351835944bc1b1e3c9a804f"
-        },
-        {
             "name": "God of War II (USA)",
             "sha1": "b4af2456beac09a5f51eccf32f52a76f11a7e74d"
         },
@@ -1633,10 +1617,6 @@
             "sha1": "172f45fb75c01f8a15a6c2ab19882cc625faf9d9"
         },
         {
-            "name": "Guitar Hero (Subset - Expert Full Combos)",
-            "sha1": "b4b9126ed94ed760fdfdbc2c1a11713123020b56"
-        },
-        {
             "name": "Guitar Hero (USA)",
             "sha1": "41ce4d17542d465dd7139c44874249dce8b289f5"
         },
@@ -1645,11 +1625,11 @@
             "sha1": "021983f58b01f5b24e6308dcaa5bceee21c0ec2a"
         },
         {
-            "name": "Guitar Hero II (Subset - Expert Full Combos) (NTSC)",
+            "name": "Guitar Hero II (Exclusive Subset - Expert Full Combos) (NTSC)",
             "sha1": "cfaed5a791a8475663f717b0516e5bc5771d9bed"
         },
         {
-            "name": "Guitar Hero II (Subset - Expert Full Combos) (PAL)",
+            "name": "Guitar Hero II (Exclusive Subset - Expert Full Combos) (PAL)",
             "sha1": "f7096f8c1a98b5b58b9e75e0c93dd4a650f5f983"
         },
         {
@@ -1663,14 +1643,6 @@
         {
             "name": "Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (RA Hash Fix) (Hack)",
             "sha1": "2ab197d264de581ed07088c1f0a97e9dc20deddf"
-        },
-        {
-            "name": "Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (Subset - Expert Full Combos)",
-            "sha1": "d9fc9170b8fdce262806db94104f23af9436820d"
-        },
-        {
-            "name": "Guitar Hero III - Legends of Rock (Subset - Expert Full Combos)",
-            "sha1": "bc4372afadce84bbc74cb1d516951f9476f4409e"
         },
         {
             "name": "Guitar Hero III - Legends of Rock (USA)",
@@ -2597,16 +2569,8 @@
             "sha1": "a63748a27ec4c146279c0ae58ae575ebcac621ce"
         },
         {
-            "name": "Need for Speed - Hot Pursuit 2 (Europe, Australia) (v2.00) (Subset - Extreme Challenges)",
-            "sha1": "e0b0bb1d80764d7480694ad6774ea6b7724cb794"
-        },
-        {
             "name": "Need for Speed - Hot Pursuit 2 (USA)",
             "sha1": "377a964628024b089233767bb08c69af8e16671e"
-        },
-        {
-            "name": "Need for Speed - Hot Pursuit 2 (USA) (Subset - Extreme Challenges)",
-            "sha1": "fa78cba191c2fc0e170ef4cbace8bc8b709e55a3"
         },
         {
             "name": "Need for Speed - Most Wanted (USA) (Demo)",
@@ -3297,28 +3261,8 @@
             "sha1": "1aa29404bc1538da0d2db976981560f91efe165c"
         },
         {
-            "name": "Shadow Hearts (Europe) (Es) (v0.99) (Old Castle Street) (Subset - First Place Lottery Wins)",
-            "sha1": "fac6e2b504db0023e4d8e66cb55532e5a5310ec6"
-        },
-        {
-            "name": "Shadow Hearts (Europe) (Subset - First Place Lottery Wins)",
-            "sha1": "bdd940edc0b5ae1ffaf46925dbeec838f74207e6"
-        },
-        {
             "name": "Shadow Hearts (USA)",
             "sha1": "728d907b4108ddd21ba5ca43f73c9fe6506835e2"
-        },
-        {
-            "name": "Shadow Hearts (USA) (Subset - First Place Lottery Wins)",
-            "sha1": "d37470ef8f7378d2b8be29966b78c9f23cda7dce"
-        },
-        {
-            "name": "Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 1)",
-            "sha1": "f535956534cfddc920e8eee809bed4c58f24c69f"
-        },
-        {
-            "name": "Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 2)",
-            "sha1": "5f66f811edab52ee1293c0093294328dacc83266"
         },
         {
             "name": "Shadow Hearts - Covenant (USA) (Disc 1)",
@@ -3885,10 +3829,6 @@
             "sha1": "06ceb1a259977c5002684419b3f759c8fcd0f41c"
         },
         {
-            "name": "Tak - The Great Juju Challenge (Subset - Bonus)",
-            "sha1": "0e06d747ab1a8cc9d4ef32d20b35a535fd98c0af"
-        },
-        {
             "name": "Tales of the Abyss (USA)",
             "sha1": "805c3efabbbc4833399588944b34f3fce8d57d23"
         },
@@ -3927,10 +3867,6 @@
         {
             "name": "Tekken 4 (USA)",
             "sha1": "9044ca6e9da87fdbc8e0ae0ccf494b283e962cde"
-        },
-        {
-            "name": "Tekken 5 (Subset - Tekken Lord)",
-            "sha1": "a3e4cd97df53bce66b01456be38abb17c52c6ad0"
         },
         {
             "name": "Tekken 5 (USA)",
@@ -4073,7 +4009,7 @@
             "sha1": "187248a8dc5d58da48ff2f970e560554091b7008"
         },
         {
-            "name": "Tony Hawk's Underground (Subset - Zero Stats)",
+            "name": "Tony Hawk's Underground (Specialty Subset - Zero Stats)",
             "sha1": "0e884503607bc9e95448d65d1e4a02deabaaeff7"
         },
         {
@@ -4341,7 +4277,7 @@
             "sha1": "828d17e3dd9cd8c1392d0198387c64fef087dd32"
         },
         {
-            "name": "Yu-Gi-Oh! Capsule Monster Coliseum (Subset - 1000 Monsters)",
+            "name": "Yu-Gi-Oh! Capsule Monster Coliseum (Specialty Subset - 1000 Monsters)",
             "sha1": "67ee6ebc6508f68bc2ad83d79d1f93225b4567a3"
         },
         {

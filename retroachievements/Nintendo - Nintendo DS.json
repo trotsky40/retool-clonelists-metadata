@@ -1855,12 +1855,6 @@
             "sha1": "59d04e4f2896faa5bb47d5776a76a75b022faedc"
         },
         {
-            "name": "Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack)",
-            "crc": "67e2806f",
-            "md5": "d43e71d72e7381e973aed5336a6ad837",
-            "sha1": "9cd0f22c2a46e10cf8e2ce8b67525d2ac0c1ecf3"
-        },
-        {
             "name": "Lufia - Curse of the Sinistrals (USA)",
             "crc": "cac43a4e",
             "md5": "33c5b4f9580c8a8ab48e15b04c925a6a",
@@ -2623,12 +2617,6 @@
             "sha1": "2aec29f7fbd29580a51325c4026c6e35699afe63"
         },
         {
-            "name": "Phantasy Star 0 (Subset - Item Catalog)",
-            "crc": "775d3792",
-            "md5": "554533a03177da00c8551fa576fc1c1c",
-            "sha1": "b952c6d7c0a85241923d1fd6dcf97ba72ce432cf"
-        },
-        {
             "name": "Phoenix Wright - Ace Attorney (USA)",
             "crc": "be5fb8d8",
             "md5": "6580f4f45f6378a08914a7784f93e7fe",
@@ -2695,7 +2683,7 @@
             "sha1": "26ad0b9967aa279c4a266ee69f52b9b2332399a5"
         },
         {
-            "name": "Pokemon - Black Version 2 (Subset - Monotype Challenge)",
+            "name": "Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge)",
             "crc": "c512ece6",
             "md5": "65d5cd3b4790607fc5809f069598a308",
             "sha1": "6e5865412ce9d00dc1e5144d23e75d528c61e2e5"
@@ -2879,18 +2867,6 @@
             "crc": "95a4fcab",
             "md5": "dde6bf2aa2c489e5b0ab65c740e4bba0",
             "sha1": "c13395f2a35bb9d2f8e867d9f504896398f795cb"
-        },
-        {
-            "name": "Pokemon - Platinum Version (Subset - Professor Oak Challenge)",
-            "crc": "0b4c093c",
-            "md5": "cb45f697fb7c8ac1c2bda640319e78cf",
-            "sha1": "5e0567f954b5f0687ab3ca658a0faaf632281e6a"
-        },
-        {
-            "name": "Pokemon - Platinum Version (Subset - Shiny Pokemon)",
-            "crc": "cc8d3f42",
-            "md5": "3797f893898f905a5dc7b5df9b605b00",
-            "sha1": "01c751890478360b7b891d4d893df31d64ee765d"
         },
         {
             "name": "Pokemon - Platinum Version (USA)",
@@ -3097,12 +3073,6 @@
             "sha1": "41699c35fbf42d3d49d1dc54dae27e5698df0b69"
         },
         {
-            "name": "Pokemon Black Version 2 (Subset - Professor Oak Challenge)",
-            "crc": "2b0574b6",
-            "md5": "020b60582a3b3b2c160a353179c264de",
-            "sha1": "a3a6c5e1e01e3d2a477062bdafa8fd3f0c143960"
-        },
-        {
             "name": "Pokemon Card Game - Asobikata DS (Japan)",
             "crc": "6d276c92",
             "md5": "c10f9e670887be9c5aa602996af28096",
@@ -3173,18 +3143,6 @@
             "crc": "10df0e03",
             "md5": "73d61ccc128dceebbb7ee394fc0d664d",
             "sha1": "18cc346f32989e619b473d5d9de4a414cbf93b38"
-        },
-        {
-            "name": "Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture)",
-            "crc": "a23ce2a8",
-            "md5": "3232886808357db464e1d6c0f742d27b",
-            "sha1": "860231082e27029fbcacccd35e5a56c8c66804ac"
-        },
-        {
-            "name": "Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions)",
-            "crc": "0208aeee",
-            "md5": "cf79a8ceed0215201135f6d4fbc4d579",
-            "sha1": "4bf89553a0767cca3915aa947085e16f0ddff8e9"
         },
         {
             "name": "Pokemon Ranger - Shadows of Almia (Europe) (En,Fr,De,Es,It)",
@@ -4135,12 +4093,6 @@
             "sha1": "971cd2d4200c39276a23a85291763724f5657374"
         },
         {
-            "name": "Suikoden - Tierkreis (Subset - Master Trader)",
-            "crc": "1f86e4ed",
-            "md5": "53950f0306291cf31a79a56ef406337d",
-            "sha1": "24cbfe19e2f00a8a13b85c9c2d751151ba5d08f0"
-        },
-        {
             "name": "Super Collapse! 3 (USA)",
             "crc": "1530b7ea",
             "md5": "aae0972f8a122716e8ec7b6940fffb77",
@@ -4217,12 +4169,6 @@
             "crc": "335dea82",
             "md5": "db86c29cf8613e93e617b9283711f6c5",
             "sha1": "d4880e51a2348e6fec804aa054cc96c50c7f42c2"
-        },
-        {
-            "name": "Tales of Innocence (Subset - Library Completion)",
-            "crc": "ad29b034",
-            "md5": "0361dccf9ca8d0904e901518e0663d65",
-            "sha1": "69c5a987b6b59fc9822205ac7556007e0e9c5222"
         },
         {
             "name": "Tangled (Europe) (En,Fr,De,Es,It,Nl)",

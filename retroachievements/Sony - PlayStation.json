@@ -915,11 +915,11 @@
             "sha1": "b838eed111966f87f4f56b89889303b7d202601e"
         },
         {
-            "name": "Digimon World Vice (Hack) (Subset - Filth Challenge)",
+            "name": "Digimon World Vice (Hack) (Specialty Subset - Filth Challenge)",
             "sha1": "4f29d16e5432e7195014adc90024d600b89b2e5e"
         },
         {
-            "name": "Digimon World Vice (Hack) (Subset - True Hardcore)",
+            "name": "Digimon World Vice (Hack) (Specialty Subset - True Hardcore)",
             "sha1": "191e109be279e0cc9d0fa9db5c027cc8dde3e1c7"
         },
         {
@@ -2149,7 +2149,7 @@
             "sha1": "201ae78de208f6a2540e27c226d6ec41ba205696"
         },
         {
-            "name": "Mega Man X4 (Subset - Bonus)",
+            "name": "Mega Man X4 (Specialty Subset - Bonus)",
             "sha1": "54185da53157c06971239f70b3ce19d2011f1fa3"
         },
         {
@@ -2163,10 +2163,6 @@
         {
             "name": "Mega Man X4 (USA) (Undub) (v1.13)",
             "sha1": "e6db455cdedb59ec88b01c3069400b14fd8f223b"
-        },
-        {
-            "name": "Mega Man X5 (Subset - Bonus)",
-            "sha1": "e3e228b252725e4bb5625e7cf41804232f54c955"
         },
         {
             "name": "Mega Man X5 (USA)",
@@ -2309,10 +2305,6 @@
         {
             "name": "Monster Rancher (USA)",
             "sha1": "126e50de7e392a68704bd610826f5e8881e78b98"
-        },
-        {
-            "name": "Monster Rancher 2 (Subset - 389 Legend Cup Champions)",
-            "sha1": "708b4643652cfef8057d86ad43d4feff051e6295"
         },
         {
             "name": "Monster Rancher 2 (USA)",

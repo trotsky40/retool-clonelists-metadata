@@ -1987,16 +1987,10 @@
             "sha1": "349f26839c75478ffb0472a56e3348c452c48c0f"
         },
         {
-            "name": "Pokemon - Crystal Version (Subset - Professor Oak Challenge)",
+            "name": "Pokemon - Crystal Version (Specialty Subset - Professor Oak Challenge)",
             "crc": "72a02146",
             "md5": "e484a549061c4e5c87a10c5f4e0e53ef",
             "sha1": "47f6ea5ef24bbe3d6117fa0166fc6f7b394db1ba"
-        },
-        {
-            "name": "Pokemon - Crystal Version (Subset - Shiny Pokemon)",
-            "crc": "1c167f7c",
-            "md5": "96c7639ff489ee4a535c89ef2505e05b",
-            "sha1": "c7d690269c505f7671b9010f11a343300eb86fdb"
         },
         {
             "name": "Pokemon - Crystal Version (USA)",
@@ -2015,12 +2009,6 @@
             "crc": "f166f984",
             "md5": "b59b68a73e51cc88fbe03a444ee99cce",
             "sha1": "ff22d850530e1679a044f5f8074a5585ca7934d2"
-        },
-        {
-            "name": "Pokemon - Gold Version (Subset - Professor Oak Challenge)",
-            "crc": "da5f70a7",
-            "md5": "df2cc06a56f1aae7528d86878bf762bb",
-            "sha1": "7689d2ecd80b445c1dfed928f7ee63fa614563bf"
         },
         {
             "name": "Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
