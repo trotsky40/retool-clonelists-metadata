@@ -109,12 +109,6 @@
             "sha1": "4b2334454a3be9c4c16b86b8eb4b0a352c67b780"
         },
         {
-            "name": "Aero Fighters (Japan) (Subset - Multi)",
-            "crc": "6b9ecf82",
-            "md5": "fa98781479353ffa8b6495bba7d264db",
-            "sha1": "11563bbc22c2e1d4c4451914c14ca2324994d4f6"
-        },
-        {
             "name": "Aero Fighters (USA)",
             "crc": "f194d00a",
             "md5": "510b850d22a6f3d67ccbfdd979501943",
@@ -125,12 +119,6 @@
             "crc": "0f8144ba",
             "md5": "6c17982da3e80ab566ad3fbc2112bd1f",
             "sha1": "b19108d8d4c1ccf85515c02ea914e2eb34eca326"
-        },
-        {
-            "name": "Aero Fighters (USA) (Subset - Multi)",
-            "crc": "e75765dd",
-            "md5": "c8d71767ba8f2600412d217267643244",
-            "sha1": "7716925765f4ba8bcfc1041db7c31289448011ac"
         },
         {
             "name": "Aero the Acro-Bat (USA)",
@@ -1769,12 +1757,6 @@
             "crc": "2eb33785",
             "md5": "2ae8161cb714f2dad38f845674553a4b",
             "sha1": "5a5ee7c1e3d36530c3ebf98bdced2c9c3a0313ab"
-        },
-        {
-            "name": "Donkey Kong Country 2 - Diddy's Kong Quest (Subset - Bonus)",
-            "crc": "5637098d",
-            "md5": "e3b96cadbbd2a5b8de98de7ff2a1bd45",
-            "sha1": "28c8873f3b74cd70ca3d5fe0a59effb86d5fb25c"
         },
         {
             "name": "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)",
@@ -4075,7 +4057,7 @@
             "sha1": "792355fb2ce50496b84760e3833662ca1c63cfc5"
         },
         {
-            "name": "Kirby Super Star (Subset - Multi)",
+            "name": "Kirby Super Star (Specialty Subset - Multi)",
             "crc": "f0d6f0ab",
             "md5": "3e54a89b04854bd7593a81fb18000eb5",
             "sha1": "2e39b3db7b664f69b73c77699449fd99357a1499"
@@ -4981,12 +4963,6 @@
             "sha1": "7e59c9457829ed3f0fbd9cd0ceeb3432a4739e98"
         },
         {
-            "name": "Mega Man X (Subset - Bonus)",
-            "crc": "13ce66ae",
-            "md5": "e3518a94d6654fd48afe182bb4ee702d",
-            "sha1": "005284878e1cf8616c969963be3e8cc34bfa3ff6"
-        },
-        {
             "name": "Mega Man X (USA) (Fr)",
             "crc": "887ea4ee",
             "md5": "1d9d56cdf7a1b6654f69063fd7aefe50",
@@ -5099,12 +5075,6 @@
             "crc": "2c612387",
             "md5": "bd8141803dbbfb54de866e0ea613c912",
             "sha1": "4d74d5e478ac0528e6bf538af2f1357f3af55e97"
-        },
-        {
-            "name": "Mega Man X2 (Subset - Bonus)",
-            "crc": "4c53a1b7",
-            "md5": "e53bac43ed9049ed28751477e4cc844d",
-            "sha1": "32f1f910fdee7d6b42802e3b76ffb2012b98d3eb"
         },
         {
             "name": "Mega Man X2 (USA)",
@@ -5231,12 +5201,6 @@
             "crc": "c504ddfd",
             "md5": "e81bedd2fc6b013538cdf4bd22fdeff6",
             "sha1": "69a11324aeb57d005800771d6147603d5479b282"
-        },
-        {
-            "name": "Mega Man X3 (Subset - Bonus)",
-            "crc": "b5bdd296",
-            "md5": "6c3b5ed7a9943c68d07d580cc945a7ea",
-            "sha1": "d6d4a108b704d5ef86f7da75967fa76c49986f21"
         },
         {
             "name": "Mega Man X3 (USA)",
@@ -5873,12 +5837,6 @@
             "crc": "34ff17b3",
             "md5": "5ea62c13fdd3e01e5da6492f299ec6d5",
             "sha1": "a4e68b500c94c6848680fcf3f148b4d4c9588d01"
-        },
-        {
-            "name": "Paladin's Quest (Subset - No Mercenaries)",
-            "crc": "01fdcbd0",
-            "md5": "d866b186f68e9ed4fe493395e7ce05a6",
-            "sha1": "ca8245d7be23fd0c3ac3d204c72b7d0c20309191"
         },
         {
             "name": "Paladin's Quest (USA)",
@@ -8621,12 +8579,6 @@
             "crc": "b069bb3a",
             "md5": "b57303407986c0d28f2d78f931efc59c",
             "sha1": "ab8a31bfb4cf0ce19b96893a31442ffbfd8d0beb"
-        },
-        {
-            "name": "Secret of Mana (Subset - Rare Drops)",
-            "crc": "97db9a8b",
-            "md5": "a8dcdc83a951e522fecc8ee5b0dd28d8",
-            "sha1": "eba9ad17eb13d27e8b911fca12392a1107a373ce"
         },
         {
             "name": "Secret of Mana (USA)",

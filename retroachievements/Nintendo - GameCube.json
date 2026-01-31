@@ -289,12 +289,6 @@
             "sha1": "db4ab733939b4da288bf21d2f51466c531f8fcca"
         },
         {
-            "name": "Dragon Ball Z - Budokai 2 (Subset - World Tournament)",
-            "crc": "d6c090b4",
-            "md5": "e999ae4474fe4fd6fb27da5b86ef3ecc",
-            "sha1": "6fcba2c09314ecc02f22c9433c9e6fbfeb818369"
-        },
-        {
             "name": "Dragon Ball Z - Budokai 2 (USA)",
             "crc": "9ade8186",
             "md5": "832f73fdc8af3ccc01be06dc2a577a1e",
@@ -557,12 +551,6 @@
             "crc": "6d572eb3",
             "md5": "bfbeb70ceb043c310aa128ab23d1008c",
             "sha1": "fbdda4a2d62bc88580c81939d2b5f3f7d7c82971"
-        },
-        {
-            "name": "Legend of Zelda, The - Twilight Princess (Subset - Bonus)",
-            "crc": "e6b9d633",
-            "md5": "39598e5398fabe2e0e9581c3063b4298",
-            "sha1": "cf07576f200bd65176482e27a89bd616cfb5945f"
         },
         {
             "name": "Legend of Zelda, The - Twilight Princess (USA)",
@@ -931,12 +919,6 @@
             "sha1": "a1796e5139ee4fa441dd4aaa8b0cc468287a92c4"
         },
         {
-            "name": "Pikmin 1\u00b2 (Subset - Randomizer Run)",
-            "crc": "7a71e501",
-            "md5": "28ffd250627a8f4505991ef89cc3a723",
-            "sha1": "e342d10b7dd855f69869eebe994d15ffbaeea1af"
-        },
-        {
             "name": "Pikmin 2 (Subset - Bonus)",
             "crc": "5ecf8910",
             "md5": "813d6ca15824fa5ef1df93d0c845b11e",
@@ -1007,12 +989,6 @@
             "crc": "05aaae84",
             "md5": "ba390d35493fa151faf5aa6e170af0e8",
             "sha1": "0dd1f2e6dab45614255eb2eb6eda22a1c6aed428"
-        },
-        {
-            "name": "Pokemon XD - Gale of Darkness (Subset - Eevee)",
-            "crc": "f13a9729",
-            "md5": "6898bdd9921ee82d1f5ec4c45f32a235",
-            "sha1": "c4d92cdd777a1898671c7d24cdfb10ac3369eac8"
         },
         {
             "name": "Radirgy Generic (Japan)",

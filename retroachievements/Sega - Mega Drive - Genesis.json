@@ -2023,12 +2023,6 @@
             "sha1": "32f90806f44a0bd1d65d84ceeb644681b9cee967"
         },
         {
-            "name": "Knuckles the Echidna in Sonic the Hedgehog 2 (World) (Subset - Hold Right To Lose)",
-            "crc": "f1a01f4c",
-            "md5": "acd815533702bf51c8dab00e627aa2ee",
-            "sha1": "43b9111c2f14e3a0baed2e85014d6c9662a62f45"
-        },
-        {
             "name": "Krusty's Super Fun House (USA, Europe) (Rev A)",
             "crc": "56976261",
             "md5": "8bd4d2f51f08380a1ba9ac6cd2070585",
@@ -2857,12 +2851,6 @@
             "sha1": "ab62fac112cb4dd1f19cb973bd7952b161f6d100"
         },
         {
-            "name": "Phantasy Star II (Subset - Rolf Solo Challenge)",
-            "crc": "f9bf5b2d",
-            "md5": "61921a08de0b28e44bf63f4d0b2542f7",
-            "sha1": "5dc4cb63dd464765270cc59f7e2c0ca9c3bc0e3f"
-        },
-        {
             "name": "Phantasy Star II (USA, Europe)",
             "crc": "0d07d0ef",
             "md5": "75ea42b49a65ceb0395480126f426c6a",
@@ -3631,12 +3619,6 @@
             "sha1": "b530bc74a9000a330a056e2fd00d914c834f53d6"
         },
         {
-            "name": "Shadow of the Beast (Subset - Perfect Beast)",
-            "crc": "8e32255b",
-            "md5": "697a578d9d7a7718d90d01788c24f214",
-            "sha1": "fe64e9a3c793f4a221bbdd31c6b2c08b717ce078"
-        },
-        {
             "name": "Shadow of the Beast (USA, Europe)",
             "crc": "bd385c27",
             "md5": "ba07d4050b453d68cb2bd7e28fc8f74c",
@@ -3851,18 +3833,6 @@
             "crc": "33e20cf3",
             "md5": "a061d3b953e7ad4d931e8e830364c376",
             "sha1": "78077aad49796e8f7e96e5a8fc2ad3d3140cfed3"
-        },
-        {
-            "name": "SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Mania) (Hack)",
-            "crc": "cb8d9eb0",
-            "md5": "6fdae2ef521baef067a64189d215d3ad",
-            "sha1": "26381a94a2963fdf63e88ee75b0c539313f89339"
-        },
-        {
-            "name": "SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Multi) (Hack)",
-            "crc": "6d483658",
-            "md5": "abfe41cbe24c8ef31506e7daf0427b92",
-            "sha1": "a2770e1557457817e4fb572b7d1b0d70b6bb91df"
         },
         {
             "name": "SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (v1.01) (savok) (Hack)",
@@ -4241,12 +4211,6 @@
             "crc": "9459fbfb",
             "md5": "224489113ed26aab6b57c95bba244ef7",
             "sha1": "3da63ca02a76e2ee5767eaa4ab453f6bc8c27bd5"
-        },
-        {
-            "name": "Sonic 3 & Knuckles (Subset - Glitch Showcase)",
-            "crc": "5b799368",
-            "md5": "893aadeb9f9084e0eaccd80a05bc8707",
-            "sha1": "aece48564f6665ac659b37195aab2b7397019bd5"
         },
         {
             "name": "Sonic 3 (Europe)",

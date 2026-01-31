@@ -411,16 +411,8 @@
             "sha1": "7517371b540c734b92f1190c8cf3b5a56dff66f1"
         },
         {
-            "name": "Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Subset - NG Nightmare)",
-            "sha1": "d7b4e0f7d5dc804478e5be83d7bc4c43f4ff73c1"
-        },
-        {
             "name": "Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (Geofront Port) (WanderingHeiho)",
             "sha1": "5bdb41ccbc0758f06e7179617fc22e107151bc79"
-        },
-        {
-            "name": "Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (Subset - NG Nightmare)",
-            "sha1": "15860be8b479b65ffa65bdb4801194c2fbc02384"
         },
         {
             "name": "Elder Scrolls Travels, The - Oblivion (USA) (Proto) (2007-02-01)",
@@ -867,10 +859,6 @@
         {
             "name": "Legend of Heroes, The - Trails in the Sky (USA) (PSP) (PSN)",
             "sha1": "a651fb08f5b6d732b4f6ef85627d36a2ebfaeff3"
-        },
-        {
-            "name": "Legend of Heroes, The - Trails in the Sky the 3rd (Subset - NG Nightmare)",
-            "sha1": "c50571a8729d3782c35c400851e5735cbe87dd06"
         },
         {
             "name": "Little Busters - Converted Edition (Japan) (En) (v0.95) (Patr0805)",
@@ -1415,10 +1403,6 @@
         {
             "name": "Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown)",
             "sha1": "0a8961a1e096498b887f55fd331cc23ba9603d86"
-        },
-        {
-            "name": "Tactics Ogre - Let Us Cling Together (Subset - Skill Mastery, Best Weapons)",
-            "sha1": "62abc34687e09346354b1fe7cc66c7462651aa2c"
         },
         {
             "name": "Tactics Ogre - Let Us Cling Together (USA)",
