@@ -2247,20 +2247,6 @@
 			]
 		},
 		{
-			"group": "Eithea (Disc 1)",
-			"titles": [
-				{"searchTerm": "Eithea (Disc 1)"},
-				{"searchTerm": "Eithea (Disc 1) (Deluxe Pack)"}
-			]
-		},
-		{
-			"group": "Eithea (Disc 2)",
-			"titles": [
-				{"searchTerm": "Eithea (Disc 2)"},
-				{"searchTerm": "Eithea (Disc 2) (Deluxe Pack)"}
-			]
-		},
-		{
 			"group": "Elemental Gearbolt",
 			"titles": [
 				{"searchTerm": "Elemental Gearbolt"},
@@ -4784,13 +4770,6 @@
 			]
 		},
 		{
-			"group": "Pachi-Slot Aruze Oukoku 4",
-			"titles": [
-				{"searchTerm": "Pachi-Slot Aruze Oukoku 4"},
-				{"searchTerm": "Pachi-Slot Aruze Oukoku 4 (Deluxe Pack)", "priority": 2}
-			]
-		},
-		{
 			"group": "Pajama Sam - You Are What You Eat from Your Head to Your Feet",
 			"titles": [
 				{"searchTerm": "Pajama Sam - You Are What You Eat from Your Head to Your Feet"},
@@ -4871,17 +4850,15 @@
 		{
 			"group": "Persona 2 - Eternal Punishment",
 			"titles": [
-				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 1) (Deluxe Pack)"},
 				{"searchTerm": "Persona 2 - Eternal Punishment"},
-				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 1)", "priority": 2}
+				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 1)"}
 			]
 		},
 		{
 			"group": "Persona 2 - Eternal Punishment (Bonus Disc)",
 			"titles": [
-				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 2) (Sumaru TV Special Preview Disc) (Deluxe Pack)"},
 				{"searchTerm": "Persona 2 - Eternal Punishment (Bonus Disc)"},
-				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 2) (Sumaru TV Special Preview Disc)", "priority": 2}
+				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 2) (Sumaru TV Special Preview Disc)"}
 			]
 		},
 		{
@@ -7013,20 +6990,6 @@
 			"titles": [
 				{"searchTerm": "Chou Sentou Kyuugi Vanborg"},
 				{"searchTerm": "V-Ball - Beach Volley Heroes"}
-			]
-		},
-		{
-			"group": "Valkyrie Profile (Disc 1) (Deluxe Pack)",
-			"titles": [
-				{"searchTerm": "Valkyrie Profile (Disc 1) (Deluxe Pack)"},
-				{"searchTerm": "Valkyrie Profile (Disc 1)", "priority": 2}
-			]
-		},
-		{
-			"group": "Valkyrie Profile (Disc 2) (Deluxe Pack)",
-			"titles": [
-				{"searchTerm": "Valkyrie Profile (Disc 2) (Deluxe Pack)"},
-				{"searchTerm": "Valkyrie Profile (Disc 2)", "priority": 2}
 			]
 		},
 		{

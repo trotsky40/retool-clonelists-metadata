@@ -3089,8 +3089,7 @@
 			"group": "Growlanser Generations (Disc 1) (Growlanser II - The Sense of Justice)",
 			"titles": [
 				{"searchTerm": "Growlanser Generations (Disc 1) (Growlanser II - The Sense of Justice)"},
-				{"searchTerm": "Growlanser II - The Sense of Justice (Deluxe Pack)"},
-				{"searchTerm": "Growlanser II - The Sense of Justice", "priority": 2}
+				{"searchTerm": "Growlanser II - The Sense of Justice"}
 			]
 		},
 		{
@@ -3099,13 +3098,6 @@
 				{"searchTerm": "Growlanser Generations (Disc 2) (Growlanser III - The Dual Darkness)"},
 				{"searchTerm": "Growlanser III - The Dual Darkness (Moe-Moe Lucky Pack)"},
 				{"searchTerm": "Growlanser III - The Dual Darkness", "priority": 2}
-			]
-		},
-		{
-			"group": "Growlanser IV - Wayfarer of the Time (Deluxe Pack)",
-			"titles": [
-				{"searchTerm": "Growlanser IV - Wayfarer of the Time (Deluxe Pack)"},
-				{"searchTerm": "Growlanser IV - Wayfarer of the Time", "priority": 2}
 			]
 		},
 		{
@@ -4256,13 +4248,7 @@
 				{"searchTerm": "SuperLite 2000 Vol. 6 - Konohana 2 - Todokanai Requiem", "priority": 2}
 			]
 		},
-		{
-			"group": "Kowloon Youma Gakuenki (Deluxe Pack)",
-			"titles": [
-				{"searchTerm": "Kowloon Youma Gakuenki (Deluxe Pack)"},
-				{"searchTerm": "Kowloon Youma Gakuenki", "priority": 2}
-			]
-		},
+
 		{
 			"group": "Kuon",
 			"titles": [
@@ -6745,8 +6731,7 @@
 				{"searchTerm": "Jin Yeosin Jeonsaeng III - Nocturne", "priority": 2},
 				{"searchTerm": "Shin Megami Tensei III - Nocturne Maniax", "priority": 2},
 				{"searchTerm": "Shin Megami Tensei III - Nocturne", "priority": 3},
-				{"searchTerm": "Shin Megami Tensei III - Nocturne (Tsutaya Original Version)", "priority": 3},
-				{"searchTerm": "Shin Megami Tensei III - Nocturne (Deluxe Pack)", "priority": 4}
+				{"searchTerm": "Shin Megami Tensei III - Nocturne (Tsutaya Original Version)", "priority": 3}
 			]
 		},
 		{
@@ -7824,15 +7809,6 @@
 			"titles": [
 				{"searchTerm": "Top Gun - Ace of the Sky"},
 				{"searchTerm": "Top Gun - Combat Zones"}
-			]
-		},
-		{
-			"group": "ToraCap! Daash!!",
-			"titles": [
-				{"searchTerm": "ToraCap! Daash!!"}
-			],
-			"supersets": [
-				{"searchTerm": "ToraCap! Daash!! (Deluxe Pack)"}
 			]
 		},
 		{
