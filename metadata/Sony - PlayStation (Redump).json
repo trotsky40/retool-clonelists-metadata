@@ -4192,6 +4192,10 @@
 	"Catan - Die erste Insel (Germany)": {
 		"languages": ["De"]
 	},
+	"Catherine Catherine - Enfants Terrible - Visual Disc (Japan)": {
+		"languages": ["Ja"],
+		"localName": "カトリーヌ・カトリーヌ　アンファン・テリブル　ＶＩＳＵＡＬ ＤＩＳＣ"
+	},
 	"Cellophanes (Japan)": {
 		"languages": ["Ja"],
 		"localName": "セロファーンズ"
@@ -7209,7 +7213,7 @@
 	},
 	"Digital Glider Airman (Japan)": {
 		"languages": ["Ja"],
-		"localName": "デジタルグライダー　エアマン"
+		"localName": "デジタルグライダー エアマン"
 	},
 	"Dino Crisis (Europe)": {
 		"languages": ["En"]
@@ -14916,6 +14920,10 @@
 		"languages": ["Ja"],
 		"localName": "頭文字Ｄ"
 	},
+	"Initial D (Japan) (Taikenban)": {
+		"languages": ["Ja"],
+		"localName": "頭文字Ｄ"
+	},
 	"Inspector Gadget - Gadget's Crazy Maze (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -15488,6 +15496,10 @@
 		"localName": "実況ゴルフマスター２０００"
 	},
 	"Jikkyou Golf Master 2000 (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "実況ゴルフマスター２０００"
+	},
+	"Jikkyou Golf Master 2000 (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "実況ゴルフマスター２０００"
 	},
@@ -16406,6 +16418,10 @@
 		"languages": ["Ja"],
 		"localName": "キッズステーション　ハローキティのおしゃべりＡＢＣ"
 	},
+	"Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set)": {
+		"languages": ["Ja"],
+		"localName": "キッズステーション　ハローキティのおしゃべりＡＢＣ"
+	},
 	"Kids Station - Hello Kitty no Oshaberi Town (Japan)": {
 		"languages": ["Ja"],
 		"localName": "キッズステーション　ハローキティのおしゃべりタウン"
@@ -16447,6 +16463,10 @@
 		"localName": "キッズステーション　仮面ライダーヒーローズ"
 	},
 	"Kids Station - Kikansha Thomas to Nakama-tachi (Japan)": {
+		"languages": ["Ja"],
+		"localName": "キッズステーション　きかんしゃトーマスとなかまたち"
+	},
+	"Kids Station - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set)": {
 		"languages": ["Ja"],
 		"localName": "キッズステーション　きかんしゃトーマスとなかまたち"
 	},
@@ -22273,6 +22293,10 @@
 		"languages": ["Ja"],
 		"localName": "忍空"
 	},
+	"Ninpuu Sentai Hurricanger & Kamen Rider Ryuuki (Japan) (2-dai Hero Special Disc Taikenban)": {
+		"languages": ["Ja"],
+		"localName": "忍風戦隊ハリケンジャー　＆　仮面ライダー龍騎"
+	},
 	"Ninpuu Sentai Hurricanger (Japan)": {
 		"languages": ["Ja"],
 		"localName": "忍風戦隊ハリケンジャー"
@@ -25908,6 +25932,9 @@
 		"languages": ["Fr"]
 	},
 	"R-C Stunt Copter (Germany)": {
+		"languages": ["De"]
+	},
+	"R-C Stunt Copter (Germany) (Demo)": {
 		"languages": ["De"]
 	},
 	"R-C Stunt Copter (Japan)": {
@@ -34434,7 +34461,7 @@
 	},
 	"True Love Story - Remember My Heart (Japan)": {
 		"languages": ["Ja"],
-		"localName": "トゥルー・ラブストーリー　～Ｒｅｍｅｍｂｅｒ　Ｍｙ　Ｈｅａｒｔ～"
+		"localName": "トゥルー・ラブストーリー　～Ｒｅｍｅｍｂｅｒ Ｍｙ Ｈｅａｒｔ～"
 	},
 	"True Love Story 2 (Japan) (Disc 1)": {
 		"languages": ["Ja"],

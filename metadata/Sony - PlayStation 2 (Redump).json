@@ -17524,19 +17524,19 @@
 	},
 	"Kyou kara Maou! Hajimari no Tabi (Japan)": {
 		"languages": ["Ja"],
-		"localName": "今日からマ王！　はじマりの旅"
+		"localName": "今日から㋮王！　はじ㋮りの旅"
 	},
 	"Kyou kara Maou! Hajimari no Tabi (Japan) (Premium Box)": {
 		"languages": ["Ja"],
-		"localName": "今日からマ王！　はじマりの旅"
+		"localName": "今日から㋮王！　はじ㋮りの旅"
 	},
 	"Kyou kara Maou! Shin Makoku no Kyuujitsu (Japan)": {
 		"languages": ["Ja"],
-		"localName": "今日からマ王！　眞マ国の休日"
+		"localName": "今日から㋮王！　眞㋮国の休日"
 	},
 	"Kyou kara Maou! Shin Makoku no Kyuujitsu (Japan) (Limited Box)": {
 		"languages": ["Ja"],
-		"localName": "今日からマ王！　眞マ国の休日"
+		"localName": "今日から㋮王！　眞㋮国の休日"
 	},
 	"Kyoufu Shinbun Heisei-ban - Kaiki! Shinrei File (Japan)": {
 		"languages": ["Ja"],
@@ -18414,7 +18414,7 @@
 	"MTV Pimp My Ride - Street Racing (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"MTV Pimp My Ride - Street Racing (USA)": {
+	"MTV Pimp My Ride - Street Racing (USA, Canada)": {
 		"languages": []
 	},
 	"MTX Mototrax (Europe)": {
@@ -22058,10 +22058,10 @@
 	"Need for Speed - Carbon (Russia)": {
 		"languages": ["Ru"]
 	},
-	"Need for Speed - Carbon (USA)": {
+	"Need for Speed - Carbon (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Carbon (USA) (Demo)": {
+	"Need for Speed - Carbon (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Carbon - Collector's Edition (Asia)": {
@@ -22123,7 +22123,7 @@
 	"Need for Speed - Most Wanted (USA) (v1.01)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Most Wanted (USA) (v2.00)": {
+	"Need for Speed - Most Wanted (USA, Canada) (v2.00)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Most Wanted - Black Edition (Europe, Australia) (En,Fr,De)": {
@@ -22184,7 +22184,7 @@
 	"Need for Speed - Undercover (Scandinavia) (En,Sv,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Sv"]
 	},
-	"Need for Speed - Undercover (USA) (En,Fr,Es)": {
+	"Need for Speed - Undercover (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Need for Speed - Underground (Asia) (Demo)": {
@@ -22208,10 +22208,10 @@
 	"Need for Speed - Underground (Korea) (Cheheompan)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Underground (USA)": {
+	"Need for Speed - Underground (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Underground (USA) (Demo)": {
+	"Need for Speed - Underground (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Underground 2 (Asia)": {
@@ -22239,10 +22239,10 @@
 		"languages": ["En", "Ko"],
 		"localName": "니드 포 스피드 - 언더그라운드 2"
 	},
-	"Need for Speed - Underground 2 (USA)": {
+	"Need for Speed - Underground 2 (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Underground 2 (USA) (Demo)": {
+	"Need for Speed - Underground 2 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Underground 2 - SHA_DO (Japan)": {
@@ -25377,7 +25377,7 @@
 	"Pinball Hall of Fame - The Gottlieb Collection (USA)": {
 		"languages": ["En"]
 	},
-	"Pinball Hall of Fame - The Williams Collection (USA)": {
+	"Pinball Hall of Fame - The Williams Collection (USA, Canada)": {
 		"languages": []
 	},
 	"Pink Pong (Europe)": {
@@ -31387,7 +31387,7 @@
 	"Sims 2, The - Castaway (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El)": {
 		"languages": ["Da", "De", "El", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Sv"]
 	},
-	"Sims 2, The - Castaway (USA)": {
+	"Sims 2, The - Castaway (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v1.00)": {
@@ -33580,7 +33580,7 @@
 		"languages": ["Ja"],
 		"localName": "スタントマン★イグニッション"
 	},
-	"Stuntman - Ignition (USA)": {
+	"Stuntman - Ignition (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Sub Rebellion (Europe)": {
@@ -34594,6 +34594,10 @@
 	"Taito Legends (Germany)": {
 		"languages": ["De"]
 	},
+	"Taito Legends (Korea)": {
+		"languages": ["En"],
+		"localName": "타이토 레전드"
+	},
 	"Taito Legends (USA)": {
 		"languages": ["En"]
 	},
@@ -35014,7 +35018,7 @@
 	"Tekken's Nina Williams in - Death by Degrees (Europe, Australia) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Tekkouki Mikazuki (Japan) (Taikenban)": {
+	"Tekkouki Mikazuki (Japan) (Trial Edition)": {
 		"languages": ["Ja"],
 		"localName": "鉄甲機ミカヅキ"
 	},
@@ -35852,10 +35856,10 @@
 	"Tokyo Xtreme Racer (Europe)": {
 		"languages": ["En"]
 	},
-	"Tokyo Xtreme Racer - Drift (USA)": {
+	"Tokyo Xtreme Racer - Drift (USA) (Beta) (2006-01-13)": {
 		"languages": ["En"]
 	},
-	"Tokyo Xtreme Racer - Drift (USA) (Beta) (2006-01-13)": {
+	"Tokyo Xtreme Racer - Drift (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Tokyo Xtreme Racer - Drift 2 (USA)": {
@@ -35864,7 +35868,7 @@
 	"Tokyo Xtreme Racer - Zero (USA)": {
 		"languages": ["En"]
 	},
-	"Tokyo Xtreme Racer 3 (USA)": {
+	"Tokyo Xtreme Racer 3 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Tom Clancy's Ghost Recon (Europe) (Demo)": {
@@ -36309,7 +36313,7 @@
 	"Tour de France, Le - 1903-2003 - Centenary Edition (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tourist Trophy (USA)": {
+	"Tourist Trophy (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Tourist Trophy - The Real Riding Simulator (Asia)": {
@@ -36653,7 +36657,7 @@
 	"Twisted Metal - Black Online (USA) (Beta)": {
 		"languages": []
 	},
-	"Twisted Metal - Head-On - Extra Twisted Edition (USA)": {
+	"Twisted Metal - Head-On - Extra Twisted Edition (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)": {
@@ -37036,6 +37040,10 @@
 		"languages": ["En"]
 	},
 	"Uo - 7-tsu no Mizu to Densetsu no Nushi (Japan)": {
+		"languages": ["Ja"],
+		"localName": "うお　７つの水と伝説のヌシ"
+	},
+	"Uo - 7-tsu no Mizu to Densetsu no Nushi (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "うお　７つの水と伝説のヌシ"
 	},
@@ -39417,15 +39425,15 @@
 	},
 	"Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan)": {
 		"languages": ["Ja"],
-		"localName": "絶体絶命都市２　－凍てついた記憶たち－"
+		"localName": "絶体絶命都市２ ー凍てついた記憶たちー"
 	},
 	"Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-A)": {
 		"languages": ["Ja"],
-		"localName": "絶体絶命都市２　－凍てついた記憶たち－"
+		"localName": "絶体絶命都市２ ー凍てついた記憶たちー"
 	},
 	"Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-B)": {
 		"languages": ["Ja"],
-		"localName": "絶体絶命都市２　－凍てついた記憶たち－"
+		"localName": "絶体絶命都市２ ー凍てついた記憶たちー"
 	},
 	"Zhen Sanguo Wushuang 2 (China)": {
 		"languages": ["Zh"],

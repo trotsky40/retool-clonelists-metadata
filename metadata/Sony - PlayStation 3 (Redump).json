@@ -8972,7 +8972,7 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Need for Speed - Undercover (Asia)": {
-		"languages": [],
+		"languages": ["Zh"],
 		"localName": "極速快感 臥底風雲"
 	},
 	"Need for Speed - Undercover (Europe)": {
@@ -10583,7 +10583,7 @@
 	"Ridge Racer 7 (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It)": {
+	"Ridge Racer Unbounded (Europe, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Ridge Racer Unbounded (USA) (En,Fr,Es)": {
@@ -10748,8 +10748,8 @@
 	"Rugby 15 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Rugby Challenge (Australia, New Zealand) (v01.01)": {
-		"languages": ["En"]
+	"Rugby Challenge (Australia, New Zealand) (En,Fr,Es,It) (v01.01)": {
+		"languages": ["En", "Es", "Fr", "It"]
 	},
 	"Rugby Challenge (Europe) (En,Fr,Es,It) (v02.00)": {
 		"languages": ["En", "Es", "Fr", "It"]

@@ -2599,6 +2599,9 @@
 	"Magic & Mayhem - The Art of Magic (Europe) (Art Assets)": {
 		"languages": []
 	},
+	"Mah Jong Quest (USA)": {
+		"languages": ["En"]
+	},
 	"Manhole, The (USA)": {
 		"languages": ["En"]
 	},
@@ -3353,6 +3356,9 @@
 	},
 	"Secret du Templier, Le (France) (Covermount)": {
 		"languages": ["Fr"]
+	},
+	"SegaSaturn - Graphic & Sound Tools for Macintosh (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Sesame Street - Let's Make a Word! (USA)": {
 		"languages": ["En"]

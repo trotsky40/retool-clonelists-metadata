@@ -953,6 +953,10 @@
 	"Free Software Collection 5 (Japan) (Rev B)": {
 		"languages": ["Ja"]
 	},
+	"Free Software Collection 5 (Japan) (Rev B) (Alt)": {
+		"languages": [],
+		"localName": "フリーソフトウェアコレクション５"
+	},
 	"Free Software Collection 6 (Japan)": {
 		"languages": ["Ja"]
 	},

@@ -4813,6 +4813,9 @@
 	"Planet of the Apes (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Planet of the Apes (USA) (En,Fr,De,Es,It,Nl) (Beta)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
 	"Planet of the Apes (USA) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -5462,6 +5465,9 @@
 		"languages": ["nolang"]
 	},
 	"Rayman 2 (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Rayman 2 Forever (Europe) (En,Fr,De,Es,It) (Beta)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Rayman 2 Forever (Europe) (En,Fr,De,Es,It)": {

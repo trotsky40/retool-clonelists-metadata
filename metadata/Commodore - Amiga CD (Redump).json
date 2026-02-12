@@ -1570,8 +1570,8 @@
 	"Oldtimer (Germany)": {
 		"languages": ["De"]
 	},
-	"OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr)": {
-		"languages": ["Da", "De", "En", "Fi", "Fr", "Hr", "It", "Nl", "Pt", "Sk", "Sv", "Tr"]
+	"OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr,Sr)": {
+		"languages": ["Da", "De", "En", "Fi", "Fr", "Hr", "It", "Nl", "Pt", "Sk", "Sr", "Sv", "Tr"]
 	},
 	"Pandora's CD (Europe)": {
 		"languages": ["En"]

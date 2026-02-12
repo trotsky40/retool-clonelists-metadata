@@ -576,7 +576,7 @@
 	"B-Boy (USA)": {
 		"languages": []
 	},
-	"Baito Hell 2000 (Asia)": {
+	"Baito Hell 2000 (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "バイトヘル２０００"
 	},
@@ -821,6 +821,10 @@
 	"Blitz - Overtime (USA)": {
 		"languages": ["En"]
 	},
+	"Blokus Club Portable with Bumpy Trot (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ブロックス倶楽部ポータブル　ｗｉｔｈ　バンピートロット"
+	},
 	"Blokus Club Portable with Bumpy Trot (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "ブロックス倶楽部ポータブル ｗｉｔｈ バンピートロット"
@@ -857,9 +861,17 @@
 		"languages": ["Ja"],
 		"localName": "ぼくのなつやすみポータブル２　ナゾナゾ姉妹と沈没船の秘密"
 	},
-	"Boku no Watashi no Katamari Damacy (Japan)": {
+	"Boku no Watashi no Katamari Damacy (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "僕の私の塊魂"
+	},
+	"Boku wa Koukuu Kanseikan - Airport Hero Haneda (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ぼくは航空管制官　エアポートヒーロー　羽田"
+	},
+	"Boku wa Koukuu Kanseikan - Airport Hero Kankuu (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ぼくは航空管制官　エアポートヒーロー　関空"
 	},
 	"Boku wa Koukuu Kanseikan - Airport Hero Naha (Japan)": {
 		"languages": ["Ja"],
@@ -4338,7 +4350,7 @@
 		"languages": ["Ja"],
 		"localName": "初音ミク　－Ｐｒｏｊｅｃｔ　ＤＩＶＡ－　２ｎｄ"
 	},
-	"Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban)": {
+	"Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)": {
 		"languages": ["Ja"],
 		"localName": "初音ミク　－Ｐｒｏｊｅｃｔ　ＤＩＶＡ－　２ｎｄ　＃"
 	},
@@ -5389,6 +5401,10 @@
 	"Kingdom of Paradise (USA) (Beta) (2005-10-10)": {
 		"languages": ["En"]
 	},
+	"Kinnikuman - Muscle Generations (Japan)": {
+		"languages": ["Ja"],
+		"localName": "キン肉マン　マッスルジェネレーションズ"
+	},
 	"Kirameki School Life SP - The Wonder Years (Japan)": {
 		"languages": ["Ja"],
 		"localName": "きらめきスクールライフＳＰ"
@@ -6169,7 +6185,7 @@
 	},
 	"Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan)": {
 		"languages": ["Ja"],
-		"localName": "マル合格資格奪取！　ケアマネジャー試験　ポータブル"
+		"localName": "マル合格資格奪取！　ケアマネジャー試験　ＰＯＲＴＡＢＬＥ"
 	},
 	"Maru Goukaku Shikaku Dasshu! Chuushou Kigyou Shindanshi Shiken 2 Portable (Japan)": {
 		"languages": ["Ja"],
@@ -6186,6 +6202,10 @@
 	"Maru Goukaku Shikaku Dasshu! Ouyou Jouhou Gijutsusha Shiken Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "マル合格資格奪取！　応用情報技術者試験　ポータブル"
+	},
+	"Maru Goukaku Shikaku Dasshu! Sharoushi Shiken Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "マル合格資格奪取！　社労士試験　ＰＯＲＴＡＢＬＥ"
 	},
 	"Maru Goukaku Shikaku Dasshu! Shouken Gaimuin Shiken Portable (Japan)": {
 		"languages": ["Ja"],
@@ -6655,7 +6675,7 @@
 		"languages": ["Ja"],
 		"localName": "みんなの指圧　痛みも疲れもスッキリ～！"
 	},
-	"Minna no Tennis Portable (Japan)": {
+	"Minna no Tennis Portable (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "みんなのテニス　ポータブル"
 	},
@@ -6670,6 +6690,10 @@
 	"Misshitsu no Sacrifice (Japan)": {
 		"languages": ["Ja"],
 		"localName": "密室のサクリファイス"
+	},
+	"Missing Parts the Tantei Stories Complete (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＭＩＳＳＩＮＧＰＡＲＴＳ　ｔｈｅ　ＴＡＮＴＥＩ　ｓｔｏｒｉｅｓ　Ｃｏｍｐｌｅｔｅ"
 	},
 	"Mite Kiite Nou de Kanjite Crossword Tengoku (Japan)": {
 		"languages": ["Ja"],
@@ -8205,6 +8229,10 @@
 	"Pocket Racers (USA)": {
 		"languages": ["En"]
 	},
+	"Ponkotsu Roman Daikatsugeki Bumpy Trot - Vehicle Battle Tournament (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ポンコツ浪漫大活劇バンピートロット　ビークルバトルトーナメント"
+	},
 	"Pop'n Music Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ポップンミュージック　ポータブル"
@@ -9625,6 +9653,10 @@
 	"Sims 2, The - Castaway (USA) (En,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
 	},
+	"Sims 2, The - Dr. Dominic no Inbou (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ザ・シムズ２　Ｄｒ．ドミニクの陰謀"
+	},
 	"Sims 2, The - Pet Wan Nyan Life (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ザ・シムズ２　ペット　ワンニャンライフ"
@@ -9746,6 +9778,10 @@
 	"Sorayume Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ソラユメ　ｐｏｒｔａｂｌｅ"
+	},
+	"Soreyuke! Burunyanman Portable - Torimodose! Ai to Seigi to Kibou no Tsunyakan (Japan)": {
+		"languages": ["Ja"],
+		"localName": "それゆけ！ぶるにゃんマン　Ｐｏｒｔａｂｌｅ　～とりもどせ！あいとせいぎときぼうのつにゃ缶～"
 	},
 	"Soukoku no Kusabi - Hiiro no Kakera 3 - Ashita e no Tobira (Japan)": {
 		"languages": ["Ja"],

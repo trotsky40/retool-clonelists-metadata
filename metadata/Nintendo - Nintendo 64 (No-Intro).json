@@ -498,6 +498,9 @@
 	"Charlie Blast's Territory (Europe)": {
 		"languages": ["En"]
 	},
+	"Charlie Blast's Territory (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"Charlie Blast's Territory (USA)": {
 		"languages": ["En"]
 	},
@@ -2161,6 +2164,9 @@
 		"languages": ["Ja"],
 		"localName": "ニンテンドウオールスター！　大乱闘スマッシュブラザーズ"
 	},
+	"Nuclear Strike 64 (Europe) (Beta)": {
+		"languages": ["En"]
+	},
 	"Nuclear Strike 64 (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
@@ -2767,7 +2773,10 @@
 	"Shadowgate 64 - Trials of the Four Towers (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta)": {
+	"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1)": {
+		"languages": ["En", "Es"]
+	},
+	"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2)": {
 		"languages": ["En", "Es"]
 	},
 	"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)": {

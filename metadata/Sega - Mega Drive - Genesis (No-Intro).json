@@ -155,8 +155,9 @@
 	"[BIOS] Sega Mega Drive - Genesis - Boot ROM (World)": {
 		"languages": ["En"]
 	},
-	"[BIOS] Sega Teradrive - TMSS (Japan) (En)": {
-		"languages": ["En"]
+	"[BIOS] Sega Teradrive - Boot ROM (Japan) (En)": {
+		"languages": ["En"],
+		"localName": "ＴＭＳＳ"
 	},
 	"[BIOS] WonderMega (Japan) (En)": {
 		"languages": ["En"],
@@ -379,6 +380,9 @@
 		"languages": ["Ja"],
 		"localName": "エアーマネジメントＩＩ　航空王をめざせ"
 	},
+	"Akal (World) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Akira (USA) (Proto)": {
 		"languages": ["En"]
 	},
@@ -445,7 +449,7 @@
 	"Alice Sisters (World) (En,Ja) (Aftermarket) (Unl)": {
 		"languages": ["En", "Ja"]
 	},
-	"Alice Sisters (World) (En,Ja) (Digital) (Itch.io) (Aftermarket) (Unl)": {
+	"Alice Sisters (World) (En,Ja) (Itch.io) (Aftermarket) (Unl)": {
 		"languages": ["En", "Ja"]
 	},
 	"Alien 3 (China) (En) (Pirate)": {
@@ -460,16 +464,13 @@
 	"Alien Cat 2 (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Alien Cat 2 (World) (Digital) (Aftermarket) (Unl)": {
+	"Alien Cat 2 (World) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Alien Cat 2 (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Alien Cat 2 (World) (v1.1) (Digital) (Aftermarket) (Unl) (Alt)": {
-		"languages": ["En"]
-	},
-	"Alien Cat 2 (World) (v1.1) (Digital) (Aftermarket) (Unl)": {
+	"Alien Cat 2 (World) (v1.2) (itch.io) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Alien Soldier (Europe)": {
@@ -588,10 +589,10 @@
 	"Arcade Classics (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Arcade Legends Sega Mega Drive (World)": {
+	"Arcade Legends Sega Mega Drive (World) (Radica)": {
 		"languages": ["En"]
 	},
-	"Arcade Legends Street Fighter II' - Special Champion Edition (World)": {
+	"Arcade Legends Street Fighter II' - Special Champion Edition (World) (Radica)": {
 		"languages": ["En"]
 	},
 	"Arch Rivals - The Arcade Game (USA, Europe)": {
@@ -697,10 +698,10 @@
 	"Astebros (World) (En,Ja,Fr,De,Es,It,Pt-BR,Zh) (Demo 4) (Aftermarket) (Unl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt-BR", "Zh"]
 	},
-	"Astebros (World) (En,Ja,Fr,De,Es,It,Pt-BR,Zh) (Digital) (Evercade) (Aftermarket) (Unl)": {
+	"Astebros (World) (En,Ja,Fr,De,Es,It,Pt-BR,Zh) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt-BR", "Zh"]
 	},
-	"Astebros (World) (En,Ja,Fr,De,Es,It,Pt-BR,Zh) (Digital) (neofid-studios.com) (Aftermarket) (Unl)": {
+	"Astebros (World) (En,Ja,Fr,De,Es,It,Pt-BR,Zh) (neofid-studios.com) (Aftermarket) (Unl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt-BR", "Zh"]
 	},
 	"Astebros (World) (En,Ja,Fr,De,Es,It,Pt-BR,Zh) (PixelHeart) (Aftermarket) (Unl)": {
@@ -872,7 +873,7 @@
 	"Ballz 3D - The Battle of the Ballz (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Bao Long Tu - Violent Dragon Rabbit (World) (v0.2.25) (Proto) (Aftermarket) (Unl)": {
+	"Bao Long Tu - Violent Dragon Rabbit (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Baoxiao Sanguo (Taiwan) (Unl) (Alt)": {
@@ -967,13 +968,13 @@
 	"Batman Returns (World)": {
 		"languages": ["En"]
 	},
-	"Batman Returns MD (World) (Demo) (Aftermarket) (Unl)": {
+	"Batman Returns MD (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Batman Returns MD (World) (v1.1) (Demo) (Aftermarket) (Unl)": {
+	"Batman Returns MD (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Batman Returns MD (World) (v1.2) (Aftermarket) (Unl)": {
+	"Batman Returns MD (World) (Demo 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Battle City (World) (Proto) (Aftermarket) (Pirate)": {
@@ -1195,16 +1196,16 @@
 		"languages": ["Ja"],
 		"localName": "美少女戦士セーラームーン"
 	},
-	"Black Baron (World) (v4) (Proto) (Aftermarket) (Unl)": {
+	"Black Baron (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Black Jewel Reborn (World) (v0.2) (Demo) (Aftermarket) (Unl)": {
+	"Black Jewel Reborn (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Black Jewel Reborn (World) (v2.1) (Demo) (Aftermarket) (Unl)": {
+	"Black Jewel Reborn (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Black Jewel Reborn (World) (v2.11) (Demo) (Aftermarket) (Unl)": {
+	"Black Jewel Reborn (World) (Demo 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Blades of Vengeance (USA, Europe)": {
@@ -1262,7 +1263,7 @@
 	"Body Count (USA) (Sega Channel)": {
 		"languages": ["En"]
 	},
-	"Bomb Jack (World) (v0.29) (Demo) (Aftermarket) (Unl)": {
+	"Bomb Jack (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Bomb on Basic City (World) (En) (Demo) (Aftermarket) (Unl)": {
@@ -1294,10 +1295,10 @@
 	"Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)": {
 		"languages": ["En"]
 	},
-	"Bone Marrow (World) (En,Ru) (Demo) (Aftermarket) (Unl) (Alt)": {
+	"Bone Marrow (World) (En,Ru) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En", "Ru"]
 	},
-	"Bone Marrow (World) (En,Ru) (Demo) (Aftermarket) (Unl)": {
+	"Bone Marrow (World) (En,Ru) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En", "Ru"]
 	},
 	"Bone Marrow Rebirth (World) (En,Ru) (Demo) (Aftermarket) (Unl)": {
@@ -1349,7 +1350,7 @@
 	"Brave Battle Saga - Legend of the Magic Warrior (USA, Europe) (Unl)": {
 		"languages": ["En"]
 	},
-	"Brazooka's - Herois Nacionais (World) (Pt) (v0.1) (Demo) (Aftermarket) (Unl)": {
+	"Brazooka's - Herois Nacionais (World) (Pt) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["Pt"]
 	},
 	"Breach (USA) (Proto)": {
@@ -1959,16 +1960,13 @@
 	"Coach K College Basketball (USA)": {
 		"languages": ["En"]
 	},
-	"Coffee Crisis (World) (Aftermarket) (Unl) (Alt)": {
-		"languages": ["En"]
-	},
 	"Coffee Crisis (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Coffee Crisis (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Coffee Crisis (World) (Evercade) (Aftermarket) (Unl)": {
+	"Coffee Crisis (World) (Steam) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"College Football USA 96 (USA) (Beta)": {
@@ -2319,26 +2317,26 @@
 	"Curse of Illmoore Bay, The (World) (Steam) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Cursed Knight, The (World) (Demo) (Aftermarket) (Unl)": {
+	"Cursed Knight, The (World) (Demo 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cursed Knight, The (World) (Demo 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cursed Knight, The (World) (Demo 3) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cursed Knight, The (World) (Demo 5) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Cursed Knight, The (World) (En,Fr) (Aftermarket) (Unl)": {
 		"languages": ["En", "Fr"]
 	},
-	"Cursed Knight, The (World) (En,Fr) (Beta) (Aftermarket) (Unl)": {
+	"Cursed Knight, The (World) (En,Fr) (Demo 4) (Aftermarket) (Unl)": {
 		"languages": ["En", "Fr"]
 	},
-	"Cursed Knight, The (World) (En,Fr) (v2.1) (Demo) (Aftermarket) (Unl)": {
+	"Cursed Knight, The (World) (En,Fr) (Demo 6) (Aftermarket) (Unl)": {
 		"languages": ["En", "Fr"]
-	},
-	"Cursed Knight, The (World) (v1.1) (Demo) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"Cursed Knight, The (World) (v2.0) (Demo) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"Cursed Knight, The (World) (v3.0) (Demo) (Aftermarket) (Unl)": {
-		"languages": ["En"]
 	},
 	"Cursed Legacy, The (World) (En,Fr) (Aftermarket) (Unl)": {
 		"languages": ["En", "Fr"]
@@ -2556,10 +2554,7 @@
 	"Debtor (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Debtor (World) (Evercade) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"Debtor (World) (itch.io) (Aftermarket) (Unl)": {
+	"Debtor (World) (v1.1) (itch.io) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"DEcapAttack (USA, Europe, Korea) (En)": {
@@ -2702,28 +2697,22 @@
 	"Devilish - The Next Possession (USA)": {
 		"languages": ["En"]
 	},
-	"Devwill Too MD (World) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
 	"Devwill Too MD (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Devwill Too MD (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Devwill Too MD (World) (Digital) (Evercade) (Aftermarket) (Unl)": {
+	"Devwill Too MD (World) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Devwill Too MD (World) (Digital) (Itch.io) (Aftermarket) (Unl)": {
+	"Devwill Too MD (World) (Itch.io) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Devwill Too MD (World) (Pt-BR) (Aftermarket) (Unl)": {
+	"Devwill Too MD (World) (Pt-BR) (Itch.io) (Aftermarket) (Unl)": {
 		"languages": ["Pt-BR"]
 	},
-	"Devwill Too MD (World) (Pt-BR) (Digital) (Itch.io) (Aftermarket) (Unl)": {
-		"languages": ["Pt-BR"]
-	},
-	"Devwill Too MD (World) (v1.1) (Digital) (Evercade) (Aftermarket) (Unl)": {
+	"Devwill Too MD (World) (v1.1) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Devwill Too Prologue (World) (En,Pt) (Aftermarket) (Unl)": {
@@ -2759,7 +2748,7 @@
 	"Dino Dini's Soccer (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Dino Fighters (World) (v0.1) (Demo) (Aftermarket) (Unl)": {
+	"Dino Fighters (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Dino Land (China) (En) (Pirate)": {
@@ -2780,14 +2769,14 @@
 	"Disney Collection, The - QuackShot Starring Donald Duck + Castle of Illusion Starring Mickey Mouse (Europe)": {
 		"languages": ["En"]
 	},
-	"Dithered Nightmare Fuel (World) (v0.0.6) (Demo) (Aftermarket) (Unl)": {
+	"Dithered Nightmare Fuel (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Divine Sealing (Japan) (Unl)": {
 		"languages": ["Ja"],
 		"localName": "ディヴァインシーリング"
 	},
-	"Diz-Insectoid (World) (v0.1) (Demo) (Aftermarket) (Unl)": {
+	"Diz-Insectoid (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"DJ Boy (Europe)": {
@@ -2871,10 +2860,10 @@
 	"Double Dribble - The Playoff Edition (USA)": {
 		"languages": ["En"]
 	},
-	"Double Symbol (World) (v1.34) (Digital) (Aftermarket) (Unl)": {
+	"Double Symbol (World) (v1.34) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Double Symbol (World) (v1.35) (Digital) (Aftermarket) (Unl)": {
+	"Double Symbol (World) (v1.35) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Doukutsu Monogatari (World) (Ja) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl)": {
@@ -3066,6 +3055,18 @@
 	"Earth Defense (USA, Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
+	"Earthion (World) (Demo 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Earthion (World) (Demo 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Earthion (World) (Demo 3) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Earthion (World) (Demo 4) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Earthion (World) (En) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -3190,7 +3191,7 @@
 	"El.Viento (World) (Retro-Bit)": {
 		"languages": ["En"]
 	},
-	"Eldritch Monarch, The (World) (v0.41) (Proto) (Aftermarket) (Unl)": {
+	"Eldritch Monarch, The (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Elemental Master (Japan)": {
@@ -3373,7 +3374,7 @@
 	"Exodus - Journey to the Promised Land (USA) (Unl)": {
 		"languages": ["En"]
 	},
-	"Extase (World) (v0.01) (Demo) (Aftermarket) (Unl)": {
+	"Extase (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Eyra - The Crow Maiden (World) (Demo) (Aftermarket) (Unl)": {
@@ -3485,10 +3486,10 @@
 	"Fatal Fury (USA)": {
 		"languages": ["En"]
 	},
-	"Fatal Fury One (World) (v1.1.3) (Demo) (Aftermarket) (Unl)": {
+	"Fatal Fury One (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Fatal Fury One (World) (v1.5) (Aftermarket) (Unl)": {
+	"Fatal Fury One (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Fatal Labyrinth (USA, Europe) (En,Ja)": {
@@ -3652,6 +3653,9 @@
 	"Fire Shark (World) (Retro-Bit)": {
 		"languages": ["En"]
 	},
+	"Firebrawl (World) (v1.02) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Fix-It Felix Jr. (World) (Aftermarket) (Pirate)": {
 		"languages": ["En"]
 	},
@@ -3741,13 +3745,10 @@
 	"Foxy Land (World) (Digital) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Foxy Land (World) (v1.1) (Aftermarket) (Unl)": {
+	"Foxy Land (World) (v1.1) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Foxy Land (World) (v1.1) (Digital) (Aftermarket) (Unl) (Alt 2)": {
-		"languages": ["En"]
-	},
-	"Foxy Land (World) (v1.1) (Digital) (Aftermarket) (Unl) (Alt)": {
+	"Foxy Land (World) (v1.1) (itch.io) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Frank Thomas Big Hurt Baseball (USA, Europe)": {
@@ -3933,7 +3934,7 @@
 	"Gemfire (USA)": {
 		"languages": ["En"]
 	},
-	"GEMS (USA) (v2.8) (Proto) (Program)": {
+	"GEMS (USA) (Proto) (Program)": {
 		"languages": ["En"]
 	},
 	"Gen Poker (World) (Aftermarket) (Unl)": {
@@ -4003,6 +4004,9 @@
 	},
 	"Go Net (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Go to Terry House (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Go! Go! PogoGirl (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -4176,22 +4180,22 @@
 	"GunSlugs (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"GunSlugs (World) (Beta 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"GunSlugs (World) (Beta 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"GunSlugs (World) (Beta 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"GunSlugs (World) (Beta 4) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"GunSlugs (World) (Beta 5) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"GunSlugs (World) (Digital) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"GunSlugs (World) (RC1) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"GunSlugs (World) (RC2) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"GunSlugs (World) (RC3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"GunSlugs (World) (v2.0) (Digital) (Aftermarket) (Unl)": {
@@ -4332,7 +4336,7 @@
 	"Hex Sweeper (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Hexaduel (World) (v0.2.0) (Proto) (Aftermarket) (Unl)": {
+	"Hexaduel (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Hexagonos (Brazil) (Mega Drive 4)": {
@@ -4611,7 +4615,7 @@
 	"Ivanhoe (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Ixion (World) (v0.90) (Proto) (Aftermarket) (Unl)": {
+	"Ixion (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Izzy's Quest for the Olympic Rings (USA, Europe)": {
@@ -4781,10 +4785,10 @@
 	"Journey from Darkness - Strider Returns (USA)": {
 		"languages": ["En"]
 	},
-	"Journey to Oblivion (World) (En,Pt) (v0.1.7.1) (Demo) (Aftermarket) (Unl)": {
+	"Journey to Oblivion (World) (En,Pt) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En", "Pt"]
 	},
-	"Journey to Oblivion (World) (En,Pt) (v0.2.7.2) (Demo) (Aftermarket) (Unl)": {
+	"Journey to Oblivion (World) (En,Pt) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En", "Pt"]
 	},
 	"Joyzz Controller Test Program (World) (Aftermarket) (Unl)": {
@@ -5062,16 +5066,19 @@
 	"Kung-Fu UFO (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Kunio no Nekketsu - School Fighters (World) (Ja) (v0.5) (Beta) (Aftermarket) (Unl)": {
-		"languages": ["Ja"]
-	},
-	"Kunio no Nekketsu - School Fighters (World) (v0.1) (Demo) (Aftermarket) (Unl)": {
+	"Kunio no Nekketsu - School Fighters (World) (Beta 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Kunio no Nekketsu - School Fighters (World) (Ja) (Beta 2) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
 	},
 	"Kunio no Nekketsu - School Fighters (World) (v1.5) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Kunio no Nekketsu - School Fighters (World) (v1.6) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Kunio no Nekketsu - School Fighters (World) (v1.7) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Kuuga - Operation Code 'Vapor Trail' (Japan)": {
@@ -5327,9 +5334,6 @@
 		"languages": ["En"]
 	},
 	"Little Medusa (World) (Demo) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"Little Medusa (World) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"LIZARDPAINT (World) (Proto 1) (Aftermarket) (Unl)": {
@@ -5709,7 +5713,7 @@
 	"McDonald's Treasure Land Adventure (USA)": {
 		"languages": ["En"]
 	},
-	"MD Soft Checker (USA) (v0.30) (Proto) (Unl)": {
+	"MD Soft Checker (USA) (Proto) (Unl)": {
 		"languages": ["En"]
 	},
 	"MD Sonic The Hedgehog (World) (Aftermarket) (Unl)": {
@@ -5828,10 +5832,10 @@
 	"Mega Q-bert (World) (v1.2) (PAL) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Mega R-Type (World) (v1.2) (Demo) (Aftermarket) (Unl)": {
+	"Mega R-Type (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Mega R-Type (World) (v1.3) (Demo) (Aftermarket) (Unl)": {
+	"Mega R-Type (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Mega Slow Mole (World) (Aftermarket) (Unl)": {
@@ -5858,7 +5862,7 @@
 	"Mega Slow Mole (World) (Demo 5) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Mega Splatterhouse (World) (v0.02e) (Demo) (Aftermarket) (Unl)": {
+	"Mega Splatterhouse (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Mega SWIV (Europe)": {
@@ -5907,6 +5911,9 @@
 	"Megarunner (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"MegaSurvivor (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"MegaTrax (Japan) (En)": {
 		"languages": ["En"]
 	},
@@ -5939,6 +5946,9 @@
 	"Mercs (World) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
+	"Merry Xmas (World) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Metal Blast 2277 (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -5948,7 +5958,7 @@
 	"Metal Dragon (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Metal Dragon (World) (v1.2) (Demo) (Aftermarket) (Unl)": {
+	"Metal Dragon (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Metal Fangs (Japan)": {
@@ -5964,19 +5974,19 @@
 	"Metal Slug (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Metal Slug Warfare (World) (v2.0) (Demo) (Aftermarket) (Unl)": {
+	"Metal Slug Warfare (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Metal Slug Warfare (World) (v2.1) (Demo) (Aftermarket) (Unl)": {
+	"Metal Slug Warfare (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Metal Slug Warfare (World) (v2.2) (Demo) (Aftermarket) (Unl)": {
+	"Metal Slug Warfare (World) (Demo 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Metal Slug Warfare (World) (v2.2a) (Demo) (Aftermarket) (Unl)": {
+	"Metal Slug Warfare (World) (Demo 4) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Metal Slug Warfare (World) (v2.3) (Demo) (Aftermarket) (Unl)": {
+	"Metal Slug Warfare (World) (Demo 5) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Michael Jackson's Moonwalker (Japan, USA) (En) (Beta)": {
@@ -6288,16 +6298,16 @@
 	"Mutant League Hockey (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Mutuca (World) (Proto) (Aftermarket) (Unl)": {
+	"Mutuca (World) (Proto 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Mutuca (World) (Pt) (v2.0) (Proto) (Aftermarket) (Unl)": {
+	"Mutuca (World) (Pt) (Proto 2) (Aftermarket) (Unl)": {
 		"languages": ["Pt"]
 	},
 	"My Little Pony - Spike's Story (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Mysterious Adventures (World) (v2.5) (Proto) (Aftermarket) (Unl)": {
+	"Mysterious Adventures (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Mystic Defender (USA, Europe) (En,Ja) (Beta)": {
@@ -6730,13 +6740,16 @@
 	"Nightmare Circus (Brazil) (En)": {
 		"languages": ["En"]
 	},
-	"Nightmare Fuel (World) (v0.0.5) (Demo) (Aftermarket) (Unl)": {
+	"Nightmare Fuel (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"NightVein (World) (v1.0.3) (Demo) (Aftermarket) (Unl)": {
+	"NightVein (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"NightVein (World) (v1.0.6) (Demo) (Aftermarket) (Unl)": {
+	"NightVein (World) (Demo 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"NightVein (World) (Demo 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Nikkan Sports Pro Yakyuu VAN (Japan)": {
@@ -6795,7 +6808,7 @@
 	"Oh Mummy Genesis (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Old Towers (USA) (Aftermarket) (Unl)": {
+	"Old Towers (USA) (Piepacker) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Old Towers (World) (Aftermarket) (Unl)": {
@@ -6827,7 +6840,7 @@
 	"Olympic Summer Games (USA)": {
 		"languages": ["En"]
 	},
-	"Omega Blast (World) (Ja) (v0.9) (Aftermarket) (Unl)": {
+	"Omega Blast (World) (Ja) (Aftermarket) (Unl)": {
 		"languages": ["Ja"]
 	},
 	"On Dal Jang Goon (Korea)": {
@@ -7294,37 +7307,37 @@
 	"Phantom 2040 (USA)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.2) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.5) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.6) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.9) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 4) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.17) (Demo) (Bits Rule Games) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 5) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.17) (Demo) (Mega Cat Studios) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 6) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.20) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 7) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.21) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 8) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.22) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 9) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.25) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 10) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Phantom Gear (World) (v0.32) (Demo) (Aftermarket) (Unl)": {
+	"Phantom Gear (World) (Demo 11) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Phelios (Europe)": {
@@ -7412,14 +7425,14 @@
 	"Pit-Fighter (China) (En) (Pirate)": {
 		"languages": ["En"]
 	},
-	"Pit-Fighter (World) (En,Ja) (Beta 2)": {
+	"Pit-Fighter (World) (En,Ja) (Beta)": {
 		"languages": ["En", "Ja"]
 	},
 	"Pit-Fighter (World) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Pit-Fighter II (World) (En,Ja) (Proto)": {
-		"languages": ["En", "Ja"]
+	"Pit-Fighter II (USA) (Proto)": {
+		"languages": ["En"]
 	},
 	"Pitfall - The Mayan Adventure (Europe)": {
 		"languages": ["En"]
@@ -7453,6 +7466,9 @@
 	"Poker Club 6 in 1 (Taiwan) (Unl)": {
 		"languages": ["Zh"],
 		"localName": "撲克俱樂部　六合一"
+	},
+	"Pop'n Wizz (World) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Popeye in High Seas High-Jinks (USA) (Proto)": {
 		"languages": ["En"]
@@ -7554,7 +7570,10 @@
 	"Prisonela MD (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Prisonela MD (World) (v2.0) (Aftermarket) (Unl)": {
+	"Prisonela MD (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Prisonela MD (World) (v1.2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Pro Action Replay 2 (Europe) (v2.1) (Program) (Unl) (Alt)": {
@@ -7742,16 +7761,16 @@
 	"Quad Challenge (World) (Evercade)": {
 		"languages": ["En"]
 	},
-	"Question, The (World) (v0.0.1) (Proto) (Aftermarket) (Unl)": {
+	"Question, The (World) (Proto 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Question, The (World) (v0.0.2) (Proto) (Aftermarket) (Unl)": {
+	"Question, The (World) (Proto 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Question, The (World) (v0.0.3) (Proto) (Aftermarket) (Unl)": {
+	"Question, The (World) (Proto 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Question, The (World) (v0.0.4) (Proto) (Aftermarket) (Unl)": {
+	"Question, The (World) (Proto 4) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"R.B.I. Baseball 3 (USA) (Beta)": {
@@ -7853,7 +7872,7 @@
 	"Red Zone (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Redline Reaver (World) (v0.13) (Proto) (Aftermarket) (Unl)": {
+	"Redline Reaver (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Reknum (World) (Demo 1) (Aftermarket) (Unl)": {
@@ -7885,13 +7904,13 @@
 	"Resq (Europe) (Proto)": {
 		"languages": ["En"]
 	},
-	"Retro Games Hunters (World) (v0.17b) (Demo) (Aftermarket) (Unl)": {
+	"Retro Games Hunters (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Retro Games Hunters (World) (v0.20) (Aftermarket) (Unl)": {
+	"Retro Games Hunters (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Retro Games Hunters (World) (v0.23) (Demo) (Aftermarket) (Unl)": {
+	"Retro Games Hunters (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Return to Genesis (World) (Aftermarket) (Unl)": {
@@ -8194,7 +8213,7 @@
 		"languages": ["Ja"],
 		"localName": "龍虎の拳"
 	},
-	"S-Tile (World) (v0.1) (Proto) (Program) (Aftermarket) (Unl)": {
+	"S-Tile (World) (Proto) (Program) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Sacred Line Genesis (World) (Aftermarket) (Unl)": {
@@ -8215,7 +8234,7 @@
 	"Sacred Line Genesis (World) (v1.1.9) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Sacred Line Genesis (World) (v1.1.9) (Digital Edition) (Aftermarket) (Unl)": {
+	"Sacred Line Genesis (World) (v1.1.9) (Digital) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Sacred Line Genesis (World) (v1.1.9) (Legacy Edition) (Aftermarket) (Unl)": {
@@ -8402,7 +8421,7 @@
 	"Sega Channel (Japan) (v2.11) (Program)": {
 		"languages": ["Ja"]
 	},
-	"Sega Channel (USA) (Demo) (1994-02-16)": {
+	"Sega Channel (USA) (Demo)": {
 		"languages": ["En"]
 	},
 	"Sega Channel (USA) (General Instrument) (Program)": {
@@ -8753,6 +8772,9 @@
 	"Slaughter Sport (USA)": {
 		"languages": ["En"]
 	},
+	"Sleigh Chase (World) (En,Es) (Aftermarket) (Unl)": {
+		"languages": ["En", "Es"]
+	},
 	"Slime World (Japan) (En)": {
 		"languages": ["En"],
 		"localName": "スライムワールド"
@@ -8794,7 +8816,7 @@
 	"Sol-Deace (World) (Retro-Bit)": {
 		"languages": ["En"]
 	},
-	"Solaris (World) (v0.81) (Proto) (Aftermarket) (Unl)": {
+	"Solaris (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Soldiers of Fortune (USA)": {
@@ -8999,9 +9021,6 @@
 	"Sonic The Hedgehog 3 (USA) (Beta)": {
 		"languages": ["En"]
 	},
-	"Sonic The Hedgehog 3 (USA) (Movie Promo)": {
-		"languages": ["En"]
-	},
 	"Sonic The Hedgehog 3 (USA) (Sega Channel)": {
 		"languages": ["En"]
 	},
@@ -9015,6 +9034,9 @@
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto 2)": {
+		"languages": ["En"]
+	},
+	"Sonic The Hedgehog 3 Movie Promo (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog (Japan, Europe, Korea) (En)": {
@@ -9058,10 +9080,13 @@
 	"Soul Blade (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
-	"Sovereign of a Dying Hell (World) (v0.2) (Touhou Fan Game Jam 15) (Aftermarket) (Unl)": {
+	"Sovereign of a Dying Hell (World) (Proto 1) (Touhou Fan Game Jam 15) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Sovereign of a Dying Hell (World) (v0.3) (Aftermarket) (Unl)": {
+	"Sovereign of a Dying Hell (World) (Proto 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Space Cavern Blaster (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Space Flies Attack (World) (Digital) (Aftermarket) (Unl)": {
@@ -9107,7 +9132,7 @@
 	"Spax (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Speed Ball (World) (v0.5) (Proto) (Aftermarket) (Unl)": {
+	"Speed Ball (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Speedball 2 (Europe)": {
@@ -9197,6 +9222,9 @@
 		"languages": ["En"]
 	},
 	"Spot Goes to Hollywood (USA)": {
+		"languages": ["En"]
+	},
+	"Square Brothers (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Squirrel King (Taiwan) (En) (Unl)": {
@@ -10144,7 +10172,7 @@
 	"Test Drive II - The Duel (USA, Europe) (Unl)": {
 		"languages": ["En"]
 	},
-	"Tetman (World) (v0.2) (Aftermarket) (Unl)": {
+	"Tetman (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tetra-GB (World) (Demo) (Aftermarket) (Unl)": {
@@ -10232,7 +10260,10 @@
 	"Thunderbolt II (World) (QUByte Classics) (Unl)": {
 		"languages": ["En"]
 	},
-	"Thundercats (World) (Aftermarket) (Unl)": {
+	"Thundercats (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Thundercats (World) (v2.25) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tick, The (USA)": {
@@ -10373,6 +10404,12 @@
 	"Tony La Russa Baseball (USA, Australia)": {
 		"languages": ["En"]
 	},
+	"Toogle (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Toogle (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Top Fighter 2000 MK VIII (Taiwan) (En) (Unl)": {
 		"languages": ["En"]
 	},
@@ -10481,7 +10518,7 @@
 	"Tsunagi Kougeikan (World) (Ja) (Beta) (Aftermarket) (Unl)": {
 		"languages": ["Ja"]
 	},
-	"Tubes (World) (v0.06) (Demo) (Aftermarket) (Unl)": {
+	"Tubes (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tunshi Tiandi III (Taiwan) (Simplified) (Unl)": {
@@ -10607,10 +10644,16 @@
 		"languages": ["Ja"],
 		"localName": "アンデッドライン"
 	},
-	"Under the Shrine of Death (World) (v0.11.3) (Proto) (Aftermarket) (Unl)": {
+	"Under the Shrine of Death (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Under-Ground - The Fight Against Coffee Invasion (World) (v0.6) (Demo) (Aftermarket) (Unl)": {
+	"Under the Shrine of Death (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Under the Shrine of Death (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Under-Ground - The Fight Against Coffee Invasion (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Universal Soldier (USA, Europe) (Unl)": {
@@ -10622,10 +10665,10 @@
 	"Unstoppable Knight (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Until Dawn (World) (v0.1.1) (Demo) (Aftermarket) (Unl)": {
+	"Until Dawn (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Until Dawn (World) (v0.1.2) (Demo) (Aftermarket) (Unl)": {
+	"Until Dawn (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Urban Strike (USA, Europe)": {
@@ -10865,10 +10908,10 @@
 	"War Marbles Legacy (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"War Marbles Legacy (World) (v0.1.0) (Beta) (Aftermarket) (Unl)": {
+	"War Marbles Legacy (World) (Beta 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"War Marbles Legacy (World) (v0.2.0) (Beta) (Aftermarket) (Unl)": {
+	"War Marbles Legacy (World) (Beta 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Wardner (USA)": {
@@ -10985,7 +11028,7 @@
 	"Windjammers (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Windjammers - Bonus Level (World) (v1.1) (Proto) (Aftermarket) (Unl)": {
+	"Windjammers - Bonus Level (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Wings of Wor (USA)": {
@@ -11534,31 +11577,31 @@
 		"languages": ["Zh"],
 		"localName": "信长野望　－　霸王传"
 	},
-	"Xump 2 - Back in Space (World) (v0.50) (Beta) (Aftermarket) (Unl)": {
+	"Xump 2 (World) (Beta) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Xump 2 - Back to Space (World) (Alternative Edition) (Aftermarket) (Unl)": {
+	"Xump 2 - Back to Space (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Xump 2 - Back to Space (World) (Digital Edition) (Aftermarket) (Unl)": {
+	"Xump 2 - Back to Space (World) (Digital) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Xump 2 - Back to Space (World) (Physical Edition) (Aftermarket) (Unl)": {
+	"Xump 2 - Back to Space - Alternative Edition (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Xybots II (Japan) (Auto Demo)": {
 		"languages": ["Ja"]
 	},
-	"Yazzie (World) (Digital) (Evercade) (Aftermarket) (Unl)": {
+	"Yazzie (World) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Yazzie (World) (Digital) (Itch.io) (Aftermarket) (Unl)": {
+	"Yazzie (World) (Itch.io) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Yazzie (World) (Digital) (Itch.io) (dmaSafe) (Aftermarket) (Unl)": {
+	"Yazzie (World) (Itch.io) (dmaSafe) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Yazzie (World) (v1.1) (Digital) (Evercade) (Aftermarket) (Unl)": {
+	"Yazzie (World) (v1.1) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Yie Ar Kung-Fu (World) (Aftermarket) (Unl)": {
@@ -11617,6 +11660,12 @@
 	"YuYu Hakusho - Sunset Fighters (Brazil)": {
 		"languages": ["Pt"]
 	},
+	"Zabu (World) (Demo 1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Zabu (World) (Demo 2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Zan - Yasha Enbukyoku (Japan)": {
 		"languages": ["Ja"],
 		"localName": "斬　夜叉円舞曲"
@@ -11627,7 +11676,7 @@
 	"Zany Golf (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Zaverox (World) (v0.1.01) (Demo) (Aftermarket) (Unl)": {
+	"Zaverox (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Zero the Kamikaze Squirrel (Europe)": {

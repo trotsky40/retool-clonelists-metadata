@@ -1331,6 +1331,10 @@
 	"Daytona USA - Championship Circuit Edition (Europe) (Rev A)": {
 		"languages": ["En"]
 	},
+	"Daytona USA - Championship Circuit Edition (Korea)": {
+		"languages": [],
+		"localName": "데이토나ＵＳＡ"
+	},
 	"Daytona USA - Championship Circuit Edition (USA)": {
 		"languages": ["En"]
 	},
@@ -3203,6 +3207,10 @@
 	"Impact Racing (Japan)": {
 		"languages": ["En"],
 		"localName": "インパクト・レーシング"
+	},
+	"Impact Racing (Korea)": {
+		"languages": [],
+		"localName": "임팩트 레이싱"
 	},
 	"Impact Racing (USA)": {
 		"languages": []
@@ -5177,6 +5185,10 @@
 		"languages": ["Ja"],
 		"localName": "ポケットファイター"
 	},
+	"Pocket Fighter (Japan) (Demo)": {
+		"languages": ["Ja"],
+		"localName": "ポケットファイター"
+	},
 	"Policenauts (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "ポリスノーツ"
@@ -6329,8 +6341,11 @@
 	"SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version)": {
 		"languages": ["Ja"]
 	},
-	"SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan)": {
+	"SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1995-04-01)": {
 		"languages": ["Ja"]
+	},
+	"SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) (1996-04-21)": {
+		"languages": []
 	},
 	"SegaSaturn Electronic Book Operator (Japan)": {
 		"languages": ["Ja"],
@@ -6457,6 +6472,10 @@
 		"localName": "シャドウズ・オブ・ザ・タスク"
 	},
 	"Shanghai - Banri no Choujou - The Great Wall (Japan) (1M)": {
+		"languages": ["Ja"],
+		"localName": "上海　～万里の長城～"
+	},
+	"Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev A) (13M)": {
 		"languages": ["Ja"],
 		"localName": "上海　～万里の長城～"
 	},
@@ -7817,6 +7836,10 @@
 		"languages": ["Ja"],
 		"localName": "闘神伝Ｓ"
 	},
+	"Toushinden S (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "闘神伝Ｓ"
+	},
 	"Toushinden URA (Japan)": {
 		"languages": ["Ja"],
 		"localName": "闘神伝ＵＲＡ"
@@ -8041,6 +8064,10 @@
 		"languages": ["Ja"],
 		"localName": "バーチャ・コップ２"
 	},
+	"Virtua Cop 2 (Korea)": {
+		"languages": [],
+		"localName": "버쳐캅２"
+	},
 	"Virtua Cop 2 (USA)": {
 		"languages": ["En"]
 	},
@@ -8102,6 +8129,10 @@
 		"localName": "バーチャ・ファイター２"
 	},
 	"Virtua Fighter 2 (Japan) (Rev B) (39B)": {
+		"languages": ["Ja"],
+		"localName": "バーチャ・ファイター２"
+	},
+	"Virtua Fighter 2 (Japan) (Rev C) (40M)": {
 		"languages": ["Ja"],
 		"localName": "バーチャ・ファイター２"
 	},
@@ -8220,7 +8251,7 @@
 	},
 	"Virtua Fighter Remix (Korea)": {
 		"languages": ["En"],
-		"localName": "버쳐　파이터　리믹스"
+		"localName": "버쳐 파이터 리믹스"
 	},
 	"Virtua Fighter Remix (USA)": {
 		"languages": ["En"]
@@ -8656,6 +8687,10 @@
 	},
 	"World Series Baseball (USA)": {
 		"languages": ["En"]
+	},
+	"World Series Baseball 98 (Korea)": {
+		"languages": [],
+		"localName": "월드시리즈베이스볼98"
 	},
 	"World Series Baseball 98 (USA)": {
 		"languages": ["En"]

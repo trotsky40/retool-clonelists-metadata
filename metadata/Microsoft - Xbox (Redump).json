@@ -6339,6 +6339,10 @@
 	"Sims, The - Bustin' Out (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Sims, The - Bustin' Out (Korea)": {
+		"languages": ["En"],
+		"localName": "심즈 세상 밖으로"
+	},
 	"Sims, The - Bustin' Out (USA)": {
 		"languages": ["En"]
 	},

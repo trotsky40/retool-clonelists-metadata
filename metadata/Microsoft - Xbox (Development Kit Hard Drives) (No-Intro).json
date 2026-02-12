@@ -8,7 +8,10 @@
 	"Red Storm Entertainment Debug Kit (Unknown)": {
 		"languages": ["En"]
 	},
+	"Xbox Debug Kit - Argonaut Sheffield (Unknown)": {
+		"languages": ["En"]
+	},
 	"Xbox Debug Kit - Bits Studios (Unknown)": {
-		"languages": ["nolang"]
+		"languages": ["En"]
 	}
 }
