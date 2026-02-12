@@ -3037,7 +3037,7 @@
             "sha1": "c0f8223ec2cd2513a58dd27939837aa164d28c37"
         },
         {
-            "name": "FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack)",
+            "name": "FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack) (Exclusive Subset - Magecore Run)",
             "crc": "304d9871",
             "md5": "1dfe49662f8c7a2a06a585683a48ac0e",
             "sha1": "ef69af7d52f92e3b60064f5de976214c12733c74"
@@ -7111,6 +7111,12 @@
             "sha1": "0aaec36edf4897ff713fb4080bf3726b8b5f911a"
         },
         {
+            "name": "Mike Tyson's Punch-Out!! (Exclusive Subset - Bonus)",
+            "crc": "3c26cbc5",
+            "md5": "ad25b56b01b18f3258900e783b237b54",
+            "sha1": "434a950b40e5402bc0af6178aa41433e61456d0a"
+        },
+        {
             "name": "Mike Tyson's Punch-Out!! (Japan, USA) (En)",
             "crc": "12f19390",
             "md5": "fbd32719ea0917f37cf059c02c87b662",
@@ -7121,12 +7127,6 @@
             "crc": "acd20bd8",
             "md5": "2e3d646eecbcdb6e7da3d0a6edfb325b",
             "sha1": "61c3a89eef9dd09790d22a897ae876ceeec944a3"
-        },
-        {
-            "name": "Mike Tyson's Punch-Out!! (Subset - Bonus)",
-            "crc": "3c26cbc5",
-            "md5": "ad25b56b01b18f3258900e783b237b54",
-            "sha1": "434a950b40e5402bc0af6178aa41433e61456d0a"
         },
         {
             "name": "MilioNESy (World) (Aftermarket)",

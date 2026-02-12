@@ -265,16 +265,16 @@
             "sha1": "df4993587cff869c4824a5a771db5c26a748c9ea"
         },
         {
+            "name": "Bomberman Max - Ain Version (Exclusive Subset - Max Charabom Levels)",
+            "crc": "f35a5ccf",
+            "md5": "715e2085de32c99e487426ee7af8fa01",
+            "sha1": "a1f6c529b49b655aa7e333fb6b7780167dc3defe"
+        },
+        {
             "name": "Bomberman Max - Ain Version (Japan)",
             "crc": "545e0da2",
             "md5": "54c8522c1d924a05bb05ac6673f023e6",
             "sha1": "7416d9430a8163cd2f953c990ef8ad325725e53a"
-        },
-        {
-            "name": "Bomberman Max - Ain Version (Subset - Max Charabom Levels)",
-            "crc": "f35a5ccf",
-            "md5": "715e2085de32c99e487426ee7af8fa01",
-            "sha1": "a1f6c529b49b655aa7e333fb6b7780167dc3defe"
         },
         {
             "name": "Bomberman Max - Blue Champion (USA)",

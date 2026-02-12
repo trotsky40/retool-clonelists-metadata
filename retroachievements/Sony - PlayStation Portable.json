@@ -121,14 +121,14 @@
             "sha1": "997b929769afb97a82599797d1ad50a9e2d0b9ad"
         },
         {
-            "name": "Bleach - Heat the Soul 7 (Japan)",
-            "sha1": "11a6da3a0a598be9252c0232593feba3fe7c3997"
-        },
-        {
-            "name": "Bleach - Heat the Soul 7 (Subset - DLC Normal and Battle Royale)",
+            "name": "Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale)",
             "crc": "7f3aac23",
             "md5": "1e899e6762002ff9ba98f9e1e8a47b8e",
             "sha1": "da89c2664e0ff7b6aaa827ea5924153e6bd06508"
+        },
+        {
+            "name": "Bleach - Heat the Soul 7 (Japan)",
+            "sha1": "11a6da3a0a598be9252c0232593feba3fe7c3997"
         },
         {
             "name": "Bleach - Soul Carnival (Japan)",
@@ -1045,7 +1045,7 @@
             "sha1": "76689faa355a3583eaa6c776a77928e7a03d86a9"
         },
         {
-            "name": "Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus)",
+            "name": "Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Bonus)",
             "sha1": "34971af36e707883a3beac01d04920eacedfa575"
         },
         {
@@ -1053,7 +1053,7 @@
             "sha1": "40b0b60e11b4f340cf2774fadfe5053c6ba8920d"
         },
         {
-            "name": "Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Subset - Bonus)",
+            "name": "Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Exclusive Subset - Bonus)",
             "sha1": "7fe4008e08d2e35d1d91cb75450bd823024e4a80"
         },
         {
@@ -1229,7 +1229,7 @@
             "sha1": "d5dca1fddb7bfa586abc0eb30d8b5a25d5887f7c"
         },
         {
-            "name": "Shin Megami Tensei - Persona 2 - Innocent Sin (Subset - Theater DLC)",
+            "name": "Shin Megami Tensei - Persona 2 - Innocent Sin (Exclusive Subset - Theater DLC)",
             "sha1": "528f145498d14cc158bf6ff6d39d9ab1dc46e664"
         },
         {

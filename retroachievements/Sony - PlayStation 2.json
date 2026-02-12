@@ -2957,7 +2957,7 @@
             "sha1": "3f1d02541c11a247d2d61db6c69354b0a7f5b000"
         },
         {
-            "name": "Ratchet & Clank - Up Your Arsenal (Subset - Bonus)",
+            "name": "Ratchet & Clank - Up Your Arsenal (Exclusive Subset - Bonus)",
             "sha1": "21f94c5646a695a15316ca759a0a51addde4d4a1"
         },
         {
@@ -2965,7 +2965,7 @@
             "sha1": "6a21300a4577b177d631e39ac699dab34e5c7327"
         },
         {
-            "name": "Ratchet & Clank 3 - Totsugeki! Galactic Rangers (Japan) (Subset - Bonus)",
+            "name": "Ratchet & Clank 3 - Totsugeki! Galactic Rangers (Japan) (Exclusive Subset - Bonus)",
             "sha1": "73a83cdf85d03dc67fb7986f5e06439a8f85dfd1"
         },
         {
@@ -3357,7 +3357,7 @@
             "sha1": "6728193b44dad4f7ed1b7aad65322f79f6dc9c2c"
         },
         {
-            "name": "Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Subset - Solo+Raidou)",
+            "name": "Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Exclusive Subset - Solo+Raidou)",
             "sha1": "3a6975ee3b34b3020d8df44d47047d88f55c79ef"
         },
         {
@@ -3501,23 +3501,23 @@
             "sha1": "085fb38a3901417848c656144f713d2026f6f49e"
         },
         {
-            "name": "SingStar (France) (Subset - Regional Exclusives)",
+            "name": "SingStar (France) (Exclusive Subset - Regional Exclusives)",
             "sha1": "dbe757693b96a0ba131bb9d8d6a68995a5dd6870"
         },
         {
-            "name": "SingStar (Germany) (Subset - Regional Exclusives)",
+            "name": "SingStar (Germany) (Exclusive Subset - Regional Exclusives)",
             "sha1": "5804318321862ed4a871d12ad45eb146df860c67"
         },
         {
-            "name": "SingStar (Italy) (Subset - Regional Exclusives)",
+            "name": "SingStar (Italy) (Exclusive Subset - Regional Exclusives)",
             "sha1": "40e91d2cde0eb870031d2e72ea595f8c075c82f0"
         },
         {
-            "name": "SingStar (Spain) (Subset - Regional Exclusives)",
+            "name": "SingStar (Spain) (Exclusive Subset - Regional Exclusives)",
             "sha1": "0790be99f156651b405880f9448a2919c5bf903f"
         },
         {
-            "name": "SingStar NRJ Music Tour (France) (Subset - Regional Exclusives)",
+            "name": "SingStar NRJ Music Tour (France) (Exclusive Subset - Regional Exclusives)",
             "sha1": "48d3f5de45a6cbd9680953488b564174a6a378e5"
         },
         {
@@ -3525,15 +3525,15 @@
             "sha1": "5c98bccffa4f7f9e4135fb5b2f6ee4471594826c"
         },
         {
-            "name": "SingStar Party (Germany) (Subset - Regional Exclusives)",
+            "name": "SingStar Party (Germany) (Exclusive Subset - Regional Exclusives)",
             "sha1": "37fd2095276a754860eb52f6986f2099ad3ec645"
         },
         {
-            "name": "SingStar Party (Italy) (Subset - Regional Exclusives)",
+            "name": "SingStar Party (Italy) (Exclusive Subset - Regional Exclusives)",
             "sha1": "33af08408c08599ea0c0d98bc5283f594e5581a7"
         },
         {
-            "name": "SingStar Party (Spain) (Subset - Regional Exclusives)",
+            "name": "SingStar Party (Spain) (Exclusive Subset - Regional Exclusives)",
             "sha1": "cf0f0345d92f5ea6e1a05360c53393603a4c70b3"
         },
         {
@@ -3951,10 +3951,6 @@
         {
             "name": "TimeSplitters - Future Perfect (USA)",
             "sha1": "8da14a00b6966a873caf78e0bc8565c1af539ea8"
-        },
-        {
-            "name": "TimeSplitters 2 (Subset - Platinum Trophies)",
-            "sha1": "e38ff9f41540f0e133572aad8a1cd9c0513c5bcd"
         },
         {
             "name": "TimeSplitters 2 (USA)",

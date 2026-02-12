@@ -2287,13 +2287,13 @@
             "sha1": "bfa55f98eb2edb1c7e2a009cb81958f7ff46419e"
         },
         {
-            "name": "F-Zero (v1.0) (Subset - BS Expansions)",
+            "name": "F-Zero (v1.0) (Exclusive Subset - BS Expansions)",
             "crc": "bc5160df",
             "md5": "72b4ddcff101280fc871466c126f4262",
             "sha1": "c9e1d28ea09a11a06001c4ee2eef1359f7c4d100"
         },
         {
-            "name": "F-Zero (v1.1) (Subset - BS Expansions)",
+            "name": "F-Zero (v1.1) (Exclusive Subset - BS Expansions)",
             "crc": "1cf51375",
             "md5": "72e0347734698984e3b3a97b4556844d",
             "sha1": "cfdc0af3eb5f8b8cc95b8f078ca3b23bfee34214"
@@ -6877,12 +6877,6 @@
             "sha1": "09a145a2e7ee861c1a0ceea9b717ebf83b0d4964"
         },
         {
-            "name": "SMW - Celeste (Subset - Golden Strawberries) (Hack)",
-            "crc": "c3ed9b6f",
-            "md5": "7d4bcb32a9fdf11c261ef87c478014ff",
-            "sha1": "b80cb631ab061216be25cfed171558f23c6a0978"
-        },
-        {
             "name": "SMW - Chain Reaction (Sweetdude) (Hack)",
             "crc": "933cd56e",
             "md5": "672cf07438693acd3a90514df0ced274",
@@ -8195,12 +8189,6 @@
             "crc": "a20e0b26",
             "md5": "cee7922a2c1bcbf204df4ad4412fb223",
             "sha1": "db33ed2bdf057c7c47c7a3fe1e30cbed2d7d15c7"
-        },
-        {
-            "name": "SMW - Sure Shot (v1.3) (Subset - featuring Miles 'Tails' Prower) (Hack)",
-            "crc": "6516d09a",
-            "md5": "371af0905202f6fef76785b5581a2193",
-            "sha1": "31bfa686d0553f5e3e7da5c95296f8ae62872679"
         },
         {
             "name": "SMW - Sure Shot ~ featuring Sonic the Hedgehog DELUXE EDITION (v1.3) (Maddy,Margo) (Hack)",
@@ -11227,7 +11215,7 @@
             "sha1": "f13795439ae07a51954246a8a6bad99894b7ed09"
         },
         {
-            "name": "Zelda no Densetsu - Kamigami no Triforce (Subset - Glitch Showcase)",
+            "name": "Zelda no Densetsu - Kamigami no Triforce (Exclusive Subset - Glitch Showcase)",
             "crc": "3322effc",
             "md5": "03a63945398191337e896e5771f77173",
             "sha1": "e7e852f0159ce612e3911164878a9b08b3cb9060"
