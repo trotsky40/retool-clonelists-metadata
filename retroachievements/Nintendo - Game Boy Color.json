@@ -151,6 +151,12 @@
             "sha1": "fecbde9125d2ce9c8e772f9078ebaccd196caa43"
         },
         {
+            "name": "Barbie - Magic Genie Adventure (USA)",
+            "crc": "57f1a202",
+            "md5": "829da007514e8a1ccc7efe6a7ee5226f",
+            "sha1": "30e779f19cd8f8c979bda38dd90e9798c742a66c"
+        },
+        {
             "name": "Barbie - Ocean Discovery (USA) (GB Compatible)",
             "crc": "746936c6",
             "md5": "89de435cb69325b42d569015ca09f49f",
@@ -1019,6 +1025,12 @@
             "crc": "c21fd584",
             "md5": "e0cb7315349851951532a959fd50eb9d",
             "sha1": "fe0c8d757a74975c2137c3241d5563d6f9e5213d"
+        },
+        {
+            "name": "Keitai Denjuu Telefang - Power Version (Japan) (En) (v1.62) (kmeisthax, andwhyisit)",
+            "crc": "d3ff2f8a",
+            "md5": "bae9542c90b3b440572f554f6181538c",
+            "sha1": "47e81c29fcc0947f7d91c0d248a5563ebac520cd"
         },
         {
             "name": "Kikansha Thomas - Sodor-tou no Nakama-tachi (Japan)",
@@ -1969,13 +1981,25 @@
             "sha1": "d55e4cdb84cac430b0faad08c3e4886b8566fbb2"
         },
         {
-            "name": "Pokemon - Crystal Clear (Color Filter) (ShockSlayer) (v2.5.11) (Hack)",
+            "name": "Pokemon - Crystal Clear (Color Filter) (SGB Mode) (v2.5.11) (ShockSlayer) (Hack)",
+            "crc": "752c5c97",
+            "md5": "3357b45c4a5756403f29b9a0f316455b",
+            "sha1": "913c49bd487efb4516b94fc427a1b12628be3daa"
+        },
+        {
+            "name": "Pokemon - Crystal Clear (Color Filter) (v2.5.11) (ShockSlayer) (Hack)",
             "crc": "fc33d126",
             "md5": "3737dfc080c16b0ee36db9313186eb79",
             "sha1": "6fc677bf7a9db103cb9ee11ac08d26782e69ae41"
         },
         {
-            "name": "Pokemon - Crystal Clear (ShockSlayer) (v2.5.11) (Hack)",
+            "name": "Pokemon - Crystal Clear (SGB Mode) (v2.5.11) (ShockSlayer) (Hack)",
+            "crc": "d3e624f8",
+            "md5": "c0e8119c74ed66f63db381f424a9d16d",
+            "sha1": "8be3dea853b39442f36f94c3988e074788c5ecec"
+        },
+        {
+            "name": "Pokemon - Crystal Clear (v2.5.11) (ShockSlayer) (Hack)",
             "crc": "5af9a949",
             "md5": "1123cb2949f5bb4d53a3eab8e4805687",
             "sha1": "a1c4da6b0057c98fe4ebea45d6812a484fc69abd"
@@ -2041,10 +2065,16 @@
             "sha1": "11d113c1e6d51afa641bcbf5b149ef4035eeb914"
         },
         {
-            "name": "Pokemon - Polished Crystal (Hack)",
-            "crc": "d0266a15",
-            "md5": "9d3a3026bc3730cdf5d813b0bfe49697",
-            "sha1": "0e488491b7e027059238ae0a7872bc916ae169d5"
+            "name": "Pokemon - Polished Crystal (v3.2.3) (Faithful) (Rangi) (Hack)",
+            "crc": "945aa53d",
+            "md5": "54f6a58d3a865531925e688d78a33c8f",
+            "sha1": "3ff091a8e94a0c031372b6f0275e12620fe3d766"
+        },
+        {
+            "name": "Pokemon - Polished Crystal (v3.2.3) (Rangi) (Hack)",
+            "crc": "f98367e4",
+            "md5": "53d90e468c9eae4d602feacc6295a021",
+            "sha1": "6930b48af5844d373e3c9130f26d6dd1084cf4ed"
         },
         {
             "name": "Pokemon - Prism Version (De) (Hack)",

@@ -17,6 +17,14 @@
             "sha1": "95846a6705d7e3f54467256890afd164e16a54f5"
         },
         {
+            "name": "7th Dragon 2020 (Japan)",
+            "sha1": "624e55753ecba16b2019789e868d4f9eb98df0ca"
+        },
+        {
+            "name": "7th Dragon 2020 (Japan) (En) (v0.91) (Pokeytax)",
+            "sha1": "0ffae15b842c4f8ca95acaf7106589a807b5a36d"
+        },
+        {
             "name": "AKB1-149 - Ren'ai Sousenkyo (Japan) (Game Disc)",
             "sha1": "879299ac76eb0fbde35474b2f503c03c40bd7ef4"
         },
@@ -121,12 +129,6 @@
             "sha1": "997b929769afb97a82599797d1ad50a9e2d0b9ad"
         },
         {
-            "name": "Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale)",
-            "crc": "7f3aac23",
-            "md5": "1e899e6762002ff9ba98f9e1e8a47b8e",
-            "sha1": "da89c2664e0ff7b6aaa827ea5924153e6bd06508"
-        },
-        {
             "name": "Bleach - Heat the Soul 7 (Japan)",
             "sha1": "11a6da3a0a598be9252c0232593feba3fe7c3997"
         },
@@ -153,6 +155,10 @@
         {
             "name": "Brandish - The Dark Revenant (USA) (PSP) (PSN)",
             "sha1": "f0e867f5e527fd4a61cff9730fe65c9c852bb9ad"
+        },
+        {
+            "name": "Brave Story - New Traveler (USA)",
+            "sha1": "d1a41768386dbd7100d26a50307201cf26203a35"
         },
         {
             "name": "Brick Breaker (USA) (minis) (PSN)",
@@ -321,6 +327,10 @@
         {
             "name": "Disgaea 2 - Dark Hero Days (Europe)",
             "sha1": "d1ca46a92d6e1b6b5ada41012bf02521d4da4dcf"
+        },
+        {
+            "name": "Disgaea Infinite (USA)",
+            "sha1": "629756f26462b5bb331d8a704e89189ffe04b1d4"
         },
         {
             "name": "Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)",
@@ -729,6 +739,10 @@
             "sha1": "d3f997350b78fdf8888492f373f48ca89bb6e2b2"
         },
         {
+            "name": "Idolmaster Shiny Festa, The - Groovy Tune (Japan)",
+            "sha1": "88e44c6f9a8015a449f5c7dcf89ebadf77571571"
+        },
+        {
             "name": "Idolmaster Shiny Festa, The - Honey Sound (Japan)",
             "sha1": "0ec73b450b3acbee95a27de69c965717fcc753d0"
         },
@@ -767,6 +781,10 @@
         {
             "name": "K-ON! Houkago Live!! (Japan) (v1.01)",
             "sha1": "93bf927888fcfd2f717b4b22f035705434ed5704"
+        },
+        {
+            "name": "K-On! Houkago Live!! HD Ver. (En) (v4.1.23) (Exclusive Subset - Full Combo Songs)",
+            "sha1": "41e96ece18b40b18df9c6e11a64b77ca2088bbe7"
         },
         {
             "name": "Kamen Rider - Climax Heroes OOO (Japan)",
@@ -991,6 +1009,10 @@
         {
             "name": "Midnight Club - L.A. Remix (USA)",
             "sha1": "512feb11a5a27b40040b4aed16bd2dc77536e3aa"
+        },
+        {
+            "name": "Midnight Club 3 - DUB Edition (USA) (v2.02)",
+            "sha1": "67a9ca976bca942662743e902d4f1150294cf212"
         },
         {
             "name": "Monochrome Racing (USA) (minis) (PSN)",
@@ -1611,6 +1633,10 @@
         {
             "name": "Zenonia (USA) (minis) (PSN)",
             "sha1": "231c168c399250048379ebb49fc79dc0d0ef4460"
+        },
+        {
+            "name": "Zuma (USA) (PSP) (PSN)",
+            "sha1": "1c998c59093d51ad80b5f573a625ed354998ba76"
         },
         {
             "name": "inviZimals (Europe) (v2) (PSN)",

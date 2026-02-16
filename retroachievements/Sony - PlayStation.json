@@ -17,6 +17,10 @@
             "sha1": "d368091f6cc3ef5363da82b8dfa84d3ff358d5ea"
         },
         {
+            "name": "3Xtreme (USA)",
+            "sha1": "a0678bbf322f512072f7a78f072fdbab6555559b"
+        },
+        {
             "name": "40 Winks (USA)",
             "sha1": "4f424d7e5a574d72e135bf8124ae50e95edd4b79"
         },
@@ -149,8 +153,18 @@
             "sha1": "fbefa124869a040d653301ee7ebc08d75e5e537d"
         },
         {
+            "name": "Ancient Roman - Power of Dark Side (Japan) (En) (v1.0) (Eight Mansions)",
+            "crc": "723107aa",
+            "md5": "044d1ba818bfb65a0cf19cc262df4722",
+            "sha1": "873ae322481aaaf2ad614c654a646d002c32ca6d"
+        },
+        {
             "name": "Animal Football (Europe) (En,Fr,De)",
             "sha1": "7d8979ce3989b254f63c6783919de2d27d5a861e"
+        },
+        {
+            "name": "Animorphs - Shattered Reality (USA)",
+            "sha1": "89339938c55c4cb8ba5bfad762b7c5545c20f8ea"
         },
         {
             "name": "Ape Escape (USA)",
@@ -251,6 +265,10 @@
             "sha1": "b45dda66e50dfee005d65b5efc5cbb4442e39017"
         },
         {
+            "name": "Bakumatsu Roman - Gekka no Kenshi (Japan)",
+            "sha1": "e9c4b46b55230aa2abe53f7bd0d50bf137f5719d"
+        },
+        {
             "name": "Barbie - Explorer (USA)",
             "sha1": "cb615338340de7152a7b8e260d88a16df10881f5"
         },
@@ -339,6 +357,10 @@
         {
             "name": "Bloody Roar II (USA)",
             "sha1": "0e16ac1ff170ee76aec889c132cf7fb3411244a6"
+        },
+        {
+            "name": "Blue's Clues - Blue's Big Musical (USA)",
+            "sha1": "493c145f702c798ced5eb265168c6d354fa28715"
         },
         {
             "name": "Bomberman - Party Edition (USA)",
@@ -1247,6 +1269,10 @@
             "sha1": "1285456bf175a450cbb5fd00d425a927d56e65a0"
         },
         {
+            "name": "Egg (Japan)",
+            "sha1": "6b79137853359f1e371ebb4a29c282233327ebd5"
+        },
+        {
             "name": "Ehrgeiz - God Bless the Ring (USA)",
             "sha1": "9c5295bfcca2e170fcd9b5f703a644701689c23b"
         },
@@ -1347,6 +1373,10 @@
         {
             "name": "Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack)",
             "sha1": "85d4a976fb63a56ae6e802812bf1e020d96d62cb"
+        },
+        {
+            "name": "Final Fantasy Origins (USA) (Rev 1)",
+            "sha1": "833a6bf605ab741b2258312874c9955de2086586"
         },
         {
             "name": "Final Fantasy Origins (USA) (Rev 1)",
@@ -1657,6 +1687,10 @@
             "sha1": "87d1ebd0a67cc37782cee426da241fb0cbe1322d"
         },
         {
+            "name": "Hexen (USA)",
+            "sha1": "7d0833a446e45939d59e5c340daf2d2c27244a84"
+        },
+        {
             "name": "Hogs of War (USA)",
             "sha1": "85899ca70527dbe81f2a6eaf5edbcd5ca871481f"
         },
@@ -1771,6 +1805,14 @@
         {
             "name": "Jersey Devil (USA)",
             "sha1": "6f9d920bafdf0c39cc82f4faa3caba53d9ea1475"
+        },
+        {
+            "name": "Jet Moto (USA)",
+            "sha1": "251e9d825407a0ca917c8dac11344b0f95698d29"
+        },
+        {
+            "name": "Jet Rider (Europe)",
+            "sha1": "9679426f31dacf7424e044c9ed1f0d95f0a78d58"
         },
         {
             "name": "Jigsaw Island - Japan Graffiti (Japan)",
@@ -2077,6 +2119,10 @@
             "sha1": "13aa2717f03c9f635f9227dcdd96308e00fb8c8e"
         },
         {
+            "name": "Magical Tetris Challenge (Europe)",
+            "sha1": "4621821ebb3bceab252a26066be144b6d74ca511"
+        },
+        {
             "name": "Martian Gothic - Unification (USA)",
             "sha1": "04c0036af9cce8528e79d8c426b28ff1fb914809"
         },
@@ -2187,6 +2233,10 @@
         {
             "name": "Mega Man X6 N's Edition (v1.8.6) (Normal Man) (Hack)",
             "sha1": "d2769f1e0184c5fb3ec772421fad9b73369aee32"
+        },
+        {
+            "name": "Memorial Series - Sunsoft Vol. 6 (Japan)",
+            "sha1": "c7ebf8e9b495d2b2426bd1a3a81f8d7047d8678d"
         },
         {
             "name": "Men in Black - The Series - Crashdown (USA)",
@@ -2337,6 +2387,14 @@
         {
             "name": "Moon - Remix RPG Adventure (Japan) (Rev 1) (En) (2020 Beta) (Esperknight)",
             "sha1": "ce900eb112f1292fce7a60a7462aca8a03fcfcc8"
+        },
+        {
+            "name": "Moorhuhn 2 (Germany) (En) (v1.1) (John Osborne)",
+            "sha1": "a1980d65fb9d692d4d10dd571ef5415610ffcbb5"
+        },
+        {
+            "name": "Moorhuhn 2 - Die Jagd Geht Weiter (Germany)",
+            "sha1": "752f4e195c0e5137c2127f8d24476e005bdc1e9b"
         },
         {
             "name": "Moorhuhn Kart (Germany)",
@@ -2541,6 +2599,10 @@
             "sha1": "a5473c4ef67e5ad897c20445d58b64176e257d84"
         },
         {
+            "name": "Option - Tuning Car Battle Spec R (Japan)",
+            "sha1": "3bfaa22c9a747605a60c16c59462accc99b11606"
+        },
+        {
             "name": "Ore! Tomba (Japan)",
             "sha1": "3ed96d3f596bcfd23f370c33a85edcc1ee4be8db"
         },
@@ -2563,16 +2625,20 @@
             "sha1": "173e28416795cc8654e3ee1a1b6787eb8859a094"
         },
         {
-            "name": "PSXFunkin - B Sides (zeriben) (Aftermarket)",
+            "name": "PSXFunkin - B Sides (zeriben) (Hack)",
             "sha1": "5b113244513aa6d1a6d5cba5d0fc64a005262c65"
         },
         {
-            "name": "PSXFunkin - D Sides (IgorSou30000) (Aftermarket)",
+            "name": "PSXFunkin - D Sides (IgorSou30000) (Hack)",
             "sha1": "9f15077158b66939e5220c1f13792ec14e93494f"
         },
         {
-            "name": "PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000) (Aftermarket)",
+            "name": "PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000) (Hack)",
             "sha1": "14ebcb10724a7ccd318c757042de38014d683049"
+        },
+        {
+            "name": "PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000) (Hack)",
+            "sha1": "2fa8a08e2b933957906472c2873b3de5e76d0962"
         },
         {
             "name": "PaRappa the Rapper (USA) (En,Fr,De,Es,It)",
@@ -2671,7 +2737,7 @@
             "sha1": "de15b7989e7b9d9015006aa0b1a14aeb04343340"
         },
         {
-            "name": "Pibby Corrupted (UNSTOP4BLE, IgorSou30000) (Aftermarket)",
+            "name": "Pibby Corrupted (UNSTOP4BLE, IgorSou30000) (Hack)",
             "sha1": "97c28b3448e82e431af8dc09ad4211117664e900"
         },
         {
@@ -2953,6 +3019,10 @@
         {
             "name": "Resident Evil 1.5 (Old Weapon) (Proto) (Hack)",
             "sha1": "7fac12f87f70696de625fbb2fcc9e65cdd3f883c"
+        },
+        {
+            "name": "Resident Evil 1.5 Battle Coliseum (Unknown) (v1.0a) (Demo) (Hack)",
+            "sha1": "ba08d6876fbb20e6598724e4f06cdb3b6426377c"
         },
         {
             "name": "Resident Evil 2 - Dual Shock Ver. (USA)",
@@ -3797,8 +3867,16 @@
             "sha1": "03f2bfa22e4c464eab7d695814ee6216c0caa04c"
         },
         {
+            "name": "Threads of Fate (USA)",
+            "sha1": "1713ba9a5e490bd00b9fdcdc39597fd9cdd83aac"
+        },
+        {
             "name": "Three Stooges, The (USA)",
             "sha1": "01d519a07510122a1edb49a9553b0638cf49db71"
+        },
+        {
+            "name": "Thrill Kill (USA) (Unreleased) (Proto)",
+            "sha1": "03f4a54b7b305ff59fdbd65b5fab598d26e2e3a7"
         },
         {
             "name": "Time Crisis (USA)",
@@ -3837,8 +3915,36 @@
             "sha1": "5942e8cf2f22ea5e826c73c09e40353bf1dcd797"
         },
         {
+            "name": "Tomb Raider (Europe)",
+            "sha1": "7be95f8bf576b6d546efbe04a7e27fb0cc847ee7"
+        },
+        {
             "name": "Tomb Raider (USA)",
             "sha1": "34ed257db2a97c86fbe4d00fbeaffd0d0a798060"
+        },
+        {
+            "name": "Tomb Raider (USA) (Rev 1)",
+            "sha1": "db193929591922979856da14816b6ca417d748cb"
+        },
+        {
+            "name": "Tomb Raider (USA) (Rev 2)",
+            "sha1": "e63eabc18db14f150cefaf688fb0df863e70686b"
+        },
+        {
+            "name": "Tomb Raider (USA) (Rev 3)",
+            "sha1": "585f0bb7f740c1e17edd626cc86d8093877cab0a"
+        },
+        {
+            "name": "Tomb Raider (USA) (Rev 4)",
+            "sha1": "d758c42e1b23fbd0569a00c6c0f413849507ac69"
+        },
+        {
+            "name": "Tomb Raider (USA) (Rev5)",
+            "sha1": "88a5273156cc8d1ac419ab5646af2e494221c342"
+        },
+        {
+            "name": "Tomb Raider (USA) (Rev6)",
+            "sha1": "294b08736f01ca7528a191ed5ee50f849b40dbff"
         },
         {
             "name": "Tomb Raider - The Last Revelation (USA) (Rev 1)",
@@ -3907,6 +4013,10 @@
         {
             "name": "Top Shop (USA)",
             "sha1": "28dfb7afd90c0103ad4679f7d943e64288ae6475"
+        },
+        {
+            "name": "Touge Max 2 (Japan)",
+            "sha1": "731e6a638f203485362fffee777f0f5094c27f3b"
         },
         {
             "name": "Touki Denshou - Angel Eyes (Japan)",

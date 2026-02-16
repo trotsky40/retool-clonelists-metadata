@@ -157,6 +157,12 @@
             "sha1": "e2c29d0a73a4575028b62dca745476a17f07c8f0"
         },
         {
+            "name": "Bees (NTSC) (Aftermarket) (atari2600land)",
+            "crc": "885b5c09",
+            "md5": "597af15cc043c11f60f1e5cc6f091380",
+            "sha1": "2a20964f859d959fb0620419a2079dc4a44f9824"
+        },
+        {
             "name": "Bermuda Triangle (USA)",
             "crc": "0fcb5b94",
             "md5": "b8ed78afdb1e6cfe44ef6e3428789d5f",
@@ -211,16 +217,34 @@
             "sha1": "e1acf7a845b56e4b3d18192a75a81c7afa6f341a"
         },
         {
+            "name": "Carrot Kingdom (NTSC) (Rev 2) (Aftermarket) (Joseph Nesbella)",
+            "crc": "7f177e4c",
+            "md5": "e60ddaf73ee51ecba7dd22219faede50",
+            "sha1": "5988b25bc64f2c9791c85982acae546c3af29c37"
+        },
+        {
             "name": "Casino ~ Poker Plus (USA)",
             "crc": "420b8248",
             "md5": "b816296311019ab69a21cb9e9e235d12",
             "sha1": "08598101e38756916613f37581ef1b61c719016f"
         },
         {
+            "name": "Cat Trax (USA)",
+            "crc": "c847e5ec",
+            "md5": "76f66ce3b83d7a104a899b4b3354a2f2",
+            "sha1": "e979de719cecab2115affd9c0552c6c596b1999a"
+        },
+        {
             "name": "Centipede (Japan, USA) (En)",
             "crc": "77396102",
             "md5": "91c2098e88a6b13f977af8c003e0bca5",
             "sha1": "0b5914bc1526a9beaf54d7fd11408175cd8fcc72"
+        },
+        {
+            "name": "Checkers (USA)",
+            "crc": "e74f1b59",
+            "md5": "3f5a43602f960ede330cd2f43a25139e",
+            "sha1": "39b5bb27a6c4cb6532bd9d4cc520415c59dac653"
         },
         {
             "name": "Chopper Command (USA)",
@@ -839,6 +863,18 @@
             "crc": "df96102b",
             "md5": "72a46e0c21f825518b7261c267ab886e",
             "sha1": "7f9c2321c9f22cf2cdbcf1b3f0e563a1c53f68ca"
+        },
+        {
+            "name": "Robo Tito (NTSC) (Aftermarket) (VHZC)",
+            "crc": "4321d8f1",
+            "md5": "20bb15cbf61f85684d88c348a121fc1a",
+            "sha1": "5663915ae7f846a077c9d02fbe7b9998d1c08cd4"
+        },
+        {
+            "name": "Robo Tito (PAL60) (Aftermarket) (VHZC)",
+            "crc": "d57e5736",
+            "md5": "e2bd71a61584da41ac7c55b90deab543",
+            "sha1": "02fe560119b466617384e05b72a75a5b26c9d1f8"
         },
         {
             "name": "Robot Tank (USA)",

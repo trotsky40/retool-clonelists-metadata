@@ -299,6 +299,10 @@
             "sha1": "e4912aa9bed208a7858c6418e4241370fa11a1d3"
         },
         {
+            "name": "NFL 2K (USA)",
+            "sha1": "1eb25540877657ce5f124451d2cd9f484cd22d66"
+        },
+        {
             "name": "Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella)",
             "sha1": "b5b81a1c9fcafe3f34f4fa038249419fa359c853"
         },
@@ -613,6 +617,10 @@
             "sha1": "e3e219c5707bc599cb5d0ae646e56a2f2fbed88b"
         },
         {
+            "name": "South Park Rally (Europe) (En,Fr,De,Es)",
+            "sha1": "2bbc24ba97dd9398bc37e623ab0b8008aed8b41a"
+        },
+        {
             "name": "Space Channel 5 (Europe) (En,Fr,De,Es)",
             "sha1": "cca06a1940d3626d86f05d9d57f063f9c3ab2edc"
         },
@@ -723,6 +731,10 @@
         {
             "name": "Who Wants to Be a Millionaire (Europe)",
             "sha1": "baa41b5616109b15f388734f105b18c586e5a1ef"
+        },
+        {
+            "name": "Wolflame (USA, Japan) (Aftermarket)",
+            "sha1": "96aa0751e81ec5ecb0cced7b2fc4ffdd8d124fb2"
         }
     ]
 }

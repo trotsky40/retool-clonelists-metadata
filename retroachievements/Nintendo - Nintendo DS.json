@@ -25,6 +25,12 @@
             "sha1": "63098994064fec5bb6876f95e75544d257988cb9"
         },
         {
+            "name": "123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame (USA) (En,Es)",
+            "crc": "cb2baf20",
+            "md5": "490d9bf45fa7f077bdb5b7597fbfd545",
+            "sha1": "0b214400ef437ed9fb168febf9a6d8238e3e41f2"
+        },
+        {
             "name": "1500 DS Spirits Vol. 5 - Hanafuda (Japan)",
             "crc": "74ae04dc",
             "md5": "f54212d8258e530b2caf1d987b419955",
@@ -131,6 +137,12 @@
             "crc": "2a70e4e1",
             "md5": "0ef7534ae96cc628462c1808f213d91b",
             "sha1": "79643cfc58717a8076f07d8eed745a42cc6d7916"
+        },
+        {
+            "name": "Aliens - Infestation (USA) (En,Fr,De)",
+            "crc": "ac03d612",
+            "md5": "e6758e44deedd14639898faa26ea6985",
+            "sha1": "a9a69b6259f06cd4ac5d0e53e5beb5141b124b2d"
         },
         {
             "name": "All Kamen Rider - Rider Generation (Japan)",
@@ -445,6 +457,12 @@
             "sha1": "147f266623ae177b6815a4453d56e121b38e81da"
         },
         {
+            "name": "Burger Island (USA)",
+            "crc": "28e9728d",
+            "md5": "7f312ac64607aa6d2e0388da135570ac",
+            "sha1": "81cb59d4e5a84d18907b237f5eb8c331dfb28062"
+        },
+        {
             "name": "Burnout Legends (Europe) (En,Fr,De,Es,It,Nl)",
             "crc": "6c7ebce5",
             "md5": "8044f0fec879b2572a784cc0aa9a110b",
@@ -739,6 +757,12 @@
             "sha1": "6e5a566f9063b7685a681ce06ebcfb0eaee4ab11"
         },
         {
+            "name": "Coraline (Europe) (Ru) (v1.1) (COREline)",
+            "crc": "fab92d3a",
+            "md5": "507ad4034115b329a32690af6484986b",
+            "sha1": "c4d45d49f4aa320c572d927c876ee2fc71fb322f"
+        },
+        {
             "name": "Coropata (Japan)",
             "crc": "6904973a",
             "md5": "f1c8838ec17bdf4cd1d8caea24ab4d45",
@@ -773,6 +797,12 @@
             "crc": "ed0b8be6",
             "md5": "515a9f6d9d59e0ae25b9d2785a629e32",
             "sha1": "a1c3346a531b1befbede4c5bb9a4eb390cca0447"
+        },
+        {
+            "name": "Crazy Machines (Europe) (En,Fr,De,Es,It)",
+            "crc": "0aae1e6c",
+            "md5": "4a61356345460659e2b1f2c5aed86969",
+            "sha1": "97f0f8cbb8bfe53bc7da03d993b1a22ea90bb504"
         },
         {
             "name": "Crazy Machines 2 (Europe) (En,Fr,De,Es,It)",
@@ -1655,6 +1685,12 @@
             "crc": "99ce32b2",
             "md5": "6c6b0d42eebf6521f8c93aa941049b17",
             "sha1": "46f63abf98443aca6b903c5d7114898feb46ea77"
+        },
+        {
+            "name": "LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)",
+            "crc": "8b97d00b",
+            "md5": "1f79cbfe29bc487279d6aa19107855f7",
+            "sha1": "3016694e531b6cc144d6b98647f05f2a00e0bdab"
         },
         {
             "name": "LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)",
@@ -2545,6 +2581,12 @@
             "sha1": "4c0a4464c70f97640d526b52f63b851f13f48fe4"
         },
         {
+            "name": "POWDER (World) (r118) (Aftermarket) (Jeff Lait)",
+            "crc": "5e4d4431",
+            "md5": "eae299112b64c10efdb481028fcac5fc",
+            "sha1": "49f5fc2dcf3d5aa8244a7152bf3453fb38b8864a"
+        },
+        {
             "name": "Pac'n Roll (USA)",
             "crc": "a9a1d018",
             "md5": "2cc8c13414b5be5c55a4817a30b6ad5a",
@@ -2693,6 +2735,12 @@
             "crc": "d4427fd1",
             "md5": "4c65a32989c78b8070751765592b0ea6",
             "sha1": "e51e6dfb8678a3d19dcd2a10691b96a569ca0abb"
+        },
+        {
+            "name": "Pokemon - Blaze Black (v3.1) (Drayano) (Hack)",
+            "crc": "91de0c52",
+            "md5": "bbe92a9357b655c2703f042a7fe7777a",
+            "sha1": "b06c501e4545b4465608262186ff5c16196072c5"
         },
         {
             "name": "Pokemon - Diamant-Edition (Germany) (Rev 5)",
@@ -3043,6 +3091,12 @@
             "sha1": "23c5695662e906d9d57ff6e0b3e7842b9e7a1b84"
         },
         {
+            "name": "Pokemon - Volt White (v3.1) (Drayano) (Hack)",
+            "crc": "98b5222f",
+            "md5": "abd52077cce984431e1460cf21b4e9b1",
+            "sha1": "2dec01f0d319b914ea76ec8a26bebc4f544e152b"
+        },
+        {
             "name": "Pokemon - White Version (USA, Europe) (NDSi Enhanced)",
             "crc": "b552501c",
             "md5": "77c34ba77f8fa44e7caf04f695db0560",
@@ -3271,6 +3325,12 @@
             "sha1": "3c4b699083510181a6e3272cd7a227c6d16d258e"
         },
         {
+            "name": "Professor Layton en de Doos van Pandora (Netherlands)",
+            "crc": "38e2c568",
+            "md5": "efc5b77dcff97dcee604ca22c3c28c0b",
+            "sha1": "9d531e20e92b1c988a79fdf6f46b9fb8d9803e93"
+        },
+        {
             "name": "Professor Layton en de Melodie van het Spook (Netherlands)",
             "crc": "ab14db24",
             "md5": "0c7852dff83c26c550e41fc3c91bd291",
@@ -3335,6 +3395,12 @@
             "crc": "d5cf9c99",
             "md5": "6fc304bdfceb95cf75e3898c895ba92e",
             "sha1": "31e321df8d0c2b8c2ec688bed2f5dd3b9ba224ea"
+        },
+        {
+            "name": "Puzzle Quest 2 (Europe) (En,Fr,De,Es,It)",
+            "crc": "5c359236",
+            "md5": "6831a3228dceb642352adb1fdb9a3fa2",
+            "sha1": "6332fa995e6e40259dbbf815b700fc2862761aa8"
         },
         {
             "name": "Puzzle Series - Jigsaw Puzzle - Koinu Mekuri Hen (Japan)",
@@ -3407,6 +3473,12 @@
             "crc": "caaa43ce",
             "md5": "a8287405f1f1e7e881a1a4cedc89ae31",
             "sha1": "b522065a9a9123fe86dd2219681f78073ad90bf2"
+        },
+        {
+            "name": "Rayman - Raving Rabbids (USA) (En,Fr,Es)",
+            "crc": "aa968ccb",
+            "md5": "51582ae361e08acc18a8d3ab6c4d3c43",
+            "sha1": "da64e28984dc33fd1a77f85d1bee204964389f69"
         },
         {
             "name": "Rayman DS (Europe) (En,Fr,De,Es,It)",
@@ -3811,6 +3883,12 @@
             "sha1": "0d2b41a539c45813d83d55cf2b25a941630b5cdb"
         },
         {
+            "name": "Sesame Street - Elmo's Musical Monsterpiece (USA) (En,Es)",
+            "crc": "74133ff3",
+            "md5": "b627684a0f3119896f8251bc0391f484",
+            "sha1": "9bd66177237e23c91c739e1eab031627403d51d1"
+        },
+        {
             "name": "Shaberu! DS Oryouri Navi (Japan)",
             "crc": "6d21f4b6",
             "md5": "fdd22ced1f17548a3c0a205c712ba1c3",
@@ -3925,6 +4003,12 @@
             "sha1": "20483ed209bfbe8db14f4f8640fecb305326fbd0"
         },
         {
+            "name": "So-Nanoka DS (World) (v2009) (Aftermarket) (Hatena mark)",
+            "crc": "97c73729",
+            "md5": "e6f47f11e7ccb4836e26c52fa0f83c67",
+            "sha1": "08535a1293428793b095138688d0a796b6c7548b"
+        },
+        {
             "name": "Sokoban DS (Europe) (En,Fr,De,Es,It)",
             "crc": "7729c819",
             "md5": "752b21763885b563a215316531befe40",
@@ -3989,6 +4073,18 @@
             "crc": "da6114b7",
             "md5": "53ddae3a713a3d110e8b18ebc5600f91",
             "sha1": "1181affae6d39feaf4148cca061f7eec0bf83540"
+        },
+        {
+            "name": "Spectrobes (Europe) (En,Fr,De,Es,It)",
+            "crc": "397141bd",
+            "md5": "740a9a66307c69e99e9889b5e98be44b",
+            "sha1": "a5eed056cf06fd98935f948085095fd462171467"
+        },
+        {
+            "name": "Spectrobes (USA) (En,Fr,De,Es,It)",
+            "crc": "a4c2aecd",
+            "md5": "3034b7d57cf6dae0d2ee1132c7a9b46d",
+            "sha1": "114121829efdb64d4cc8cb178f0af1a32cdfe30a"
         },
         {
             "name": "Spectrobes - Beyond the Portals (Europe) (En,Fr,De,Es,It,Nl)",
@@ -4345,6 +4441,12 @@
             "sha1": "70e49dcf828f6ebf026971833308bfae7c1e642c"
         },
         {
+            "name": "Undertale (World) (Demo) (Aftermarket) (Homebrew)",
+            "crc": "3e76dbe6",
+            "md5": "938d6b4bf91ba909a04a09a9ac940eca",
+            "sha1": "b4647b9294f39391c1b6d6c60079c8f69fdb6372"
+        },
+        {
             "name": "Underwater Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)",
             "crc": "f1d92e9c",
             "md5": "bc6c90e7d15a7ab718dee6a412b3d651",
@@ -4415,6 +4517,12 @@
             "crc": "23fb8647",
             "md5": "b0d08f770814ba220082d86bcfb82a5a",
             "sha1": "111f1f7048281e16fef242d0dacb3ea8b230cb13"
+        },
+        {
+            "name": "Worms - Open Warfare (Europe) (En,Fr,De,Es,It)",
+            "crc": "b19777b8",
+            "md5": "c5fd315397f7a5ff7fe27a72595067e4",
+            "sha1": "0b1dbdde7117ee7def9f200f52046d14e7a06811"
         },
         {
             "name": "Yoshi Touch & Go (Europe) (En,Fr,De,Es,It)",

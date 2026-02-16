@@ -967,6 +967,12 @@
             "sha1": "0eef69c3715ab4968a7b8479f1169ffe3e0ac724"
         },
         {
+            "name": "Bill & Ted's Excellent Video Game Adventure (USA)",
+            "crc": "382f26ba",
+            "md5": "9f5139bfaa68e7977000b3bdfb5ef898",
+            "sha1": "d26da64a89cdc94e510911109d014d69bed1793b"
+        },
+        {
             "name": "Binary Land (Japan)",
             "crc": "323244fd",
             "md5": "4bf7d60f00d2b519c8771ce4e69d4c69",
@@ -1025,12 +1031,6 @@
             "crc": "2e7b26cc",
             "md5": "87b367378643932e9e0fa6eb00a229c3",
             "sha1": "26ab09e19d3f78d749443c116f29ffdd4186231d"
-        },
-        {
-            "name": "Blaster Master (Europe)",
-            "crc": "b9710bb2",
-            "md5": "23f46605dd99e1a0988d7afecc0d521f",
-            "sha1": "d3be37cfe1bbe69c847487c287cbb22265b6c287"
         },
         {
             "name": "Blaster Master (USA)",
@@ -1351,6 +1351,18 @@
             "sha1": "bd47f7f5f98fe2c1b92b82f89248969ea89f1bc1"
         },
         {
+            "name": "Captain Tsubasa (Japan)",
+            "crc": "0f68ed1b",
+            "md5": "eeb77e6e0e0b5695f9a35f47979c4722",
+            "sha1": "ba366fefe13a3746510acab2fe73d4db1fd8dce4"
+        },
+        {
+            "name": "Captain Tsubasa (Japan) (Es) (v1.0) (Rockymitsu)",
+            "crc": "2728f06c",
+            "md5": "e06076f3f4682a938f6f6e62a5bfe437",
+            "sha1": "9d27dd88070e3751443ebbebb60c143fd27fb339"
+        },
+        {
             "name": "Carpet Shark (World) (Aftermarket)",
             "crc": "61343c92",
             "md5": "56c7129ccb79ec7d3817f88d24e239f9",
@@ -1607,6 +1619,24 @@
             "crc": "96cc04ae",
             "md5": "20adbaaf5ae5cad06e77dfc255972b24",
             "sha1": "dca38ac6d1a71dd6f6c84182340cd8cc05e53a79"
+        },
+        {
+            "name": "Chessmaster, The (Europe)",
+            "crc": "94e739a3",
+            "md5": "9660cad2d8467ee8d0597954889b2810",
+            "sha1": "d1dbb25937eccd8238208c2518cd32034c87a2cf"
+        },
+        {
+            "name": "Chessmaster, The (USA)",
+            "crc": "0bbe866b",
+            "md5": "2e0e18349e965b3f0c029adc3c22ef6b",
+            "sha1": "a8ec84fbd4b52b8157fbd7d89a600b52135643b9"
+        },
+        {
+            "name": "Chessmaster, The (USA) (Rev 1)",
+            "crc": "e9421c01",
+            "md5": "f5cdc98638f7d73e30ff9b1753a02574",
+            "sha1": "049f30a340ab5defd4e9e4d585ce1bf598615976"
         },
         {
             "name": "Chip 'n Dale - Rescue Rangers (Europe)",
@@ -2377,6 +2407,12 @@
             "sha1": "3d95f67ba5fb341c0fc154dcb1683bbb11a7242d"
         },
         {
+            "name": "Donsol (World) (Aftermarket)",
+            "crc": "0c2120fc",
+            "md5": "725ef0e47b969cb9375f1057918b41a0",
+            "sha1": "936fc3cfd96a5e80801f33fa6423b7bccbc712e9"
+        },
+        {
             "name": "Door Door (Japan)",
             "crc": "d520ba35",
             "md5": "95aad89a763afe83b6128b6f46431c28",
@@ -2531,6 +2567,12 @@
             "crc": "69beb7a5",
             "md5": "bcc2ef456525746ec6a07d5b5a1f2598",
             "sha1": "026d1c64338de1b7526e5b442a39a2bceaced2af"
+        },
+        {
+            "name": "Dragon Ball - Daimaou Fukkatsu (Japan)",
+            "crc": "a3f4a010",
+            "md5": "98a8d5fd527dc9a851d5e43220c8b94a",
+            "sha1": "ff9a24473dcccd96d9f8ad38e3004e674b8c87c9"
         },
         {
             "name": "Dragon Ball - Shen Long no Nazo (Japan)",
@@ -3145,6 +3187,12 @@
             "sha1": "578bc2d91db7c71fabaeb9624b89253ea742c64f"
         },
         {
+            "name": "Faria - A World of Mystery & Danger! (USA)",
+            "crc": "79de2aad",
+            "md5": "71198f29b4be20429ea0d993c18057b1",
+            "sha1": "1c584f25e6c6b2b6dee1b6fe4a7688a48a0afe79"
+        },
+        {
             "name": "Faxanadu (USA)",
             "crc": "d8f265fc",
             "md5": "2a8a8344c47cf13d94c220dcc7e1ed1a",
@@ -3521,6 +3569,12 @@
             "crc": "d88a01e9",
             "md5": "cd77c06a572a5f2f51c4d4b3fefd87ba",
             "sha1": "ce42274aa7835a2ed72874a844d122e621c0c045"
+        },
+        {
+            "name": "Five Nights at Freddy's (World) (Aftermarket)",
+            "crc": "c5593541",
+            "md5": "33e8a9fb93fc7a80a632c3727dc6d6c7",
+            "sha1": "1120f9c7501bcd9b978a5b32b66b0ccc16f99b08"
         },
         {
             "name": "Flappy Bird (World) (Nioreh) (Aftermarket)",
@@ -9403,6 +9457,12 @@
             "sha1": "0a80e8f913145ff9f8cd877a644c07548024a7f3"
         },
         {
+            "name": "Sesame Street - ABC (USA)",
+            "crc": "7f72fd74",
+            "md5": "a60555b4d0eaf3f4c68f45afb644028c",
+            "sha1": "0a80e8f913145ff9f8cd877a644c07548024a7f3"
+        },
+        {
             "name": "Sesame Street - Big Bird's Hide & Speak (USA)",
             "crc": "d24b806a",
             "md5": "e3a8bccd2ca0f0101912b874e5118174",
@@ -10759,6 +10819,12 @@
             "sha1": "bb4fe88f0e743a0c2d6c1a11a20bc8ca0138079e"
         },
         {
+            "name": "Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack)",
+            "crc": "4a91e7fc",
+            "md5": "d7236ca0605bc3b36ec9ba7dd3cdcd9d",
+            "sha1": "9dfd2ad497f2e78a32b581666e91f7db9d84642f"
+        },
+        {
             "name": "Toobin' (USA) (Unl)",
             "crc": "1461f263",
             "md5": "1d0084cadaef9c015dfc36bb137b6109",
@@ -11537,6 +11603,12 @@
             "crc": "b6a21f1e",
             "md5": "e110005398a060e940e28815c2e42941",
             "sha1": "e960ef2315135abf430fcc80ad9fd24a20e38f16"
+        },
+        {
+            "name": "Zelda - The Legend of Link (v3-12-20) (infidelity) (Hack)",
+            "crc": "e4651818",
+            "md5": "0b7a5bf3a781a6c1a2a9b0fce1ca3f8d",
+            "sha1": "6a33a18d357a2b54ffa75175847332b5fad983fb"
         },
         {
             "name": "Zelda Chuanshuo - Shenqi de Maozi (China) (Unl)",

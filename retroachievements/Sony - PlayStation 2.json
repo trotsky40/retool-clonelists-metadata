@@ -189,8 +189,24 @@
             "sha1": "a813bd25269a81dd0b70550bd3b61ea03ec2154d"
         },
         {
+            "name": "Area 51 (USA)",
+            "sha1": "2d96da6a6eb78f33371ed06a0b87cde246b2bcda"
+        },
+        {
             "name": "Armored Core 2 (USA)",
             "sha1": "7ea8d5d0088432ac80ccc602066b134bfdd550e6"
+        },
+        {
+            "name": "Armored Core 3 (USA)",
+            "sha1": "a5d460d39f5f9097a42e2d4907505fdd36eb7834"
+        },
+        {
+            "name": "Armored Core 3 (USA) (Analog) (v1.64) (VanLaser)",
+            "sha1": "eb0edde4ef173c53b986a6825e2d7bb4e0c572a1"
+        },
+        {
+            "name": "Armored Core 3 (USA) (Inverted Analog) (v1.64) (VanLaser)",
+            "sha1": "e764fb5242de83b5c04c127092ac0a59453a7d75"
         },
         {
             "name": "Artlist Collection - The Dog Island (USA) (En,Fr,Es)",
@@ -653,6 +669,10 @@
             "sha1": "740451de203e8041e558253d10289201d41cf9b2"
         },
         {
+            "name": "Dawn of Mana (USA)",
+            "sha1": "8eed242ce7c2aec4c7b62b38f18024459f58dd4d"
+        },
+        {
             "name": "Dead to Rights (USA)",
             "sha1": "335acae57ed8eb4b4e239280d08008b507d855a7"
         },
@@ -667,6 +687,10 @@
         {
             "name": "Demolition Girl (Europe)",
             "sha1": "465bffd64abfa91859f0d8de546270fd902081c4"
+        },
+        {
+            "name": "Destroy All Humans! (USA)",
+            "sha1": "cabcbae7ccaefb244fd28bc5c9ac2dd5c93e1a04"
         },
         {
             "name": "Devil Kings (USA)",
@@ -1145,6 +1169,10 @@
             "sha1": "7721207bbc0afab456086eebe1a3047939154f8e"
         },
         {
+            "name": "Enthusia - Professional Racing (USA)",
+            "sha1": "8a323a154ea4b773a196eba503ff6d11e0645bc8"
+        },
+        {
             "name": "Escape from Monkey Island (Europe)",
             "sha1": "3a63d8d2169035db224ed2795b9e4425c97eb875"
         },
@@ -1393,8 +1421,20 @@
             "sha1": "15547518f3deaeef5aef02ff9ef14862ebe0d195"
         },
         {
+            "name": "Garfield 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+            "sha1": "4a59ad2defc79c61dfee5bf761506e3f97cb74be"
+        },
+        {
             "name": "Gauntlet - Dark Legacy (USA)",
             "sha1": "7edc6d819f7fa727e287453f6d38edccaafb89a4"
+        },
+        {
+            "name": "Genji - Dawn of the Samurai (USA)",
+            "sha1": "4eca845e2e3b1e7157bb5e6ea657cedb3e50812c"
+        },
+        {
+            "name": "Genji - Dawn of the Samurai (USA) (PT-BR) (RevNatal) (bitraiden & hnnewgames)",
+            "sha1": "931ade14758b44308a30004e63aff9fc7f390bb7"
         },
         {
             "name": "Getaway, The (USA) (En,Fr,De,Es,It)",
@@ -1829,6 +1869,10 @@
             "sha1": "37278ba69df5ea5bafba82e4cd47618ce4bbcc21"
         },
         {
+            "name": "Hokuto no Ken - Shinpan no Sousousei - Kengou Retsuden (Japan)",
+            "sha1": "e695a26cf3f80cec14314f15b7c47109d0bfe2f5"
+        },
+        {
             "name": "Home Alone (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
             "sha1": "4b7fb6b07a113f303fb27e2165090291787b96f0"
         },
@@ -1939,6 +1983,10 @@
         {
             "name": "Jeopardy! (USA)",
             "sha1": "c19b7bb039f0b858ccd6a8f58023b539796fdfc3"
+        },
+        {
+            "name": "Jetix Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+            "sha1": "2bcef6e83349bd43cbe3321995f86240e8948c82"
         },
         {
             "name": "Jojo no Kimyou na Bouken - Ougon no Kaze (Japan)",
@@ -2277,6 +2325,10 @@
             "sha1": "42ea8279fb281a40aa19efd6489981ee80c5b6d3"
         },
         {
+            "name": "Marvel - Ultimate Alliance (USA)",
+            "sha1": "5a8ff3695899e437bb80a0f9e31221f3f30481f7"
+        },
+        {
             "name": "Marvel vs. Capcom 2 - New Age of Heroes (USA)",
             "sha1": "13d105b121d5153d80c3a789a51f2aec25d59295"
         },
@@ -2363,6 +2415,10 @@
         {
             "name": "Mega Man X8 (USA)",
             "sha1": "37432d571afde9a36811b7ec3699e0b98705fc55"
+        },
+        {
+            "name": "Melty Blood - Act Cadenza (Japan)",
+            "sha1": "99bbdf559401b2ef22d528137507b869003f1aec"
         },
         {
             "name": "Melty Blood - Actress Again (Japan)",
@@ -2901,6 +2957,10 @@
             "sha1": "5b0095ad672db78ba2d390035d7c5f0e3c057c51"
         },
         {
+            "name": "Prince of Persia - The Two Thrones (USA) (En,Fr,Es)",
+            "sha1": "521ccc7c84ae0562788e501339309aee15fddc54"
+        },
+        {
             "name": "Prince of Persia - Warrior Within (Europe, Australia) (En,Fr,De,Es,It,Nl)",
             "sha1": "3f80c7d3b8fc1316efa213a5dc005116298899c7"
         },
@@ -2927,6 +2987,10 @@
         {
             "name": "Psikyo Shooting Collection Vol. 1 - Strikers 1945 I & II (Japan)",
             "sha1": "9a698bc19ece70c369aba2f8d185e7b7d697d1f0"
+        },
+        {
+            "name": "Psychonauts (USA) (Anti-Cheat) (v1.0) (Manako)",
+            "sha1": "ca099b2b0e2ba662365aeb82fa39e430bcd779d2"
         },
         {
             "name": "Punisher, The (USA)",
@@ -3229,6 +3293,14 @@
             "sha1": "cd9068fe4478e279a68ebe9382854430ecbc592c"
         },
         {
+            "name": "Seek and Destroy (USA)",
+            "sha1": "5c27a64e2d2e26f829c8349af70310866581526e"
+        },
+        {
+            "name": "Seek and Destroy (USA) (Widescreen) (v1.0) (Souzooka)",
+            "sha1": "4919cfabc504687c2e4b75f8c1f19bc19cdfcae3"
+        },
+        {
             "name": "Sega Rally Championship (Japan)",
             "sha1": "0660b2e1a26d42f33c29f6c774f3e594dcb485a9"
         },
@@ -3323,6 +3395,34 @@
         {
             "name": "Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (SlayerOfGod)",
             "sha1": "49384d36a974579724601cd816d4a39873770e5f"
+        },
+        {
+            "name": "Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Subset - Heart Items)",
+            "sha1": "688d5718f41f9d3c69ea824acad7def04b559439"
+        },
+        {
+            "name": "Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Undub - Original BGM) (Subset - Heart Items)",
+            "sha1": "20a34d553781a58c8aeaaf125a8bb385885c232f"
+        },
+        {
+            "name": "Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Undub - Remix BGM) (Subset - Heart Items)",
+            "sha1": "b6780a9597e7561fa7742784233b0255d875bb1f"
+        },
+        {
+            "name": "Shin Megami Tensei - Persona 3 FES (En) (Subset - Heart Items)",
+            "sha1": "1252351972365e0abc2552304371e2a61a875cf1"
+        },
+        {
+            "name": "Shin Megami Tensei - Persona 3 FES (En) (Undub - Original BGM) (Subset - Heart Items)",
+            "sha1": "b4bd5b4e40684546aa9346d227ee051c56d18c54"
+        },
+        {
+            "name": "Shin Megami Tensei - Persona 3 FES (En) (Undub - Remix BGM) (Subset - Heart Items)",
+            "sha1": "50d4b7c5ffaddfcff9c0e1aeeeb213b11e9212b8"
+        },
+        {
+            "name": "Shin Megami Tensei - Persona 3 FES (Es) (Subset - Heart Items)",
+            "sha1": "9f727ef1dad89d7d92e1b1490baaa8bcb0ef7a6d"
         },
         {
             "name": "Shin Megami Tensei - Persona 3 FES (Subset - Orpheus Only)",
@@ -3434,7 +3534,7 @@
         },
         {
             "name": "Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan)",
-            "sha1": "0348a7cd62840b233ad77f7f947f6bad6503ae97"
+            "sha1": "5fd2ff8cc4ff6209995cd30c98fa1fa1cdbc62a8"
         },
         {
             "name": "Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop)",
@@ -3829,6 +3929,10 @@
             "sha1": "06ceb1a259977c5002684419b3f759c8fcd0f41c"
         },
         {
+            "name": "Tales of Legendia (USA)",
+            "sha1": "f9137b1d2d269e2c3f7816e5fa29693c53612f45"
+        },
+        {
             "name": "Tales of the Abyss (USA)",
             "sha1": "805c3efabbbc4833399588944b34f3fce8d57d23"
         },
@@ -4085,8 +4189,16 @@
             "sha1": "e25718e13240dcf442bac431dd3c57481d2c4745"
         },
         {
+            "name": "Van Helsing (USA)",
+            "sha1": "331c15a2a5c541a3d50e8405020b58b590f9fa1d"
+        },
+        {
             "name": "Vexx (USA)",
             "sha1": "e2604a3e34f247ecc79fa5fb79f3f1323eba56c5"
+        },
+        {
+            "name": "Vib-Ripple (Japan)",
+            "sha1": "b1d25f5fd8fcad26817abdddfacb06c42ebf3b4c"
         },
         {
             "name": "Victorious Boxers 2 - Fighting Spirit (USA)",
@@ -4127,6 +4239,10 @@
         {
             "name": "Wallace & Gromit - The Curse of the Were-Rabbit (USA)",
             "sha1": "d26829fd17d00c245c6c3960c9ee926c40365cf9"
+        },
+        {
+            "name": "Wallace & Gromit in Project Zoo (USA)",
+            "sha1": "546cd7de3afd0360612baf0ef280991b26e1d966"
         },
         {
             "name": "War of the Monsters (USA)",
