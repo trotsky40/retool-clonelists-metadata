@@ -2197,7 +2197,7 @@
 			"group": "Red Dead Redemption - Undead Nightmare",
 			"titles": [
 				{"searchTerm": "Red Dead Redemption - Undead Nightmare"}
-			]
+			],
 			"supersets": [
 				{"searchTerm": "Red Dead Redemption - Complete Edition"},
 				{"searchTerm": "Red Dead Redemption - Game of the Year Edition"}
@@ -3067,3 +3067,4 @@
 		}
 	]
 }
+
