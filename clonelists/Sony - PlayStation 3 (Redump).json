@@ -1107,8 +1107,9 @@
 			]
 		},
 		{
-			"group": "FolksSoul - Ushinawareta Denshou",
+			"group": "Folklore",
 			"titles": [
+				{"searchTerm": "Folklore"},
 				{"searchTerm": "FolksSoul - Ilheobeorin Jeonseung"},
 				{"searchTerm": "FolksSoul - Ushinawareta Denshou"}
 			]
@@ -1253,7 +1254,8 @@
 			"group": "Hot Shots Golf - Out of Bounds",
 			"titles": [
 				{"searchTerm": "Everybody's Golf - World Tour"},
-				{"searchTerm": "Hot Shots Golf - Out of Bounds"}
+				{"searchTerm": "Hot Shots Golf - Out of Bounds"},
+				{"searchTerm": "Minna no Golf 5"}
 			]
 		},
 		{
@@ -1674,6 +1676,15 @@
 				{"searchTerm": "ModNation Racers"}
 			]
 		},
+		{
+			"group": "Mortal Kombat",
+			"titles": [
+				{"searchTerm": "Mortal Kombat"}
+			],
+			"supersets": [
+				{"searchTerm": "Mortal Kombat - Komplete Edition"}
+			]
+		},	
 		{
 			"group": "MotorStorm",
 			"titles": [
@@ -2187,6 +2198,10 @@
 			"titles": [
 				{"searchTerm": "Red Dead Redemption - Undead Nightmare"}
 			]
+			"supersets": [
+				{"searchTerm": "Red Dead Redemption - Complete Edition"},
+				{"searchTerm": "Red Dead Redemption - Game of the Year Edition"}
+			]
 		},
 		{
 			"group": "Resident Evil 5",
@@ -2619,6 +2634,17 @@
 				{"searchTerm": "Start the Party! Save the World"}
 			]
 		},
+	{
+			"group": "Street Fighter IV",
+			"titles": [
+				{"searchTerm": "Street Fighter IV"}
+			],
+			"supersets": [
+				{"searchTerm": "Super Street Fighter IV"},
+				{"searchTerm": "Super Street Fighter IV - Arcade Edition"},
+				{"searchTerm": "Ultra Street Fighter IV"}
+			]
+		},
 		{
 			"group": "Super Hero Generation",
 			"titles": [
@@ -3041,3 +3067,4 @@
 		}
 	]
 }
+
