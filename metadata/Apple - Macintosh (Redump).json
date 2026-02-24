@@ -24,6 +24,9 @@
 	"3-D Ultra Pinball - Creep Night (France)": {
 		"languages": ["Fr"]
 	},
+	"3D Bridge Deluxe (USA)": {
+		"languages": ["En"]
+	},
 	"3DO Content Library, The (USA) (Disc 01) (CD Browser and Text Index)": {
 		"languages": ["En"]
 	},
@@ -767,6 +770,9 @@
 	},
 	"Bugdom (USA)": {
 		"languages": []
+	},
+	"Buku Sudoku (USA)": {
+		"languages": ["En"]
 	},
 	"Bungie Mac Action Sack (USA)": {
 		"languages": ["En"]
@@ -4027,6 +4033,9 @@
 		"localName": "ワロビー・ジャックの大冒険　「オーストラリアの秘宝」"
 	},
 	"WarCraft II - Tides of Darkness (USA)": {
+		"languages": ["En"]
+	},
+	"Warlords II (USA)": {
 		"languages": ["En"]
 	},
 	"Weekend Warrior (USA) (OEM)": {

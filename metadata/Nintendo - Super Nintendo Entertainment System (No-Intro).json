@@ -57,6 +57,12 @@
 	"240p Test Suite (World) (v1.03) (PAL) (Program) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"240p Test Suite (World) (v1.09) (NTSC) (Program) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"240p Test Suite (World) (v1.09) (PAL) (Program) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"240p Test Suite (World) (v1.061) (NTSC) (Program) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -74,7 +80,7 @@
 		"languages": ["Ja"],
 		"localName": "＇９６全国高校サッカー選手権"
 	},
-	"[BIOS] Super NES CD-ROM - Boot ROM (Japan) (En) (v0.95) (Proto)": {
+	"[BIOS] Super NES CD-ROM - Boot ROM (Japan) (En) (Proto)": {
 		"languages": ["En"]
 	},
 	"A.S.P. - Air Strike Patrol (USA)": {
@@ -225,7 +231,7 @@
 	"Aero the Acro-Bat 2 (Europe)": {
 		"languages": ["En"]
 	},
-	"Aero the Acro-Bat 2 (USA) (Beta) (1994-08-08)": {
+	"Aero the Acro-Bat 2 (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Aero the Acro-Bat 2 (USA)": {
@@ -283,7 +289,7 @@
 		"languages": ["Ja"],
 		"localName": "赤ずきんチャチャ"
 	},
-	"Akumajou Dracula (Japan) (Beta) (1991-06-14)": {
+	"Akumajou Dracula (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "悪魔城ドラキュラ"
 	},
@@ -395,7 +401,7 @@
 	"Alien Cat 2 (World) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Alien Cat 2 - Enhanced Edition (World) (Evercade) (Aftermarket) (Unl)": {
+	"Alien Cat 2 (World) (v1.1) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Alien vs Predator (Europe)": {
@@ -479,7 +485,7 @@
 		"languages": ["Ja"],
 		"localName": "アニマニアクス"
 	},
-	"Animaniacs (USA) (Beta) (1994-06-11)": {
+	"Animaniacs (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Animaniacs (USA)": {
@@ -499,7 +505,7 @@
 	"Apocalypse II (Europe) (Proto 1)": {
 		"languages": ["En"]
 	},
-	"Apocalypse II (Europe) (Proto 2) (1997-10-28)": {
+	"Apocalypse II (Europe) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Apocalypse II (World) (Aftermarket) (Unl)": {
@@ -528,13 +534,13 @@
 	"Arcade's Greatest Hits - The Atari Collection 1 (Europe)": {
 		"languages": ["En"]
 	},
-	"Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-02-10)": {
+	"Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-02-11)": {
+	"Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta) (1997-04-11)": {
+	"Arcade's Greatest Hits - The Atari Collection 1 (USA) (Beta 3)": {
 		"languages": ["En"]
 	},
 	"Arcade's Greatest Hits - The Atari Collection 1 (USA)": {
@@ -611,7 +617,7 @@
 	"Armored Police - Metal Jack (USA) (Proto 1)": {
 		"languages": ["En"]
 	},
-	"Armored Police - Metal Jack (USA) (Proto 2) (1992-07-30)": {
+	"Armored Police - Metal Jack (USA) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Art of Fighting (Europe)": {
@@ -644,7 +650,7 @@
 	"Asterix & Obelix (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"Asterix (Europe) (En,Fr,De,Es) (Beta) (1993-03-11)": {
+	"Asterix (Europe) (En,Fr,De,Es) (Beta)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Asterix (Europe) (En,Fr,De,Es)": {
@@ -664,7 +670,7 @@
 		"languages": ["Ja"],
 		"localName": "ジ・アトラス"
 	},
-	"Atmosfear (USA) (Proto) (1994-07-12)": {
+	"Atmosfear (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Attack of the PETSCII Robots (World) (Aftermarket) (Unl)": {
@@ -972,10 +978,10 @@
 	"Beethoven - The Ultimate Canine Caper! (Unknown) (Beta)": {
 		"languages": ["En"]
 	},
-	"Beethoven - The Ultimate Canine Caper! (USA)": {
+	"Beethoven - The Ultimate Canine Caper! (USA) (Beta)": {
 		"languages": ["En"]
 	},
-	"Beethoven's 2nd (USA) (Beta) (1993-09-13)": {
+	"Beethoven - The Ultimate Canine Caper! (USA)": {
 		"languages": ["En"]
 	},
 	"Benkei Gaiden - Suna no Shou (Japan)": {
@@ -1113,9 +1119,6 @@
 	"Blackhawk (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Blackthorne (USA) (Beta) (CES)": {
-		"languages": ["En"]
-	},
 	"Blackthorne (USA) (Beta)": {
 		"languages": ["En"]
 	},
@@ -1210,10 +1213,10 @@
 	"Borderline (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Borderline (World) (v0.8) (Beta) (Aftermarket) (Unl)": {
+	"Borderline (World) (Beta) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Bounty Sword (Japan) (Beta) (1995-05-16)": {
+	"Bounty Sword (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "バウンティ・ソード"
 	},
@@ -1235,6 +1238,9 @@
 		"localName": "ブレインロード"
 	},
 	"Brain Lord (USA)": {
+		"languages": ["En"]
+	},
+	"Brainies, The (Europe) (Beta)": {
 		"languages": ["En"]
 	},
 	"Brainies, The (Europe)": {
@@ -1348,7 +1354,7 @@
 	"Bubsy II (Europe)": {
 		"languages": ["En"]
 	},
-	"Bubsy II (USA) (Beta) (1994-07-12)": {
+	"Bubsy II (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Bubsy II (USA)": {
@@ -1585,10 +1591,10 @@
 	"Championship Soccer '94 (USA) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
 	},
-	"Chaos Drop (Europe) (Proto 1) (1993-03-03)": {
+	"Chaos Drop (Europe) (Proto 1)": {
 		"languages": ["En"]
 	},
-	"Chaos Drop (Europe) (Proto 2) (1993-03-10)": {
+	"Chaos Drop (Europe) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Chaos Drop (Europe) (Proto 3)": {
@@ -1686,7 +1692,7 @@
 		"languages": ["Ja"],
 		"localName": "ウォズ　超魔法大陸ＷＯＺＺ"
 	},
-	"Chou Makai Taisen! Dorabocchan (Japan) (Beta) (1992-12-21)": {
+	"Chou Makai Taisen! Dorabocchan (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "超魔界大戦！どらぼっちゃん"
 	},
@@ -1694,7 +1700,7 @@
 		"languages": ["Ja"],
 		"localName": "超魔界大戦！どらぼっちゃん"
 	},
-	"Chou Makaimura (Japan) (Beta) (1991-06-26)": {
+	"Chou Makaimura (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "超魔界村"
 	},
@@ -1788,7 +1794,7 @@
 	"Clay Fighter - Tournament Edition (USA)": {
 		"languages": ["En"]
 	},
-	"ClayFighter (USA) (Beta 1) (1993-09-28) [b]": {
+	"ClayFighter (USA) (Beta 1) [b]": {
 		"languages": ["En"]
 	},
 	"ClayFighter (USA) (Beta 2)": {
@@ -1881,7 +1887,10 @@
 	"Contra (World) (Ja) (REV-D) (NES Conversion) (Aftermarket) (Unl)": {
 		"languages": ["Ja"]
 	},
-	"Contra Force (World) (Proto) (NES Conversion) (Aftermarket) (Unl)": {
+	"Contra Force (World) (Proto 1) (NES Conversion) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Contra Force (World) (Proto 2) (NES Conversion) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Contra III - The Alien Wars (USA) (Beta)": {
@@ -1930,7 +1939,7 @@
 	"Cool Spot (USA)": {
 		"languages": ["En"]
 	},
-	"Cool World (Spain) (En)": {
+	"Cool World (Europe)": {
 		"languages": ["En"]
 	},
 	"Cool World (Unknown) (Beta)": {
@@ -1979,10 +1988,10 @@
 	"Creepy Bird (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Creepy Bird (World) (v1.02) (Digital Release) (Aftermarket) (Unl)": {
+	"Creepy Bird (World) (v1.02) (Digital) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Creepy Bird (World) (v1.02) (Retro-Bit Generations) (Aftermarket) (Unl)": {
+	"Creepy Bird (World) (v1.02) (Digital) (Retro-Bit Generations) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Cronela's Mansion (World) (Demo) (Aftermarket) (Unl)": {
@@ -2031,7 +2040,7 @@
 	"Cybernator (Europe)": {
 		"languages": ["En"]
 	},
-	"Cybernator (USA) (Beta) (1992-11-xx)": {
+	"Cybernator (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Cybernator (USA)": {
@@ -2205,7 +2214,7 @@
 	"Death and Return of Superman, The (Europe)": {
 		"languages": ["En"]
 	},
-	"Death and Return of Superman, The (USA) (Beta) (1994-08-08)": {
+	"Death and Return of Superman, The (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Death and Return of Superman, The (USA) (Rev 1)": {
@@ -2256,7 +2265,7 @@
 	"Dennis (Europe)": {
 		"languages": ["En"]
 	},
-	"Dennis the Menace (USA) (Beta) (1993-03-03)": {
+	"Dennis the Menace (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Dennis the Menace (USA)": {
@@ -2584,7 +2593,7 @@
 	"Dragon - The Bruce Lee Story (Europe)": {
 		"languages": ["En"]
 	},
-	"Dragon - The Bruce Lee Story (USA) (Beta) (1993-04-23)": {
+	"Dragon - The Bruce Lee Story (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Dragon - The Bruce Lee Story (USA)": {
@@ -2772,7 +2781,7 @@
 	"DSP4 (World) (Enhancement Chip)": {
 		"languages": ["En"]
 	},
-	"Dual Orb - Seirei Tama Densetsu (Japan) (Beta) (1992-11-25)": {
+	"Dual Orb - Seirei Tama Densetsu (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "デュアルオーブ　聖霊珠伝説"
 	},
@@ -2875,10 +2884,10 @@
 	"EarthBound (USA)": {
 		"languages": ["En"]
 	},
-	"Earthworm Jim 2 (Europe) (Beta) (1995-04-24)": {
+	"Earthworm Jim 2 (Europe) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Earthworm Jim 2 (Europe) (Beta) (1995-09-07)": {
+	"Earthworm Jim 2 (Europe) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Earthworm Jim 2 (Europe)": {
@@ -2893,7 +2902,7 @@
 	"Earthworm Jim 2 (World) (Evercade)": {
 		"languages": ["En"]
 	},
-	"Earthworm Jim (Europe) (Beta) (1994-08-04)": {
+	"Earthworm Jim (Europe) (Beta)": {
 		"languages": ["En"]
 	},
 	"Earthworm Jim (Europe)": {
@@ -2903,7 +2912,7 @@
 		"languages": ["Ja"],
 		"localName": "アースワーム・ジム"
 	},
-	"Earthworm Jim (USA) (Beta) (1994-08-19)": {
+	"Earthworm Jim (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Earthworm Jim (USA)": {
@@ -3017,7 +3026,7 @@
 		"languages": ["Ja"],
 		"localName": "エストポリス伝記ＩＩ"
 	},
-	"Eurit (USA) (Proto) (1995-05-24)": {
+	"Eurit (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Euro Football Champ (Europe)": {
@@ -3057,10 +3066,10 @@
 	"Eyra - The Crow Maiden (USA) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Eyra - The Crow Maiden (World) (Demo) (2021-09-10) (Aftermarket) (Unl)": {
+	"Eyra - The Crow Maiden (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Eyra - The Crow Maiden (World) (Demo) (2022-06-07) (Aftermarket) (Unl)": {
+	"Eyra - The Crow Maiden (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Eyra - The Crow Maiden (World) (Digital) (Aftermarket) (Unl)": {
@@ -3113,7 +3122,7 @@
 		"languages": ["En"],
 		"localName": "エフゼロ"
 	},
-	"F-Zero (USA) (Beta) (1991-05-13)": {
+	"F-Zero (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"F-Zero (USA)": {
@@ -3431,7 +3440,7 @@
 		"languages": ["Ja"],
 		"localName": "ファイプロ女子　オールスタードリームスラム"
 	},
-	"Firearm (USA) (Proto) (1993-12-17)": {
+	"Firearm (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Firemen, The (Europe) (En,Fr,De)": {
@@ -3456,7 +3465,7 @@
 	"Fireteam Rogue (USA) (Proto 1)": {
 		"languages": ["En"]
 	},
-	"Fireteam Rogue (USA) (Proto 2) (1995-01-16)": {
+	"Fireteam Rogue (USA) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"First Queen - Ornic Senki (Japan)": {
@@ -3741,6 +3750,10 @@
 		"languages": ["Ja"],
 		"localName": "がんばれゴエモン２　奇天烈将軍マッギネス"
 	},
+	"Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Beta)": {
+		"languages": ["Ja"],
+		"localName": "がんばれゴエモン３　獅子重禄兵衛のからくり卍固め"
+	},
 	"Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Rev 1)": {
 		"languages": ["Ja"],
 		"localName": "がんばれゴエモン３　獅子重禄兵衛のからくり卍固め"
@@ -3753,15 +3766,11 @@
 		"languages": ["Ja"],
 		"localName": "がんばれゴエモン３　獅子重禄兵衛のからくり卍固め"
 	},
-	"Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Sample) (1994-10-24)": {
-		"languages": ["Ja"],
-		"localName": "がんばれゴエモン３　獅子重禄兵衛のからくり卍固め"
-	},
 	"Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan)": {
 		"languages": ["Ja"],
 		"localName": "がんばれゴエモン３　獅子重禄兵衛のからくり卍固め"
 	},
-	"Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta) (1991-05-31)": {
+	"Ganbare Goemon - Yuki Hime Kyuushutsu Emaki (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "がんばれゴエモン　ゆき姫救出絵巻"
 	},
@@ -3817,7 +3826,7 @@
 		"languages": ["Ja"],
 		"localName": "元祖パチンコ王"
 	},
-	"Gargoyles (USA) (Proto) (1994-07-19)": {
+	"Gargoyles (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Rev 1)": {
@@ -3992,7 +4001,7 @@
 		"languages": ["Ja"],
 		"localName": "ごきんじょ冒険隊"
 	},
-	"Gokujou Parodius (Japan) (Beta 1) (1994-08-05)": {
+	"Gokujou Parodius (Japan) (Beta 1)": {
 		"languages": ["Ja"],
 		"localName": "極上パロディウス"
 	},
@@ -4320,7 +4329,7 @@
 		"languages": ["Ja"],
 		"localName": "へべれけのおいしいパズルはいりませんか"
 	},
-	"Hebereke no Popoon (Japan) (Beta) (1993-11-03)": {
+	"Hebereke no Popoon (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "へべれけのぽぷーん"
 	},
@@ -4558,10 +4567,10 @@
 	"Hook (USA)": {
 		"languages": ["En"]
 	},
-	"Horizontal Shooter (World) (Demo) (Aftermarket) (Unl)": {
+	"Horizontal Shooter (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Horizontal Shooter (World) (v1.1) (Demo) (Aftermarket) (Unl)": {
+	"Horizontal Shooter (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Hoshi no Kirby 3 (Japan)": {
@@ -4624,6 +4633,9 @@
 	"Humans, The (World) (QUByte Classics)": {
 		"languages": ["En"]
 	},
+	"Hungry Dinosaurs (Europe) (Beta)": {
+		"languages": ["En"]
+	},
 	"Hungry Dinosaurs (Europe)": {
 		"languages": ["En"]
 	},
@@ -4645,7 +4657,7 @@
 	"Hurricanes (USA)": {
 		"languages": ["En"]
 	},
-	"Hyper Iria (Japan) (Beta) (1995-07-03)": {
+	"Hyper Iria (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "ハイパーイリア"
 	},
@@ -4725,7 +4737,7 @@
 	"Illusion of Time (Spain)": {
 		"languages": ["Es"]
 	},
-	"Illvanian no Shiro (Japan) (Beta) (1994-08-23)": {
+	"Illvanian no Shiro (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "イルバニアンの城"
 	},
@@ -4856,7 +4868,7 @@
 		"languages": ["Ja"],
 		"localName": "磯釣り　離島篇"
 	},
-	"Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta) (1993-12-20)": {
+	"Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "いただきストリート２　ネオンサインはバラ色に"
 	},
@@ -4949,6 +4961,9 @@
 	"J.R.R. Tolkien's The Lord of the Rings - Volume One (Europe)": {
 		"languages": ["En"]
 	},
+	"J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample)": {
+		"languages": ["De"]
+	},
 	"J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany)": {
 		"languages": ["De"]
 	},
@@ -5040,7 +5055,7 @@
 	"Jetsons, The - Invasion of the Planet Pirates (USA)": {
 		"languages": ["En"]
 	},
-	"Jigsaw Party (Japan) (Beta) (1994-03-25)": {
+	"Jigsaw Party (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "ジグソーパ〜ティ〜"
 	},
@@ -5380,6 +5395,9 @@
 	"Jurassic Park Part 2 - The Chaos Continues (USA) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
 	},
+	"Jurl (World) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Justice League Task Force (Europe)": {
 		"languages": ["En"]
 	},
@@ -5543,11 +5561,11 @@
 		"languages": ["Ja"],
 		"localName": "けろけろけろっぴの冒険日記　眠れる森のけろりーぬ"
 	},
-	"Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.315) (Beta)": {
+	"Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 1)": {
 		"languages": ["Ja"],
 		"localName": "決戦！ドカポン王国ＩＶ　〜伝説の勇者たち〜"
 	},
-	"Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.431) (Beta)": {
+	"Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta 2)": {
 		"languages": ["Ja"],
 		"localName": "決戦！ドカポン王国ＩＶ　〜伝説の勇者たち〜"
 	},
@@ -5555,16 +5573,16 @@
 		"languages": ["Ja"],
 		"localName": "決戦！ドカポン王国ＩＶ　〜伝説の勇者たち〜"
 	},
-	"Kevin Keegan's Player Manager (Europe) (Auto Demo) (1993-10-20)": {
+	"Kevin Keegan's Player Manager (Europe) (Auto Demo)": {
 		"languages": ["En"]
 	},
-	"Kevin Keegan's Player Manager (Europe) (Beta) (1993-08-11)": {
+	"Kevin Keegan's Player Manager (Europe) (Beta)": {
 		"languages": ["En"]
 	},
 	"Kevin Keegan's Player Manager (Europe) (Demo 1)": {
 		"languages": ["En"]
 	},
-	"Kevin Keegan's Player Manager (Europe) (Demo 2) (1993-06-18)": {
+	"Kevin Keegan's Player Manager (Europe) (Demo 2)": {
 		"languages": ["En"]
 	},
 	"Kevin Keegan's Player Manager (Europe)": {
@@ -5591,10 +5609,10 @@
 	"Kid Klown in Crazy Chase (Europe)": {
 		"languages": ["En"]
 	},
-	"Kid Klown in Crazy Chase (USA) (Beta 1) (Earlier)": {
+	"Kid Klown in Crazy Chase (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Kid Klown in Crazy Chase (USA) (Beta 2) (1994-06-13)": {
+	"Kid Klown in Crazy Chase (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Kid Klown in Crazy Chase (USA)": {
@@ -5652,7 +5670,7 @@
 		"languages": ["Ja"],
 		"localName": "喜国雅彦の雀闘士　銅鑼王２"
 	},
-	"Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta) (1992-11-15)": {
+	"Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "喜国雅彦の雀闘士　銅鑼王"
 	},
@@ -5682,10 +5700,10 @@
 	"King Arthur's World (Europe)": {
 		"languages": ["En"]
 	},
-	"King Arthur's World (USA) (Beta) (1992-08-21)": {
+	"King Arthur's World (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"King Arthur's World (USA) (Beta) (1992-10-21)": {
+	"King Arthur's World (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"King Arthur's World (USA)": {
@@ -6143,16 +6161,16 @@
 		"languages": ["Ja"],
 		"localName": "ライオンキング"
 	},
-	"Lion King, The (USA) (Beta 1) (1994-03-22)": {
+	"Lion King, The (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
 	"Lion King, The (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta 3) (v.21)": {
+	"Lion King, The (USA) (Beta 3)": {
 		"languages": ["En"]
 	},
-	"Lion King, The (USA) (Beta 4) (v.48)": {
+	"Lion King, The (USA) (Beta 4)": {
 		"languages": ["En"]
 	},
 	"Lion King, The (USA)": {
@@ -6216,7 +6234,7 @@
 		"languages": ["Ja"],
 		"localName": "ロゴスパニックごあいさつ"
 	},
-	"Looney Tunes - Hoop It Up! (USA) (Beta) (1994-08-08)": {
+	"Looney Tunes - Hoop It Up! (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Looney Tunes - Road Runner (Europe)": {
@@ -6350,7 +6368,7 @@
 	"Maerchen Adventure Cotton 100% (USA) (Strictly Limited Games)": {
 		"languages": ["En"]
 	},
-	"Magic Boy (Europe) (Beta) (1993-03-23)": {
+	"Magic Boy (Europe) (Beta)": {
 		"languages": ["En"]
 	},
 	"Magic Boy (Europe)": {
@@ -6415,7 +6433,7 @@
 		"languages": ["It"],
 		"localName": "Magical Quest con Topolino, The"
 	},
-	"Magical Quest Starring Mickey Mouse, The (USA) (Beta 1) (1992-05-21)": {
+	"Magical Quest Starring Mickey Mouse, The (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
 	"Magical Quest Starring Mickey Mouse, The (USA) (Beta 2)": {
@@ -6505,8 +6523,8 @@
 	"Major Title (Europe)": {
 		"languages": ["En"]
 	},
-	"Major Title (Japan)": {
-		"languages": ["Ja"],
+	"Major Title (Japan) (En)": {
+		"languages": ["En"],
 		"localName": "メジャータイトル"
 	},
 	"Majuu Ou (Japan)": {
@@ -6540,7 +6558,7 @@
 	"Mario Is Missing! (Germany)": {
 		"languages": ["De"]
 	},
-	"Mario Is Missing! (USA) (Beta) (1993-03-10)": {
+	"Mario Is Missing! (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Mario Is Missing! (USA)": {
@@ -6673,10 +6691,10 @@
 	"Maui Mallard in Cold Shadow (USA)": {
 		"languages": ["En"]
 	},
-	"MazezaM (World) (v0.95) (Proto) (Aftermarket) (Unl)": {
+	"MazezaM (World) (Proto 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"MazezaM (World) (v0.97) (Proto) (Aftermarket) (Unl)": {
+	"MazezaM (World) (Proto 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"MazezaM Challenge (World) (En,Fr) (v1.2) (Aftermarket) (Unl)": {
@@ -6743,9 +6761,6 @@
 	},
 	"Mega Family Bros (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
-	},
-	"Mega lo Mania (Europe) (En,Fr,De) (Beta)": {
-		"languages": ["De", "En", "Fr"]
 	},
 	"Mega lo Mania - Jikuu Daisenryaku (Japan)": {
 		"languages": ["Ja"],
@@ -6847,6 +6862,9 @@
 	"Mega Man X (World) (En) (Mega Man X Legacy Collection)": {
 		"languages": ["En"]
 	},
+	"Mega-lo-Mania (Europe) (En,Fr,De) (Beta)": {
+		"languages": ["De", "En", "Fr"]
+	},
 	"Mega-lo-Mania (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
@@ -6857,7 +6875,7 @@
 	"Men in Black (USA) (Pirate)": {
 		"languages": ["En"]
 	},
-	"Mer Wars (USA) (Proto) (1993-12-15)": {
+	"Mer Wars (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Metal Combat - Falcon's Revenge (Europe)": {
@@ -6934,7 +6952,7 @@
 		"languages": ["Ja"],
 		"localName": "ミッキーマニア　－　Ｔｈｅ　Ｔｉｍｅｌｅｓｓ　Ａｄｖｅｎｔｕｒｅｓ　ｏｆ　Ｍｉｃｋｅｙ　Ｍｏｕｓｅ"
 	},
-	"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 1) (1994-07-18) (Debug)": {
+	"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 1) (Debug)": {
 		"languages": ["En"]
 	},
 	"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta 2)": {
@@ -6959,7 +6977,7 @@
 		"languages": ["Ja"],
 		"localName": "ミッキーとドナルド　マジカルアドベンチャー３"
 	},
-	"Mickey to Minnie - Magical Adventure 2 (Japan) (Beta) (1994-06-22)": {
+	"Mickey to Minnie - Magical Adventure 2 (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "ミッキーとミニー　マジカルアドベンチャー２"
 	},
@@ -7134,10 +7152,10 @@
 	"Mortal Kombat 3 (Europe)": {
 		"languages": ["En"]
 	},
-	"Mortal Kombat 3 (USA) (Beta) (1995-07-13)": {
+	"Mortal Kombat 3 (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Mortal Kombat 3 (USA) (Beta) (1995-08-01)": {
+	"Mortal Kombat 3 (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Mortal Kombat 3 (USA)": {
@@ -7213,16 +7231,16 @@
 		"languages": ["Ja"],
 		"localName": "魍魎戦記ＭＡＤＡＲＡ２"
 	},
-	"Mr. Bloopy Saves the World (USA) (Demo) (1994-06-21) (Level 11-G)": {
+	"Mr. Bloopy Saves the World (USA) (Proto 1) (Level 11-G)": {
 		"languages": ["En"]
 	},
-	"Mr. Bloopy Saves the World (USA) (Demo) (1994-06-21) (Levels 000)": {
+	"Mr. Bloopy Saves the World (USA) (Proto 1) (Levels 000)": {
 		"languages": ["En"]
 	},
-	"Mr. Bloopy Saves the World (USA) (Demo) (1994-06-22) (Levels-B)": {
+	"Mr. Bloopy Saves the World (USA) (Proto 1) (Levels-B)": {
 		"languages": ["En"]
 	},
-	"Mr. Bloopy Saves the World (USA) (Proto) (1995-02-16)": {
+	"Mr. Bloopy Saves the World (USA) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Mr. Bloppy Saves the World (USA) (Piko Interactive)": {
@@ -7245,7 +7263,7 @@
 		"languages": ["En"],
 		"localName": "ミスターナッツ"
 	},
-	"Mr. Nutz (USA) (En,Fr) (Beta 1) (1993-06-10)": {
+	"Mr. Nutz (USA) (En,Fr) (Beta 1)": {
 		"languages": ["En", "Fr"]
 	},
 	"Mr. Nutz (USA) (En,Fr) (Beta 2)": {
@@ -7254,13 +7272,13 @@
 	"Mr. Nutz (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Mr. Tuff (Europe) (En,Fr,De) (Proto) (1994-06-21)": {
+	"Mr. Tuff (Europe) (En,Fr,De) (Proto 1)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Mr. Tuff (Europe) (En,Fr,De) (Proto) (1994-07-12)": {
+	"Mr. Tuff (Europe) (En,Fr,De) (Proto 2)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Mr. Tuff (Europe) (En,Fr,De,Es,It) (Proto) (1994-12-05)": {
+	"Mr. Tuff (Europe) (En,Fr,De,Es,It) (Proto 3)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mr. Tuff (World) (En,Fr,De,Es,It) (The Retro Room)": {
@@ -7269,7 +7287,7 @@
 	"Ms. Pac-Man (Europe)": {
 		"languages": ["En"]
 	},
-	"Ms. Pac-Man (USA) (Beta) (1996-06-18)": {
+	"Ms. Pac-Man (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Ms. Pac-Man (USA)": {
@@ -7451,7 +7469,7 @@
 	"NBA Live 97 (Europe)": {
 		"languages": ["En"]
 	},
-	"NBA Live 97 (USA) (Beta) (1996-09-20)": {
+	"NBA Live 97 (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"NBA Live 97 (USA)": {
@@ -7613,6 +7631,9 @@
 	"NHL 95 (USA)": {
 		"languages": ["En"]
 	},
+	"NHL 96 (Europe) (Sample)": {
+		"languages": ["En"]
+	},
 	"NHL 96 (Europe)": {
 		"languages": ["En"]
 	},
@@ -7708,13 +7729,13 @@
 	"Nigel Mansell's World Championship Racing (USA)": {
 		"languages": ["En"]
 	},
-	"Nightmare Busters (Europe) (Proto 1) (1994-04-09)": {
+	"Nightmare Busters (Europe) (Proto 1)": {
 		"languages": ["En"]
 	},
 	"Nightmare Busters (Europe) (Proto 2)": {
 		"languages": ["En"]
 	},
-	"Nightmare Busters (USA, Europe) (Unl)": {
+	"Nightmare Busters (World) (Super Fighter Team) (Unl)": {
 		"languages": ["En"]
 	},
 	"Ninja Gaiden Trilogy (USA)": {
@@ -7820,7 +7841,7 @@
 		"languages": ["Ja"],
 		"localName": "ノンタンといっしょ　くるくるぱずる"
 	},
-	"Nosferatu (Japan) (Beta) (1994-06-25)": {
+	"Nosferatu (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "ノスフェラトゥ"
 	},
@@ -7834,7 +7855,7 @@
 	"Noughts & Crosses (USA) (Possible Proto) (Nintendo Gateway System)": {
 		"languages": ["En"]
 	},
-	"Nova the Squirrel 2 (World) (2023-09-23) (Demo) (Aftermarket) (Unl)": {
+	"Nova the Squirrel 2 (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"NTF 2.5 Test Cartridge (USA) (Rev A)": {
@@ -8132,13 +8153,13 @@
 	"Pagemaster, The (Europe)": {
 		"languages": ["En"]
 	},
-	"Pagemaster, The (USA) (Beta 1) (1994-07-18)": {
+	"Pagemaster, The (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
 	"Pagemaster, The (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Pagemaster, The (USA) (Beta 3) (1994-08-29)": {
+	"Pagemaster, The (USA) (Beta 3)": {
 		"languages": ["En"]
 	},
 	"Pagemaster, The (USA)": {
@@ -8439,27 +8460,27 @@
 	"Pinkie (USA) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (Europe) (Beta) (1995-12-12)": {
+	"Pinocchio (Europe) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (Europe) (Beta) (1996-01-05)": {
+	"Pinocchio (Europe) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (Europe) (Beta) (1996-01-09)": {
+	"Pinocchio (Europe) (Beta 3)": {
 		"languages": ["En"]
 	},
 	"Pinocchio (Europe)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (Japan) (Beta) (1996-03-12)": {
+	"Pinocchio (Japan) (Beta 1)": {
 		"languages": ["Ja"],
 		"localName": "ピノキオ"
 	},
-	"Pinocchio (Japan) (Beta) (1996-04-09)": {
+	"Pinocchio (Japan) (Beta 2)": {
 		"languages": ["Ja"],
 		"localName": "ピノキオ"
 	},
-	"Pinocchio (Japan) (Beta) (1996-04-10)": {
+	"Pinocchio (Japan) (Beta 3)": {
 		"languages": ["Ja"],
 		"localName": "ピノキオ"
 	},
@@ -8467,19 +8488,19 @@
 		"languages": ["Ja"],
 		"localName": "ピノキオ"
 	},
-	"Pinocchio (USA) (Beta) (1995-07-26)": {
+	"Pinocchio (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (USA) (Beta) (1995-12-04)": {
+	"Pinocchio (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (USA) (Beta) (1995-12-06)": {
+	"Pinocchio (USA) (Beta 3)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (USA) (Beta) (1996-08-05)": {
+	"Pinocchio (USA) (Beta 4)": {
 		"languages": ["En"]
 	},
-	"Pinocchio (USA) (Beta) (Early)": {
+	"Pinocchio (USA) (Beta 5)": {
 		"languages": ["En"]
 	},
 	"Pinocchio (USA)": {
@@ -8555,7 +8576,7 @@
 	"Pocky & Rocky (Europe)": {
 		"languages": ["En"]
 	},
-	"Pocky & Rocky (USA) (Beta) (1992-11-24)": {
+	"Pocky & Rocky (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Pocky & Rocky (USA)": {
@@ -8630,25 +8651,25 @@
 	"Porky Pig's Haunted Holiday (Europe)": {
 		"languages": ["En"]
 	},
-	"Porky Pig's Haunted Holiday (USA) (Beta) (1993-11-01) (Introes)": {
+	"Porky Pig's Haunted Holiday (USA) (Beta 1) (Introes)": {
 		"languages": ["En"]
 	},
-	"Porky Pig's Haunted Holiday (USA) (Beta) (1993-11-01)": {
+	"Porky Pig's Haunted Holiday (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Porky Pig's Haunted Holiday (USA) (Beta) (1993-11-10) (Subgames)": {
+	"Porky Pig's Haunted Holiday (USA) (Beta 2) (Subgames)": {
 		"languages": ["En"]
 	},
-	"Porky Pig's Haunted Holiday (USA) (Beta) (1994-03-16)": {
+	"Porky Pig's Haunted Holiday (USA) (Beta 3)": {
 		"languages": ["En"]
 	},
-	"Porky Pig's Haunted Holiday (USA) (Beta) (1994-05-24)": {
+	"Porky Pig's Haunted Holiday (USA) (Beta 4)": {
 		"languages": ["En"]
 	},
-	"Porky Pig's Haunted Holiday (USA) (Beta) (1995-01-26)": {
+	"Porky Pig's Haunted Holiday (USA) (Beta 5)": {
 		"languages": ["En"]
 	},
-	"Porky Pig's Haunted Holiday (USA) (Beta) (1995-08-07)": {
+	"Porky Pig's Haunted Holiday (USA) (Beta 6)": {
 		"languages": ["En"]
 	},
 	"Porky Pig's Haunted Holiday (USA)": {
@@ -8702,7 +8723,7 @@
 	"Power Rangers Zeo - Battle Racers (USA)": {
 		"languages": ["En"]
 	},
-	"Power Slide (Europe) (Proto) (1994-04-12)": {
+	"Power Slide (Europe) (Proto)": {
 		"languages": ["En"]
 	},
 	"Power Soukoban (Japan)": {
@@ -8860,7 +8881,7 @@
 	"Puggsy (USA) (Proto)": {
 		"languages": ["En"]
 	},
-	"Push-Over (Europe) (En,Fr,De,Es) (Beta) (1992-06-29)": {
+	"Push-Over (Europe) (En,Fr,De,Es) (Beta)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Push-Over (Europe) (En,Fr,De,Es)": {
@@ -8949,7 +8970,7 @@
 	"Race Drivin' (USA)": {
 		"languages": ["En"]
 	},
-	"Radical Psycho Machine Racing (USA) (Beta) (1991-08-14)": {
+	"Radical Psycho Machine Racing (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Radical Psycho Machine Racing (USA)": {
@@ -8958,7 +8979,7 @@
 	"Radical Rex (Europe)": {
 		"languages": ["En"]
 	},
-	"Radical Rex (USA) (Beta) (1994-03-18)": {
+	"Radical Rex (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Radical Rex (USA)": {
@@ -9310,15 +9331,15 @@
 	"Rockman X2 (World) (Ja) (Mega Man X Legacy Collection)": {
 		"languages": ["Ja"]
 	},
-	"Rockman X3 (Japan) (Beta) (1995-08-09)": {
+	"Rockman X3 (Japan) (Beta 1)": {
 		"languages": ["Ja"],
 		"localName": "ロックマンエックス３"
 	},
-	"Rockman X3 (Japan) (Beta) (1995-08-23)": {
+	"Rockman X3 (Japan) (Beta 2)": {
 		"languages": ["Ja"],
 		"localName": "ロックマンエックス３"
 	},
-	"Rockman X3 (Japan) (Beta) (1995-09-25)": {
+	"Rockman X3 (Japan) (Beta 3)": {
 		"languages": ["Ja"],
 		"localName": "ロックマンエックス３"
 	},
@@ -9418,13 +9439,13 @@
 		"languages": ["Ja"],
 		"localName": "ＲＰＧツクール　スーパーダンテ"
 	},
-	"Rrodas Cross (World) (v1.01) (Demo) (Aftermarket) (Unl)": {
+	"Rrodas Cross (World) (Demo 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Rrodas Cross (World) (v1.02) (Demo) (Aftermarket) (Unl)": {
+	"Rrodas Cross (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Rrodas Cross (World) (v1.03) (Demo) (Aftermarket) (Unl)": {
+	"Rrodas Cross (World) (Demo 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Rudra no Hihou (Japan)": {
@@ -9438,10 +9459,10 @@
 	"Run Saber (Europe)": {
 		"languages": ["En"]
 	},
-	"Run Saber (USA) (Beta) (1992-12-27)": {
+	"Run Saber (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Run Saber (USA) (Beta) (1993-01-19)": {
+	"Run Saber (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Run Saber (USA)": {
@@ -10030,7 +10051,7 @@
 		"languages": ["Ja"],
 		"localName": "少年アシベ　ゴマちゃんのゆうえんち大冒険"
 	},
-	"Shounen Ninja Sasuke (Japan) (Beta) (1994-07-26)": {
+	"Shounen Ninja Sasuke (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "少年忍者サスケ"
 	},
@@ -10138,10 +10159,10 @@
 		"languages": ["Ja"],
 		"localName": "スキーパラダイス　ＷＩＴＨ　スノーボード"
 	},
-	"Skipp and Friends - Unexpected Journey (World) (Aftermarket) (Unl)": {
+	"Skipp and Friends - Unexpected Journey (World) (PDroms Competition 4.01) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Skipp and Friends - Unexpected Journey (World) (PDroms Competition 4.01) (Aftermarket) (Unl)": {
+	"Skipp and Friends - Unexpected Journey (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Skuljagger - Revolt of the Westicans (USA) (Beta)": {
@@ -10295,7 +10316,7 @@
 		"languages": ["Ja"],
 		"localName": "ソリッドランナー"
 	},
-	"Solstice II (Japan) (Beta) (1993-03-03)": {
+	"Solstice II (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "ソルスティスＩＩ"
 	},
@@ -10307,12 +10328,12 @@
 		"languages": ["Ja"],
 		"localName": "ソングマスター"
 	},
+	"Sonic Blast Man (Europe)": {
+		"languages": ["En"]
+	},
 	"Sonic Blast Man (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ソニックブラストマン"
-	},
-	"Sonic Blast Man (Spain) (En)": {
-		"languages": ["En"]
 	},
 	"Sonic Blast Man (USA)": {
 		"languages": ["En"]
@@ -10372,14 +10393,14 @@
 		"languages": ["Ja"],
 		"localName": "ソウルブレイダー"
 	},
+	"Soul Blazer (Europe)": {
+		"languages": ["En"]
+	},
 	"Soul Blazer (France)": {
 		"languages": ["Fr"]
 	},
 	"Soul Blazer (Germany)": {
 		"languages": ["De"]
-	},
-	"Soul Blazer (Scandinavia) (En)": {
-		"languages": ["En"]
 	},
 	"Soul Blazer (USA)": {
 		"languages": ["En"]
@@ -10387,7 +10408,7 @@
 	"Soul Edge vs Samurai (USA) (Pirate)": {
 		"languages": ["En"]
 	},
-	"Sound Factory (Japan) (En) (Proto) (1993-08-22)": {
+	"Sound Factory (Japan) (En) (Proto)": {
 		"languages": ["En"],
 		"localName": "サウンド・ファクトリー"
 	},
@@ -10432,10 +10453,10 @@
 	"Space Megaforce (USA)": {
 		"languages": ["En"]
 	},
-	"Space Rescue Squad (World) (Demo) (SNESDEV 2025) (Aftermarket) (Unl)": {
+	"Space Rescue Squad (World) (Demo 1) (SNESDEV 2025) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Space Rescue Squad (World) (v1.1) (Demo) (Aftermarket) (Unl)": {
+	"Space Rescue Squad (World) (Demo 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Spanky's Quest (Europe)": {
@@ -10482,10 +10503,10 @@
 	"Speedy Gonzales - Los Gatos Bandidos (USA)": {
 		"languages": ["En"]
 	},
-	"Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (1995-03-02) (No. 04)": {
+	"Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (No. 04)": {
 		"languages": ["En"]
 	},
-	"Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (1995-03-02) (No. 14)": {
+	"Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (No. 14)": {
 		"languages": ["En"]
 	},
 	"Speedy Gonzales in Los Gatos Bandidos (USA) (Beta 1)": {
@@ -10546,7 +10567,7 @@
 	"Sporting News, The - Baseball (USA)": {
 		"languages": ["En"]
 	},
-	"Sports Illustrated - Championship Football & Baseball (USA) (Beta 1) (1993-08-04)": {
+	"Sports Illustrated - Championship Football & Baseball (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
 	"Sports Illustrated - Championship Football & Baseball (USA) (Beta 2)": {
@@ -10555,10 +10576,10 @@
 	"Sports Illustrated - Championship Football & Baseball (USA)": {
 		"languages": ["En"]
 	},
-	"Spot Goes to Hollywood (USA) (Proto) (1995-03-07)": {
+	"Spot Goes to Hollywood (USA) (Proto 1)": {
 		"languages": ["En"]
 	},
-	"Spot Goes to Hollywood (USA) (Proto) (1995-08-05)": {
+	"Spot Goes to Hollywood (USA) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Spriggan Powered (Japan)": {
@@ -10592,54 +10613,55 @@
 		"languages": ["Ja"],
 		"localName": "ステイブルスター　〜厩舎物語〜"
 	},
-	"Star Fox 2 (Japan) (Beta) (1994-04-15)": {
+	"Star Fox 2 (Japan) (Beta 1)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1994-05-01)": {
+	"Star Fox 2 (Japan) (Beta 2)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1994-05-06)": {
+	"Star Fox 2 (Japan) (Beta 3)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1994-05-13)": {
+	"Star Fox 2 (Japan) (Beta 4)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1994-08-31)": {
+	"Star Fox 2 (Japan) (Beta 5)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1995-06-08)": {
+	"Star Fox 2 (Japan) (Beta 6)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1995-06-22)": {
+	"Star Fox 2 (Japan) (Beta 7)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1995-06-28)": {
+	"Star Fox 2 (Japan) (Beta 8)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1995-07-25)": {
+	"Star Fox 2 (Japan) (Beta 9)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1995-08-31)": {
-		"languages": ["Ja"]
-	},
-	"Star Fox 2 (Japan) (Beta) (1995-09-12)": {
+	"Star Fox 2 (Japan) (Beta 10)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1995-09-13)": {
+	"Star Fox 2 (Japan) (Beta 11)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (Japan) (Beta) (1995-09-20) (Debug)": {
+	"Star Fox 2 (Japan) (Beta 12)": {
+		"languages": ["Ja"],
+		"localName": "スターフォックス２"
+	},
+	"Star Fox 2 (Japan) (Beta 13) (Debug)": {
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
@@ -10647,13 +10669,13 @@
 		"languages": ["Ja"],
 		"localName": "スターフォックス２"
 	},
-	"Star Fox 2 (USA) (Beta) (1994-12-28) (CES)": {
+	"Star Fox 2 (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Star Fox 2 (USA) (Beta) (1995-09-12)": {
+	"Star Fox 2 (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Star Fox 2 (USA) (Beta) (1995-09-13)": {
+	"Star Fox 2 (USA) (Beta 3)": {
 		"languages": ["En"]
 	},
 	"Star Fox 2 (USA, Europe) (Classic Mini, Switch Online)": {
@@ -10676,7 +10698,7 @@
 	"Star Fox (USA)": {
 		"languages": ["En"]
 	},
-	"Star Glider (Japan) (Demo) (1992-09-23)": {
+	"Star Glider (Japan) (Demo)": {
 		"languages": ["Ja"]
 	},
 	"Star Ocean (Japan)": {
@@ -10733,7 +10755,7 @@
 	"Starwing (Europe)": {
 		"languages": ["En"]
 	},
-	"Starwing (Germany) (Beta) (1993-03-17)": {
+	"Starwing (Germany) (Beta)": {
 		"languages": ["De"]
 	},
 	"Starwing (Germany)": {
@@ -10808,7 +10830,7 @@
 		"languages": ["Ja"],
 		"localName": "ストリートファイターＩＩ"
 	},
-	"Street Fighter II (USA) (Beta) (1992-04-03)": {
+	"Street Fighter II (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Street Fighter II (USA) (Capcom Town)": {
@@ -10849,7 +10871,7 @@
 	"Street Fighter V (USA) (Pirate)": {
 		"languages": ["En"]
 	},
-	"Street Fighter Zero 2 (Japan) (En) (Beta) (1996-09-15)": {
+	"Street Fighter Zero 2 (Japan) (En) (Beta)": {
 		"languages": ["En"],
 		"localName": "ストリートファイターＺＥＲＯ２"
 	},
@@ -10987,7 +11009,7 @@
 	"Super Aleste (Europe)": {
 		"languages": ["En"]
 	},
-	"Super Aleste (Japan) (Beta) (1992-02-25)": {
+	"Super Aleste (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "スーパーアレスタ"
 	},
@@ -11156,7 +11178,7 @@
 		"languages": ["En"],
 		"localName": "スーパーボンバーマン"
 	},
-	"Super Bomberman (USA) (Beta) (1993-05-11)": {
+	"Super Bomberman (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Super Bomberman (USA)": {
@@ -11288,7 +11310,7 @@
 	"Super Conflict (USA)": {
 		"languages": ["En"]
 	},
-	"Super Copa (USA) (Es,Pt) (Beta) (1994-02-28)": {
+	"Super Copa (USA) (Es,Pt) (Beta)": {
 		"languages": ["Es", "Pt"]
 	},
 	"Super Copa (USA) (Es,Pt)": {
@@ -11388,7 +11410,7 @@
 		"languages": ["En"],
 		"localName": "スーパードリフトアウト"
 	},
-	"Super Drift Out - World Rally Championships (USA) (Proto) (1995-05-18)": {
+	"Super Drift Out - World Rally Championships (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Super Dunk Shot (Japan) (En)": {
@@ -11581,16 +11603,16 @@
 	"Super Game Boy 2 SGB2-CPU (Japan) (Enhancement Chip)": {
 		"languages": ["Ja"]
 	},
-	"Super Game Boy (Europe) (Beta) (1994-03-24)": {
+	"Super Game Boy (Europe) (Beta)": {
 		"languages": ["En"]
 	},
-	"Super Game Boy (Japan, USA) (En) (Beta) (1994-03-06)": {
+	"Super Game Boy (Japan, USA) (En) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23) (Alt)": {
+	"Super Game Boy (Japan, USA) (En) (Beta 2) (Alt)": {
 		"languages": ["En"]
 	},
-	"Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23)": {
+	"Super Game Boy (Japan, USA) (En) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Super Game Boy (Japan, USA) (En) (Rev 1)": {
@@ -11602,7 +11624,7 @@
 	"Super Game Boy (World) (Rev 2)": {
 		"languages": ["En"]
 	},
-	"Super Game Boy SGB-CPU (World) (Beta) (1994-03-23) (Enhancement Chip)": {
+	"Super Game Boy SGB-CPU (World) (Beta) (Enhancement Chip)": {
 		"languages": ["En"]
 	},
 	"Super Game Boy SGB-CPU (World) (Enhancement Chip)": {
@@ -11686,7 +11708,7 @@
 	"Super High Impact (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Super High Impact (USA) (Beta 2) (1993-03-11)": {
+	"Super High Impact (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Super High Impact (USA)": {
@@ -11875,11 +11897,11 @@
 		"languages": ["Ja"],
 		"localName": "スーパー麻雀大会"
 	},
-	"Super Mario - Yoshi Island (Japan) (Beta) (1995-07-10)": {
+	"Super Mario - Yoshi Island (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "スーパーマリオ　ヨッシーアイランド"
 	},
-	"Super Mario - Yoshi Island (Japan) (Rev 1) (Beta) (1995-08-21)": {
+	"Super Mario - Yoshi Island (Japan) (Rev 1) (Sample)": {
 		"languages": ["Ja"],
 		"localName": "スーパーマリオ　ヨッシーアイランド"
 	},
@@ -11887,7 +11909,7 @@
 		"languages": ["Ja"],
 		"localName": "スーパーマリオ　ヨッシーアイランド"
 	},
-	"Super Mario - Yoshi Island (Japan) (Rev 2) (Beta) (1995-10-02)": {
+	"Super Mario - Yoshi Island (Japan) (Rev 2) (Sample)": {
 		"languages": ["Ja"],
 		"localName": "スーパーマリオ　ヨッシーアイランド"
 	},
@@ -11951,15 +11973,15 @@
 	"Super Mario Kart (Europe)": {
 		"languages": ["En"]
 	},
-	"Super Mario Kart (Japan) (Beta) (1992-04-13)": {
+	"Super Mario Kart (Japan) (Beta 1)": {
 		"languages": ["Ja"],
 		"localName": "スーパーマリオカート"
 	},
-	"Super Mario Kart (Japan) (Beta) (1992-07-10)": {
+	"Super Mario Kart (Japan) (Beta 2)": {
 		"languages": ["Ja"],
 		"localName": "スーパーマリオカート"
 	},
-	"Super Mario Kart (Japan) (Beta) (1992-08-06)": {
+	"Super Mario Kart (Japan) (Beta 3)": {
 		"languages": ["Ja"],
 		"localName": "スーパーマリオカート"
 	},
@@ -11967,7 +11989,7 @@
 		"languages": ["Ja"],
 		"localName": "スーパーマリオカート"
 	},
-	"Super Mario Kart (USA) (Beta) (1992-08-06)": {
+	"Super Mario Kart (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Super Mario Kart (USA)": {
@@ -12011,7 +12033,7 @@
 	"Super Mario World (Japan) (En) (Arcade)": {
 		"languages": ["En"]
 	},
-	"Super Mario World (USA) (Beta) (1990-10-25)": {
+	"Super Mario World (USA) (Beta)": {
 		"languages": ["En"]
 	},
 	"Super Mario World (USA)": {
@@ -12088,7 +12110,7 @@
 		"languages": ["Ja"],
 		"localName": "す〜ぱ　〜なぞぷよ　ルルー　のルー"
 	},
-	"Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show)": {
+	"Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Beta) ('96 Tokyo Omocha Show)": {
 		"languages": ["Ja"],
 		"localName": "す〜ぱ〜なぞぷよ通　ルルーの鉄腕繁盛記"
 	},
@@ -12183,7 +12205,7 @@
 		"languages": ["Ja"],
 		"localName": "スーパー億万長者ゲーム"
 	},
-	"Super Oozumou - Nessen Ooichiban (Japan) (Beta) (1992-10-10)": {
+	"Super Oozumou - Nessen Ooichiban (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "スーパー大相撲　熱戦大一番"
 	},
@@ -12471,13 +12493,13 @@
 		"languages": ["Ja"],
 		"localName": "スーパー・スター・ウォーズ"
 	},
-	"Super Star Wars (USA) (Beta 1) (1992-07-10)": {
+	"Super Star Wars (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Super Star Wars (USA) (Beta 2) (1992-07-17)": {
+	"Super Star Wars (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Super Star Wars (USA) (Beta 3) (1992-07-21)": {
+	"Super Star Wars (USA) (Beta 3)": {
 		"languages": ["En"]
 	},
 	"Super Star Wars (USA) (Rev 1)": {
@@ -12562,10 +12584,10 @@
 	"Super Strike Gunner (Europe)": {
 		"languages": ["En"]
 	},
-	"Super Sudoku (World) (v0.1) (Beta) (Aftermarket) (Unl)": {
+	"Super Sudoku (World) (Beta 1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Super Sudoku (World) (v0.2) (Beta) (Aftermarket) (Unl)": {
+	"Super Sudoku (World) (Beta 2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Super Sudoku (World) (v1.0) (Aftermarket) (Unl)": {
@@ -12772,10 +12794,10 @@
 	"Supercooked! (World) (v1.2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Superman (USA) (Auto Demo) (1992-05-25)": {
+	"Superman (USA) (Auto Demo)": {
 		"languages": ["En"]
 	},
-	"Supplication (World) (v0.83) (Proto) (Aftermarket) (Unl)": {
+	"Supplication (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Sure Instinct (World) (v1.0) (NTSC) (Aftermarket) (Unl)": {
@@ -12840,13 +12862,13 @@
 	"Sydney Hunter and the Caverns of Death (USA) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Sydney Hunter and the Caverns of Death (World) (Evercade) (Aftermarket) (Unl)": {
+	"Sydney Hunter and the Caverns of Death (World) (v1.1) (Evercade) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Sylvester and Tweety (USA) (Proto) (1993-10-11)": {
+	"Sylvester and Tweety (USA) (Proto 1)": {
 		"languages": ["En"]
 	},
-	"Sylvester and Tweety (USA) (Proto) (1993-12-15)": {
+	"Sylvester and Tweety (USA) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Syndicate (Europe) (En,Fr,De) (Beta)": {
@@ -12993,7 +13015,7 @@
 	"Taz-Mania (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Taz-Mania (USA) (Beta 2) (1993-03-17)": {
+	"Taz-Mania (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Taz-Mania (USA) (Rev 1)": {
@@ -13002,10 +13024,10 @@
 	"Taz-Mania (USA)": {
 		"languages": ["En"]
 	},
-	"Tchou (World) (Aftermarket) (Unl)": {
+	"Tchou (World) (NEO Compo 2012) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Tchou (World) (NEO Compo 2012) (Aftermarket) (Unl)": {
+	"Tchou (World) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tecmo Secret of the Stars (USA) (Beta)": {
@@ -13062,7 +13084,7 @@
 		"languages": ["En"],
 		"localName": "テクモスーパーＮＢＡバスケットボール"
 	},
-	"Tecmo Super NBA Basketball (USA) (Beta) (1992-10-26)": {
+	"Tecmo Super NBA Basketball (USA) (Beta) (SNS-XM)": {
 		"languages": ["En"]
 	},
 	"Tecmo Super NBA Basketball (USA) (SNS-NA)": {
@@ -13245,7 +13267,7 @@
 	"Tetris Attack (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Tetris Battle Gaiden (Japan) (Beta) (1993-10-08)": {
+	"Tetris Battle Gaiden (Japan) (Beta)": {
 		"languages": ["Ja"],
 		"localName": "テトリスバトル外伝"
 	},
@@ -13256,6 +13278,9 @@
 	"Tetris Flash (Japan) (En)": {
 		"languages": ["En"],
 		"localName": "テトリスフラッシュ"
+	},
+	"Tetsuwan Atom (Japan) (Beta)": {
+		"languages": ["Ja"]
 	},
 	"Tetsuwan Atom (Japan)": {
 		"languages": ["Ja"],
@@ -13396,7 +13421,7 @@
 	"TKO Super Championship Boxing (Europe)": {
 		"languages": ["En"]
 	},
-	"TKO Super Championship Boxing (USA) (Sample) (1992-08-xx)": {
+	"TKO Super Championship Boxing (USA) (Sample)": {
 		"languages": ["En"]
 	},
 	"TKO Super Championship Boxing (USA)": {
@@ -13426,9 +13451,6 @@
 		"languages": ["Ja"],
 		"localName": "Ｔｏｋｏｒｏ＇ｓ　マージャン"
 	},
-	"Tom & Jerry (Europe) (Proto) (1994-07-11)": {
-		"languages": ["En"]
-	},
 	"Tom and Jerry (Europe)": {
 		"languages": ["En"]
 	},
@@ -13445,7 +13467,10 @@
 		"languages": ["En"],
 		"localName": "トムとジェリー"
 	},
-	"Tom vs Jerry - The Chase Is On! (Europe) (Proto) (1995-04-28)": {
+	"Tom vs Jerry - The Chase Is On! (Europe) (Proto 1)": {
+		"languages": ["En"]
+	},
+	"Tom vs Jerry - The Chase Is On! (Europe) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Tommy Moe's Winter Extreme - Skiing and Snowboarding (USA)": {
@@ -13517,7 +13542,7 @@
 	"Total Carnage (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Total Carnage (USA) (Beta 2) (1993-06-10)": {
+	"Total Carnage (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Total Carnage (USA) (Beta 3)": {
@@ -13582,7 +13607,7 @@
 	"Trials of Mana (World) (De) (Rev 1) (Collection of Mana)": {
 		"languages": ["De"]
 	},
-	"Trials of Mana (World) (En) (2019-04-02) (Beta) (Collection of Mana)": {
+	"Trials of Mana (World) (En) (Beta) (Collection of Mana)": {
 		"languages": ["En"]
 	},
 	"Trials of Mana (World) (En) (Collection of Mana)": {
@@ -13607,16 +13632,16 @@
 		"languages": ["Ja"],
 		"localName": "トリネア"
 	},
-	"Troddlers (Europe) (Beta) (1992-10-23)": {
+	"Troddlers (Europe) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Troddlers (Europe) (Beta) (1993-02-03)": {
+	"Troddlers (Europe) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Troddlers (Europe)": {
 		"languages": ["En"]
 	},
-	"Troddlers (Japan) (En) (Proto) (1993-02-10)": {
+	"Troddlers (Japan) (En) (Proto)": {
 		"languages": ["En"]
 	},
 	"Troddlers (USA)": {
@@ -13745,18 +13770,18 @@
 		"languages": ["En"],
 		"localName": "宇宙レース　アストロ　ゴー！ゴー"
 	},
-	"Ugoku E Ver. 2.0 - Aryol (Japan)": {
-		"languages": ["Ja"],
+	"Ugoku E Ver. 2.0 - Aryol (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "うごく絵　Ｖｅｒ２．０　アリョール"
 	},
 	"Ultima - Kyouryuu Teikoku - The Savage Empire (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ウルティマ　恐竜帝国　ザ・サベージ・エンパイア"
 	},
-	"Ultima - Runes of Virtue II (USA) (Beta) (1993-07-30)": {
+	"Ultima - Runes of Virtue II (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Ultima - Runes of Virtue II (USA) (Beta) (1994-01-xx)": {
+	"Ultima - Runes of Virtue II (USA) (Beta 2)": {
 		"languages": ["En"]
 	},
 	"Ultima - Runes of Virtue II (USA)": {
@@ -13889,7 +13914,7 @@
 	"Uniracers (USA)": {
 		"languages": ["En"]
 	},
-	"Unirally (Europe) (Beta) (1994-11-29)": {
+	"Unirally (Europe) (Beta)": {
 		"languages": ["En"]
 	},
 	"Unirally (Europe)": {
@@ -13953,7 +13978,7 @@
 	"UWOL - Quest for Money (World) (v1.3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Val d'Isere Championship (Europe) (Beta) (1993-10-27)": {
+	"Val d'Isere Championship (Europe) (Beta)": {
 		"languages": ["En"]
 	},
 	"Val d'Isere Championship (Europe) (Rev 1)": {
@@ -14337,13 +14362,13 @@
 		"languages": ["Ja"],
 		"localName": "ワールドクラス　ラグビー２　国内激闘編＇９３"
 	},
-	"World Class Rugby (Europe) (Beta) (1992-07-11)": {
+	"World Class Rugby (Europe) (Beta)": {
 		"languages": ["En"]
 	},
 	"World Class Rugby (Europe)": {
 		"languages": ["En"]
 	},
-	"World Class Rugby (Japan) (En) (Beta) (1992-12-08)": {
+	"World Class Rugby (Japan) (En) (Beta)": {
 		"languages": ["En"]
 	},
 	"World Class Rugby (Japan) (En)": {

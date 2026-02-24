@@ -6546,11 +6546,11 @@
 		"languages": ["Ja"],
 		"localName": "新世紀エヴァンゲリオン"
 	},
-	"Shin Seiki Evangelion - 2nd Impression (Japan) (Made in Japan)": {
+	"Shin Seiki Evangelion - 2nd Impression (Japan)": {
 		"languages": ["Ja"],
 		"localName": "新世紀エヴァンゲリオン　～セカンド・インプレッション～"
 	},
-	"Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.)": {
+	"Shin Seiki Evangelion - 2nd Impression (Japan) (Alt)": {
 		"languages": ["Ja"],
 		"localName": "新世紀エヴァンゲリオン　～セカンド・インプレッション～"
 	},
@@ -8116,11 +8116,11 @@
 		"languages": ["Ja"],
 		"localName": "バーチャ・ファイター２"
 	},
-	"Virtua Fighter 2 (Japan) (Rev B) (32B, 37M)": {
+	"Virtua Fighter 2 (Japan) (Rev B) (32B, 37A, 37M)": {
 		"languages": ["Ja"],
 		"localName": "バーチャ・ファイター２"
 	},
-	"Virtua Fighter 2 (Japan) (Rev B) (35C)": {
+	"Virtua Fighter 2 (Japan) (Rev B) (35B, 35C)": {
 		"languages": ["Ja"],
 		"localName": "バーチャ・ファイター２"
 	},

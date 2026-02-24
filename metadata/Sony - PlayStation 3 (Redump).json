@@ -4734,7 +4734,7 @@
 		"languages": [],
 		"localName": "ファー　クライ　２"
 	},
-	"Far Cry 2 (USA) (En,Fr,De,Es,It)": {
+	"Far Cry 2 (USA, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Far Cry 3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)": {
@@ -9787,6 +9787,9 @@
 	"Pinball Hall of Fame - The Williams Collection (USA)": {
 		"languages": ["En"]
 	},
+	"Pixel Junk 3 in 1 Pack (Asia)": {
+		"languages": []
+	},
 	"Planet 51 - The Game (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -11424,7 +11427,7 @@
 		"languages": ["Zh"],
 		"localName": "真・三國無雙7"
 	},
-	"Shin Sangoku Musou 7 (Japan)": {
+	"Shin Sangoku Musou 7 (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "真・三國無双７"
 	},
@@ -12587,6 +12590,10 @@
 		"languages": [],
 		"localName": "涼宮ハルヒの追想"
 	},
+	"Suzumiya Haruhi no Tsuisou (Japan) (Nagato Yuki no Otoshimono Box)": {
+		"languages": [],
+		"localName": "涼宮ハルヒの追想"
+	},
 	"Sword Art Online - Lost Song (Asia)": {
 		"languages": ["Zh"],
 		"localName": "刀劍神域 －Lost Song－"
@@ -12816,12 +12823,12 @@
 	"Test Drive Unlimited 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Test Drive Unlimited 2 (Japan)": {
+		"languages": [],
+		"localName": "テストドライブ　アンリミテッド２"
+	},
 	"Test Drive Unlimited 2 (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"Test Drive Unlimited 2 Plus Casino Online (Japan)": {
-		"languages": [],
-		"localName": "テストドライブ　アンリミテッド２　Ｐｌｕｓ　カジノオンライン"
 	},
 	"Testament of Sherlock Holmes, The (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]

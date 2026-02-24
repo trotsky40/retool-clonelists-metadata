@@ -1,8 +1,4 @@
 {
-	"": {
-		"languages": ["Ja"],
-		"localName": "バロック 歪んだ妄想"
-	},
 	"'98 Koushien (Japan) (Demo)": {
 		"languages": ["Ja"],
 		"localName": "’９８　甲子園"
@@ -2331,11 +2327,11 @@
 	},
 	"Bar Belyj Medved' - Miss Osen' (Russia) (En,Ru) (Unl)": {
 		"languages": ["En", "Ru"],
-		"localName": "Бар -'Белый Медведь-' - Мисс Осень"
+		"localName": "Бар 'Белый Медведь' - Мисс Осень"
 	},
 	"Bar Belyj Medved' - Miss Zima (Russia) (En,Ru) (Unl)": {
 		"languages": ["En", "Ru"],
-		"localName": "Бар -'Белый Медведь-' - Мисс Зима"
+		"localName": "Бар 'Белый Медведь' - Мисс Зима"
 	},
 	"Barbie - Aventure Equestre (France)": {
 		"languages": ["Fr"]
@@ -2402,6 +2398,10 @@
 		"localName": "バルディッシュ　～クロムフォードの住人たち～"
 	},
 	"Baroque - Yuganda Mousou (Japan)": {
+		"languages": ["Ja"],
+		"localName": "バロック　歪んだ妄想"
+	},
+	"Baroque - Yuganda Mousou (Japan) (Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "バロック　歪んだ妄想"
 	},
@@ -11495,6 +11495,16 @@
 		"languages": ["Ja"],
 		"localName": "フィッシャーズロード"
 	},
+	"Fisher-Price Rescue Heroes - Helden in Gefahr (Germany)": {
+		"languages": ["De"],
+		"localName": "Rescue Heroes - Helden in Gefahr"
+	},
+	"Fisher-Price Rescue Heroes - Molten Menace (Europe)": {
+		"languages": ["En"]
+	},
+	"Fisher-Price Rescue Heroes - Molten Menace (USA)": {
+		"languages": ["En"]
+	},
 	"Fisherman's Bait - A Bass Challenge (USA)": {
 		"languages": ["En"]
 	},
@@ -15108,6 +15118,10 @@
 		"languages": ["Ja"],
 		"localName": "犬夜叉　戦国お伽合戦"
 	},
+	"Inuyasha - Sengoku Otogi Gassen (Japan) (Shokai Seisan Gentei Shiyou)": {
+		"languages": ["Ja"],
+		"localName": "犬夜叉　戦国お伽合戦"
+	},
 	"Invasion (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -16288,6 +16302,9 @@
 		"languages": ["De"]
 	},
 	"Kick Off World (Greece)": {
+		"languages": ["El"]
+	},
+	"Kick Off World (Greece) (Demo)": {
 		"languages": ["El"]
 	},
 	"Kick Off World Manager (Italy)": {
@@ -22646,7 +22663,7 @@
 	"Oddworld - Abe's Exoddus (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
-	"Oddworld - Abe's Exoddus + Duke Nukem - Time To Kill + B-Movie (Europe) (Demo)": {
+	"Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + B-Movie (Europe) (Demo)": {
 		"languages": ["En"]
 	},
 	"Oddworld - Abe's Exoddus + Duke Nukem - Time to Kill + Duke Nukem - 3D (France) (En,Fr)": {
@@ -26559,12 +26576,6 @@
 		"localName": "レスキュー２４アワーズ"
 	},
 	"Rescue Copter (USA)": {
-		"languages": ["En"]
-	},
-	"Rescue Heroes - Helden in Gefahr (Germany)": {
-		"languages": ["De"]
-	},
-	"Rescue Heroes - Molten Menace (Europe)": {
 		"languages": ["En"]
 	},
 	"Rescue Heroes - Molten Menace (USA)": {
