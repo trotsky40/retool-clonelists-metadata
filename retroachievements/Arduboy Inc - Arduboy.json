@@ -19,6 +19,12 @@
             "sha1": "3b5f087176e016ea5a20ffe825696a98bef54fbe"
         },
         {
+            "name": "2048 (World) (v0.5) (Erwin's Collection)",
+            "crc": "d8941ee3",
+            "md5": "e8ec91f0a78813a95e17f56cf0b94525",
+            "sha1": "b6f07b025b765b1fdead5fd72a4fc15acd5d3b30"
+        },
+        {
             "name": "ARDUBULLETs (World) (v0.11) (Erwin's Collection)",
             "crc": "03d567bf",
             "md5": "951e1b8f38636343fa8503bd96056304",
@@ -113,6 +119,12 @@
             "crc": "f5e1248a",
             "md5": "5b1c604f166f9023c1b13895228d18f9",
             "sha1": "10c7d4cd6808a5a6fbc676055e72d5cf74438d3b"
+        },
+        {
+            "name": "BitWars (World) (v1.1)",
+            "crc": "aa3dd868",
+            "md5": "d90ad93fdde56d66a0b4c783a5a54526",
+            "sha1": "1f6fe4590cdfd54c6a116d2083c19ef743a766b2"
         },
         {
             "name": "Blackjack (World)",

@@ -7,6 +7,12 @@
             "sha1": "8ef04cbf881330b1243b4618c94e95279886efbf"
         },
         {
+            "name": "2048 (World) (v1.0) (Oerg866) (Aftermarket)",
+            "crc": "ae2221cf",
+            "md5": "e8f0a479d4391ea717cd2ee0132d9122",
+            "sha1": "c84cacf8a9651b089b53ca35242200181e9e1019"
+        },
+        {
             "name": "30 Years of Nintendon't (World) (Digital) (Aftermarket)",
             "crc": "c0a77062",
             "md5": "8eff2078a60dcb22f45ef7fd8dabfd88",
@@ -409,6 +415,12 @@
             "sha1": "b173d388485461b9f8b27d299a014d226aef7aa1"
         },
         {
+            "name": "Battle Golfer Yui (Japan) (En) (v0.9) (filler)",
+            "crc": "2d7e868c",
+            "md5": "70ca38f7dc03560fa770a298ecef438a",
+            "sha1": "2c6f17f0c212bb51b6ef629b123bae4bd2359816"
+        },
+        {
             "name": "Battle Mania (Japan)",
             "crc": "a76c4a29",
             "md5": "2857b7730fb7dbc5f7c1ec1a4ba1b0ee",
@@ -473,6 +485,12 @@
             "crc": "f5d7b948",
             "md5": "8e4d7397374cb03528f4c886120dc3e9",
             "sha1": "9abfbf8c5d07a11f090a151c2801caee251f1599"
+        },
+        {
+            "name": "Ben 10 (Russia) (Aftermarket) (Unl)",
+            "crc": "c8be0b26",
+            "md5": "08cdbf927351146e48a84aa2f3871855",
+            "sha1": "83a49560eb1174b17c9d5ed8837d74a7006b7e9c"
         },
         {
             "name": "Beyond Oasis (USA)",
@@ -1559,6 +1577,12 @@
             "crc": "f0ff078e",
             "md5": "b8591488ca46b51c1d39b6869fa23006",
             "sha1": "9fff7dea16c4d0e6c9d6dbaade20c7048bb485ec"
+        },
+        {
+            "name": "Garfield - The Lost Levels (USA) (Sega Channel)",
+            "crc": "a9e35705",
+            "md5": "b0482af144d81c5707d4748e2fe51cfd",
+            "sha1": "67498cc2a19b13b951b27b23547437b3ca4e6d4a"
         },
         {
             "name": "Gargoyles (USA)",
@@ -3571,6 +3595,12 @@
             "sha1": "37f35b26e017d1b13156bed27fa5a2e547834973"
         },
         {
+            "name": "Saturday Night Slammasters (USA)",
+            "crc": "2fb4eaba",
+            "md5": "6531e481e57e9243f492718a88a2419b",
+            "sha1": "7252006bf41e41b92c6261c6722766a1352a6dca"
+        },
+        {
             "name": "Scooby Doo Mystery (USA) (Ru) (v1.25) (Splinker)",
             "crc": "2001a46a",
             "md5": "a817e01d52a8ee1fd8c9dc0502c000c9",
@@ -3809,6 +3839,12 @@
             "crc": "f785f9d7",
             "md5": "619106321a4317fb38a3baced692d30f",
             "sha1": "98be93964c14ebc91727b429dd7a7a563b4e2e9f"
+        },
+        {
+            "name": "Slap Fight MD (Japan)",
+            "crc": "d6695695",
+            "md5": "989f8effd6fbbd93dcabd0be8fd41f8a",
+            "sha1": "3cb992c70b4a5880a3e5f89211f29fe90486c0e0"
         },
         {
             "name": "Smurfs, The (Europe) (En,Fr,De,Es,It)",
@@ -4867,6 +4903,12 @@
             "sha1": "474e65472eff4d3c93d5b5c1cd5425b47d01c901"
         },
         {
+            "name": "Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Aftermarket) (Unl)",
+            "crc": "7fb1356e",
+            "md5": "0d7d46d63a371cae49294e48bbc7127f",
+            "sha1": "04542a22531ceb784727ee5ef399786313dcf22f"
+        },
+        {
             "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
             "crc": "95b5484d",
             "md5": "4cabf79a9e4783ff4e5c1294bcb6129c",
@@ -5267,6 +5309,12 @@
             "crc": "a5d023f9",
             "md5": "72a02a9eb90740ef618f8fce968c4a1b",
             "sha1": "e49ad2f9119b0788bbbb7258908d605c032989b4"
+        },
+        {
+            "name": "Waffle Painter (World) (v1.0) (Vivian Video) (Aftermarket)",
+            "crc": "1a959439",
+            "md5": "71659a7e9bc406a65471a507c61e4da1",
+            "sha1": "6054c4f8542f3fc149a2605ee8695bdac4ee5c34"
         },
         {
             "name": "Warlock (USA, Europe)",

@@ -499,6 +499,14 @@
             "sha1": "7ee5c562fdc2e9b2f0cac3cfc66c8dd31bfdd137"
         },
         {
+            "name": "Private Idol Disc Vol. 10 - Mai Masaki (Japan)",
+            "sha1": "3bb1fe96f19ddb3c862b70de2604ee45c1e3cd02"
+        },
+        {
+            "name": "Private Idol Disc Vol. 11 - Mayumi Hirose (Japan) (2M)",
+            "sha1": "9500fa8644cea46bc14fdcbc0600036d4bfee678"
+        },
+        {
             "name": "Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)",
             "sha1": "e72eee60dbaab297c3e91007fe468f64bb2ae54e"
         },
@@ -509,6 +517,26 @@
         {
             "name": "Private Idol Disc Vol. 4 - Mirei Kuroda (Japan)",
             "sha1": "b05cf38405cf5ccbf4cc5351301c4403616f8e29"
+        },
+        {
+            "name": "Private Idol Disc Vol. 5 - Nanako Fujisaki (Japan)",
+            "sha1": "53acb1d6088a00234421f90534da83310e3e393d"
+        },
+        {
+            "name": "Private Idol Disc Vol. 6 - Satomi Yoshida (Japan)",
+            "sha1": "6ee17d9bf75a8d7f4b5d27b4109b6ed3e7d5804d"
+        },
+        {
+            "name": "Private Idol Disc Vol. 7 - Kaori Asou (Japan)",
+            "sha1": "3c7cd41dffbd6b7000447fe42501a7bdacfbf50e"
+        },
+        {
+            "name": "Private Idol Disc Vol. 8 - Emiko Furukawa (Japan)",
+            "sha1": "197b17be027139c8625a88bb57fb619221e2c425"
+        },
+        {
+            "name": "Private Idol Disc Vol. 9 - Keiko Nagamatsu (Japan)",
+            "sha1": "82795e86162b2c124d10106ee5adf826ed66daa6"
         },
         {
             "name": "Quake (Europe)",
@@ -559,6 +587,10 @@
         {
             "name": "Sega Ages - Galaxy Force II (Japan)",
             "sha1": "2b6dd112badf296b46aee82f5fa27e4377b84f30"
+        },
+        {
+            "name": "Sega Ages - I Love Mickey Mouse - Fushigi no Oshiro Daibouken & I Love Donald Duck - Georgia Ou no Hihou (Japan)",
+            "sha1": "2176c80eb59ff10a57d87ff1377701be2e3f3cbf"
         },
         {
             "name": "Sega Ages - OutRun (Japan)",
@@ -723,6 +755,10 @@
         {
             "name": "Virtua Cop (USA) (5S, 6S)",
             "sha1": "65ec56398657f7899914aa957a306bd0bd570499"
+        },
+        {
+            "name": "Virtua Cop 2 (USA)",
+            "sha1": "652f339b6f4dca14fc184e5339b515c311f6ffb9"
         },
         {
             "name": "Virtua Fighter 2 (USA)",

@@ -33,6 +33,10 @@
             "sha1": "5b8e520aaf585b4d695a177ee942961d6d7db247"
         },
         {
+            "name": "Gex (USA, Europe)",
+            "sha1": "673f7932418baf31aae4d23a44c1832ab32a5552"
+        },
+        {
             "name": "Hello Kitty - Asobi no Omochabako (Japan)",
             "sha1": "56db25f89579df11faf6663b0e23c537d5ae9cd4"
         },
@@ -87,6 +91,10 @@
         {
             "name": "Putt-Putt Goes to the Moon (USA)",
             "sha1": "3b8c4cdc197c784582d5ab7d83c70af6708baca7"
+        },
+        {
+            "name": "Putt-Putt Joins the Parade (Japan) (En,Ja)",
+            "sha1": "d5866bd2b027045feee22abc6deccb0990483255"
         },
         {
             "name": "Rise of the Robots (USA)",

@@ -229,6 +229,12 @@
             "sha1": "483f7161aea39de8b45c9fbc70a2c3883c4dea8c"
         },
         {
+            "name": "Blues Brothers 2000 (USA)",
+            "crc": "c6f49764",
+            "md5": "997fd8f79cd6f3cd1c1c1fd21e358717",
+            "sha1": "ed0fe7c9a2e8015bdf8262d35065f53c6fcea60f"
+        },
+        {
             "name": "Body Harvest (USA)",
             "crc": "fabbdf02",
             "md5": "3b8585ed03e8ddb89d7de456317545e7",
@@ -1429,6 +1435,12 @@
             "sha1": "c3c856eb9ae3a5cd5d019fecae92495aaa63b127"
         },
         {
+            "name": "MRC - Multi-Racing Championship (USA)",
+            "crc": "1dc1c812",
+            "md5": "fc61d60f2c6fe4610f70ce4949a7a062",
+            "sha1": "8bea68833d63b2f17daad4477a572c274a9468be"
+        },
+        {
             "name": "Mace - The Dark Age (USA)",
             "crc": "d2a363a6",
             "md5": "39a2bca1c17cd4cf1a9f3ae2b725b5c6",
@@ -1451,6 +1463,12 @@
             "crc": "434389c1",
             "md5": "3a67d9986f54eb282924fca4cd5f6dff",
             "sha1": "579c48e211ae952530ffc8738709f078d5dd215e"
+        },
+        {
+            "name": "Mario Kart 64 - Amped Up (v3.10) (Litronom) (Hack)",
+            "crc": "f4eb6122",
+            "md5": "40a15aac19e9cef7a533d6a565a4c92f",
+            "sha1": "7b91443cf4476052e1d614f4ecd15af6c08737ef"
         },
         {
             "name": "Mario Kart 64 - Pokemon Kart 64 (v1.1) (Shrugboat)",
@@ -2059,6 +2077,12 @@
             "sha1": "5c43f5726f1ee97ebd82f9815951b120330cd27d"
         },
         {
+            "name": "Paper Mario - Mario HATES 2025 (v1.0) (Den, Wrymouth, Darxoon) (Hack)",
+            "crc": "e952d572",
+            "md5": "b5ac0ed309f59730c238e3500b7bd10d",
+            "sha1": "600c2d192f4b4cc15e4e497f7dfc3ff7178d411a"
+        },
+        {
             "name": "Paper Mario - Master Quest (v1.3.0.2) (Various) (Hack)",
             "crc": "0acffd50",
             "md5": "a232866fc439eda98b648047ffb243cb",
@@ -2383,6 +2407,12 @@
             "sha1": "3d4cc00c135e84d4ffd165f970175dce3b402720"
         },
         {
+            "name": "SM64 - Auri's Amazing Arch Adventure (v1.0) (Caasje) (Hack)",
+            "crc": "34e4a198",
+            "md5": "1c79946027716f0e20e132e4fe3d589f",
+            "sha1": "8b834617b8dcbfe6264100465819357e72df927e"
+        },
+        {
             "name": "SM64 - B3313 - Internal Plexus (v1.0.2) (chrisrlillo) (Hack)",
             "crc": "554a4c34",
             "md5": "6a0faa943d2e429f2d245eef9c2a58ab",
@@ -2591,6 +2621,12 @@
             "crc": "f8d46ea7",
             "md5": "d6dfc46c0cd78a658e04ebcb0fce54ff",
             "sha1": "d5ce0514d8b1723f4071181ea4761e8f920ef72c"
+        },
+        {
+            "name": "SM64 - Despair Mario's Gambit Hint Arts (v1.0) (various) (Hack)",
+            "crc": "af742b7d",
+            "md5": "4d018f3c633f14c3df36f28d6a8784d3",
+            "sha1": "f857bb77789648e62e538c8fc259f35f4359c77d"
         },
         {
             "name": "SM64 - Disaster Quest Tree (v1.2) (Hoppiper26) (Hack)",
@@ -3529,6 +3565,12 @@
             "sha1": "2c4ad8fc1adf08e2f8176ccbf1013b126559731c"
         },
         {
+            "name": "SM64 - Star Revenge 0 - geSEGKt (v1.1) (BroDute) (Hack)",
+            "crc": "fc67634b",
+            "md5": "cd741156226082dfcc16429b7074c081",
+            "sha1": "3851b649dbcca62ec41c290f212bff001fcaaeec"
+        },
+        {
             "name": "SM64 - Star Revenge 0.5 - Unused Levels (v1.1.1) (BroDute) (Hack)",
             "crc": "317ddb28",
             "md5": "4fcc91c6c815dd367328865114b6e184",
@@ -3799,6 +3841,12 @@
             "sha1": "22ea7c1486a38ef251dd77c5498f4a535c6b5d25"
         },
         {
+            "name": "SM64 - Super Mario 4 (v1.0.1) (Various) (Hack)",
+            "crc": "d66e52eb",
+            "md5": "9135e0361658fc0aae3915c7ad310acb",
+            "sha1": "e09711ac8f55c0b678306074d48cf9a1424638af"
+        },
+        {
             "name": "SM64 - Super Mario 64 (modded 8019C828) (Hack)",
             "crc": "91e0dc29",
             "md5": "c710fd0dc573437635f345687fa4fbc0",
@@ -3937,6 +3985,18 @@
             "sha1": "d51da4d06fc6cfe25e47483aefe71ba844e57253"
         },
         {
+            "name": "SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack)",
+            "crc": "d0ce58be",
+            "md5": "e85e206a13e7e4b3108512c2253ce117",
+            "sha1": "74c1d8b5e7ea5721eb35c0d24fc36172bf8cb75b"
+        },
+        {
+            "name": "SM64 - Super Mario Treasure World (v1.2.1) (Rambi_Rampage) (Hack)",
+            "crc": "b83118ac",
+            "md5": "f15d14c5ef263efc685ae09bc4a54d81",
+            "sha1": "55fb827cff18f07c9c1ff80fe852bf15ed0ef773"
+        },
+        {
             "name": "SM64 - Super Mario and the Cursed Castles (v1.02) (Foxen) (Hack)",
             "crc": "e7bdcc11",
             "md5": "c2cc0c75209e5606380ce55902f69d5e",
@@ -4039,6 +4099,12 @@
             "sha1": "a6d46c96fefa0f4188a896f1148fd209938cda3d"
         },
         {
+            "name": "SM64 - The Dark Stars (v1.1.3) (Caasje) (Hack)",
+            "crc": "07189477",
+            "md5": "ece9ebb71413bbee956b9df1e46725c6",
+            "sha1": "afb71e5c19ea475b1fc4549dc13282ce40783b05"
+        },
+        {
             "name": "SM64 - The Death of Mario (Hack)",
             "crc": "d009a142",
             "md5": "acd8bbfe407d4c9a85703f3d776751c4",
@@ -4129,6 +4195,12 @@
             "sha1": "1b93626a54b7faa160c5a7834055a19da9c8e596"
         },
         {
+            "name": "SM64 - Transcending the Rainbow (v1.0.6) (amsixx, Serium) (Hack)",
+            "crc": "0f98d831",
+            "md5": "9f3bccc2d9b3f5ededcae5eef77df14d",
+            "sha1": "46c96dc1b94ecc388249eb18cb128d05bb82f4d8"
+        },
+        {
             "name": "SM64 - Traumatic Tick Tock Tower (v1.0) (Kaze Emanuar) (Hack)",
             "crc": "9d39dd13",
             "md5": "db241dac800fa6612ab62253b524900f",
@@ -4169,6 +4241,12 @@
             "crc": "7ef0d344",
             "md5": "2d0e8090ef236fca175c1fcc44b2732c",
             "sha1": "d80be2856bf53b91b7f87b1c7938b98b3585486c"
+        },
+        {
+            "name": "SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack)",
+            "crc": "49f0389e",
+            "md5": "b5ae14c8973591df1edeb3aca59d9bc8",
+            "sha1": "9a3e3dc3a428d6f8a8ba6696ad91cebe07968307"
         },
         {
             "name": "SM64 - Unregistered Hypercam 64 (v1) (Hack)",

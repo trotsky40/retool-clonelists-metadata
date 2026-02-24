@@ -31,6 +31,18 @@
             "sha1": "bac3ef43033974b6e2d9652a824f5411be0af0e2"
         },
         {
+            "name": "Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.)",
+            "crc": "d536a070",
+            "md5": "bdaacc5193951ca7fff2845b1664d451",
+            "sha1": "245b722f978bbe0ea301a14d41afbf6a2040b903"
+        },
+        {
+            "name": "Clock Tower for WonderSwan (Japan) (Rev 1)",
+            "crc": "4e8909d1",
+            "md5": "8f0ba3401662a40e8da5ebcfe7b85e81",
+            "sha1": "db9b3308336b59aeff7bd173d687953a37739381"
+        },
+        {
             "name": "Cracky Mini (World) (v20240612) (Aftermarket)",
             "crc": "3071302b",
             "md5": "2ad72633b07f623b6eb0a641ec44dfd3",
@@ -133,6 +145,12 @@
             "sha1": "1c8bbb23532454103ccecff1542acefc223125ea"
         },
         {
+            "name": "Final Lap 2000 (Japan)",
+            "crc": "ce2f1a1d",
+            "md5": "a466797b353d610f43a0f030cec721c1",
+            "sha1": "cfcb14be6d2f1dbffdfcefb8c8d83b4f39bc102b"
+        },
+        {
             "name": "Final Lap Special - GT & Formula Machine (Japan)",
             "crc": "b07e6a56",
             "md5": "0870f205e8a0148cc75d642f00558057",
@@ -161,6 +179,12 @@
             "crc": "d7a12bd5",
             "md5": "1eb91e6b46ab5624c7b707ea7b7abe9d",
             "sha1": "f7aeab6724154f7ef6a389f9f18b7100045e1064"
+        },
+        {
+            "name": "GunPey (Japan)",
+            "crc": "a1656bbb",
+            "md5": "816c81b156146be62a45edd7d7d49fc6",
+            "sha1": "ee4b777f029bac9561e60c19407d08360e733822"
         },
         {
             "name": "Hataraku Chocobo (Japan)",
@@ -335,6 +359,12 @@
             "crc": "8655269e",
             "md5": "496100bcd73fbfa39e473c6ddee190b2",
             "sha1": "4a756dab81e0101475dc2e5494270f3df7dac1e6"
+        },
+        {
+            "name": "Slither Link (Japan)",
+            "crc": "352a570d",
+            "md5": "d422d16a28390d395f4c0878c555e52c",
+            "sha1": "9a087b0e6031e7e5e6d133ac82fecb8faa30816a"
         },
         {
             "name": "Space Invaders (Japan)",

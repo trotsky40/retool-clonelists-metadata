@@ -1291,6 +1291,12 @@
             "sha1": "07b6174a413858f84bfc480169945c7fd1a372b9"
         },
         {
+            "name": "Game Boy Gallery 2 (Japan) (SGB Enhanced)",
+            "crc": "9359a183",
+            "md5": "3e35ece810eaa26bb027a18f58cf6dba",
+            "sha1": "021c47f89fa975e4dc5cc32c61bf87b120a25c09"
+        },
+        {
             "name": "Game de Hakken!! Tamagotchi (Japan) (SGB Enhanced)",
             "crc": "efc0f266",
             "md5": "fdd228f59ee0eb8b162054a330039b0a",
@@ -3109,6 +3115,12 @@
             "sha1": "b535b2b78611ba1eb59e530456545fced0fddb76"
         },
         {
+            "name": "Rugrats Movie, The (USA) (SGB Enhanced)",
+            "crc": "124a0d06",
+            "md5": "d29cc1b6fe7709a6d16f00c779499de2",
+            "sha1": "70384eb3474637b81bec3018ebf0c2d6fa1d8a9d"
+        },
+        {
             "name": "SD Lupin Sansei - Kinko Yaburi Daisakusen (Japan)",
             "crc": "f0b73db4",
             "md5": "4ea04ab8fcea4c41f26e44bb4f50d73e",
@@ -3281,6 +3293,12 @@
             "crc": "4892984d",
             "md5": "3d8f6eccc13f3344c8d971b7e141f064",
             "sha1": "07bf2dd8c1bebd40a63fb571c587f0e77286c6a0"
+        },
+        {
+            "name": "Snoopy - Magic Show (Japan) (En) (DX) (v1.0) (Jorge2D, marc_max)",
+            "crc": "1a7718cd",
+            "md5": "6fd39be1e41aea4b354fd291d9677b39",
+            "sha1": "022f1cfad8332d58181d02f133a51f5a3a40b6e4"
         },
         {
             "name": "Snoopy's Magic Show (USA, Europe)",

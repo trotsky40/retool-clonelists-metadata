@@ -595,6 +595,12 @@
             "sha1": "4845575305c3fb2e80407a47f64dfea0d709765a"
         },
         {
+            "name": "Luigi's Mansion Beta Restoration Revamped (v1.5) (Portable Productions) (Hack)",
+            "crc": "2db1c16c",
+            "md5": "1a750f4bfc870c783a3f1db3205a6743",
+            "sha1": "9c361a1ac50e60d6a62557a6383eddf6fb2edb2f"
+        },
+        {
             "name": "MKDD - Double Dash Extended (v2.0) (M64) (Hack)",
             "crc": "a28f9acd",
             "md5": "4bd129355be996112eb3e2f866e83fbc",
@@ -1099,6 +1105,12 @@
             "sha1": "41910f1d4e2425a7dd9cf8ef51205f0a77e124a7"
         },
         {
+            "name": "SMS - Super Doot Sunshine (v1.4.0) (warspyking) (Hack)",
+            "crc": "bf2dd381",
+            "md5": "d0973ab25cae422c418cf220cc12ba9c",
+            "sha1": "39de4e62b5a2451cf6995f7aeb292f7565d0b9a3"
+        },
+        {
             "name": "SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack)",
             "crc": "dac0b67e",
             "md5": "87ce2f412ab216d9f665de01fe8c0b3b",
@@ -1469,6 +1481,12 @@
             "crc": "329b03c9",
             "md5": "90e7ad1498b68cf1bbd18d633268781a",
             "sha1": "64432bc59e31d0d3e9e60526c7f71cbfd32591d2"
+        },
+        {
+            "name": "TimeSplitters 2 (USA)",
+            "crc": "a2f70f74",
+            "md5": "a09228ed315f935febc125a6a8492ff7",
+            "sha1": "54a86f884205d3de60d11f6107e336b84e7bd5c1"
         },
         {
             "name": "Tony Hawk's Pro Skater 4 (USA)",
