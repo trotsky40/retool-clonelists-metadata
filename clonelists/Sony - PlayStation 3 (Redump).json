@@ -1677,15 +1677,6 @@
 			]
 		},
 		{
-			"group": "Mortal Kombat",
-			"titles": [
-				{"searchTerm": "Mortal Kombat"}
-			],
-			"supersets": [
-				{"searchTerm": "Mortal Kombat - Komplete Edition"}
-			]
-		},	
-		{
 			"group": "MotorStorm",
 			"titles": [
 				{"searchTerm": "MotorStorm"}
@@ -2634,17 +2625,6 @@
 				{"searchTerm": "Start the Party! Save the World"}
 			]
 		},
-	{
-			"group": "Street Fighter IV",
-			"titles": [
-				{"searchTerm": "Street Fighter IV"}
-			],
-			"supersets": [
-				{"searchTerm": "Super Street Fighter IV"},
-				{"searchTerm": "Super Street Fighter IV - Arcade Edition"},
-				{"searchTerm": "Ultra Street Fighter IV"}
-			]
-		},
 		{
 			"group": "Super Hero Generation",
 			"titles": [
@@ -3067,4 +3047,5 @@
 		}
 	]
 }
+
 
