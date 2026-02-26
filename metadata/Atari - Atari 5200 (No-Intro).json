@@ -281,6 +281,12 @@
 	"Mario Bros. (USA) (Alt)": {
 		"languages": ["En"]
 	},
+	"Mario Bros. (USA) (Beta 1)": {
+		"languages": ["En"]
+	},
+	"Mario Bros. (USA) (Beta 2) (1983-09-14)": {
+		"languages": ["En"]
+	},
 	"Mario Bros. (USA)": {
 		"languages": ["En"]
 	},
@@ -389,10 +395,37 @@
 	"Quest for Quintana Roo (USA)": {
 		"languages": ["En"]
 	},
+	"RealSports Baseball (USA) (Beta) (1983-02-04)": {
+		"languages": ["En"]
+	},
 	"RealSports Baseball (USA) (Beta) (1983-02-11)": {
 		"languages": ["En"]
 	},
+	"RealSports Baseball (USA) (Beta) (1983-02-17)": {
+		"languages": ["En"]
+	},
+	"RealSports Baseball (USA) (Beta) (1983-03-21)": {
+		"languages": ["En"]
+	},
+	"RealSports Baseball (USA) (Beta) (1983-04-14)": {
+		"languages": ["En"]
+	},
+	"RealSports Baseball (USA) (Beta) (1983-06-02)": {
+		"languages": ["En"]
+	},
+	"RealSports Baseball (USA) (Beta) (1983-06-15)": {
+		"languages": ["En"]
+	},
+	"RealSports Baseball (USA) (Beta) (1983-06-18)": {
+		"languages": ["En"]
+	},
 	"RealSports Baseball (USA) (Beta) (1983-07-06)": {
+		"languages": ["En"]
+	},
+	"RealSports Baseball (USA) (Beta) (1983-07-19)": {
+		"languages": ["En"]
+	},
+	"RealSports Baseball (USA) (Beta) (Unknown)": {
 		"languages": ["En"]
 	},
 	"RealSports Baseball (USA)": {

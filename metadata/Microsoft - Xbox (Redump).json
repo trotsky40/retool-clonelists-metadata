@@ -2779,6 +2779,10 @@
 	"Harry Potter and the Chamber of Secrets (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Harry Potter and the Chamber of Secrets (Korea)": {
+		"languages": ["Ko"],
+		"localName": "해리포터와 비밀의 방"
+	},
 	"Harry Potter and the Chamber of Secrets (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},

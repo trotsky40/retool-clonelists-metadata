@@ -5585,19 +5585,19 @@
 	},
 	"DESR-7000-DESR-5000 Sen'you - PSX Update Disc Ver. 1.10 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００専用　－＇ＰＳＸ－＇アップデートディスクＶｅｒ．１．１０"
+		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００専用　＇ＰＳＸ＇アップデートディスクＶｅｒ．１．１０"
 	},
 	"DESR-7000-DESR-5000 Sen'you - PSX Update Disc Ver. 1.20 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００専用　－＇ＰＳＸ－＇アップデートディスクＶｅｒ．１．２０"
+		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００専用　＇ＰＳＸ＇アップデートディスクＶｅｒ．１．２０"
 	},
 	"DESR-7000-DESR-5000-DESR-7100-DESR-5100 Sen'you - PSX Update Disc Ver. 1.31 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００－ＤＥＳＲ－７１００－ＤＥＳＲ－５１００専用　－＇ＰＳＸ－＇アップデートディスクＶｅｒ．１．３１"
+		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００－ＤＥＳＲ－７１００－ＤＥＳＲ－５１００専用　＇ＰＳＸ＇アップデートディスクＶｅｒ．１．３１"
 	},
 	"DESR-7500-DESR-5500-DESR-7700-DESR-5700 Sen'you - PSX Update Disc Ver. 2.11 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＤＥＳＲ－７５００－ＤＥＳＲ－５５００－ＤＥＳＲ－７７００－ＤＥＳＲ－５７００専用　－＇ＰＳＸ－＇アップデートディスクＶｅｒ．２．１１"
+		"localName": "ＤＥＳＲ－７５００－ＤＥＳＲ－５５００－ＤＥＳＲ－７７００－ＤＥＳＲ－５７００専用　＇ＰＳＸ＇アップデートディスクＶｅｒ．２．１１"
 	},
 	"DICE - DNA Integrated Cybernetic Enterprises (USA)": {
 		"languages": ["En"]
@@ -7198,8 +7198,7 @@
 		"languages": ["En"]
 	},
 	"Disney-Pixar Gli Incredibili (Italy)": {
-		"languages": ["It"],
-		"localName": "Disney presenta un film Pixar - Gli Incredibili - Una -'normale-' famiglia di supereroi"
+		"languages": ["It"]
 	},
 	"Disney-Pixar Istoriya Igrushek - Bol'shoj Pobeg (Russia)": {
 		"languages": ["Ru"],
@@ -9876,6 +9875,9 @@
 		"languages": ["Ja"],
 		"localName": "ファンタスティックフォーチュン　２　トリプルスター"
 	},
+	"Fantastic Four (USA) (Beta) (2003-08-29)": {
+		"languages": []
+	},
 	"Fantastic Four - Rise of the Silver Surfer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -11371,6 +11373,9 @@
 		"languages": []
 	},
 	"GamePro Action Disc Oct 2003 - Metal Gear Solid 3 (USA) (Unl)": {
+		"languages": []
+	},
+	"GameShark - GSLite (USA) (Unl)": {
 		"languages": []
 	},
 	"GameShark - Game Codes (USA) (Unl) (v5.5)": {
@@ -24783,7 +24788,7 @@
 	},
 	"PS2 Seizou Kensa DISC3 CD-ROM Ver. 5.40 (EU ban) (Europe)": {
 		"languages": [],
-		"localName": "-'ＰＳ２-'　製造検査　ＤＩＳＣ３　ＣＤ－ＲＯＭ　Ｖｅｒ．　５．４０　（ＥＵ版）"
+		"localName": "'ＰＳ２'　製造検査　ＤＩＳＣ３　ＣＤ－ＲＯＭ　Ｖｅｒ．　５．４０　（ＥＵ版）"
 	},
 	"PSi2 15 (Germany) (Unl)": {
 		"languages": []
@@ -26309,7 +26314,7 @@
 	},
 	"Prismix - PlayStation 2 Sen'you Music Visual Soft - Demo Disc Vol. 1 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＰＲＩＳＭＩＸ　－＇プレイステーション２－＇専用　ミュージックビジュアルソフト　～Ｄｅｍｏ　Ｄｉｓｃ　Ｖｏｌ．１～"
+		"localName": "ＰＲＩＳＭＩＸ　＇プレイステーション２＇専用　ミュージックビジュアルソフト　～Ｄｅｍｏ　Ｄｉｓｃ　Ｖｏｌ．１～"
 	},
 	"Prisoner of War (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -33462,7 +33467,7 @@
 	"Street Dance (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Street Fighter Alpha Anthology (Europe)": {
+	"Street Fighter Alpha Anthology (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Street Fighter Alpha Anthology (USA)": {
